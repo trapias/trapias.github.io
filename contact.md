@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /Contact/
+permalink: /contact/
 ---
 
 #Contact me
@@ -43,7 +43,7 @@ permalink: /Contact/
 <div id="usrMsg">
 </div>
 
- 
+
  
 <script>
 function send()
