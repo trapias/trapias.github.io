@@ -42,6 +42,11 @@ h1,h2,h3,h4,h5,h6, legend, .bdate{
 
 h3,h4,h5,h6{color: #666}
 
+.ulPages h3, 
+.ulPages h4,
+.ulPages h5,
+.ulPages h6{color: $white}
+
 // Nicolas Gallagher's micro clearfix hack
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
