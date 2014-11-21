@@ -1,17 +1,36 @@
 ---
-layout: default
+layout: sidebar
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
+
+	<div class="row">
+		<div class="col-xs-1">
+			<div class="bdate">
+				<div class="year">{{ page.date | date: "%Y" }}</div>
+				<div class="month">{{ page.date | date: "%b" }}</div>
+				<div class="day">{{ page.date | date: "%d" }}</div>
+			</div>
+		</div>
+		<div class="col-xs-11"><h1>{{ page.title }}</h1></div>
+	</div>
+	<div class="row">
+		<div class="col-xs-12">
+			<div class="addthis_native_toolbox"></div>
+		</div>
+	</div>	
 
   <div class="entry">
     {{ content }}
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    <b>Published</b>: {{ page.date | date: "%F" }}
   </div>
+	<b>Tags</b>: {% for tag in page.tags %}
+	<span class="badge">{{ tag }}</span> 
+	{% endfor %}
+	
 
   {% include disqus.html disqus_identifier=page.disqus_identifier %}
 </article>

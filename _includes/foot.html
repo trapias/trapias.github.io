@@ -1,0 +1,33 @@
+    <div class="row wrapper-footer">
+      
+        <footer class="footer">
+			<div class="col-md-4">
+				<ul class="nav navbar-nav pull-left">
+				{% include svg-icons.html %}
+			  </ul>
+			</div>
+			<div class="col-md-4">
+				<div class="scrollup"><a href="#"><span class="glyphicon glyphicon-upload" aria-hidden="true"></span></a></div>
+			</div>
+			<div class="col-md-4">
+			<ul class="nav navbar-nav pull-right">
+				<li><a href="/contact">Contact me</a></li>
+			  </ul>
+			</div>
+			 
+        </footer>
+       
+    </div>
+<!--<script type="application/javascript" src="/assets/jquery/jquery.min.js"></script>-->
+<script type="application/javascript" src="/assets/bootstrap/js/bootstrap.js"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-546d1c7815db644a" async="async"></script>
+<script type="application/javascript" src="/assets/mandrill.min.js"></script>
+<script>
+ $(function(){
+	
+	 $('.scrollup').click(function () {
+            $("html, body").animate({ scrollTop: 0 }, 600);
+            return false;
+        });
+  });
+</script>

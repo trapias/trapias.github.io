@@ -1,0 +1,25 @@
+---
+layout: default
+title: DNN modules
+categories: dnn
+---
+
+<h1>Dnn Resources</h1>
+
+<ul class="ulPages">
+{% for page in site.pages %}
+ 
+{% for pc in page.categories %}
+{% if pc == "dnn"%}
+{% if page.url != "/dnn/index.html" %}
+<li>
+	<a href="{{ page.url }}">
+	 <h3>{{page.title}}: {{ page.subtitle }}</h3>
+	<p>{{ page.description }}</p>
+	</a>
+</li>
+ {% endif %}
+ {% endif %}	
+{% endfor %} 
+{% endfor %}
+</ul>

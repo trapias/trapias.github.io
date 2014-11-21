@@ -1,5 +1,28 @@
 ---
-layout: default
+layout: home
 ---
 
-Welcome to AL's
+<div class="ContainerWrapper FluidYellow">
+<div class="container FluidYellow text-center">
+         
+	<h1 class="hand" style="font-size: 96px;">Welcome to AL's</h1>
+	<h3>Alberto Velo, Italy</h3>
+</div>
+
+</div>  
+
+
+<div class="container posts">
+  {% for post in site.posts limit:6 %}
+    <article class="post-home">    
+      
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%D" }}  - {{ post.title }}</a></h2>
+		
+      <div class="entry">
+        {{ post.excerpt }}
+		   <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      </div>
+           
+    </article>
+  {% endfor %}
+</div>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+  <body data-spy="scroll" data-target="#TocAffix">
+	  {% include navbar.html %}
+
+    <div id="main" role="main" class="container page">
+        
+         <div class="row">
+			<div class="col-xs-9">
+				  {{ content }}
+			</div>
+				  <div class="col-xs-3" id="TocAffix">
+				<ul class="nav nav-tabs nav-stacked" data-spy="affix" data-offset-top="200">           
+				</ul>
+			</div>
+        </div>
+    </div>
+
+	  {% include foot.html %}
+      {% include analytics.html %}
+      <script>
+      $(function(){
+      
+          var i=0;
+          $('body').find('h2').each(function(element){
+              //console.log('found ' + this + ', = ' + element);
+              i++;
+              
+              $(this).before('<a name="H' + element + '"></a>');
+              
+              var t = $(this).text();
+              $('#TocAffix > ul').append('<li><a href="#H' + element + '">' + t + '</a></li>');
+              /*if(i==1)
+              {
+                  $('#TocAffix > ul').append('<li class="active"><a href="H' + element + '">' + t + '</a></li>');
+              }
+              else{
+                  $('#TocAffix > ul').append('<li><a href="H' + element + '">' + t + '</a></li>');
+              }*/
+              
+          });
+          
+          //<li class="active"><a href="#section-1">Section One</a></li>
+          
+      });
+      </script>
+  </body>
+</html>
