@@ -115,8 +115,8 @@ Then you must configure the aspect of your slideshow: choose a Visualization Plu
 
 Finally save module configuration, and enjoy your new slideshow! 
 
-## Fork
-Fork this project at Github [https://github.com/trapias/XSLideShow](https://github.com/trapias/XSLideShow).
+## Download / Fork
+Download or Fork this project at Github [https://github.com/trapias/XSLideShow](https://github.com/trapias/XSLideShow).
 
 ## Comments
 {% include disqus.html disqus_identifier=page.disqus_identifier %}
