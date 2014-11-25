@@ -35,6 +35,7 @@ I put a couple of sample export files in the xlsx subfolder.
 	columnHeadings = ['List', 'Title', 'Link', 'Description', 'Checklists', 'Comments', 'Attachments', 'Votes', 'Spent', 'Estimate', 'Due', 'Members', 'Labels']
 
 ---
+
 ### Formatting
 I tried formatting data in a readable format, suggest changes if you don't like how it is now.
 

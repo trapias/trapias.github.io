@@ -207,12 +207,8 @@ footer, .footer {
 	max-width: 100%;
 }
 
-ul.uldisc{
-	list-style: circle;
-}
-
-ul.uldisc li{
-	margin-left: 20px;
+ul, ol{
+	list-style: square inside;
 }
 
 .ulPages li{
