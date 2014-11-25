@@ -120,7 +120,7 @@ img.avatar{
 	background-color: #FFD000;
 }
 
-a, a:visited, a:focus, .badge{
+a, a:visited, a:focus{
 	color: $viola;
 }
 
@@ -277,6 +277,7 @@ ul.nav-tabs.affix{
 .scrollup a span,
 .scrollup span {color: $white;}
 
+.badge{background-color: $viola}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
