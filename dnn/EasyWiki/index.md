@@ -82,7 +82,6 @@ EasyWiki extensions consist of XSLT files you can publish at two different level
 
 Local extensions have priority, that is if a local extension exists with the same name of a shared extensions, the local one will be used.
 
-
 **Extension** |  **Description** |  **Syntax**
 ---------------|------------------|---------------|
 sql2table	| Executes an SQL query showing results as a wiki table |  ``` <<<sql2table select="">>> ```

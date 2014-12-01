@@ -19,11 +19,8 @@ permalink: /about/
 <div class="col-md-6">
 <a class="twitter-timeline" href="https://twitter.com/trapias" data-widget-id="364411931576119298">@trapias</a>
 <script>
-jQuery(function($)
-{
-$(window).load(function () {
+window.onload = function () {
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-});
-});
+};
 </script>
 </div>
