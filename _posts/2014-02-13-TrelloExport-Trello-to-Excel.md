@@ -2,6 +2,7 @@
 layout: post
 title: TrelloExport - Trello to Excel
 permalink: /blog/trelloexport-trello-to-excel
+poster: https://d2k1ftgv7pobq7.cloudfront.net/meta/p/res/images/c13d1cd96a2cff30f0460a5e1860c5ea/header-logo-blue.svg
 tags: trello
 ---
 

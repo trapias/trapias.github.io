@@ -128,14 +128,27 @@ a, a:visited, a:focus{
 // .main
 //
 
-.posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+/* blog */
+.col-md-4.blog img{margin: auto}
+
+.col-md-6.blog,
+.col-md-8.blog{padding: 8% 0}
+.entry, .tags{padding: 0 1%};
+.posts > .row{padding: 10px}
+/*.posts > .row:nth-child(odd){
+}*/
+.posts > .row:nth-child(even){
+    background-color: #eee;
+    text-align: right;
+}
+.posts > .row {
+  padding-bottom: 1em;
+//  border-bottom: 1px solid $lightGray;
 }
 
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
+.posts > .row:last-child {
+  margin-bottom: 2em;
+//  border-bottom: none;
 }
 
 .post { 
