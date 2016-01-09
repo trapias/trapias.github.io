@@ -34,6 +34,9 @@ body {
 //	font-family: $helvetica;
   color: $darkGray;
 	font-family: 'Open Sans', sans-serif;
+	display: flex;
+    min-height: 100vh;
+    flex-direction: column;
 }
 
 h1,h2,h3,h4,h5,h6, legend, .bdate{
@@ -108,6 +111,7 @@ img{
 
 .container.page{
 	padding-top: 60px;
+    flex: 1;
 }
 
 img.avatar{

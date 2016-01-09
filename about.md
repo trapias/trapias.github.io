@@ -13,6 +13,11 @@ permalink: /about/
 <p>If you want to get in touch just follow me on <a href="https://twitter.com/trapias" target="_blank">Twitter</a>, <a href="https://plus.google.com/+AlbertoVelo-AL" target="_blank">Google+</a>, <a href="https://www.facebook.com/alberto.velo.69" target="_blank">FaceBook</a> or <a href="https://github.com/trapias/" target="_blank">GitHub</a>, or fill-in the <a href="/contact">contact form</a> on this site.</p>
 </blockquote>
 <p>&nbsp;</p>
+<blockquote class="alert alert-warning"> 
+If you wish to sponsorize the development of one of my opensource projects you can now <a href="/donate">make a donation</a>.
+
+<p>Thank you!</p>
+</blockquote>
 <p>&nbsp;</p>
 </div>
 
