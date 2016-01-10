@@ -39,6 +39,8 @@ As per the multiple 'Done list name' prefixes, the 'Filter lists by name' input 
 ## Feedback!
 Your feedback is welcome on all these new features! Also consider some bugs could come out: if so, please open an issue on [GitHub](https://github.com/trapias/trelloExport/issues) or contact me, I'll do my best to fix it quickly.
 
+## Donate?
+If you wish to support the development of this tool, you can now [make a donation](http://trapias.github.io/donate/).
 
 ## Download
 Get TrelloExport on GitHub at [https://github.com/trapias/trelloExport](https://github.com/trapias/trelloExport), and follow the installation instructions in the readme.
