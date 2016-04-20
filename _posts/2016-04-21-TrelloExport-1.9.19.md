@@ -35,7 +35,7 @@ You can edit Markdown with any text editor, or with dedicated editors like [MacD
 
 Is this feature interesting to you? Let me know!
 
-## Feedback!
+## Feedback
 Your feedback is welcome on all these new features! Also consider some bugs could come out: if so, please open an issue on [GitHub](https://github.com/trapias/trelloExport/issues) or contact me, I'll do my best to fix it quickly.
 
 ## Donate?
