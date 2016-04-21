@@ -33,9 +33,9 @@ You can edit Markdown with any text editor, or with dedicated editors like [MacD
 
 **This is meant to produce reports**: TrelloExport will export boards, lists, cards, comments, chechlists and attachments information into an .MD file, formatting all of them in a "readable" format. It is then up to you to do whatever you want with the file: print, export, edit it as needed.
 
-Is this feature interesting to you? Let me know!
+Is this feature interesting to you? Let me know
 
-## Feedback!
+## Feedback
 Your feedback is welcome on all these new features! Also consider some bugs could come out: if so, please open an issue on [GitHub](https://github.com/trapias/trelloExport/issues) or contact me, I'll do my best to fix it quickly.
 
 ## Donate?
