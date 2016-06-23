@@ -4,7 +4,7 @@ title: Donate
 permalink: /donate/
 ---
 
-#Support open source development
+# Support open source development
 
 <div class="col-md-12">
 <blockquote class="alert alert-warning"> 
