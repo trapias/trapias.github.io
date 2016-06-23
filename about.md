@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-#About me
+# About me
 
 <div class="col-md-6">
 <blockquote class="alert alert-warning"> 
