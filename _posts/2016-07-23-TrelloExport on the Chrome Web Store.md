@@ -23,7 +23,7 @@ Please see other posts on this site for more details and features.
 ## Going to the store
 After a long time, I decided to push TrelloExport to the Chrome Web Store: you can now find it on store and install from there, without the need to download from Github and manually do a local install.
 
-Go to the store at the following URL to grab it (it is not yet visible if you search for it, but I guess it will in a few days):
+Go to the store at the following URL to grab it ~~(it is not yet visible if you search for it, but I guess it will in a few days)~~:
 
 [https://chrome.google.com/webstore/detail/trelloexport/kmmnaeamjfdnbhljpedgfchjbkbomahp](https://chrome.google.com/webstore/detail/trelloexport/kmmnaeamjfdnbhljpedgfchjbkbomahp)
 

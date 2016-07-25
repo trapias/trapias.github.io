@@ -9,6 +9,10 @@ tags: trello
 
 [TrelloExport](https://github.com/trapias/trelloExport) is a Chrome extension to export data from Trello to Excel. I just pushed on Github an updated version, which supports exporting more data like checklists and comments.
 
+# Update: available on Chrome Web Store
+Since July, 23, 2016 TrelloExport is [available on the Chrome Web Store](http://trapias.github.io/blog/trelloexport-on-chrome-web-store).
+
+
 # TrelloExport 1.8.8
 You can get TrelloExport at [https://github.com/trapias/trelloExport](https://github.com/trapias/trelloExport).
 This is a fork of the original TrelloExport extension, available at [https://github.com/llad/export-for-trello](https://github.com/llad/export-for-trello).
