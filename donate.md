@@ -15,4 +15,5 @@ If you wish to sponsorize the development of any of of my opensource projects yo
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+</blockquote>
 </div>
