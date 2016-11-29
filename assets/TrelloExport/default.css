@@ -1,6 +1,12 @@
 @import "http://fonts.googleapis.com/css?family=Open+Sans";
 @import "http://fonts.googleapis.com/css?family=Patrick+Hand+SC";
 
+html, body, footer, .footer {
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+}
+
 html {
   font-size: 100%;
   font-family: 'Open Sans', sans-serif;
