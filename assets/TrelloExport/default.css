@@ -1,0 +1,51 @@
+@import "http://fonts.googleapis.com/css?family=Open+Sans";
+@import "http://fonts.googleapis.com/css?family=Patrick+Hand+SC";
+
+html {
+  font-size: 100%;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+body {
+  background: #fff;
+  color: #333;
+  font-family: 'Open Sans', sans-serif;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+h1, h2, h3, h4, h5, h6, legend, .bdate {
+  font-family: 'Patrick Hand SC';
+}
+
+h3, h4, h5, h6 {
+  color: #666;
+}
+
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+img {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.FluidYellow {
+  background-color: #FFD000;
+}
+
+a, a:visited, a:focus {
+  color: #BB2DFF;
+}
+
