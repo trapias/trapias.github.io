@@ -33,19 +33,33 @@ h1, h2, h3, h4, h5, h6, legend, .bdate {
   font-family: 'Patrick Hand SC';
   padding: 0;
   margin: 0;
+  padding-left: 10px;
 }
 
-h2 {
+h1 {
   background-color: #FFD000;
   color: black;
   padding: 10px;
   font-size: 2em;
 }
 
+h2 {
+  color: #000;
+  padding: 10px;
+  font-size: 1.8em;
+  border: solid 2px #FFD000;
+  margin-top: 10px;
+}
+
 h3 {
   color: #B229FF;
   padding: 10px 10px 0 10px;
   font-size: 1.5em;
+}
+
+h4 {
+  font-size: 1.3em;
+  text-decoration: underline;
 }
 
 p {
