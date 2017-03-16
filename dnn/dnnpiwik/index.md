@@ -13,16 +13,20 @@ DNNPiwik is a module for DotNetNuke that allows you to easily integrate the <a h
 
 <div class="addthis_native_toolbox"></div>
 
-##Download
+## Download
+
 DNNPiwik is on Github, fork it at [https://github.com/trapias/DNNPiwik](https://github.com/trapias/DNNPiwik "https://github.com/trapias/DNNPiwik") or download a [release package](https://github.com/trapias/DNNPiwik/releases) for easy installation via Dnn extensions manager.
 
-##Installation
+## Installation
+
 Grab the release package and install DnnPiwik as any other Dnn module, using Dnn extensions manager. Then add a DnnPiwik module instance to any page and open module settings to configure it.
 
-##Setup
+## Setup
+
 Configuration is very easy: type your Piwik Site ID in "Piwik Site ID", and the URL (withour protocol information!) in "Piwik Host". Optionally select roles you do not want to track.
 
 ![DNNPiwik Settings]({{site_url}}/images/DNNPiwik_Settings.png)
 
-##Comments
+## Comments
+
 {% include disqus.html disqus_identifier=page.disqus_identifier %}

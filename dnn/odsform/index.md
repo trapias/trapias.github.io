@@ -13,15 +13,19 @@ ODS Form is a DotNetNuke module that allows you to publish simple feedback forms
 
 <div class="addthis_native_toolbox"></div>
 
-##Site update in progress
+## Site update in progress
+
 ODSForm is moving from [http://albe.ihnet.it/Software/ODS-Form](http://albe.ihnet.it/Software/ODS-Form) to [http://trapias.github.io/dnn/odsform/](http://trapias.github.io/dnn/odsform/). Please be patient, content will soon be moved here.
 
 
-##Fork
+## Fork
+
 Fork this project at Github [https://github.com/trapias/ODSForm](https://github.com/trapias/ODSForm).
 
-##Trello Board
+## Trello Board
+
 See changes on the dedicated Trello board at [https://trello.com/b/vZuoVDnV/ods-form](https://trello.com/b/vZuoVDnV/ods-form).
 
-##Comments
+## Comments
+
 {% include disqus.html disqus_identifier=page.disqus_identifier %}
