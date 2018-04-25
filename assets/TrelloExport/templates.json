@@ -1,4 +1,5 @@
 [
     { name: 'html', url: 'http://trapias.github.io/assets/TrelloExport/html.twig', description: 'Default HTML' },
-    { name: 'bibliography', 'http://trapias.github.io/assets/TrelloExport/bibliography.twig', description: 'Bibliography HTML', css: chrome.extension.getURL('/templates/bibliography.css'), }
+    { name: 'bibliography', 'http://trapias.github.io/assets/TrelloExport/bibliography.twig', 
+     description: 'Bibliography HTML', 'http://trapias.github.io/assets/TrelloExport/bibliography.css', }
 ]
