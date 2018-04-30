@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TrelloExport 1.9.43
-tags: trello chrome excel markdown html opml
+tags: trello chrome excel markdown html opml twig
 ---
 
 Export HTML with templates!
@@ -46,6 +46,10 @@ For the HTML export mode we had the possibility to shoose a custom CSS file: now
 
 <br>
 The "template" dropdown allows us to choose a template, while the "template-set" textbox allows to specify from where we want to load our templates. If we leave it empty, it will use "local" templates, that is templates from the installation folder.
+
+### Update, version 1.9.45
+
+Version 1.9.45 adds an array of labels (jsonLabels) to the exported data, and a new button in dialog to clear localStorage - this should help if some wrong setting has been incorrectly saved and preventing TrelloExport to work properly.
 
 
 ## Template-Sets
@@ -301,6 +305,17 @@ Custom Fields, from the Trello Custom Fields Power Up, are both exported as an a
 "campo checkbox": "true"
 ```          
 
+### Labels
+
+Update: added in version 1.9.45, jsonLabels is an array of all labels (Trello data).
+
+```json
+"jsonLabels": [
+	{	"id":"545e62d674d650d567b54a34","idBoard":"52f8f8302712d41520ee559a",
+	"name":"Enhancement","color":"yellow"
+	}
+]
+```
 
 ### Usage
 
