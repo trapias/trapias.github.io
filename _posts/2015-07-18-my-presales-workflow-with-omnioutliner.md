@@ -42,7 +42,7 @@ I wanted to export my outlines into something simple and effective, and choose [
 
 ### Project management & tracking
 I love [Trello](https://trello.com). I won't explain what it is here, if you don't know it... just go try it, it's free!
-Being able to automatically export a task list to Trello was mandatory for me. Once my tasks are in Trello I can track working time with tools like [Plus for Trello](http://www.plusfortrello.com/p/about.html), an excellent Chrome extension (mobile apps are coming too) or [Toggl](https://www.toggl.com).
+Being able to automatically export a task list to Trello was mandatory for me. Once my tasks are in Trello I can track working time with tools like [Plus for Trello](https://www.plusfortrello.com/p/about.html), an excellent Chrome extension (mobile apps are coming too) or [Toggl](https://www.toggl.com).
 
 ## Tools
 **Recap**: I use OmniOutliner to begin my project, a spreadhseet like Numbers or Ecel to do calcs, a word processor like Pages or Word to write documents, and Trello to work on the project.

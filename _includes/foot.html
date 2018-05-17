@@ -1,79 +1,74 @@
 <script type="application/javascript" src="/assets/jquery/jquery.min.js"></script>
 <script type="application/javascript" src="/assets/bootstrap/js/bootstrap.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/jquery.cookiebar.js"></script> 
+<script type="text/javascript" src="{{ site.baseurl }}/assets/jquery.cookiebar.js"></script>
 <!-- <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-546d1c7815db644a" async="async"></script> -->
 <div class="container">
-	<div class="row hidden-xs">
-		<div class="col-sm-12 adsense">
-			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-			<ins class="adsbygoogle"
-				 style="display:inline-block;width:728px;height:90px;"
-				 data-ad-client="ca-pub-2762353821976077"
-				 data-ad-slot="7307863341"></ins>
-			<script>
-			if(jQuery.cookieBar('cookies')){
-				(adsbygoogle = window.adsbygoogle || []).push({});
-			}
-			</script>
-		</div>
-	</div>
-	<div class="row hidden-sm hidden-md hidden-lg">
-	<div class="col-xs-12 adsense">
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<!-- Mobile -->
-	<ins class="adsbygoogle"
-	     style="display:block;width:320px;height:90px;"
-	     data-ad-client="ca-pub-2762353821976077"
-	     data-ad-slot="1482030547"
-	     data-ad-format="auto"></ins>
-	<script>
-	if(jQuery.cookieBar('cookies')){
-		(adsbygoogle = window.adsbygoogle || []).push({});
-	}
-	</script>
-	</div>
-	</div>
-	<div class="row">
-	<div class="col-xs-12 text-center">
-		<a href="http://www.amazon.it/?tag=as091-21"> 
-			<img src="http://g-ecx.images-amazon.com/images/G/29/associates/it_logo.png" border="0" alt="In cooperazione con Amazon.it"> 
-		</a> 
-	</div>
-	</div>
+    <div class="row hidden-xs">
+        <div class="col-sm-12 adsense">
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px;" data-ad-client="ca-pub-2762353821976077" data-ad-slot="7307863341"></ins>
+            <script>
+                if (jQuery.cookieBar('cookies')) {
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                }
+            </script>
+        </div>
+    </div>
+    <div class="row hidden-sm hidden-md hidden-lg">
+        <div class="col-xs-12 adsense">
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- Mobile -->
+            <ins class="adsbygoogle" style="display:block;width:320px;height:90px;" data-ad-client="ca-pub-2762353821976077" data-ad-slot="1482030547" data-ad-format="auto"></ins>
+            <script>
+                if (jQuery.cookieBar('cookies')) {
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                }
+            </script>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12 text-center">
+            <a href="http://www.amazon.it/?tag=as091-21">
+                <img src="http://g-ecx.images-amazon.com/images/G/29/associates/it_logo.png" border="0" alt="In cooperazione con Amazon.it">
+            </a>
+        </div>
+    </div>
 </div>
 <footer class="row footer">
-	<div class="col-md-4">
-		<ul class="nav navbar-nav pull-left">
-		{% include svg-icons.html %}
-	  </ul>
-	</div>
-	<div class="col-md-4">
-		<div class="scrollup"><a href="#"><span class="glyphicon glyphicon-upload" aria-hidden="true"></span></a></div>
-	</div>
-	<div class="col-md-4">
-		<ul class="nav navbar-nav pull-right">
-		<li><a href="/donate">Donations</a></li>
-		<li><a href="/privacy-policy">Privacy</a></li>
-		<li><a href="/contact">Contact me</a></li>
-	  </ul>
-	</div>
+    <div class="col-md-4">
+        <ul class="nav navbar-nav pull-left">
+            {% include svg-icons.html %}
+        </ul>
+    </div>
+    <div class="col-md-4">
+        <div class="scrollup"><a href="#"><span class="glyphicon glyphicon-upload" aria-hidden="true"></span></a></div>
+    </div>
+    <div class="col-md-4">
+        <ul class="nav navbar-nav pull-right">
+            <li><a href="/donate">Donations</a></li>
+            <li><a href="/privacy-policy">Privacy</a></li>
+            <li><a href="/contact">Contact me</a></li>
+        </ul>
+    </div>
 </footer>
 <script>
- $(function(){
+    $(function() {
 
- 	$.cookieBar({
-	    fixed: true,
-	    acceptOnScroll: 200,
-	    acceptAnyClick: true,
-	    declineButton: true,
-	    message: "This site uses cookies to track usage and preferences. Please see the <a class=href href=/privacy-policy>Privacy-Policy</a> page for more info.",
-	    policyText: 'Privacy Policy',
-		policyURL: '/privacy-policy/'
-	});
-	
-	 $('.scrollup').click(function () {
-            $("html, body").animate({ scrollTop: 0 }, 600);
+        $.cookieBar({
+            fixed: true,
+            acceptOnScroll: 200,
+            acceptAnyClick: true,
+            declineButton: true,
+            message: "This site uses cookies to track usage and preferences. Please see the <a class=href href=/privacy-policy>Privacy-Policy</a> page for more info.",
+            policyText: 'Privacy Policy',
+            policyURL: '/privacy-policy/'
+        });
+
+        $('.scrollup').click(function() {
+            $("html, body").animate({
+                scrollTop: 0
+            }, 600);
             return false;
         });
-  });
+    });
 </script>

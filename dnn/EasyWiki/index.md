@@ -9,12 +9,12 @@ description: An extensible Wiki module for DotNetNuke built upon XsltDb.
 <h1>{{page.title}}</h1>
 <h2>{{ page.subtitle }}</h2>
 
-EasyWiki is an extensible Wiki module for DotNetNuke built upon [XsltDb](http://xsltdb.codeplex.com/).
+EasyWiki is an extensible Wiki module for DotNetNuke built upon [XsltDb](https://xsltdb.codeplex.com/).
 XsltDb is powerful XSLT module for DotnetNuke. It allows you to do much more than standard XML/XSL module with much less code. XsltDb offers safe database access, AJAX support, visitor interactions, environment integration (dnn properties, request, cookie, session and form values), regular expressions, etc.
 
 
 ## WikiCreole 1.0
-EasyWiki adopts WikiCreole 1.0 markup, please visit [http://www.wikicreole.org](http://www.wikicreole.org) for details. EasyWiki then extends markup with Extensions, and also supports DNN-Token-Replace tokens.
+EasyWiki adopts WikiCreole 1.0 markup, please visit [https://www.wikicreole.org](https://www.wikicreole.org) for details. EasyWiki then extends markup with Extensions, and also supports DNN-Token-Replace tokens.
 Here under the cheat-sheet for WikiCreole 1.0 markup.
 
 ## DNN Integration Features
@@ -48,7 +48,7 @@ An EasyWiki page is stored as XML with the format:
 	</easywiki>
 
 ## markItUp! Editor
-[markItUp](http://markitup.jaysalvat.com/) is a powerful, lightweight, customizable and flexible editor engine. markItUp is the only EasyWiki editor: there's no WYSIWYG editor, but several keystrokes and plugins are used. 
+[markItUp](https://markitup.jaysalvat.com/) is a powerful, lightweight, customizable and flexible editor engine. markItUp is the only EasyWiki editor: there's no WYSIWYG editor, but several keystrokes and plugins are used. 
 
 ![markItUp]({{ site.baseurl }}/images/markitupeditor.png)
 

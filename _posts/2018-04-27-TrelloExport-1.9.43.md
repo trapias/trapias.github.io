@@ -337,7 +337,7 @@ Please open issues at [GitHub](https://github.com/trapias/trelloExport/issues) i
 Your feedback is always welcome. If you have any problem please open an issue on [GitHub](https://github.com/trapias/trelloExport/issues), I'll do my best to fix it quickly.
 
 ## Donate?
-If you wish to support the development of this tool, like Richard did (thanks again!), you can [make a donation](http://trapias.github.io/donate/).
+If you wish to support the development of this tool, like Richard did (thanks again!), you can [make a donation](https://trapias.github.io/donate/).
 
 ## Download
 You can now get TrelloExport from the Chrome Web Store at [this URL](https://chrome.google.com/webstore/detail/trelloexport/kmmnaeamjfdnbhljpedgfchjbkbomahp).

@@ -26,7 +26,7 @@ Please report if you have any issue with the new loading method.
 Your feedback is welcome on all these new features! Also consider some bugs could come out: if so, please open an issue on [GitHub](https://github.com/trapias/trelloExport/issues) or contact me, I'll do my best to fix it quickly.
 
 ## Donate?
-If you wish to support the development of this tool, you can now [make a donation](http://trapias.github.io/donate/).
+If you wish to support the development of this tool, you can now [make a donation](https://trapias.github.io/donate/).
 
 ## Download
 You can now get TrelloExport from the Chrome Web Store at [this URL](https://chrome.google.com/webstore/detail/trelloexport/kmmnaeamjfdnbhljpedgfchjbkbomahp).

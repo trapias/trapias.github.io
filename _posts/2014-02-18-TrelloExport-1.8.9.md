@@ -6,7 +6,7 @@ tags: trello
 ---
 
 
-Following the publication of [TrelloExport 1.8.8 some days ago](http://blog-trapias.rhcloud.com/trelloexport-trello-to-excel/), I now pushed on Github an update for this Chrome extension.
+Following the publication of [TrelloExport 1.8.8 some days ago](https://blog-trapias.rhcloud.com/trelloexport-trello-to-excel/), I now pushed on Github an update for this Chrome extension.
 
 ## What's new in TrelloExport 1.8.9
 New data columns:

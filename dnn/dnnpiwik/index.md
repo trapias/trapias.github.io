@@ -9,7 +9,7 @@ description: DNNPiwik is a module for DotNetNuke that allows you to easily integ
 <h1>{{page.title}}</h1>
 <h2>{{ page.subtitle }}</h2>
 
-DNNPiwik is a module for DotNetNuke that allows you to easily integrate the <a href="http://piwik.org/integrate/" target="_blank">Piwik analytics</a> tracking script in any page, choosing which roles you don't want to track (tipically Administrators).
+DNNPiwik is a module for DotNetNuke that allows you to easily integrate the <a href="https://piwik.org/integrate/" target="_blank">Piwik analytics</a> tracking script in any page, choosing which roles you don't want to track (tipically Administrators).
 
 <div class="addthis_native_toolbox"></div>
 

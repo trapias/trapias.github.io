@@ -10,7 +10,7 @@ description: A free DotNetNuke module to publish photo-galleries / slideshows.
 <h2>{{ page.subtitle }}</h2>
 
 XSLideShow is a free DotNetNuke module to publish photo-galleries / slideshows. 
-XSLideShow is built with [XsltDb](http://xsltdb.codeplex.com/), a great DotNetNuke module that uses XSLT transformations to build dynamic and feature-rich DNN modules very quickly. 
+XSLideShow is built with [XsltDb](https://xsltdb.codeplex.com/), a great DotNetNuke module that uses XSLT transformations to build dynamic and feature-rich DNN modules very quickly. 
 
 <div class="addthis_native_toolbox"></div>
 
@@ -24,19 +24,19 @@ XSLideShow has several visualization plugins, most of which based on freely avai
 
  **Plugin** |  **Credits** |  **Description**
 --------|----------|----------------------|
-thumbnails + Lightbox | [Lightbox](http://leandrovieira.com/projects/jquery/lightbox/)  | This plugin builds a classic view with thumbnails of images, clicking on which you can see the full photos inside Lightbox.
-thumbnails + FancyBox | [Fancybox](http://fancybox.net/)  | This plugin builds a classic view with thumbnails of images, clicking on which you can see the full photos inside FancyBox.  
-Galleria Classic Theme | [Galleria](http://galleria.aino.se/) | This plugin builds a nice framed album with thumbnails 
-thumbnails + Lightbox + fullscreen slideshow with JBGallery | [Lightbox](http://leandrovieira.com/projects/jquery/lightbox/) + [JBGallery](http://maxb.net/scripts/jbgallery-2.0/) | This plugin adds a fullscreen visualization, based on JBGallery, to a classic thumbnails view
-thumbnails + FancyBox + slideshow with JBGallery |  [Fancybox](http://fancybox.net/) + [JBGallery](http://maxb.net/scripts/jbgallery-2.0/) | This plugin adds a fullscreen visualization, based on JBGallery, to a classic thumbnails view. 
-ShineTime | [ShineTime](http://addyosmani.com/blog/shinetime/) | A nice plugin
-jQuery Cycle plugin | [Malsup jQuery Cycle](http://malsup.com/jquery/cycle/) | A single frame slideshow with several transition effects 
-LongTail JW Player (flash player) | [JW Player](http://www.longtailvideo.com/players/jw-player/) | A slideshow built with the great JW Player 
-LongTail JW Image Rotator | [Image Rotator](http://www.longtailvideo.com/players/jw-image-rotator/) | A flash gallery, real full screen with transition effects
-SlidesJS | [SlidesJS](http://slidesjs.com/) | A nice sliding panel with effects
-Supersized | [Supersized](http://www.buildinternet.com/project/supersized/) | A fullscreen gallery
-ContentFlow | [ContentFlow](http://www.jacksasylum.eu/ContentFlow/) | A configurable gallery with multiple view modes
-prettyPhoto | [prettyPhoto](http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/)  |prettyPhoto is a nice lightbox clone.
+thumbnails + Lightbox | [Lightbox](https://leandrovieira.com/projects/jquery/lightbox/)  | This plugin builds a classic view with thumbnails of images, clicking on which you can see the full photos inside Lightbox.
+thumbnails + FancyBox | [Fancybox](https://fancybox.net/)  | This plugin builds a classic view with thumbnails of images, clicking on which you can see the full photos inside FancyBox.  
+Galleria Classic Theme | [Galleria](https://galleria.aino.se/) | This plugin builds a nice framed album with thumbnails 
+thumbnails + Lightbox + fullscreen slideshow with JBGallery | [Lightbox](https://leandrovieira.com/projects/jquery/lightbox/) + [JBGallery](https://maxb.net/scripts/jbgallery-2.0/) | This plugin adds a fullscreen visualization, based on JBGallery, to a classic thumbnails view
+thumbnails + FancyBox + slideshow with JBGallery |  [Fancybox](https://fancybox.net/) + [JBGallery](https://maxb.net/scripts/jbgallery-2.0/) | This plugin adds a fullscreen visualization, based on JBGallery, to a classic thumbnails view. 
+ShineTime | [ShineTime](https://addyosmani.com/blog/shinetime/) | A nice plugin
+jQuery Cycle plugin | [Malsup jQuery Cycle](https://malsup.com/jquery/cycle/) | A single frame slideshow with several transition effects 
+LongTail JW Player (flash player) | [JW Player](https://www.longtailvideo.com/players/jw-player/) | A slideshow built with the great JW Player 
+LongTail JW Image Rotator | [Image Rotator](https://www.longtailvideo.com/players/jw-image-rotator/) | A flash gallery, real full screen with transition effects
+SlidesJS | [SlidesJS](https://slidesjs.com/) | A nice sliding panel with effects
+Supersized | [Supersized](https://www.buildinternet.com/project/supersized/) | A fullscreen gallery
+ContentFlow | [ContentFlow](https://www.jacksasylum.eu/ContentFlow/) | A configurable gallery with multiple view modes
+prettyPhoto | [prettyPhoto](https://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/)  |prettyPhoto is a nice lightbox clone.
 
 ## Media Sources
 Images may come from different media sources:
@@ -61,13 +61,13 @@ XSLideShow can load album definitions from external resources (e.g. a local or r
 	</media>
 	<media filename="d:\inetpub\wwwroot\albe.ihnet.it.dnn\Portals\0\Img\Arcobaleno\DSC_0134.jpg" extension="jpg" href="/Portals/0/Img/Arcobaleno/DSC_0134.jpg" width="" height="" title="Arcobaleno 2" description="Arcobaleno al balcone 2" medium="image" size="" timestamp="">
 	</media>
-	<media filename="http://lh3.ggpht.com/_R4m4nm04fxg/SNGXUnxDguI/AAAAAAAABwQ/C1cCIWhMUnY/s720/Img0322.jpg" extension="jpg" href="http://lh3.ggpht.com/_R4m4nm04fxg/SNGXUnxDguI/AAAAAAAABwQ/C1cCIWhMUnY/s720/Img0322.jpg" width="" height="" title="Img0322" description="Img0322" medium="image" size="" timestamp="">
+	<media filename="https://lh3.ggpht.com/_R4m4nm04fxg/SNGXUnxDguI/AAAAAAAABwQ/C1cCIWhMUnY/s720/Img0322.jpg" extension="jpg" href="https://lh3.ggpht.com/_R4m4nm04fxg/SNGXUnxDguI/AAAAAAAABwQ/C1cCIWhMUnY/s720/Img0322.jpg" width="" height="" title="Img0322" description="Img0322" medium="image" size="" timestamp="">
 	</media>
-	<media filename="http://lh4.ggpht.com/_R4m4nm04fxg/SNGXXniEXSI/AAAAAAAABw8/NHPxzXlObRc/s720/Img0870.jpg" extension="jpg" href="http://lh4.ggpht.com/_R4m4nm04fxg/SNGXXniEXSI/AAAAAAAABw8/NHPxzXlObRc/s720/Img0870.jpg" width="" height="" title="Img0870" description="Img0870" medium="image" size="" timestamp="">
+	<media filename="https://lh4.ggpht.com/_R4m4nm04fxg/SNGXXniEXSI/AAAAAAAABw8/NHPxzXlObRc/s720/Img0870.jpg" extension="jpg" href="https://lh4.ggpht.com/_R4m4nm04fxg/SNGXXniEXSI/AAAAAAAABw8/NHPxzXlObRc/s720/Img0870.jpg" width="" height="" title="Img0870" description="Img0870" medium="image" size="" timestamp="">
 	</media>
-	<media filename="http://lh3.ggpht.com/_R4m4nm04fxg/TAwYbWitt5I/AAAAAAAASyE/RWFh5BF4P20/DSC_1046.JPG" extension="jpg" href="http://lh3.ggpht.com/_R4m4nm04fxg/TAwYbWitt5I/AAAAAAAASyE/RWFh5BF4P20/DSC_1046.JPG" width="" height="" title="Ale&amp;Andrea" description="Ale&amp;Andrea" medium="image" size="" timestamp="">
+	<media filename="https://lh3.ggpht.com/_R4m4nm04fxg/TAwYbWitt5I/AAAAAAAASyE/RWFh5BF4P20/DSC_1046.JPG" extension="jpg" href="https://lh3.ggpht.com/_R4m4nm04fxg/TAwYbWitt5I/AAAAAAAASyE/RWFh5BF4P20/DSC_1046.JPG" width="" height="" title="Ale&amp;Andrea" description="Ale&amp;Andrea" medium="image" size="" timestamp="">
 	</media>
-	<media filename="http://lh5.ggpht.com/_R4m4nm04fxg/SQJvzRfdaEI/AAAAAAAABtc/CKQz1qLSocE/113_1359.JPG" extension="jpg" href="http://lh5.ggpht.com/_R4m4nm04fxg/SQJvzRfdaEI/AAAAAAAABtc/CKQz1qLSocE/113_1359.JPG" width="" height="" title="Ale&amp;Andrea" description="Ale&amp;Andrea" medium="image" size="" timestamp="">
+	<media filename="https://lh5.ggpht.com/_R4m4nm04fxg/SQJvzRfdaEI/AAAAAAAABtc/CKQz1qLSocE/113_1359.JPG" extension="jpg" href="https://lh5.ggpht.com/_R4m4nm04fxg/SQJvzRfdaEI/AAAAAAAABtc/CKQz1qLSocE/113_1359.JPG" width="" height="" title="Ale&amp;Andrea" description="Ale&amp;Andrea" medium="image" size="" timestamp="">
 	</media>
 	</album>
 
@@ -76,7 +76,7 @@ XSLideShow can load album definitions from external resources (e.g. a local or r
 Since version 01.00.10 XSLideShow is packaged as a normal DNN module, and can thus be installed like any other module.
 
 ### Prerequisites
-XSLideShow depends on XsltDb: you have to install XsltDb first. Get it at [Codeplex](http://xsltdb.codeplex.com/) and install as with any DNN module. 
+XSLideShow depends on XsltDb: you have to install XsltDb first. Get it at [Codeplex](https://xsltdb.codeplex.com/) and install as with any DNN module. 
 XSLideShow 01.00.10 has been tested with XsltDb 02.00.75 (latest currently available).
 
 ### Manual Installation
@@ -86,12 +86,12 @@ After downloading the module, extract the contents of the zip file (zip contains
 Then create a new XsltDb instance on a page, click on "edit XSLT" and paste the contents of the xsl file in the editor. Save and publish.
 Then click on the Edit Configuration button, or go to module settings, and proceed with configuration.
 
-If you wish to install on a DNN host with virtual root (e.g. http://localhost/dotnetnuke), you have to modify the function HTTPAlias() in trapias.cs. Modify it to:
+If you wish to install on a DNN host with virtual root (e.g. https://localhost/dotnetnuke), you have to modify the function HTTPAlias() in trapias.cs. Modify it to:
 
 
 	public string HTTPAlias()
 	{
-	       string protocol = "http://";
+	       string protocol = "https://";
 	 
 	       if(HttpContext.Current.Request.IsSecureConnection)
 	              protocol = "https://";

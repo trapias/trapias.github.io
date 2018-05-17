@@ -5,7 +5,7 @@ permalink: /blog/How-to-install-Ghost-on-your-Raspberry-Pi
 poster: https://ununsplash.imgix.net/reserve/LJIZlzHgQ7WPSh5KVTCB_Typewriter.jpg
 tags: node.js ghost raspberrypi
 ---
-Here's how I installed Ghost on my Raspberry Pi with a standard [raspbmc](http://www.raspbmc.com/) installation.
+Here's how I installed Ghost on my Raspberry Pi with a standard [raspbmc](https://www.raspbmc.com/) installation.
 
 <div class="row">
 <div class="col-md-6">
@@ -47,9 +47,9 @@ Note this will take a while to complete, grab a coffee!
 
 ##4. Install Ghost
 
-Install following instructions at http://docs.ghost.org/installation/linux/:
+Install following instructions at https://docs.ghost.org/installation/linux/:
 
 	$ curl -L https://ghost.org/zip/ghost-latest.zip -o ghost.zip $ unzip -uo ghost.zip -d ghost 
     $ cd /path/to/ghost $ npm install --production $ npm start 
 
-To automate running I used forever as documented inhttp://docs.ghost.org/installation/deploy/, and it works perfectly.
+To automate running I used forever as documented inhttps://docs.ghost.org/installation/deploy/, and it works perfectly.

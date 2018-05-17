@@ -28,7 +28,7 @@ You can now choose which columns to export to the final Excel spreadsheet:
 ### HTML custom stylesheet
 
 Perhaps not the better way, but it is now possible to use a custom stylesheet when exporting to HTML: just set the URL to your css file in the box before exporting.
-If not specified, the [default stylesheet](http://trapias.github.io/assets/TrelloExport/default.css) will be used.
+If not specified, the [default stylesheet](https://trapias.github.io/assets/TrelloExport/default.css) will be used.
 
 
 ![Use a custom stylesheet]({{ site.baseurl }}/images/TrelloExport_1.9.34_css.png)
@@ -38,7 +38,7 @@ If not specified, the [default stylesheet](http://trapias.github.io/assets/Trell
 Your feedback is always welcome. If you have any problem please open an issue on [GitHub](https://github.com/trapias/trelloExport/issues) or contact me, I'll do my best to fix it quickly.
 
 ## Donate?
-If you wish to support the development of this tool, you can now [make a donation](http://trapias.github.io/donate/).
+If you wish to support the development of this tool, you can now [make a donation](https://trapias.github.io/donate/).
 
 ## Download
 You can now get TrelloExport from the Chrome Web Store at [this URL](https://chrome.google.com/webstore/detail/trelloexport/kmmnaeamjfdnbhljpedgfchjbkbomahp).
