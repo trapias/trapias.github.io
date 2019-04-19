@@ -10,7 +10,7 @@ permalink: /about/
 <blockquote class="alert alert-warning"> 
 <p> <img src="{{ site.avatar }}" class="avatar" /> I am Alberto Velo, a Web Project Manager and developer living in Italy. 
  If you want to know more about my job please visit <a href="https://www.linkedin.com/in/albertovelo" target="_blank">my LinkedIn profile</a>.</p>
-<p>If you want to get in touch just follow me on <a href="https://twitter.com/trapias" target="_blank">Twitter</a>, <a href="https://plus.google.com/+AlbertoVelo-AL" target="_blank">Google+</a>, <a href="https://www.facebook.com/alberto.velo.69" target="_blank">FaceBook</a> or <a href="https://github.com/trapias/" target="_blank">GitHub</a>, or fill-in the <a href="/contact">contact form</a> on this site.</p>
+<p>If you want to get in touch just follow me on <a href="https://twitter.com/trapias" target="_blank">Twitter</a> and <a href="https://github.com/trapias/" target="_blank">GitHub</a>, or fill-in the <a href="/contact">contact form</a> on this site.</p>
 </blockquote>
 <p>&nbsp;</p>
 <blockquote class="alert alert-warning"> 
