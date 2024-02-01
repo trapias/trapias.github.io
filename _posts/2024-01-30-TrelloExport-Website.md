@@ -10,7 +10,7 @@ summary:
 
 ## New TrelloExport Website
 
-TrelloExport has a new dedicated website at [TrelloExport Website](https://trelloexport.trapias.it/)
+TrelloExport has a new dedicated website at [TrelloExport Website](https://trelloexport.trapias.it/)!
 
 
 ## Feedback
