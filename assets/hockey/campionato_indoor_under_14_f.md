@@ -4,6 +4,7 @@
 Giornata: Gara 246
 Campo: Palestra Torrazza 
 Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Location:  Via Terrazza Piemonte, 14 Torino
 
 
 ## Dom 22/12/2024 12.00
@@ -18,6 +19,7 @@ Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
 Giornata: Gara 248
 Campo: Palestra Torrazza 
 Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Location:  Via Terrazza Piemonte, 14 Torino
 
 
 ## Dom 22/12/2024 14.00
@@ -53,6 +55,7 @@ Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
 Giornata: Gara 253
 Campo: Palestra Torrazza 
 Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Location:  Via Terrazza Piemonte, 14 Torino
 
 
 ## Sab 18/01/2025 14.00
@@ -67,6 +70,7 @@ Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
 Giornata: Gara 255
 Campo: Palestra Torrazza 
 Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Location:  Via Terrazza Piemonte, 14 Torino
 
 # Under 14 Femminile - Indoor  - Girone A / Giornata 3
 ## Dom 26/01/2025 09.30
@@ -74,6 +78,8 @@ Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
 Giornata: Gara 256
 Campo: PALAZZETTO DELL SPORT 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
+Location: Match Ball Bra, 31a, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6995688, longitude=7.8411688)
 
 
 ## Dom 26/01/2025 10.30
@@ -88,6 +94,8 @@ Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 Giornata: Gara 258
 Campo: PALAZZETTO DELL SPORT 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
+Location: Match Ball Bra, 31a, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6995688, longitude=7.8411688)
 
 
 ## Dom 26/01/2025 14.30
@@ -123,6 +131,7 @@ Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 Giornata: Gara 263
 Campo: PALAZZETTO SPORT PINASCA 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
+Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 
 ## Sab 08/02/2025 14.00
@@ -137,4 +146,5 @@ Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 Giornata: Gara 265
 Campo: PALAZZETTO SPORT PINASCA 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
+Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 

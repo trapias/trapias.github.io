@@ -4,6 +4,7 @@
 Giornata: Gara 938
 Campo: Augusto Lorenzoni 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+Location:  VIA MADONNA DEI FIORI, 49 Bra
 
 
 ## Dom 06/10/2024 13.00
@@ -25,6 +26,8 @@ Indirizzo Campo:  Via Goria, 4 - Moncalvo
 Giornata: Gara 941
 Campo: Tazzoli 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 # Under 16 Femminile - OUTDOOR  - Girone A / Giornata 3
 ## Dom 17/11/2024 11.30
@@ -39,6 +42,8 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 Giornata: Gara 943
 Campo: Tazzoli 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 # Under 16 Femminile - OUTDOOR  - Girone A / Giornata 4
 ## Dom 27/04/2025 13.00
@@ -46,6 +51,8 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 Giornata: Gara 1146
 Campo: Tazzoli 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
 ## Sab 03/05/2025 13.00
@@ -67,6 +74,8 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 Giornata: Gara 1149
 Campo: Tazzoli 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 # Under 16 Femminile - OUTDOOR  - Girone A / Giornata 6
 ## Sab 14/06/2025 14.00
@@ -81,4 +90,5 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 Giornata: Gara 1151
 Campo: UMBERTO MICCO 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
+Location:  Via Goria, 4 Moncalvo
 

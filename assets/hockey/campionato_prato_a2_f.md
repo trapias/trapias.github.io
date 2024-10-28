@@ -32,6 +32,8 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 Giornata: Gara 1114
 Campo: Tazzoli 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 # Serie A2 Femminile - OUTDOOR  - Girone A / Giornata 5
 ## Dom 09/03/2025 13.00
@@ -39,6 +41,8 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 Giornata: Gara 1115
 Campo: Tazzoli 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
 ## Dom 09/03/2025 15.00
@@ -53,6 +57,8 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 Giornata: Gara 1117
 Campo: Tazzoli 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
 ## Dom 16/03/2025 09.00
@@ -67,6 +73,8 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 Giornata: Gara 1119
 Campo: Tazzoli 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
 ## Dom 23/03/2025 09.00
@@ -102,6 +110,8 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 Giornata: Gara 1124
 Campo: Tazzoli 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 # Serie A2 Femminile - OUTDOOR  - Girone A / Giornata 10
 ## Sab 10/05/2025 17.00
@@ -137,6 +147,8 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 Giornata: Gara 1129
 Campo: Tazzoli 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 # Serie A2 Femminile - OUTDOOR  - Girone A / Giornata 14
 ## Dom 13/04/2025 11.00
@@ -144,6 +156,8 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 Giornata: Gara 1130
 Campo: CAMPO G.ARNALDI 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
 ## Dom 04/05/2025 11.30
@@ -158,6 +172,8 @@ Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 Giornata: Gara 1132
 Campo: CAMPO G.ARNALDI 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
 ## Dom 18/05/2025 09.00
@@ -172,6 +188,8 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 Giornata: Gara 1134
 Campo: HOCKEY STADIUM ANDREA BRUSCHI 
 Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
+Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
+Geo: Geo(latitude=43.9544528, longitude=10.8243749)
 
 
 ## Dom 11/05/2025 09.00
@@ -207,4 +225,6 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 Giornata: Gara 1139
 Campo: CAMPO G.ARNALDI 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 

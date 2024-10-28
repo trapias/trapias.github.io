@@ -4,6 +4,8 @@
 Giornata: Gara 944
 Campo: Tazzoli 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
 ## Dom 03/11/2024 16.30
@@ -18,6 +20,8 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 Giornata: Gara 946
 Campo: Tazzoli 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
 ## Dom 20/10/2024 10.30
@@ -32,6 +36,7 @@ Indirizzo Campo:  Via Goria, 4 - Moncalvo
 Giornata: Gara 948
 Campo: UMBERTO MICCO 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
+Location:  Via Goria, 4 Moncalvo
 
 
 ## -
@@ -53,6 +58,8 @@ Indirizzo Campo:  Via Goria, 4 - Moncalvo
 Giornata: Gara 1153
 Campo: Tazzoli 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 # Under 14 Femminile - OUTDOOR  - Girone A / Giornata 5
 ## Dom 06/04/2025 10.00
@@ -60,6 +67,7 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 Giornata: Gara 1154
 Campo: Augusto Lorenzoni 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+Location:  VIA MADONNA DEI FIORI, 49 Bra
 
 
 ## Dom 06/04/2025 11.00
@@ -74,6 +82,8 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 Giornata: Gara 1156
 Campo: Tazzoli 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
 ## Dom 04/05/2025 12.00
