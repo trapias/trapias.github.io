@@ -82,7 +82,7 @@ Campo: CAMPO G.ARNALDI
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 # Under 20 Maschile - OUTDOOR  - Girone A / Giornata 6
-## Dom 27/10/2024 11.00
+## Dom 10/11/2024 13.00
 **ASD SUPERBA HC - USD MONCALVESE HOCKEY**
 Giornata: Gara 961
 Campo: CAMPO G.ARNALDI 
@@ -137,7 +137,7 @@ Campo: CAMPO G.ARNALDI
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 # Under 20 Maschile - OUTDOOR  - Girone A / Giornata 9
-## Dom 16/03/2025 10.00
+## Dom 16/03/2025 10.30
 **HC SAVONA - USD MONCALVESE HOCKEY**
 Giornata: Gara 1083
 Campo: CAMPO G.ARNALDI 
@@ -165,7 +165,7 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 Giornata: Gara 1086
 Campo: UMBERTO MICCO 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
-Location: UMBERTO MICCO - Via Goria, 4 Moncalvo
+Location:  Via Goria, 4 Moncalvo
 
 
 ## Dom 30/03/2025 11.00

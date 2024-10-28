@@ -32,7 +32,7 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 Giornata: Gara 972
 Campo: CENTRO S. COMUNALE 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
-Location: CENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Dom 13/10/2024 15.00
@@ -40,7 +40,7 @@ Location: CENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO, 65 Castello d'Ago
 Giornata: Gara 973
 Campo: CENTRO S. COMUNALE 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
-Location: CENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 # Under 14 Maschile - OUTDOOR  - Girone A / Giornata 3
 ## Dom 20/10/2024 10.30
@@ -59,11 +59,11 @@ Campo: Augusto Lorenzoni
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 
-## Dom 20/10/2024 14.00
-**SCUOLA HOCKEY INDER SINGH NEXT GEN - A.S.D. S.H. PAOLO BONOMI**
+## Dom 10/11/2024 11.00
+**A.S.D. S.H. PAOLO BONOMI - SCUOLA HOCKEY INDER SINGH NEXT GEN**
 Giornata: Gara 976
-Campo: Augusto Lorenzoni 
-Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+Campo: CENTRO S. COMUNALE 
+Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 # Under 14 Maschile - OUTDOOR  - Girone A / Giornata 4
 ## Dom 03/11/2024 10.00
@@ -78,7 +78,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 Giornata: Gara 978
 Campo: Augusto Lorenzoni 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
-Location: Augusto Lorenzoni - VIA MADONNA DEI FIORI, 49 Bra
+Location:  VIA MADONNA DEI FIORI, 49 Bra
 
 
 ## Dom 03/11/2024 12.00
@@ -93,7 +93,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 Giornata: Gara 980
 Campo: Augusto Lorenzoni 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
-Location: Augusto Lorenzoni - VIA MADONNA DEI FIORI, 49 Bra
+Location:  VIA MADONNA DEI FIORI, 49 Bra
 
 
 ## Dom 03/11/2024 14.00
@@ -110,21 +110,21 @@ Campo: Augusto Lorenzoni
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 # Under 14 Maschile - OUTDOOR  - Girone A / Giornata 5
-## Dom 09/03/2025 10.00
+## Dom 23/03/2025 10.00
 **SCUOLA HOCKEY INDER SINGH NEXT GEN - SCUOLA HOCKEY INDER SINGH**
 Giornata: Gara 1098
 Campo: Augusto Lorenzoni 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 
-## Dom 09/03/2025 13.00
+## Dom 23/03/2025 13.00
 **HOCKEY CLUB UNIVERSITARIO RASSEMBLEMENT TORINO - SCUOLA HOCKEY INDER SINGH**
 Giornata: Gara 1099
 Campo: Augusto Lorenzoni 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 
-## Dom 09/03/2025 15.00
+## Dom 23/03/2025 15.00
 **HOCKEY CLUB UNIVERSITARIO RASSEMBLEMENT TORINO - SCUOLA HOCKEY INDER SINGH NEXT GEN**
 Giornata: Gara 1100
 Campo: Augusto Lorenzoni 
@@ -191,7 +191,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 Giornata: Gara 1108
 Campo: Augusto Lorenzoni 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
-Location: Augusto Lorenzoni - VIA MADONNA DEI FIORI, 49 Bra
+Location:  VIA MADONNA DEI FIORI, 49 Bra
 
 
 ## Dom 18/05/2025 12.00
@@ -206,7 +206,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 Giornata: Gara 1110
 Campo: Augusto Lorenzoni 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
-Location: Augusto Lorenzoni - VIA MADONNA DEI FIORI, 49 Bra
+Location:  VIA MADONNA DEI FIORI, 49 Bra
 
 
 ## Dom 18/05/2025 14.00

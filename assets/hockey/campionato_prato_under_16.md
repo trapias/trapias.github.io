@@ -36,7 +36,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 Giornata: Gara 1096
 Campo: Augusto Lorenzoni 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
-Location: Augusto Lorenzoni - VIA MADONNA DEI FIORI, 49 Bra
+Location:  VIA MADONNA DEI FIORI, 49 Bra
 
 # Under 16 Maschile - OUTDOOR  - Girone A / Giornata 6
 ## Dom 25/05/2025 11.00
