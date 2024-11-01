@@ -5,6 +5,7 @@
 Giornata: Gara 1
 Campo: CENTRO S. COMUNALE 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Sab 30/11/2024 12.00
@@ -29,6 +30,7 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 Giornata: Gara 4
 Campo: CENTRO S. COMUNALE 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Sab 30/11/2024 15.00
@@ -171,6 +173,7 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 Giornata: Gara 21
 Campo: CENTRO S. COMUNALE 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Sab 11/01/2025 14.00
@@ -187,6 +190,7 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 Giornata: Gara 23
 Campo: CENTRO S. COMUNALE 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Sab 11/01/2025 16.00

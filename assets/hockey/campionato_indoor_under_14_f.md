@@ -22,6 +22,7 @@ Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
 Giornata: Gara 248
 Campo: Palestra Torrazza 
 Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Location:  Via Terrazza Piemonte, 14 Torino
 
 
 ## Dom 22/12/2024 14.00
@@ -148,6 +149,7 @@ Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 Giornata: Gara 263
 Campo: PALAZZETTO SPORT PINASCA 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
+Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 
 ## Sab 08/02/2025 14.00
@@ -164,4 +166,5 @@ Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 Giornata: Gara 265
 Campo: PALAZZETTO SPORT PINASCA 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
+Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 

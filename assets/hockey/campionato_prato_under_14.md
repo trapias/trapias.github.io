@@ -37,6 +37,7 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 Giornata: Gara 972
 Campo: CENTRO S. COMUNALE 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Dom 13/10/2024 15.00
@@ -45,6 +46,7 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 Giornata: Gara 973
 Campo: CENTRO S. COMUNALE 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 # Under 14 Maschile - OUTDOOR  - Girone A / Giornata 3
 ## Dom 20/10/2024 10.30
@@ -87,6 +89,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 Giornata: Gara 978
 Campo: Augusto Lorenzoni 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+Location:  VIA MADONNA DEI FIORI, 49 Bra
 
 
 ## Dom 03/11/2024 12.00

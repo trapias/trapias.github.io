@@ -213,6 +213,8 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 Giornata: Gara 1134
 Campo: HOCKEY STADIUM ANDREA BRUSCHI 
 Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
+Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
+Geo: Geo(latitude=43.9544528, longitude=10.8243749)
 
 
 ## Dom 11/05/2025 09.00

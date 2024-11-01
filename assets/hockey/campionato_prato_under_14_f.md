@@ -76,6 +76,7 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 Giornata: Gara 1154
 Campo: Augusto Lorenzoni 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+Location:  VIA MADONNA DEI FIORI, 49 Bra
 
 
 ## Dom 06/04/2025 11.00
@@ -92,6 +93,8 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 Giornata: Gara 1156
 Campo: Tazzoli 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
 ## Dom 04/05/2025 12.00

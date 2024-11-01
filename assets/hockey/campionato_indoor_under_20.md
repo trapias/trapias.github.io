@@ -5,6 +5,7 @@
 Giornata: Gara 189
 Campo: PALAZZETTO SPORT PINASCA 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
+Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 
 ## Dom 22/12/2024 12.30
@@ -21,6 +22,7 @@ Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 Giornata: Gara 191
 Campo: PALAZZETTO SPORT PINASCA 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
+Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 # Under 20 Maschile - Indoor  - Girone A / Giornata 2
 ## Sab 18/01/2025 12.00
@@ -37,6 +39,7 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 Giornata: Gara 193
 Campo: CENTRO S. COMUNALE 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Sab 18/01/2025 17.00
@@ -45,4 +48,5 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 Giornata: Gara 194
 Campo: CENTRO S. COMUNALE 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 

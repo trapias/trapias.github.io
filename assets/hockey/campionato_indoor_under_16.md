@@ -13,6 +13,7 @@ Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
 Giornata: Gara 196
 Campo: Palestra Torrazza 
 Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Location:  Via Terrazza Piemonte, 14 Torino
 
 
 ## Dom 08/12/2024 14.00
@@ -46,6 +47,7 @@ Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 Giornata: Gara 200
 Campo: PALAZZETTO SPORT PINASCA 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
+Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 
 ## Dom 12/01/2025 14.00
@@ -62,6 +64,7 @@ Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 Giornata: Gara 202
 Campo: PALAZZETTO SPORT PINASCA 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
+Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 # Under 16 Maschile - Indoor  - Girone A / Giornata 3
 ## Dom 26/01/2025 12.30
@@ -78,6 +81,8 @@ Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 Giornata: Gara 204
 Campo: PALAZZETTO DELL SPORT 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
+Location: Match Ball Bra, 31a, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6995688, longitude=7.8411688)
 
 
 ## Dom 26/01/2025 16.30

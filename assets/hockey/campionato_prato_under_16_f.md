@@ -5,6 +5,7 @@
 Giornata: Gara 938
 Campo: Augusto Lorenzoni 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+Location:  VIA MADONNA DEI FIORI, 49 Bra
 
 
 ## Dom 06/10/2024 13.00

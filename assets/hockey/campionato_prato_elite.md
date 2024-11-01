@@ -182,6 +182,8 @@ Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 Giornata: Gara 466
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+Location: Via delle Tre Fontane, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8383776, longitude=12.4768886)
 
 
 ## Sab 05/04/2025 15.00
@@ -315,6 +317,8 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 Giornata: Gara 482
 Campo: A. Maxia 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
+Location: Viale Guglielmo Marconi, Pula, Casteddu/Cagliari, Sardigna/Sardegna, 09010, Italia
+Geo: Geo(latitude=39.015433, longitude=9.0053486)
 
 
 ## Sab 10/05/2025 15.00

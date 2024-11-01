@@ -74,6 +74,7 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 Giornata: Gara 215
 Campo: CENTRO S. COMUNALE 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Sab 18/01/2025 16.00
@@ -98,6 +99,7 @@ Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
 Giornata: Gara 218
 Campo: Palestra Torrazza 
 Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Location:  Via Terrazza Piemonte, 14 Torino
 
 
 ## Sab 25/01/2025 13.00
@@ -131,6 +133,7 @@ Location:  Via Terrazza Piemonte, 14 Torino
 Giornata: Gara 222
 Campo: PALAZZETTO SPORT PINASCA 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
+Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 
 ## Dom 09/02/2025 12.00
@@ -155,6 +158,7 @@ Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 Giornata: Gara 225
 Campo: PALAZZETTO SPORT PINASCA 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
+Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 
 ## Dom 09/02/2025 15.00
