@@ -59,7 +59,7 @@ Indirizzo Campo:  Via Goria, 4 - Moncalvo
 Location:  Via Goria, 4 Moncalvo
 
 
-## -
+## Dom 16/03/2025 17.00
 **CUS TORINO - ASD HF LORENZONI**
 
 Giornata: Gara 949
@@ -103,7 +103,6 @@ Campo: Augusto Lorenzoni
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location:  VIA MADONNA DEI FIORI, 49 Bra
 
 
 ## Dom 06/04/2025 11.00

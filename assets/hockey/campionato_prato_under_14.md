@@ -227,7 +227,7 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 
 
-## Dom 23/03/2025 15.00
+## Dom 23/03/2025 14.45
 **HOCKEY SU PRATO VALCHISONE - A.S.D. S.H. PAOLO BONOMI**
 
 Giornata: Gara 1103

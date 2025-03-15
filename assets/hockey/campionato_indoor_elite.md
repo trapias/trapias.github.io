@@ -236,7 +236,6 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Sab 11/01/2025 14.00
@@ -308,7 +307,7 @@ Location:  Via Chiarugi, 5 - Via Chiarugi, 5 Pisa
 
 
 ## Sab 25/01/2025 14.00
-**HOCKEY CLUB BONDENO - HOCKEY SU PRATO VALCHISONE**
+**CUS PISA ASD - BUTTERFLY ROMA HCC**
 
 Giornata: Gara 28
 
@@ -316,7 +315,6 @@ Campo: Palestra Geodetica Cus Pisa
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location:  Via Chiarugi, 5 - Via Chiarugi, 5 Pisa
 
 
 ## Sab 25/01/2025 15.00
@@ -331,7 +329,7 @@ Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
 
 ## Sab 25/01/2025 16.00
-**CUS PISA ASD - BUTTERFLY ROMA HCC**
+**HOCKEY CLUB BONDENO - HOCKEY SU PRATO VALCHISONE**
 
 Giornata: Gara 30
 
@@ -339,4 +337,5 @@ Campo: Palestra Geodetica Cus Pisa
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
+Location:  Via Chiarugi, 5 - Via Chiarugi, 5 Pisa
 

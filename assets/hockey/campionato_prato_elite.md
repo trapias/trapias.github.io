@@ -1,5 +1,5 @@
 # Serie A Elite Maschile - OUTDOOR / Giornata 1
-## Sab 01/03/2025 15.00
+## Dom 16/03/2025 15.00
 **A.S.D. TEVERE EUR HOCKEY - HOCKEY SU PRATO VALCHISONE**
 
 Giornata: Gara 445
@@ -39,9 +39,9 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Giornata: Gara 448
 
-Campo: CAMPI SPORTIVI 'SA DUCHESSA' 
+Campo: A. Maxia 
 
-Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 2
@@ -69,7 +69,7 @@ Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemon
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
-## Sab 08/03/2025 15.00
+## Sab 08/03/2025 16.00
 **A.S.D. S.H. PAOLO BONOMI - S.G. AMSICORA ASD**
 
 Giornata: Gara 451
@@ -102,7 +102,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 
 
-## Sab 15/03/2025 15.00
+## Sab 15/03/2025 16.00
 **HOCKEY SU PRATO VALCHISONE - POLISPORTIVA FERRINI**
 
 Giornata: Gara 454
@@ -131,9 +131,9 @@ Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 Giornata: Gara 456
 
-Campo: CAMPI SPORTIVI 'SA DUCHESSA' 
+Campo: A. Maxia 
 
-Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 4
@@ -171,7 +171,7 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 
 
-## Sab 22/03/2025 15.00
+## Sab 22/03/2025 16.00
 **LAZIO HOCKEY - S.G. AMSICORA ASD**
 
 Giornata: Gara 460
@@ -206,7 +206,7 @@ Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemon
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
-## Sab 29/03/2025 15.00
+## Sab 29/03/2025 14.00
 **POLISPORTIVA FERRINI - A.S.D. S.H. PAOLO BONOMI**
 
 Giornata: Gara 463
@@ -263,14 +263,14 @@ Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 
 
-## Sab 05/04/2025 15.00
+## Sab 05/04/2025 14.00
 **CENTRO UNIVERSITARIO SPORTIVO CAGLIARI - A.S.D. S.H. PAOLO BONOMI**
 
 Giornata: Gara 468
 
-Campo: CAMPI SPORTIVI 'SA DUCHESSA' 
+Campo: A. Maxia 
 
-Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 7
@@ -377,16 +377,17 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 
 
-## Sab 03/05/2025 15.00
+## Sab 03/05/2025 16.00
 **CENTRO UNIVERSITARIO SPORTIVO CAGLIARI - HOCKEY SU PRATO VALCHISONE**
 
 Giornata: Gara 478
 
-Campo: CAMPI SPORTIVI 'SA DUCHESSA' 
+Campo: A. Maxia 
 
-Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
+Location: Viale Guglielmo Marconi, Pula, Casteddu/Cagliari, Sardigna/Sardegna, 09050, Italia
+Geo: Geo(latitude=39.01534179026612, longitude=9.006108198830711)
 
 
 ## Sab 03/05/2025 15.00
@@ -422,7 +423,7 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 
 
-## Sab 10/05/2025 15.00
+## Sab 10/05/2025 16.00
 **POLISPORTIVA FERRINI - HOCKEY SU PRATO VALCHISONE**
 
 Giornata: Gara 482
@@ -486,9 +487,9 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 Giornata: Gara 487
 
-Campo: CAMPI SPORTIVI 'SA DUCHESSA' 
+Campo: A. Maxia 
 
-Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 
 
@@ -542,13 +543,13 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Giornata: Gara 492
 
-Campo: CAMPI SPORTIVI 'SA DUCHESSA' 
+Campo: A. Maxia 
 
-Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 13
-## Sab 31/05/2025 15.00
+## Sab 31/05/2025 16.00
 **A.S.D. TEVERE EUR HOCKEY - S.G. AMSICORA ASD**
 
 Giornata: Gara 493
@@ -572,7 +573,7 @@ Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemon
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
-## Sab 31/05/2025 15.00
+## Dom 01/06/2025 16.00
 **POLISPORTIVA FERRINI - ASD H.P. CITTA' DEL TRICOLORE**
 
 Giornata: Gara 495
@@ -594,18 +595,18 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 14
-## Sab 14/06/2025 15.00
+## Sab 14/06/2025 16.00
 **CENTRO UNIVERSITARIO SPORTIVO CAGLIARI - A.S.D. TEVERE EUR HOCKEY**
 
 Giornata: Gara 497
 
-Campo: CAMPI SPORTIVI 'SA DUCHESSA' 
+Campo: A. Maxia 
 
-Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 
 
-## Sab 14/06/2025 15.00
+## Sab 14/06/2025 16.00
 **S.G. AMSICORA ASD - HOCKEY SU PRATO VALCHISONE**
 
 Giornata: Gara 498
@@ -617,7 +618,7 @@ Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
 
 
-## Sab 14/06/2025 15.00
+## Sab 14/06/2025 16.00
 **LAZIO HOCKEY - POLISPORTIVA FERRINI**
 
 Giornata: Gara 499
@@ -628,7 +629,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 
 
-## Sab 14/06/2025 15.00
+## Sab 14/06/2025 16.00
 **ASD H.P. CITTA' DEL TRICOLORE - A.S.D. S.H. PAOLO BONOMI**
 
 Giornata: Gara 500

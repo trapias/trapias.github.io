@@ -4,9 +4,9 @@
 
 Giornata: Gara 195
 
-Campo: Palestra Torrazza 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
 
 
@@ -15,11 +15,12 @@ Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
 
 Giornata: Gara 196
 
-Campo: Palestra Torrazza 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location:  Via Terrazza Piemonte, 14 Torino
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 
 ## Dom 08/12/2024 14.00
@@ -27,9 +28,9 @@ Location:  Via Terrazza Piemonte, 14 Torino
 
 Giornata: Gara 197
 
-Campo: Palestra Torrazza 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
 
 
@@ -38,11 +39,12 @@ Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
 
 Giornata: Gara 198
 
-Campo: Palestra Torrazza 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location:  Via Terrazza Piemonte, 14 Torino
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 # Under 16 Maschile - Indoor  - Girone A / Giornata 2
 ## Dom 12/01/2025 11.00

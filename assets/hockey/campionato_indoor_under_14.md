@@ -120,9 +120,9 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Giornata: Gara 217
 
-Campo: Palestra Torrazza 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
 
 
@@ -131,11 +131,12 @@ Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
 
 Giornata: Gara 218
 
-Campo: Palestra Torrazza 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location:  Via Terrazza Piemonte, 14 Torino
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 
 ## Sab 25/01/2025 13.00
@@ -143,9 +144,9 @@ Location:  Via Terrazza Piemonte, 14 Torino
 
 Giornata: Gara 219
 
-Campo: Palestra Torrazza 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
 
 
@@ -154,9 +155,9 @@ Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
 
 Giornata: Gara 220
 
-Campo: Palestra Torrazza 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
 
 
@@ -165,11 +166,12 @@ Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
 
 Giornata: Gara 221
 
-Campo: Palestra Torrazza 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location:  Via Terrazza Piemonte, 14 Torino
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 # Under 14 Maschile - Indoor  - Girone A / Giornata 4
 ## Dom 09/02/2025 11.00
@@ -181,7 +183,6 @@ Campo: PALAZZETTO SPORT PINASCA
 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
-Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 
 ## Dom 09/02/2025 12.00
@@ -215,7 +216,6 @@ Campo: PALAZZETTO SPORT PINASCA
 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
-Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 
 ## Dom 09/02/2025 15.00

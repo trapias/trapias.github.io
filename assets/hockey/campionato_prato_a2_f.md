@@ -43,7 +43,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 
-## Sab 01/03/2025 17.00
+## Mer 07/05/2025 19.00
 **HOCKEY PRATO VALCHISONE FEMMINILE - TORINO UNIVERSITARIA**
 
 Giornata: Gara 1114
@@ -279,7 +279,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 # Serie A2 Femminile - OUTDOOR  - Girone A / Giornata 16
-## Dom 01/06/2025 11.30
+## Dom 01/06/2025 13.00
 **HOCKEY CLUB PISTOIA  - HOCKEY PRATO VALCHISONE FEMMINILE**
 
 Giornata: Gara 1134
@@ -314,7 +314,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 
-## Gio 01/05/2025 11.30
+## Gio 01/05/2025 13.00
 **HOCKEY CLUB GENOVA - HOCKEY CLUB PISTOIA **
 
 Giornata: Gara 1137

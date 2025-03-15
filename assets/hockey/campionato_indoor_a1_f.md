@@ -39,32 +39,34 @@ Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
 Giornata: Gara 230
 
-Campo: Palestra Torrazza 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location:  Via Terrazza Piemonte, 14 Torino
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 
-## Sab 18/01/2025 15.00
+## Sab 18/01/2025 14.00
 **USD MONCALVESE HOCKEY - HOCKEY PRATO VALCHISONE FEMMINILE**
 
 Giornata: Gara 231
 
-Campo: Palestra Torrazza 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location:  Via Terrazza Piemonte, 14 Torino
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 
-## Sab 18/01/2025 17.00
+## Sab 18/01/2025 16.00
 **CUS TORINO - USD MONCALVESE HOCKEY**
 
 Giornata: Gara 232
 
-Campo: Palestra Torrazza 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
 

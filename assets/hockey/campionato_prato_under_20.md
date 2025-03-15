@@ -126,7 +126,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 # Under 20 Maschile - OUTDOOR  - Girone A / Giornata 6
-## -
+## Dom 13/04/2025 15.00
 **ASD SUPERBA HC - USD MONCALVESE HOCKEY**
 
 Giornata: Gara 961
@@ -198,7 +198,7 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 
 
-## Dom 09/03/2025 13.30
+## Dom 09/03/2025 13.00
 **GENOVA HOCKEY 1980 - USD MONCALVESE HOCKEY**
 
 Giornata: Gara 1082
@@ -209,7 +209,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 # Under 20 Maschile - OUTDOOR  - Girone A / Giornata 9
-## Dom 16/03/2025 10.30
+## Dom 16/03/2025 11.00
 **HC SAVONA - USD MONCALVESE HOCKEY**
 
 Giornata: Gara 1083
@@ -220,7 +220,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 
-## Dom 16/03/2025 12.00
+## Dom 16/03/2025 13.00
 **GENOVA HOCKEY 1980 - HOCKEY CLUB UNIVERSITARIO RASSEMBLEMENT TORINO**
 
 Giornata: Gara 1084
@@ -231,7 +231,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 
-## Dom 16/03/2025 11.00
+## Ven 25/04/2025 11.00
 **HOCKEY SU PRATO VALCHISONE - ASD SUPERBA HC**
 
 Giornata: Gara 1085
@@ -278,7 +278,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 # Under 20 Maschile - OUTDOOR  - Girone A / Giornata 11
-## Dom 06/04/2025 09.00
+## Dom 06/04/2025 11.00
 **ASD SUPERBA HC - HC SAVONA**
 
 Giornata: Gara 1089

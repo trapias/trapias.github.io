@@ -34,37 +34,39 @@ Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 # Under 20 Maschile - Indoor  - Girone A / Giornata 2
-## Sab 18/01/2025 12.00
+## Sab 08/02/2025 14.00
 **HOCKEY CLUB UNIVERSITARIO RASSEMBLEMENT TORINO - USD MONCALVESE HOCKEY**
 
 Giornata: Gara 192
 
-Campo: CENTRO S. COMUNALE 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
 
 
-## Sab 18/01/2025 15.00
+## Sab 08/02/2025 16.00
 **HOCKEY CLUB UNIVERSITARIO RASSEMBLEMENT TORINO - HOCKEY SU PRATO VALCHISONE**
 
 Giornata: Gara 193
 
-Campo: CENTRO S. COMUNALE 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 
-## Sab 18/01/2025 17.00
+## Sab 08/02/2025 18.00
 **USD MONCALVESE HOCKEY - HOCKEY SU PRATO VALCHISONE**
 
 Giornata: Gara 194
 
-Campo: CENTRO S. COMUNALE 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 

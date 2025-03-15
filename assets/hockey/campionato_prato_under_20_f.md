@@ -65,7 +65,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 # Under 20 Femminile - OUTDOOR  - Girone A / Giornata 4
-## Sab 01/03/2025 16.00
+## Sab 29/03/2025 11.00
 **HOCKEY CLUB GENOVA - CUS TORINO**
 
 Giornata: Gara 1140
@@ -98,7 +98,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 
 
-## Dom 13/04/2025 09.00
+## Sab 08/03/2025 10.00
 **HOCKEY CLUB GENOVA - HF GENOVA 1980**
 
 Giornata: Gara 1143
@@ -109,7 +109,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 # Under 20 Femminile - OUTDOOR  - Girone A / Giornata 6
-## Dom 20/04/2025 11.00
+## Sab 26/04/2025 13.00
 **HF GENOVA 1980 - CUS TORINO**
 
 Giornata: Gara 1144

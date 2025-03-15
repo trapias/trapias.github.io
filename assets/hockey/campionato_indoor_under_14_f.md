@@ -4,11 +4,12 @@
 
 Giornata: Gara 246
 
-Campo: Palestra Torrazza 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location:  Via Terrazza Piemonte, 14 Torino
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 
 ## Dom 22/12/2024 12.00
@@ -16,9 +17,9 @@ Location:  Via Terrazza Piemonte, 14 Torino
 
 Giornata: Gara 247
 
-Campo: Palestra Torrazza 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
 
 
@@ -27,11 +28,12 @@ Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
 
 Giornata: Gara 248
 
-Campo: Palestra Torrazza 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location:  Via Terrazza Piemonte, 14 Torino
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 
 ## Dom 22/12/2024 14.00
@@ -39,9 +41,9 @@ Location:  Via Terrazza Piemonte, 14 Torino
 
 Giornata: Gara 249
 
-Campo: Palestra Torrazza 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
 
 
@@ -50,20 +52,20 @@ Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
 
 Giornata: Gara 250
 
-Campo: Palestra Torrazza 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
 
 # Under 14 Femminile - Indoor  - Girone A / Giornata 2
-## Sab 18/01/2025 10.00
-**ASD HF LORENZONI  - CUS TORINO**
+## Ven 24/01/2025 18.00
+**ASD HF LORENZONI  - USD MONCALVESE HOCKEY**
 
 Giornata: Gara 251
 
-Campo: Palestra Torrazza 
+Campo: PALAZZETTO DELL SPORT 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 
 
@@ -72,45 +74,46 @@ Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
 
 Giornata: Gara 252
 
-Campo: Palestra Torrazza 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
 
 
-## Sab 18/01/2025 13.00
+## Dom 12/01/2025 13.00
 **USD MONCALVESE HOCKEY - HOCKEY PRATO VALCHISONE FEMMINILE**
 
 Giornata: Gara 253
 
-Campo: Palestra Torrazza 
+Campo: PALAZZETTO SPORT PINASCA 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
-Location:  Via Terrazza Piemonte, 14 Torino
+Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 
-## Sab 18/01/2025 14.00
+## Sab 18/01/2025 13.00
 **ASD HF LORENZONI  - HC LARIO**
 
 Giornata: Gara 254
 
-Campo: Palestra Torrazza 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
 
 
-## Sab 18/01/2025 16.00
+## Sab 18/01/2025 15.00
 **CUS TORINO - HOCKEY PRATO VALCHISONE FEMMINILE**
 
 Giornata: Gara 255
 
-Campo: Palestra Torrazza 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  Via Terrazza Piemonte, 14 - Torino
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location:  Via Terrazza Piemonte, 14 Torino
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 # Under 14 Femminile - Indoor  - Girone A / Giornata 3
 ## Dom 26/01/2025 09.30
@@ -172,7 +175,7 @@ Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 
 # Under 14 Femminile - Indoor  - Girone A / Giornata 4
-## Sab 08/02/2025 11.00
+## Dom 16/02/2025 11.00
 **USD MONCALVESE HOCKEY - ASD HF LORENZONI **
 
 Giornata: Gara 261
@@ -183,7 +186,7 @@ Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
 
 
-## Sab 08/02/2025 12.00
+## Dom 16/02/2025 12.00
 **HC LARIO - CUS TORINO**
 
 Giornata: Gara 262
@@ -194,7 +197,7 @@ Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
 
 
-## Sab 08/02/2025 13.00
+## Dom 16/02/2025 13.00
 **HOCKEY PRATO VALCHISONE FEMMINILE - USD MONCALVESE HOCKEY**
 
 Giornata: Gara 263
@@ -206,7 +209,7 @@ Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 
-## Sab 08/02/2025 14.00
+## Dom 16/02/2025 14.00
 **HC LARIO - ASD HF LORENZONI **
 
 Giornata: Gara 264
@@ -217,7 +220,7 @@ Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
 
 
-## Sab 08/02/2025 15.00
+## Dom 16/02/2025 15.00
 **HOCKEY PRATO VALCHISONE FEMMINILE - CUS TORINO**
 
 Giornata: Gara 265
