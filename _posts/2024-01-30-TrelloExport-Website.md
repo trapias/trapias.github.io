@@ -12,6 +12,10 @@ summary:
 
 TrelloExport has a new dedicated website at [TrelloExport Website](https://trelloexport.trapias.it/)!
 
+All updates about TrelloExport are now published there. An [RSS feed](https://trelloexport.trapias.it/blog.rss) is also available.
+
+
+
 
 ## Feedback
 
@@ -26,5 +30,4 @@ If you wish to support the development of this tool, like Richard did (thanks ag
 You can now get TrelloExport from the Chrome Web Store at [this URL](https://chrome.google.com/webstore/detail/trelloexport/kmmnaeamjfdnbhljpedgfchjbkbomahp).
 
 If you want the source version, get them on GitHub at [https://github.com/trapias/trelloExport](https://github.com/trapias/trelloExport), and follow the installation instructions in the readme.
-
 
