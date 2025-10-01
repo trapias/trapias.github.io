@@ -90,7 +90,6 @@ Campo: Campo Comunale
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
 Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Geo (città): Geo(latitude=45.5245578, longitude=9.330925)
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 8
 ## Dom 09/11/2025 14.00
@@ -160,7 +159,6 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-Geo (città): Geo(latitude=45.234561, longitude=8.68714)
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 13
 ## Dom 16/11/2025 11.00

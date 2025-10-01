@@ -88,7 +88,6 @@ Campo: AMSICORA
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Geo (città): Geo(latitude=39.2171994, longitude=9.113311)
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 3
 ## Sab 21/03/2026 15.00
@@ -364,7 +363,6 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-Geo (città): Geo(latitude=44.6086674, longitude=10.5940667)
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 9
 ## Sab 09/05/2026 15.00
