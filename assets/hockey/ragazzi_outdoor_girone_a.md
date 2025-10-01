@@ -158,7 +158,6 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 13
 ## Dom 16/11/2025 11.00
