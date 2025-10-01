@@ -20,6 +20,7 @@ Campo: Campo Comunale
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
 Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Geo (città): Geo(latitude=45.5245578, longitude=9.330925)
 
 # Juniores Maschile - OUTDOOR  - Girone A / Giornata 3
 ## Dom 02/11/2025 11.00
@@ -89,6 +90,7 @@ Campo: UMBERTO MICCO
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
 Location:  Via Goria, 4 Moncalvo
+Geo (città): Geo(latitude=45.050205, longitude=8.2650382)
 
 # Juniores Maschile - OUTDOOR  - Girone A / Giornata 8
 ## Sab 18/10/2025 16.00
