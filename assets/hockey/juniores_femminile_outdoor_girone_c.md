@@ -1,5 +1,6 @@
 # Juniores Femminile - OUTDOOR  - Girone C / Giornata 1
 ## Sab 01/11/2025 14.00
+
 **UH CAPITOLINA - H.POTENZA PICENA**
 
 Giornata: Gara 293
@@ -11,6 +12,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 
 ## Dom 01/03/2026 15.00
+
 **LAZIO HOCKEY - BUTTERFLY ROMA**
 
 Giornata: Gara 294
@@ -22,6 +24,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 # Juniores Femminile - OUTDOOR  - Girone C / Giornata 2
 ## Sab 15/11/2025 15.00
+
 **LAZIO HOCKEY - H.POTENZA PICENA**
 
 Giornata: Gara 295
@@ -33,6 +36,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 
 ## Ven 14/11/2025 19.00
+
 **UH CAPITOLINA - BUTTERFLY ROMA**
 
 Giornata: Gara 296
@@ -44,6 +48,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 # Juniores Femminile - OUTDOOR  - Girone C / Giornata 3
 ## Sab 22/11/2025 15.00
+
 **H.POTENZA PICENA - BUTTERFLY ROMA**
 
 Giornata: Gara 297
@@ -55,6 +60,7 @@ Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 
 ## Sab 22/11/2025 15.00
+
 **UH CAPITOLINA - LAZIO HOCKEY**
 
 Giornata: Gara 298
@@ -66,6 +72,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 # Juniores Femminile - OUTDOOR  - Girone C / Giornata 4
 ## Sab 07/03/2026 15.00
+
 **H.POTENZA PICENA - UH CAPITOLINA**
 
 Giornata: Gara 299
@@ -77,6 +84,7 @@ Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 
 ## Sab 07/03/2026 15.00
+
 **BUTTERFLY ROMA - LAZIO HOCKEY**
 
 Giornata: Gara 300
@@ -88,6 +96,7 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 # Juniores Femminile - OUTDOOR  - Girone C / Giornata 5
 ## Sab 11/04/2026 15.00
+
 **H.POTENZA PICENA - LAZIO HOCKEY**
 
 Giornata: Gara 301
@@ -99,6 +108,7 @@ Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 
 ## Mer 01/04/2026 19.00
+
 **BUTTERFLY ROMA - UH CAPITOLINA**
 
 Giornata: Gara 302
@@ -110,6 +120,7 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 # Juniores Femminile - OUTDOOR  - Girone C / Giornata 6
 ## Sab 09/05/2026 15.00
+
 **BUTTERFLY ROMA - H.POTENZA PICENA**
 
 Giornata: Gara 303
@@ -121,6 +132,7 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 
 ## Mer 08/04/2026 19.00
+
 **LAZIO HOCKEY - UH CAPITOLINA**
 
 Giornata: Gara 304

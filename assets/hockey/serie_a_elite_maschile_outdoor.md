@@ -1,5 +1,6 @@
 # Serie A Elite Maschile - OUTDOOR / Giornata 1
 ## Sab 07/03/2026 15.00
+
 **TEVERE EUR H - BUTTERFLY ROMA**
 
 Giornata: Gara 1
@@ -11,6 +12,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 
 ## Sab 07/03/2026 15.00
+
 **POL FERRINI - HC BRA**
 
 Giornata: Gara 2
@@ -21,7 +23,9 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 
 
-## Sab 07/03/2026 15.00
+<!-- VALCHISONE_START -->
+## Sab 07/03/2026 15.00 ⭐
+
 **HP VALCHISONE - H CITTA' DEL TRICOLORE**
 
 Giornata: Gara 3
@@ -32,9 +36,12 @@ Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
 Geo: Geo(latitude=44.920878, longitude=7.24499)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 07/03/2026 15.00
+
 **LAZIO HOCKEY - SG AMSICORA**
 
 Giornata: Gara 4
@@ -46,6 +53,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 2
 ## Sab 14/03/2026 15.00
+
 **HC BRA - TEVERE EUR H**
 
 Giornata: Gara 5
@@ -57,6 +65,7 @@ Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  C
 
 
 ## Sab 14/03/2026 15.00
+
 **BUTTERFLY ROMA - POL FERRINI**
 
 Giornata: Gara 6
@@ -68,6 +77,7 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 
 ## Sab 14/03/2026 15.00
+
 **H CITTA' DEL TRICOLORE - LAZIO HOCKEY**
 
 Giornata: Gara 7
@@ -78,7 +88,9 @@ Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 
 
-## Sab 14/03/2026 15.00
+<!-- VALCHISONE_START -->
+## Sab 14/03/2026 15.00 ⭐
+
 **SG AMSICORA - HP VALCHISONE**
 
 Giornata: Gara 8
@@ -88,9 +100,12 @@ Campo: AMSICORA
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
+
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 3
 ## Sab 21/03/2026 15.00
+
 **TEVERE EUR H - H CITTA' DEL TRICOLORE**
 
 Giornata: Gara 9
@@ -102,6 +117,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 
 ## Sab 21/03/2026 15.00
+
 **POL FERRINI - SG AMSICORA**
 
 Giornata: Gara 10
@@ -113,6 +129,7 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 
 ## Sab 21/03/2026 15.00
+
 **LAZIO HOCKEY - BUTTERFLY ROMA**
 
 Giornata: Gara 11
@@ -123,7 +140,9 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 
 
-## Sab 21/03/2026 15.00
+<!-- VALCHISONE_START -->
+## Sab 21/03/2026 15.00 ⭐
+
 **HP VALCHISONE - HC BRA**
 
 Giornata: Gara 12
@@ -134,9 +153,12 @@ Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
 Geo: Geo(latitude=44.920878, longitude=7.24499)
+<!-- VALCHISONE_END -->
+
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 4
 ## Sab 28/03/2026 15.30
+
 **SG AMSICORA - TEVERE EUR H**
 
 Giornata: Gara 13
@@ -148,6 +170,7 @@ Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 
 ## Sab 28/03/2026 15.00
+
 **H CITTA' DEL TRICOLORE - POL FERRINI**
 
 Giornata: Gara 14
@@ -159,6 +182,7 @@ Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 
 ## Sab 28/03/2026 15.00
+
 **HC BRA - LAZIO HOCKEY**
 
 Giornata: Gara 15
@@ -169,7 +193,9 @@ Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  C
 
 
 
-## Sab 28/03/2026 15.30
+<!-- VALCHISONE_START -->
+## Sab 28/03/2026 15.30 ⭐
+
 **BUTTERFLY ROMA - HP VALCHISONE**
 
 Giornata: Gara 16
@@ -180,9 +206,12 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
+
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 5
 ## Sab 11/04/2026 15.00
+
 **TEVERE EUR H - POL FERRINI**
 
 Giornata: Gara 17
@@ -194,6 +223,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 
 ## Sab 11/04/2026 15.00
+
 **HC BRA - BUTTERFLY ROMA**
 
 Giornata: Gara 18
@@ -205,6 +235,7 @@ Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  C
 
 
 ## Sab 11/04/2026 15.00
+
 **SG AMSICORA - H CITTA' DEL TRICOLORE**
 
 Giornata: Gara 19
@@ -215,7 +246,9 @@ Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 
 
-## Sab 11/04/2026 15.00
+<!-- VALCHISONE_START -->
+## Sab 11/04/2026 15.00 ⭐
+
 **LAZIO HOCKEY - HP VALCHISONE**
 
 Giornata: Gara 20
@@ -226,9 +259,12 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
+
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 6
 ## Sab 18/04/2026 15.00
+
 **BUTTERFLY ROMA - SG AMSICORA**
 
 Giornata: Gara 21
@@ -239,7 +275,9 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 
 
-## Sab 18/04/2026 15.00
+<!-- VALCHISONE_START -->
+## Sab 18/04/2026 15.00 ⭐
+
 **HP VALCHISONE - TEVERE EUR H**
 
 Giornata: Gara 22
@@ -250,9 +288,12 @@ Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
 Geo: Geo(latitude=44.920878, longitude=7.24499)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 18/04/2026 15.00
+
 **POL FERRINI - LAZIO HOCKEY**
 
 Giornata: Gara 23
@@ -264,6 +305,7 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 
 ## Sab 18/04/2026 15.00
+
 **H CITTA' DEL TRICOLORE - HC BRA**
 
 Giornata: Gara 24
@@ -275,6 +317,7 @@ Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 7
 ## Sab 25/04/2026 15.00
+
 **LAZIO HOCKEY - TEVERE EUR H**
 
 Giornata: Gara 25
@@ -285,7 +328,9 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 
 
-## Sab 25/04/2026 15.00
+<!-- VALCHISONE_START -->
+## Sab 25/04/2026 15.00 ⭐
+
 **HP VALCHISONE - POL FERRINI**
 
 Giornata: Gara 26
@@ -296,9 +341,12 @@ Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
 Geo: Geo(latitude=44.920878, longitude=7.24499)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 25/04/2026 15.00
+
 **SG AMSICORA - HC BRA**
 
 Giornata: Gara 27
@@ -310,6 +358,7 @@ Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 
 ## Sab 25/04/2026 15.00
+
 **H CITTA' DEL TRICOLORE - BUTTERFLY ROMA**
 
 Giornata: Gara 28
@@ -321,6 +370,7 @@ Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 8
 ## Sab 02/05/2026 15.00
+
 **BUTTERFLY ROMA - TEVERE EUR H**
 
 Giornata: Gara 29
@@ -332,6 +382,7 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 
 ## Sab 02/05/2026 15.00
+
 **HC BRA - POL FERRINI**
 
 Giornata: Gara 30
@@ -343,6 +394,7 @@ Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  C
 
 
 ## Sab 02/05/2026 15.00
+
 **SG AMSICORA - LAZIO HOCKEY**
 
 Giornata: Gara 31
@@ -353,7 +405,9 @@ Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 
 
-## Sab 02/05/2026 15.00
+<!-- VALCHISONE_START -->
+## Sab 02/05/2026 15.00 ⭐
+
 **H CITTA' DEL TRICOLORE - HP VALCHISONE**
 
 Giornata: Gara 32
@@ -363,9 +417,12 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+<!-- VALCHISONE_END -->
+
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 9
 ## Sab 09/05/2026 15.00
+
 **TEVERE EUR H - HC BRA**
 
 Giornata: Gara 33
@@ -377,6 +434,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 
 ## Sab 09/05/2026 15.00
+
 **POL FERRINI - BUTTERFLY ROMA**
 
 Giornata: Gara 34
@@ -388,6 +446,7 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 
 ## Sab 09/05/2026 15.00
+
 **LAZIO HOCKEY - H CITTA' DEL TRICOLORE**
 
 Giornata: Gara 35
@@ -398,7 +457,9 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 
 
-## Sab 09/05/2026 15.00
+<!-- VALCHISONE_START -->
+## Sab 09/05/2026 15.00 ⭐
+
 **HP VALCHISONE - SG AMSICORA**
 
 Giornata: Gara 36
@@ -409,9 +470,12 @@ Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
 Geo: Geo(latitude=44.920878, longitude=7.24499)
+<!-- VALCHISONE_END -->
+
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 10
 ## Sab 16/05/2026 15.00
+
 **H CITTA' DEL TRICOLORE - TEVERE EUR H**
 
 Giornata: Gara 37
@@ -423,6 +487,7 @@ Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 
 ## Sab 16/05/2026 15.00
+
 **SG AMSICORA - POL FERRINI**
 
 Giornata: Gara 38
@@ -434,6 +499,7 @@ Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 
 ## Sab 16/05/2026 15.00
+
 **BUTTERFLY ROMA - LAZIO HOCKEY**
 
 Giornata: Gara 39
@@ -444,7 +510,9 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 
 
-## Sab 16/05/2026 15.00
+<!-- VALCHISONE_START -->
+## Sab 16/05/2026 15.00 ⭐
+
 **HC BRA - HP VALCHISONE**
 
 Giornata: Gara 40
@@ -453,9 +521,13 @@ Campo: PINO PALMIERI
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
+Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+<!-- VALCHISONE_END -->
+
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 11
 ## Sab 30/05/2026 15.00
+
 **TEVERE EUR H - SG AMSICORA**
 
 Giornata: Gara 41
@@ -467,6 +539,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 
 ## Sab 30/05/2026 15.00
+
 **POL FERRINI - H CITTA' DEL TRICOLORE**
 
 Giornata: Gara 42
@@ -478,6 +551,7 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 
 ## Sab 30/05/2026 15.00
+
 **LAZIO HOCKEY - HC BRA**
 
 Giornata: Gara 43
@@ -488,7 +562,9 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 
 
-## Sab 30/05/2026 15.00
+<!-- VALCHISONE_START -->
+## Sab 30/05/2026 15.00 ⭐
+
 **HP VALCHISONE - BUTTERFLY ROMA**
 
 Giornata: Gara 44
@@ -499,9 +575,13 @@ Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
 Geo: Geo(latitude=44.920878, longitude=7.24499)
+<!-- VALCHISONE_END -->
+
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 12
-## Sab 06/06/2026 15.00
+<!-- VALCHISONE_START -->
+## Sab 06/06/2026 15.00 ⭐
+
 **HP VALCHISONE - LAZIO HOCKEY**
 
 Giornata: Gara 45
@@ -512,9 +592,12 @@ Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
 Geo: Geo(latitude=44.920878, longitude=7.24499)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 06/06/2026 15.00
+
 **BUTTERFLY ROMA - HC BRA**
 
 Giornata: Gara 46
@@ -526,6 +609,7 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 
 ## Sab 06/06/2026 15.00
+
 **H CITTA' DEL TRICOLORE - SG AMSICORA**
 
 Giornata: Gara 47
@@ -537,6 +621,7 @@ Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 
 ## Sab 06/06/2026 15.00
+
 **POL FERRINI - TEVERE EUR H**
 
 Giornata: Gara 48
@@ -548,6 +633,7 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 13
 ## Sab 13/06/2026 15.00
+
 **SG AMSICORA - BUTTERFLY ROMA**
 
 Giornata: Gara 49
@@ -559,6 +645,7 @@ Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 
 ## Sab 13/06/2026 15.00
+
 **HC BRA - H CITTA' DEL TRICOLORE**
 
 Giornata: Gara 50
@@ -570,6 +657,7 @@ Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  C
 
 
 ## Sab 13/06/2026 15.00
+
 **LAZIO HOCKEY - POL FERRINI**
 
 Giornata: Gara 51
@@ -580,7 +668,9 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 
 
-## Sab 13/06/2026 15.00
+<!-- VALCHISONE_START -->
+## Sab 13/06/2026 15.00 ⭐
+
 **TEVERE EUR H - HP VALCHISONE**
 
 Giornata: Gara 52
@@ -591,9 +681,12 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
+
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 14
 ## Sab 20/06/2026 15.00
+
 **BUTTERFLY ROMA - H CITTA' DEL TRICOLORE**
 
 Giornata: Gara 53
@@ -604,7 +697,9 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 
 
-## Sab 20/06/2026 15.00
+<!-- VALCHISONE_START -->
+## Sab 20/06/2026 15.00 ⭐
+
 **POL FERRINI - HP VALCHISONE**
 
 Giornata: Gara 54
@@ -615,9 +710,12 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 20/06/2026 15.00
+
 **HC BRA - SG AMSICORA**
 
 Giornata: Gara 55
@@ -629,6 +727,7 @@ Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  C
 
 
 ## Sab 20/06/2026 15.00
+
 **TEVERE EUR H - LAZIO HOCKEY**
 
 Giornata: Gara 56

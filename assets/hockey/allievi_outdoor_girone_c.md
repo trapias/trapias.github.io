@@ -1,5 +1,6 @@
 # Allievi - OUTDOOR  - Girone C / Giornata 1
 ## Sab 11/10/2025 10.00
+
 **GENOVA H 1980 DRITTO - HC GENOVA RAINBOW**
 
 Giornata: Gara 351
@@ -11,6 +12,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 ## Dom 12/10/2025 13.00
+
 **GENOVA H 1980 ROVESCIO - CUS PISA ASD**
 
 Giornata: Gara 352
@@ -22,6 +24,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 ## Dom 05/10/2025 17.00
+
 **ASD BAD LAKE HOCKEY B - HC GENOVA**
 
 Giornata: Gara 353
@@ -33,6 +36,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 # Allievi - OUTDOOR  - Girone C / Giornata 2
 ## Dom 30/11/2025 11.00
+
 **CUS PISA ASD - ASD BAD LAKE HOCKEY**
 
 Giornata: Gara 354
@@ -44,6 +48,7 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 
 ## Sab 11/10/2025 17.30
+
 **HC GENOVA RAINBOW - GENOVA H 1980 ROVESCIO**
 
 Giornata: Gara 355
@@ -55,6 +60,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 ## Sab 18/10/2025 10.00
+
 **HC GENOVA - GENOVA H 1980 DRITTO**
 
 Giornata: Gara 356
@@ -66,6 +72,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 # Allievi - OUTDOOR  - Girone C / Giornata 3
 ## Sab 15/11/2025 12.30
+
 **GENOVA H 1980 ROVESCIO - GENOVA H 1980 DRITTO**
 
 Giornata: Gara 357
@@ -77,6 +84,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 ## Dom 19/10/2025 09.00
+
 **ASD BAD LAKE HOCKEY - HC GENOVA RAINBOW**
 
 Giornata: Gara 358
@@ -88,6 +96,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 ## Dom 30/11/2025 13.00
+
 **CUS PISA ASD - ASD BAD LAKE HOCKEY B**
 
 Giornata: Gara 359
@@ -99,6 +108,7 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 # Allievi - OUTDOOR  - Girone C / Giornata 4
 ## Dom 19/10/2025 13.00
+
 **HC GENOVA RAINBOW - ASD BAD LAKE HOCKEY B**
 
 Giornata: Gara 360
@@ -110,6 +120,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 ## Dom 19/10/2025 11.00
+
 **GENOVA H 1980 DRITTO - ASD BAD LAKE HOCKEY**
 
 Giornata: Gara 361
@@ -121,6 +132,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 ## Sab 01/11/2025 09.00
+
 **HC GENOVA - GENOVA H 1980 ROVESCIO**
 
 Giornata: Gara 362
@@ -132,6 +144,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 # Allievi - OUTDOOR  - Girone C / Giornata 5
 ## Sab 01/11/2025 12.30
+
 **ASD BAD LAKE HOCKEY - GENOVA H 1980 ROVESCIO**
 
 Giornata: Gara 363
@@ -143,6 +156,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 ## Sab 01/11/2025 10.45
+
 **ASD BAD LAKE HOCKEY B - GENOVA H 1980 DRITTO**
 
 Giornata: Gara 364
@@ -154,6 +168,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 ## Dom 16/11/2025 12.00
+
 **CUS PISA ASD - HC GENOVA**
 
 Giornata: Gara 365
@@ -165,6 +180,7 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 # Allievi - OUTDOOR  - Girone C / Giornata 6
 ## Sab 15/11/2025 09.00
+
 **GENOVA H 1980 ROVESCIO - ASD BAD LAKE HOCKEY B**
 
 Giornata: Gara 366
@@ -176,6 +192,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 ## Sab 15/11/2025 11.00
+
 **HC GENOVA - ASD BAD LAKE HOCKEY**
 
 Giornata: Gara 367
@@ -187,6 +204,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 ## Dom 16/11/2025 14.00
+
 **CUS PISA ASD - HC GENOVA RAINBOW**
 
 Giornata: Gara 606
@@ -198,6 +216,7 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 # Allievi - OUTDOOR  - Girone C / Giornata 7
 ## Dom 28/09/2025 09.30
+
 **ASD BAD LAKE HOCKEY B - ASD BAD LAKE HOCKEY**
 
 Giornata: Gara 368
@@ -209,6 +228,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 ## Dom 16/11/2025 10.00
+
 **HC GENOVA RAINBOW - HC GENOVA**
 
 Giornata: Gara 607
@@ -220,6 +240,7 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 
 ## Dom 12/10/2025 11.00
+
 **GENOVA H 1980 DRITTO - CUS PISA ASD**
 
 Giornata: Gara 608
