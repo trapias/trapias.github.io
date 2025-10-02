@@ -1,7 +1,7 @@
 # Serie A Elite Femminile - OUTDOOR / Giornata 1
 ## Dom 15/03/2026 15.00
 
-**SG AMSICORA - BUTTERFLY ROMA**
+<strong>SG AMSICORA - BUTTERFLY ROMA</strong>
 
 Giornata: Gara 892
 
@@ -13,7 +13,7 @@ Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 ## Dom 15/03/2026 15.00
 
-**LAZIO HOCKEY - HF LORENZONI**
+<strong>LAZIO HOCKEY - HF LORENZONI</strong>
 
 Giornata: Gara 893
 
@@ -25,7 +25,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 ## Dom 15/03/2026 15.00
 
-**UH CAPITOLINA - CUS TORINO**
+<strong>UH CAPITOLINA - CUS TORINO</strong>
 
 Giornata: Gara 894
 
@@ -37,7 +37,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 ## Dom 15/03/2026 15.00
 
-**MILANO HP - HT FEMM BOLOGNA**
+<strong>MILANO HP - HT FEMM BOLOGNA</strong>
 
 Giornata: Gara 895
 
@@ -49,7 +49,7 @@ Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 # Serie A Elite Femminile - OUTDOOR / Giornata 2
 ## Dom 22/03/2026 15.00
 
-**HT FEMM BOLOGNA - SG AMSICORA**
+<strong>HT FEMM BOLOGNA - SG AMSICORA</strong>
 
 Giornata: Gara 896
 
@@ -61,7 +61,7 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 ## Dom 22/03/2026 15.00
 
-**UH CAPITOLINA - MILANO HP**
+<strong>UH CAPITOLINA - MILANO HP</strong>
 
 Giornata: Gara 897
 
@@ -73,7 +73,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 ## Dom 22/03/2026 15.00
 
-**CUS TORINO - LAZIO HOCKEY**
+<strong>CUS TORINO - LAZIO HOCKEY</strong>
 
 Giornata: Gara 898
 
@@ -85,7 +85,7 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 ## Dom 22/03/2026 15.00
 
-**HF LORENZONI - BUTTERFLY ROMA**
+<strong>HF LORENZONI - BUTTERFLY ROMA</strong>
 
 Giornata: Gara 899
 
@@ -97,7 +97,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 # Serie A Elite Femminile - OUTDOOR / Giornata 3
 ## Sab 28/03/2026 15.30
 
-**CUS TORINO - HT FEMM BOLOGNA**
+<strong>CUS TORINO - HT FEMM BOLOGNA</strong>
 
 Giornata: Gara 900
 
@@ -109,7 +109,7 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 ## Sab 28/03/2026 15.00
 
-**HF LORENZONI - MILANO HP**
+<strong>HF LORENZONI - MILANO HP</strong>
 
 Giornata: Gara 901
 
@@ -121,7 +121,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 ## Sab 28/03/2026 13.30
 
-**SG AMSICORA - LAZIO HOCKEY**
+<strong>SG AMSICORA - LAZIO HOCKEY</strong>
 
 Giornata: Gara 902
 
@@ -133,7 +133,7 @@ Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 ## Sab 28/03/2026 13.30
 
-**BUTTERFLY ROMA - UH CAPITOLINA**
+<strong>BUTTERFLY ROMA - UH CAPITOLINA</strong>
 
 Giornata: Gara 903
 
@@ -145,7 +145,7 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 # Serie A Elite Femminile - OUTDOOR / Giornata 4
 ## Dom 29/03/2026 15.00
 
-**HT FEMM BOLOGNA - HF LORENZONI**
+<strong>HT FEMM BOLOGNA - HF LORENZONI</strong>
 
 Giornata: Gara 904
 
@@ -157,7 +157,7 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 ## Dom 29/03/2026 15.00
 
-**MILANO HP - CUS TORINO**
+<strong>MILANO HP - CUS TORINO</strong>
 
 Giornata: Gara 905
 
@@ -169,7 +169,7 @@ Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
 ## Dom 29/03/2026 15.00
 
-**SG AMSICORA - UH CAPITOLINA**
+<strong>SG AMSICORA - UH CAPITOLINA</strong>
 
 Giornata: Gara 906
 
@@ -181,7 +181,7 @@ Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 ## Dom 29/03/2026 15.00
 
-**BUTTERFLY ROMA - LAZIO HOCKEY**
+<strong>BUTTERFLY ROMA - LAZIO HOCKEY</strong>
 
 Giornata: Gara 907
 
@@ -193,7 +193,7 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 # Serie A Elite Femminile - OUTDOOR / Giornata 5
 ## Dom 12/04/2026 15.00
 
-**HF LORENZONI - SG AMSICORA**
+<strong>HF LORENZONI - SG AMSICORA</strong>
 
 Giornata: Gara 908
 
@@ -205,7 +205,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 ## Dom 12/04/2026 15.00
 
-**CUS TORINO - BUTTERFLY ROMA**
+<strong>CUS TORINO - BUTTERFLY ROMA</strong>
 
 Giornata: Gara 909
 
@@ -217,7 +217,7 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 ## Dom 12/04/2026 15.00
 
-**LAZIO HOCKEY - MILANO HP**
+<strong>LAZIO HOCKEY - MILANO HP</strong>
 
 Giornata: Gara 910
 
@@ -229,7 +229,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 ## Dom 12/04/2026 15.00
 
-**HT FEMM BOLOGNA - UH CAPITOLINA**
+<strong>HT FEMM BOLOGNA - UH CAPITOLINA</strong>
 
 Giornata: Gara 911
 
@@ -241,7 +241,7 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 # Serie A Elite Femminile - OUTDOOR / Giornata 6
 ## Dom 19/04/2026 15.00
 
-**SG AMSICORA - CUS TORINO**
+<strong>SG AMSICORA - CUS TORINO</strong>
 
 Giornata: Gara 912
 
@@ -253,7 +253,7 @@ Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 ## Dom 19/04/2026 15.00
 
-**UH CAPITOLINA - HF LORENZONI**
+<strong>UH CAPITOLINA - HF LORENZONI</strong>
 
 Giornata: Gara 913
 
@@ -265,7 +265,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 ## Dom 19/04/2026 15.00
 
-**BUTTERFLY ROMA - MILANO HP**
+<strong>BUTTERFLY ROMA - MILANO HP</strong>
 
 Giornata: Gara 914
 
@@ -277,7 +277,7 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 ## Dom 19/04/2026 15.00
 
-**LAZIO HOCKEY - HT FEMM BOLOGNA**
+<strong>LAZIO HOCKEY - HT FEMM BOLOGNA</strong>
 
 Giornata: Gara 915
 
@@ -289,7 +289,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 # Serie A Elite Femminile - OUTDOOR / Giornata 7
 ## Dom 26/04/2026 14.00
 
-**MILANO HP - SG AMSICORA**
+<strong>MILANO HP - SG AMSICORA</strong>
 
 Giornata: Gara 916
 
@@ -301,7 +301,7 @@ Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
 ## Dom 26/04/2026 15.00
 
-**HF LORENZONI - CUS TORINO**
+<strong>HF LORENZONI - CUS TORINO</strong>
 
 Giornata: Gara 917
 
@@ -313,7 +313,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 ## Dom 26/04/2026 15.00
 
-**UH CAPITOLINA - LAZIO HOCKEY**
+<strong>UH CAPITOLINA - LAZIO HOCKEY</strong>
 
 Giornata: Gara 918
 
@@ -325,7 +325,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 ## Dom 26/04/2026 15.00
 
-**HT FEMM BOLOGNA - BUTTERFLY ROMA**
+<strong>HT FEMM BOLOGNA - BUTTERFLY ROMA</strong>
 
 Giornata: Gara 919
 
@@ -337,7 +337,7 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 # Serie A Elite Femminile - OUTDOOR / Giornata 8
 ## Dom 03/05/2026 15.00
 
-**BUTTERFLY ROMA - SG AMSICORA**
+<strong>BUTTERFLY ROMA - SG AMSICORA</strong>
 
 Giornata: Gara 920
 
@@ -349,7 +349,7 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 ## Dom 03/05/2026 15.00
 
-**HF LORENZONI - LAZIO HOCKEY**
+<strong>HF LORENZONI - LAZIO HOCKEY</strong>
 
 Giornata: Gara 921
 
@@ -361,7 +361,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 ## Dom 03/05/2026 15.00
 
-**CUS TORINO - UH CAPITOLINA**
+<strong>CUS TORINO - UH CAPITOLINA</strong>
 
 Giornata: Gara 922
 
@@ -373,7 +373,7 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 ## Dom 03/05/2026 15.00
 
-**HT FEMM BOLOGNA - MILANO HP**
+<strong>HT FEMM BOLOGNA - MILANO HP</strong>
 
 Giornata: Gara 923
 
@@ -385,7 +385,7 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 # Serie A Elite Femminile - OUTDOOR / Giornata 9
 ## Dom 10/05/2026 15.00
 
-**SG AMSICORA - HT FEMM BOLOGNA**
+<strong>SG AMSICORA - HT FEMM BOLOGNA</strong>
 
 Giornata: Gara 924
 
@@ -397,7 +397,7 @@ Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 ## Dom 10/05/2026 15.00
 
-**MILANO HP - UH CAPITOLINA**
+<strong>MILANO HP - UH CAPITOLINA</strong>
 
 Giornata: Gara 925
 
@@ -409,7 +409,7 @@ Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
 ## Dom 10/05/2026 15.00
 
-**LAZIO HOCKEY - CUS TORINO**
+<strong>LAZIO HOCKEY - CUS TORINO</strong>
 
 Giornata: Gara 926
 
@@ -421,7 +421,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 ## Dom 10/05/2026 15.00
 
-**BUTTERFLY ROMA - HF LORENZONI**
+<strong>BUTTERFLY ROMA - HF LORENZONI</strong>
 
 Giornata: Gara 927
 
@@ -433,7 +433,7 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 # Serie A Elite Femminile - OUTDOOR / Giornata 10
 ## Dom 17/05/2026 15.00
 
-**HT FEMM BOLOGNA - CUS TORINO**
+<strong>HT FEMM BOLOGNA - CUS TORINO</strong>
 
 Giornata: Gara 928
 
@@ -445,7 +445,7 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 ## Dom 17/05/2026 15.00
 
-**MILANO HP - HF LORENZONI**
+<strong>MILANO HP - HF LORENZONI</strong>
 
 Giornata: Gara 929
 
@@ -457,7 +457,7 @@ Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
 ## Dom 17/05/2026 15.00
 
-**LAZIO HOCKEY - SG AMSICORA**
+<strong>LAZIO HOCKEY - SG AMSICORA</strong>
 
 Giornata: Gara 930
 
@@ -469,7 +469,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 ## Dom 17/05/2026 15.00
 
-**UH CAPITOLINA - BUTTERFLY ROMA**
+<strong>UH CAPITOLINA - BUTTERFLY ROMA</strong>
 
 Giornata: Gara 931
 
@@ -481,7 +481,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 # Serie A Elite Femminile - OUTDOOR / Giornata 11
 ## Dom 31/05/2026 15.00
 
-**HF LORENZONI - HT FEMM BOLOGNA**
+<strong>HF LORENZONI - HT FEMM BOLOGNA</strong>
 
 Giornata: Gara 932
 
@@ -493,7 +493,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 ## Dom 31/05/2026 15.00
 
-**CUS TORINO - MILANO HP**
+<strong>CUS TORINO - MILANO HP</strong>
 
 Giornata: Gara 933
 
@@ -505,7 +505,7 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 ## Dom 31/05/2026 15.00
 
-**UH CAPITOLINA - SG AMSICORA**
+<strong>UH CAPITOLINA - SG AMSICORA</strong>
 
 Giornata: Gara 934
 
@@ -517,7 +517,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 ## Dom 31/05/2026 15.00
 
-**LAZIO HOCKEY - BUTTERFLY ROMA**
+<strong>LAZIO HOCKEY - BUTTERFLY ROMA</strong>
 
 Giornata: Gara 935
 
@@ -529,7 +529,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 # Serie A Elite Femminile - OUTDOOR / Giornata 12
 ## Dom 07/06/2026 15.00
 
-**SG AMSICORA - HF LORENZONI**
+<strong>SG AMSICORA - HF LORENZONI</strong>
 
 Giornata: Gara 936
 
@@ -541,7 +541,7 @@ Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 ## Dom 07/06/2026 15.00
 
-**BUTTERFLY ROMA - CUS TORINO**
+<strong>BUTTERFLY ROMA - CUS TORINO</strong>
 
 Giornata: Gara 937
 
@@ -553,7 +553,7 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 ## Dom 07/06/2026 15.00
 
-**MILANO HP - LAZIO HOCKEY**
+<strong>MILANO HP - LAZIO HOCKEY</strong>
 
 Giornata: Gara 938
 
@@ -565,7 +565,7 @@ Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
 ## Dom 07/06/2026 15.00
 
-**UH CAPITOLINA - HT FEMM BOLOGNA**
+<strong>UH CAPITOLINA - HT FEMM BOLOGNA</strong>
 
 Giornata: Gara 939
 
@@ -577,7 +577,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 # Serie A Elite Femminile - OUTDOOR / Giornata 13
 ## Dom 14/06/2026 15.00
 
-**CUS TORINO - SG AMSICORA**
+<strong>CUS TORINO - SG AMSICORA</strong>
 
 Giornata: Gara 940
 
@@ -589,7 +589,7 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 ## Dom 14/06/2026 15.00
 
-**HF LORENZONI - UH CAPITOLINA**
+<strong>HF LORENZONI - UH CAPITOLINA</strong>
 
 Giornata: Gara 941
 
@@ -601,7 +601,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 ## Dom 14/06/2026 15.00
 
-**MILANO HP - BUTTERFLY ROMA**
+<strong>MILANO HP - BUTTERFLY ROMA</strong>
 
 Giornata: Gara 942
 
@@ -613,7 +613,7 @@ Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
 ## Dom 14/06/2026 15.00
 
-**HT FEMM BOLOGNA - LAZIO HOCKEY**
+<strong>HT FEMM BOLOGNA - LAZIO HOCKEY</strong>
 
 Giornata: Gara 943
 
@@ -625,7 +625,7 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 # Serie A Elite Femminile - OUTDOOR / Giornata 14
 ## Dom 21/06/2026 15.00
 
-**SG AMSICORA - MILANO HP**
+<strong>SG AMSICORA - MILANO HP</strong>
 
 Giornata: Gara 944
 
@@ -637,7 +637,7 @@ Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 ## Dom 21/06/2026 15.00
 
-**CUS TORINO - HF LORENZONI**
+<strong>CUS TORINO - HF LORENZONI</strong>
 
 Giornata: Gara 945
 
@@ -649,7 +649,7 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 ## Dom 21/06/2026 15.00
 
-**LAZIO HOCKEY - UH CAPITOLINA**
+<strong>LAZIO HOCKEY - UH CAPITOLINA</strong>
 
 Giornata: Gara 946
 
@@ -661,7 +661,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 ## Dom 21/06/2026 15.00
 
-**BUTTERFLY ROMA - HT FEMM BOLOGNA**
+<strong>BUTTERFLY ROMA - HT FEMM BOLOGNA</strong>
 
 Giornata: Gara 947
 

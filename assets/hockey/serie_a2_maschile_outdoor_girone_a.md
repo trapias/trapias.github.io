@@ -1,7 +1,7 @@
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 1
 ## Sab 14/03/2026 15.00
 
-**GENOVA H 1980 - HC MOGLIANO**
+<strong>GENOVA H 1980 - HC MOGLIANO</strong>
 
 Giornata: Gara 784
 
@@ -13,7 +13,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 ## Sab 14/03/2026 15.00
 
-**HC ROMA  - HC SAVONA**
+<strong>HC ROMA - HC SAVONA</strong>
 
 Giornata: Gara 785
 
@@ -25,7 +25,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 ## Sab 14/03/2026 15.00
 
-**HCU RASSEMBLEMENT - MONCALVESE H**
+<strong>HCU RASSEMBLEMENT - MONCALVESE H</strong>
 
 Giornata: Gara 786
 
@@ -37,7 +37,7 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2
 ## Sab 21/03/2026 15.00
 
-**HC MOGLIANO - HC ROMA **
+<strong>HC MOGLIANO - HC ROMA</strong>
 
 Giornata: Gara 787
 
@@ -49,7 +49,7 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 ## Sab 21/03/2026 15.00
 
-**MONCALVESE H - GENOVA H 1980**
+<strong>MONCALVESE H - GENOVA H 1980</strong>
 
 Giornata: Gara 788
 
@@ -61,7 +61,7 @@ Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
 ## Sab 21/03/2026 13.00
 
-**HC SAVONA - HCU RASSEMBLEMENT**
+<strong>HC SAVONA - HCU RASSEMBLEMENT</strong>
 
 Giornata: Gara 789
 
@@ -73,7 +73,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3
 ## Sab 28/03/2026 13.30
 
-**HCU RASSEMBLEMENT - HC MOGLIANO**
+<strong>HCU RASSEMBLEMENT - HC MOGLIANO</strong>
 
 Giornata: Gara 790
 
@@ -85,7 +85,7 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 ## Sab 28/03/2026 15.00
 
-**HC ROMA  - GENOVA H 1980**
+<strong>HC ROMA - GENOVA H 1980</strong>
 
 Giornata: Gara 791
 
@@ -97,7 +97,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 ## Sab 28/03/2026 15.00
 
-**MONCALVESE H - HC SAVONA**
+<strong>MONCALVESE H - HC SAVONA</strong>
 
 Giornata: Gara 792
 
@@ -109,7 +109,7 @@ Indirizzo Campo:  Via Goria, 4 - Moncalvo
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 4
 ## Sab 11/04/2026 15.00
 
-**HC MOGLIANO - MONCALVESE H**
+<strong>HC MOGLIANO - MONCALVESE H</strong>
 
 Giornata: Gara 793
 
@@ -121,7 +121,7 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 ## Sab 11/04/2026 15.00
 
-**HCU RASSEMBLEMENT - HC ROMA **
+<strong>HCU RASSEMBLEMENT - HC ROMA</strong>
 
 Giornata: Gara 794
 
@@ -133,7 +133,7 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 ## Sab 11/04/2026 13.30
 
-**GENOVA H 1980 - HC SAVONA**
+<strong>GENOVA H 1980 - HC SAVONA</strong>
 
 Giornata: Gara 795
 
@@ -145,7 +145,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5
 ## Sab 18/04/2026 15.00
 
-**HC SAVONA - HC MOGLIANO**
+<strong>HC SAVONA - HC MOGLIANO</strong>
 
 Giornata: Gara 796
 
@@ -157,7 +157,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 ## Sab 18/04/2026 15.00
 
-**HC ROMA  - MONCALVESE H**
+<strong>HC ROMA - MONCALVESE H</strong>
 
 Giornata: Gara 797
 
@@ -169,7 +169,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 ## Sab 18/04/2026 13.00
 
-**GENOVA H 1980 - HCU RASSEMBLEMENT**
+<strong>GENOVA H 1980 - HCU RASSEMBLEMENT</strong>
 
 Giornata: Gara 798
 
@@ -181,7 +181,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6
 ## Sab 25/04/2026 15.00
 
-**HC MOGLIANO - GENOVA H 1980**
+<strong>HC MOGLIANO - GENOVA H 1980</strong>
 
 Giornata: Gara 799
 
@@ -193,7 +193,7 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 ## Sab 25/04/2026 15.00
 
-**HC SAVONA - HC ROMA **
+<strong>HC SAVONA - HC ROMA</strong>
 
 Giornata: Gara 800
 
@@ -205,7 +205,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 ## Sab 25/04/2026 15.00
 
-**MONCALVESE H - HCU RASSEMBLEMENT**
+<strong>MONCALVESE H - HCU RASSEMBLEMENT</strong>
 
 Giornata: Gara 801
 
@@ -217,7 +217,7 @@ Indirizzo Campo:  Via Goria, 4 - Moncalvo
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7
 ## Sab 02/05/2026 15.00
 
-**HC ROMA  - HC MOGLIANO**
+<strong>HC ROMA - HC MOGLIANO</strong>
 
 Giornata: Gara 802
 
@@ -229,7 +229,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 ## Sab 02/05/2026 15.00
 
-**GENOVA H 1980 - MONCALVESE H**
+<strong>GENOVA H 1980 - MONCALVESE H</strong>
 
 Giornata: Gara 803
 
@@ -241,7 +241,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 ## Sab 02/05/2026 15.00
 
-**HCU RASSEMBLEMENT - HC SAVONA**
+<strong>HCU RASSEMBLEMENT - HC SAVONA</strong>
 
 Giornata: Gara 804
 
@@ -253,7 +253,7 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8
 ## Sab 09/05/2026 15.00
 
-**HC MOGLIANO - HCU RASSEMBLEMENT**
+<strong>HC MOGLIANO - HCU RASSEMBLEMENT</strong>
 
 Giornata: Gara 805
 
@@ -265,7 +265,7 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 ## Sab 09/05/2026 15.00
 
-**GENOVA H 1980 - HC ROMA **
+<strong>GENOVA H 1980 - HC ROMA</strong>
 
 Giornata: Gara 806
 
@@ -277,7 +277,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 ## Sab 09/05/2026 13.00
 
-**HC SAVONA - MONCALVESE H**
+<strong>HC SAVONA - MONCALVESE H</strong>
 
 Giornata: Gara 807
 
@@ -289,7 +289,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9
 ## Sab 16/05/2026 15.00
 
-**MONCALVESE H - HC MOGLIANO**
+<strong>MONCALVESE H - HC MOGLIANO</strong>
 
 Giornata: Gara 808
 
@@ -301,7 +301,7 @@ Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
 ## Sab 16/05/2026 15.00
 
-**HC ROMA  - HCU RASSEMBLEMENT**
+<strong>HC ROMA - HCU RASSEMBLEMENT</strong>
 
 Giornata: Gara 809
 
@@ -313,7 +313,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 ## Sab 16/05/2026 15.00
 
-**HC SAVONA - GENOVA H 1980**
+<strong>HC SAVONA - GENOVA H 1980</strong>
 
 Giornata: Gara 810
 
@@ -325,7 +325,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10
 ## Sab 23/05/2026 15.00
 
-**HC MOGLIANO - HC SAVONA**
+<strong>HC MOGLIANO - HC SAVONA</strong>
 
 Giornata: Gara 811
 
@@ -337,7 +337,7 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 ## Sab 23/05/2026 15.00
 
-**MONCALVESE H - HC ROMA **
+<strong>MONCALVESE H - HC ROMA</strong>
 
 Giornata: Gara 812
 
@@ -349,7 +349,7 @@ Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
 ## Sab 23/05/2026 15.00
 
-**HCU RASSEMBLEMENT - GENOVA H 1980**
+<strong>HCU RASSEMBLEMENT - GENOVA H 1980</strong>
 
 Giornata: Gara 813
 

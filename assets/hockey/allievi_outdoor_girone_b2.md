@@ -1,7 +1,7 @@
 # Allievi - OUTDOOR  - Girone B2 / Giornata 1
 ## Dom 05/10/2025 11.00
 
-**HOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO**
+<strong>HOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO</strong>
 
 Giornata: Gara 466
 
@@ -13,7 +13,7 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 ## Dom 05/10/2025 11.00
 
-**HC PISTOIA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE**
+<strong>HC PISTOIA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
 
 Giornata: Gara 467
 
@@ -25,7 +25,7 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 ## Dom 05/10/2025 13.00
 
-**HOCKEY TEAM BOLOGNA - HC PISTOIA**
+<strong>HOCKEY TEAM BOLOGNA - HC PISTOIA</strong>
 
 Giornata: Gara 468
 
@@ -37,7 +37,7 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 ## Dom 05/10/2025 13.00
 
-**ASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE**
+<strong>ASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
 
 Giornata: Gara 469
 
@@ -49,7 +49,7 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 # Allievi - OUTDOOR  - Girone B2 / Giornata 2
 ## Dom 26/10/2025 11.00
 
-**ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA**
+<strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA</strong>
 
 Giornata: Gara 470
 
@@ -61,7 +61,7 @@ Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 ## Dom 26/10/2025 11.00
 
-**ASD HOCKEY CLUB BONDENO - HC PISTOIA**
+<strong>ASD HOCKEY CLUB BONDENO - HC PISTOIA</strong>
 
 Giornata: Gara 471
 
@@ -73,7 +73,7 @@ Indirizzo Campo:  Via Avvenire Paterlini, 2 - Reggio nell'Emilia
 
 ## Dom 26/10/2025 13.00
 
-**ASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA**
+<strong>ASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA</strong>
 
 Giornata: Gara 472
 
@@ -85,7 +85,7 @@ Indirizzo Campo:  Via Avvenire Paterlini, 2 - Reggio nell'Emilia
 
 ## Dom 26/10/2025 13.00
 
-**ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HC PISTOIA**
+<strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HC PISTOIA</strong>
 
 Giornata: Gara 473
 
@@ -97,7 +97,7 @@ Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 # Allievi - OUTDOOR  - Girone B2 / Giornata 3
 ## Dom 02/11/2025 11.00
 
-**HC PISTOIA - HOCKEY TEAM BOLOGNA**
+<strong>HC PISTOIA - HOCKEY TEAM BOLOGNA</strong>
 
 Giornata: Gara 474
 
@@ -109,7 +109,7 @@ Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
 ## Dom 02/11/2025 11.00
 
-**ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO**
+<strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO</strong>
 
 Giornata: Gara 475
 
@@ -121,7 +121,7 @@ Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
 ## Dom 02/11/2025 13.00
 
-**HOCKEY TEAM BOLOGNA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE**
+<strong>HOCKEY TEAM BOLOGNA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
 
 Giornata: Gara 476
 
@@ -133,7 +133,7 @@ Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
 ## Dom 02/11/2025 13.00
 
-**HC PISTOIA - ASD HOCKEY CLUB BONDENO**
+<strong>HC PISTOIA - ASD HOCKEY CLUB BONDENO</strong>
 
 Giornata: Gara 477
 

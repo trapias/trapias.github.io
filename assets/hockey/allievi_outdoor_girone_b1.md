@@ -1,7 +1,7 @@
 # Allievi - OUTDOOR  - Girone B1 / Giornata 1
 ## Dom 05/10/2025 11.00
 
-**CSP SAN GIORGIO - ASD ADIGE UHC**
+<strong>CSP SAN GIORGIO - ASD ADIGE UHC</strong>
 
 Giornata: Gara 454
 
@@ -13,7 +13,7 @@ Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
 ## Dom 05/10/2025 11.00
 
-**HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT**
+<strong>HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT</strong>
 
 Giornata: Gara 455
 
@@ -25,7 +25,7 @@ Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
 ## Dom 05/10/2025 13.00
 
-**CSP SAN GIORGIO - POLISPORTIVA CAMELOT**
+<strong>CSP SAN GIORGIO - POLISPORTIVA CAMELOT</strong>
 
 Giornata: Gara 456
 
@@ -37,7 +37,7 @@ Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
 ## Dom 05/10/2025 13.00
 
-**HOCKEY CLUB RIVA - ASD ADIGE UHC**
+<strong>HOCKEY CLUB RIVA - ASD ADIGE UHC</strong>
 
 Giornata: Gara 457
 
@@ -49,7 +49,7 @@ Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 # Allievi - OUTDOOR  - Girone B1 / Giornata 2
 ## Dom 26/10/2025 11.00
 
-**CSP SAN GIORGIO - HOCKEY CLUB RIVA**
+<strong>CSP SAN GIORGIO - HOCKEY CLUB RIVA</strong>
 
 Giornata: Gara 458
 
@@ -61,7 +61,7 @@ Indirizzo Campo:  Via Lomba, 23 - Mori
 
 ## Dom 26/10/2025 11.00
 
-**POLISPORTIVA CAMELOT - ASD ADIGE UHC**
+<strong>POLISPORTIVA CAMELOT - ASD ADIGE UHC</strong>
 
 Giornata: Gara 459
 
@@ -73,7 +73,7 @@ Indirizzo Campo:  Via Lomba, 23 - Mori
 
 ## Dom 26/10/2025 13.00
 
-**ASD ADIGE UHC - CSP SAN GIORGIO**
+<strong>ASD ADIGE UHC - CSP SAN GIORGIO</strong>
 
 Giornata: Gara 460
 
@@ -85,7 +85,7 @@ Indirizzo Campo:  Via Lomba, 23 - Mori
 
 ## Dom 26/10/2025 13.00
 
-**POLISPORTIVA CAMELOT - HOCKEY CLUB RIVA**
+<strong>POLISPORTIVA CAMELOT - HOCKEY CLUB RIVA</strong>
 
 Giornata: Gara 461
 
@@ -97,7 +97,7 @@ Indirizzo Campo:  Via Lomba, 23 - Mori
 # Allievi - OUTDOOR  - Girone B1 / Giornata 3
 ## Dom 02/11/2025 11.00
 
-**POLISPORTIVA CAMELOT - CSP SAN GIORGIO**
+<strong>POLISPORTIVA CAMELOT - CSP SAN GIORGIO</strong>
 
 Giornata: Gara 462
 
@@ -109,7 +109,7 @@ Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 ## Dom 02/11/2025 11.00
 
-**ASD ADIGE UHC - HOCKEY CLUB RIVA**
+<strong>ASD ADIGE UHC - HOCKEY CLUB RIVA</strong>
 
 Giornata: Gara 463
 
@@ -121,7 +121,7 @@ Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 ## Dom 02/11/2025 13.00
 
-**HOCKEY CLUB RIVA - CSP SAN GIORGIO**
+<strong>HOCKEY CLUB RIVA - CSP SAN GIORGIO</strong>
 
 Giornata: Gara 464
 
@@ -133,7 +133,7 @@ Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 ## Dom 02/11/2025 13.00
 
-**ASD ADIGE UHC - POLISPORTIVA CAMELOT**
+<strong>ASD ADIGE UHC - POLISPORTIVA CAMELOT</strong>
 
 Giornata: Gara 465
 

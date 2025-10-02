@@ -1,7 +1,7 @@
 # Ragazzi - OUTDOOR  - Girone C / Giornata 1
 ## Sab 01/11/2025 11.00
 
-**ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PISA ASD**
+<strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PISA ASD</strong>
 
 Giornata: Gara 442
 
@@ -13,7 +13,7 @@ Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 ## Dom 12/10/2025 11.00
 
-**ASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA**
+<strong>ASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA</strong>
 
 Giornata: Gara 443
 
@@ -25,7 +25,7 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 # Ragazzi - OUTDOOR  - Girone C / Giornata 2
 ## Dom 19/10/2025 11.00
 
-**ASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE**
+<strong>ASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
 
 Giornata: Gara 444
 
@@ -37,7 +37,7 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 ## Dom 19/10/2025 12.00
 
-**HOCKEY TEAM BOLOGNA - CUS PISA ASD**
+<strong>HOCKEY TEAM BOLOGNA - CUS PISA ASD</strong>
 
 Giornata: Gara 445
 
@@ -49,7 +49,7 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 # Ragazzi - OUTDOOR  - Girone C / Giornata 3
 ## Dom 23/11/2025 11.00
 
-**HOCKEY TEAM BOLOGNA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE**
+<strong>HOCKEY TEAM BOLOGNA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
 
 Giornata: Gara 446
 
@@ -61,7 +61,7 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 ## Dom 09/11/2025 13.00
 
-**CUS PISA ASD - ASD HOCKEY CLUB BONDENO**
+<strong>CUS PISA ASD - ASD HOCKEY CLUB BONDENO</strong>
 
 Giornata: Gara 447
 
@@ -73,7 +73,7 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 # Ragazzi - OUTDOOR  - Girone C / Giornata 4
 ## Dom 29/03/2026 13.00
 
-**CUS PISA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE**
+<strong>CUS PISA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
 
 Giornata: Gara 448
 
@@ -85,7 +85,7 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 ## Dom 29/03/2026 11.00
 
-**HOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO**
+<strong>HOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO</strong>
 
 Giornata: Gara 449
 
@@ -97,7 +97,7 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 # Ragazzi - OUTDOOR  - Girone C / Giornata 5
 ## Dom 19/04/2026 11.00
 
-**ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO**
+<strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO</strong>
 
 Giornata: Gara 450
 
@@ -109,7 +109,7 @@ Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 ## Dom 19/04/2026 13.00
 
-**CUS PISA ASD - HOCKEY TEAM BOLOGNA**
+<strong>CUS PISA ASD - HOCKEY TEAM BOLOGNA</strong>
 
 Giornata: Gara 451
 
@@ -121,7 +121,7 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 # Ragazzi - OUTDOOR  - Girone C / Giornata 6
 ## Dom 03/05/2026 11.00
 
-**ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA**
+<strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA</strong>
 
 Giornata: Gara 452
 
@@ -133,7 +133,7 @@ Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 ## Dom 03/05/2026 13.00
 
-**ASD HOCKEY CLUB BONDENO - CUS PISA ASD**
+<strong>ASD HOCKEY CLUB BONDENO - CUS PISA ASD</strong>
 
 Giornata: Gara 453
 

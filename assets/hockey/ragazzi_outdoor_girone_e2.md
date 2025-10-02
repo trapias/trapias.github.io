@@ -1,7 +1,7 @@
 # Ragazzi - OUTDOOR  - Girone E2 / Giornata 1
 ## Dom 12/10/2025 11.00
 
-**AZ HOCKEY TEAM - LAZIO HOCKEY**
+<strong>AZ HOCKEY TEAM - LAZIO HOCKEY</strong>
 
 Giornata: Gara 609
 
@@ -13,7 +13,7 @@ Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
 ## Dom 12/10/2025 11.30
 
-**H.POTENZA PICENA - BUTTERFLY ROMA**
+<strong>H.POTENZA PICENA - BUTTERFLY ROMA</strong>
 
 Giornata: Gara 610
 
@@ -25,7 +25,7 @@ Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 # Ragazzi - OUTDOOR  - Girone E2 / Giornata 2
 ## Dom 26/10/2025 11.00
 
-**H.POTENZA PICENA - LAZIO HOCKEY**
+<strong>H.POTENZA PICENA - LAZIO HOCKEY</strong>
 
 Giornata: Gara 611
 
@@ -37,7 +37,7 @@ Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 ## Dom 26/10/2025 11.00
 
-**BUTTERFLY ROMA - AZ HOCKEY TEAM**
+<strong>BUTTERFLY ROMA - AZ HOCKEY TEAM</strong>
 
 Giornata: Gara 612
 
@@ -49,7 +49,7 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 # Ragazzi - OUTDOOR  - Girone E2 / Giornata 3
 ## Dom 23/11/2025 11.00
 
-**LAZIO HOCKEY - BUTTERFLY ROMA**
+<strong>LAZIO HOCKEY - BUTTERFLY ROMA</strong>
 
 Giornata: Gara 613
 
@@ -61,7 +61,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 ## Dom 23/11/2025 11.00
 
-**AZ HOCKEY TEAM - H.POTENZA PICENA**
+<strong>AZ HOCKEY TEAM - H.POTENZA PICENA</strong>
 
 Giornata: Gara 614
 
@@ -73,7 +73,7 @@ Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 # Ragazzi - OUTDOOR  - Girone E2 / Giornata 4
 ## Dom 08/03/2026 11.00
 
-**LAZIO HOCKEY - AZ HOCKEY TEAM**
+<strong>LAZIO HOCKEY - AZ HOCKEY TEAM</strong>
 
 Giornata: Gara 615
 
@@ -85,7 +85,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 ## Dom 08/03/2026 11.00
 
-**BUTTERFLY ROMA - H.POTENZA PICENA**
+<strong>BUTTERFLY ROMA - H.POTENZA PICENA</strong>
 
 Giornata: Gara 616
 
@@ -97,7 +97,7 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 # Ragazzi - OUTDOOR  - Girone E2 / Giornata 5
 ## Dom 22/03/2026 12.00
 
-**LAZIO HOCKEY - H.POTENZA PICENA**
+<strong>LAZIO HOCKEY - H.POTENZA PICENA</strong>
 
 Giornata: Gara 617
 
@@ -109,7 +109,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 ## Dom 22/03/2026 11.00
 
-**AZ HOCKEY TEAM - BUTTERFLY ROMA**
+<strong>AZ HOCKEY TEAM - BUTTERFLY ROMA</strong>
 
 Giornata: Gara 618
 
@@ -121,7 +121,7 @@ Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 # Ragazzi - OUTDOOR  - Girone E2 / Giornata 6
 ## Dom 19/04/2026 12.00
 
-**BUTTERFLY ROMA - LAZIO HOCKEY**
+<strong>BUTTERFLY ROMA - LAZIO HOCKEY</strong>
 
 Giornata: Gara 619
 
@@ -133,7 +133,7 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 ## Dom 19/04/2026 11.00
 
-**H.POTENZA PICENA - AZ HOCKEY TEAM**
+<strong>H.POTENZA PICENA - AZ HOCKEY TEAM</strong>
 
 Giornata: Gara 620
 

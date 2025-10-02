@@ -1,7 +1,7 @@
 # Juniores Maschile - OUTDOOR  - Girone A / Giornata 1
 ## Sab 15/11/2025 15.00
 
-**ASD CERNUSCO FIELD HOCKEY - SCUOLA HOCKEY INDER SINGH**
+<strong>ASD CERNUSCO FIELD HOCKEY - SCUOLA HOCKEY INDER SINGH</strong>
 
 Giornata: Gara 633
 
@@ -14,7 +14,7 @@ Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 <!-- VALCHISONE_START -->
 ## Dom 26/10/2025 11.30 ⭐
 
-**ASD CERNUSCO FIELD HOCKEY - HP VALCHISONE**
+<strong>ASD CERNUSCO FIELD HOCKEY - HP VALCHISONE</strong>
 
 Giornata: Gara 634
 
@@ -30,7 +30,7 @@ Location:  Via Boccaccio, snc Cernusco sul Naviglio
 <!-- VALCHISONE_START -->
 ## Dom 02/11/2025 11.00 ⭐
 
-**SCUOLA HOCKEY INDER SINGH - HP VALCHISONE**
+<strong>SCUOLA HOCKEY INDER SINGH - HP VALCHISONE</strong>
 
 Giornata: Gara 635
 
@@ -46,7 +46,7 @@ Geo: Geo(latitude=44.7025438, longitude=7.8360955)
 
 ## Dom 12/10/2025 11.00
 
-**HCU RASSEMBLEMENT TORINO - USD MONCALVESE HOCKEY**
+<strong>HCU RASSEMBLEMENT TORINO - USD MONCALVESE HOCKEY</strong>
 
 Giornata: Gara 636
 
@@ -58,7 +58,7 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 # Juniores Maschile - OUTDOOR  - Girone A / Giornata 4
 ## Sab 08/11/2025 16.00
 
-**ASD CERNUSCO FIELD HOCKEY - USD MONCALVESE HOCKEY**
+<strong>ASD CERNUSCO FIELD HOCKEY - USD MONCALVESE HOCKEY</strong>
 
 Giornata: Gara 637
 
@@ -70,7 +70,7 @@ Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 # Juniores Maschile - OUTDOOR  - Girone A / Giornata 5
 ## Dom 19/10/2025 14.00
 
-**HCU RASSEMBLEMENT TORINO - ASD CERNUSCO FIELD HOCKEY**
+<strong>HCU RASSEMBLEMENT TORINO - ASD CERNUSCO FIELD HOCKEY</strong>
 
 Giornata: Gara 638
 
@@ -82,7 +82,7 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 # Juniores Maschile - OUTDOOR  - Girone A / Giornata 6
 ## Dom 26/10/2025 11.00
 
-**SCUOLA HOCKEY INDER SINGH - HCU RASSEMBLEMENT TORINO**
+<strong>SCUOLA HOCKEY INDER SINGH - HCU RASSEMBLEMENT TORINO</strong>
 
 Giornata: Gara 639
 
@@ -95,7 +95,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 <!-- VALCHISONE_START -->
 ## Sab 01/11/2025 14.00 ⭐
 
-**USD MONCALVESE HOCKEY - HP VALCHISONE**
+<strong>USD MONCALVESE HOCKEY - HP VALCHISONE</strong>
 
 Giornata: Gara 640
 
@@ -110,7 +110,7 @@ Location:  Via Goria, 4 Moncalvo
 # Juniores Maschile - OUTDOOR  - Girone A / Giornata 8
 ## Sab 18/10/2025 16.00
 
-**USD MONCALVESE HOCKEY - SCUOLA HOCKEY INDER SINGH**
+<strong>USD MONCALVESE HOCKEY - SCUOLA HOCKEY INDER SINGH</strong>
 
 Giornata: Gara 641
 
@@ -123,7 +123,7 @@ Indirizzo Campo:  Via Goria, 4 - Moncalvo
 <!-- VALCHISONE_START -->
 ## Dom 09/11/2025 14.00 ⭐
 
-**HCU RASSEMBLEMENT TORINO - HP VALCHISONE**
+<strong>HCU RASSEMBLEMENT TORINO - HP VALCHISONE</strong>
 
 Giornata: Gara 642
 

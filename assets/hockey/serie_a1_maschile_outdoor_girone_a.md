@@ -1,7 +1,7 @@
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 1
 ## Sab 14/03/2026 15.00
 
-**HC BONDENO - CUS CAGLIARI**
+<strong>HC BONDENO - CUS CAGLIARI</strong>
 
 Giornata: Gara 754
 
@@ -13,7 +13,7 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 ## Sab 14/03/2026 15.00
 
-**CUS PADOVA ASD - CSP SAN GIORGIO**
+<strong>CUS PADOVA ASD - CSP SAN GIORGIO</strong>
 
 Giornata: Gara 755
 
@@ -25,7 +25,7 @@ Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
 ## Sab 14/03/2026 15.00
 
-**HT SARDEGNA - ASD ADIGE UHC**
+<strong>HT SARDEGNA - ASD ADIGE UHC</strong>
 
 Giornata: Gara 756
 
@@ -37,7 +37,7 @@ Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2
 ## Sab 21/03/2026 15.00
 
-**CUS CAGLIARI - CUS PADOVA ASD**
+<strong>CUS CAGLIARI - CUS PADOVA ASD</strong>
 
 Giornata: Gara 757
 
@@ -49,7 +49,7 @@ Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
 ## Sab 21/03/2026 14.30
 
-**ASD ADIGE UHC - HC BONDENO**
+<strong>ASD ADIGE UHC - HC BONDENO</strong>
 
 Giornata: Gara 758
 
@@ -61,7 +61,7 @@ Indirizzo Campo:  Via Lomba, 23 - Mori
 
 ## Sab 21/03/2026 15.00
 
-**CSP SAN GIORGIO - HT SARDEGNA**
+<strong>CSP SAN GIORGIO - HT SARDEGNA</strong>
 
 Giornata: Gara 759
 
@@ -73,7 +73,7 @@ Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3
 ## Sab 28/03/2026 15.00
 
-**HT SARDEGNA - CUS CAGLIARI**
+<strong>HT SARDEGNA - CUS CAGLIARI</strong>
 
 Giornata: Gara 760
 
@@ -85,7 +85,7 @@ Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 ## Sab 28/03/2026 15.00
 
-**CUS PADOVA ASD - HC BONDENO**
+<strong>CUS PADOVA ASD - HC BONDENO</strong>
 
 Giornata: Gara 761
 
@@ -97,7 +97,7 @@ Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
 ## Sab 28/03/2026 14.30
 
-**ASD ADIGE UHC - CSP SAN GIORGIO**
+<strong>ASD ADIGE UHC - CSP SAN GIORGIO</strong>
 
 Giornata: Gara 762
 
@@ -109,7 +109,7 @@ Indirizzo Campo:  Via Lomba, 23 - Mori
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4
 ## Sab 11/04/2026 15.00
 
-**CUS CAGLIARI - ASD ADIGE UHC**
+<strong>CUS CAGLIARI - ASD ADIGE UHC</strong>
 
 Giornata: Gara 763
 
@@ -121,7 +121,7 @@ Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
 ## Sab 11/04/2026 15.00
 
-**HT SARDEGNA - CUS PADOVA ASD**
+<strong>HT SARDEGNA - CUS PADOVA ASD</strong>
 
 Giornata: Gara 764
 
@@ -133,7 +133,7 @@ Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 ## Sab 11/04/2026 15.00
 
-**HC BONDENO - CSP SAN GIORGIO**
+<strong>HC BONDENO - CSP SAN GIORGIO</strong>
 
 Giornata: Gara 765
 
@@ -145,7 +145,7 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5
 ## Sab 18/04/2026 15.00
 
-**CUS CAGLIARI - CSP SAN GIORGIO**
+<strong>CUS CAGLIARI - CSP SAN GIORGIO</strong>
 
 Giornata: Gara 766
 
@@ -157,7 +157,7 @@ Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
 ## Sab 18/04/2026 15.00
 
-**ASD ADIGE UHC - CUS PADOVA ASD**
+<strong>ASD ADIGE UHC - CUS PADOVA ASD</strong>
 
 Giornata: Gara 767
 
@@ -169,7 +169,7 @@ Indirizzo Campo:  Via Lomba, 23 - Mori
 
 ## Sab 18/04/2026 14.30
 
-**HC BONDENO - HT SARDEGNA**
+<strong>HC BONDENO - HT SARDEGNA</strong>
 
 Giornata: Gara 768
 
@@ -181,7 +181,7 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 6
 ## Sab 25/04/2026 15.00
 
-**CUS CAGLIARI - HC BONDENO**
+<strong>CUS CAGLIARI - HC BONDENO</strong>
 
 Giornata: Gara 769
 
@@ -193,7 +193,7 @@ Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
 ## Sab 25/04/2026 14.30
 
-**CSP SAN GIORGIO - CUS PADOVA ASD**
+<strong>CSP SAN GIORGIO - CUS PADOVA ASD</strong>
 
 Giornata: Gara 770
 
@@ -205,7 +205,7 @@ Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 ## Sab 25/04/2026 15.30
 
-**ASD ADIGE UHC - HT SARDEGNA**
+<strong>ASD ADIGE UHC - HT SARDEGNA</strong>
 
 Giornata: Gara 771
 
@@ -217,7 +217,7 @@ Indirizzo Campo:  Via Lomba, 23 - Mori
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 7
 ## Sab 02/05/2026 15.00
 
-**CUS PADOVA ASD - CUS CAGLIARI**
+<strong>CUS PADOVA ASD - CUS CAGLIARI</strong>
 
 Giornata: Gara 772
 
@@ -229,7 +229,7 @@ Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
 ## Sab 02/05/2026 15.00
 
-**HC BONDENO - ASD ADIGE UHC**
+<strong>HC BONDENO - ASD ADIGE UHC</strong>
 
 Giornata: Gara 773
 
@@ -241,7 +241,7 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 ## Sab 02/05/2026 15.00
 
-**HT SARDEGNA - CSP SAN GIORGIO**
+<strong>HT SARDEGNA - CSP SAN GIORGIO</strong>
 
 Giornata: Gara 774
 
@@ -253,7 +253,7 @@ Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8
 ## Sab 09/05/2026 15.00
 
-**CUS CAGLIARI - HT SARDEGNA**
+<strong>CUS CAGLIARI - HT SARDEGNA</strong>
 
 Giornata: Gara 775
 
@@ -265,7 +265,7 @@ Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
 ## Sab 09/05/2026 15.00
 
-**HC BONDENO - CUS PADOVA ASD**
+<strong>HC BONDENO - CUS PADOVA ASD</strong>
 
 Giornata: Gara 776
 
@@ -277,7 +277,7 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 ## Sab 09/05/2026 15.00
 
-**CSP SAN GIORGIO - ASD ADIGE UHC**
+<strong>CSP SAN GIORGIO - ASD ADIGE UHC</strong>
 
 Giornata: Gara 777
 
@@ -289,7 +289,7 @@ Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9
 ## Sab 16/05/2026 15.30
 
-**ASD ADIGE UHC - CUS CAGLIARI**
+<strong>ASD ADIGE UHC - CUS CAGLIARI</strong>
 
 Giornata: Gara 778
 
@@ -301,7 +301,7 @@ Indirizzo Campo:  Via Lomba, 23 - Mori
 
 ## Sab 16/05/2026 14.30
 
-**CUS PADOVA ASD - HT SARDEGNA**
+<strong>CUS PADOVA ASD - HT SARDEGNA</strong>
 
 Giornata: Gara 779
 
@@ -313,7 +313,7 @@ Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
 ## Sab 16/05/2026 15.00
 
-**CSP SAN GIORGIO - HC BONDENO**
+<strong>CSP SAN GIORGIO - HC BONDENO</strong>
 
 Giornata: Gara 780
 
@@ -325,7 +325,7 @@ Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10
 ## Sab 23/05/2026 15.00
 
-**CSP SAN GIORGIO - CUS CAGLIARI**
+<strong>CSP SAN GIORGIO - CUS CAGLIARI</strong>
 
 Giornata: Gara 781
 
@@ -337,7 +337,7 @@ Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 ## Sab 23/05/2026 15.00
 
-**CUS PADOVA ASD - ASD ADIGE UHC**
+<strong>CUS PADOVA ASD - ASD ADIGE UHC</strong>
 
 Giornata: Gara 782
 
@@ -349,7 +349,7 @@ Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
 ## Sab 23/05/2026 15.00
 
-**HT SARDEGNA - HC BONDENO**
+<strong>HT SARDEGNA - HC BONDENO</strong>
 
 Giornata: Gara 783
 

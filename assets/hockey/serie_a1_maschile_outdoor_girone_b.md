@@ -1,7 +1,7 @@
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1
 ## Sab 14/03/2026 15.00
 
-**H.POTENZA PICENA - HT BOLOGNA**
+<strong>H.POTENZA PICENA - HT BOLOGNA</strong>
 
 Giornata: Gara 724
 
@@ -13,7 +13,7 @@ Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 ## Sab 14/03/2026 15.00
 
-**CUS PISA ASD - SUPERBA HC**
+<strong>CUS PISA ASD - SUPERBA HC</strong>
 
 Giornata: Gara 725
 
@@ -25,7 +25,7 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 ## Sab 14/03/2026 15.00
 
-**S.H.P. BONOMI - POL. JUVENILIA**
+<strong>S.H.P. BONOMI - POL. JUVENILIA</strong>
 
 Giornata: Gara 726
 
@@ -37,7 +37,7 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 2
 ## Sab 21/03/2026 15.00
 
-**SUPERBA HC - H.POTENZA PICENA**
+<strong>SUPERBA HC - H.POTENZA PICENA</strong>
 
 Giornata: Gara 727
 
@@ -49,7 +49,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 ## Sab 21/03/2026 15.30
 
-**HT BOLOGNA - S.H.P. BONOMI**
+<strong>HT BOLOGNA - S.H.P. BONOMI</strong>
 
 Giornata: Gara 728
 
@@ -61,7 +61,7 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 ## Sab 21/03/2026 15.00
 
-**POL. JUVENILIA - CUS PISA ASD**
+<strong>POL. JUVENILIA - CUS PISA ASD</strong>
 
 Giornata: Gara 729
 
@@ -73,7 +73,7 @@ Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3
 ## Sab 28/03/2026 15.00
 
-**H.POTENZA PICENA - POL. JUVENILIA**
+<strong>H.POTENZA PICENA - POL. JUVENILIA</strong>
 
 Giornata: Gara 730
 
@@ -85,7 +85,7 @@ Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 ## Sab 28/03/2026 15.00
 
-**SUPERBA HC - HT BOLOGNA**
+<strong>SUPERBA HC - HT BOLOGNA</strong>
 
 Giornata: Gara 731
 
@@ -97,7 +97,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 ## Sab 28/03/2026 15.00
 
-**CUS PISA ASD - S.H.P. BONOMI**
+<strong>CUS PISA ASD - S.H.P. BONOMI</strong>
 
 Giornata: Gara 732
 
@@ -109,7 +109,7 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 4
 ## Sab 11/04/2026 15.00
 
-**S.H.P. BONOMI - H.POTENZA PICENA**
+<strong>S.H.P. BONOMI - H.POTENZA PICENA</strong>
 
 Giornata: Gara 733
 
@@ -121,7 +121,7 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 ## Sab 11/04/2026 15.30
 
-**SUPERBA HC - POL. JUVENILIA**
+<strong>SUPERBA HC - POL. JUVENILIA</strong>
 
 Giornata: Gara 734
 
@@ -133,7 +133,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 ## Sab 11/04/2026 15.00
 
-**CUS PISA ASD - HT BOLOGNA**
+<strong>CUS PISA ASD - HT BOLOGNA</strong>
 
 Giornata: Gara 735
 
@@ -145,7 +145,7 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 5
 ## Sab 18/04/2026 15.00
 
-**H.POTENZA PICENA - CUS PISA ASD**
+<strong>H.POTENZA PICENA - CUS PISA ASD</strong>
 
 Giornata: Gara 736
 
@@ -157,7 +157,7 @@ Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 ## Sab 18/04/2026 15.00
 
-**S.H.P. BONOMI - SUPERBA HC**
+<strong>S.H.P. BONOMI - SUPERBA HC</strong>
 
 Giornata: Gara 737
 
@@ -169,7 +169,7 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 ## Sab 18/04/2026 15.00
 
-**POL. JUVENILIA - HT BOLOGNA**
+<strong>POL. JUVENILIA - HT BOLOGNA</strong>
 
 Giornata: Gara 738
 
@@ -181,7 +181,7 @@ Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6
 ## Sab 25/04/2026 15.00
 
-**HT BOLOGNA - H.POTENZA PICENA**
+<strong>HT BOLOGNA - H.POTENZA PICENA</strong>
 
 Giornata: Gara 739
 
@@ -193,7 +193,7 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 ## Sab 25/04/2026 13.00
 
-**SUPERBA HC - CUS PISA ASD**
+<strong>SUPERBA HC - CUS PISA ASD</strong>
 
 Giornata: Gara 740
 
@@ -205,7 +205,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 ## Sab 25/04/2026 15.00
 
-**POL. JUVENILIA - S.H.P. BONOMI**
+<strong>POL. JUVENILIA - S.H.P. BONOMI</strong>
 
 Giornata: Gara 741
 
@@ -217,7 +217,7 @@ Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 7
 ## Sab 02/05/2026 15.00
 
-**H.POTENZA PICENA - SUPERBA HC**
+<strong>H.POTENZA PICENA - SUPERBA HC</strong>
 
 Giornata: Gara 742
 
@@ -229,7 +229,7 @@ Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 ## Sab 02/05/2026 15.00
 
-**S.H.P. BONOMI - HT BOLOGNA**
+<strong>S.H.P. BONOMI - HT BOLOGNA</strong>
 
 Giornata: Gara 743
 
@@ -241,7 +241,7 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 ## Sab 02/05/2026 15.00
 
-**CUS PISA ASD - POL. JUVENILIA**
+<strong>CUS PISA ASD - POL. JUVENILIA</strong>
 
 Giornata: Gara 744
 
@@ -253,7 +253,7 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8
 ## Sab 09/05/2026 15.00
 
-**POL. JUVENILIA - H.POTENZA PICENA**
+<strong>POL. JUVENILIA - H.POTENZA PICENA</strong>
 
 Giornata: Gara 745
 
@@ -265,7 +265,7 @@ Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 ## Sab 09/05/2026 15.00
 
-**HT BOLOGNA - SUPERBA HC**
+<strong>HT BOLOGNA - SUPERBA HC</strong>
 
 Giornata: Gara 746
 
@@ -277,7 +277,7 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 ## Sab 09/05/2026 15.00
 
-**S.H.P. BONOMI - CUS PISA ASD**
+<strong>S.H.P. BONOMI - CUS PISA ASD</strong>
 
 Giornata: Gara 747
 
@@ -289,7 +289,7 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9
 ## Sab 16/05/2026 15.00
 
-**H.POTENZA PICENA - S.H.P. BONOMI**
+<strong>H.POTENZA PICENA - S.H.P. BONOMI</strong>
 
 Giornata: Gara 748
 
@@ -301,7 +301,7 @@ Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 ## Sab 16/05/2026 15.00
 
-**POL. JUVENILIA - SUPERBA HC**
+<strong>POL. JUVENILIA - SUPERBA HC</strong>
 
 Giornata: Gara 749
 
@@ -313,7 +313,7 @@ Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 ## Sab 16/05/2026 15.00
 
-**HT BOLOGNA - CUS PISA ASD**
+<strong>HT BOLOGNA - CUS PISA ASD</strong>
 
 Giornata: Gara 750
 
@@ -325,7 +325,7 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 10
 ## Sab 23/05/2026 15.00
 
-**CUS PISA ASD - H.POTENZA PICENA**
+<strong>CUS PISA ASD - H.POTENZA PICENA</strong>
 
 Giornata: Gara 751
 
@@ -337,7 +337,7 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 ## Sab 23/05/2026 15.00
 
-**SUPERBA HC - S.H.P. BONOMI**
+<strong>SUPERBA HC - S.H.P. BONOMI</strong>
 
 Giornata: Gara 752
 
@@ -349,7 +349,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 ## Sab 23/05/2026 15.00
 
-**HT BOLOGNA - POL. JUVENILIA**
+<strong>HT BOLOGNA - POL. JUVENILIA</strong>
 
 Giornata: Gara 753
 

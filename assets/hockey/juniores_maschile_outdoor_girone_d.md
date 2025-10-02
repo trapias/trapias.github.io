@@ -1,7 +1,7 @@
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 1
 ## Dom 05/10/2025 11.00
 
-**LAZIO HOCKEY - BUTTERFLY ROMA**
+<strong>LAZIO HOCKEY - BUTTERFLY ROMA</strong>
 
 Giornata: Gara 273
 
@@ -13,7 +13,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 ## Dom 05/10/2025 12.00
 
-**H.POTENZA PICENA - TEVERE EUR H**
+<strong>H.POTENZA PICENA - TEVERE EUR H</strong>
 
 Giornata: Gara 274
 
@@ -25,7 +25,7 @@ Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 2
 ## Dom 19/10/2025 13.00
 
-**H.POTENZA PICENA - BUTTERFLY ROMA**
+<strong>H.POTENZA PICENA - BUTTERFLY ROMA</strong>
 
 Giornata: Gara 275
 
@@ -37,7 +37,7 @@ Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 ## Dom 19/10/2025 12.00
 
-**HOCKEY CLUB ROMA  - LAZIO HOCKEY**
+<strong>HOCKEY CLUB ROMA - LAZIO HOCKEY</strong>
 
 Giornata: Gara 276
 
@@ -49,7 +49,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 3
 ## Dom 02/11/2025 12.00
 
-**LAZIO HOCKEY - H.POTENZA PICENA**
+<strong>LAZIO HOCKEY - H.POTENZA PICENA</strong>
 
 Giornata: Gara 277
 
@@ -61,7 +61,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 ## Dom 08/03/2026 13.00
 
-**TEVERE EUR H - HOCKEY CLUB ROMA **
+<strong>TEVERE EUR H - HOCKEY CLUB ROMA</strong>
 
 Giornata: Gara 278
 
@@ -73,7 +73,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 4
 ## Dom 02/11/2025 11.00
 
-**BUTTERFLY ROMA - TEVERE EUR H**
+<strong>BUTTERFLY ROMA - TEVERE EUR H</strong>
 
 Giornata: Gara 279
 
@@ -85,7 +85,7 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 ## Dom 16/11/2025 12.00
 
-**H.POTENZA PICENA - HOCKEY CLUB ROMA **
+<strong>H.POTENZA PICENA - HOCKEY CLUB ROMA</strong>
 
 Giornata: Gara 280
 
@@ -97,7 +97,7 @@ Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 5
 ## Dom 01/03/2026 12.00
 
-**TEVERE EUR H - LAZIO HOCKEY**
+<strong>TEVERE EUR H - LAZIO HOCKEY</strong>
 
 Giornata: Gara 281
 
@@ -109,7 +109,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 ## Dom 01/03/2026 12.00
 
-**HOCKEY CLUB ROMA  - BUTTERFLY ROMA**
+<strong>HOCKEY CLUB ROMA - BUTTERFLY ROMA</strong>
 
 Giornata: Gara 282
 
@@ -121,7 +121,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 6
 ## Dom 15/03/2026 11.00
 
-**BUTTERFLY ROMA - LAZIO HOCKEY**
+<strong>BUTTERFLY ROMA - LAZIO HOCKEY</strong>
 
 Giornata: Gara 283
 
@@ -133,7 +133,7 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 ## Dom 15/03/2026 12.00
 
-**TEVERE EUR H - H.POTENZA PICENA**
+<strong>TEVERE EUR H - H.POTENZA PICENA</strong>
 
 Giornata: Gara 284
 
@@ -145,7 +145,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 7
 ## Dom 29/03/2026 12.00
 
-**BUTTERFLY ROMA - H.POTENZA PICENA**
+<strong>BUTTERFLY ROMA - H.POTENZA PICENA</strong>
 
 Giornata: Gara 285
 
@@ -157,7 +157,7 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 ## Dom 29/03/2026 11.00
 
-**LAZIO HOCKEY - HOCKEY CLUB ROMA **
+<strong>LAZIO HOCKEY - HOCKEY CLUB ROMA</strong>
 
 Giornata: Gara 286
 
@@ -169,7 +169,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 8
 ## Dom 12/04/2026 12.00
 
-**H.POTENZA PICENA - LAZIO HOCKEY**
+<strong>H.POTENZA PICENA - LAZIO HOCKEY</strong>
 
 Giornata: Gara 287
 
@@ -181,7 +181,7 @@ Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 ## Dom 12/04/2026 12.00
 
-**HOCKEY CLUB ROMA  - TEVERE EUR H**
+<strong>HOCKEY CLUB ROMA - TEVERE EUR H</strong>
 
 Giornata: Gara 288
 
@@ -193,7 +193,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 9
 ## Dom 26/04/2026 12.00
 
-**TEVERE EUR H - BUTTERFLY ROMA**
+<strong>TEVERE EUR H - BUTTERFLY ROMA</strong>
 
 Giornata: Gara 289
 
@@ -205,7 +205,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 ## Dom 26/04/2026 12.00
 
-**HOCKEY CLUB ROMA  - H.POTENZA PICENA**
+<strong>HOCKEY CLUB ROMA - H.POTENZA PICENA</strong>
 
 Giornata: Gara 290
 
@@ -217,7 +217,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 10
 ## Dom 03/05/2026 11.00
 
-**LAZIO HOCKEY - TEVERE EUR H**
+<strong>LAZIO HOCKEY - TEVERE EUR H</strong>
 
 Giornata: Gara 291
 
@@ -229,7 +229,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 ## Dom 03/05/2026 11.00
 
-**BUTTERFLY ROMA - HOCKEY CLUB ROMA **
+<strong>BUTTERFLY ROMA - HOCKEY CLUB ROMA</strong>
 
 Giornata: Gara 292
 

@@ -1,7 +1,7 @@
 # Allievi - OUTDOOR  - Girone A / Giornata 1
 ## Dom 05/10/2025 10.00
 
-**SCUOLA HOCKEY INDER SINGH - SCUOLA HOCKEY INDER SINGH NEXT GEN**
+<strong>SCUOLA HOCKEY INDER SINGH - SCUOLA HOCKEY INDER SINGH NEXT GEN</strong>
 
 Giornata: Gara 714
 
@@ -13,7 +13,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 ## Dom 05/10/2025 11.30
 
-**HCU RASSEMBLEMENT TORINO - A.S.D. S.H. PAOLO BONOMI**
+<strong>HCU RASSEMBLEMENT TORINO - A.S.D. S.H. PAOLO BONOMI</strong>
 
 Giornata: Gara 715
 
@@ -25,7 +25,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 ## Dom 05/10/2025 14.00
 
-**SCUOLA HOCKEY INDER SINGH - ASD CERNUSCO FIELD HOCKEY**
+<strong>SCUOLA HOCKEY INDER SINGH - ASD CERNUSCO FIELD HOCKEY</strong>
 
 Giornata: Gara 716
 
@@ -37,7 +37,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 ## Dom 05/10/2025 15.30
 
-**HCU RASSEMBLEMENT TORINO - SCUOLA HOCKEY INDER SINGH NEXT GEN**
+<strong>HCU RASSEMBLEMENT TORINO - SCUOLA HOCKEY INDER SINGH NEXT GEN</strong>
 
 Giornata: Gara 717
 
@@ -49,7 +49,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 ## Dom 05/10/2025 17.00
 
-**A.S.D. S.H. PAOLO BONOMI - ASD CERNUSCO FIELD HOCKEY**
+<strong>A.S.D. S.H. PAOLO BONOMI - ASD CERNUSCO FIELD HOCKEY</strong>
 
 Giornata: Gara 718
 
@@ -61,7 +61,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 # Allievi - OUTDOOR  - Girone A / Giornata 2
 ## Dom 26/10/2025 10.00
 
-**HCU RASSEMBLEMENT TORINO - SCUOLA HOCKEY INDER SINGH**
+<strong>HCU RASSEMBLEMENT TORINO - SCUOLA HOCKEY INDER SINGH</strong>
 
 Giornata: Gara 719
 
@@ -73,7 +73,7 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 ## Dom 26/10/2025 11.30
 
-**SCUOLA HOCKEY INDER SINGH NEXT GEN - A.S.D. S.H. PAOLO BONOMI**
+<strong>SCUOLA HOCKEY INDER SINGH NEXT GEN - A.S.D. S.H. PAOLO BONOMI</strong>
 
 Giornata: Gara 720
 
@@ -85,7 +85,7 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 ## Dom 26/10/2025 14.00
 
-**HCU RASSEMBLEMENT TORINO - ASD CERNUSCO FIELD HOCKEY**
+<strong>HCU RASSEMBLEMENT TORINO - ASD CERNUSCO FIELD HOCKEY</strong>
 
 Giornata: Gara 721
 
@@ -97,7 +97,7 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 ## Dom 26/10/2025 15.30
 
-**SCUOLA HOCKEY INDER SINGH - A.S.D. S.H. PAOLO BONOMI**
+<strong>SCUOLA HOCKEY INDER SINGH - A.S.D. S.H. PAOLO BONOMI</strong>
 
 Giornata: Gara 722
 
@@ -109,7 +109,7 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 ## Dom 26/10/2025 17.00
 
-**ASD CERNUSCO FIELD HOCKEY - SCUOLA HOCKEY INDER SINGH NEXT GEN**
+<strong>ASD CERNUSCO FIELD HOCKEY - SCUOLA HOCKEY INDER SINGH NEXT GEN</strong>
 
 Giornata: Gara 723
 

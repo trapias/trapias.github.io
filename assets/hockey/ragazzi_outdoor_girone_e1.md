@@ -1,7 +1,7 @@
 # Ragazzi - OUTDOOR  - Girone E1 / Giornata 1
 ## Dom 19/10/2025 14.00
 
-**POLISPORTIVA VALDAGRI - TEVERE EUR H**
+<strong>POLISPORTIVA VALDAGRI - TEVERE EUR H</strong>
 
 Giornata: Gara 699
 
@@ -13,7 +13,7 @@ Indirizzo Campo:  VIA DELLO SPORT, 1 - VILLA D'AGRI
 # Ragazzi - OUTDOOR  - Girone E1 / Giornata 2
 ## Dom 26/10/2025 14.00
 
-**HOCKEY CLUB ROMA  - POLISPORTIVA VALDAGRI**
+<strong>HOCKEY CLUB ROMA - POLISPORTIVA VALDAGRI</strong>
 
 Giornata: Gara 700
 
@@ -25,7 +25,7 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 # Ragazzi - OUTDOOR  - Girone E1 / Giornata 3
 ## Dom 09/11/2025 11.00
 
-**TEVERE EUR H - HOCKEY CLUB ROMA **
+<strong>TEVERE EUR H - HOCKEY CLUB ROMA</strong>
 
 Giornata: Gara 701
 
@@ -37,7 +37,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 # Ragazzi - OUTDOOR  - Girone E1 / Giornata 4
 ## Dom 15/03/2026 14.00
 
-**POLISPORTIVA VALDAGRI - HOCKEY CLUB ROMA **
+<strong>POLISPORTIVA VALDAGRI - HOCKEY CLUB ROMA</strong>
 
 Giornata: Gara 702
 
@@ -49,7 +49,7 @@ Indirizzo Campo:  VIA DELLO SPORT, 1 - VILLA D'AGRI
 # Ragazzi - OUTDOOR  - Girone E1 / Giornata 5
 ## Dom 22/03/2026 13.00
 
-**TEVERE EUR H - POLISPORTIVA VALDAGRI**
+<strong>TEVERE EUR H - POLISPORTIVA VALDAGRI</strong>
 
 Giornata: Gara 703
 
@@ -61,7 +61,7 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 # Ragazzi - OUTDOOR  - Girone E1 / Giornata 6
 ## Dom 19/04/2026 11.00
 
-**HOCKEY CLUB ROMA  - TEVERE EUR H**
+<strong>HOCKEY CLUB ROMA - TEVERE EUR H</strong>
 
 Giornata: Gara 704
 
