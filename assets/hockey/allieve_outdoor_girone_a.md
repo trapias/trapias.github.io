@@ -15,6 +15,8 @@ Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
 <strong>CUS TORINO - USD MONCALVESE HOCKEY</strong>
 
+**Risultato: 7-4**
+
 Giornata: Gara 675
 
 Campo: Tazzoli 
@@ -38,6 +40,8 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 ## Dom 05/10/2025 11.00
 
 <strong>CUS TORINO - HF LORENZONI</strong>
+
+**Risultato: 0-14**
 
 Giornata: Gara 676
 

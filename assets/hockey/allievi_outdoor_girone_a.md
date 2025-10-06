@@ -3,6 +3,8 @@
 
 <strong>SCUOLA HOCKEY INDER SINGH - SCUOLA HOCKEY INDER SINGH NEXT GEN</strong>
 
+**Risultato: 1-6**
+
 Giornata: Gara 714
 
 Campo: Augusto Lorenzoni 
@@ -14,6 +16,8 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 ## Dom 05/10/2025 11.30
 
 <strong>HCU RASSEMBLEMENT TORINO - A.S.D. S.H. PAOLO BONOMI</strong>
+
+**Risultato: 0-5**
 
 Giornata: Gara 715
 
@@ -27,6 +31,8 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 <strong>SCUOLA HOCKEY INDER SINGH - ASD CERNUSCO FIELD HOCKEY</strong>
 
+**Risultato: 1-6**
+
 Giornata: Gara 716
 
 Campo: Augusto Lorenzoni 
@@ -39,6 +45,8 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 <strong>HCU RASSEMBLEMENT TORINO - SCUOLA HOCKEY INDER SINGH NEXT GEN</strong>
 
+**Risultato: 7-0**
+
 Giornata: Gara 717
 
 Campo: Augusto Lorenzoni 
@@ -50,6 +58,8 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 ## Dom 05/10/2025 17.00
 
 <strong>A.S.D. S.H. PAOLO BONOMI - ASD CERNUSCO FIELD HOCKEY</strong>
+
+**Risultato: 9-3**
 
 Giornata: Gara 718
 

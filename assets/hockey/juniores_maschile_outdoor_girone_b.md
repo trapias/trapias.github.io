@@ -3,6 +3,8 @@
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HC VILLAFRANCA</strong>
 
+**Risultato: 1-8**
+
 Giornata: Gara 263
 
 Campo: Sport Arena 

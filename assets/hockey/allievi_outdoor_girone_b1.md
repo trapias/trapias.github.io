@@ -15,6 +15,8 @@ Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
 <strong>HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT</strong>
 
+**Risultato: 12-0**
+
 Giornata: Gara 455
 
 Campo: Grantorto Hockey Stadium 
@@ -26,6 +28,8 @@ Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 ## Dom 05/10/2025 13.00
 
 <strong>CSP SAN GIORGIO - POLISPORTIVA CAMELOT</strong>
+
+**Risultato: 10-0**
 
 Giornata: Gara 456
 

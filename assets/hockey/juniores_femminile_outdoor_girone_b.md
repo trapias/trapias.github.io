@@ -3,6 +3,8 @@
 
 <strong>HOCKEY CLUB ARGENTIA - MILANO HP</strong>
 
+**Risultato: 1-0**
+
 Giornata: Gara 380
 
 Campo: Campo Comunale 
@@ -38,6 +40,8 @@ Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 ## Dom 05/10/2025 12.00
 
 <strong>HOCKEY CLUB RIVA - HOCKEY CLUB ARGENTIA</strong>
+
+**Risultato: 2-2**
 
 Giornata: Gara 383
 

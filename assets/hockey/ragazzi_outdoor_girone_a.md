@@ -2,7 +2,7 @@
 <!-- VALCHISONE_START -->
 ## - ⭐
 
-<strong>HCU RASSEMBLEMENT TORINO - HP VALCHISONE</strong>
+<strong>HCU RASSEMBLEMENT TORINO RIS - HP VALCHISONE</strong>
 
 Giornata: Gara 682
 
@@ -28,9 +28,11 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 3
-## Sab 04/10/2025 16.30
+## Sab 04/10/2025 17.30
 
-<strong>SCUOLA HOCKEY INDER SINGH - HCU RASSEMBLEMENT TORINO</strong>
+<strong>SCUOLA HOCKEY INDER SINGH - HCU RASSEMBLEMENT TORINO RIS</strong>
+
+**Risultato: 5-1**
 
 Giornata: Gara 684
 
@@ -83,7 +85,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 # Ragazzi - OUTDOOR  - Girone A / Giornata 7
 ## Sab 15/11/2025 14.30
 
-<strong>A.S.D. S.H. PAOLO BONOMI - HCU RASSEMBLEMENT TORINO</strong>
+<strong>A.S.D. S.H. PAOLO BONOMI - HCU RASSEMBLEMENT TORINO RIS</strong>
 
 Giornata: Gara 688
 
@@ -124,7 +126,7 @@ Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 <!-- VALCHISONE_START -->
 ## - ⭐
 
-<strong>HCU RASSEMBLEMENT TORINO - HP VALCHISONE</strong>
+<strong>HCU RASSEMBLEMENT TORINO RIS - HP VALCHISONE</strong>
 
 Giornata: Gara 691
 
@@ -152,7 +154,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 # Ragazzi - OUTDOOR  - Girone A / Giornata 11
 ## Dom 09/11/2025 16.00
 
-<strong>ASD CERNUSCO FIELD HOCKEY - HCU RASSEMBLEMENT TORINO</strong>
+<strong>ASD CERNUSCO FIELD HOCKEY - HCU RASSEMBLEMENT TORINO RIS</strong>
 
 Giornata: Gara 693
 
@@ -192,7 +194,7 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 # Ragazzi - OUTDOOR  - Girone A / Giornata 13
 ## Dom 16/11/2025 11.00
 
-<strong>HCU RASSEMBLEMENT TORINO - HCU RASSEMBLEMENT TORINO</strong>
+<strong>HCU RASSEMBLEMENT TORINO - HCU RASSEMBLEMENT TORINO RIS</strong>
 
 Giornata: Gara 696
 

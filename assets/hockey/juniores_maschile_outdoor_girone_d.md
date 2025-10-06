@@ -3,6 +3,8 @@
 
 <strong>LAZIO HOCKEY - BUTTERFLY ROMA</strong>
 
+**Risultato: 0-6**
+
 Giornata: Gara 273
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
@@ -14,6 +16,8 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 ## Dom 05/10/2025 12.00
 
 <strong>H.POTENZA PICENA - TEVERE EUR H</strong>
+
+**Risultato: 0-3**
 
 Giornata: Gara 274
 

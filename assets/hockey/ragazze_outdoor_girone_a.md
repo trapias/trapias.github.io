@@ -3,6 +3,8 @@
 
 <strong>CUS TORINO - HF LORENZONI</strong>
 
+**Risultato: 0-2**
+
 Giornata: Gara 664
 
 Campo: Tazzoli 
@@ -46,6 +48,8 @@ Location:  Via Boccaccio, snc Cernusco sul Naviglio
 ## Sab 04/10/2025 16.30
 
 <strong>CUS TORINO - USD MONCALVESE HOCKEY</strong>
+
+**Risultato: 2-0**
 
 Giornata: Gara 667
 

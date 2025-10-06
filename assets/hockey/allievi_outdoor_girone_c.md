@@ -27,6 +27,8 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 <strong>ASD BAD LAKE HOCKEY B - HC GENOVA</strong>
 
+**Risultato: 4-9**
+
 Giornata: Gara 353
 
 Campo: CAMPO G.ARNALDI 
@@ -47,7 +49,7 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 
 
-## Sab 11/10/2025 17.30
+## Sab 11/10/2025 12.00
 
 <strong>HC GENOVA RAINBOW - GENOVA H 1980 ROVESCIO</strong>
 
@@ -218,6 +220,8 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 ## Dom 28/09/2025 09.30
 
 <strong>ASD BAD LAKE HOCKEY B - ASD BAD LAKE HOCKEY</strong>
+
+**Risultato: 0-15**
 
 Giornata: Gara 368
 

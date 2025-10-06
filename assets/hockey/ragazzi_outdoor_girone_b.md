@@ -27,6 +27,8 @@ Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
 <strong>CSP SAN GIORGIO - HOCKEY TRIESTE 2012</strong>
 
+**Risultato: 14-0**
+
 Giornata: Gara 402
 
 Campo: campo hockey s. farinazzo 

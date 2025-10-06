@@ -3,6 +3,8 @@
 
 <strong>GENOVA H 1980 DRITTO - HC GENOVA</strong>
 
+**Risultato: 5-2**
+
 Giornata: Gara 341
 
 Campo: CAMPO G.ARNALDI 
@@ -50,6 +52,8 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 ## Sab 04/10/2025 12.00
 
 <strong>GENOVA H 1980 ROVESCIO - GENOVA H 1980 DRITTO</strong>
+
+**Risultato: 1-7**
 
 Giornata: Gara 345
 

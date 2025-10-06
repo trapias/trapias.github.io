@@ -15,6 +15,8 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 <strong>HC RAINBOW SAMPIERDARENA - HC GENOVA</strong>
 
+**Risultato: 0-9**
+
 Giornata: Gara 322
 
 Campo: CAMPO G.ARNALDI 
@@ -35,7 +37,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 
 
-## Sab 11/10/2025 16.00
+## Sab 08/11/2025 17.30
 
 <strong>CUS PISA ASD - SPORT AND GO</strong>
 

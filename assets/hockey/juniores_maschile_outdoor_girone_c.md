@@ -63,6 +63,8 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 <strong>GENOVA H 1980 - HC SAVONA</strong>
 
+**Risultato: 8-3**
+
 Giornata: Gara 310
 
 Campo: CAMPO G.ARNALDI 
