@@ -1,0 +1,200 @@
+# Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 1
+## Sab 20/09/2025 14.00
+
+<strong>HOCKEY CLUB RIVA - A.R.FINCANTIERI A.S.D.</strong>
+
+**Risultato: 8-0**
+
+Giornata: Gara 191
+
+Campo: Comunale Mori 
+
+Indirizzo Campo:  Via Lomba, 23 - Mori
+
+
+
+## Sab 20/09/2025 15.00
+
+<strong>HC GRANTORTO - HC VILLAFRANCA</strong>
+
+**Risultato: 0-2**
+
+Giornata: Gara 192
+
+Campo: Grantorto Hockey Stadium 
+
+Indirizzo Campo:  Viale dello sport, 7 - Grantorto
+
+
+
+## Sab 04/10/2025 15.00
+
+<strong>HOCKEY CUSCUBE BRESCIA - ASD CERNUSCO FIELD HOCKEY</strong>
+
+**Risultato: 1-6**
+
+Giornata: Gara 193
+
+Campo: Comunale San Polo 
+
+Indirizzo Campo:  Via Giotto, 1 - Brescia
+
+
+# Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 2
+## Sab 27/09/2025 15.00
+
+<strong>HOCKEY CLUB RIVA - HOCKEY CUSCUBE BRESCIA</strong>
+
+**Risultato: 3-0**
+
+Giornata: Gara 194
+
+Campo: Comunale Mori 
+
+Indirizzo Campo:  Via Lomba, 23 - Mori
+
+
+
+## Sab 27/09/2025 15.00
+
+<strong>ASD CERNUSCO FIELD HOCKEY - HC GRANTORTO</strong>
+
+**Risultato: 3-4**
+
+Giornata: Gara 195
+
+Campo: Campo Comunale 
+
+Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+
+
+
+## Sab 27/09/2025 15.00
+
+<strong>HC VILLAFRANCA - A.R.FINCANTIERI A.S.D.</strong>
+
+**Risultato: 10-1**
+
+Giornata: Gara 196
+
+Campo: Impianto comunale Nereo Faccioli 
+
+Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
+
+
+# Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 3
+## Sab 11/10/2025 15.00
+
+<strong>HC GRANTORTO - HOCKEY CLUB RIVA</strong>
+
+**Risultato: 0-2**
+
+Giornata: Gara 197
+
+Campo: Grantorto Hockey Stadium 
+
+Indirizzo Campo:  Viale dello sport, 7 - Grantorto
+
+
+
+## Sab 11/10/2025 15.00
+
+<strong>A.R.FINCANTIERI A.S.D. - HOCKEY CUSCUBE BRESCIA</strong>
+
+**Risultato: 2-3**
+
+Giornata: Gara 198
+
+Campo: Campo Ass. R. Fincantieri 
+
+Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
+
+
+
+## Sab 11/10/2025 15.00
+
+<strong>HC VILLAFRANCA - ASD CERNUSCO FIELD HOCKEY</strong>
+
+**Risultato: 3-3**
+
+Giornata: Gara 199
+
+Campo: Impianto comunale Nereo Faccioli 
+
+Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
+
+
+# Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 4
+## Sab 18/10/2025 15.00
+
+<strong>ASD CERNUSCO FIELD HOCKEY - HOCKEY CLUB RIVA</strong>
+
+Giornata: Gara 200
+
+Campo: Campo Comunale 
+
+Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+
+
+
+## Sab 18/10/2025 15.00
+
+<strong>HC VILLAFRANCA - HOCKEY CUSCUBE BRESCIA</strong>
+
+Giornata: Gara 201
+
+Campo: Impianto comunale Nereo Faccioli 
+
+Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
+
+
+
+## Sab 18/10/2025 15.00
+
+<strong>A.R.FINCANTIERI A.S.D. - HC GRANTORTO</strong>
+
+Giornata: Gara 202
+
+Campo: Campo Ass. R. Fincantieri 
+
+Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
+
+
+# Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 5
+## Sab 04/10/2025 13.00
+
+<strong>HOCKEY CLUB RIVA - HC VILLAFRANCA</strong>
+
+**Risultato: 2-0**
+
+Giornata: Gara 203
+
+Campo: Comunale Mori 
+
+Indirizzo Campo:  Via Lomba, 23 - Mori
+
+
+
+## Sab 25/10/2025 15.00
+
+<strong>ASD CERNUSCO FIELD HOCKEY - A.R.FINCANTIERI A.S.D.</strong>
+
+Giornata: Gara 204
+
+Campo: Campo Comunale 
+
+Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+
+
+
+## Sab 25/10/2025 15.00
+
+<strong>HOCKEY CUSCUBE BRESCIA - HC GRANTORTO</strong>
+
+Giornata: Gara 205
+
+Campo: Comunale San Polo 
+
+Indirizzo Campo:  Via Giotto, 1 - Brescia
+
+

@@ -1,0 +1,360 @@
+# U12 Femminile - Torneo Preagonistico Esordienti / Giornata 1
+## Dom 28/06/2026 11.00
+
+<strong>CUS TORINO - SQUADRA JOLLY</strong>
+
+Giornata: Gara 988
+
+Campo: Tazzoli 
+
+Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>HF LORENZONI - SQUADRA JOLLY</strong>
+
+Giornata: Gara 990
+
+Campo: Augusto Lorenzoni 
+
+Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>HOCKEY CLUB ARGENTIA - SQUADRA JOLLY</strong>
+
+Giornata: Gara 991
+
+Campo: Campo Comunale 
+
+Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>HOCKEY CLUB RIVA - SQUADRA JOLLY</strong>
+
+Giornata: Gara 992
+
+Campo: Campo Hockey Club Riva 
+
+Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>CSP SAN GIORGIO - SQUADRA JOLLY</strong>
+
+Giornata: Gara 993
+
+Campo: campo hockey s. farinazzo 
+
+Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>HF GENOVA 1980 - SQUADRA JOLLY</strong>
+
+Giornata: Gara 994
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>HC GENOVA - SQUADRA JOLLY</strong>
+
+Giornata: Gara 995
+
+Campo: FIESCHI STADIUM 
+
+Indirizzo Campo:  VIA FIESCHI, 20 - GENOVA
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>ASD SUPERBA HC - SQUADRA JOLLY</strong>
+
+Giornata: Gara 996
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>CUS PISA ASD - SQUADRA JOLLY</strong>
+
+Giornata: Gara 997
+
+Campo: CAMPO HOCKEY PRATO 
+
+Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>H.POTENZA PICENA - SQUADRA JOLLY</strong>
+
+Giornata: Gara 998
+
+Campo: STADIO HOCKEY POTENZA PICENA 
+
+Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>ASD HOCKEY CLUB MOGLIANO - SQUADRA JOLLY</strong>
+
+Giornata: Gara 999
+
+Campo: BAGLIANO 
+
+Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>LAZIO HOCKEY - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1000
+
+Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
+
+Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>UH CAPITOLINA - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1001
+
+Campo: EUROMA STADIUM 
+
+Indirizzo Campo:  Via Bilbao, 12 - Roma
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>HOCKEY CLUB OLIMPIA - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1002
+
+Campo: Sintetico Comunale 
+
+Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>SG AMSICORA - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1003
+
+Campo: AMSICORA 
+
+Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>SPORT AND GO - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1004
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>AZ HOCKEY TEAM - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1005
+
+Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
+
+Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>ASD SPORT LIFE - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1006
+
+Campo: DUSMET 
+
+Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>ASD HOCKEY CLUB ERCHIE SANTA LUCIA - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1007
+
+Campo: Sintetico Comunale 
+
+Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>HC LARIO - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1008
+
+Campo: Campo Comunale 
+
+Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>ASD ADIGE UHC - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1009
+
+Campo: Comunale Mori 
+
+Indirizzo Campo:  Via Lomba, 23 - Mori
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>CUS PADOVA - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1010
+
+Campo: Impianti L. Merigliano 
+
+Indirizzo Campo:  via J. Corrado, 4 - Padova
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>HC RAINBOW - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1011
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>ASD HOCKEY CLUB BONDENO - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1012
+
+Campo: A. GIATTI 
+
+Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>HOCKEY CLUB ROMA - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1013
+
+Campo: Campo Comunale Oriolo Romano 
+
+Indirizzo Campo:  Via G. Rodari, 5 - Oriolo Romano
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>BUTTERFLY ROMA - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1014
+
+Campo: CENTRO GIULIO ONESTI 
+
+Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>CIRCOLO POLICORO MAGNA GRECIA - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1015
+
+Campo: Lido Policoro 
+
+Indirizzo Campo:  Via Lido, snc - Policoro
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>POLISPORTIVA VALDAGRI - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1016
+
+Campo: Campo Villa D\'agri 
+
+Indirizzo Campo:  VIA DELLO SPORT, 1 - VILLA D'AGRI
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>POL GALATEA - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1017
+
+Campo: DUSMET 
+
+Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+
+
+## Dom 28/06/2026 11.00
+
+<strong>HF LORENZONI 2 - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1066
+
+Campo: Augusto Lorenzoni 
+
+Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+
+

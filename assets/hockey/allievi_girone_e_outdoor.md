@@ -1,0 +1,72 @@
+# Allievi - OUTDOOR  - Girone E / Giornata 1
+## Dom 19/10/2025 11.00
+
+<strong>PGS DON BOSCO 2000 ASD - POL GALATEA</strong>
+
+Giornata: Gara 958
+
+Campo: Oratorio Salesiano 
+
+Indirizzo Campo:  Via S.G.Bosco, 6 - Barcellona Pozzo di Gotto
+
+
+
+## Dom 19/10/2025 11.00
+
+<strong>SSD UNIME ARL - ASD SAN PIETRO CLARENZA</strong>
+
+Giornata: Gara 959
+
+Campo: Cittadella Universitaria 
+
+Indirizzo Campo:  Viale Annunziata, snc - Messina
+
+
+# Allievi - OUTDOOR  - Girone E / Giornata 2
+## Dom 26/10/2025 10.00
+
+<strong>POL GALATEA - SSD UNIME ARL</strong>
+
+Giornata: Gara 960
+
+Campo: DUSMET 
+
+Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+
+
+## Dom 26/10/2025 11.00
+
+<strong>ASD SAN PIETRO CLARENZA - PGS DON BOSCO 2000 ASD</strong>
+
+Giornata: Gara 963
+
+Campo: DUSMET 
+
+Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+
+# Allievi - OUTDOOR  - Girone E / Giornata 3
+## Sab 08/11/2025 15.30
+
+<strong>ASD SAN PIETRO CLARENZA - POL GALATEA</strong>
+
+Giornata: Gara 955
+
+Campo: DUSMET 
+
+Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+
+
+## Sab 08/11/2025 15.30
+
+<strong>PGS DON BOSCO 2000 ASD - SSD UNIME ARL</strong>
+
+Giornata: Gara 956
+
+Campo: Oratorio Salesiano 
+
+Indirizzo Campo:  Via S.G.Bosco, 6 - Barcellona Pozzo di Gotto
+
+
