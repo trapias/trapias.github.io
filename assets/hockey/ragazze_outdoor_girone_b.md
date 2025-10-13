@@ -15,6 +15,8 @@ Indirizzo Campo:  Via Lomba, 23 - Mori
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - CUS PADOVA ASD</strong>
 
+**Risultato: 1-5**
+
 Giornata: Gara 431
 
 Campo: CP BARCA 

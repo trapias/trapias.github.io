@@ -3,6 +3,8 @@
 
 <strong>HOCKEY CLUB RIVA - CUS PADOVA ASD</strong>
 
+**Risultato: 3-1**
+
 Giornata: Gara 400
 
 Campo: Comunale Mori 
@@ -14,6 +16,8 @@ Indirizzo Campo:  Via Lomba, 23 - Mori
 ## Dom 21/09/2025 13.00
 
 <strong>POLISPORTIVA CAMELOT - ASD ADIGE UHC</strong>
+
+**Risultato: 1-16**
 
 Giornata: Gara 401
 
@@ -40,6 +44,8 @@ Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 ## Dom 12/10/2025 11.00
 
 <strong>CUS PADOVA ASD - CSP SAN GIORGIO</strong>
+
+**Risultato: 0-1**
 
 Giornata: Gara 403
 

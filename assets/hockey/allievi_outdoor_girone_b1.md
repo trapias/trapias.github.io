@@ -3,6 +3,8 @@
 
 <strong>CSP SAN GIORGIO - ASD ADIGE UHC</strong>
 
+**Risultato: 9-2**
+
 Giornata: Gara 454
 
 Campo: Grantorto Hockey Stadium 
@@ -42,6 +44,8 @@ Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 ## Dom 05/10/2025 13.00
 
 <strong>HOCKEY CLUB RIVA - ASD ADIGE UHC</strong>
+
+**Risultato: 11-0**
 
 Giornata: Gara 457
 

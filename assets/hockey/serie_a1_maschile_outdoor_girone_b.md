@@ -25,7 +25,7 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 ## Sab 14/03/2026 15.00
 
-<strong>S.H.P. BONOMI - POL. JUVENILIA</strong>
+<strong>S.H.P. BONOMI - A.S.D. POLISPORTIVA JUVENILIA</strong>
 
 Giornata: Gara 726
 
@@ -61,7 +61,7 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 ## Sab 21/03/2026 15.00
 
-<strong>POL. JUVENILIA - CUS PISA ASD</strong>
+<strong>A.S.D. POLISPORTIVA JUVENILIA - CUS PISA ASD</strong>
 
 Giornata: Gara 729
 
@@ -73,7 +73,7 @@ Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3
 ## Sab 28/03/2026 15.00
 
-<strong>H.POTENZA PICENA - POL. JUVENILIA</strong>
+<strong>H.POTENZA PICENA - A.S.D. POLISPORTIVA JUVENILIA</strong>
 
 Giornata: Gara 730
 
@@ -121,7 +121,7 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 ## Sab 11/04/2026 15.30
 
-<strong>SUPERBA HC - POL. JUVENILIA</strong>
+<strong>SUPERBA HC - A.S.D. POLISPORTIVA JUVENILIA</strong>
 
 Giornata: Gara 734
 
@@ -169,7 +169,7 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 ## Sab 18/04/2026 15.00
 
-<strong>POL. JUVENILIA - HT BOLOGNA</strong>
+<strong>A.S.D. POLISPORTIVA JUVENILIA - HT BOLOGNA</strong>
 
 Giornata: Gara 738
 
@@ -205,7 +205,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 ## Sab 25/04/2026 15.00
 
-<strong>POL. JUVENILIA - S.H.P. BONOMI</strong>
+<strong>A.S.D. POLISPORTIVA JUVENILIA - S.H.P. BONOMI</strong>
 
 Giornata: Gara 741
 
@@ -241,7 +241,7 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 ## Sab 02/05/2026 15.00
 
-<strong>CUS PISA ASD - POL. JUVENILIA</strong>
+<strong>CUS PISA ASD - A.S.D. POLISPORTIVA JUVENILIA</strong>
 
 Giornata: Gara 744
 
@@ -253,7 +253,7 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8
 ## Sab 09/05/2026 15.00
 
-<strong>POL. JUVENILIA - H.POTENZA PICENA</strong>
+<strong>A.S.D. POLISPORTIVA JUVENILIA - H.POTENZA PICENA</strong>
 
 Giornata: Gara 745
 
@@ -301,7 +301,7 @@ Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 ## Sab 16/05/2026 15.00
 
-<strong>POL. JUVENILIA - SUPERBA HC</strong>
+<strong>A.S.D. POLISPORTIVA JUVENILIA - SUPERBA HC</strong>
 
 Giornata: Gara 749
 
@@ -349,7 +349,7 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 ## Sab 23/05/2026 15.00
 
-<strong>HT BOLOGNA - POL. JUVENILIA</strong>
+<strong>HT BOLOGNA - A.S.D. POLISPORTIVA JUVENILIA</strong>
 
 Giornata: Gara 753
 

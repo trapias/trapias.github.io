@@ -15,6 +15,8 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 <strong>CUS PISA ASD - ASD SUPERBA HC</strong>
 
+**Risultato: 0-8**
+
 Giornata: Gara 306
 
 Campo: CAMPO HOCKEY PRATO 
@@ -124,6 +126,8 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 ## Dom 12/10/2025 11.00
 
 <strong>HC SAVONA - HC GENOVA</strong>
+
+**Risultato: 1-2**
 
 Giornata: Gara 315
 

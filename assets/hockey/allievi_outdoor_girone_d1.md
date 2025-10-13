@@ -15,6 +15,8 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 <strong>BUTTERFLY ROMA - TEVERE EUR H</strong>
 
+**Risultato: 3-1**
+
 Giornata: Gara 543
 
 Campo: CENTRO GIULIO ONESTI 

@@ -3,6 +3,8 @@
 
 <strong>LAZIO HOCKEY - POL GALATEA</strong>
 
+**Risultato: 2-0**
+
 Giornata: Gara 627
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

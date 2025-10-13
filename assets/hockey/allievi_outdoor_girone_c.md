@@ -3,6 +3,8 @@
 
 <strong>GENOVA H 1980 DRITTO - HC GENOVA RAINBOW</strong>
 
+**Risultato: 13-0**
+
 Giornata: Gara 351
 
 Campo: CAMPO G.ARNALDI 
@@ -14,6 +16,8 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 ## Dom 12/10/2025 13.00
 
 <strong>GENOVA H 1980 ROVESCIO - CUS PISA ASD</strong>
+
+**Risultato: 4-3**
 
 Giornata: Gara 352
 
@@ -52,6 +56,8 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 ## Sab 11/10/2025 12.00
 
 <strong>HC GENOVA RAINBOW - GENOVA H 1980 ROVESCIO</strong>
+
+**Risultato: 7-2**
 
 Giornata: Gara 355
 
@@ -246,6 +252,8 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 ## Dom 12/10/2025 11.00
 
 <strong>GENOVA H 1980 DRITTO - CUS PISA ASD</strong>
+
+**Risultato: 9-1**
 
 Giornata: Gara 608
 

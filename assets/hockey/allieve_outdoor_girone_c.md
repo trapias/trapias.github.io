@@ -15,6 +15,8 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 <strong>CUS PISA ASD - HF GENOVA 1980</strong>
 
+**Risultato: 13-1**
+
 Giornata: Gara 333
 
 Campo: CAMPO HOCKEY PRATO 

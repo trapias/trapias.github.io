@@ -3,6 +3,8 @@
 
 <strong>AZ HOCKEY TEAM - LAZIO HOCKEY</strong>
 
+**Risultato: 2-4**
+
 Giornata: Gara 609
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
@@ -14,6 +16,8 @@ Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 ## Dom 12/10/2025 11.30
 
 <strong>H.POTENZA PICENA - BUTTERFLY ROMA</strong>
+
+**Risultato: 16-1**
 
 Giornata: Gara 610
 

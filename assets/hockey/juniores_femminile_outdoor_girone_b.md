@@ -17,6 +17,8 @@ Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
 <strong>CUS PADOVA ASD - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 2-3**
+
 Giornata: Gara 381
 
 Campo: Impianti L. Merigliano 

@@ -17,6 +17,8 @@ Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CSP SAN GIORGIO</strong>
 
+**Risultato: 2-6**
+
 Giornata: Gara 265
 
 Campo: Sport Arena 

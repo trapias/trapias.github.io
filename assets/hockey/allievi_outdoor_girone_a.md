@@ -3,7 +3,7 @@
 
 <strong>SCUOLA HOCKEY INDER SINGH - SCUOLA HOCKEY INDER SINGH NEXT GEN</strong>
 
-**Risultato: 1-6**
+**Risultato: 6-1**
 
 Giornata: Gara 714
 

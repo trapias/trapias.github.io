@@ -3,6 +3,8 @@
 
 <strong>HOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO</strong>
 
+**Risultato: 1-2**
+
 Giornata: Gara 466
 
 Campo: CP BARCA 
@@ -14,6 +16,8 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 ## Dom 05/10/2025 11.00
 
 <strong>HC PISTOIA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
+
+**Risultato: 2-0**
 
 Giornata: Gara 467
 
@@ -27,6 +31,8 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 <strong>HOCKEY TEAM BOLOGNA - HC PISTOIA</strong>
 
+**Risultato: 21-0**
+
 Giornata: Gara 468
 
 Campo: CP BARCA 
@@ -38,6 +44,8 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 ## Dom 05/10/2025 13.00
 
 <strong>ASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
+
+**Risultato: 2-0**
 
 Giornata: Gara 469
 

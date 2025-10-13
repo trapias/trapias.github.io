@@ -3,6 +3,8 @@
 
 <strong>CUS PADOVA ASD - ASD ADIGE UHC</strong>
 
+**Risultato: 4-0**
+
 Giornata: Gara 478
 
 Campo: Impianti L. Merigliano 
@@ -14,6 +16,8 @@ Indirizzo Campo:  via J. Corrado, 4 - Padova
 ## Dom 05/10/2025 13.00
 
 <strong>CUS PADOVA ASD - ASD ADIGE UHC</strong>
+
+**Risultato: 2-3**
 
 Giornata: Gara 479
 
@@ -27,6 +31,8 @@ Indirizzo Campo:  via J. Corrado, 4 - Padova
 
 <strong>HOCKEY CLUB RIVA - ASD HOCKEY CLUB BONDENO</strong>
 
+**Risultato: 1-9**
+
 Giornata: Gara 480
 
 Campo: Campo Hockey Club Riva 
@@ -38,6 +44,8 @@ Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 ## Dom 05/10/2025 13.00
 
 <strong>HOCKEY CLUB RIVA - ASD HOCKEY CLUB BONDENO</strong>
+
+**Risultato: 1-12**
 
 Giornata: Gara 481
 
@@ -71,7 +79,7 @@ Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
 
 
-## Dom 26/10/2025 12.30
+## Dom 26/10/2025 11.00
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
 
@@ -83,7 +91,7 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 
 
-## Dom 26/10/2025 14.30
+## Dom 26/10/2025 13.00
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
 

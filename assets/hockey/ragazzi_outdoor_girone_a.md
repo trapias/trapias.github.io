@@ -187,7 +187,6 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 <!-- VALCHISONE_END -->
 
 
