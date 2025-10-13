@@ -123,7 +123,7 @@ Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
 # Juniores Maschile - OUTDOOR  - Girone A / Giornata 9
 <!-- VALCHISONE_START -->
-## Dom 09/11/2025 14.00 ⭐
+## Sab 08/11/2025 14.00 ⭐
 
 <strong>HCU RASSEMBLEMENT TORINO - HP VALCHISONE</strong>
 

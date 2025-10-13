@@ -89,7 +89,6 @@ Campo: PINO PALMIERI
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
 <!-- VALCHISONE_END -->
 
 
