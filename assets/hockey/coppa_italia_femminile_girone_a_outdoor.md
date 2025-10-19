@@ -152,6 +152,8 @@ Geo: Geo(latitude=44.7025438, longitude=7.8360955)
 
 <strong>HC GENOVA - CUS TORINO</strong>
 
+**Risultato: 1-3**
+
 Giornata: Gara 71
 
 Campo: CAMPO G.ARNALDI 
@@ -167,6 +169,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Dom 19/10/2025 15.00
 
 <strong>HF LORENZONI - HF LORENZONI RIS.</strong>
+
+**Risultato: 4-0**
 
 Giornata: Gara 257
 

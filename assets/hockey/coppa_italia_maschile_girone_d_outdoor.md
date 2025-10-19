@@ -39,6 +39,8 @@ Location:  VIA S. EMILIANO, snc Uras
 
 <strong>CUS CAGLIARI - A.S.D. POLISPORTIVA JUVENILIA</strong>
 
+**Risultato: 4-3**
+
 Giornata: Gara 122
 
 Campo: Comunale Uras 

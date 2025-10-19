@@ -6,6 +6,8 @@
 
 <strong>PGS DON BOSCO 2000 ASD - POL GALATEA</strong>
 
+**Risultato: 2-1**
+
 Giornata: Gara 958
 
 Campo: Oratorio Salesiano 

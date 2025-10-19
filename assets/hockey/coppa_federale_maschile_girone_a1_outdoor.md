@@ -193,6 +193,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>USD MONCALVESE HOCKEY - GENOVA H 1980 RIS.</strong>
 
+**Risultato: 5-4**
+
 Giornata: Gara 181
 
 Campo: UMBERTO MICCO 

@@ -387,6 +387,8 @@ Location:  VIA J. CORRADO, 24 Padova
 
 <strong>HOCKEY TEAM BOLOGNA - CSP SAN GIORGIO</strong>
 
+**Risultato: 7-0**
+
 Giornata: Gara 92
 
 Campo: CP BARCA 
@@ -414,6 +416,8 @@ Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
 ## Dom 19/10/2025 15.00
 
 <strong>ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC</strong>
+
+**Risultato: 3-3**
 
 Giornata: Gara 167
 

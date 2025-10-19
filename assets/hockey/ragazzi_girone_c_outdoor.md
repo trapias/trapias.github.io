@@ -55,6 +55,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>HOCKEY TEAM BOLOGNA - CUS PISA ASD</strong>
 
+**Risultato: 7-0**
+
 Giornata: Gara 445
 
 Campo: CP BARCA 

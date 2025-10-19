@@ -107,6 +107,8 @@ Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
 
 <strong>LAZIO HOCKEY - UH CAPITOLINA</strong>
 
+**Risultato: 1-0**
+
 Giornata: Gara 239
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

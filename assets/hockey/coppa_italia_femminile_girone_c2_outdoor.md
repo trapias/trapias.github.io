@@ -25,6 +25,8 @@ Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
 
 <strong>POLISPORTIVA FERRINI - SG AMSICORA</strong>
 
+**Risultato: 0-3**
+
 Giornata: Gara 230
 
 Campo: A. Maxia 

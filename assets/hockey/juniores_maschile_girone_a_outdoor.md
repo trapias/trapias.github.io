@@ -104,6 +104,8 @@ Location:  Via Boccaccio, snc Cernusco sul Naviglio
 
 <strong>HCU RASSEMBLEMENT TORINO - ASD CERNUSCO FIELD HOCKEY</strong>
 
+**Risultato: 4-2**
+
 Giornata: Gara 638
 
 Campo: Tazzoli 

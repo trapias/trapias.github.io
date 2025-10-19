@@ -6,6 +6,8 @@
 
 <strong>CUS PISA ASD - SPORT AND GO</strong>
 
+**Risultato: 3-1**
+
 Giornata: Gara 332
 
 Campo: CAMPO HOCKEY PRATO 
@@ -65,6 +67,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>CUS PISA ASD - HC RAINBOW SAMPIERDARENA</strong>
 
+**Risultato: 8-0**
+
 Giornata: Gara 337
 
 Campo: CAMPO HOCKEY PRATO 
@@ -99,6 +103,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Dom 19/10/2025 12.00
 
 <strong>SPORT AND GO - HC RAINBOW SAMPIERDARENA</strong>
+
+**Risultato: 2-0**
 
 Giornata: Gara 339
 

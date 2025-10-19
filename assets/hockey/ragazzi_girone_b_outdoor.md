@@ -112,6 +112,8 @@ Location:  Via Atleti Azzurri  d'Italia, snc Monfalcone
 
 <strong>HOCKEY CLUB RIVA - HOCKEY TRIESTE 2012</strong>
 
+**Risultato: 12-0**
+
 Giornata: Gara 406
 
 Campo: Comunale Mori 
@@ -143,6 +145,8 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 ## Dom 19/10/2025 11.00
 
 <strong>POLISPORTIVA CAMELOT - CUS PADOVA ASD</strong>
+
+**Risultato: 1-3**
 
 Giornata: Gara 408
 

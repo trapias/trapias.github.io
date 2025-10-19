@@ -103,6 +103,8 @@ Location:  Bologna - VIA SANZIO, 8, 2 Bologna
 
 <strong>HOCKEY CLUB RIVA - CUS PADOVA ASD</strong>
 
+**Risultato: 3-0**
+
 Giornata: Gara 61
 
 Campo: Comunale Mori 
