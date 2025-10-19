@@ -14,6 +14,8 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
 ## Gio 23/10/2025 19.30
@@ -26,6 +28,7 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
+Location:  VIA S. EMILIANO, snc Uras
 Location:  VIA S. EMILIANO, snc Uras
 
 
@@ -43,6 +46,7 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
+Location:  VIA S. EMILIANO, snc Uras
 
 
 ## Sab 20/09/2025 15.00
@@ -57,6 +61,7 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
 
 
@@ -77,6 +82,8 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
 ## Gio 09/10/2025 20.00
@@ -91,6 +98,7 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
 
 
@@ -109,6 +117,8 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
 ## Sab 27/09/2025 14.30
@@ -123,6 +133,7 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
 
 
@@ -140,6 +151,7 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
+Location:  VIA S. EMILIANO, snc Uras
 
 
 ## Sab 04/10/2025 14.30
@@ -154,6 +166,7 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
 
 
@@ -174,6 +187,8 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
 ## Sab 11/10/2025 15.00
@@ -188,6 +203,7 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
+Location:  VIA S. EMILIANO, snc Uras
 Location:  VIA S. EMILIANO, snc Uras
 
 
@@ -207,6 +223,7 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
+Location:  VIA S. EMILIANO, snc Uras
 
 
 ## Dom 05/10/2025 10.30
@@ -221,6 +238,7 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
 
 
@@ -240,6 +258,7 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
+Location:  VIA S. EMILIANO, snc Uras
 
 
 ## Sab 18/10/2025 15.00
@@ -254,6 +273,7 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
 
 
@@ -271,6 +291,7 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
+Location:  VIA S. EMILIANO, snc Uras
 
 
 ## Sab 25/10/2025 15.00
@@ -283,6 +304,7 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
 
 
@@ -300,6 +322,7 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
+Location:  VIA S. EMILIANO, snc Uras
 
 
 ## Sab 01/11/2025 15.00
@@ -312,6 +335,8 @@ Campo: A. Maxia
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 

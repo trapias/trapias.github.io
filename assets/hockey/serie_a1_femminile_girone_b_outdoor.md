@@ -13,6 +13,7 @@ Campo: Campo Hockey Mario Steffenel
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
+Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 
 ## Dom 15/03/2026 15.00
@@ -25,6 +26,8 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -43,6 +46,7 @@ Campo: Campo Comunale
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
 Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
 
 
 ## Dom 22/03/2026 15.00
@@ -55,6 +59,8 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -73,6 +79,7 @@ Campo: Campo Hockey Mario Steffenel
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
+Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 
 ## Dom 29/03/2026 16.00
@@ -85,6 +92,7 @@ Campo: STADIO HOCKEY POTENZA PICENA
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
+Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
 
 
@@ -102,6 +110,7 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
+Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
 
 
 ## Dom 12/04/2026 15.00
@@ -114,6 +123,7 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
 Location:  Via Boccaccio, snc Cernusco sul Naviglio
 
 
@@ -131,6 +141,7 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
+Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
 
 
 ## Dom 19/04/2026 15.00
@@ -143,6 +154,7 @@ Campo: Campo Hockey Mario Steffenel
 
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
+Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 
@@ -161,6 +173,8 @@ Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 ## Dom 26/04/2026 16.00
@@ -173,5 +187,6 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
 Location:  Via Boccaccio, snc Cernusco sul Naviglio
 

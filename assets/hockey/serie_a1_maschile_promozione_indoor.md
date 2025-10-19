@@ -13,6 +13,7 @@ Campo: IMPIANTI SPORTIVI PARROCCHIALI
 Indirizzo Campo:  VIA ROMA, snc - Casale di Scodosia
 
 Location:  VIA ROMA, snc Casale di Scodosia
+Location:  VIA ROMA, snc Casale di Scodosia
 
 
 
@@ -29,6 +30,7 @@ Campo: IMPIANTI SPORTIVI PARROCCHIALI
 Indirizzo Campo:  VIA ROMA, snc - Casale di Scodosia
 
 Location:  VIA ROMA, snc Casale di Scodosia
+Location:  VIA ROMA, snc Casale di Scodosia
 
 
 
@@ -44,5 +46,6 @@ Campo: IMPIANTI SPORTIVI PARROCCHIALI
 
 Indirizzo Campo:  VIA ROMA, snc - Casale di Scodosia
 
+Location:  VIA ROMA, snc Casale di Scodosia
 Location:  VIA ROMA, snc Casale di Scodosia
 

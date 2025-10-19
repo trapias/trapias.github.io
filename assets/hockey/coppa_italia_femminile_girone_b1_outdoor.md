@@ -15,6 +15,7 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
 
 
 
@@ -32,6 +33,8 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -52,6 +55,7 @@ Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
 Location:  VIA J. CORRADO, 24 Padova
+Location:  VIA J. CORRADO, 24 Padova
 
 
 
@@ -69,6 +73,7 @@ Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO
 
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
+Location:  VIA J. CORRADO, 24 Padova
 Location:  VIA J. CORRADO, 24 Padova
 
 
@@ -88,6 +93,7 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
 
 
 
@@ -103,6 +109,8 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 

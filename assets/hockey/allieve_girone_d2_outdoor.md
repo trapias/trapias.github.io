@@ -13,6 +13,7 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
 Location:  Via dei Gladioli, snc Avezzano
+Location:  Via dei Gladioli, snc Avezzano
 
 
 
@@ -28,6 +29,7 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
+Location:  Via dei Gladioli, snc Avezzano
 Location:  Via dei Gladioli, snc Avezzano
 
 
@@ -45,6 +47,7 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
+Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
 
 
 
@@ -60,6 +63,7 @@ Campo: STADIO HOCKEY POTENZA PICENA
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
+Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
 
 
@@ -78,6 +82,8 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
+Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
+Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 
 
@@ -93,6 +99,8 @@ Campo: BAGLIANO
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
+Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
+Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 

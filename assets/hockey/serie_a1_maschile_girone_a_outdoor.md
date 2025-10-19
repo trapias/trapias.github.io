@@ -14,6 +14,8 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
 ## Sab 14/03/2026 15.00
@@ -27,6 +29,7 @@ Campo: Campo Hockey Mario Steffenel
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
+Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 
 ## Sab 14/03/2026 15.00
@@ -39,6 +42,7 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
+Location:  VIA S. EMILIANO, snc Uras
 Location:  VIA S. EMILIANO, snc Uras
 
 
@@ -56,6 +60,7 @@ Campo: CAMPI SPORTIVI 'SA DUCHESSA'
 Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
 Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
+Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
 
 
 ## Sab 21/03/2026 14.30
@@ -70,6 +75,8 @@ Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 ## Sab 21/03/2026 15.00
@@ -82,6 +89,8 @@ Campo: campo hockey s. farinazzo
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -100,6 +109,7 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
+Location:  VIA S. EMILIANO, snc Uras
 
 
 ## Sab 28/03/2026 15.00
@@ -113,6 +123,7 @@ Campo: Campo Hockey Mario Steffenel
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
+Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 
 ## Sab 28/03/2026 14.30
@@ -125,6 +136,8 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -143,6 +156,7 @@ Campo: CAMPI SPORTIVI 'SA DUCHESSA'
 Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
 Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
+Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
 
 
 ## Sab 11/04/2026 15.00
@@ -156,6 +170,7 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
+Location:  VIA S. EMILIANO, snc Uras
 
 
 ## Sab 11/04/2026 15.00
@@ -168,6 +183,8 @@ Campo: A. GIATTI
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -186,6 +203,7 @@ Campo: CAMPI SPORTIVI 'SA DUCHESSA'
 Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
 Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
+Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
 
 
 ## Sab 18/04/2026 15.00
@@ -200,6 +218,8 @@ Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 ## Sab 18/04/2026 14.30
@@ -212,6 +232,8 @@ Campo: A. GIATTI
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -230,6 +252,7 @@ Campo: CAMPI SPORTIVI 'SA DUCHESSA'
 Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
 Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
+Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
 
 
 ## Sab 25/04/2026 14.30
@@ -244,6 +267,8 @@ Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 
 ## Sab 25/04/2026 15.30
@@ -256,6 +281,8 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -274,6 +301,7 @@ Campo: Campo Hockey Mario Steffenel
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
+Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 
 ## Sab 02/05/2026 15.00
@@ -288,6 +316,8 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
 ## Sab 02/05/2026 15.00
@@ -300,6 +330,7 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
+Location:  VIA S. EMILIANO, snc Uras
 Location:  VIA S. EMILIANO, snc Uras
 
 
@@ -317,6 +348,7 @@ Campo: CAMPI SPORTIVI 'SA DUCHESSA'
 Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
 Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
+Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
 
 
 ## Sab 09/05/2026 15.00
@@ -331,6 +363,8 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
 ## Sab 09/05/2026 15.00
@@ -343,6 +377,8 @@ Campo: campo hockey s. farinazzo
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -362,6 +398,8 @@ Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 ## Sab 16/05/2026 14.30
@@ -375,6 +413,7 @@ Campo: Campo Hockey Mario Steffenel
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
+Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 
 ## Sab 16/05/2026 15.00
@@ -387,6 +426,8 @@ Campo: campo hockey s. farinazzo
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -406,6 +447,8 @@ Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 
 ## Sab 23/05/2026 15.00
@@ -419,6 +462,7 @@ Campo: Campo Hockey Mario Steffenel
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
+Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 
 ## Sab 23/05/2026 15.00
@@ -431,5 +475,6 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
+Location:  VIA S. EMILIANO, snc Uras
 Location:  VIA S. EMILIANO, snc Uras
 

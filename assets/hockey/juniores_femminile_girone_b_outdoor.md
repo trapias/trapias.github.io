@@ -15,6 +15,7 @@ Campo: Campo Comunale
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
 Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
 
 
 ## Sab 27/09/2025 16.00
@@ -29,6 +30,7 @@ Campo: Impianti L. Merigliano
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
+Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
@@ -46,6 +48,7 @@ Campo: Campo Comunale
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
 Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
 
 
 ## Dom 05/10/2025 12.00
@@ -60,6 +63,8 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -78,6 +83,7 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
 
 
 ## Sab 25/10/2025 17.30
@@ -90,6 +96,7 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
 Location:  Via Boccaccio, snc Cernusco sul Naviglio
 
 
@@ -107,6 +114,7 @@ Campo: Impianti L. Merigliano
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
 Location:  via J. Corrado, 4 Padova
+Location:  via J. Corrado, 4 Padova
 
 
 ## Dom 02/11/2025 11.00
@@ -119,6 +127,7 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
 
 
@@ -136,6 +145,7 @@ Campo: Campo Comunale
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
 Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
 
 
 ## Dom 16/11/2025 13.30
@@ -148,6 +158,7 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
 Location:  Via Boccaccio, snc Cernusco sul Naviglio
 
 
@@ -165,6 +176,7 @@ Campo: Campo Comunale
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
 Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
 
 
 ## Dom 08/03/2026 11.00
@@ -177,6 +189,8 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -195,6 +209,7 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
 
 
 ## Sab 21/03/2026 16.00
@@ -207,6 +222,7 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
 Location:  Via Boccaccio, snc Cernusco sul Naviglio
 
 
@@ -224,6 +240,7 @@ Campo: Impianti L. Merigliano
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
 Location:  via J. Corrado, 4 Padova
+Location:  via J. Corrado, 4 Padova
 
 
 ## Sab 11/04/2026 16.00
@@ -236,6 +253,8 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -254,6 +273,7 @@ Campo: Campo Comunale
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
 Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
 
 
 ## Sab 25/04/2026 16.00
@@ -266,6 +286,8 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -284,6 +306,7 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
 
 
 ## Dom 03/05/2026 11.00
@@ -296,5 +319,6 @@ Campo: Impianti L. Merigliano
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
+Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 

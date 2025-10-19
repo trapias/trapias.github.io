@@ -13,6 +13,7 @@ Campo: Oratorio Salesiano
 Indirizzo Campo:  Via S.G.Bosco, 6 - Barcellona Pozzo di Gotto
 
 Location:  Via S.G.Bosco, 6 Barcellona Pozzo di Gotto
+Location:  Via S.G.Bosco, 6 Barcellona Pozzo di Gotto
 
 
 ## Dom 19/10/2025 11.00
@@ -25,6 +26,7 @@ Campo: Cittadella Universitaria
 
 Indirizzo Campo:  Viale Annunziata, snc - Messina
 
+Location:  Viale Annunziata, snc Messina
 Location:  Viale Annunziata, snc Messina
 
 
@@ -43,6 +45,8 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 
 ## Dom 26/10/2025 11.00
@@ -55,6 +59,8 @@ Campo: DUSMET
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
@@ -74,6 +80,8 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 
 ## Sab 08/11/2025 15.30
@@ -86,5 +94,6 @@ Campo: Oratorio Salesiano
 
 Indirizzo Campo:  Via S.G.Bosco, 6 - Barcellona Pozzo di Gotto
 
+Location:  Via S.G.Bosco, 6 Barcellona Pozzo di Gotto
 Location:  Via S.G.Bosco, 6 Barcellona Pozzo di Gotto
 

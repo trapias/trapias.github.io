@@ -13,6 +13,7 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Dom 30/11/2025 12.00
@@ -25,6 +26,7 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -39,6 +41,7 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Dom 30/11/2025 14.00
@@ -51,6 +54,7 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -65,6 +69,7 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Dom 30/11/2025 16.00
@@ -77,6 +82,7 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -95,6 +101,8 @@ Indirizzo Campo:  Via Umberto Fiore,  - Messina
 
 Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
 Geo: Geo(latitude=38.224983, longitude=15.5562633)
+Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
 
 ## Sab 13/12/2025 12.00
@@ -107,6 +115,8 @@ Campo: PALA NEBIOLO
 
 Indirizzo Campo:  Via Umberto Fiore,  - Messina
 
+Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.224983, longitude=15.5562633)
 Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
 Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
@@ -123,6 +133,8 @@ Indirizzo Campo:  Via Umberto Fiore,  - Messina
 
 Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
 Geo: Geo(latitude=38.224983, longitude=15.5562633)
+Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
 
 ## Sab 13/12/2025 14.00
@@ -135,6 +147,8 @@ Campo: PALA NEBIOLO
 
 Indirizzo Campo:  Via Umberto Fiore,  - Messina
 
+Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.224983, longitude=15.5562633)
 Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
 Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
@@ -151,6 +165,8 @@ Indirizzo Campo:  Via Umberto Fiore,  - Messina
 
 Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
 Geo: Geo(latitude=38.224983, longitude=15.5562633)
+Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
 
 ## Sab 13/12/2025 16.00
@@ -163,6 +179,8 @@ Campo: PALA NEBIOLO
 
 Indirizzo Campo:  Via Umberto Fiore,  - Messina
 
+Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.224983, longitude=15.5562633)
 Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
 Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
@@ -182,6 +200,8 @@ Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 
 ## Dom 21/12/2025 12.00
@@ -194,6 +214,8 @@ Campo: CENTRO SPORTIVO MILLEVOI
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -210,6 +232,8 @@ Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 
 ## Dom 21/12/2025 14.00
@@ -222,6 +246,8 @@ Campo: CENTRO SPORTIVO MILLEVOI
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -238,6 +264,8 @@ Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 
 ## Dom 21/12/2025 16.00
@@ -250,6 +278,8 @@ Campo: CENTRO SPORTIVO MILLEVOI
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -268,6 +298,7 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Sab 17/01/2026 12.00
@@ -280,6 +311,7 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -294,6 +326,7 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Sab 17/01/2026 14.00
@@ -306,6 +339,7 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -320,6 +354,7 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Sab 17/01/2026 16.00
@@ -332,6 +367,7 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -350,6 +386,8 @@ Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
 
 Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
 Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
+Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 
 ## Dom 25/01/2026 12.00
@@ -362,6 +400,8 @@ Campo: POLO SCOLASTICO DI CLES
 
 Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
 
+Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
+Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
 Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
@@ -378,6 +418,8 @@ Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
 
 Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
 Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
+Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 
 ## Dom 25/01/2026 14.00
@@ -390,6 +432,8 @@ Campo: POLO SCOLASTICO DI CLES
 
 Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
 
+Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
+Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
 Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
@@ -406,6 +450,8 @@ Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
 
 Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
 Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
+Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 
 ## Dom 25/01/2026 16.00
@@ -418,6 +464,8 @@ Campo: POLO SCOLASTICO DI CLES
 
 Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
 
+Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
+Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
 Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 

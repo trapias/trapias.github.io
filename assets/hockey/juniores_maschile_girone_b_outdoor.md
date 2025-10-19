@@ -15,6 +15,7 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
 
 
 
@@ -33,6 +34,7 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
 
 
 
@@ -48,6 +50,8 @@ Campo: campo hockey s. farinazzo
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -66,6 +70,7 @@ Campo: Impianto comunale Nereo Faccioli
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
 
 Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
+Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 
 
@@ -83,6 +88,8 @@ Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 
 ## Dom 16/11/2025 11.00
@@ -95,6 +102,7 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
 
 
@@ -111,6 +119,7 @@ Campo: Impianto comunale Nereo Faccioli
 
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
 
+Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 
@@ -129,6 +138,8 @@ Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 
 
@@ -144,6 +155,7 @@ Campo: Impianti L. Merigliano
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
+Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
@@ -161,6 +173,7 @@ Campo: Impianti L. Merigliano
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
 Location:  via J. Corrado, 4 Padova
+Location:  via J. Corrado, 4 Padova
 
 
 
@@ -177,6 +190,7 @@ Campo: Impianto comunale Nereo Faccioli
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
 
 Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
+Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 
 ## Dom 26/04/2026 11.00
@@ -189,5 +203,6 @@ Campo: Impianti L. Merigliano
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
+Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 

@@ -13,6 +13,7 @@ Campo: DA DEFINIRE
 Indirizzo Campo:  da definire  - roma
 
 Location:  da definire  roma
+Location:  da definire  roma
 
 
 ## -
@@ -25,6 +26,7 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
+Location:  da definire  roma
 Location:  da definire  roma
 
 
@@ -42,6 +44,7 @@ Campo: DA DEFINIRE
 Indirizzo Campo:  da definire  - roma
 
 Location:  da definire  roma
+Location:  da definire  roma
 
 
 ## Dom 10/05/2026 15.00
@@ -54,6 +57,7 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
+Location:  da definire  roma
 Location:  da definire  roma
 
 
@@ -71,6 +75,7 @@ Campo: DA DEFINIRE
 Indirizzo Campo:  da definire  - roma
 
 Location:  da definire  roma
+Location:  da definire  roma
 
 
 ## Dom 17/05/2026 15.00
@@ -83,6 +88,7 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
+Location:  da definire  roma
 Location:  da definire  roma
 
 
@@ -100,6 +106,7 @@ Campo: DA DEFINIRE
 Indirizzo Campo:  da definire  - roma
 
 Location:  da definire  roma
+Location:  da definire  roma
 
 
 ## -
@@ -112,6 +119,7 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
+Location:  da definire  roma
 Location:  da definire  roma
 
 
@@ -129,6 +137,7 @@ Campo: DA DEFINIRE
 Indirizzo Campo:  da definire  - roma
 
 Location:  da definire  roma
+Location:  da definire  roma
 
 
 ## Dom 24/05/2026 15.00
@@ -141,6 +150,7 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
+Location:  da definire  roma
 Location:  da definire  roma
 
 
@@ -158,6 +168,7 @@ Campo: DA DEFINIRE
 Indirizzo Campo:  da definire  - roma
 
 Location:  da definire  roma
+Location:  da definire  roma
 
 
 ## Dom 31/05/2026 15.00
@@ -170,5 +181,6 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
+Location:  da definire  roma
 Location:  da definire  roma
 

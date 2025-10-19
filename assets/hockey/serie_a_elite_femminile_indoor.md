@@ -14,6 +14,8 @@ Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 
 ## Dom 30/11/2025 12.00
@@ -26,6 +28,8 @@ Campo: PALESTRA TORRAZZA
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -42,6 +46,8 @@ Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 
 ## Dom 30/11/2025 14.00
@@ -54,6 +60,8 @@ Campo: PALESTRA TORRAZZA
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -70,6 +78,8 @@ Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 
 ## Dom 30/11/2025 16.00
@@ -82,6 +92,8 @@ Campo: PALESTRA TORRAZZA
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -101,6 +113,8 @@ Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
 Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
 
 
 ## Dom 07/12/2025 12.00
@@ -113,6 +127,8 @@ Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
 Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2035542, longitude=9.1344185)
 
@@ -129,6 +145,8 @@ Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
 Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
 
 
 ## Dom 07/12/2025 14.00
@@ -141,6 +159,8 @@ Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
 Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2035542, longitude=9.1344185)
 
@@ -157,6 +177,8 @@ Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
 Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
 
 
 ## Dom 07/12/2025 16.00
@@ -169,6 +191,8 @@ Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
 Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2035542, longitude=9.1344185)
 
@@ -188,6 +212,8 @@ Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
 
 Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
 Geo: Geo(latitude=45.4687897, longitude=9.292811)
+Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
+Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
 
 ## Dom 14/12/2025 12.00
@@ -200,6 +226,8 @@ Campo: palacus
 
 Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
 
+Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
+Geo: Geo(latitude=45.4687897, longitude=9.292811)
 Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
 Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
@@ -216,6 +244,8 @@ Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
 
 Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
 Geo: Geo(latitude=45.4687897, longitude=9.292811)
+Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
+Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
 
 ## Dom 14/12/2025 14.00
@@ -228,6 +258,8 @@ Campo: palacus
 
 Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
 
+Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
+Geo: Geo(latitude=45.4687897, longitude=9.292811)
 Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
 Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
@@ -244,6 +276,8 @@ Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
 
 Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
 Geo: Geo(latitude=45.4687897, longitude=9.292811)
+Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
+Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
 
 ## Dom 14/12/2025 16.00
@@ -256,6 +290,8 @@ Campo: palacus
 
 Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
 
+Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
+Geo: Geo(latitude=45.4687897, longitude=9.292811)
 Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
 Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
@@ -275,6 +311,8 @@ Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
+Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
+Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 
 ## Dom 11/01/2026 12.00
@@ -287,6 +325,8 @@ Campo: PALESTRA CUS PADOVA
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
+Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
+Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -303,6 +343,8 @@ Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
+Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
+Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 
 ## Dom 11/01/2026 14.00
@@ -315,6 +357,8 @@ Campo: PALESTRA CUS PADOVA
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
+Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
+Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -331,6 +375,8 @@ Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
+Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
+Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 
 ## Dom 11/01/2026 16.00
@@ -343,6 +389,8 @@ Campo: PALESTRA CUS PADOVA
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
+Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
+Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -362,6 +410,8 @@ Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6998177, longitude=7.8435162)
+Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6998177, longitude=7.8435162)
 
 
 ## Dom 25/01/2026 12.00
@@ -374,6 +424,8 @@ Campo: PALAZZETTO DELL SPORT
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
+Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6998177, longitude=7.8435162)
 Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6998177, longitude=7.8435162)
 
@@ -390,6 +442,8 @@ Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6998177, longitude=7.8435162)
+Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6998177, longitude=7.8435162)
 
 
 ## Dom 25/01/2026 14.00
@@ -402,6 +456,8 @@ Campo: PALAZZETTO DELL SPORT
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
+Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6998177, longitude=7.8435162)
 Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6998177, longitude=7.8435162)
 
@@ -418,6 +474,8 @@ Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6998177, longitude=7.8435162)
+Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6998177, longitude=7.8435162)
 
 
 ## Dom 25/01/2026 16.00
@@ -430,6 +488,8 @@ Campo: PALAZZETTO DELL SPORT
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
+Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6998177, longitude=7.8435162)
 Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6998177, longitude=7.8435162)
 

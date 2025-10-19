@@ -14,6 +14,8 @@ Indirizzo Campo:  Via Seminara, 28 - Valverde
 
 Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
 Geo: Geo(latitude=37.5737465, longitude=15.121129)
+Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
+Geo: Geo(latitude=37.5737465, longitude=15.121129)
 
 
 ## Dom 28/06/2026 11.00
@@ -27,6 +29,7 @@ Campo: Campo Comunale
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
 Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
 
 
 ## Dom 28/06/2026 11.00
@@ -39,6 +42,8 @@ Campo: Grantorto Hockey Stadium
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
+Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
 Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
@@ -55,6 +60,8 @@ Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 
 ## Dom 28/06/2026 11.00
@@ -67,6 +74,7 @@ Campo: Campo Ass. R. Fincantieri
 
 Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
 
+Location:  Via Atleti Azzurri  d'Italia, snc Monfalcone
 Location:  Via Atleti Azzurri  d'Italia, snc Monfalcone
 
 
@@ -81,6 +89,7 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
 
 
 ## Dom 28/06/2026 11.00
@@ -93,6 +102,8 @@ Campo: HOCKEY STADIUM ANDREA BRUSCHI
 
 Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
+Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
+Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
 Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
@@ -109,6 +120,8 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 
 ## Dom 28/06/2026 11.00
@@ -122,6 +135,7 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
+Location:  VIA S. EMILIANO, snc Uras
 
 
 ## Dom 28/06/2026 13.00
@@ -134,6 +148,7 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
 Location:  Via Boccaccio, snc Cernusco sul Naviglio
 
 
@@ -149,6 +164,8 @@ Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
 Geo: Geo(latitude=44.920878, longitude=7.24499)
+Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
+Geo: Geo(latitude=44.920878, longitude=7.24499)
 
 
 ## Dom 28/06/2026 11.00
@@ -161,6 +178,7 @@ Campo: Sintetico Comunale
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
+Location:  Via Marrani, snc Torre Santa Susanna
 Location:  Via Marrani, snc Torre Santa Susanna
 
 
@@ -175,6 +193,7 @@ Campo: Campo Comunale
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
 Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
 
 
 ## Dom 28/06/2026 11.00
@@ -187,6 +206,7 @@ Campo: UMBERTO MICCO
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
+Location:  Via Goria, 4 Moncalvo
 Location:  Via Goria, 4 Moncalvo
 
 
@@ -201,6 +221,7 @@ Campo: Impianti L. Merigliano
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
 Location:  via J. Corrado, 4 Padova
+Location:  via J. Corrado, 4 Padova
 
 
 ## Dom 28/06/2026 11.00
@@ -213,6 +234,7 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
 
 
@@ -227,6 +249,7 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
 
 
 ## Dom 28/06/2026 11.00
@@ -239,6 +262,8 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
 
@@ -255,6 +280,8 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
 ## Dom 28/06/2026 12.00
@@ -267,6 +294,8 @@ Campo: A. Maxia
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -282,6 +311,7 @@ Campo: Polisportiva L'Aquila Rugby
 Indirizzo Campo:  LocalitÃ  Centi Colella, snc - L'Aquila
 
 Location:  LocalitÃ  Centi Colella, snc L'Aquila
+Location:  LocalitÃ  Centi Colella, snc L'Aquila
 
 
 ## Dom 28/06/2026 11.00
@@ -294,6 +324,7 @@ Campo: Lido Policoro
 
 Indirizzo Campo:  Via Lido, snc - Policoro
 
+Location:  Via Lido, snc Policoro
 Location:  Via Lido, snc Policoro
 
 
@@ -308,6 +339,7 @@ Campo: Campo Villa D\'agri
 Indirizzo Campo:  VIA DELLO SPORT, 1 - VILLA D'AGRI
 
 Location:  VIA DELLO SPORT, 1 VILLA D'AGRI
+Location:  VIA DELLO SPORT, 1 VILLA D'AGRI
 
 
 ## Dom 28/06/2026 11.00
@@ -320,5 +352,6 @@ Campo: CAMPI SPORTIVI 'SA DUCHESSA'
 
 Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
+Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
 Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
 

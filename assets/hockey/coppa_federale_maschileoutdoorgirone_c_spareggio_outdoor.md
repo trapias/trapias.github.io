@@ -13,6 +13,7 @@ Campo: Sintetico Comunale
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
 Location:  Via Marrani, snc Torre Santa Susanna
+Location:  Via Marrani, snc Torre Santa Susanna
 
 
 
@@ -28,6 +29,8 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
 

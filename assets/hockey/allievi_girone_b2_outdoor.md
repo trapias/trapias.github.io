@@ -15,6 +15,7 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
 
 
 ## Dom 05/10/2025 11.00
@@ -29,6 +30,7 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
 
 
@@ -45,6 +47,7 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
 
 
 ## Dom 05/10/2025 13.00
@@ -59,6 +62,7 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
 
 
@@ -76,6 +80,7 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
 
 
 ## Dom 26/10/2025 11.00
@@ -88,6 +93,8 @@ Campo: Balestri e Gambini
 
 Indirizzo Campo:  Via Avvenire Paterlini, 2 - Reggio nell'Emilia
 
+Location: 2a, Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082583, longitude=10.6364889)
 Location: 2a, Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082583, longitude=10.6364889)
 
@@ -104,6 +111,8 @@ Indirizzo Campo:  Via Avvenire Paterlini, 2 - Reggio nell'Emilia
 
 Location: 2a, Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082583, longitude=10.6364889)
+Location: 2a, Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082583, longitude=10.6364889)
 
 
 ## Dom 26/10/2025 13.00
@@ -116,6 +125,7 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
 
 
@@ -134,6 +144,8 @@ Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
 Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
 Geo: Geo(latitude=43.9509826, longitude=10.8292878)
+Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
+Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 
 ## Dom 02/11/2025 11.00
@@ -146,6 +158,8 @@ Campo: HOCKEY STADIUM ANDREA BRUSCHI
 
 Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
+Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
+Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
 Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
@@ -162,6 +176,8 @@ Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
 Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
 Geo: Geo(latitude=43.9509826, longitude=10.8292878)
+Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
+Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 
 ## Dom 02/11/2025 13.00
@@ -174,6 +190,8 @@ Campo: HOCKEY STADIUM ANDREA BRUSCHI
 
 Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
+Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
+Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
 Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 

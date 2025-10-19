@@ -13,6 +13,7 @@ Campo: PINO PALMIERI
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
 Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
 
 
 ## Sab 08/11/2025 16.00
@@ -25,6 +26,7 @@ Campo: PINO PALMIERI
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
+Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
 Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
 
 
@@ -42,6 +44,7 @@ Campo: PINO PALMIERI
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
 Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
 
 
 ## Dom 09/11/2025 14.00
@@ -54,5 +57,6 @@ Campo: PINO PALMIERI
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
+Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
 Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
 

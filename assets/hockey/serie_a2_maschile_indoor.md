@@ -14,6 +14,8 @@ Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
 Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
 
 
 ## Sab 06/12/2025 12.00
@@ -26,6 +28,8 @@ Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
 Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2035542, longitude=9.1344185)
 
@@ -42,6 +46,8 @@ Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
 Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
 
 
 ## Sab 06/12/2025 14.00
@@ -56,6 +62,8 @@ Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
 Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
 
 
 ## Sab 06/12/2025 15.00
@@ -68,6 +76,8 @@ Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
 Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2035542, longitude=9.1344185)
 
@@ -86,6 +96,7 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Sab 13/12/2025 12.00
@@ -98,6 +109,7 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -112,6 +124,7 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Sab 13/12/2025 14.00
@@ -125,6 +138,7 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Sab 13/12/2025 15.00
@@ -137,6 +151,7 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -155,6 +170,8 @@ Indirizzo Campo:  viale Gambaro, 66 - Genova
 
 Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
 Geo: Geo(latitude=44.3991712, longitude=8.9694944)
+Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
+Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 
 ## Dom 04/01/2026 12.00
@@ -167,6 +184,8 @@ Campo: PalaRomanzi
 
 Indirizzo Campo:  viale Gambaro, 66 - Genova
 
+Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
+Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
 Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
@@ -183,6 +202,8 @@ Indirizzo Campo:  viale Gambaro, 66 - Genova
 
 Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
 Geo: Geo(latitude=44.3991712, longitude=8.9694944)
+Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
+Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 
 ## Dom 04/01/2026 14.00
@@ -197,6 +218,8 @@ Indirizzo Campo:  viale Gambaro, 66 - Genova
 
 Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
 Geo: Geo(latitude=44.3991712, longitude=8.9694944)
+Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
+Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 
 ## Dom 04/01/2026 15.00
@@ -209,6 +232,8 @@ Campo: PalaRomanzi
 
 Indirizzo Campo:  viale Gambaro, 66 - Genova
 
+Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
+Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
 Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
@@ -228,6 +253,8 @@ Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 
 ## Dom 25/01/2026 12.00
@@ -240,6 +267,8 @@ Campo: CENTRO SPORTIVO MILLEVOI
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -256,6 +285,8 @@ Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 
 ## Dom 25/01/2026 14.00
@@ -270,6 +301,8 @@ Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 
 ## Dom 25/01/2026 15.00
@@ -282,6 +315,8 @@ Campo: CENTRO SPORTIVO MILLEVOI
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
