@@ -4,7 +4,7 @@
 
 ## Dom 26/10/2025 11.30
 
-<strong>1 CLASS C1 - SG AMSICORA</strong>
+<strong>BUTTERFLY ROMA - SG AMSICORA</strong>
 
 Giornata: Gara 231
 

@@ -4,7 +4,7 @@
 
 ## Dom 26/10/2025 14.00
 
-<strong>1 CLASS D1 - 1 CLASS D2</strong>
+<strong>HF GENOVA 1980 - LAZIO HOCKEY</strong>
 
 Giornata: Gara 240
 
