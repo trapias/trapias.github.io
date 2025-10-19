@@ -9,6 +9,9 @@ Campo: IMPIANTI SPORTIVI PARROCCHIALI
 
 Indirizzo Campo:  VIA ROMA, snc - Casale di Scodosia
 
+Location:  VIA ROMA, snc Casale di Scodosia
+<!-- VALCHISONE_END -->
+
 
 # Serie A1 Maschile - Indoor  - PROMOZIONE / Giornata 2
 ## Sab 31/01/2026 14.00
@@ -21,6 +24,9 @@ Campo: IMPIANTI SPORTIVI PARROCCHIALI
 
 Indirizzo Campo:  VIA ROMA, snc - Casale di Scodosia
 
+Location:  VIA ROMA, snc Casale di Scodosia
+<!-- VALCHISONE_END -->
+
 
 # Serie A1 Maschile - Indoor  - PROMOZIONE / Giornata 3
 ## Sab 31/01/2026 16.00
@@ -32,5 +38,8 @@ Giornata: Gara 123
 Campo: IMPIANTI SPORTIVI PARROCCHIALI 
 
 Indirizzo Campo:  VIA ROMA, snc - Casale di Scodosia
+
+Location:  VIA ROMA, snc Casale di Scodosia
+<!-- VALCHISONE_END -->
 
 

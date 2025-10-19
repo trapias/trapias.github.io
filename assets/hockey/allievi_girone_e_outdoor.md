@@ -9,6 +9,9 @@ Campo: Oratorio Salesiano
 
 Indirizzo Campo:  Via S.G.Bosco, 6 - Barcellona Pozzo di Gotto
 
+Location:  Via S.G.Bosco, 6 Barcellona Pozzo di Gotto
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 19/10/2025 11.00
@@ -20,6 +23,9 @@ Giornata: Gara 959
 Campo: Cittadella Universitaria 
 
 Indirizzo Campo:  Viale Annunziata, snc - Messina
+
+Location:  Viale Annunziata, snc Messina
+<!-- VALCHISONE_END -->
 
 
 # Allievi - OUTDOOR  - Girone E / Giornata 2
@@ -33,6 +39,10 @@ Campo: DUSMET
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 26/10/2025 11.00
@@ -44,6 +54,10 @@ Giornata: Gara 963
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+<!-- VALCHISONE_END -->
 
 
 # Allievi - OUTDOOR  - Girone E / Giornata 3
@@ -57,6 +71,10 @@ Campo: DUSMET
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 08/11/2025 15.30
@@ -68,5 +86,8 @@ Giornata: Gara 956
 Campo: Oratorio Salesiano 
 
 Indirizzo Campo:  Via S.G.Bosco, 6 - Barcellona Pozzo di Gotto
+
+Location:  Via S.G.Bosco, 6 Barcellona Pozzo di Gotto
+<!-- VALCHISONE_END -->
 
 

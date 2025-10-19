@@ -25,6 +25,9 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 29/11/2025 13.00
@@ -37,6 +40,9 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 29/11/2025 14.00
@@ -48,6 +54,9 @@ Giornata: Gara 100
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
 
 
 
@@ -77,6 +86,9 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
+
 
 # Serie A Elite Maschile - Indoor / Giornata 2
 ## Dom 14/12/2025 11.00
@@ -88,6 +100,10 @@ Giornata: Gara 103
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+<!-- VALCHISONE_END -->
 
 
 
@@ -118,6 +134,10 @@ Campo: CENTRO SPORTIVO MILLEVOI
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 14/12/2025 14.00
@@ -129,6 +149,10 @@ Giornata: Gara 106
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+<!-- VALCHISONE_END -->
 
 
 
@@ -159,6 +183,10 @@ Campo: CENTRO SPORTIVO MILLEVOI
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+<!-- VALCHISONE_END -->
+
 
 # Serie A Elite Maschile - Indoor / Giornata 3
 <!-- VALCHISONE_START -->
@@ -187,6 +215,9 @@ Campo: Palestra Adriano Bonini
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
+Location:  Bondeno - Via Napoleonica, snc, snc Bondeno
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 20/12/2025 13.00
@@ -198,6 +229,9 @@ Giornata: Gara 111
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
+
+Location:  Bondeno - Via Napoleonica, snc, snc Bondeno
+<!-- VALCHISONE_END -->
 
 
 
@@ -227,6 +261,9 @@ Campo: Palestra Adriano Bonini
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
+Location:  Bondeno - Via Napoleonica, snc, snc Bondeno
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 20/12/2025 16.00
@@ -238,6 +275,9 @@ Giornata: Gara 114
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
+
+Location:  Bondeno - Via Napoleonica, snc, snc Bondeno
+<!-- VALCHISONE_END -->
 
 
 # Serie A Elite Maschile - Indoor / Giornata 4
@@ -251,6 +291,9 @@ Campo: Palestra Geodetica Cus Pisa
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
+Location:  Via Chiarugi, 5 - Via Chiarugi, 5 Pisa
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 17/01/2026 12.00
@@ -262,6 +305,9 @@ Giornata: Gara 116
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
+
+Location:  Via Chiarugi, 5 - Via Chiarugi, 5 Pisa
+<!-- VALCHISONE_END -->
 
 
 
@@ -291,6 +337,9 @@ Campo: Palestra Geodetica Cus Pisa
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
+Location:  Via Chiarugi, 5 - Via Chiarugi, 5 Pisa
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 17/01/2026 15.00
@@ -302,6 +351,9 @@ Giornata: Gara 119
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
+
+Location:  Via Chiarugi, 5 - Via Chiarugi, 5 Pisa
+<!-- VALCHISONE_END -->
 
 
 
@@ -330,6 +382,10 @@ Giornata: Gara 91
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
+
+Location: Match Ball Bra, 31a, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6995688, longitude=7.8411688)
+<!-- VALCHISONE_END -->
 
 
 
@@ -360,6 +416,10 @@ Campo: PALAZZETTO DELL SPORT
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
+Location: Match Ball Bra, 31a, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6995688, longitude=7.8411688)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 24/01/2026 14.00
@@ -371,6 +431,10 @@ Giornata: Gara 94
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
+
+Location: Match Ball Bra, 31a, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6995688, longitude=7.8411688)
+<!-- VALCHISONE_END -->
 
 
 
@@ -400,5 +464,9 @@ Giornata: Gara 96
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
+
+Location: Match Ball Bra, 31a, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6995688, longitude=7.8411688)
+<!-- VALCHISONE_END -->
 
 

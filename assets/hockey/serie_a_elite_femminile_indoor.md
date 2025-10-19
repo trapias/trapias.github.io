@@ -9,6 +9,10 @@ Campo: PALESTRA TORRAZZA
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 30/11/2025 12.00
@@ -20,6 +24,10 @@ Giornata: Gara 8
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
+
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
+<!-- VALCHISONE_END -->
 
 
 
@@ -33,6 +41,10 @@ Campo: PALESTRA TORRAZZA
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 30/11/2025 14.00
@@ -44,6 +56,10 @@ Giornata: Gara 10
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
+
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
+<!-- VALCHISONE_END -->
 
 
 
@@ -57,6 +73,10 @@ Campo: PALESTRA TORRAZZA
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 30/11/2025 16.00
@@ -68,6 +88,10 @@ Giornata: Gara 12
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
+
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
+<!-- VALCHISONE_END -->
 
 
 # Serie A Elite Femminile - Indoor / Giornata 2
@@ -81,6 +105,10 @@ Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 07/12/2025 12.00
@@ -92,6 +120,10 @@ Giornata: Gara 14
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
+
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+<!-- VALCHISONE_END -->
 
 
 
@@ -105,6 +137,10 @@ Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 07/12/2025 14.00
@@ -116,6 +152,10 @@ Giornata: Gara 16
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
+
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+<!-- VALCHISONE_END -->
 
 
 
@@ -129,6 +169,10 @@ Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 07/12/2025 16.00
@@ -140,6 +184,10 @@ Giornata: Gara 18
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
+
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+<!-- VALCHISONE_END -->
 
 
 # Serie A Elite Femminile - Indoor / Giornata 3
@@ -153,6 +201,10 @@ Campo: palacus
 
 Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
 
+Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
+Geo: Geo(latitude=45.4687897, longitude=9.292811)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 14/12/2025 12.00
@@ -164,6 +216,10 @@ Giornata: Gara 2
 Campo: palacus 
 
 Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
+
+Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
+Geo: Geo(latitude=45.4687897, longitude=9.292811)
+<!-- VALCHISONE_END -->
 
 
 
@@ -177,6 +233,10 @@ Campo: palacus
 
 Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
 
+Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
+Geo: Geo(latitude=45.4687897, longitude=9.292811)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 14/12/2025 14.00
@@ -188,6 +248,10 @@ Giornata: Gara 4
 Campo: palacus 
 
 Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
+
+Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
+Geo: Geo(latitude=45.4687897, longitude=9.292811)
+<!-- VALCHISONE_END -->
 
 
 
@@ -201,6 +265,10 @@ Campo: palacus
 
 Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
 
+Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
+Geo: Geo(latitude=45.4687897, longitude=9.292811)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 14/12/2025 16.00
@@ -212,6 +280,10 @@ Giornata: Gara 6
 Campo: palacus 
 
 Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
+
+Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
+Geo: Geo(latitude=45.4687897, longitude=9.292811)
+<!-- VALCHISONE_END -->
 
 
 # Serie A Elite Femminile - Indoor / Giornata 4
@@ -225,6 +297,10 @@ Campo: PALESTRA CUS PADOVA
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
+Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
+Geo: Geo(latitude=45.39184, longitude=11.8767667)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 11/01/2026 12.00
@@ -236,6 +312,10 @@ Giornata: Gara 20
 Campo: PALESTRA CUS PADOVA 
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
+
+Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
+Geo: Geo(latitude=45.39184, longitude=11.8767667)
+<!-- VALCHISONE_END -->
 
 
 
@@ -249,6 +329,10 @@ Campo: PALESTRA CUS PADOVA
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
+Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
+Geo: Geo(latitude=45.39184, longitude=11.8767667)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 11/01/2026 14.00
@@ -260,6 +344,10 @@ Giornata: Gara 22
 Campo: PALESTRA CUS PADOVA 
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
+
+Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
+Geo: Geo(latitude=45.39184, longitude=11.8767667)
+<!-- VALCHISONE_END -->
 
 
 
@@ -273,6 +361,10 @@ Campo: PALESTRA CUS PADOVA
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
+Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
+Geo: Geo(latitude=45.39184, longitude=11.8767667)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 11/01/2026 16.00
@@ -284,6 +376,10 @@ Giornata: Gara 24
 Campo: PALESTRA CUS PADOVA 
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
+
+Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
+Geo: Geo(latitude=45.39184, longitude=11.8767667)
+<!-- VALCHISONE_END -->
 
 
 # Serie A Elite Femminile - Indoor / Giornata 5
@@ -297,6 +393,10 @@ Campo: PALAZZETTO DELL SPORT
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
+Location: Match Ball Bra, 31a, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6995688, longitude=7.8411688)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 25/01/2026 12.00
@@ -308,6 +408,10 @@ Giornata: Gara 26
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
+
+Location: Match Ball Bra, 31a, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6995688, longitude=7.8411688)
+<!-- VALCHISONE_END -->
 
 
 
@@ -321,6 +425,10 @@ Campo: PALAZZETTO DELL SPORT
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
+Location: Match Ball Bra, 31a, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6995688, longitude=7.8411688)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 25/01/2026 14.00
@@ -332,6 +440,10 @@ Giornata: Gara 28
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
+
+Location: Match Ball Bra, 31a, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6995688, longitude=7.8411688)
+<!-- VALCHISONE_END -->
 
 
 
@@ -345,6 +457,10 @@ Campo: PALAZZETTO DELL SPORT
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
+Location: Match Ball Bra, 31a, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6995688, longitude=7.8411688)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 25/01/2026 16.00
@@ -356,5 +472,9 @@ Giornata: Gara 30
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
+
+Location: Match Ball Bra, 31a, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6995688, longitude=7.8411688)
+<!-- VALCHISONE_END -->
 
 

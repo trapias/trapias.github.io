@@ -9,6 +9,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 27/09/2025 13.00
@@ -23,6 +27,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 # Ragazze - OUTDOOR  - Girone C / Giornata 2
 ## Sab 28/02/2026 12.00
@@ -34,6 +42,10 @@ Giornata: Gara 323
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 
@@ -47,6 +59,10 @@ Campo: CAMPO HOCKEY PRATO
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+<!-- VALCHISONE_END -->
+
 
 # Ragazze - OUTDOOR  - Girone C / Giornata 3
 ## Sab 25/10/2025 11.00
@@ -58,6 +74,10 @@ Giornata: Gara 325
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 
@@ -71,6 +91,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 # Ragazze - OUTDOOR  - Girone C / Giornata 4
 ## Dom 02/11/2025 13.00
@@ -82,6 +106,10 @@ Giornata: Gara 327
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 
@@ -95,6 +123,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 # Ragazze - OUTDOOR  - Girone C / Giornata 5
 ## Sab 08/11/2025 09.00
@@ -107,6 +139,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 01/11/2025 15.00
@@ -118,5 +154,9 @@ Giornata: Gara 330
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
+
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+<!-- VALCHISONE_END -->
 
 

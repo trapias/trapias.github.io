@@ -9,6 +9,9 @@ Campo: PINO PALMIERI
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
+Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 08/11/2025 16.00
@@ -20,6 +23,9 @@ Giornata: Gara 1068
 Campo: PINO PALMIERI 
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
+
+Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+<!-- VALCHISONE_END -->
 
 
 # Coppa Italia Maschile - OUTDOOR  - Final Four / Finale 3/4 posto
@@ -33,6 +39,9 @@ Campo: PINO PALMIERI
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
+Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 09/11/2025 14.00
@@ -44,5 +53,8 @@ Giornata: Gara 1070
 Campo: PINO PALMIERI 
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
+
+Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+<!-- VALCHISONE_END -->
 
 

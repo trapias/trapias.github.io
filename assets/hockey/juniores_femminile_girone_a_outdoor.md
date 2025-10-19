@@ -11,6 +11,10 @@ Campo: Augusto Lorenzoni
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
+Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+<!-- VALCHISONE_END -->
+
 
 # Juniores Femminile - OUTDOOR  - Girone A / Giornata 2
 ## Dom 16/11/2025 12.00
@@ -22,6 +26,10 @@ Giornata: Gara 659
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+
+Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+<!-- VALCHISONE_END -->
 
 
 # Juniores Femminile - OUTDOOR  - Girone A / Giornata 3
@@ -36,5 +44,9 @@ Giornata: Gara 661
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 

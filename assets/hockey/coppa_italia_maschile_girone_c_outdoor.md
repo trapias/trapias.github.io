@@ -11,6 +11,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 20/09/2025 15.00
@@ -24,6 +28,10 @@ Giornata: Gara 101
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
+
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 2
@@ -39,6 +47,9 @@ Campo: STADIO HOCKEY POTENZA PICENA
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
+Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 27/09/2025 15.00
@@ -52,6 +63,10 @@ Giornata: Gara 103
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
+
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 3
@@ -67,6 +82,10 @@ Campo: CENTRO GIULIO ONESTI
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 04/10/2025 15.00
@@ -80,6 +99,10 @@ Giornata: Gara 105
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 4
@@ -95,6 +118,9 @@ Campo: STADIO HOCKEY POTENZA PICENA
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
+Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 11/10/2025 15.00
@@ -108,6 +134,10 @@ Giornata: Gara 107
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
+
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 5
@@ -123,6 +153,10 @@ Campo: EUROMA STADIUM
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 18/10/2025 15.00
@@ -137,6 +171,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 6
 ## Sab 25/10/2025 15.00
@@ -149,6 +187,9 @@ Campo: STADIO HOCKEY POTENZA PICENA
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
+Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 25/10/2025 15.00
@@ -160,5 +201,9 @@ Giornata: Gara 111
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
+
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
 
 

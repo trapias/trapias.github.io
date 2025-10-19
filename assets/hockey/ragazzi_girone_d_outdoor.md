@@ -11,6 +11,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 08/11/2025 11.00
@@ -23,6 +27,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 # Ragazzi - OUTDOOR  - Girone D / Giornata 2
 ## Dom 16/11/2025 16.00
@@ -34,6 +42,10 @@ Giornata: Gara 343
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 
@@ -49,6 +61,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 # Ragazzi - OUTDOOR  - Girone D / Giornata 3
 ## Sab 04/10/2025 12.00
@@ -63,6 +79,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 16/11/2025 12.00
@@ -74,6 +94,10 @@ Giornata: Gara 346
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 # Ragazzi - OUTDOOR  - Girone D / Giornata 4
@@ -87,6 +111,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 26/10/2025 11.00
@@ -98,6 +126,10 @@ Giornata: Gara 348
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 # Ragazzi - OUTDOOR  - Girone D / Giornata 5
@@ -111,6 +143,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 09/11/2025 09.00
@@ -122,5 +158,9 @@ Giornata: Gara 350
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 

@@ -11,6 +11,9 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 13/09/2025 15.00
@@ -24,6 +27,10 @@ Giornata: Gara 81
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
+
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
 
 
 
@@ -39,6 +46,9 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2
 ## Sab 20/09/2025 15.00
@@ -52,6 +62,9 @@ Giornata: Gara 82
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
+
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+<!-- VALCHISONE_END -->
 
 
 
@@ -67,6 +80,10 @@ Campo: campo hockey s. farinazzo
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.190259, longitude=11.4690625)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 20/09/2025 16.00
@@ -80,6 +97,10 @@ Giornata: Gara 161
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
+
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3
@@ -95,6 +116,10 @@ Campo: A. GIATTI
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 27/09/2025 15.00
@@ -108,6 +133,9 @@ Giornata: Gara 85
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
+
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
 
 
 
@@ -123,6 +151,9 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4
 ## Dom 28/09/2025 15.00
@@ -136,6 +167,10 @@ Giornata: Gara 86
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
+
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.190259, longitude=11.4690625)
+<!-- VALCHISONE_END -->
 
 
 
@@ -151,6 +186,10 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 28/09/2025 16.00
@@ -164,6 +203,9 @@ Giornata: Gara 163
 Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO 
 
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
+
+Location:  VIA J. CORRADO, 24 Padova
+<!-- VALCHISONE_END -->
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5
@@ -179,6 +221,9 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 04/10/2025 15.00
@@ -192,6 +237,10 @@ Giornata: Gara 89
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
+
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
 
 
 
@@ -207,6 +256,10 @@ Campo: campo hockey s. farinazzo
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.190259, longitude=11.4690625)
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6
 ## Sab 11/10/2025 15.00
@@ -220,6 +273,10 @@ Giornata: Gara 90
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
+
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+<!-- VALCHISONE_END -->
 
 
 
@@ -235,6 +292,9 @@ Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO
 
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
+Location:  VIA J. CORRADO, 24 Padova
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 11/10/2025 15.00
@@ -248,6 +308,10 @@ Giornata: Gara 165
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
+
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.190259, longitude=11.4690625)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7
@@ -263,6 +327,10 @@ Campo: campo hockey s. farinazzo
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.190259, longitude=11.4690625)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 18/10/2025 15.00
@@ -276,6 +344,10 @@ Giornata: Gara 95
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
+
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
 
 
 
@@ -291,6 +363,9 @@ Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO
 
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
+Location:  VIA J. CORRADO, 24 Padova
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8
 ## Dom 19/10/2025 15.00
@@ -302,6 +377,9 @@ Giornata: Gara 92
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
+
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
 
 
 
@@ -315,6 +393,9 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 19/10/2025 15.00
@@ -326,6 +407,10 @@ Giornata: Gara 167
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
+
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9
@@ -339,6 +424,9 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 25/10/2025 15.00
@@ -350,6 +438,10 @@ Giornata: Gara 97
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
+
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+<!-- VALCHISONE_END -->
 
 
 
@@ -363,6 +455,9 @@ Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO
 
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
+Location:  VIA J. CORRADO, 24 Padova
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10
 ## Sab 01/11/2025 15.00
@@ -374,6 +469,10 @@ Giornata: Gara 98
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
+
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+<!-- VALCHISONE_END -->
 
 
 
@@ -387,6 +486,9 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 01/11/2025 15.00
@@ -398,5 +500,8 @@ Giornata: Gara 169
 Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO 
 
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
+
+Location:  VIA J. CORRADO, 24 Padova
+<!-- VALCHISONE_END -->
 
 

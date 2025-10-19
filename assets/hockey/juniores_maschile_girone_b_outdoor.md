@@ -11,6 +11,9 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+<!-- VALCHISONE_END -->
+
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 2
 ## Dom 05/10/2025 11.00
@@ -25,6 +28,9 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+<!-- VALCHISONE_END -->
+
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 3
 ## Dom 26/10/2025 11.00
@@ -36,6 +42,10 @@ Giornata: Gara 267
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
+
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.190259, longitude=11.4690625)
+<!-- VALCHISONE_END -->
 
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 4
@@ -49,6 +59,9 @@ Campo: Impianto comunale Nereo Faccioli
 
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
 
+Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
+<!-- VALCHISONE_END -->
+
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 5
 ## Dom 16/11/2025 11.00
@@ -60,6 +73,10 @@ Giornata: Gara 271
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
+
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.190259, longitude=11.4690625)
+<!-- VALCHISONE_END -->
 
 
 
@@ -73,6 +90,9 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+<!-- VALCHISONE_END -->
+
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 6
 ## Dom 22/03/2026 11.00
@@ -84,6 +104,9 @@ Giornata: Gara 370
 Campo: Impianto comunale Nereo Faccioli 
 
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
+
+Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
+<!-- VALCHISONE_END -->
 
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 7
@@ -97,6 +120,10 @@ Campo: campo hockey s. farinazzo
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.190259, longitude=11.4690625)
+<!-- VALCHISONE_END -->
+
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 8
 ## Dom 22/03/2026 11.00
@@ -108,6 +135,9 @@ Giornata: Gara 374
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
+
+Location:  via J. Corrado, 4 Padova
+<!-- VALCHISONE_END -->
 
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 9
@@ -121,6 +151,9 @@ Campo: Impianti L. Merigliano
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
+Location:  via J. Corrado, 4 Padova
+<!-- VALCHISONE_END -->
+
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 10
 ## Dom 26/04/2026 11.00
@@ -133,6 +166,9 @@ Campo: Impianto comunale Nereo Faccioli
 
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
 
+Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 26/04/2026 11.00
@@ -144,5 +180,8 @@ Giornata: Gara 379
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
+
+Location:  via J. Corrado, 4 Padova
+<!-- VALCHISONE_END -->
 
 

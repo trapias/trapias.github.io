@@ -26,6 +26,9 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
+
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 3
 ## Sab 04/10/2025 17.30
@@ -39,6 +42,10 @@ Giornata: Gara 684
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+
+Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+<!-- VALCHISONE_END -->
 
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 4
@@ -69,6 +76,9 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
+
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 6
 ## Sab 25/10/2025 17.00
@@ -81,6 +91,10 @@ Campo: Augusto Lorenzoni
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
+Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+<!-- VALCHISONE_END -->
+
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 7
 ## Sab 15/11/2025 14.30
@@ -92,6 +106,9 @@ Giornata: Gara 688
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
 
 
 
@@ -120,6 +137,9 @@ Giornata: Gara 690
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
 
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 9
@@ -150,6 +170,10 @@ Campo: Augusto Lorenzoni
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
+Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+<!-- VALCHISONE_END -->
+
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 11
 ## Dom 09/11/2025 16.00
@@ -162,6 +186,9 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 01/11/2025 11.30
@@ -173,6 +200,9 @@ Giornata: Gara 694
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
 
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 12
@@ -201,5 +231,9 @@ Giornata: Gara 696
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
 
 

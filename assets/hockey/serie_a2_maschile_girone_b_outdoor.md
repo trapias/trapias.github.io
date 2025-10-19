@@ -9,6 +9,9 @@ Campo: Sintetico Comunale
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
+Location:  Via Marrani, snc Torre Santa Susanna
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 14/03/2026 15.00
@@ -20,6 +23,10 @@ Giornata: Gara 815
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+<!-- VALCHISONE_END -->
 
 
 
@@ -33,6 +40,9 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
+
 
 # Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2
 ## Sab 21/03/2026 15.00
@@ -44,6 +54,9 @@ Giornata: Gara 817
 Campo: Impianto comunale Nereo Faccioli 
 
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
+
+Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
+<!-- VALCHISONE_END -->
 
 
 
@@ -57,6 +70,9 @@ Campo: Sintetico Comunale
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
+Location:  Via Marrani, snc Torre Santa Susanna
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 21/03/2026 16.00
@@ -68,6 +84,10 @@ Giornata: Gara 819
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
+
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
 
 
 # Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 3
@@ -81,6 +101,10 @@ Campo: Grantorto Hockey Stadium
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
+Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.6015238, longitude=11.7340239)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 28/03/2026 15.00
@@ -92,6 +116,10 @@ Giornata: Gara 821
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+<!-- VALCHISONE_END -->
 
 
 
@@ -105,6 +133,9 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
+
 
 # Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4
 ## Sab 11/04/2026 15.00
@@ -116,6 +147,9 @@ Giornata: Gara 823
 Campo: Impianto comunale Nereo Faccioli 
 
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
+
+Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
+<!-- VALCHISONE_END -->
 
 
 
@@ -129,6 +163,10 @@ Campo: Grantorto Hockey Stadium
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
+Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.6015238, longitude=11.7340239)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 11/04/2026 14.00
@@ -140,6 +178,10 @@ Giornata: Gara 825
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
+
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
 
 
 # Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 5
@@ -153,6 +195,9 @@ Campo: Impianto comunale Nereo Faccioli
 
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
 
+Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 18/04/2026 15.00
@@ -164,6 +209,10 @@ Giornata: Gara 827
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+<!-- VALCHISONE_END -->
 
 
 
@@ -177,6 +226,9 @@ Campo: Sintetico Comunale
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
+Location:  Via Marrani, snc Torre Santa Susanna
+<!-- VALCHISONE_END -->
+
 
 # Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 6
 ## Sab 25/04/2026 15.00
@@ -188,6 +240,9 @@ Giornata: Gara 829
 Campo: Impianto comunale Nereo Faccioli 
 
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
+
+Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
+<!-- VALCHISONE_END -->
 
 
 
@@ -201,6 +256,10 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 25/04/2026 15.00
@@ -212,6 +271,10 @@ Giornata: Gara 831
 Campo: Grantorto Hockey Stadium 
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
+
+Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.6015238, longitude=11.7340239)
+<!-- VALCHISONE_END -->
 
 
 # Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 7
@@ -225,6 +288,10 @@ Campo: DUSMET
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 02/05/2026 15.00
@@ -236,6 +303,9 @@ Giornata: Gara 833
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
 
 
 
@@ -249,6 +319,10 @@ Campo: Grantorto Hockey Stadium
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
+Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.6015238, longitude=11.7340239)
+<!-- VALCHISONE_END -->
+
 
 # Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 8
 ## Sab 09/05/2026 15.00
@@ -260,6 +334,9 @@ Giornata: Gara 835
 Campo: Impianto comunale Nereo Faccioli 
 
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
+
+Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
+<!-- VALCHISONE_END -->
 
 
 
@@ -273,6 +350,9 @@ Campo: Sintetico Comunale
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
+Location:  Via Marrani, snc Torre Santa Susanna
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 09/05/2026 15.00
@@ -284,6 +364,10 @@ Giornata: Gara 837
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
+
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
 
 
 # Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9
@@ -297,6 +381,9 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 16/05/2026 15.00
@@ -308,6 +395,10 @@ Giornata: Gara 839
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+<!-- VALCHISONE_END -->
 
 
 
@@ -321,6 +412,9 @@ Campo: Sintetico Comunale
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
+Location:  Via Marrani, snc Torre Santa Susanna
+<!-- VALCHISONE_END -->
+
 
 # Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 10
 ## Sab 23/05/2026 15.00
@@ -332,6 +426,10 @@ Giornata: Gara 841
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
+
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
 
 
 
@@ -345,6 +443,9 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 23/05/2026 15.00
@@ -356,5 +457,9 @@ Giornata: Gara 843
 Campo: Grantorto Hockey Stadium 
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
+
+Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.6015238, longitude=11.7340239)
+<!-- VALCHISONE_END -->
 
 

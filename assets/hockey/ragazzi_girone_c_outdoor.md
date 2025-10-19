@@ -9,6 +9,9 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 12/10/2025 11.00
@@ -20,6 +23,10 @@ Giornata: Gara 443
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
+
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+<!-- VALCHISONE_END -->
 
 
 # Ragazzi - OUTDOOR  - Girone C / Giornata 2
@@ -33,6 +40,10 @@ Campo: A. GIATTI
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 19/10/2025 12.00
@@ -44,6 +55,9 @@ Giornata: Gara 445
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
+
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
 
 
 # Ragazzi - OUTDOOR  - Girone C / Giornata 3
@@ -57,6 +71,9 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 09/11/2025 13.00
@@ -68,6 +85,10 @@ Giornata: Gara 447
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
+
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+<!-- VALCHISONE_END -->
 
 
 # Ragazzi - OUTDOOR  - Girone C / Giornata 4
@@ -81,6 +102,10 @@ Campo: CAMPO HOCKEY PRATO
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 29/03/2026 11.00
@@ -92,6 +117,9 @@ Giornata: Gara 449
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
+
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
 
 
 # Ragazzi - OUTDOOR  - Girone C / Giornata 5
@@ -105,6 +133,9 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 19/04/2026 13.00
@@ -116,6 +147,10 @@ Giornata: Gara 451
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
+
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+<!-- VALCHISONE_END -->
 
 
 # Ragazzi - OUTDOOR  - Girone C / Giornata 6
@@ -129,6 +164,9 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 03/05/2026 13.00
@@ -140,5 +178,9 @@ Giornata: Gara 453
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
+
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+<!-- VALCHISONE_END -->
 
 

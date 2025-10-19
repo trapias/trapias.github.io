@@ -9,6 +9,10 @@ Campo: EUROMA STADIUM
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 13/12/2025 15.00
@@ -20,6 +24,10 @@ Giornata: Gara 555
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
 
 
 # Allieve - OUTDOOR  - Girone D1 / Giornata 2
@@ -33,6 +41,10 @@ Campo: CENTRO GIULIO ONESTI
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 01/11/2025 16.00
@@ -44,6 +56,10 @@ Giornata: Gara 557
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
+
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
 
 
 # Allieve - OUTDOOR  - Girone D1 / Giornata 3
@@ -57,6 +73,10 @@ Campo: CENTRO GIULIO ONESTI
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
+
 
 
 ## -
@@ -68,6 +88,10 @@ Giornata: Gara 559
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
+
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
 
 
 # Allieve - OUTDOOR  - Girone D1 / Giornata 4
@@ -81,6 +105,10 @@ Campo: CENTRO GIULIO ONESTI
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 07/03/2026 15.00
@@ -92,6 +120,9 @@ Giornata: Gara 561
 Campo: Campo Comunale Oriolo Romano 
 
 Indirizzo Campo:  Via G. Rodari, 5 - Oriolo Romano
+
+Location:  Via G. Rodari, 5 Oriolo Romano
+<!-- VALCHISONE_END -->
 
 
 # Allieve - OUTDOOR  - Girone D1 / Giornata 5
@@ -105,6 +136,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 21/03/2026 15.00
@@ -116,6 +151,9 @@ Giornata: Gara 563
 Campo: Campo Comunale Oriolo Romano 
 
 Indirizzo Campo:  Via G. Rodari, 5 - Oriolo Romano
+
+Location:  Via G. Rodari, 5 Oriolo Romano
+<!-- VALCHISONE_END -->
 
 
 # Allieve - OUTDOOR  - Girone D1 / Giornata 6
@@ -129,6 +167,9 @@ Campo: Campo Comunale Oriolo Romano
 
 Indirizzo Campo:  Via G. Rodari, 5 - Oriolo Romano
 
+Location:  Via G. Rodari, 5 Oriolo Romano
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 11/04/2026 17.00
@@ -140,5 +181,9 @@ Giornata: Gara 565
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
 
 

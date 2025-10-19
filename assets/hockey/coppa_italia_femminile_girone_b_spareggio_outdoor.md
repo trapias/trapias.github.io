@@ -9,4 +9,7 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+<!-- VALCHISONE_END -->
+
 

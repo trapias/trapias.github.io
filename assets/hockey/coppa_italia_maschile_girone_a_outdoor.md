@@ -27,6 +27,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 2
 ## Sab 20/09/2025 15.00
@@ -40,6 +44,10 @@ Giornata: Gara 142
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
+
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+<!-- VALCHISONE_END -->
 
 
 
@@ -74,6 +82,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 
 <!-- VALCHISONE_START -->
@@ -105,6 +117,9 @@ Giornata: Gara 146
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
 
 
 
@@ -139,6 +154,10 @@ Campo: CAMPO HOCKEY PRATO
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 04/10/2025 15.00
@@ -153,6 +172,9 @@ Campo: PINO PALMIERI
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
+Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 6
 ## Sab 11/10/2025 15.00
@@ -166,6 +188,9 @@ Giornata: Gara 150
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
 
 
 
@@ -219,6 +244,9 @@ Campo: PINO PALMIERI
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
+Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 8
 <!-- VALCHISONE_START -->
@@ -252,6 +280,10 @@ Campo: CAMPO HOCKEY PRATO
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 9
 ## Sab 25/10/2025 15.00
@@ -263,6 +295,9 @@ Giornata: Gara 156
 Campo: PINO PALMIERI 
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
+
+Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+<!-- VALCHISONE_END -->
 
 
 
@@ -293,6 +328,9 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 01/11/2025 15.00
@@ -304,5 +342,9 @@ Giornata: Gara 159
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 

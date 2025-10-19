@@ -11,6 +11,9 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 05/10/2025 11.00
@@ -24,6 +27,9 @@ Giornata: Gara 467
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
+
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
 
 
 
@@ -39,6 +45,9 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 05/10/2025 13.00
@@ -53,6 +62,9 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
+
 
 # Allievi - OUTDOOR  - Girone B2 / Giornata 2
 ## Dom 26/10/2025 11.00
@@ -64,6 +76,9 @@ Giornata: Gara 470
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
+
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+<!-- VALCHISONE_END -->
 
 
 
@@ -77,6 +92,10 @@ Campo: Balestri e Gambini
 
 Indirizzo Campo:  Via Avvenire Paterlini, 2 - Reggio nell'Emilia
 
+Location: 2a, Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082583, longitude=10.6364889)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 26/10/2025 13.00
@@ -88,6 +107,10 @@ Giornata: Gara 472
 Campo: Balestri e Gambini 
 
 Indirizzo Campo:  Via Avvenire Paterlini, 2 - Reggio nell'Emilia
+
+Location: 2a, Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082583, longitude=10.6364889)
+<!-- VALCHISONE_END -->
 
 
 
@@ -101,6 +124,9 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+<!-- VALCHISONE_END -->
+
 
 # Allievi - OUTDOOR  - Girone B2 / Giornata 3
 ## Dom 02/11/2025 11.00
@@ -112,6 +138,10 @@ Giornata: Gara 474
 Campo: HOCKEY STADIUM ANDREA BRUSCHI 
 
 Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
+
+Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
+Geo: Geo(latitude=43.950982587561086, longitude=10.829287833344138)
+<!-- VALCHISONE_END -->
 
 
 
@@ -125,6 +155,10 @@ Campo: HOCKEY STADIUM ANDREA BRUSCHI
 
 Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
+Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
+Geo: Geo(latitude=43.950982587561086, longitude=10.829287833344138)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 02/11/2025 13.00
@@ -137,6 +171,10 @@ Campo: HOCKEY STADIUM ANDREA BRUSCHI
 
 Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
+Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
+Geo: Geo(latitude=43.950982587561086, longitude=10.829287833344138)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 02/11/2025 13.00
@@ -148,5 +186,9 @@ Giornata: Gara 477
 Campo: HOCKEY STADIUM ANDREA BRUSCHI 
 
 Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
+
+Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
+Geo: Geo(latitude=43.950982587561086, longitude=10.829287833344138)
+<!-- VALCHISONE_END -->
 
 

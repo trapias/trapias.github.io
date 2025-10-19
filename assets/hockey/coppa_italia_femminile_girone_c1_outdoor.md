@@ -11,6 +11,10 @@ Campo: CAMPO HOCKEY PRATO
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Femminile  - Girone C1 / Giornata 2
 ## Dom 21/09/2025 15.00
@@ -24,6 +28,10 @@ Giornata: Gara 224
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
+
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Italia Femminile  - Girone C1 / Giornata 3
@@ -39,6 +47,10 @@ Campo: HOCKEY STADIUM ANDREA BRUSCHI
 
 Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
+Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
+Geo: Geo(latitude=43.950982587561086, longitude=10.829287833344138)
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Femminile  - Girone C1 / Giornata 4
 ## Dom 05/10/2025 15.00
@@ -52,6 +64,10 @@ Giornata: Gara 226
 Campo: HOCKEY STADIUM ANDREA BRUSCHI 
 
 Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
+
+Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
+Geo: Geo(latitude=43.950982587561086, longitude=10.829287833344138)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Italia Femminile  - Girone C1 / Giornata 5
@@ -67,6 +83,10 @@ Campo: CENTRO GIULIO ONESTI
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Femminile  - Girone C1 / Giornata 6
 ## Dom 19/10/2025 15.30
@@ -78,5 +98,9 @@ Giornata: Gara 228
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
+
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+<!-- VALCHISONE_END -->
 
 

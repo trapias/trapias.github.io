@@ -9,6 +9,10 @@ Campo: Tazzoli
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 28/06/2026 11.00
@@ -20,6 +24,10 @@ Giornata: Gara 990
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+
+Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+<!-- VALCHISONE_END -->
 
 
 
@@ -33,6 +41,9 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 28/06/2026 11.00
@@ -44,6 +55,9 @@ Giornata: Gara 992
 Campo: Campo Hockey Club Riva 
 
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
+
+Location:  Via Mazzoldi, snc Riva del Garda
+<!-- VALCHISONE_END -->
 
 
 
@@ -57,6 +71,10 @@ Campo: campo hockey s. farinazzo
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.190259, longitude=11.4690625)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 28/06/2026 11.00
@@ -68,6 +86,10 @@ Giornata: Gara 994
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 
@@ -81,6 +103,10 @@ Campo: FIESCHI STADIUM
 
 Indirizzo Campo:  VIA FIESCHI, 20 - GENOVA
 
+Location: 20 rosso, Via Fieschi, Sant'Andrea, Portoria, Centro Est, Genova, Liguria, 16128, Italia
+Geo: Geo(latitude=44.4058513, longitude=8.9372219)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 28/06/2026 11.00
@@ -92,6 +118,10 @@ Giornata: Gara 996
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 
@@ -105,6 +135,10 @@ Campo: CAMPO HOCKEY PRATO
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 28/06/2026 11.00
@@ -116,6 +150,9 @@ Giornata: Gara 998
 Campo: STADIO HOCKEY POTENZA PICENA 
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
+
+Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
+<!-- VALCHISONE_END -->
 
 
 
@@ -129,6 +166,10 @@ Campo: BAGLIANO
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
+Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
+Geo: Geo(latitude=43.1726147, longitude=13.4873422)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 28/06/2026 11.00
@@ -140,6 +181,10 @@ Giornata: Gara 1000
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
 
 
 
@@ -153,6 +198,10 @@ Campo: EUROMA STADIUM
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 28/06/2026 11.00
@@ -164,6 +213,9 @@ Giornata: Gara 1002
 Campo: Sintetico Comunale 
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
+
+Location:  Via Marrani, snc Torre Santa Susanna
+<!-- VALCHISONE_END -->
 
 
 
@@ -177,6 +229,9 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 28/06/2026 11.00
@@ -188,6 +243,10 @@ Giornata: Gara 1004
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 
@@ -201,6 +260,9 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
+Location:  Via dei Gladioli, snc Avezzano
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 28/06/2026 11.00
@@ -212,6 +274,10 @@ Giornata: Gara 1006
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+<!-- VALCHISONE_END -->
 
 
 
@@ -225,6 +291,9 @@ Campo: Sintetico Comunale
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
+Location:  Via Marrani, snc Torre Santa Susanna
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 28/06/2026 11.00
@@ -236,6 +305,9 @@ Giornata: Gara 1008
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
 
 
 
@@ -249,6 +321,10 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 28/06/2026 11.00
@@ -260,6 +336,9 @@ Giornata: Gara 1010
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
+
+Location:  via J. Corrado, 4 Padova
+<!-- VALCHISONE_END -->
 
 
 
@@ -273,6 +352,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 28/06/2026 11.00
@@ -284,6 +367,10 @@ Giornata: Gara 1012
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
+
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+<!-- VALCHISONE_END -->
 
 
 
@@ -297,6 +384,9 @@ Campo: Campo Comunale Oriolo Romano
 
 Indirizzo Campo:  Via G. Rodari, 5 - Oriolo Romano
 
+Location:  Via G. Rodari, 5 Oriolo Romano
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 28/06/2026 11.00
@@ -308,6 +398,10 @@ Giornata: Gara 1014
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
+
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
 
 
 
@@ -321,6 +415,9 @@ Campo: Lido Policoro
 
 Indirizzo Campo:  Via Lido, snc - Policoro
 
+Location:  Via Lido, snc Policoro
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 28/06/2026 11.00
@@ -332,6 +429,9 @@ Giornata: Gara 1016
 Campo: Campo Villa D\'agri 
 
 Indirizzo Campo:  VIA DELLO SPORT, 1 - VILLA D'AGRI
+
+Location:  VIA DELLO SPORT, 1 VILLA D'AGRI
+<!-- VALCHISONE_END -->
 
 
 
@@ -345,6 +445,10 @@ Campo: DUSMET
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 28/06/2026 11.00
@@ -356,5 +460,9 @@ Giornata: Gara 1066
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+
+Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+<!-- VALCHISONE_END -->
 
 

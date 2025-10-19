@@ -11,6 +11,10 @@ Campo: Augusto Lorenzoni
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
+Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 05/10/2025 11.30
@@ -24,6 +28,10 @@ Giornata: Gara 715
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+
+Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+<!-- VALCHISONE_END -->
 
 
 
@@ -39,6 +47,10 @@ Campo: Augusto Lorenzoni
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
+Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 05/10/2025 15.30
@@ -52,6 +64,10 @@ Giornata: Gara 717
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+
+Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+<!-- VALCHISONE_END -->
 
 
 
@@ -67,6 +83,10 @@ Campo: Augusto Lorenzoni
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
+Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+<!-- VALCHISONE_END -->
+
 
 # Allievi - OUTDOOR  - Girone A / Giornata 2
 ## Dom 26/10/2025 10.00
@@ -78,6 +98,10 @@ Giornata: Gara 719
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
 
 
 
@@ -91,6 +115,10 @@ Campo: Tazzoli
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 26/10/2025 14.00
@@ -102,6 +130,10 @@ Giornata: Gara 721
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
 
 
 
@@ -115,6 +147,10 @@ Campo: Tazzoli
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 26/10/2025 17.00
@@ -126,5 +162,9 @@ Giornata: Gara 723
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
 
 

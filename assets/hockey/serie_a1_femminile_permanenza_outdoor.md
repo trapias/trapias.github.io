@@ -9,6 +9,9 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
+Location:  da definire  roma
+<!-- VALCHISONE_END -->
+
 
 
 ## -
@@ -20,6 +23,9 @@ Giornata: Gara 869
 Campo: DA DEFINIRE 
 
 Indirizzo Campo:  da definire  - roma
+
+Location:  da definire  roma
+<!-- VALCHISONE_END -->
 
 
 # Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 2
@@ -33,6 +39,9 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
+Location:  da definire  roma
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 10/05/2026 15.00
@@ -44,6 +53,9 @@ Giornata: Gara 871
 Campo: DA DEFINIRE 
 
 Indirizzo Campo:  da definire  - roma
+
+Location:  da definire  roma
+<!-- VALCHISONE_END -->
 
 
 # Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 3
@@ -57,6 +69,9 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
+Location:  da definire  roma
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 17/05/2026 15.00
@@ -68,6 +83,9 @@ Giornata: Gara 873
 Campo: DA DEFINIRE 
 
 Indirizzo Campo:  da definire  - roma
+
+Location:  da definire  roma
+<!-- VALCHISONE_END -->
 
 
 # Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 4
@@ -81,6 +99,9 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
+Location:  da definire  roma
+<!-- VALCHISONE_END -->
+
 
 
 ## -
@@ -92,6 +113,9 @@ Giornata: Gara 875
 Campo: DA DEFINIRE 
 
 Indirizzo Campo:  da definire  - roma
+
+Location:  da definire  roma
+<!-- VALCHISONE_END -->
 
 
 # Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 5
@@ -105,6 +129,9 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
+Location:  da definire  roma
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 24/05/2026 15.00
@@ -116,6 +143,9 @@ Giornata: Gara 877
 Campo: DA DEFINIRE 
 
 Indirizzo Campo:  da definire  - roma
+
+Location:  da definire  roma
+<!-- VALCHISONE_END -->
 
 
 # Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 6
@@ -129,6 +159,9 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
+Location:  da definire  roma
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 31/05/2026 15.00
@@ -140,5 +173,8 @@ Giornata: Gara 879
 Campo: DA DEFINIRE 
 
 Indirizzo Campo:  da definire  - roma
+
+Location:  da definire  roma
+<!-- VALCHISONE_END -->
 
 

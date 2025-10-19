@@ -9,6 +9,9 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 15/03/2026 15.00
@@ -20,6 +23,10 @@ Giornata: Gara 893
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
 
 
 
@@ -33,6 +40,10 @@ Campo: EUROMA STADIUM
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 15/03/2026 15.00
@@ -44,6 +55,9 @@ Giornata: Gara 895
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
 
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 2
@@ -57,6 +71,9 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 22/03/2026 15.00
@@ -68,6 +85,10 @@ Giornata: Gara 897
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
+
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
 
 
 
@@ -81,6 +102,10 @@ Campo: Tazzoli
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 22/03/2026 15.00
@@ -92,6 +117,10 @@ Giornata: Gara 899
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+
+Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+<!-- VALCHISONE_END -->
 
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 3
@@ -105,6 +134,10 @@ Campo: Tazzoli
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 28/03/2026 15.00
@@ -116,6 +149,10 @@ Giornata: Gara 901
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+
+Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+<!-- VALCHISONE_END -->
 
 
 
@@ -129,6 +166,9 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 28/03/2026 13.30
@@ -140,6 +180,10 @@ Giornata: Gara 903
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
+
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
 
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 4
@@ -153,6 +197,9 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 29/03/2026 15.00
@@ -164,6 +211,9 @@ Giornata: Gara 905
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
 
 
 
@@ -177,6 +227,9 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 29/03/2026 15.00
@@ -188,6 +241,10 @@ Giornata: Gara 907
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
+
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
 
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 5
@@ -201,6 +258,10 @@ Campo: Augusto Lorenzoni
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
+Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 12/04/2026 15.00
@@ -212,6 +273,10 @@ Giornata: Gara 909
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
 
 
 
@@ -225,6 +290,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 12/04/2026 15.00
@@ -236,6 +305,9 @@ Giornata: Gara 911
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
+
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
 
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 6
@@ -249,6 +321,9 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 19/04/2026 15.00
@@ -260,6 +335,10 @@ Giornata: Gara 913
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
+
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
 
 
 
@@ -273,6 +352,10 @@ Campo: CENTRO GIULIO ONESTI
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 19/04/2026 15.00
@@ -284,6 +367,10 @@ Giornata: Gara 915
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
 
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 7
@@ -297,6 +384,9 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 26/04/2026 15.00
@@ -308,6 +398,10 @@ Giornata: Gara 917
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+
+Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+<!-- VALCHISONE_END -->
 
 
 
@@ -321,6 +415,10 @@ Campo: EUROMA STADIUM
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 26/04/2026 15.00
@@ -332,6 +430,9 @@ Giornata: Gara 919
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
+
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
 
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 8
@@ -345,6 +446,10 @@ Campo: CENTRO GIULIO ONESTI
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 03/05/2026 15.00
@@ -356,6 +461,10 @@ Giornata: Gara 921
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+
+Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+<!-- VALCHISONE_END -->
 
 
 
@@ -369,6 +478,10 @@ Campo: Tazzoli
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 03/05/2026 15.00
@@ -380,6 +493,9 @@ Giornata: Gara 923
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
+
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
 
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 9
@@ -393,6 +509,9 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 10/05/2026 15.00
@@ -404,6 +523,9 @@ Giornata: Gara 925
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
 
 
 
@@ -417,6 +539,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 10/05/2026 15.00
@@ -428,6 +554,10 @@ Giornata: Gara 927
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
+
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
 
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 10
@@ -441,6 +571,9 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 17/05/2026 15.00
@@ -452,6 +585,9 @@ Giornata: Gara 929
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
 
 
 
@@ -465,6 +601,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 17/05/2026 15.00
@@ -476,6 +616,10 @@ Giornata: Gara 931
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
+
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
 
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 11
@@ -489,6 +633,10 @@ Campo: Augusto Lorenzoni
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
+Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 31/05/2026 15.00
@@ -500,6 +648,10 @@ Giornata: Gara 933
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
 
 
 
@@ -513,6 +665,10 @@ Campo: EUROMA STADIUM
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 31/05/2026 15.00
@@ -524,6 +680,10 @@ Giornata: Gara 935
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
 
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 12
@@ -537,6 +697,9 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 07/06/2026 15.00
@@ -548,6 +711,10 @@ Giornata: Gara 937
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
+
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
 
 
 
@@ -561,6 +728,9 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 07/06/2026 15.00
@@ -572,6 +742,10 @@ Giornata: Gara 939
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
+
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
 
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 13
@@ -585,6 +759,10 @@ Campo: Tazzoli
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 14/06/2026 15.00
@@ -596,6 +774,10 @@ Giornata: Gara 941
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+
+Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+<!-- VALCHISONE_END -->
 
 
 
@@ -609,6 +791,9 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 14/06/2026 15.00
@@ -620,6 +805,9 @@ Giornata: Gara 943
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
+
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
 
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 14
@@ -633,6 +821,9 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 21/06/2026 15.00
@@ -644,6 +835,10 @@ Giornata: Gara 945
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
 
 
 
@@ -657,6 +852,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 21/06/2026 15.00
@@ -668,5 +867,9 @@ Giornata: Gara 947
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
+
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
 
 

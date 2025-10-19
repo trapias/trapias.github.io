@@ -11,6 +11,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Femminile  - Girone D1 / Giornata 2
 ## Dom 12/10/2025 15.00
@@ -24,5 +28,9 @@ Giornata: Gara 233
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 

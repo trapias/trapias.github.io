@@ -9,6 +9,10 @@ Campo: CENTRO GIULIO ONESTI
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 09/11/2025 11.00
@@ -20,6 +24,10 @@ Giornata: Gara 523
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
 
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 2
@@ -33,6 +41,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 22/03/2026 11.00
@@ -44,6 +56,10 @@ Giornata: Gara 531
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
+
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
 
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 3
@@ -57,6 +73,10 @@ Campo: EUROMA STADIUM
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 08/03/2026 11.30
@@ -68,6 +88,9 @@ Giornata: Gara 527
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
+
+Location:  Via dei Gladioli, snc Avezzano
+<!-- VALCHISONE_END -->
 
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 4
@@ -81,6 +104,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 22/03/2026 11.30
@@ -92,6 +119,10 @@ Giornata: Gara 529
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
+
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
 
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 5
@@ -105,6 +136,10 @@ Campo: CENTRO GIULIO ONESTI
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 19/04/2026 11.30
@@ -116,6 +151,9 @@ Giornata: Gara 525
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
+
+Location:  Via dei Gladioli, snc Avezzano
+<!-- VALCHISONE_END -->
 
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 6
@@ -129,6 +167,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 15/03/2026 11.30
@@ -140,6 +182,9 @@ Giornata: Gara 533
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
+
+Location:  Via dei Gladioli, snc Avezzano
+<!-- VALCHISONE_END -->
 
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 7
@@ -153,6 +198,10 @@ Campo: EUROMA STADIUM
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 10/05/2026 10.00
@@ -164,6 +213,10 @@ Giornata: Gara 541
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
 
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 8
@@ -177,6 +230,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 24/05/2026 11.00
@@ -188,6 +245,10 @@ Giornata: Gara 537
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
+
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
 
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 9
@@ -201,6 +262,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 31/05/2026 11.30
@@ -212,6 +277,9 @@ Giornata: Gara 539
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
+
+Location:  Via dei Gladioli, snc Avezzano
+<!-- VALCHISONE_END -->
 
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 10
@@ -225,6 +293,10 @@ Campo: EUROMA STADIUM
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 07/06/2026 11.00
@@ -236,5 +308,9 @@ Giornata: Gara 535
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
 
 

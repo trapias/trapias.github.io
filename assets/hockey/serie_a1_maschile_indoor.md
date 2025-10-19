@@ -9,6 +9,9 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 30/11/2025 12.00
@@ -20,6 +23,9 @@ Giornata: Gara 32
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
 
 
 
@@ -33,6 +39,9 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 30/11/2025 14.00
@@ -44,6 +53,9 @@ Giornata: Gara 34
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
 
 
 
@@ -57,6 +69,9 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 30/11/2025 16.00
@@ -68,6 +83,9 @@ Giornata: Gara 36
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
 
 
 # Serie A1 Maschile - Indoor / Giornata 2
@@ -81,6 +99,10 @@ Campo: PALA NEBIOLO
 
 Indirizzo Campo:  Via Umberto Fiore,  - Messina
 
+Location: Via Umberto Fiore, Conca d'Oro, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.2244768, longitude=15.5600648)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 13/12/2025 12.00
@@ -92,6 +114,10 @@ Giornata: Gara 44
 Campo: PALA NEBIOLO 
 
 Indirizzo Campo:  Via Umberto Fiore,  - Messina
+
+Location: Via Umberto Fiore, Conca d'Oro, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.2244768, longitude=15.5600648)
+<!-- VALCHISONE_END -->
 
 
 
@@ -105,6 +131,10 @@ Campo: PALA NEBIOLO
 
 Indirizzo Campo:  Via Umberto Fiore,  - Messina
 
+Location: Via Umberto Fiore, Conca d'Oro, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.2244768, longitude=15.5600648)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 13/12/2025 14.00
@@ -116,6 +146,10 @@ Giornata: Gara 46
 Campo: PALA NEBIOLO 
 
 Indirizzo Campo:  Via Umberto Fiore,  - Messina
+
+Location: Via Umberto Fiore, Conca d'Oro, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.2244768, longitude=15.5600648)
+<!-- VALCHISONE_END -->
 
 
 
@@ -129,6 +163,10 @@ Campo: PALA NEBIOLO
 
 Indirizzo Campo:  Via Umberto Fiore,  - Messina
 
+Location: Via Umberto Fiore, Conca d'Oro, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.2244768, longitude=15.5600648)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 13/12/2025 16.00
@@ -140,6 +178,10 @@ Giornata: Gara 48
 Campo: PALA NEBIOLO 
 
 Indirizzo Campo:  Via Umberto Fiore,  - Messina
+
+Location: Via Umberto Fiore, Conca d'Oro, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.2244768, longitude=15.5600648)
+<!-- VALCHISONE_END -->
 
 
 # Serie A1 Maschile - Indoor / Giornata 3
@@ -153,6 +195,10 @@ Campo: CENTRO SPORTIVO MILLEVOI
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 21/12/2025 12.00
@@ -164,6 +210,10 @@ Giornata: Gara 50
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+<!-- VALCHISONE_END -->
 
 
 
@@ -177,6 +227,10 @@ Campo: CENTRO SPORTIVO MILLEVOI
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 21/12/2025 14.00
@@ -188,6 +242,10 @@ Giornata: Gara 52
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+<!-- VALCHISONE_END -->
 
 
 
@@ -201,6 +259,10 @@ Campo: CENTRO SPORTIVO MILLEVOI
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 21/12/2025 16.00
@@ -212,6 +274,10 @@ Giornata: Gara 54
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+<!-- VALCHISONE_END -->
 
 
 # Serie A1 Maschile - Indoor / Giornata 4
@@ -225,6 +291,9 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 17/01/2026 12.00
@@ -236,6 +305,9 @@ Giornata: Gara 38
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
 
 
 
@@ -249,6 +321,9 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 17/01/2026 14.00
@@ -260,6 +335,9 @@ Giornata: Gara 40
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
 
 
 
@@ -273,6 +351,9 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 17/01/2026 16.00
@@ -284,6 +365,9 @@ Giornata: Gara 42
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
 
 
 # Serie A1 Maschile - Indoor / Giornata 5
@@ -297,6 +381,10 @@ Campo: POLO SCOLASTICO DI CLES
 
 Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
 
+Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
+Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 25/01/2026 12.00
@@ -308,6 +396,10 @@ Giornata: Gara 56
 Campo: POLO SCOLASTICO DI CLES 
 
 Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+
+Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
+Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+<!-- VALCHISONE_END -->
 
 
 
@@ -321,6 +413,10 @@ Campo: POLO SCOLASTICO DI CLES
 
 Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
 
+Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
+Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 25/01/2026 14.00
@@ -332,6 +428,10 @@ Giornata: Gara 58
 Campo: POLO SCOLASTICO DI CLES 
 
 Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+
+Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
+Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+<!-- VALCHISONE_END -->
 
 
 
@@ -345,6 +445,10 @@ Campo: POLO SCOLASTICO DI CLES
 
 Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
 
+Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
+Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 25/01/2026 16.00
@@ -356,5 +460,9 @@ Giornata: Gara 60
 Campo: POLO SCOLASTICO DI CLES 
 
 Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+
+Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
+Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+<!-- VALCHISONE_END -->
 
 

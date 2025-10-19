@@ -9,6 +9,10 @@ Campo: A. Maxia
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+<!-- VALCHISONE_END -->
+
 
 
 ## Gio 23/10/2025 19.30
@@ -21,6 +25,9 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
+Location:  VIA S. EMILIANO, snc Uras
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 2
 ## Dom 19/10/2025 11.00
@@ -32,6 +39,9 @@ Giornata: Gara 122
 Campo: Comunale Uras 
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
+
+Location:  VIA S. EMILIANO, snc Uras
+<!-- VALCHISONE_END -->
 
 
 
@@ -47,6 +57,9 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 3
 ## Sab 27/09/2025 16.00
@@ -60,6 +73,10 @@ Giornata: Gara 124
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
+
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+<!-- VALCHISONE_END -->
 
 
 
@@ -75,6 +92,9 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 4
 ## Mer 29/10/2025 20.00
@@ -86,6 +106,10 @@ Giornata: Gara 126
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
+
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+<!-- VALCHISONE_END -->
 
 
 
@@ -101,6 +125,9 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 5
 ## Lun 20/10/2025 19.30
@@ -112,6 +139,9 @@ Giornata: Gara 128
 Campo: Comunale Uras 
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
+
+Location:  VIA S. EMILIANO, snc Uras
+<!-- VALCHISONE_END -->
 
 
 
@@ -127,6 +157,9 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 6
 ## Sab 11/10/2025 14.30
@@ -140,6 +173,10 @@ Giornata: Gara 130
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
+
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+<!-- VALCHISONE_END -->
 
 
 
@@ -155,6 +192,9 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
+Location:  VIA S. EMILIANO, snc Uras
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 7
 ## Dom 12/10/2025 11.30
@@ -168,6 +208,9 @@ Giornata: Gara 132
 Campo: Comunale Uras 
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
+
+Location:  VIA S. EMILIANO, snc Uras
+<!-- VALCHISONE_END -->
 
 
 
@@ -183,6 +226,9 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 8
 ## Sab 18/10/2025 16.30
@@ -196,6 +242,9 @@ Giornata: Gara 134
 Campo: Comunale Uras 
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
+
+Location:  VIA S. EMILIANO, snc Uras
+<!-- VALCHISONE_END -->
 
 
 
@@ -211,6 +260,9 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 9
 ## Sab 25/10/2025 15.00
@@ -222,6 +274,9 @@ Giornata: Gara 136
 Campo: Comunale Uras 
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
+
+Location:  VIA S. EMILIANO, snc Uras
+<!-- VALCHISONE_END -->
 
 
 
@@ -235,6 +290,9 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 10
 ## Sab 01/11/2025 15.00
@@ -247,6 +305,9 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
+Location:  VIA S. EMILIANO, snc Uras
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 01/11/2025 15.00
@@ -258,5 +319,9 @@ Giornata: Gara 139
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
+
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+<!-- VALCHISONE_END -->
 
 

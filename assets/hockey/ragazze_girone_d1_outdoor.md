@@ -9,6 +9,9 @@ Campo: STADIO HOCKEY POTENZA PICENA
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
+Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
+<!-- VALCHISONE_END -->
+
 
 # Ragazze - OUTDOOR  - Girone D1 / Giornata 2
 ## Dom 26/10/2025 13.00
@@ -20,6 +23,10 @@ Giornata: Gara 622
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
+
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
 
 
 # Ragazze - OUTDOOR  - Girone D1 / Giornata 3
@@ -33,6 +40,9 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
+Location:  Via dei Gladioli, snc Avezzano
+<!-- VALCHISONE_END -->
+
 
 # Ragazze - OUTDOOR  - Girone D1 / Giornata 4
 ## Dom 15/03/2026 13.00
@@ -44,6 +54,9 @@ Giornata: Gara 624
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
+
+Location:  Via dei Gladioli, snc Avezzano
+<!-- VALCHISONE_END -->
 
 
 # Ragazze - OUTDOOR  - Girone D1 / Giornata 5
@@ -57,6 +70,9 @@ Campo: STADIO HOCKEY POTENZA PICENA
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
+Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
+<!-- VALCHISONE_END -->
+
 
 # Ragazze - OUTDOOR  - Girone D1 / Giornata 6
 ## Dom 19/04/2026 13.00
@@ -68,5 +84,9 @@ Giornata: Gara 626
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
+
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
 
 

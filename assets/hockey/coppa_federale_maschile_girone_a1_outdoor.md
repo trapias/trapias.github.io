@@ -11,6 +11,9 @@ Campo: UMBERTO MICCO
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
+Location:  Via Goria, 4 Moncalvo
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 14/09/2025 11.30
@@ -24,6 +27,9 @@ Giornata: Gara 171
 Campo: Campo Sportivo Augusto Briano 
 
 Indirizzo Campo:  Via Santuario, snc - Savona
+
+Location:  Via Santuario, snc Savona
+<!-- VALCHISONE_END -->
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 2
@@ -39,6 +45,9 @@ Campo: UMBERTO MICCO
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
+Location:  Via Goria, 4 Moncalvo
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 20/09/2025 14.00
@@ -52,6 +61,10 @@ Giornata: Gara 173
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 3
@@ -67,6 +80,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 28/09/2025 13.00
@@ -80,6 +97,10 @@ Giornata: Gara 175
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 4
@@ -95,6 +116,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 04/10/2025 18.00
@@ -108,6 +133,10 @@ Giornata: Gara 177
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 5
@@ -123,6 +152,9 @@ Campo: Campo Sportivo Augusto Briano
 
 Indirizzo Campo:  Via Santuario, snc - Savona
 
+Location:  Via Santuario, snc Savona
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 11/10/2025 16.00
@@ -137,6 +169,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 # Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 6
 ## Dom 19/10/2025 11.30
@@ -149,6 +185,9 @@ Campo: UMBERTO MICCO
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
+Location:  Via Goria, 4 Moncalvo
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 19/10/2025 10.30
@@ -160,5 +199,8 @@ Giornata: Gara 182
 Campo: Campo Sportivo Augusto Briano 
 
 Indirizzo Campo:  Via Santuario, snc - Savona
+
+Location:  Via Santuario, snc Savona
+<!-- VALCHISONE_END -->
 
 

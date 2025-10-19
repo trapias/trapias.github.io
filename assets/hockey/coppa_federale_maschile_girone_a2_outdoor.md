@@ -11,6 +11,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 13/09/2025 15.00
@@ -24,6 +28,9 @@ Giornata: Gara 243
 Campo: Campo Giovanni Gondo 
 
 Indirizzo Campo:  viale Kennedy, snc - Novara
+
+Location:  viale Kennedy, snc Novara
+<!-- VALCHISONE_END -->
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 2
@@ -39,6 +46,10 @@ Campo: Tazzoli
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 20/09/2025 11.00
@@ -52,6 +63,10 @@ Giornata: Gara 245
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 3
@@ -67,6 +82,9 @@ Campo: Campo Giovanni Gondo
 
 Indirizzo Campo:  viale Kennedy, snc - Novara
 
+Location:  viale Kennedy, snc Novara
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 27/09/2025 15.00
@@ -80,6 +98,10 @@ Giornata: Gara 247
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 4
@@ -95,6 +117,10 @@ Campo: Tazzoli
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 04/10/2025 16.00
@@ -108,6 +134,10 @@ Giornata: Gara 249
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 5
@@ -123,6 +153,9 @@ Campo: Campo Giovanni Gondo
 
 Indirizzo Campo:  viale Kennedy, snc - Novara
 
+Location:  viale Kennedy, snc Novara
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 11/10/2025 14.00
@@ -136,6 +169,10 @@ Giornata: Gara 251
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 6
@@ -151,6 +188,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 18/10/2025 16.00
@@ -164,5 +205,9 @@ Giornata: Gara 253
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 

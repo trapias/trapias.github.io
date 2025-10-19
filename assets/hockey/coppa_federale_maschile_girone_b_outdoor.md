@@ -11,6 +11,10 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 20/09/2025 15.00
@@ -24,6 +28,10 @@ Giornata: Gara 192
 Campo: Grantorto Hockey Stadium 
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
+
+Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.6015238, longitude=11.7340239)
+<!-- VALCHISONE_END -->
 
 
 
@@ -39,6 +47,10 @@ Campo: Comunale San Polo
 
 Indirizzo Campo:  Via Giotto, 1 - Brescia
 
+Location: 1, Via Giotto, Montirone, Brescia, Lombardia, 25010, Italia
+Geo: Geo(latitude=45.4490271, longitude=10.2276479)
+<!-- VALCHISONE_END -->
+
 
 # Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 2
 ## Sab 27/09/2025 15.00
@@ -52,6 +64,10 @@ Giornata: Gara 194
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
+
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
 
 
 
@@ -67,6 +83,9 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 27/09/2025 15.00
@@ -80,6 +99,9 @@ Giornata: Gara 196
 Campo: Impianto comunale Nereo Faccioli 
 
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
+
+Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
+<!-- VALCHISONE_END -->
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 3
@@ -95,6 +117,10 @@ Campo: Grantorto Hockey Stadium
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
+Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.6015238, longitude=11.7340239)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 11/10/2025 15.00
@@ -108,6 +134,9 @@ Giornata: Gara 198
 Campo: Campo Ass. R. Fincantieri 
 
 Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
+
+Location:  Via Atleti Azzurri  d'Italia, snc Monfalcone
+<!-- VALCHISONE_END -->
 
 
 
@@ -123,6 +152,9 @@ Campo: Impianto comunale Nereo Faccioli
 
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
 
+Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
+<!-- VALCHISONE_END -->
+
 
 # Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 4
 ## Sab 18/10/2025 15.00
@@ -136,6 +168,9 @@ Giornata: Gara 200
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
 
 
 
@@ -151,6 +186,9 @@ Campo: Impianto comunale Nereo Faccioli
 
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
 
+Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 18/10/2025 15.00
@@ -162,6 +200,9 @@ Giornata: Gara 202
 Campo: Campo Ass. R. Fincantieri 
 
 Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
+
+Location:  Via Atleti Azzurri  d'Italia, snc Monfalcone
+<!-- VALCHISONE_END -->
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 5
@@ -177,6 +218,10 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 25/10/2025 15.00
@@ -189,6 +234,9 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 25/10/2025 15.00
@@ -200,5 +248,9 @@ Giornata: Gara 205
 Campo: Comunale San Polo 
 
 Indirizzo Campo:  Via Giotto, 1 - Brescia
+
+Location: 1, Via Giotto, Montirone, Brescia, Lombardia, 25010, Italia
+Geo: Geo(latitude=45.4490271, longitude=10.2276479)
+<!-- VALCHISONE_END -->
 
 

@@ -9,6 +9,10 @@ Campo: EUROMA STADIUM
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 07/03/2026 15.00
@@ -20,6 +24,10 @@ Giornata: Gara 2
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
+
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+<!-- VALCHISONE_END -->
 
 
 
@@ -50,6 +58,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
+
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 2
 ## Sab 14/03/2026 15.00
@@ -61,6 +73,9 @@ Giornata: Gara 5
 Campo: PINO PALMIERI 
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
+
+Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+<!-- VALCHISONE_END -->
 
 
 
@@ -74,6 +89,10 @@ Campo: CENTRO GIULIO ONESTI
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 14/03/2026 15.00
@@ -85,6 +104,9 @@ Giornata: Gara 7
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
+
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+<!-- VALCHISONE_END -->
 
 
 
@@ -114,6 +136,10 @@ Campo: EUROMA STADIUM
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 21/03/2026 15.00
@@ -126,6 +152,10 @@ Campo: A. Maxia
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 21/03/2026 15.00
@@ -137,6 +167,10 @@ Giornata: Gara 11
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
 
 
 
@@ -167,6 +201,9 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 28/03/2026 15.00
@@ -179,6 +216,9 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 28/03/2026 15.00
@@ -190,6 +230,9 @@ Giornata: Gara 15
 Campo: PINO PALMIERI 
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
+
+Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+<!-- VALCHISONE_END -->
 
 
 
@@ -220,6 +263,10 @@ Campo: EUROMA STADIUM
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 11/04/2026 15.00
@@ -232,6 +279,9 @@ Campo: PINO PALMIERI
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
+Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 11/04/2026 15.00
@@ -243,6 +293,9 @@ Giornata: Gara 19
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
+
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
 
 
 
@@ -273,6 +326,10 @@ Campo: CENTRO GIULIO ONESTI
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
+
 
 
 <!-- VALCHISONE_START -->
@@ -302,6 +359,10 @@ Campo: A. Maxia
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 18/04/2026 15.00
@@ -314,6 +375,9 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+<!-- VALCHISONE_END -->
+
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 7
 ## Sab 25/04/2026 15.00
@@ -325,6 +389,10 @@ Giornata: Gara 25
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
 
 
 
@@ -355,6 +423,9 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 25/04/2026 15.00
@@ -366,6 +437,9 @@ Giornata: Gara 28
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
+
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+<!-- VALCHISONE_END -->
 
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 8
@@ -379,6 +453,10 @@ Campo: CENTRO GIULIO ONESTI
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 02/05/2026 15.00
@@ -391,6 +469,9 @@ Campo: PINO PALMIERI
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
+Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 02/05/2026 15.00
@@ -402,6 +483,9 @@ Giornata: Gara 31
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
+
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
 
 
 
@@ -431,6 +515,10 @@ Campo: EUROMA STADIUM
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 09/05/2026 15.00
@@ -443,6 +531,10 @@ Campo: A. Maxia
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 09/05/2026 15.00
@@ -454,6 +546,10 @@ Giornata: Gara 35
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
 
 
 
@@ -484,6 +580,9 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 16/05/2026 15.00
@@ -496,6 +595,9 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 16/05/2026 15.00
@@ -507,6 +609,10 @@ Giornata: Gara 39
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
+
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
 
 
 
@@ -536,6 +642,10 @@ Campo: EUROMA STADIUM
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 30/05/2026 15.00
@@ -548,6 +658,10 @@ Campo: A. Maxia
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 30/05/2026 15.00
@@ -559,6 +673,10 @@ Giornata: Gara 43
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
 
 
 
@@ -606,6 +724,10 @@ Campo: CENTRO GIULIO ONESTI
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 06/06/2026 15.00
@@ -617,6 +739,9 @@ Giornata: Gara 47
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
+
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+<!-- VALCHISONE_END -->
 
 
 
@@ -630,6 +755,10 @@ Campo: A. Maxia
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+<!-- VALCHISONE_END -->
+
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 13
 ## Sab 13/06/2026 15.00
@@ -641,6 +770,9 @@ Giornata: Gara 49
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
+
+Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+<!-- VALCHISONE_END -->
 
 
 
@@ -654,6 +786,9 @@ Campo: PINO PALMIERI
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
+Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 13/06/2026 15.00
@@ -665,6 +800,10 @@ Giornata: Gara 51
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
 
 
 
@@ -695,6 +834,10 @@ Campo: CENTRO GIULIO ONESTI
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+<!-- VALCHISONE_END -->
+
 
 
 <!-- VALCHISONE_START -->
@@ -724,6 +867,9 @@ Campo: PINO PALMIERI
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
+Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 20/06/2026 15.00
@@ -735,5 +881,9 @@ Giornata: Gara 56
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
+
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
 
 

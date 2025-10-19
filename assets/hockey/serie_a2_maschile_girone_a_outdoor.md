@@ -9,6 +9,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 14/03/2026 15.00
@@ -20,6 +24,10 @@ Giornata: Gara 785
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
 
 
 
@@ -33,6 +41,10 @@ Campo: Tazzoli
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
+
 
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2
 ## Sab 21/03/2026 15.00
@@ -44,6 +56,10 @@ Giornata: Gara 787
 Campo: BAGLIANO 
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
+
+Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
+Geo: Geo(latitude=43.1726147, longitude=13.4873422)
+<!-- VALCHISONE_END -->
 
 
 
@@ -57,6 +73,9 @@ Campo: UMBERTO MICCO
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
+Location:  Via Goria, 4 Moncalvo
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 21/03/2026 13.00
@@ -68,6 +87,10 @@ Giornata: Gara 789
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3
@@ -81,6 +104,10 @@ Campo: Tazzoli
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 28/03/2026 15.00
@@ -92,6 +119,10 @@ Giornata: Gara 791
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
 
 
 
@@ -105,6 +136,9 @@ Campo: UMBERTO MICCO
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
+Location:  Via Goria, 4 Moncalvo
+<!-- VALCHISONE_END -->
+
 
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 4
 ## Sab 11/04/2026 15.00
@@ -116,6 +150,10 @@ Giornata: Gara 793
 Campo: BAGLIANO 
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
+
+Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
+Geo: Geo(latitude=43.1726147, longitude=13.4873422)
+<!-- VALCHISONE_END -->
 
 
 
@@ -129,6 +167,10 @@ Campo: Tazzoli
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 11/04/2026 13.30
@@ -140,6 +182,10 @@ Giornata: Gara 795
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5
@@ -153,6 +199,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 18/04/2026 15.00
@@ -164,6 +214,10 @@ Giornata: Gara 797
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
 
 
 
@@ -177,6 +231,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6
 ## Sab 25/04/2026 15.00
@@ -188,6 +246,10 @@ Giornata: Gara 799
 Campo: BAGLIANO 
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
+
+Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
+Geo: Geo(latitude=43.1726147, longitude=13.4873422)
+<!-- VALCHISONE_END -->
 
 
 
@@ -201,6 +263,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 25/04/2026 15.00
@@ -212,6 +278,9 @@ Giornata: Gara 801
 Campo: UMBERTO MICCO 
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
+
+Location:  Via Goria, 4 Moncalvo
+<!-- VALCHISONE_END -->
 
 
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7
@@ -225,6 +294,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 02/05/2026 15.00
@@ -236,6 +309,10 @@ Giornata: Gara 803
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 
@@ -249,6 +326,10 @@ Campo: Tazzoli
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
+
 
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8
 ## Sab 09/05/2026 15.00
@@ -260,6 +341,10 @@ Giornata: Gara 805
 Campo: BAGLIANO 
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
+
+Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
+Geo: Geo(latitude=43.1726147, longitude=13.4873422)
+<!-- VALCHISONE_END -->
 
 
 
@@ -273,6 +358,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 09/05/2026 13.00
@@ -284,6 +373,10 @@ Giornata: Gara 807
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9
@@ -297,6 +390,9 @@ Campo: UMBERTO MICCO
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
+Location:  Via Goria, 4 Moncalvo
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 16/05/2026 15.00
@@ -308,6 +404,10 @@ Giornata: Gara 809
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
 
 
 
@@ -321,6 +421,10 @@ Campo: CAMPO G.ARNALDI
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
+
 
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10
 ## Sab 23/05/2026 15.00
@@ -332,6 +436,10 @@ Giornata: Gara 811
 Campo: BAGLIANO 
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
+
+Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
+Geo: Geo(latitude=43.1726147, longitude=13.4873422)
+<!-- VALCHISONE_END -->
 
 
 
@@ -345,6 +453,9 @@ Campo: UMBERTO MICCO
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
+Location:  Via Goria, 4 Moncalvo
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 23/05/2026 15.00
@@ -356,5 +467,9 @@ Giornata: Gara 813
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
 
 

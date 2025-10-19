@@ -9,6 +9,10 @@ Campo: DUSMET
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+<!-- VALCHISONE_END -->
+
 
 # Ragazzi - OUTDOOR  - Girone F / Giornata 2
 ## Sab 09/05/2026 10.00
@@ -20,5 +24,8 @@ Giornata: Gara 1064
 Campo: Sintetico Comunale 
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
+
+Location:  Via Marrani, snc Torre Santa Susanna
+<!-- VALCHISONE_END -->
 
 

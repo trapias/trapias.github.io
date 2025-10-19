@@ -9,6 +9,10 @@ Campo: CAMPO HOCKEY PRATO
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 15/03/2026 15.00
@@ -20,6 +24,10 @@ Giornata: Gara 845
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
+
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+<!-- VALCHISONE_END -->
 
 
 # Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2
@@ -33,6 +41,10 @@ Campo: CAMPO HOCKEY PRATO
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 22/03/2026 15.00
@@ -44,6 +56,9 @@ Giornata: Gara 847
 Campo: UMBERTO MICCO 
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
+
+Location:  Via Goria, 4 Moncalvo
+<!-- VALCHISONE_END -->
 
 
 # Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3
@@ -57,6 +72,10 @@ Campo: A. Maxia
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 29/03/2026 15.00
@@ -68,6 +87,10 @@ Giornata: Gara 849
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 # Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4
@@ -81,6 +104,9 @@ Campo: UMBERTO MICCO
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
+Location:  Via Goria, 4 Moncalvo
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 12/04/2026 15.00
@@ -92,6 +118,10 @@ Giornata: Gara 851
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 # Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5
@@ -105,6 +135,10 @@ Campo: A. Maxia
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 19/04/2026 15.00
@@ -116,6 +150,10 @@ Giornata: Gara 853
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+<!-- VALCHISONE_END -->
 
 
 # Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6
@@ -129,6 +167,9 @@ Campo: UMBERTO MICCO
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
+Location:  Via Goria, 4 Moncalvo
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 26/04/2026 15.00
@@ -140,5 +181,9 @@ Giornata: Gara 855
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
+
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+<!-- VALCHISONE_END -->
 
 

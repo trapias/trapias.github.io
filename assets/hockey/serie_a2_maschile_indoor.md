@@ -9,6 +9,10 @@ Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 06/12/2025 12.00
@@ -20,6 +24,10 @@ Giornata: Gara 62
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
+
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+<!-- VALCHISONE_END -->
 
 
 
@@ -33,6 +41,10 @@ Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 06/12/2025 14.00
@@ -44,6 +56,10 @@ Giornata: Gara 64
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
+
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+<!-- VALCHISONE_END -->
 
 
 
@@ -57,6 +73,10 @@ Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
+Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+<!-- VALCHISONE_END -->
+
 
 # Serie A2 Maschile - Indoor / Giornata 2
 ## Sab 13/12/2025 11.00
@@ -68,6 +88,9 @@ Giornata: Gara 66
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
 
 
 
@@ -81,6 +104,9 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 13/12/2025 13.00
@@ -92,6 +118,9 @@ Giornata: Gara 68
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
 
 
 
@@ -105,6 +134,9 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 13/12/2025 15.00
@@ -116,6 +148,9 @@ Giornata: Gara 70
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+<!-- VALCHISONE_END -->
 
 
 # Serie A2 Maschile - Indoor / Giornata 3
@@ -129,6 +164,10 @@ Campo: PalaRomanzi
 
 Indirizzo Campo:  viale Gambaro, 66 - Genova
 
+Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
+Geo: Geo(latitude=44.399759, longitude=8.9696668)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 04/01/2026 12.00
@@ -140,6 +179,10 @@ Giornata: Gara 72
 Campo: PalaRomanzi 
 
 Indirizzo Campo:  viale Gambaro, 66 - Genova
+
+Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
+Geo: Geo(latitude=44.399759, longitude=8.9696668)
+<!-- VALCHISONE_END -->
 
 
 
@@ -153,6 +196,10 @@ Campo: PalaRomanzi
 
 Indirizzo Campo:  viale Gambaro, 66 - Genova
 
+Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
+Geo: Geo(latitude=44.399759, longitude=8.9696668)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 04/01/2026 14.00
@@ -164,6 +211,10 @@ Giornata: Gara 74
 Campo: PalaRomanzi 
 
 Indirizzo Campo:  viale Gambaro, 66 - Genova
+
+Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
+Geo: Geo(latitude=44.399759, longitude=8.9696668)
+<!-- VALCHISONE_END -->
 
 
 
@@ -177,6 +228,10 @@ Campo: PalaRomanzi
 
 Indirizzo Campo:  viale Gambaro, 66 - Genova
 
+Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
+Geo: Geo(latitude=44.399759, longitude=8.9696668)
+<!-- VALCHISONE_END -->
+
 
 # Serie A2 Maschile - Indoor / Giornata 4
 ## Dom 25/01/2026 11.00
@@ -188,6 +243,10 @@ Giornata: Gara 76
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+<!-- VALCHISONE_END -->
 
 
 
@@ -201,6 +260,10 @@ Campo: CENTRO SPORTIVO MILLEVOI
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 25/01/2026 13.00
@@ -212,6 +275,10 @@ Giornata: Gara 78
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+<!-- VALCHISONE_END -->
 
 
 
@@ -225,6 +292,10 @@ Campo: CENTRO SPORTIVO MILLEVOI
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 25/01/2026 15.00
@@ -236,5 +307,9 @@ Giornata: Gara 80
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+
+Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
+Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+<!-- VALCHISONE_END -->
 
 

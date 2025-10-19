@@ -11,6 +11,9 @@ Campo: Impianti L. Merigliano
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
+Location:  via J. Corrado, 4 Padova
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 05/10/2025 13.00
@@ -24,6 +27,9 @@ Giornata: Gara 479
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
+
+Location:  via J. Corrado, 4 Padova
+<!-- VALCHISONE_END -->
 
 
 
@@ -39,6 +45,9 @@ Campo: Campo Hockey Club Riva
 
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
+Location:  Via Mazzoldi, snc Riva del Garda
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 05/10/2025 13.00
@@ -53,6 +62,9 @@ Campo: Campo Hockey Club Riva
 
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
+Location:  Via Mazzoldi, snc Riva del Garda
+<!-- VALCHISONE_END -->
+
 
 # Allieve - OUTDOOR  - Girone B / Giornata 2
 ## Dom 26/10/2025 11.00
@@ -64,6 +76,9 @@ Giornata: Gara 482
 Campo: Campo Hockey Club Riva 
 
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
+
+Location:  Via Mazzoldi, snc Riva del Garda
+<!-- VALCHISONE_END -->
 
 
 
@@ -77,6 +92,9 @@ Campo: Campo Hockey Club Riva
 
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
+Location:  Via Mazzoldi, snc Riva del Garda
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 26/10/2025 11.00
@@ -88,6 +106,10 @@ Giornata: Gara 484
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
+
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+<!-- VALCHISONE_END -->
 
 
 
@@ -101,6 +123,10 @@ Campo: A. GIATTI
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+<!-- VALCHISONE_END -->
+
 
 # Allieve - OUTDOOR  - Girone B / Giornata 3
 ## Dom 02/11/2025 11.00
@@ -112,6 +138,10 @@ Giornata: Gara 486
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
+
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
 
 
 
@@ -125,6 +155,10 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 02/11/2025 13.00
@@ -136,6 +170,9 @@ Giornata: Gara 488
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
+
+Location:  via J. Corrado, 4 Padova
+<!-- VALCHISONE_END -->
 
 
 
@@ -149,6 +186,9 @@ Campo: Impianti L. Merigliano
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
+Location:  via J. Corrado, 4 Padova
+<!-- VALCHISONE_END -->
+
 
 # Allieve - OUTDOOR  - Girone B / Giornata 4
 ## Dom 29/03/2026 14.00
@@ -160,6 +200,10 @@ Giornata: Gara 490
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
+
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
 
 
 
@@ -173,6 +217,10 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 29/03/2026 11.00
@@ -184,6 +232,10 @@ Giornata: Gara 492
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
+
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+<!-- VALCHISONE_END -->
 
 
 
@@ -197,6 +249,10 @@ Campo: A. GIATTI
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+<!-- VALCHISONE_END -->
+
 
 # Allieve - OUTDOOR  - Girone B / Giornata 5
 ## Dom 12/04/2026 13.00
@@ -208,6 +264,9 @@ Giornata: Gara 494
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
+
+Location:  via J. Corrado, 4 Padova
+<!-- VALCHISONE_END -->
 
 
 
@@ -221,6 +280,9 @@ Campo: Impianti L. Merigliano
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
+Location:  via J. Corrado, 4 Padova
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 12/04/2026 11.00
@@ -232,6 +294,10 @@ Giornata: Gara 496
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
+
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
 
 
 
@@ -245,6 +311,10 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
+
 
 # Allieve - OUTDOOR  - Girone B / Giornata 6
 ## Dom 10/05/2026 11.00
@@ -256,6 +326,9 @@ Giornata: Gara 498
 Campo: Campo Hockey Club Riva 
 
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
+
+Location:  Via Mazzoldi, snc Riva del Garda
+<!-- VALCHISONE_END -->
 
 
 
@@ -269,6 +342,9 @@ Campo: Campo Hockey Club Riva
 
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
+Location:  Via Mazzoldi, snc Riva del Garda
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 10/05/2026 11.00
@@ -281,6 +357,10 @@ Campo: A. GIATTI
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 10/05/2026 13.00
@@ -292,5 +372,9 @@ Giornata: Gara 501
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
+
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+<!-- VALCHISONE_END -->
 
 

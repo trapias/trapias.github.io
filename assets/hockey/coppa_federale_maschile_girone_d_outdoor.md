@@ -11,6 +11,10 @@ Campo: DUSMET
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 20/09/2025 15.00
@@ -24,6 +28,10 @@ Giornata: Gara 214
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone D / Giornata 2
@@ -39,6 +47,10 @@ Campo: DUSMET
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 27/09/2025 17.00
@@ -52,6 +64,10 @@ Giornata: Gara 216
 Campo: Comunale Valverde 
 
 Indirizzo Campo:  Via Seminara, 28 - Valverde
+
+Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
+Geo: Geo(latitude=37.5737465, longitude=15.121129)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone D / Giornata 3
@@ -67,6 +83,10 @@ Campo: DUSMET
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 11/10/2025 15.00
@@ -80,6 +100,10 @@ Giornata: Gara 218
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone D / Giornata 4
@@ -95,6 +119,10 @@ Campo: DUSMET
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 18/10/2025 13.00
@@ -109,6 +137,10 @@ Campo: DUSMET
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+<!-- VALCHISONE_END -->
+
 
 # Coppa Federale Maschile - OUTDOOR  - Girone D / Giornata 5
 ## Sab 25/10/2025 15.00
@@ -121,6 +153,10 @@ Campo: DUSMET
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 25/10/2025 17.00
@@ -132,5 +168,9 @@ Giornata: Gara 222
 Campo: Comunale Valverde 
 
 Indirizzo Campo:  Via Seminara, 28 - Valverde
+
+Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
+Geo: Geo(latitude=37.5737465, longitude=15.121129)
+<!-- VALCHISONE_END -->
 
 

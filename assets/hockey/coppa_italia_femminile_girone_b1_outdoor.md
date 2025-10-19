@@ -11,6 +11,9 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Femminile  - Girone B1 / Giornata 2
 ## Dom 21/09/2025 15.00
@@ -24,6 +27,10 @@ Giornata: Gara 59
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
+
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Italia Femminile  - Girone B1 / Giornata 3
@@ -39,6 +46,9 @@ Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO
 
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
+Location:  VIA J. CORRADO, 24 Padova
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Femminile  - Girone B1 / Giornata 4
 ## Dom 05/10/2025 15.00
@@ -52,6 +62,9 @@ Giornata: Gara 60
 Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO 
 
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
+
+Location:  VIA J. CORRADO, 24 Padova
+<!-- VALCHISONE_END -->
 
 
 # Coppa Italia Femminile  - Girone B1 / Giornata 5
@@ -67,6 +80,9 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Femminile  - Girone B1 / Giornata 6
 ## Dom 19/10/2025 15.00
@@ -78,5 +94,9 @@ Giornata: Gara 61
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
+
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
 
 

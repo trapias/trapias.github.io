@@ -11,6 +11,10 @@ Campo: Grantorto Hockey Stadium
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
+Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.6015238, longitude=11.7340239)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 05/10/2025 11.00
@@ -24,6 +28,10 @@ Giornata: Gara 455
 Campo: Grantorto Hockey Stadium 
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
+
+Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.6015238, longitude=11.7340239)
+<!-- VALCHISONE_END -->
 
 
 
@@ -39,6 +47,10 @@ Campo: Grantorto Hockey Stadium
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
+Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.6015238, longitude=11.7340239)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 05/10/2025 13.00
@@ -53,6 +65,10 @@ Campo: Grantorto Hockey Stadium
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
+Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.6015238, longitude=11.7340239)
+<!-- VALCHISONE_END -->
+
 
 # Allievi - OUTDOOR  - Girone B1 / Giornata 2
 ## Dom 26/10/2025 11.00
@@ -64,6 +80,10 @@ Giornata: Gara 458
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
+
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
 
 
 
@@ -77,6 +97,10 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 26/10/2025 13.00
@@ -88,6 +112,10 @@ Giornata: Gara 460
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
+
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
 
 
 
@@ -101,6 +129,10 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
+
 
 # Allievi - OUTDOOR  - Girone B1 / Giornata 3
 ## Dom 02/11/2025 11.00
@@ -112,6 +144,10 @@ Giornata: Gara 462
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
+
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.190259, longitude=11.4690625)
+<!-- VALCHISONE_END -->
 
 
 
@@ -125,6 +161,10 @@ Campo: campo hockey s. farinazzo
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.190259, longitude=11.4690625)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 02/11/2025 13.00
@@ -137,6 +177,10 @@ Campo: campo hockey s. farinazzo
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.190259, longitude=11.4690625)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 02/11/2025 13.00
@@ -148,5 +192,9 @@ Giornata: Gara 465
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
+
+Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.190259, longitude=11.4690625)
+<!-- VALCHISONE_END -->
 
 

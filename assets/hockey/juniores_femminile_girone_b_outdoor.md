@@ -11,6 +11,9 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
+
 
 
 ## Sab 27/09/2025 16.00
@@ -25,6 +28,9 @@ Campo: Impianti L. Merigliano
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
+Location:  via J. Corrado, 4 Padova
+<!-- VALCHISONE_END -->
+
 
 # Juniores Femminile - OUTDOOR  - Girone B / Giornata 2
 ## Dom 23/11/2025 11.30
@@ -36,6 +42,9 @@ Giornata: Gara 382
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
 
 
 
@@ -51,6 +60,10 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
+
 
 # Juniores Femminile - OUTDOOR  - Girone B / Giornata 3
 ## Sab 25/10/2025 16.30
@@ -62,6 +75,9 @@ Giornata: Gara 384
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
+
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
 
 
 
@@ -75,6 +91,9 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
+
 
 # Juniores Femminile - OUTDOOR  - Girone B / Giornata 4
 ## Dom 02/11/2025 11.00
@@ -86,6 +105,9 @@ Giornata: Gara 386
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
+
+Location:  via J. Corrado, 4 Padova
+<!-- VALCHISONE_END -->
 
 
 
@@ -99,6 +121,9 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
+
 
 # Juniores Femminile - OUTDOOR  - Girone B / Giornata 5
 ## Dom 16/11/2025 11.30
@@ -110,6 +135,9 @@ Giornata: Gara 388
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
 
 
 
@@ -123,6 +151,9 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
+
 
 # Juniores Femminile - OUTDOOR  - Girone B / Giornata 6
 ## Dom 08/03/2026 11.00
@@ -134,6 +165,9 @@ Giornata: Gara 390
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
 
 
 
@@ -147,6 +181,10 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
+
 
 # Juniores Femminile - OUTDOOR  - Girone B / Giornata 7
 ## Sab 21/03/2026 13.30
@@ -158,6 +196,9 @@ Giornata: Gara 392
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
+
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
 
 
 
@@ -171,6 +212,9 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
+
 
 # Juniores Femminile - OUTDOOR  - Girone B / Giornata 8
 ## Sab 11/04/2026 16.00
@@ -182,6 +226,9 @@ Giornata: Gara 394
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
+
+Location:  via J. Corrado, 4 Padova
+<!-- VALCHISONE_END -->
 
 
 
@@ -195,6 +242,10 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
+
 
 # Juniores Femminile - OUTDOOR  - Girone B / Giornata 9
 ## Sab 25/04/2026 16.00
@@ -206,6 +257,9 @@ Giornata: Gara 396
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+
+Location:  Via Boccaccio, snc Cernusco sul Naviglio
+<!-- VALCHISONE_END -->
 
 
 
@@ -219,6 +273,10 @@ Campo: Comunale Mori
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8510468, longitude=10.9864925)
+<!-- VALCHISONE_END -->
+
 
 # Juniores Femminile - OUTDOOR  - Girone B / Giornata 10
 ## Dom 03/05/2026 11.00
@@ -231,6 +289,9 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
+Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 03/05/2026 11.00
@@ -242,5 +303,8 @@ Giornata: Gara 399
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
+
+Location:  via J. Corrado, 4 Padova
+<!-- VALCHISONE_END -->
 
 

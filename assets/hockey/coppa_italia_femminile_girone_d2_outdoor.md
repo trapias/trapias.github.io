@@ -11,6 +11,9 @@ Campo: STADIO HOCKEY POTENZA PICENA
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
+Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Femminile  - Girone D2 / Giornata 2
 ## Dom 21/09/2025 15.00
@@ -24,6 +27,10 @@ Giornata: Gara 235
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Italia Femminile  - Girone D2 / Giornata 3
@@ -39,6 +46,10 @@ Campo: EUROMA STADIUM
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Femminile  - Girone D2 / Giornata 4
 ## Dom 05/10/2025 15.00
@@ -52,6 +63,10 @@ Giornata: Gara 237
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
+
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+<!-- VALCHISONE_END -->
 
 
 # Coppa Italia Femminile  - Girone D2 / Giornata 5
@@ -67,6 +82,9 @@ Campo: STADIO HOCKEY POTENZA PICENA
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
+Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
+<!-- VALCHISONE_END -->
+
 
 # Coppa Italia Femminile  - Girone D2 / Giornata 6
 ## Dom 19/10/2025 15.00
@@ -78,5 +96,9 @@ Giornata: Gara 239
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+<!-- VALCHISONE_END -->
 
 
