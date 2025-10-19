@@ -143,6 +143,8 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 <strong>ASD CUS GENOVA HOCKEY - A.S.D. HOCKEY CLUB NOVARA OLD BLACK</strong>
 
+**Risultato: 1-2**
+
 Giornata: Gara 252
 
 Campo: CAMPO G.ARNALDI 
@@ -154,6 +156,8 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 ## Sab 18/10/2025 16.00
 
 <strong>GENOVA H 1980 - HCU RASSEMBLEMENT</strong>
+
+**Risultato: 3-3**
 
 Giornata: Gara 253
 

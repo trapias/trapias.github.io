@@ -115,6 +115,8 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 <strong>TEVERE EUR H - H.POTENZA PICENA</strong>
 
+**Risultato: 7-1**
+
 Giornata: Gara 108
 
 Campo: EUROMA STADIUM 
@@ -126,6 +128,8 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 ## Sab 18/10/2025 15.00
 
 <strong>LAZIO HOCKEY - BUTTERFLY ROMA</strong>
+
+**Risultato: 2-1**
 
 Giornata: Gara 109
 

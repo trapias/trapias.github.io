@@ -1,5 +1,5 @@
 # Juniores Maschile - OUTDOOR  - Girone C / Giornata 1
-## Sab 18/10/2025 12.00
+## Sab 28/02/2026 14.00
 
 <strong>GENOVA H 1980 U18 - HC SAVONA</strong>
 

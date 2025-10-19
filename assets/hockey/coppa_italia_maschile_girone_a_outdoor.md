@@ -89,6 +89,7 @@ Campo: PINO PALMIERI
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
+Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
 <!-- VALCHISONE_END -->
 
 
@@ -225,6 +226,8 @@ Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  C
 
 <strong>HP VALCHISONE - A.S.D. S.H. PAOLO BONOMI</strong>
 
+**Risultato: 3-1**
+
 Giornata: Gara 154
 
 Campo: Tazzoli 
@@ -240,6 +243,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 ## Sab 18/10/2025 15.00
 
 <strong>CUS PISA ASD - ASD SUPERBA HC</strong>
+
+**Risultato: 4-4**
 
 Giornata: Gara 155
 

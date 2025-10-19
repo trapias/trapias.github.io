@@ -41,6 +41,8 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 <strong>HC GENOVA - GENOVA H 1980 ROVESCIO</strong>
 
+**Risultato: 1-1**
+
 Giornata: Gara 344
 
 Campo: CAMPO G.ARNALDI 

@@ -77,7 +77,7 @@ Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 4
-## Mer 15/10/2025 20.00
+## Mer 29/10/2025 20.00
 
 <strong>POLISPORTIVA FERRINI - A.S.D. POLISPORTIVA JUVENILIA</strong>
 
@@ -189,6 +189,8 @@ Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 <strong>HT SARDEGNA - POLISPORTIVA FERRINI</strong>
 
+**Risultato: 1-2**
+
 Giornata: Gara 134
 
 Campo: Comunale Uras 
@@ -200,6 +202,8 @@ Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 ## Sab 18/10/2025 15.00
 
 <strong>SG AMSICORA - A.S.D. POLISPORTIVA JUVENILIA</strong>
+
+**Risultato: 12-0**
 
 Giornata: Gara 135
 

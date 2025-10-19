@@ -114,6 +114,8 @@ Location:  Via Goria, 4 Moncalvo
 
 <strong>USD MONCALVESE HOCKEY - SCUOLA HOCKEY INDER SINGH</strong>
 
+**Risultato: 4-1**
+
 Giornata: Gara 641
 
 Campo: UMBERTO MICCO 

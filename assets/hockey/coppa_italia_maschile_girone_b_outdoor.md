@@ -255,6 +255,8 @@ Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 <strong>CSP SAN GIORGIO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
 
+**Risultato: 3-3**
+
 Giornata: Gara 94
 
 Campo: campo hockey s. farinazzo 
@@ -267,6 +269,8 @@ Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 <strong>ASD ADIGE UHC - HOCKEY TEAM BOLOGNA</strong>
 
+**Risultato: 2-2**
+
 Giornata: Gara 95
 
 Campo: Comunale Mori 
@@ -278,6 +282,8 @@ Indirizzo Campo:  Via Lomba, 23 - Mori
 ## Sab 18/10/2025 15.00
 
 <strong>CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO</strong>
+
+**Risultato: 0-1**
 
 Giornata: Gara 166
 

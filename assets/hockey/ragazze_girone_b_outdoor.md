@@ -29,6 +29,8 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 <strong>ASD ADIGE UHC - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
 
+**Risultato: 4-3**
+
 Giornata: Gara 432
 
 Campo: Comunale Mori 

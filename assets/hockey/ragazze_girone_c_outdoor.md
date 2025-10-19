@@ -1,5 +1,5 @@
 # Ragazze - OUTDOOR  - Girone C / Giornata 1
-## Dom 16/11/2025 14.00
+## Sab 15/11/2025 15.30
 
 <strong>HF GENOVA 1980 - CUS PISA ASD</strong>
 

@@ -3,6 +3,8 @@
 
 <strong>SG AMSICORA - POLISPORTIVA FERRINI</strong>
 
+**Risultato: 5-0**
+
 Giornata: Gara 229
 
 Campo: AMSICORA 

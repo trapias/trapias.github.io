@@ -129,6 +129,8 @@ Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 1-1**
+
 Giornata: Gara 200
 
 Campo: Campo Comunale 
@@ -140,6 +142,8 @@ Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 ## Sab 18/10/2025 15.00
 
 <strong>HC VILLAFRANCA - HOCKEY CUSCUBE BRESCIA</strong>
+
+**Risultato: 3-0**
 
 Giornata: Gara 201
 

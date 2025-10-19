@@ -13,7 +13,7 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 
 # Juniores Femminile - OUTDOOR  - Girone A / Giornata 2
-## Sab 15/11/2025 14.00
+## Dom 16/11/2025 12.00
 
 <strong>HF LORENZONI - HF GENOVA 1980</strong>
 
@@ -28,6 +28,8 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 ## Sab 18/10/2025 17.30
 
 <strong>HF GENOVA 1980 - CUS TORINO</strong>
+
+**Risultato: 0-0**
 
 Giornata: Gara 661
 

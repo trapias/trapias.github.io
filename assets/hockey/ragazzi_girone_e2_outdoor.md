@@ -27,7 +27,7 @@ Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 
 # Ragazzi - OUTDOOR  - Girone E2 / Giornata 2
-## Dom 26/10/2025 11.00
+## -
 
 <strong>H.POTENZA PICENA - LAZIO HOCKEY</strong>
 

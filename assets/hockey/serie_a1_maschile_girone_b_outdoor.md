@@ -59,7 +59,7 @@ Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 
 
-## Sab 21/03/2026 15.00
+## Dom 22/03/2026 11.00
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA - CUS PISA ASD</strong>
 
@@ -239,7 +239,7 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 
 
-## Sab 02/05/2026 15.00
+## Dom 03/05/2026 11.00
 
 <strong>CUS PISA ASD - A.S.D. POLISPORTIVA JUVENILIA</strong>
 

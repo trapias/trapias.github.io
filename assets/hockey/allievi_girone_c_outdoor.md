@@ -71,6 +71,8 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 <strong>HC GENOVA - GENOVA H 1980 DRITTO</strong>
 
+**Risultato: 6-6**
+
 Giornata: Gara 356
 
 Campo: CAMPO G.ARNALDI 

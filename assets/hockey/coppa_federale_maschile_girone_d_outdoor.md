@@ -87,6 +87,8 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
 <strong>GRUPPO SPORTIVO M.SS: RACCOMANDATA - SSD UNIME ARL</strong>
 
+**Risultato: 1-1**
+
 Giornata: Gara 219
 
 Campo: DUSMET 
@@ -98,6 +100,8 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 ## Sab 18/10/2025 13.00
 
 <strong>PGS DON BOSCO 2000 ASD - VALVERDE HOCKEY 2018</strong>
+
+**Risultato: 0-5**
 
 Giornata: Gara 220
 
