@@ -22,6 +22,8 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 <strong>H.POTENZA PICENA - AZ HOCKEY TEAM</strong>
 
+**Risultato: 2-13**
+
 Giornata: Gara 589
 
 Campo: STADIO HOCKEY POTENZA PICENA 

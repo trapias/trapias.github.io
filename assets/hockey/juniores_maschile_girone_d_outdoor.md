@@ -43,6 +43,8 @@ Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
 
 <strong>H.POTENZA PICENA - BUTTERFLY ROMA</strong>
 
+**Risultato: 0-6**
+
 Giornata: Gara 275
 
 Campo: STADIO HOCKEY POTENZA PICENA 

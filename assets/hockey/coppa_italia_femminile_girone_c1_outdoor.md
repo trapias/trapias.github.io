@@ -111,6 +111,8 @@ Geo: Geo(latitude=41.9317744, longitude=12.4862157)
 
 <strong>CUS PISA ASD - BUTTERFLY ROMA</strong>
 
+**Risultato: 1-1**
+
 Giornata: Gara 228
 
 Campo: CAMPO HOCKEY PRATO 

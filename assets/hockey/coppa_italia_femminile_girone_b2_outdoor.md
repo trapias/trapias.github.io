@@ -105,6 +105,8 @@ Location:  Via Boccaccio, snc Cernusco sul Naviglio
 
 <strong>MILANO HP - HOCKEY CLUB ARGENTIA</strong>
 
+**Risultato: 9-1**
+
 Giornata: Gara 78
 
 Campo: Campo Comunale 

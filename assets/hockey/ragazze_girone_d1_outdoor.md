@@ -6,6 +6,8 @@
 
 <strong>H.POTENZA PICENA - AZ HOCKEY TEAM</strong>
 
+**Risultato: 2-1**
+
 Giornata: Gara 621
 
 Campo: STADIO HOCKEY POTENZA PICENA 
