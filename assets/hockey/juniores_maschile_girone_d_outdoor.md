@@ -1,4 +1,7 @@
+
+
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 1
+
 ## Dom 05/10/2025 11.00
 
 <strong>LAZIO HOCKEY - BUTTERFLY ROMA</strong>
@@ -13,8 +16,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 05/10/2025 12.00
@@ -30,10 +31,11 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 2
+
 ## Dom 19/10/2025 13.00
 
 <strong>H.POTENZA PICENA - BUTTERFLY ROMA</strong>
@@ -45,8 +47,6 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 19/10/2025 12.00
@@ -61,10 +61,11 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 3
+
 ## Dom 02/11/2025 12.00
 
 <strong>LAZIO HOCKEY - H.POTENZA PICENA</strong>
@@ -77,8 +78,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 08/03/2026 13.00
@@ -93,10 +92,11 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 4
+
 ## Dom 02/11/2025 11.00
 
 <strong>BUTTERFLY ROMA - TEVERE EUR H</strong>
@@ -109,8 +109,6 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 16/11/2025 12.00
@@ -124,10 +122,11 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 5
+
 ## Dom 01/03/2026 12.00
 
 <strong>TEVERE EUR H - LAZIO HOCKEY</strong>
@@ -140,8 +139,6 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 01/03/2026 12.00
@@ -156,10 +153,11 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 6
+
 ## Dom 15/03/2026 11.00
 
 <strong>BUTTERFLY ROMA - LAZIO HOCKEY</strong>
@@ -172,8 +170,6 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 15/03/2026 12.00
@@ -188,10 +184,11 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 7
+
 ## Dom 29/03/2026 12.00
 
 <strong>BUTTERFLY ROMA - H.POTENZA PICENA</strong>
@@ -204,8 +201,6 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 29/03/2026 11.00
@@ -220,10 +215,11 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 8
+
 ## Dom 12/04/2026 12.00
 
 <strong>H.POTENZA PICENA - LAZIO HOCKEY</strong>
@@ -235,8 +231,6 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 12/04/2026 12.00
@@ -251,10 +245,11 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 9
+
 ## Dom 26/04/2026 12.00
 
 <strong>TEVERE EUR H - BUTTERFLY ROMA</strong>
@@ -267,8 +262,6 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 26/04/2026 12.00
@@ -283,10 +276,11 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 10
+
 ## Dom 03/05/2026 11.00
 
 <strong>LAZIO HOCKEY - TEVERE EUR H</strong>
@@ -299,8 +293,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 03/05/2026 11.00
@@ -315,6 +307,4 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
-
 

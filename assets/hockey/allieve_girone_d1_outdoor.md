@@ -1,4 +1,7 @@
+
+
 # Allieve - OUTDOOR  - Girone D1 / Giornata 1
+
 ## Sab 25/10/2025 17.00
 
 <strong>UH CAPITOLINA - BUTTERFLY ROMA</strong>
@@ -11,8 +14,6 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 13/12/2025 15.00
@@ -27,10 +28,11 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
+
 
 
 # Allieve - OUTDOOR  - Girone D1 / Giornata 2
+
 ## Sab 31/01/2026 15.00
 
 <strong>BUTTERFLY ROMA - LAZIO HOCKEY</strong>
@@ -43,8 +45,6 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 01/11/2025 16.00
@@ -59,10 +59,11 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
+
 
 
 # Allieve - OUTDOOR  - Girone D1 / Giornata 3
+
 ## Sab 15/11/2025 13.00
 
 <strong>BUTTERFLY ROMA - HOCKEY CLUB ROMA</strong>
@@ -75,8 +76,6 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
-
 
 
 ## -
@@ -91,10 +90,11 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
+
 
 
 # Allieve - OUTDOOR  - Girone D1 / Giornata 4
+
 ## Sab 14/03/2026 17.30
 
 <strong>BUTTERFLY ROMA - UH CAPITOLINA</strong>
@@ -107,8 +107,6 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 07/03/2026 15.00
@@ -122,10 +120,11 @@ Campo: Campo Comunale Oriolo Romano
 Indirizzo Campo:  Via G. Rodari, 5 - Oriolo Romano
 
 Location:  Via G. Rodari, 5 Oriolo Romano
-<!-- VALCHISONE_END -->
+
 
 
 # Allieve - OUTDOOR  - Girone D1 / Giornata 5
+
 ## Sab 21/03/2026 17.00
 
 <strong>LAZIO HOCKEY - BUTTERFLY ROMA</strong>
@@ -138,8 +137,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 21/03/2026 15.00
@@ -153,10 +150,11 @@ Campo: Campo Comunale Oriolo Romano
 Indirizzo Campo:  Via G. Rodari, 5 - Oriolo Romano
 
 Location:  Via G. Rodari, 5 Oriolo Romano
-<!-- VALCHISONE_END -->
+
 
 
 # Allieve - OUTDOOR  - Girone D1 / Giornata 6
+
 ## Sab 11/04/2026 15.00
 
 <strong>HOCKEY CLUB ROMA - BUTTERFLY ROMA</strong>
@@ -168,8 +166,6 @@ Campo: Campo Comunale Oriolo Romano
 Indirizzo Campo:  Via G. Rodari, 5 - Oriolo Romano
 
 Location:  Via G. Rodari, 5 Oriolo Romano
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 11/04/2026 17.00
@@ -184,6 +180,4 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 

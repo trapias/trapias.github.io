@@ -1,4 +1,7 @@
+
+
 # Coppa Federale Maschile - OUTDOOR  - Final Four / Semifinale 
+
 ## Sab 15/11/2025 15.00
 
 <strong>VINCENTE SPAREGGIO GIR. A - VINCENTE SPAREGGIO GIR. C</strong>
@@ -11,8 +14,6 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 15/11/2025 17.00
@@ -27,10 +28,11 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Federale Maschile - OUTDOOR  - Final Four / Finale 3/4 posto
+
 ## Dom 16/11/2025 10.00
 
 <strong> - </strong>
@@ -43,8 +45,6 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 16/11/2025 12.00
@@ -59,6 +59,4 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
-<!-- VALCHISONE_END -->
-
 

@@ -1,4 +1,7 @@
+
+
 # Coppa Federale Maschile - OUTDOOR  - Girone D / Giornata 1
+
 ## Dom 21/09/2025 11.00
 
 <strong>SSD UNIME ARL - POL GALATEA</strong>
@@ -13,8 +16,6 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 20/09/2025 15.00
@@ -31,10 +32,11 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone D / Giornata 2
+
 ## Sab 27/09/2025 15.00
 
 <strong>PGS DON BOSCO 2000 ASD - SSD UNIME ARL</strong>
@@ -49,8 +51,6 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 27/09/2025 17.00
@@ -67,10 +67,11 @@ Indirizzo Campo:  Via Seminara, 28 - Valverde
 
 Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
 Geo: Geo(latitude=37.5737465, longitude=15.121129)
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone D / Giornata 3
+
 ## Dom 12/10/2025 11.00
 
 <strong>SSD UNIME ARL - VALVERDE HOCKEY 2018</strong>
@@ -85,8 +86,6 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 11/10/2025 15.00
@@ -103,10 +102,11 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone D / Giornata 4
+
 ## Sab 18/10/2025 15.00
 
 <strong>GRUPPO SPORTIVO M.SS: RACCOMANDATA - SSD UNIME ARL</strong>
@@ -121,8 +121,6 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 18/10/2025 13.00
@@ -139,10 +137,11 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone D / Giornata 5
+
 ## Sab 25/10/2025 15.00
 
 <strong>POL GALATEA - PGS DON BOSCO 2000 ASD</strong>
@@ -155,8 +154,6 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 25/10/2025 17.00
@@ -171,6 +168,4 @@ Indirizzo Campo:  Via Seminara, 28 - Valverde
 
 Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
 Geo: Geo(latitude=37.5737465, longitude=15.121129)
-<!-- VALCHISONE_END -->
-
 

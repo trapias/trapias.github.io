@@ -1,4 +1,7 @@
+
+
 # Allievi - OUTDOOR  - Girone B1 / Giornata 1
+
 ## Dom 05/10/2025 11.00
 
 <strong>CSP SAN GIORGIO - ASD ADIGE UHC</strong>
@@ -12,9 +15,7 @@ Campo: Grantorto Hockey Stadium
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
 Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
-Geo: Geo(latitude=45.6015238, longitude=11.7340239)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 
 ## Dom 05/10/2025 11.00
@@ -30,9 +31,7 @@ Campo: Grantorto Hockey Stadium
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
 Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
-Geo: Geo(latitude=45.6015238, longitude=11.7340239)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 
 ## Dom 05/10/2025 13.00
@@ -48,9 +47,7 @@ Campo: Grantorto Hockey Stadium
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
 Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
-Geo: Geo(latitude=45.6015238, longitude=11.7340239)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 
 ## Dom 05/10/2025 13.00
@@ -66,11 +63,12 @@ Campo: Grantorto Hockey Stadium
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
 Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
-Geo: Geo(latitude=45.6015238, longitude=11.7340239)
-<!-- VALCHISONE_END -->
+Geo: Geo(latitude=45.6015809, longitude=11.7339885)
+
 
 
 # Allievi - OUTDOOR  - Girone B1 / Giornata 2
+
 ## Dom 26/10/2025 11.00
 
 <strong>CSP SAN GIORGIO - HOCKEY CLUB RIVA</strong>
@@ -82,9 +80,7 @@ Campo: Comunale Mori
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8510468, longitude=10.9864925)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 ## Dom 26/10/2025 11.00
@@ -98,9 +94,7 @@ Campo: Comunale Mori
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8510468, longitude=10.9864925)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 ## Dom 26/10/2025 13.00
@@ -114,9 +108,7 @@ Campo: Comunale Mori
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8510468, longitude=10.9864925)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 ## Dom 26/10/2025 13.00
@@ -130,11 +122,12 @@ Campo: Comunale Mori
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8510468, longitude=10.9864925)
-<!-- VALCHISONE_END -->
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
+
 
 
 # Allievi - OUTDOOR  - Girone B1 / Giornata 3
+
 ## Dom 02/11/2025 11.00
 
 <strong>POLISPORTIVA CAMELOT - CSP SAN GIORGIO</strong>
@@ -146,9 +139,7 @@ Campo: campo hockey s. farinazzo
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.190259, longitude=11.4690625)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 
 ## Dom 02/11/2025 11.00
@@ -162,9 +153,7 @@ Campo: campo hockey s. farinazzo
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.190259, longitude=11.4690625)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 
 ## Dom 02/11/2025 13.00
@@ -178,9 +167,7 @@ Campo: campo hockey s. farinazzo
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.190259, longitude=11.4690625)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 
 ## Dom 02/11/2025 13.00
@@ -194,7 +181,5 @@ Campo: campo hockey s. farinazzo
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.190259, longitude=11.4690625)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 

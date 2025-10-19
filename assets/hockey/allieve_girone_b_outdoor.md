@@ -1,4 +1,7 @@
+
+
 # Allieve - OUTDOOR  - Girone B / Giornata 1
+
 ## Dom 05/10/2025 11.00
 
 <strong>CUS PADOVA ASD - ASD ADIGE UHC</strong>
@@ -12,8 +15,6 @@ Campo: Impianti L. Merigliano
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
 Location:  via J. Corrado, 4 Padova
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 05/10/2025 13.00
@@ -29,8 +30,6 @@ Campo: Impianti L. Merigliano
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
 Location:  via J. Corrado, 4 Padova
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 05/10/2025 11.00
@@ -46,8 +45,6 @@ Campo: Campo Hockey Club Riva
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
 Location:  Via Mazzoldi, snc Riva del Garda
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 05/10/2025 13.00
@@ -63,10 +60,11 @@ Campo: Campo Hockey Club Riva
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
 Location:  Via Mazzoldi, snc Riva del Garda
-<!-- VALCHISONE_END -->
+
 
 
 # Allieve - OUTDOOR  - Girone B / Giornata 2
+
 ## Dom 26/10/2025 11.00
 
 <strong>HOCKEY CLUB RIVA - ASD ADIGE UHC</strong>
@@ -78,8 +76,6 @@ Campo: Campo Hockey Club Riva
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
 Location:  Via Mazzoldi, snc Riva del Garda
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 26/10/2025 13.00
@@ -93,8 +89,6 @@ Campo: Campo Hockey Club Riva
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
 Location:  Via Mazzoldi, snc Riva del Garda
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 26/10/2025 11.00
@@ -109,8 +103,6 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 26/10/2025 13.00
@@ -125,10 +117,11 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
-<!-- VALCHISONE_END -->
+
 
 
 # Allieve - OUTDOOR  - Girone B / Giornata 3
+
 ## Dom 02/11/2025 11.00
 
 <strong>ASD ADIGE UHC - ASD HOCKEY CLUB BONDENO</strong>
@@ -140,9 +133,7 @@ Campo: Comunale Mori
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8510468, longitude=10.9864925)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 ## Dom 02/11/2025 13.00
@@ -156,9 +147,7 @@ Campo: Comunale Mori
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8510468, longitude=10.9864925)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 ## Dom 02/11/2025 13.00
@@ -172,8 +161,6 @@ Campo: Impianti L. Merigliano
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
 Location:  via J. Corrado, 4 Padova
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 02/11/2025 15.00
@@ -187,10 +174,11 @@ Campo: Impianti L. Merigliano
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
 Location:  via J. Corrado, 4 Padova
-<!-- VALCHISONE_END -->
+
 
 
 # Allieve - OUTDOOR  - Girone B / Giornata 4
+
 ## Dom 29/03/2026 14.00
 
 <strong>ASD ADIGE UHC - CUS PADOVA ASD</strong>
@@ -202,9 +190,7 @@ Campo: Comunale Mori
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8510468, longitude=10.9864925)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 ## Dom 29/03/2026 16.00
@@ -218,9 +204,7 @@ Campo: Comunale Mori
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8510468, longitude=10.9864925)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 ## Dom 29/03/2026 11.00
@@ -235,8 +219,6 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 29/03/2026 13.00
@@ -251,10 +233,11 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
-<!-- VALCHISONE_END -->
+
 
 
 # Allieve - OUTDOOR  - Girone B / Giornata 5
+
 ## Dom 12/04/2026 13.00
 
 <strong>CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO</strong>
@@ -266,8 +249,6 @@ Campo: Impianti L. Merigliano
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
 Location:  via J. Corrado, 4 Padova
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 12/04/2026 15.00
@@ -281,8 +262,6 @@ Campo: Impianti L. Merigliano
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
 Location:  via J. Corrado, 4 Padova
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 12/04/2026 11.00
@@ -296,9 +275,7 @@ Campo: Comunale Mori
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8510468, longitude=10.9864925)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 ## Dom 12/04/2026 13.00
@@ -312,11 +289,12 @@ Campo: Comunale Mori
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8510468, longitude=10.9864925)
-<!-- VALCHISONE_END -->
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
+
 
 
 # Allieve - OUTDOOR  - Girone B / Giornata 6
+
 ## Dom 10/05/2026 11.00
 
 <strong>HOCKEY CLUB RIVA - CUS PADOVA ASD</strong>
@@ -328,8 +306,6 @@ Campo: Campo Hockey Club Riva
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
 Location:  Via Mazzoldi, snc Riva del Garda
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 10/05/2026 13.00
@@ -343,8 +319,6 @@ Campo: Campo Hockey Club Riva
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
 Location:  Via Mazzoldi, snc Riva del Garda
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 10/05/2026 11.00
@@ -359,8 +333,6 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 10/05/2026 13.00
@@ -375,6 +347,4 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
-<!-- VALCHISONE_END -->
-
 

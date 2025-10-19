@@ -1,4 +1,7 @@
+
+
 # Serie A1 Maschile - Indoor / Giornata 1
+
 ## Dom 30/11/2025 11.00
 
 <strong>HOCKEY CLUB RIVA - A.S.D. S.H. PAOLO BONOMI</strong>
@@ -10,8 +13,6 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 30/11/2025 12.00
@@ -25,8 +26,6 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 30/11/2025 13.00
@@ -40,8 +39,6 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 30/11/2025 14.00
@@ -55,8 +52,6 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 30/11/2025 15.00
@@ -70,8 +65,6 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 30/11/2025 16.00
@@ -85,10 +78,11 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A1 Maschile - Indoor / Giornata 2
+
 ## Sab 13/12/2025 11.00
 
 <strong>HOCKEY CLUB RIVA - POLISPORTIVA UNIVERSITARIA MESSINA</strong>
@@ -99,10 +93,8 @@ Campo: PALA NEBIOLO
 
 Indirizzo Campo:  Via Umberto Fiore,  - Messina
 
-Location: Via Umberto Fiore, Conca d'Oro, V Circoscrizione, Messina, Sicilia, 98168, Italia
-Geo: Geo(latitude=38.2244768, longitude=15.5600648)
-<!-- VALCHISONE_END -->
-
+Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
 
 ## Sab 13/12/2025 12.00
@@ -115,10 +107,8 @@ Campo: PALA NEBIOLO
 
 Indirizzo Campo:  Via Umberto Fiore,  - Messina
 
-Location: Via Umberto Fiore, Conca d'Oro, V Circoscrizione, Messina, Sicilia, 98168, Italia
-Geo: Geo(latitude=38.2244768, longitude=15.5600648)
-<!-- VALCHISONE_END -->
-
+Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
 
 ## Sab 13/12/2025 13.00
@@ -131,10 +121,8 @@ Campo: PALA NEBIOLO
 
 Indirizzo Campo:  Via Umberto Fiore,  - Messina
 
-Location: Via Umberto Fiore, Conca d'Oro, V Circoscrizione, Messina, Sicilia, 98168, Italia
-Geo: Geo(latitude=38.2244768, longitude=15.5600648)
-<!-- VALCHISONE_END -->
-
+Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
 
 ## Sab 13/12/2025 14.00
@@ -147,10 +135,8 @@ Campo: PALA NEBIOLO
 
 Indirizzo Campo:  Via Umberto Fiore,  - Messina
 
-Location: Via Umberto Fiore, Conca d'Oro, V Circoscrizione, Messina, Sicilia, 98168, Italia
-Geo: Geo(latitude=38.2244768, longitude=15.5600648)
-<!-- VALCHISONE_END -->
-
+Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
 
 ## Sab 13/12/2025 15.00
@@ -163,10 +149,8 @@ Campo: PALA NEBIOLO
 
 Indirizzo Campo:  Via Umberto Fiore,  - Messina
 
-Location: Via Umberto Fiore, Conca d'Oro, V Circoscrizione, Messina, Sicilia, 98168, Italia
-Geo: Geo(latitude=38.2244768, longitude=15.5600648)
-<!-- VALCHISONE_END -->
-
+Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
 
 ## Sab 13/12/2025 16.00
@@ -179,12 +163,13 @@ Campo: PALA NEBIOLO
 
 Indirizzo Campo:  Via Umberto Fiore,  - Messina
 
-Location: Via Umberto Fiore, Conca d'Oro, V Circoscrizione, Messina, Sicilia, 98168, Italia
-Geo: Geo(latitude=38.2244768, longitude=15.5600648)
-<!-- VALCHISONE_END -->
+Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.224983, longitude=15.5562633)
+
 
 
 # Serie A1 Maschile - Indoor / Giornata 3
+
 ## Dom 21/12/2025 11.00
 
 <strong>LAZIO HOCKEY - POLISPORTIVA UNIVERSITARIA MESSINA</strong>
@@ -197,8 +182,6 @@ Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 21/12/2025 12.00
@@ -213,8 +196,6 @@ Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 21/12/2025 13.00
@@ -229,8 +210,6 @@ Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 21/12/2025 14.00
@@ -245,8 +224,6 @@ Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 21/12/2025 15.00
@@ -261,8 +238,6 @@ Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 21/12/2025 16.00
@@ -277,10 +252,11 @@ Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A1 Maschile - Indoor / Giornata 4
+
 ## Sab 17/01/2026 11.00
 
 <strong>A.S.D. S.H. PAOLO BONOMI - USD MONCALVESE HOCKEY</strong>
@@ -292,8 +268,6 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 17/01/2026 12.00
@@ -307,8 +281,6 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 17/01/2026 13.00
@@ -322,8 +294,6 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 17/01/2026 14.00
@@ -337,8 +307,6 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 17/01/2026 15.00
@@ -352,8 +320,6 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 17/01/2026 16.00
@@ -367,10 +333,11 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A1 Maschile - Indoor / Giornata 5
+
 ## Dom 25/01/2026 11.00
 
 <strong>POLISPORTIVA UNIVERSITARIA MESSINA - CSP SAN GIORGIO</strong>
@@ -383,8 +350,6 @@ Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
 
 Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
 Geo: Geo(latitude=46.3693051, longitude=11.0326891)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 25/01/2026 12.00
@@ -399,8 +364,6 @@ Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
 
 Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
 Geo: Geo(latitude=46.3693051, longitude=11.0326891)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 25/01/2026 13.00
@@ -415,8 +378,6 @@ Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
 
 Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
 Geo: Geo(latitude=46.3693051, longitude=11.0326891)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 25/01/2026 14.00
@@ -431,8 +392,6 @@ Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
 
 Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
 Geo: Geo(latitude=46.3693051, longitude=11.0326891)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 25/01/2026 15.00
@@ -447,8 +406,6 @@ Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
 
 Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
 Geo: Geo(latitude=46.3693051, longitude=11.0326891)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 25/01/2026 16.00
@@ -463,6 +420,4 @@ Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
 
 Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
 Geo: Geo(latitude=46.3693051, longitude=11.0326891)
-<!-- VALCHISONE_END -->
-
 

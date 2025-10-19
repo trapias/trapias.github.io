@@ -1,4 +1,7 @@
+
+
 # Allieve - OUTDOOR  - Girone D2 / Giornata 1
+
 ## Dom 23/11/2025 13.00
 
 <strong>AZ HOCKEY TEAM - H.POTENZA PICENA</strong>
@@ -10,10 +13,11 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
 Location:  Via dei Gladioli, snc Avezzano
-<!-- VALCHISONE_END -->
+
 
 
 # Allieve - OUTDOOR  - Girone D2 / Giornata 2
+
 ## Dom 02/11/2025 12.00
 
 <strong>AZ HOCKEY TEAM - ASD HOCKEY CLUB MOGLIANO</strong>
@@ -25,10 +29,11 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
 Location:  Via dei Gladioli, snc Avezzano
-<!-- VALCHISONE_END -->
+
 
 
 # Allieve - OUTDOOR  - Girone D2 / Giornata 3
+
 ## Gio 13/11/2025 17.00
 
 <strong>H.POTENZA PICENA - ASD HOCKEY CLUB MOGLIANO</strong>
@@ -40,10 +45,11 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
+
 
 
 # Allieve - OUTDOOR  - Girone D2 / Giornata 4
+
 ## Sab 07/03/2026 17.00
 
 <strong>H.POTENZA PICENA - AZ HOCKEY TEAM</strong>
@@ -55,10 +61,11 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
+
 
 
 # Allieve - OUTDOOR  - Girone D2 / Giornata 5
+
 ## Dom 29/03/2026 12.00
 
 <strong>ASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM</strong>
@@ -71,10 +78,11 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
-<!-- VALCHISONE_END -->
+
 
 
 # Allieve - OUTDOOR  - Girone D2 / Giornata 6
+
 ## Sab 11/04/2026 17.00
 
 <strong>ASD HOCKEY CLUB MOGLIANO - H.POTENZA PICENA</strong>
@@ -87,6 +95,4 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
-<!-- VALCHISONE_END -->
-
 

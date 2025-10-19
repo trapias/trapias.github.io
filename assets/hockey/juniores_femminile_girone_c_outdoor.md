@@ -1,4 +1,7 @@
+
+
 # Juniores Femminile - OUTDOOR  - Girone C / Giornata 1
+
 ## Sab 01/11/2025 14.00
 
 <strong>UH CAPITOLINA - H.POTENZA PICENA</strong>
@@ -11,8 +14,6 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 01/03/2026 15.00
@@ -27,10 +28,11 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Femminile - OUTDOOR  - Girone C / Giornata 2
+
 ## Sab 15/11/2025 15.00
 
 <strong>LAZIO HOCKEY - H.POTENZA PICENA</strong>
@@ -43,8 +45,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 ## Ven 14/11/2025 19.00
@@ -59,10 +59,11 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Femminile - OUTDOOR  - Girone C / Giornata 3
+
 ## Sab 22/11/2025 15.00
 
 <strong>H.POTENZA PICENA - BUTTERFLY ROMA</strong>
@@ -74,8 +75,6 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 22/11/2025 15.00
@@ -90,10 +89,11 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Femminile - OUTDOOR  - Girone C / Giornata 4
+
 ## Sab 07/03/2026 15.00
 
 <strong>H.POTENZA PICENA - UH CAPITOLINA</strong>
@@ -105,8 +105,6 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 07/03/2026 15.00
@@ -121,10 +119,11 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Femminile - OUTDOOR  - Girone C / Giornata 5
+
 ## Sab 11/04/2026 15.00
 
 <strong>H.POTENZA PICENA - LAZIO HOCKEY</strong>
@@ -136,8 +135,6 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
-
 
 
 ## Mer 01/04/2026 19.00
@@ -152,10 +149,11 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Femminile - OUTDOOR  - Girone C / Giornata 6
+
 ## Sab 09/05/2026 15.00
 
 <strong>BUTTERFLY ROMA - H.POTENZA PICENA</strong>
@@ -168,8 +166,6 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
-
 
 
 ## Mer 08/04/2026 19.00
@@ -184,6 +180,4 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 

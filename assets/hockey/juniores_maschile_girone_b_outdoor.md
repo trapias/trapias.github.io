@@ -1,4 +1,7 @@
+
+
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 1
+
 ## Dom 21/09/2025 11.00
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HC VILLAFRANCA</strong>
@@ -12,10 +15,11 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 2
+
 ## Dom 05/10/2025 11.00
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CSP SAN GIORGIO</strong>
@@ -29,10 +33,11 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 3
+
 ## Dom 26/10/2025 11.00
 
 <strong>CSP SAN GIORGIO - CUS PADOVA ASD</strong>
@@ -44,11 +49,12 @@ Campo: campo hockey s. farinazzo
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.190259, longitude=11.4690625)
-<!-- VALCHISONE_END -->
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
+
 
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 4
+
 ## Dom 02/11/2025 11.00
 
 <strong>HC VILLAFRANCA - CUS PADOVA ASD</strong>
@@ -60,10 +66,11 @@ Campo: Impianto comunale Nereo Faccioli
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
 
 Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 5
+
 ## Dom 16/11/2025 11.00
 
 <strong>CSP SAN GIORGIO - HC VILLAFRANCA</strong>
@@ -75,9 +82,7 @@ Campo: campo hockey s. farinazzo
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.190259, longitude=11.4690625)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 
 ## Dom 16/11/2025 11.00
@@ -91,10 +96,11 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 6
+
 ## Dom 22/03/2026 11.00
 
 <strong>HC VILLAFRANCA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
@@ -106,10 +112,11 @@ Campo: Impianto comunale Nereo Faccioli
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
 
 Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 7
+
 ## Dom 08/03/2026 11.00
 
 <strong>CSP SAN GIORGIO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
@@ -121,11 +128,12 @@ Campo: campo hockey s. farinazzo
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.190259, longitude=11.4690625)
-<!-- VALCHISONE_END -->
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
+
 
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 8
+
 ## Dom 22/03/2026 11.00
 
 <strong>CUS PADOVA ASD - CSP SAN GIORGIO</strong>
@@ -137,10 +145,11 @@ Campo: Impianti L. Merigliano
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
 Location:  via J. Corrado, 4 Padova
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 9
+
 ## Dom 08/03/2026 11.00
 
 <strong>CUS PADOVA ASD - HC VILLAFRANCA</strong>
@@ -152,10 +161,11 @@ Campo: Impianti L. Merigliano
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
 Location:  via J. Corrado, 4 Padova
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 10
+
 ## Dom 26/04/2026 11.00
 
 <strong>HC VILLAFRANCA - CSP SAN GIORGIO</strong>
@@ -167,8 +177,6 @@ Campo: Impianto comunale Nereo Faccioli
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
 
 Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 26/04/2026 11.00
@@ -182,6 +190,4 @@ Campo: Impianti L. Merigliano
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
 Location:  via J. Corrado, 4 Padova
-<!-- VALCHISONE_END -->
-
 

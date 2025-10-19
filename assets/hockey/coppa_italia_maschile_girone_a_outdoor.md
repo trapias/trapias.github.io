@@ -1,4 +1,7 @@
+
+
 # Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 1
+
 <!-- VALCHISONE_START -->
 ## Sab 13/09/2025 15.00 ⭐
 
@@ -29,10 +32,11 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 2
+
 ## Sab 20/09/2025 15.00
 
 <strong>CUS PISA ASD - HC BRA</strong>
@@ -47,8 +51,6 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-<!-- VALCHISONE_END -->
-
 
 
 <!-- VALCHISONE_START -->
@@ -69,7 +71,10 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 <!-- VALCHISONE_END -->
 
 
+
+
 # Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 3
+
 ## Sab 27/09/2025 16.00
 
 <strong>ASD SUPERBA HC - A.S.D. S.H. PAOLO BONOMI</strong>
@@ -84,8 +89,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 <!-- VALCHISONE_START -->
@@ -105,7 +108,10 @@ Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
 <!-- VALCHISONE_END -->
 
 
+
+
 # Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 4
+
 ## Dom 28/09/2025 15.00
 
 <strong>A.S.D. S.H. PAOLO BONOMI - HC BRA</strong>
@@ -119,8 +125,6 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
-
 
 
 <!-- VALCHISONE_START -->
@@ -141,7 +145,10 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 <!-- VALCHISONE_END -->
 
 
+
+
 # Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 5
+
 ## Sab 04/10/2025 15.00
 
 <strong>CUS PISA ASD - A.S.D. S.H. PAOLO BONOMI</strong>
@@ -156,8 +163,6 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 04/10/2025 15.00
@@ -173,10 +178,11 @@ Campo: PINO PALMIERI
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
 Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 6
+
 ## Sab 11/10/2025 15.00
 
 <strong>A.S.D. S.H. PAOLO BONOMI - ASD SUPERBA HC</strong>
@@ -190,8 +196,6 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
-
 
 
 <!-- VALCHISONE_START -->
@@ -212,7 +216,10 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 <!-- VALCHISONE_END -->
 
 
+
+
 # Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 7
+
 <!-- VALCHISONE_START -->
 ## Dom 12/10/2025 16.00 ⭐
 
@@ -245,10 +252,11 @@ Campo: PINO PALMIERI
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
 Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 8
+
 <!-- VALCHISONE_START -->
 ## Sab 18/10/2025 15.00 ⭐
 
@@ -282,10 +290,11 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 9
+
 ## Sab 25/10/2025 15.00
 
 <strong>HC BRA - A.S.D. S.H. PAOLO BONOMI</strong>
@@ -297,8 +306,6 @@ Campo: PINO PALMIERI
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
 Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
-<!-- VALCHISONE_END -->
-
 
 
 <!-- VALCHISONE_START -->
@@ -317,7 +324,10 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 <!-- VALCHISONE_END -->
 
 
+
+
 # Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 10
+
 ## Sab 01/11/2025 15.00
 
 <strong>A.S.D. S.H. PAOLO BONOMI - CUS PISA ASD</strong>
@@ -329,8 +339,6 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 01/11/2025 15.00
@@ -345,6 +353,4 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 

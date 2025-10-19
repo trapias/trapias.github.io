@@ -1,4 +1,7 @@
+
+
 # Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 1
+
 ## Mer 22/10/2025 20.00
 
 <strong>CUS CAGLIARI - POLISPORTIVA FERRINI</strong>
@@ -11,8 +14,6 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
-<!-- VALCHISONE_END -->
-
 
 
 ## Gio 23/10/2025 19.30
@@ -26,10 +27,11 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 2
+
 ## Dom 19/10/2025 11.00
 
 <strong>CUS CAGLIARI - A.S.D. POLISPORTIVA JUVENILIA</strong>
@@ -41,8 +43,6 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 20/09/2025 15.00
@@ -58,10 +58,11 @@ Campo: AMSICORA
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 3
+
 ## Sab 27/09/2025 16.00
 
 <strong>POLISPORTIVA FERRINI - HT SARDEGNA</strong>
@@ -76,8 +77,6 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
-<!-- VALCHISONE_END -->
-
 
 
 ## Gio 09/10/2025 20.00
@@ -93,10 +92,11 @@ Campo: AMSICORA
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 4
+
 ## Mer 29/10/2025 20.00
 
 <strong>POLISPORTIVA FERRINI - A.S.D. POLISPORTIVA JUVENILIA</strong>
@@ -109,8 +109,6 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 27/09/2025 14.30
@@ -126,10 +124,11 @@ Campo: AMSICORA
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 5
+
 ## Lun 20/10/2025 19.30
 
 <strong>HT SARDEGNA - CUS CAGLIARI</strong>
@@ -141,8 +140,6 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 04/10/2025 14.30
@@ -158,10 +155,11 @@ Campo: AMSICORA
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 6
+
 ## Sab 11/10/2025 14.30
 
 <strong>POLISPORTIVA FERRINI - CUS CAGLIARI</strong>
@@ -176,8 +174,6 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 11/10/2025 15.00
@@ -193,10 +189,11 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 7
+
 ## Dom 12/10/2025 11.30
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA - CUS CAGLIARI</strong>
@@ -210,8 +207,6 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 05/10/2025 10.30
@@ -227,10 +222,11 @@ Campo: AMSICORA
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 8
+
 ## Sab 18/10/2025 16.30
 
 <strong>HT SARDEGNA - POLISPORTIVA FERRINI</strong>
@@ -244,8 +240,6 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 18/10/2025 15.00
@@ -261,10 +255,11 @@ Campo: AMSICORA
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 9
+
 ## Sab 25/10/2025 15.00
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA - POLISPORTIVA FERRINI</strong>
@@ -276,8 +271,6 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 25/10/2025 15.00
@@ -291,10 +284,11 @@ Campo: AMSICORA
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 10
+
 ## Sab 01/11/2025 15.00
 
 <strong>CUS CAGLIARI - HT SARDEGNA</strong>
@@ -306,8 +300,6 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 01/11/2025 15.00
@@ -322,6 +314,4 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
-<!-- VALCHISONE_END -->
-
 

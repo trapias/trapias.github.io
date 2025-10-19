@@ -1,4 +1,7 @@
+
+
 # Coppa Italia Femminile  - Girone B Spareggio / Giornata 1
+
 ## Dom 26/10/2025 15.30
 
 <strong>1 CLASS B1 - 1 CLASS B2</strong>
@@ -10,6 +13,4 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-<!-- VALCHISONE_END -->
-
 

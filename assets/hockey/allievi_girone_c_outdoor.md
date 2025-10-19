@@ -1,4 +1,7 @@
+
+
 # Allievi - OUTDOOR  - Girone C / Giornata 1
+
 ## Sab 11/10/2025 10.00
 
 <strong>GENOVA H 1980 DRITTO - HC GENOVA RAINBOW</strong>
@@ -13,8 +16,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 12/10/2025 13.00
@@ -31,8 +32,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 05/10/2025 17.00
@@ -49,10 +48,11 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
+
 
 
 # Allievi - OUTDOOR  - Girone C / Giornata 2
+
 ## Dom 30/11/2025 11.00
 
 <strong>CUS PISA ASD - ASD BAD LAKE HOCKEY</strong>
@@ -65,8 +65,6 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 11/10/2025 12.00
@@ -83,8 +81,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 18/10/2025 10.00
@@ -101,10 +97,11 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
+
 
 
 # Allievi - OUTDOOR  - Girone C / Giornata 3
+
 ## Sab 15/11/2025 12.30
 
 <strong>GENOVA H 1980 ROVESCIO - GENOVA H 1980 DRITTO</strong>
@@ -117,8 +114,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 19/10/2025 09.00
@@ -133,8 +128,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 30/11/2025 13.00
@@ -149,10 +142,11 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-<!-- VALCHISONE_END -->
+
 
 
 # Allievi - OUTDOOR  - Girone C / Giornata 4
+
 ## Dom 19/10/2025 13.00
 
 <strong>HC GENOVA RAINBOW - ASD BAD LAKE HOCKEY B</strong>
@@ -165,8 +159,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 19/10/2025 11.00
@@ -181,8 +173,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 01/11/2025 09.00
@@ -197,10 +187,11 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
+
 
 
 # Allievi - OUTDOOR  - Girone C / Giornata 5
+
 ## Sab 01/11/2025 12.30
 
 <strong>ASD BAD LAKE HOCKEY - GENOVA H 1980 ROVESCIO</strong>
@@ -213,8 +204,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 01/11/2025 10.45
@@ -229,8 +218,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 16/11/2025 12.00
@@ -245,10 +232,11 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-<!-- VALCHISONE_END -->
+
 
 
 # Allievi - OUTDOOR  - Girone C / Giornata 6
+
 ## Sab 15/11/2025 09.00
 
 <strong>GENOVA H 1980 ROVESCIO - ASD BAD LAKE HOCKEY B</strong>
@@ -261,8 +249,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 15/11/2025 11.00
@@ -277,8 +263,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 16/11/2025 14.00
@@ -293,10 +277,11 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-<!-- VALCHISONE_END -->
+
 
 
 # Allievi - OUTDOOR  - Girone C / Giornata 7
+
 ## Dom 28/09/2025 09.30
 
 <strong>ASD BAD LAKE HOCKEY B - ASD BAD LAKE HOCKEY</strong>
@@ -311,8 +296,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 16/11/2025 10.00
@@ -327,8 +310,6 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 12/10/2025 11.00
@@ -345,6 +326,4 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 

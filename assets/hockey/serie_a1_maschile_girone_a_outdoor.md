@@ -1,4 +1,7 @@
+
+
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 1
+
 ## Sab 14/03/2026 15.00
 
 <strong>HC BONDENO - CUS CAGLIARI</strong>
@@ -11,8 +14,6 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 14/03/2026 15.00
@@ -26,8 +27,6 @@ Campo: Campo Hockey Mario Steffenel
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 14/03/2026 15.00
@@ -41,10 +40,11 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2
+
 ## Sab 21/03/2026 15.00
 
 <strong>CUS CAGLIARI - CUS PADOVA ASD</strong>
@@ -56,8 +56,6 @@ Campo: CAMPI SPORTIVI 'SA DUCHESSA'
 Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
 Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 21/03/2026 14.30
@@ -71,9 +69,7 @@ Campo: Comunale Mori
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8510468, longitude=10.9864925)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 ## Sab 21/03/2026 15.00
@@ -87,11 +83,12 @@ Campo: campo hockey s. farinazzo
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.190259, longitude=11.4690625)
-<!-- VALCHISONE_END -->
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
+
 
 
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3
+
 ## Sab 28/03/2026 15.00
 
 <strong>HT SARDEGNA - CUS CAGLIARI</strong>
@@ -103,8 +100,6 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 28/03/2026 15.00
@@ -118,8 +113,6 @@ Campo: Campo Hockey Mario Steffenel
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 28/03/2026 14.30
@@ -133,11 +126,12 @@ Campo: Comunale Mori
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8510468, longitude=10.9864925)
-<!-- VALCHISONE_END -->
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
+
 
 
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4
+
 ## Sab 11/04/2026 15.00
 
 <strong>CUS CAGLIARI - ASD ADIGE UHC</strong>
@@ -149,8 +143,6 @@ Campo: CAMPI SPORTIVI 'SA DUCHESSA'
 Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
 Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 11/04/2026 15.00
@@ -164,8 +156,6 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 11/04/2026 15.00
@@ -180,10 +170,11 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5
+
 ## Sab 18/04/2026 15.00
 
 <strong>CUS CAGLIARI - CSP SAN GIORGIO</strong>
@@ -195,8 +186,6 @@ Campo: CAMPI SPORTIVI 'SA DUCHESSA'
 Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
 Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 18/04/2026 15.00
@@ -210,9 +199,7 @@ Campo: Comunale Mori
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8510468, longitude=10.9864925)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 ## Sab 18/04/2026 14.30
@@ -227,10 +214,11 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 6
+
 ## Sab 25/04/2026 15.00
 
 <strong>CUS CAGLIARI - HC BONDENO</strong>
@@ -242,8 +230,6 @@ Campo: CAMPI SPORTIVI 'SA DUCHESSA'
 Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
 Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 25/04/2026 14.30
@@ -257,9 +243,7 @@ Campo: campo hockey s. farinazzo
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.190259, longitude=11.4690625)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 
 ## Sab 25/04/2026 15.30
@@ -273,11 +257,12 @@ Campo: Comunale Mori
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8510468, longitude=10.9864925)
-<!-- VALCHISONE_END -->
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
+
 
 
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 7
+
 ## Sab 02/05/2026 15.00
 
 <strong>CUS PADOVA ASD - CUS CAGLIARI</strong>
@@ -289,8 +274,6 @@ Campo: Campo Hockey Mario Steffenel
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 02/05/2026 15.00
@@ -305,8 +288,6 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 02/05/2026 15.00
@@ -320,10 +301,11 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8
+
 ## Sab 09/05/2026 15.00
 
 <strong>CUS CAGLIARI - HT SARDEGNA</strong>
@@ -335,8 +317,6 @@ Campo: CAMPI SPORTIVI 'SA DUCHESSA'
 Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
 Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 09/05/2026 15.00
@@ -351,8 +331,6 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 09/05/2026 15.00
@@ -366,11 +344,12 @@ Campo: campo hockey s. farinazzo
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.190259, longitude=11.4690625)
-<!-- VALCHISONE_END -->
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
+
 
 
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9
+
 ## Sab 16/05/2026 15.30
 
 <strong>ASD ADIGE UHC - CUS CAGLIARI</strong>
@@ -382,9 +361,7 @@ Campo: Comunale Mori
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8510468, longitude=10.9864925)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 ## Sab 16/05/2026 14.30
@@ -398,8 +375,6 @@ Campo: Campo Hockey Mario Steffenel
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 16/05/2026 15.00
@@ -413,11 +388,12 @@ Campo: campo hockey s. farinazzo
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.190259, longitude=11.4690625)
-<!-- VALCHISONE_END -->
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
+
 
 
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10
+
 ## Sab 23/05/2026 15.00
 
 <strong>CSP SAN GIORGIO - CUS CAGLIARI</strong>
@@ -429,9 +405,7 @@ Campo: campo hockey s. farinazzo
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.190259, longitude=11.4690625)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 
 ## Sab 23/05/2026 15.00
@@ -445,8 +419,6 @@ Campo: Campo Hockey Mario Steffenel
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 23/05/2026 15.00
@@ -460,6 +432,4 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
-<!-- VALCHISONE_END -->
-
 

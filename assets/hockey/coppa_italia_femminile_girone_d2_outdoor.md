@@ -1,4 +1,7 @@
+
+
 # Coppa Italia Femminile  - Girone D2 / Giornata 1
+
 ## Sab 27/09/2025 17.00
 
 <strong>H.POTENZA PICENA - UH CAPITOLINA</strong>
@@ -12,10 +15,11 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Femminile  - Girone D2 / Giornata 2
+
 ## Dom 21/09/2025 15.00
 
 <strong>LAZIO HOCKEY - H.POTENZA PICENA</strong>
@@ -30,10 +34,11 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Femminile  - Girone D2 / Giornata 3
+
 ## Ven 03/10/2025 19.00
 
 <strong>UH CAPITOLINA - LAZIO HOCKEY</strong>
@@ -48,10 +53,11 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Femminile  - Girone D2 / Giornata 4
+
 ## Dom 05/10/2025 15.00
 
 <strong>UH CAPITOLINA - H.POTENZA PICENA</strong>
@@ -66,10 +72,11 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Femminile  - Girone D2 / Giornata 5
+
 ## Dom 12/10/2025 15.00
 
 <strong>H.POTENZA PICENA - LAZIO HOCKEY</strong>
@@ -83,10 +90,11 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Femminile  - Girone D2 / Giornata 6
+
 ## Dom 19/10/2025 15.00
 
 <strong>LAZIO HOCKEY - UH CAPITOLINA</strong>
@@ -99,6 +107,4 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 

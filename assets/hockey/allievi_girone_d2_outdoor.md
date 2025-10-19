@@ -1,4 +1,7 @@
+
+
 # Allievi - OUTDOOR  - Girone D2 / Giornata 1
+
 ## Dom 19/10/2025 12.00
 
 <strong>ASD HOCKEY CLUB MOGLIANO - ASD HOCKEY AVEZZANO 1969</strong>
@@ -11,8 +14,6 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 19/10/2025 11.00
@@ -26,10 +27,11 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
+
 
 
 # Allievi - OUTDOOR  - Girone D2 / Giornata 2
+
 ## Dom 02/11/2025 14.00
 
 <strong>AZ HOCKEY TEAM - ASD HOCKEY CLUB MOGLIANO</strong>
@@ -41,8 +43,6 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
 Location:  Via dei Gladioli, snc Avezzano
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 02/11/2025 15.00
@@ -56,10 +56,11 @@ Campo: Sintetico Comunale
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
 Location:  Via Marrani, snc Torre Santa Susanna
-<!-- VALCHISONE_END -->
+
 
 
 # Allievi - OUTDOOR  - Girone D2 / Giornata 3
+
 ## Dom 09/11/2025 14.30
 
 <strong>ASD HOCKEY AVEZZANO 1969 - HOCKEY CLUB OLIMPIA</strong>
@@ -71,8 +72,6 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
 Location:  Via dei Gladioli, snc Avezzano
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 09/11/2025 11.00
@@ -86,10 +85,11 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
+
 
 
 # Allievi - OUTDOOR  - Girone D2 / Giornata 4
+
 ## Dom 16/11/2025 15.00
 
 <strong>HOCKEY CLUB OLIMPIA - AZ HOCKEY TEAM</strong>
@@ -101,8 +101,6 @@ Campo: Sintetico Comunale
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
 Location:  Via Marrani, snc Torre Santa Susanna
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 16/11/2025 11.00
@@ -116,10 +114,11 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
 Location:  Via dei Gladioli, snc Avezzano
-<!-- VALCHISONE_END -->
+
 
 
 # Allievi - OUTDOOR  - Girone D2 / Giornata 5
+
 ## Dom 01/03/2026 11.00
 
 <strong>AZ HOCKEY TEAM - ASD HOCKEY AVEZZANO 1969</strong>
@@ -131,8 +130,6 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
 Location:  Via dei Gladioli, snc Avezzano
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 01/03/2026 15.00
@@ -147,10 +144,11 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
-<!-- VALCHISONE_END -->
+
 
 
 # Allievi - OUTDOOR  - Girone D2 / Giornata 6
+
 ## Dom 15/03/2026 16.00
 
 <strong>ASD HOCKEY AVEZZANO 1969 - ASD HOCKEY CLUB MOGLIANO</strong>
@@ -162,8 +160,6 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
 Location:  Via dei Gladioli, snc Avezzano
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 15/03/2026 14.00
@@ -177,10 +173,11 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
 Location:  Via dei Gladioli, snc Avezzano
-<!-- VALCHISONE_END -->
+
 
 
 # Allievi - OUTDOOR  - Girone D2 / Giornata 7
+
 ## Dom 29/03/2026 14.00
 
 <strong>ASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM</strong>
@@ -193,8 +190,6 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 29/03/2026 14.00
@@ -208,10 +203,11 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
+
 
 
 # Allievi - OUTDOOR  - Girone D2 / Giornata 8
+
 ## Dom 12/04/2026 15.00
 
 <strong>HOCKEY CLUB OLIMPIA - ASD HOCKEY AVEZZANO 1969</strong>
@@ -223,8 +219,6 @@ Campo: Sintetico Comunale
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
 Location:  Via Marrani, snc Torre Santa Susanna
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 12/04/2026 12.00
@@ -239,10 +233,11 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
-<!-- VALCHISONE_END -->
+
 
 
 # Allievi - OUTDOOR  - Girone D2 / Giornata 9
+
 ## Dom 09/11/2025 16.30
 
 <strong>AZ HOCKEY TEAM - HOCKEY CLUB OLIMPIA</strong>
@@ -254,8 +249,6 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
 Location:  Via dei Gladioli, snc Avezzano
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 26/04/2026 11.00
@@ -269,10 +262,11 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
+
 
 
 # Allievi - OUTDOOR  - Girone D2 / Giornata 10
+
 ## Dom 03/05/2026 11.00
 
 <strong>ASD HOCKEY AVEZZANO 1969 - AZ HOCKEY TEAM</strong>
@@ -284,8 +278,6 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
 Location:  Via dei Gladioli, snc Avezzano
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 03/05/2026 15.00
@@ -299,6 +291,4 @@ Campo: Sintetico Comunale
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
 Location:  Via Marrani, snc Torre Santa Susanna
-<!-- VALCHISONE_END -->
-
 

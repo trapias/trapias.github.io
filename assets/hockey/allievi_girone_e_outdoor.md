@@ -1,4 +1,7 @@
+
+
 # Allievi - OUTDOOR  - Girone E / Giornata 1
+
 ## Dom 19/10/2025 11.00
 
 <strong>PGS DON BOSCO 2000 ASD - POL GALATEA</strong>
@@ -10,8 +13,6 @@ Campo: Oratorio Salesiano
 Indirizzo Campo:  Via S.G.Bosco, 6 - Barcellona Pozzo di Gotto
 
 Location:  Via S.G.Bosco, 6 Barcellona Pozzo di Gotto
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 19/10/2025 11.00
@@ -25,10 +26,11 @@ Campo: Cittadella Universitaria
 Indirizzo Campo:  Viale Annunziata, snc - Messina
 
 Location:  Viale Annunziata, snc Messina
-<!-- VALCHISONE_END -->
+
 
 
 # Allievi - OUTDOOR  - Girone E / Giornata 2
+
 ## Dom 26/10/2025 10.00
 
 <strong>POL GALATEA - SSD UNIME ARL</strong>
@@ -41,8 +43,6 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 26/10/2025 11.00
@@ -57,10 +57,11 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
-<!-- VALCHISONE_END -->
+
 
 
 # Allievi - OUTDOOR  - Girone E / Giornata 3
+
 ## Sab 08/11/2025 15.30
 
 <strong>ASD SAN PIETRO CLARENZA - POL GALATEA</strong>
@@ -73,8 +74,6 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 08/11/2025 15.30
@@ -88,6 +87,4 @@ Campo: Oratorio Salesiano
 Indirizzo Campo:  Via S.G.Bosco, 6 - Barcellona Pozzo di Gotto
 
 Location:  Via S.G.Bosco, 6 Barcellona Pozzo di Gotto
-<!-- VALCHISONE_END -->
-
 

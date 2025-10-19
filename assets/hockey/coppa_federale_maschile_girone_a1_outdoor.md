@@ -1,4 +1,7 @@
+
+
 # Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 1
+
 ## Sab 13/09/2025 16.00
 
 <strong>USD MONCALVESE HOCKEY - HC GENOVA</strong>
@@ -12,8 +15,6 @@ Campo: UMBERTO MICCO
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
 Location:  Via Goria, 4 Moncalvo
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 14/09/2025 11.30
@@ -29,10 +30,11 @@ Campo: Campo Sportivo Augusto Briano
 Indirizzo Campo:  Via Santuario, snc - Savona
 
 Location:  Via Santuario, snc Savona
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 2
+
 ## Dom 21/09/2025 16.00
 
 <strong>USD MONCALVESE HOCKEY - HC SAVONA</strong>
@@ -46,8 +48,6 @@ Campo: UMBERTO MICCO
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
 Location:  Via Goria, 4 Moncalvo
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 20/09/2025 14.00
@@ -64,10 +64,11 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 3
+
 ## Dom 28/09/2025 11.30
 
 <strong>GENOVA H 1980 RIS. - USD MONCALVESE HOCKEY</strong>
@@ -82,8 +83,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/09/2025 13.00
@@ -100,10 +99,11 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 4
+
 ## Sab 04/10/2025 14.00
 
 <strong>HC GENOVA - USD MONCALVESE HOCKEY</strong>
@@ -118,8 +118,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 04/10/2025 18.00
@@ -136,10 +134,11 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 5
+
 ## Sab 11/10/2025 15.00
 
 <strong>HC SAVONA - USD MONCALVESE HOCKEY</strong>
@@ -153,8 +152,6 @@ Campo: Campo Sportivo Augusto Briano
 Indirizzo Campo:  Via Santuario, snc - Savona
 
 Location:  Via Santuario, snc Savona
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 11/10/2025 16.00
@@ -171,10 +168,11 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 6
+
 ## Dom 19/10/2025 11.30
 
 <strong>USD MONCALVESE HOCKEY - GENOVA H 1980 RIS.</strong>
@@ -186,8 +184,6 @@ Campo: UMBERTO MICCO
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
 Location:  Via Goria, 4 Moncalvo
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 19/10/2025 10.30
@@ -201,6 +197,4 @@ Campo: Campo Sportivo Augusto Briano
 Indirizzo Campo:  Via Santuario, snc - Savona
 
 Location:  Via Santuario, snc Savona
-<!-- VALCHISONE_END -->
-
 

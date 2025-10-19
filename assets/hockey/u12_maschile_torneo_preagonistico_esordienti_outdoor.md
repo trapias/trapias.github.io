@@ -1,4 +1,7 @@
+
+
 # U12 Maschile - Torneo Preagonistico Esordienti / Giornata 1
+
 ## Dom 28/06/2026 11.00
 
 <strong>CUS TORINO - SQUADRA JOLLY</strong>
@@ -11,8 +14,6 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-<!-- VALCHISONE_END -->
-
 
 
 <!-- VALCHISONE_START -->
@@ -44,8 +45,6 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -60,8 +59,6 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7025438, longitude=7.8360955)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -76,8 +73,6 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7025438, longitude=7.8360955)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -91,8 +86,6 @@ Campo: Campo Comunale
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
 Location:  Via Boccaccio, snc Cernusco sul Naviglio
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -107,8 +100,6 @@ Indirizzo Campo:  Via Giotto, 1 - Brescia
 
 Location: 1, Via Giotto, Montirone, Brescia, Lombardia, 25010, Italia
 Geo: Geo(latitude=45.4490271, longitude=10.2276479)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -122,8 +113,6 @@ Campo: Campo Hockey Club Riva
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
 Location:  Via Mazzoldi, snc Riva del Garda
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -137,9 +126,7 @@ Campo: Grantorto Hockey Stadium
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
 Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
-Geo: Geo(latitude=45.6015238, longitude=11.7340239)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 
 ## Dom 28/06/2026 11.00
@@ -153,9 +140,7 @@ Campo: campo hockey s. farinazzo
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.190259, longitude=11.4690625)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 
 ## Dom 28/06/2026 11.00
@@ -169,8 +154,6 @@ Campo: Campo Hockey Mario Steffenel
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -183,10 +166,8 @@ Campo: FIESCHI STADIUM
 
 Indirizzo Campo:  VIA FIESCHI, 20 - GENOVA
 
-Location: 20 rosso, Via Fieschi, Sant'Andrea, Portoria, Centro Est, Genova, Liguria, 16128, Italia
-Geo: Geo(latitude=44.4058513, longitude=8.9372219)
-<!-- VALCHISONE_END -->
-
+Location: 20, Via Fieschi, Sant'Andrea, Portoria, Centro Est, Genova, Liguria, 16128, Italia
+Geo: Geo(latitude=44.4031734, longitude=8.935421)
 
 
 ## Dom 28/06/2026 11.00
@@ -199,10 +180,8 @@ Campo: FIESCHI STADIUM
 
 Indirizzo Campo:  VIA FIESCHI, 20 - GENOVA
 
-Location: 20 rosso, Via Fieschi, Sant'Andrea, Portoria, Centro Est, Genova, Liguria, 16128, Italia
-Geo: Geo(latitude=44.4058513, longitude=8.9372219)
-<!-- VALCHISONE_END -->
-
+Location: 20, Via Fieschi, Sant'Andrea, Portoria, Centro Est, Genova, Liguria, 16128, Italia
+Geo: Geo(latitude=44.4031734, longitude=8.935421)
 
 
 ## Dom 28/06/2026 11.00
@@ -217,8 +196,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -233,8 +210,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -249,8 +224,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -265,8 +238,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -281,8 +252,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -297,8 +266,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -313,8 +280,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -329,8 +294,6 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -344,8 +307,6 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -360,8 +321,6 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -376,8 +335,6 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -392,8 +349,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -407,8 +362,6 @@ Campo: Sintetico Comunale
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
 Location:  Via Marrani, snc Torre Santa Susanna
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -422,8 +375,6 @@ Campo: Oratorio Salesiano
 Indirizzo Campo:  Via S.G.Bosco, 6 - Barcellona Pozzo di Gotto
 
 Location:  Via S.G.Bosco, 6 Barcellona Pozzo di Gotto
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -438,8 +389,6 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -453,8 +402,6 @@ Campo: AMSICORA
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -468,8 +415,6 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -483,8 +428,6 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
 Location:  Via dei Gladioli, snc Avezzano
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -498,8 +441,6 @@ Campo: Cittadella Universitaria
 Indirizzo Campo:  Viale Annunziata, snc - Messina
 
 Location:  Viale Annunziata, snc Messina
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -513,8 +454,6 @@ Campo: Sintetico Comunale
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
 Location:  Via Marrani, snc Torre Santa Susanna
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -528,8 +467,6 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
 Location:  Via dei Gladioli, snc Avezzano
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -543,9 +480,7 @@ Campo: Comunale Mori
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8510468, longitude=10.9864925)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 ## Dom 28/06/2026 11.00
@@ -559,8 +494,6 @@ Campo: Impianti L. Merigliano
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
 Location:  via J. Corrado, 4 Padova
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -575,8 +508,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -591,8 +522,6 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -607,8 +536,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -623,8 +550,6 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -638,8 +563,6 @@ Campo: CAMPI SPORTIVI 'SA DUCHESSA'
 Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
 Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -654,8 +577,6 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -669,8 +590,6 @@ Campo: Polisportiva L'Aquila Rugby
 Indirizzo Campo:  LocalitÃ  Centi Colella, snc - L'Aquila
 
 Location:  LocalitÃ  Centi Colella, snc L'Aquila
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -684,8 +603,6 @@ Campo: Lido Policoro
 Indirizzo Campo:  Via Lido, snc - Policoro
 
 Location:  Via Lido, snc Policoro
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -699,8 +616,6 @@ Campo: Campo Villa D\'agri
 Indirizzo Campo:  VIA DELLO SPORT, 1 - VILLA D'AGRI
 
 Location:  VIA DELLO SPORT, 1 VILLA D'AGRI
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.30
@@ -715,8 +630,6 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 28/06/2026 11.00
@@ -730,6 +643,4 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
-
 

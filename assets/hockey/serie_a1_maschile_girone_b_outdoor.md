@@ -1,4 +1,7 @@
+
+
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1
+
 ## Sab 14/03/2026 15.00
 
 <strong>H.POTENZA PICENA - HT BOLOGNA</strong>
@@ -10,8 +13,6 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 14/03/2026 15.00
@@ -26,8 +27,6 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 14/03/2026 15.00
@@ -41,10 +40,11 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 2
+
 ## Sab 21/03/2026 15.00
 
 <strong>SUPERBA HC - H.POTENZA PICENA</strong>
@@ -57,8 +57,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 21/03/2026 15.30
@@ -72,8 +70,6 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 22/03/2026 11.00
@@ -87,10 +83,11 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3
+
 ## Sab 28/03/2026 15.00
 
 <strong>H.POTENZA PICENA - A.S.D. POLISPORTIVA JUVENILIA</strong>
@@ -102,8 +99,6 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 28/03/2026 15.00
@@ -118,8 +113,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 28/03/2026 15.00
@@ -134,10 +127,11 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 4
+
 ## Sab 11/04/2026 15.00
 
 <strong>S.H.P. BONOMI - H.POTENZA PICENA</strong>
@@ -149,8 +143,6 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 11/04/2026 15.30
@@ -165,8 +157,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 11/04/2026 15.00
@@ -181,10 +171,11 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 5
+
 ## Sab 18/04/2026 15.00
 
 <strong>H.POTENZA PICENA - CUS PISA ASD</strong>
@@ -196,8 +187,6 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 18/04/2026 15.00
@@ -211,8 +200,6 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 18/04/2026 15.00
@@ -226,10 +213,11 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6
+
 ## Sab 25/04/2026 15.00
 
 <strong>HT BOLOGNA - H.POTENZA PICENA</strong>
@@ -241,8 +229,6 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 25/04/2026 13.00
@@ -257,8 +243,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 25/04/2026 15.00
@@ -272,10 +256,11 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 7
+
 ## Sab 02/05/2026 15.00
 
 <strong>H.POTENZA PICENA - SUPERBA HC</strong>
@@ -287,8 +272,6 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 02/05/2026 15.00
@@ -302,8 +285,6 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 03/05/2026 11.00
@@ -318,10 +299,11 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8
+
 ## Sab 09/05/2026 15.00
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA - H.POTENZA PICENA</strong>
@@ -333,8 +315,6 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 09/05/2026 15.00
@@ -348,8 +328,6 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 09/05/2026 15.00
@@ -363,10 +341,11 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9
+
 ## Sab 16/05/2026 15.00
 
 <strong>H.POTENZA PICENA - S.H.P. BONOMI</strong>
@@ -378,8 +357,6 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 16/05/2026 15.00
@@ -393,8 +370,6 @@ Campo: Comunale Uras
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
 Location:  VIA S. EMILIANO, snc Uras
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 16/05/2026 15.00
@@ -408,10 +383,11 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 10
+
 ## Sab 23/05/2026 15.00
 
 <strong>CUS PISA ASD - H.POTENZA PICENA</strong>
@@ -424,8 +400,6 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 23/05/2026 15.00
@@ -440,8 +414,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 23/05/2026 15.00
@@ -455,6 +427,4 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-<!-- VALCHISONE_END -->
-
 

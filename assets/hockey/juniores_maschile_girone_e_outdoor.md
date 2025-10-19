@@ -1,4 +1,7 @@
+
+
 # Juniores Maschile - OUTDOOR  - Girone E / Giornata 1
+
 ## Dom 09/11/2025 10.30
 
 <strong>VALVERDE HOCKETY 2018 - SSD UNIME ARL</strong>
@@ -11,10 +14,11 @@ Indirizzo Campo:  Via Seminara, 28 - Valverde
 
 Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
 Geo: Geo(latitude=37.5737465, longitude=15.121129)
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Maschile - OUTDOOR  - Girone E / Giornata 2
+
 ## Dom 23/11/2025 11.00
 
 <strong>POL GALATEA - SSD UNIME ARL</strong>
@@ -27,10 +31,11 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
-<!-- VALCHISONE_END -->
+
 
 
 # Juniores Maschile - OUTDOOR  - Girone E / Giornata 3
+
 ## Dom 30/11/2025 10.30
 
 <strong>VALVERDE HOCKETY 2018 - POL GALATEA</strong>
@@ -43,6 +48,4 @@ Indirizzo Campo:  Via Seminara, 28 - Valverde
 
 Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
 Geo: Geo(latitude=37.5737465, longitude=15.121129)
-<!-- VALCHISONE_END -->
-
 

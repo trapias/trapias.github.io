@@ -1,4 +1,7 @@
+
+
 # Ragazze - OUTDOOR  - Girone D1 / Giornata 1
+
 ## Dom 19/10/2025 15.00
 
 <strong>H.POTENZA PICENA - AZ HOCKEY TEAM</strong>
@@ -10,10 +13,11 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
+
 
 
 # Ragazze - OUTDOOR  - Girone D1 / Giornata 2
+
 ## Dom 26/10/2025 13.00
 
 <strong>UH CAPITOLINA - H.POTENZA PICENA</strong>
@@ -26,10 +30,11 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
+
 
 
 # Ragazze - OUTDOOR  - Girone D1 / Giornata 3
+
 ## Sab 08/11/2025 16.00
 
 <strong>AZ HOCKEY TEAM - UH CAPITOLINA</strong>
@@ -41,10 +46,11 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
 Location:  Via dei Gladioli, snc Avezzano
-<!-- VALCHISONE_END -->
+
 
 
 # Ragazze - OUTDOOR  - Girone D1 / Giornata 4
+
 ## Dom 15/03/2026 13.00
 
 <strong>AZ HOCKEY TEAM - H.POTENZA PICENA</strong>
@@ -56,10 +62,11 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
 Location:  Via dei Gladioli, snc Avezzano
-<!-- VALCHISONE_END -->
+
 
 
 # Ragazze - OUTDOOR  - Girone D1 / Giornata 5
+
 ## Dom 29/03/2026 13.00
 
 <strong>H.POTENZA PICENA - UH CAPITOLINA</strong>
@@ -71,10 +78,11 @@ Campo: STADIO HOCKEY POTENZA PICENA
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
 Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-<!-- VALCHISONE_END -->
+
 
 
 # Ragazze - OUTDOOR  - Girone D1 / Giornata 6
+
 ## Dom 19/04/2026 13.00
 
 <strong>UH CAPITOLINA - AZ HOCKEY TEAM</strong>
@@ -87,6 +95,4 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
-
 

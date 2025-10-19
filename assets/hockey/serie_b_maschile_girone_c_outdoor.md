@@ -1,4 +1,7 @@
+
+
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 1
+
 ## Dom 09/11/2025 11.00
 
 <strong>ASD HOCKEY CAMPAGNANO - LAZIO HOCKEY B</strong>
@@ -11,8 +14,6 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 09/11/2025 11.00
@@ -27,10 +28,11 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
+
 
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 2
+
 ## -
 
 <strong>LAZIO HOCKEY B - HOCKEY CLUB EUR</strong>
@@ -43,8 +45,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 22/03/2026 11.00
@@ -59,10 +59,11 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
+
 
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 3
+
 ## Mer 05/11/2025 20.00
 
 <strong>HOCKEY CLUB EUR - H C ROMA  B</strong>
@@ -75,8 +76,6 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 08/03/2026 11.30
@@ -90,10 +89,11 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
 Location:  Via dei Gladioli, snc Avezzano
-<!-- VALCHISONE_END -->
+
 
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 4
+
 ## Dom 23/11/2025 13.00
 
 <strong>H C ROMA  B - LAZIO HOCKEY B</strong>
@@ -106,8 +106,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 22/03/2026 11.30
@@ -122,10 +120,11 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
+
 
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 5
+
 ## Dom 19/04/2026 10.00
 
 <strong>ASD HOCKEY CAMPAGNANO - HOCKEY CLUB EUR</strong>
@@ -138,8 +137,6 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 19/04/2026 11.30
@@ -153,10 +150,11 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
 Location:  Via dei Gladioli, snc Avezzano
-<!-- VALCHISONE_END -->
+
 
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 6
+
 ## Dom 26/04/2026 10.00
 
 <strong>LAZIO HOCKEY B - ASD HOCKEY CAMPAGNANO</strong>
@@ -169,8 +167,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 15/03/2026 11.30
@@ -184,10 +180,11 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
 Location:  Via dei Gladioli, snc Avezzano
-<!-- VALCHISONE_END -->
+
 
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 7
+
 ## Dom 10/05/2026 11.30
 
 <strong>HOCKEY CLUB EUR - LAZIO HOCKEY B</strong>
@@ -200,8 +197,6 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 10/05/2026 10.00
@@ -216,10 +211,11 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
+
 
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 8
+
 ## Dom 24/05/2026 11.00
 
 <strong>H C ROMA  B - HOCKEY CLUB EUR</strong>
@@ -232,8 +228,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 24/05/2026 11.00
@@ -248,10 +242,11 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
+
 
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 9
+
 ## Dom 31/05/2026 11.00
 
 <strong>LAZIO HOCKEY B - H C ROMA  B</strong>
@@ -264,8 +259,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 31/05/2026 11.30
@@ -279,10 +272,11 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
 Location:  Via dei Gladioli, snc Avezzano
-<!-- VALCHISONE_END -->
+
 
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 10
+
 ## Dom 07/06/2026 11.30
 
 <strong>HOCKEY CLUB EUR - ASD HOCKEY CAMPAGNANO</strong>
@@ -295,8 +289,6 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 07/06/2026 11.00
@@ -311,6 +303,4 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 

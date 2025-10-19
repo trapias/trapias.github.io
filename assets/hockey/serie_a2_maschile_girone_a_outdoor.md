@@ -1,4 +1,7 @@
+
+
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 1
+
 ## Sab 14/03/2026 15.00
 
 <strong>GENOVA H 1980 - HC MOGLIANO</strong>
@@ -11,8 +14,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 14/03/2026 15.00
@@ -27,8 +28,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 14/03/2026 15.00
@@ -43,10 +42,11 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2
+
 ## Sab 21/03/2026 15.00
 
 <strong>HC MOGLIANO - HC ROMA</strong>
@@ -59,8 +59,6 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 21/03/2026 15.00
@@ -74,8 +72,6 @@ Campo: UMBERTO MICCO
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
 Location:  Via Goria, 4 Moncalvo
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 21/03/2026 13.00
@@ -90,10 +86,11 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3
+
 ## Sab 28/03/2026 13.30
 
 <strong>HCU RASSEMBLEMENT - HC MOGLIANO</strong>
@@ -106,8 +103,6 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 28/03/2026 15.00
@@ -122,8 +117,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 28/03/2026 15.00
@@ -137,10 +130,11 @@ Campo: UMBERTO MICCO
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
 Location:  Via Goria, 4 Moncalvo
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 4
+
 ## Sab 11/04/2026 15.00
 
 <strong>HC MOGLIANO - MONCALVESE H</strong>
@@ -153,8 +147,6 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 11/04/2026 15.00
@@ -169,8 +161,6 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 11/04/2026 13.30
@@ -185,10 +175,11 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5
+
 ## Sab 18/04/2026 15.00
 
 <strong>HC SAVONA - HC MOGLIANO</strong>
@@ -201,8 +192,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 18/04/2026 15.00
@@ -217,8 +206,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 18/04/2026 13.00
@@ -233,10 +220,11 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6
+
 ## Sab 25/04/2026 15.00
 
 <strong>HC MOGLIANO - GENOVA H 1980</strong>
@@ -249,8 +237,6 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 25/04/2026 15.00
@@ -265,8 +251,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 25/04/2026 15.00
@@ -280,10 +264,11 @@ Campo: UMBERTO MICCO
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
 Location:  Via Goria, 4 Moncalvo
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7
+
 ## Sab 02/05/2026 15.00
 
 <strong>HC ROMA - HC MOGLIANO</strong>
@@ -296,8 +281,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 02/05/2026 15.00
@@ -312,8 +295,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 02/05/2026 15.00
@@ -328,10 +309,11 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8
+
 ## Sab 09/05/2026 15.00
 
 <strong>HC MOGLIANO - HCU RASSEMBLEMENT</strong>
@@ -344,8 +326,6 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 09/05/2026 15.00
@@ -360,8 +340,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 09/05/2026 13.00
@@ -376,10 +354,11 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9
+
 ## Sab 16/05/2026 15.00
 
 <strong>MONCALVESE H - HC MOGLIANO</strong>
@@ -391,8 +370,6 @@ Campo: UMBERTO MICCO
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
 Location:  Via Goria, 4 Moncalvo
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 16/05/2026 15.00
@@ -407,8 +384,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 16/05/2026 15.00
@@ -423,10 +398,11 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10
+
 ## Sab 23/05/2026 15.00
 
 <strong>HC MOGLIANO - HC SAVONA</strong>
@@ -439,8 +415,6 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 23/05/2026 15.00
@@ -454,8 +428,6 @@ Campo: UMBERTO MICCO
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
 Location:  Via Goria, 4 Moncalvo
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 23/05/2026 15.00
@@ -470,6 +442,4 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-<!-- VALCHISONE_END -->
-
 

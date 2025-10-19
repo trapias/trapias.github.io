@@ -1,4 +1,7 @@
+
+
 # Coppa Federale Maschile - OUTDOOR  - Girone C2 / Giornata 1
+
 ## Dom 21/09/2025 13.00
 
 <strong>ASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM</strong>
@@ -13,10 +16,11 @@ Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone C2 / Giornata 2
+
 ## Sab 04/10/2025 15.00
 
 <strong>AZ HOCKEY TEAM - HOCKEY CLUB OLIMPIA</strong>
@@ -30,10 +34,11 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
 Location:  Via dei Gladioli, snc Avezzano
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone C2 / Giornata 3
+
 ## Dom 12/10/2025 14.00
 
 <strong>HOCKEY CLUB OLIMPIA - ASD HOCKEY CLUB MOGLIANO</strong>
@@ -47,6 +52,4 @@ Campo: Sintetico Comunale
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
 Location:  Via Marrani, snc Torre Santa Susanna
-<!-- VALCHISONE_END -->
-
 

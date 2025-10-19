@@ -1,4 +1,7 @@
+
+
 # Allieve - OUTDOOR  - Girone C / Giornata 1
+
 ## Dom 19/10/2025 10.15
 
 <strong>CUS PISA ASD - SPORT AND GO</strong>
@@ -11,10 +14,11 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-<!-- VALCHISONE_END -->
+
 
 
 # Allieve - OUTDOOR  - Girone C / Giornata 2
+
 ## Dom 12/10/2025 15.00
 
 <strong>CUS PISA ASD - HF GENOVA 1980</strong>
@@ -29,10 +33,11 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-<!-- VALCHISONE_END -->
+
 
 
 # Allieve - OUTDOOR  - Girone C / Giornata 3
+
 ## Dom 02/11/2025 17.00
 
 <strong>HC RAINBOW SAMPIERDARENA - HF GENOVA 1980</strong>
@@ -45,10 +50,11 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
+
 
 
 # Allieve - OUTDOOR  - Girone C / Giornata 4
+
 ## Dom 19/10/2025 13.30
 
 <strong>CUS PISA ASD - HC RAINBOW SAMPIERDARENA</strong>
@@ -61,8 +67,6 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 09/11/2025 11.00
@@ -77,10 +81,11 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
+
 
 
 # Allieve - OUTDOOR  - Girone C / Giornata 5
+
 ## Dom 19/10/2025 12.00
 
 <strong>SPORT AND GO - HC RAINBOW SAMPIERDARENA</strong>
@@ -93,6 +98,4 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-<!-- VALCHISONE_END -->
-
 

@@ -1,4 +1,7 @@
+
+
 # Ragazzi - OUTDOOR  - Girone A / Giornata 1
+
 <!-- VALCHISONE_START -->
 ## - ⭐
 
@@ -15,7 +18,10 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 <!-- VALCHISONE_END -->
 
 
+
+
 # Ragazzi - OUTDOOR  - Girone A / Giornata 2
+
 ## Sab 15/11/2025 11.00
 
 <strong>A.S.D. S.H. PAOLO BONOMI - HCU RASSEMBLEMENT TORINO</strong>
@@ -27,10 +33,11 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
+
 
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 3
+
 ## Sab 04/10/2025 17.30
 
 <strong>SCUOLA HOCKEY INDER SINGH - HCU RASSEMBLEMENT TORINO RIS</strong>
@@ -45,10 +52,11 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7025438, longitude=7.8360955)
-<!-- VALCHISONE_END -->
+
 
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 4
+
 <!-- VALCHISONE_START -->
 ## - ⭐
 
@@ -65,7 +73,10 @@ Geo: Geo(latitude=44.7025438, longitude=7.8360955)
 <!-- VALCHISONE_END -->
 
 
+
+
 # Ragazzi - OUTDOOR  - Girone A / Giornata 5
+
 ## Dom 02/11/2025 11.30
 
 <strong>A.S.D. S.H. PAOLO BONOMI - ASD CERNUSCO FIELD HOCKEY</strong>
@@ -77,10 +88,11 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
+
 
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 6
+
 ## Sab 25/10/2025 17.00
 
 <strong>SCUOLA HOCKEY INDER SINGH - HCU RASSEMBLEMENT TORINO</strong>
@@ -93,10 +105,11 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7025438, longitude=7.8360955)
-<!-- VALCHISONE_END -->
+
 
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 7
+
 ## Sab 15/11/2025 14.30
 
 <strong>A.S.D. S.H. PAOLO BONOMI - HCU RASSEMBLEMENT TORINO RIS</strong>
@@ -108,8 +121,6 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
-
 
 
 <!-- VALCHISONE_START -->
@@ -127,7 +138,10 @@ Location:  Via Boccaccio, snc Cernusco sul Naviglio
 <!-- VALCHISONE_END -->
 
 
+
+
 # Ragazzi - OUTDOOR  - Girone A / Giornata 8
+
 ## Dom 09/11/2025 14.00
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HCU RASSEMBLEMENT TORINO</strong>
@@ -139,10 +153,11 @@ Campo: Campo Comunale
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
 Location:  Via Boccaccio, snc Cernusco sul Naviglio
-<!-- VALCHISONE_END -->
+
 
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 9
+
 <!-- VALCHISONE_START -->
 ## - ⭐
 
@@ -159,7 +174,10 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 <!-- VALCHISONE_END -->
 
 
+
+
 # Ragazzi - OUTDOOR  - Girone A / Giornata 10
+
 ## Dom 16/11/2025 14.00
 
 <strong>SCUOLA HOCKEY INDER SINGH - ASD CERNUSCO FIELD HOCKEY</strong>
@@ -172,10 +190,11 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7025438, longitude=7.8360955)
-<!-- VALCHISONE_END -->
+
 
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 11
+
 ## Dom 09/11/2025 16.00
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HCU RASSEMBLEMENT TORINO RIS</strong>
@@ -187,8 +206,6 @@ Campo: Campo Comunale
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
 Location:  Via Boccaccio, snc Cernusco sul Naviglio
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 01/11/2025 11.30
@@ -202,10 +219,11 @@ Campo: CENTRO S. COMUNALE
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
+
 
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 12
+
 <!-- VALCHISONE_START -->
 ## - ⭐
 
@@ -221,7 +239,10 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 <!-- VALCHISONE_END -->
 
 
+
+
 # Ragazzi - OUTDOOR  - Girone A / Giornata 13
+
 ## Dom 16/11/2025 11.00
 
 <strong>HCU RASSEMBLEMENT TORINO - HCU RASSEMBLEMENT TORINO RIS</strong>
@@ -234,6 +255,4 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-<!-- VALCHISONE_END -->
-
 

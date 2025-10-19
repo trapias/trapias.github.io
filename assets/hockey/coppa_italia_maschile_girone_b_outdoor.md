@@ -1,4 +1,7 @@
+
+
 # Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1
+
 ## Gio 02/10/2025 20.00
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO</strong>
@@ -12,8 +15,6 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 13/09/2025 15.00
@@ -29,9 +30,7 @@ Campo: Comunale Mori
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8510468, longitude=10.9864925)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 ## Sab 13/09/2025 15.00
@@ -47,10 +46,11 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2
+
 ## Sab 20/09/2025 15.00
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA</strong>
@@ -64,8 +64,6 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 20/09/2025 15.00
@@ -81,9 +79,7 @@ Campo: campo hockey s. farinazzo
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.190259, longitude=11.4690625)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 
 ## Sab 20/09/2025 16.00
@@ -99,11 +95,12 @@ Campo: Comunale Mori
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8510468, longitude=10.9864925)
-<!-- VALCHISONE_END -->
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3
+
 ## Sab 27/09/2025 15.00
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
@@ -118,8 +115,6 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 27/09/2025 15.00
@@ -135,8 +130,6 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 27/09/2025 15.00
@@ -152,10 +145,11 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4
+
 ## Dom 28/09/2025 15.00
 
 <strong>CSP SAN GIORGIO - HOCKEY TEAM BOLOGNA</strong>
@@ -169,9 +163,7 @@ Campo: campo hockey s. farinazzo
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.190259, longitude=11.4690625)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 
 ## Dom 12/10/2025 15.00
@@ -187,9 +179,7 @@ Campo: Comunale Mori
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8510468, longitude=10.9864925)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 ## Dom 28/09/2025 16.00
@@ -205,10 +195,11 @@ Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
 Location:  VIA J. CORRADO, 24 Padova
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5
+
 ## Sab 04/10/2025 15.00
 
 <strong>HOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO</strong>
@@ -222,8 +213,6 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 04/10/2025 15.00
@@ -239,9 +228,7 @@ Campo: Comunale Mori
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8510468, longitude=10.9864925)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 ## Sab 04/10/2025 15.00
@@ -257,11 +244,12 @@ Campo: campo hockey s. farinazzo
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.190259, longitude=11.4690625)
-<!-- VALCHISONE_END -->
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6
+
 ## Sab 11/10/2025 15.00
 
 <strong>ASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
@@ -276,8 +264,6 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 11/10/2025 15.00
@@ -293,8 +279,6 @@ Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
 Location:  VIA J. CORRADO, 24 Padova
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 11/10/2025 15.00
@@ -310,11 +294,12 @@ Campo: campo hockey s. farinazzo
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.190259, longitude=11.4690625)
-<!-- VALCHISONE_END -->
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7
+
 ## Sab 18/10/2025 15.00
 
 <strong>CSP SAN GIORGIO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
@@ -328,9 +313,7 @@ Campo: campo hockey s. farinazzo
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.190259, longitude=11.4690625)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 
 ## Sab 18/10/2025 15.00
@@ -346,9 +329,7 @@ Campo: Comunale Mori
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8510468, longitude=10.9864925)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 ## Sab 18/10/2025 15.00
@@ -364,10 +345,11 @@ Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
 Location:  VIA J. CORRADO, 24 Padova
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8
+
 ## Dom 19/10/2025 15.00
 
 <strong>HOCKEY TEAM BOLOGNA - CSP SAN GIORGIO</strong>
@@ -379,8 +361,6 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 19/10/2025 16.00
@@ -394,8 +374,6 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 19/10/2025 15.00
@@ -410,10 +388,11 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9
+
 ## Sab 25/10/2025 15.00
 
 <strong>HOCKEY TEAM BOLOGNA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
@@ -425,8 +404,6 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 25/10/2025 15.00
@@ -441,8 +418,6 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 25/10/2025 15.00
@@ -456,10 +431,11 @@ Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
 Location:  VIA J. CORRADO, 24 Padova
-<!-- VALCHISONE_END -->
+
 
 
 # Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10
+
 ## Sab 01/11/2025 15.00
 
 <strong>ASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA</strong>
@@ -472,8 +448,6 @@ Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 01/11/2025 15.00
@@ -487,8 +461,6 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 01/11/2025 15.00
@@ -502,6 +474,4 @@ Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
 Location:  VIA J. CORRADO, 24 Padova
-<!-- VALCHISONE_END -->
-
 

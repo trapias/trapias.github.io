@@ -1,4 +1,7 @@
+
+
 # Serie A Elite Maschile - OUTDOOR / Giornata 1
+
 ## Sab 07/03/2026 15.00
 
 <strong>TEVERE EUR H - BUTTERFLY ROMA</strong>
@@ -11,8 +14,6 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 07/03/2026 15.00
@@ -27,8 +28,6 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
-<!-- VALCHISONE_END -->
-
 
 
 <!-- VALCHISONE_START -->
@@ -60,10 +59,11 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 2
+
 ## Sab 14/03/2026 15.00
 
 <strong>HC BRA - TEVERE EUR H</strong>
@@ -75,8 +75,6 @@ Campo: PINO PALMIERI
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
 Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 14/03/2026 15.00
@@ -91,8 +89,6 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 14/03/2026 15.00
@@ -106,8 +102,6 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-<!-- VALCHISONE_END -->
-
 
 
 <!-- VALCHISONE_START -->
@@ -125,7 +119,10 @@ Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
 <!-- VALCHISONE_END -->
 
 
+
+
 # Serie A Elite Maschile - OUTDOOR / Giornata 3
+
 ## Sab 21/03/2026 15.00
 
 <strong>TEVERE EUR H - H CITTA' DEL TRICOLORE</strong>
@@ -138,8 +135,6 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 21/03/2026 15.00
@@ -154,8 +149,6 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 21/03/2026 15.00
@@ -170,8 +163,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 <!-- VALCHISONE_START -->
@@ -190,7 +181,10 @@ Geo: Geo(latitude=44.920878, longitude=7.24499)
 <!-- VALCHISONE_END -->
 
 
+
+
 # Serie A Elite Maschile - OUTDOOR / Giornata 4
+
 ## Sab 28/03/2026 15.30
 
 <strong>SG AMSICORA - TEVERE EUR H</strong>
@@ -202,8 +196,6 @@ Campo: AMSICORA
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 28/03/2026 15.00
@@ -217,8 +209,6 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 28/03/2026 15.00
@@ -232,8 +222,6 @@ Campo: PINO PALMIERI
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
 Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
-<!-- VALCHISONE_END -->
-
 
 
 <!-- VALCHISONE_START -->
@@ -252,7 +240,10 @@ Geo: Geo(latitude=41.9317744, longitude=12.4862157)
 <!-- VALCHISONE_END -->
 
 
+
+
 # Serie A Elite Maschile - OUTDOOR / Giornata 5
+
 ## Sab 11/04/2026 15.00
 
 <strong>TEVERE EUR H - POL FERRINI</strong>
@@ -265,8 +256,6 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 11/04/2026 15.00
@@ -280,8 +269,6 @@ Campo: PINO PALMIERI
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
 Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 11/04/2026 15.00
@@ -295,8 +282,6 @@ Campo: AMSICORA
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-<!-- VALCHISONE_END -->
-
 
 
 <!-- VALCHISONE_START -->
@@ -315,7 +300,10 @@ Geo: Geo(latitude=41.8394662, longitude=12.4731586)
 <!-- VALCHISONE_END -->
 
 
+
+
 # Serie A Elite Maschile - OUTDOOR / Giornata 6
+
 ## Sab 18/04/2026 15.00
 
 <strong>BUTTERFLY ROMA - SG AMSICORA</strong>
@@ -328,8 +316,6 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
-
 
 
 <!-- VALCHISONE_START -->
@@ -361,8 +347,6 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 18/04/2026 15.00
@@ -376,10 +360,11 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 7
+
 ## Sab 25/04/2026 15.00
 
 <strong>LAZIO HOCKEY - TEVERE EUR H</strong>
@@ -392,8 +377,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 <!-- VALCHISONE_START -->
@@ -424,8 +407,6 @@ Campo: AMSICORA
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 25/04/2026 15.00
@@ -439,10 +420,11 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 8
+
 ## Sab 02/05/2026 15.00
 
 <strong>BUTTERFLY ROMA - TEVERE EUR H</strong>
@@ -455,8 +437,6 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 02/05/2026 15.00
@@ -470,8 +450,6 @@ Campo: PINO PALMIERI
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
 Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 02/05/2026 15.00
@@ -485,8 +463,6 @@ Campo: AMSICORA
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-<!-- VALCHISONE_END -->
-
 
 
 <!-- VALCHISONE_START -->
@@ -504,7 +480,10 @@ Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
 <!-- VALCHISONE_END -->
 
 
+
+
 # Serie A Elite Maschile - OUTDOOR / Giornata 9
+
 ## Sab 09/05/2026 15.00
 
 <strong>TEVERE EUR H - HC BRA</strong>
@@ -517,8 +496,6 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 09/05/2026 15.00
@@ -533,8 +510,6 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 09/05/2026 15.00
@@ -549,8 +524,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 <!-- VALCHISONE_START -->
@@ -569,7 +542,10 @@ Geo: Geo(latitude=44.920878, longitude=7.24499)
 <!-- VALCHISONE_END -->
 
 
+
+
 # Serie A Elite Maschile - OUTDOOR / Giornata 10
+
 ## Sab 16/05/2026 15.00
 
 <strong>H CITTA' DEL TRICOLORE - TEVERE EUR H</strong>
@@ -581,8 +557,6 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 16/05/2026 15.00
@@ -596,8 +570,6 @@ Campo: AMSICORA
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 16/05/2026 15.00
@@ -612,8 +584,6 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
-
 
 
 <!-- VALCHISONE_START -->
@@ -631,7 +601,10 @@ Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
 <!-- VALCHISONE_END -->
 
 
+
+
 # Serie A Elite Maschile - OUTDOOR / Giornata 11
+
 ## Sab 30/05/2026 15.00
 
 <strong>TEVERE EUR H - SG AMSICORA</strong>
@@ -644,8 +617,6 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 30/05/2026 15.00
@@ -660,8 +631,6 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 30/05/2026 15.00
@@ -676,8 +645,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 <!-- VALCHISONE_START -->
@@ -696,7 +663,10 @@ Geo: Geo(latitude=44.920878, longitude=7.24499)
 <!-- VALCHISONE_END -->
 
 
+
+
 # Serie A Elite Maschile - OUTDOOR / Giornata 12
+
 <!-- VALCHISONE_START -->
 ## Sab 06/06/2026 15.00 ⭐
 
@@ -726,8 +696,6 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 06/06/2026 15.00
@@ -741,8 +709,6 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 06/06/2026 15.00
@@ -757,10 +723,11 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
-<!-- VALCHISONE_END -->
+
 
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 13
+
 ## Sab 13/06/2026 15.00
 
 <strong>SG AMSICORA - BUTTERFLY ROMA</strong>
@@ -772,8 +739,6 @@ Campo: AMSICORA
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
 Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 13/06/2026 15.00
@@ -787,8 +752,6 @@ Campo: PINO PALMIERI
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
 Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 13/06/2026 15.00
@@ -803,8 +766,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 <!-- VALCHISONE_START -->
@@ -823,7 +784,10 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 <!-- VALCHISONE_END -->
 
 
+
+
 # Serie A Elite Maschile - OUTDOOR / Giornata 14
+
 ## Sab 20/06/2026 15.00
 
 <strong>BUTTERFLY ROMA - H CITTA' DEL TRICOLORE</strong>
@@ -836,8 +800,6 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
-
 
 
 <!-- VALCHISONE_START -->
@@ -868,8 +830,6 @@ Campo: PINO PALMIERI
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
 Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 20/06/2026 15.00
@@ -884,6 +844,4 @@ Indirizzo Campo:  Via Bilbao, 12 - Roma
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
-
 

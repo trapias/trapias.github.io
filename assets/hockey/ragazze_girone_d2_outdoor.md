@@ -1,4 +1,7 @@
+
+
 # Ragazze - OUTDOOR  - Girone D2 / Giornata 1
+
 ## Sab 11/10/2025 17.00
 
 <strong>LAZIO HOCKEY - POL GALATEA</strong>
@@ -13,8 +16,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 ## -
@@ -29,10 +30,11 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
+
 
 
 # Ragazze - OUTDOOR  - Girone D2 / Giornata 2
+
 ## Sab 18/10/2025 15.00
 
 <strong>BUTTERFLY ROMA - POL GALATEA</strong>
@@ -45,8 +47,6 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 02/11/2025 14.30
@@ -61,10 +61,11 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
+
 
 
 # Ragazze - OUTDOOR  - Girone D2 / Giornata 3
+
 ## Sab 18/04/2026 17.00
 
 <strong>BUTTERFLY ROMA - LAZIO HOCKEY</strong>
@@ -77,8 +78,6 @@ Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9317744, longitude=12.4862157)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 28/03/2026 13.00
@@ -93,10 +92,11 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
-<!-- VALCHISONE_END -->
+
 
 
 # Ragazze - OUTDOOR  - Girone D2 / Giornata 4
+
 ## Sab 14/03/2026 13.00
 
 <strong>POL GALATEA - LAZIO HOCKEY</strong>
@@ -109,8 +109,6 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 22/03/2026 17.00
@@ -125,10 +123,11 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
+
 
 
 # Ragazze - OUTDOOR  - Girone D2 / Giornata 5
+
 ## Sab 08/11/2025 13.00
 
 <strong>POL GALATEA - BUTTERFLY ROMA</strong>
@@ -141,8 +140,6 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 08/11/2025 15.00
@@ -157,10 +154,11 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
+
 
 
 # Ragazze - OUTDOOR  - Girone D2 / Giornata 6
+
 ## Sab 28/03/2026 17.00
 
 <strong>LAZIO HOCKEY - BUTTERFLY ROMA</strong>
@@ -173,8 +171,6 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 
 
 ## Sab 18/04/2026 17.00
@@ -189,6 +185,4 @@ Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-<!-- VALCHISONE_END -->
-
 

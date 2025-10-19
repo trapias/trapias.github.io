@@ -1,4 +1,7 @@
+
+
 # Allievi - OUTDOOR  - Girone A / Giornata 1
+
 ## Dom 05/10/2025 10.00
 
 <strong>SCUOLA HOCKEY INDER SINGH - SCUOLA HOCKEY INDER SINGH NEXT GEN</strong>
@@ -13,8 +16,6 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7025438, longitude=7.8360955)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 05/10/2025 11.30
@@ -31,8 +32,6 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7025438, longitude=7.8360955)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 05/10/2025 14.00
@@ -49,8 +48,6 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7025438, longitude=7.8360955)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 05/10/2025 15.30
@@ -67,8 +64,6 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7025438, longitude=7.8360955)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 05/10/2025 17.00
@@ -85,10 +80,11 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7025438, longitude=7.8360955)
-<!-- VALCHISONE_END -->
+
 
 
 # Allievi - OUTDOOR  - Girone A / Giornata 2
+
 ## Dom 26/10/2025 10.00
 
 <strong>HCU RASSEMBLEMENT TORINO - SCUOLA HOCKEY INDER SINGH</strong>
@@ -101,8 +97,6 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 26/10/2025 11.30
@@ -117,8 +111,6 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 26/10/2025 14.00
@@ -133,8 +125,6 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 26/10/2025 15.30
@@ -149,8 +139,6 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 26/10/2025 17.00
@@ -165,6 +153,4 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-<!-- VALCHISONE_END -->
-
 

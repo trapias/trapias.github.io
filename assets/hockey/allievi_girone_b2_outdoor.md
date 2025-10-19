@@ -1,4 +1,7 @@
+
+
 # Allievi - OUTDOOR  - Girone B2 / Giornata 1
+
 ## Dom 05/10/2025 11.00
 
 <strong>HOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO</strong>
@@ -12,8 +15,6 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 05/10/2025 11.00
@@ -29,8 +30,6 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 05/10/2025 13.00
@@ -46,8 +45,6 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 05/10/2025 13.00
@@ -63,10 +60,11 @@ Campo: CP BARCA
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
 Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-<!-- VALCHISONE_END -->
+
 
 
 # Allievi - OUTDOOR  - Girone B2 / Giornata 2
+
 ## Dom 26/10/2025 11.00
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA</strong>
@@ -78,8 +76,6 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 26/10/2025 11.00
@@ -94,8 +90,6 @@ Indirizzo Campo:  Via Avvenire Paterlini, 2 - Reggio nell'Emilia
 
 Location: 2a, Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082583, longitude=10.6364889)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 26/10/2025 13.00
@@ -110,8 +104,6 @@ Indirizzo Campo:  Via Avvenire Paterlini, 2 - Reggio nell'Emilia
 
 Location: 2a, Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082583, longitude=10.6364889)
-<!-- VALCHISONE_END -->
-
 
 
 ## Dom 26/10/2025 13.00
@@ -125,10 +117,11 @@ Campo: Sport Arena
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
 Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-<!-- VALCHISONE_END -->
+
 
 
 # Allievi - OUTDOOR  - Girone B2 / Giornata 3
+
 ## Dom 02/11/2025 11.00
 
 <strong>HC PISTOIA - HOCKEY TEAM BOLOGNA</strong>
@@ -140,9 +133,7 @@ Campo: HOCKEY STADIUM ANDREA BRUSCHI
 Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
 Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.950982587561086, longitude=10.829287833344138)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 
 ## Dom 02/11/2025 11.00
@@ -156,9 +147,7 @@ Campo: HOCKEY STADIUM ANDREA BRUSCHI
 Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
 Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.950982587561086, longitude=10.829287833344138)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 
 ## Dom 02/11/2025 13.00
@@ -172,9 +161,7 @@ Campo: HOCKEY STADIUM ANDREA BRUSCHI
 Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
 Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.950982587561086, longitude=10.829287833344138)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 
 ## Dom 02/11/2025 13.00
@@ -188,7 +175,5 @@ Campo: HOCKEY STADIUM ANDREA BRUSCHI
 Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
 Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.950982587561086, longitude=10.829287833344138)
-<!-- VALCHISONE_END -->
-
+Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
