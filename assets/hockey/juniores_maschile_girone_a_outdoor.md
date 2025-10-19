@@ -48,7 +48,8 @@ Campo: Augusto Lorenzoni
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location:  VIA MADONNA DEI FIORI, 49 Bra
+Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7025438, longitude=7.8360955)
 <!-- VALCHISONE_END -->
 
 
@@ -115,7 +116,8 @@ Campo: Augusto Lorenzoni
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location:  VIA MADONNA DEI FIORI, 49 Bra
+Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7025438, longitude=7.8360955)
 
 
 
