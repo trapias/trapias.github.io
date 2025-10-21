@@ -20,7 +20,7 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 ## Sab 15/11/2025 17.00
 
-<strong>VINCENTE GIRONE B - VINCENTE GIRONE D</strong>
+<strong>HOCKEY CLUB RIVA - POL GALATEA</strong>
 
 Giornata: Gara 1076
 

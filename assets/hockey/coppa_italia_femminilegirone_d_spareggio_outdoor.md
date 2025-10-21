@@ -4,7 +4,7 @@
 
 ## Dom 26/10/2025 14.00
 
-<strong>HF GENOVA 1980 - LAZIO HOCKEY</strong>
+<strong>LAZIO HOCKEY - HF GENOVA 1980</strong>
 
 Giornata: Gara 240
 

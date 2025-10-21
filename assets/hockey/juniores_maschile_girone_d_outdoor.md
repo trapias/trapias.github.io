@@ -59,6 +59,8 @@ Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
 
 <strong>HOCKEY CLUB ROMA - LAZIO HOCKEY</strong>
 
+**Risultato: 1-3**
+
 Giornata: Gara 276
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

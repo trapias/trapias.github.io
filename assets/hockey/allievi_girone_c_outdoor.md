@@ -189,6 +189,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>GENOVA H 1980 DRITTO - ASD BAD LAKE HOCKEY</strong>
 
+**Risultato: 3-2**
+
 Giornata: Gara 361
 
 Campo: CAMPO G.ARNALDI 
@@ -340,20 +342,20 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Dom 16/11/2025 10.00
+## Gio 06/11/2025 17.00
 
 <strong>HC GENOVA RAINBOW - HC GENOVA</strong>
 
 Giornata: Gara 607
 
-Campo: CAMPO HOCKEY PRATO 
+Campo: CAMPO G.ARNALDI 
 
-Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
 ## Dom 12/10/2025 11.00

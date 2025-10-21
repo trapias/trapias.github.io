@@ -403,6 +403,8 @@ Location:  Bologna - VIA SANZIO, 8, 2 Bologna
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PADOVA ASD</strong>
 
+**Risultato: 4-4**
+
 Giornata: Gara 93
 
 Campo: Sport Arena 

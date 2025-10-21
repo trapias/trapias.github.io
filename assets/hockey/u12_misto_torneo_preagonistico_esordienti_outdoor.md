@@ -355,3 +355,19 @@ Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
 Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
 
+
+## Dom 28/06/2026 11.00
+
+<strong>CUS PISA ASD - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1079
+
+Campo: CAMPO HOCKEY PRATO 
+
+Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
+
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+

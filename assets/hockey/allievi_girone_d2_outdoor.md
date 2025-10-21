@@ -6,6 +6,8 @@
 
 <strong>ASD HOCKEY CLUB MOGLIANO - ASD HOCKEY AVEZZANO 1969</strong>
 
+**Risultato: 6-0**
+
 Giornata: Gara 588
 
 Campo: BAGLIANO 
@@ -82,7 +84,7 @@ Location:  Via dei Gladioli, snc Avezzano
 Location:  Via dei Gladioli, snc Avezzano
 
 
-## Dom 09/11/2025 11.00
+## Sab 25/10/2025 17.00
 
 <strong>H.POTENZA PICENA - ASD HOCKEY CLUB MOGLIANO</strong>
 

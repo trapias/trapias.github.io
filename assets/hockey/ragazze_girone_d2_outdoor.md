@@ -43,6 +43,8 @@ Geo: Geo(latitude=41.9317744, longitude=12.4862157)
 
 <strong>BUTTERFLY ROMA - POL GALATEA</strong>
 
+**Risultato: 2-3**
+
 Giornata: Gara 629
 
 Campo: CENTRO GIULIO ONESTI 

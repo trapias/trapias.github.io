@@ -201,6 +201,8 @@ Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 <strong>A.R.FINCANTIERI A.S.D. - HC GRANTORTO</strong>
 
+**Risultato: 0-5**
+
 Giornata: Gara 202
 
 Campo: Campo Ass. R. Fincantieri 

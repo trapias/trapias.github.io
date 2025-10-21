@@ -8,12 +8,10 @@
 
 Giornata: Gara 79
 
-Campo: Balestri e Gambini 
+Campo: Sport Arena 
 
-Indirizzo Campo:  Via Avvenire Paterlini, 2 - Reggio nell'Emilia
+Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: 2a, Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082583, longitude=10.6364889)
-Location: 2a, Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082583, longitude=10.6364889)
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
 

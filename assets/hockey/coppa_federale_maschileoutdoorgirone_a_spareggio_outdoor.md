@@ -4,7 +4,7 @@
 
 ## Sab 01/11/2025 15.00
 
-<strong>1 CLASS A1 - 1 CLASS A2</strong>
+<strong>USD MONCALVESE HOCKEY - GENOVA H 1980</strong>
 
 Giornata: Gara 254
 

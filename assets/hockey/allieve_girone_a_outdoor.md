@@ -121,6 +121,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>USD MONCALVESE HOCKEY - HC LARIO</strong>
 
+**Risultato: 6-0**
+
 Giornata: Gara 679
 
 Campo: UMBERTO MICCO 
@@ -134,7 +136,7 @@ Location:  Via Goria, 4 Moncalvo
 
 # Allieve - OUTDOOR  - Girone A / Giornata 5
 
-## Sab 01/11/2025 15.00
+## Sab 01/11/2025 14.00
 
 <strong>HF LORENZONI - USD MONCALVESE HOCKEY</strong>
 

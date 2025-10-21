@@ -6,6 +6,8 @@
 
 <strong>POLISPORTIVA VALDAGRI - TEVERE EUR H</strong>
 
+**Risultato: 2-4**
+
 Giornata: Gara 699
 
 Campo: Campo Villa D\'agri 

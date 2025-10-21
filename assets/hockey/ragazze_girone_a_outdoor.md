@@ -127,6 +127,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>MILANO HP - USD MONCALVESE HOCKEY</strong>
 
+**Risultato: 3-1**
+
 Giornata: Gara 670
 
 Campo: Campo Comunale 
