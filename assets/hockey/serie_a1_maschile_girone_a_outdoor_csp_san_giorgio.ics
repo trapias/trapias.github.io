@@ -2,11 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 766\nCAMPI SPORTIVI 'SA DUCHESSA' - VIA IS MIRRIONIS\, 3\, 9 Cagliari\nCUS CAGLIARI - CSP SAN GIORGIO
-LOCATION: VIA IS MIRRIONIS\, 3\, 9 Cagliari
-DTSTART:20260418T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5 - CUS CAGLIARI - CSP SAN GIORGIO
-UID:1e84b3d7-65f0-433a-ad2e-27a9fcf32ace@1e84.org
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 759\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HT SARDEGNA
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20260321T140000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2 - CSP SAN GIORGIO - HT SARDEGNA
+UID:088ffaf6-7714-4567-b080-e580fb1997f6@088f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3\nGara 762\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CSP SAN GIORGIO
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260328T133000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3 - ASD ADIGE UHC - CSP SAN GIORGIO
+UID:9a575fd1-68a5-4f0d-84d9-f25c2e21f1de@9a57.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4\nGara 765\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - CSP SAN GIORGIO
@@ -14,15 +23,7 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20260411T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4 - HC BONDENO - CSP SAN GIORGIO
-UID:41fb5b9d-2f47-4c15-82d5-eec708088795@41fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3\nGara 762\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CSP SAN GIORGIO
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260328T133000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3 - ASD ADIGE UHC - CSP SAN GIORGIO
-UID:ca329fb2-cd7b-4976-8d4e-e7b86592cd50@ca32.org
+UID:6db4f670-e4da-4f2f-8285-937a63c1bb81@6db4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 777\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD ADIGE UHC
@@ -30,23 +31,7 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20260509T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8 - CSP SAN GIORGIO - ASD ADIGE UHC
-UID:92d5c642-64e2-468f-a1e9-3d7967215bfa@92d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 759\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HT SARDEGNA
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20260321T140000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2 - CSP SAN GIORGIO - HT SARDEGNA
-UID:5478a3bb-c95e-42f4-a649-9a8f9e0939a5@5478.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 777\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD ADIGE UHC
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20260509T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8 - CSP SAN GIORGIO - ASD ADIGE UHC
-UID:8dd177f8-b742-4759-b679-7b261f96dfe6@8dd1.org
+UID:1453daea-1884-4218-bf91-08ca9276f83c@1453.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 780\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HC BONDENO
@@ -54,7 +39,15 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20260516T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9 - CSP SAN GIORGIO - HC BONDENO
-UID:7371ff5c-d2f5-4363-852c-742a372d2458@7371.org
+UID:6f747208-3a54-438d-873a-f474f134aa0a@6f74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4\nGara 765\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - CSP SAN GIORGIO
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260411T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4 - HC BONDENO - CSP SAN GIORGIO
+UID:09c8ef1e-94c0-4956-b1c2-3fdc4120a2f7@09c8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 759\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HT SARDEGNA
@@ -62,22 +55,44 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20260321T140000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2 - CSP SAN GIORGIO - HT SARDEGNA
-UID:cad4f121-962c-46cf-ab88-62a432bd1781@cad4.org
+UID:7a98d559-e03c-4307-aa38-87270a07e8c3@7a98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 6\nGara 770\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - CUS PADOVA ASD
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20260425T123000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 6 - CSP SAN GIORGIO - CUS PADOVA ASD
+UID:1b53e2f4-43b9-4aae-aca1-524764251ba7@1b53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 780\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HC BONDENO
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20260516T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9 - CSP SAN GIORGIO - HC BONDENO
+UID:08709125-04c7-4b18-9203-18a48ff9a248@0870.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 766\nCAMPI SPORTIVI 'SA DUCHESSA' - VIA IS MIRRIONIS\, 3\, 9 Cagliari\nCUS CAGLIARI - CSP SAN GIORGIO
+LOCATION: VIA IS MIRRIONIS\, 3\, 9 Cagliari
+DTSTART:20260418T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5 - CUS CAGLIARI - CSP SAN GIORGIO
+UID:e036dfe8-ecb5-42f7-8aff-0278f900e5cd@e036.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 766\nCAMPI SPORTIVI 'SA DUCHESSA' - VIA IS MIRRIONIS\, 3\, 9 Cagliari\nCUS CAGLIARI - CSP SAN GIORGIO
+LOCATION: VIA IS MIRRIONIS\, 3\, 9 Cagliari
+DTSTART:20260418T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5 - CUS CAGLIARI - CSP SAN GIORGIO
+UID:7d8af1e6-dd3e-4d71-af5b-5ec49cad96fb@7d8a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 7\nGara 774\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - CSP SAN GIORGIO
 LOCATION: VIA S. EMILIANO\, snc Uras
 DTSTART:20260502T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 7 - HT SARDEGNA - CSP SAN GIORGIO
-UID:eea9df6b-d982-4d6f-ab01-723e2e7db5ac@eea9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3\nGara 762\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CSP SAN GIORGIO
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260328T133000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3 - ASD ADIGE UHC - CSP SAN GIORGIO
-UID:4c3b232f-462d-4179-9df4-705db177c838@4c3b.org
+UID:0868fe75-8bce-41c4-b16d-0553e14fc14b@0868.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 781\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - CUS CAGLIARI
@@ -85,60 +100,45 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20260523T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10 - CSP SAN GIORGIO - CUS CAGLIARI
-UID:7aa05480-634f-4e2b-a507-65ded441473c@7aa0.org
+UID:dded0743-28d9-4cf7-bd1e-00ab5291cc05@dded.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 777\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD ADIGE UHC
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20260509T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8 - CSP SAN GIORGIO - ASD ADIGE UHC
+UID:eed7a0df-b17c-4d37-bfcb-aaa2e7bfc997@eed7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3\nGara 762\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CSP SAN GIORGIO
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260328T133000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3 - ASD ADIGE UHC - CSP SAN GIORGIO
+UID:042cce49-2202-4921-a6c9-d89b670faea3@042c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 6\nGara 770\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - CUS PADOVA ASD
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20260425T123000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 6 - CSP SAN GIORGIO - CUS PADOVA ASD
+UID:8f0903b0-163e-4e7c-832e-699f0760b05a@8f09.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 1\nGara 755\nCampo Hockey Mario Steffenel - Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo\nCUS PADOVA ASD - CSP SAN GIORGIO
 LOCATION: Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo
 DTSTART:20260314T140000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 1 - CUS PADOVA ASD - CSP SAN GIORGIO
-UID:9a29c293-d692-4ff8-a490-38f2ca3d6edc@9a29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 766\nCAMPI SPORTIVI 'SA DUCHESSA' - VIA IS MIRRIONIS\, 3\, 9 Cagliari\nCUS CAGLIARI - CSP SAN GIORGIO
-LOCATION: VIA IS MIRRIONIS\, 3\, 9 Cagliari
-DTSTART:20260418T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5 - CUS CAGLIARI - CSP SAN GIORGIO
-UID:61103ccd-07d1-437b-8788-03667405293e@6110.org
+UID:64148991-cfec-427a-9753-1ad56811d1f5@6414.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 7\nGara 774\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - CSP SAN GIORGIO
 LOCATION: VIA S. EMILIANO\, snc Uras
 DTSTART:20260502T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 7 - HT SARDEGNA - CSP SAN GIORGIO
-UID:9643e27e-149f-45ff-8e70-65f05b423632@9643.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4\nGara 765\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - CSP SAN GIORGIO
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260411T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4 - HC BONDENO - CSP SAN GIORGIO
-UID:f97fb2ff-4dac-42be-b0ba-03c4e5a3dd53@f97f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 780\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HC BONDENO
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20260516T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9 - CSP SAN GIORGIO - HC BONDENO
-UID:92df82d6-9a25-485b-bd41-2f3a72d4266e@92df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 6\nGara 770\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - CUS PADOVA ASD
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20260425T123000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 6 - CSP SAN GIORGIO - CUS PADOVA ASD
-UID:47c7bb17-b57a-442e-a2a9-7cc8ed2b2829@47c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 6\nGara 770\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - CUS PADOVA ASD
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20260425T123000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 6 - CSP SAN GIORGIO - CUS PADOVA ASD
-UID:9658caaf-2763-44a2-96cd-690ef7295fd5@9658.org
+UID:2a65a68f-5a9a-438a-b6ae-9d85b97fabdb@2a65.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 781\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - CUS CAGLIARI
@@ -146,6 +146,6 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20260523T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10 - CSP SAN GIORGIO - CUS CAGLIARI
-UID:280731b3-0aeb-47d9-a09e-7b0b33f7d1b8@2807.org
+UID:e5719cdf-c42b-47db-9453-323240220279@e571.org
 END:VEVENT
 END:VCALENDAR
