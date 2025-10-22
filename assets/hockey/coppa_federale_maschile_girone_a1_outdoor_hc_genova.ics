@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 3\nGara 175\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - HC SAVONA\n\nRisultato: 8-3
+DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 2\nGara 173\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - GENOVA H 1980 RIS.\n\nRisultato: 5-3
 GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20250928T110000Z
-SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 3 - HC GENOVA - HC SAVONA
-UID:eca6f54c-d85e-4963-9e43-fe90671f824c@eca6.org
+DTSTART:20250920T120000Z
+SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 2 - HC GENOVA - GENOVA H 1980 RIS.
+UID:d00938d7-1db5-4025-b23b-18f7e5a038f3@d009.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 6\nGara 182\nCampo Sportivo Augusto Briano - Via Santuario\, snc Savona\nHC SAVONA - HC GENOVA\n\nRisultato: 4-2
+LOCATION: Via Santuario\, snc Savona
+DTSTART:20251019T083000Z
+SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 6 - HC SAVONA - HC GENOVA
+UID:f5c3d1eb-8b19-4666-b5a8-347ed07d2226@f5c3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 4\nGara 176\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - USD MONCALVESE HOCKEY\n\nRisultato: 3-5
@@ -15,14 +22,7 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20251004T120000Z
 SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 4 - HC GENOVA - USD MONCALVESE HOCKEY
-UID:ad568cff-c57e-471f-bad6-083d7742c79a@ad56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 6\nGara 182\nCampo Sportivo Augusto Briano - Via Santuario\, snc Savona\nHC SAVONA - HC GENOVA\n\nRisultato: 4-2
-LOCATION: Via Santuario\, snc Savona
-DTSTART:20251019T083000Z
-SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 6 - HC SAVONA - HC GENOVA
-UID:31b582d1-02f1-41db-9f93-da17607d6d12@31b5.org
+UID:499a1e77-900e-49e2-97cb-45b8ad9d9631@499a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 2\nGara 173\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - GENOVA H 1980 RIS.\n\nRisultato: 5-3
@@ -30,22 +30,53 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20250920T120000Z
 SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 2 - HC GENOVA - GENOVA H 1980 RIS.
-UID:3b603eb7-5348-4bcd-ba66-364d479c5070@3b60.org
+UID:7ada0ac1-bac4-497b-ab76-606f895c2578@7ada.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 4\nGara 176\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - USD MONCALVESE HOCKEY\n\nRisultato: 3-5
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20251004T120000Z
+SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 4 - HC GENOVA - USD MONCALVESE HOCKEY
+UID:a19697e4-4289-45be-8496-48957840fc58@a196.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 3\nGara 175\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - HC SAVONA\n\nRisultato: 8-3
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20250928T110000Z
+SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 3 - HC GENOVA - HC SAVONA
+UID:1716169c-f259-471c-96fd-84d73a0bef0f@1716.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 5\nGara 180\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 RIS. - HC GENOVA\n\nRisultato: 0-6
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20251011T140000Z
+SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 5 - GENOVA H 1980 RIS. - HC GENOVA
+UID:ad1a933e-6b16-40f0-bf1b-968f168138c5@ad1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 6\nGara 182\nCampo Sportivo Augusto Briano - Via Santuario\, snc Savona\nHC SAVONA - HC GENOVA\n\nRisultato: 4-2
+LOCATION: Via Santuario\, snc Savona
+DTSTART:20251019T083000Z
+SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 6 - HC SAVONA - HC GENOVA
+UID:2605f207-d742-4535-aea4-30fdb97eb41a@2605.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 3\nGara 175\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - HC SAVONA\n\nRisultato: 8-3
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20250928T110000Z
+SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 3 - HC GENOVA - HC SAVONA
+UID:7a3aac0f-61b0-442e-9aed-4ca596a4fe42@7a3a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 1\nGara 170\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HC GENOVA\n\nRisultato: 3-0
 LOCATION: Via Goria\, 4 Moncalvo
 DTSTART:20250913T140000Z
 SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 1 - USD MONCALVESE HOCKEY - HC GENOVA
-UID:85e4f8a1-7b03-4a38-a42f-d1b3031f175d@85e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 4\nGara 176\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - USD MONCALVESE HOCKEY\n\nRisultato: 3-5
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20251004T120000Z
-SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 4 - HC GENOVA - USD MONCALVESE HOCKEY
-UID:ad2a0969-960d-4e6a-ae28-fcb64e1a4752@ad2a.org
+UID:ef89ecba-0add-4ad2-b528-7a4eb537a386@ef89.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 5\nGara 180\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 RIS. - HC GENOVA\n\nRisultato: 0-6
@@ -53,37 +84,6 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20251011T140000Z
 SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 5 - GENOVA H 1980 RIS. - HC GENOVA
-UID:402162ca-da3e-4662-a14c-f11631c151b5@4021.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 3\nGara 175\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - HC SAVONA\n\nRisultato: 8-3
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20250928T110000Z
-SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 3 - HC GENOVA - HC SAVONA
-UID:3b39d6b3-8a66-4501-8419-c9633e57a7ad@3b39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 2\nGara 173\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - GENOVA H 1980 RIS.\n\nRisultato: 5-3
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20250920T120000Z
-SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 2 - HC GENOVA - GENOVA H 1980 RIS.
-UID:983416ee-6523-43db-a25e-373562e8a9fc@9834.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 5\nGara 180\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 RIS. - HC GENOVA\n\nRisultato: 0-6
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20251011T140000Z
-SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 5 - GENOVA H 1980 RIS. - HC GENOVA
-UID:344879b1-e7a8-44f1-9f80-a22091d8ed6e@3448.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 6\nGara 182\nCampo Sportivo Augusto Briano - Via Santuario\, snc Savona\nHC SAVONA - HC GENOVA\n\nRisultato: 4-2
-LOCATION: Via Santuario\, snc Savona
-DTSTART:20251019T083000Z
-SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 6 - HC SAVONA - HC GENOVA
-UID:517505c2-6159-4434-a1bf-fd502657f10b@5175.org
+UID:3a3483bc-fba7-4418-bbc2-cacce06bafaa@3a34.org
 END:VEVENT
 END:VCALENDAR
