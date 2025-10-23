@@ -146,6 +146,8 @@ Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
 
 <strong>HT SARDEGNA - CUS CAGLIARI</strong>
 
+**Risultato: 3-1**
+
 Giornata: Gara 128
 
 Campo: Comunale Uras 

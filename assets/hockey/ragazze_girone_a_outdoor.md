@@ -161,7 +161,7 @@ Geo: Geo(latitude=44.7025438, longitude=7.8360955)
 
 # Ragazze - OUTDOOR  - Girone A / Giornata 7
 
-## Sab 15/11/2025 17.00
+## Sab 15/11/2025 15.00
 
 <strong>CUS TORINO - MILANO HP</strong>
 

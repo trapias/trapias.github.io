@@ -37,7 +37,7 @@ Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemon
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
-## -
+## Dom 26/10/2025 14.00
 
 <strong>HF LORENZONI - HC LARIO</strong>
 

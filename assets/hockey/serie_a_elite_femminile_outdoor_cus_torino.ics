@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 7\nGara 917\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - CUS TORINO
-GEO:44.702544;7.836095
-LOCATION:49\, Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260426T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 7 - HF LORENZONI - CUS TORINO
-UID:c086e306-6940-4d86-98f6-c54274148538@c086.org
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 11\nGara 933\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - MILANO HP
+GEO:45.033509;7.633384
+LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
+DTSTART:20260531T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 11 - CUS TORINO - MILANO HP
+UID:e8f6fb8b-0bc5-438b-9ce6-dddcc40811d4@e8f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 4\nGara 905\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - CUS TORINO
+LOCATION: Via Boccaccio\, snc Cernusco sul Naviglio
+DTSTART:20260329T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 4 - MILANO HP - CUS TORINO
+UID:70a51fc6-cf52-42c3-a3fb-d3133fac2dfc@70a5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 5\nGara 909\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - BUTTERFLY ROMA
@@ -15,7 +22,7 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20260412T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 5 - CUS TORINO - BUTTERFLY ROMA
-UID:f7ab62fa-ec27-4be1-b453-9bee7be564ae@f7ab.org
+UID:98f7b94d-edca-4faa-9db6-a3676897fe31@98f7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 2\nGara 898\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - LAZIO HOCKEY
@@ -23,45 +30,7 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20260322T140000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 2 - CUS TORINO - LAZIO HOCKEY
-UID:4bb3d2c5-0a49-49f6-96d8-28b506655bca@4bb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 14\nGara 945\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HF LORENZONI
-GEO:45.033509;7.633384
-LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20260621T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 14 - CUS TORINO - HF LORENZONI
-UID:aebe2ecc-bbc8-4a3c-95bd-2883f8d3c46d@aebe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 2\nGara 898\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - LAZIO HOCKEY
-GEO:45.033509;7.633384
-LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20260322T140000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 2 - CUS TORINO - LAZIO HOCKEY
-UID:58e391ab-7f23-4673-bdf7-229154a20d11@58e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 14\nGara 945\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HF LORENZONI
-GEO:45.033509;7.633384
-LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20260621T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 14 - CUS TORINO - HF LORENZONI
-UID:4fbc0ed6-3030-42e0-83b7-f58094b72676@4fbc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 4\nGara 905\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - CUS TORINO
-LOCATION: Via Boccaccio\, snc Cernusco sul Naviglio
-DTSTART:20260329T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 4 - MILANO HP - CUS TORINO
-UID:da2e59d1-3bdc-42a0-ba61-0c1aaf372627@da2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 6\nGara 912\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - CUS TORINO
-LOCATION: VIA DEI SALINIERI\, 1\, 23 CAGLIARI
-DTSTART:20260419T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 6 - SG AMSICORA - CUS TORINO
-UID:67ee6313-6a63-4715-bee0-7e16400d549f@67ee.org
+UID:7f76e9ca-eeb6-41c8-9d6d-16d99204a47b@7f76.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 7\nGara 917\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - CUS TORINO
@@ -69,38 +38,30 @@ GEO:44.702544;7.836095
 LOCATION:49\, Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260426T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 7 - HF LORENZONI - CUS TORINO
-UID:1157ed6a-985c-4c89-af55-66a20e21d67d@1157.org
+UID:e1329af8-4bc4-458b-bb72-8dfcc7253779@e132.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 4\nGara 905\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - CUS TORINO
-LOCATION: Via Boccaccio\, snc Cernusco sul Naviglio
-DTSTART:20260329T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 4 - MILANO HP - CUS TORINO
-UID:1a7343a2-b695-48b7-8e60-44d3bb365f5d@1a73.org
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 10\nGara 928\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT FEMM BOLOGNA - CUS TORINO
+LOCATION: Bologna - VIA SANZIO\, 8\, 2 Bologna
+DTSTART:20260517T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 10 - HT FEMM BOLOGNA - CUS TORINO
+UID:60f8c68c-6285-4c68-b327-2e1b454a9292@60f8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 8\nGara 922\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - UH CAPITOLINA
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 13\nGara 940\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - SG AMSICORA
 GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20260503T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 8 - CUS TORINO - UH CAPITOLINA
-UID:73367e94-b4eb-4abf-b805-e647ecc3318f@7336.org
+DTSTART:20260614T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 13 - CUS TORINO - SG AMSICORA
+UID:412c03ef-6034-44c8-900a-e938e9850abf@412c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 3\nGara 900\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HT FEMM BOLOGNA
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 14\nGara 945\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HF LORENZONI
 GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20260328T143000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 3 - CUS TORINO - HT FEMM BOLOGNA
-UID:741a013d-5a62-403f-a967-febb518aaf5c@741a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 5\nGara 909\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - BUTTERFLY ROMA
-GEO:45.033509;7.633384
-LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20260412T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 5 - CUS TORINO - BUTTERFLY ROMA
-UID:64828d27-c238-4beb-9cd0-be5ecafe516c@6482.org
+DTSTART:20260621T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 14 - CUS TORINO - HF LORENZONI
+UID:69cde09e-7c66-4dfa-a41b-2cd3eb74eb3d@69cd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 1\nGara 894\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - CUS TORINO
@@ -108,22 +69,22 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20260315T140000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 1 - UH CAPITOLINA - CUS TORINO
-UID:82c274b4-5ffe-4ae7-bf5f-6d55dcb69b44@82c2.org
+UID:c2e8829d-a26e-495e-9122-38e89ad6098c@c2e8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 10\nGara 928\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT FEMM BOLOGNA - CUS TORINO
-LOCATION: Bologna - VIA SANZIO\, 8\, 2 Bologna
-DTSTART:20260517T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 10 - HT FEMM BOLOGNA - CUS TORINO
-UID:dd9541a6-fc44-433b-a04c-e9deba7147ae@dd95.org
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 4\nGara 905\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - CUS TORINO
+LOCATION: Via Boccaccio\, snc Cernusco sul Naviglio
+DTSTART:20260329T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 4 - MILANO HP - CUS TORINO
+UID:2bad5f83-e1cf-4e62-b8d8-a441e76f2762@2bad.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 11\nGara 933\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - MILANO HP
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 14\nGara 945\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HF LORENZONI
 GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20260531T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 11 - CUS TORINO - MILANO HP
-UID:32923e99-1c0a-4d2d-aa96-eead61657306@3292.org
+DTSTART:20260621T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 14 - CUS TORINO - HF LORENZONI
+UID:c69aa308-d561-4836-9631-9cce182a8d3b@c69a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 3\nGara 900\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HT FEMM BOLOGNA
@@ -131,7 +92,100 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20260328T143000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 3 - CUS TORINO - HT FEMM BOLOGNA
-UID:40ae8751-2f0f-47d7-93a5-a56d42ca1b7b@40ae.org
+UID:50d78676-cfa2-4d36-8350-17137c7d19e7@50d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 6\nGara 912\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - CUS TORINO
+LOCATION: VIA DEI SALINIERI\, 1\, 23 CAGLIARI
+DTSTART:20260419T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 6 - SG AMSICORA - CUS TORINO
+UID:d1f515eb-5ebd-4529-82c0-bb6ae1759119@d1f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 2\nGara 898\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - LAZIO HOCKEY
+GEO:45.033509;7.633384
+LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
+DTSTART:20260322T140000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 2 - CUS TORINO - LAZIO HOCKEY
+UID:f04b1e01-20e9-45bb-ac54-50789d487d5f@f04b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 3\nGara 900\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HT FEMM BOLOGNA
+GEO:45.033509;7.633384
+LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
+DTSTART:20260328T143000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 3 - CUS TORINO - HT FEMM BOLOGNA
+UID:3216a057-835b-4cbb-a439-a89ab85a4d41@3216.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 7\nGara 917\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - CUS TORINO
+GEO:44.702544;7.836095
+LOCATION:49\, Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260426T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 7 - HF LORENZONI - CUS TORINO
+UID:cf663d80-5970-4747-8f38-e38df4ee313d@cf66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 9\nGara 926\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - CUS TORINO
+GEO:41.839466;12.473159
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260510T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 9 - LAZIO HOCKEY - CUS TORINO
+UID:44f6457d-1700-4acb-bc30-1448eeb73208@44f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 10\nGara 928\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT FEMM BOLOGNA - CUS TORINO
+LOCATION: Bologna - VIA SANZIO\, 8\, 2 Bologna
+DTSTART:20260517T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 10 - HT FEMM BOLOGNA - CUS TORINO
+UID:85413986-53cd-4548-8c9a-646fa424d47d@8541.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 12\nGara 937\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - CUS TORINO
+GEO:41.931774;12.486216
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260607T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 12 - BUTTERFLY ROMA - CUS TORINO
+UID:1a7d0604-3a3c-468d-b833-007925db23fe@1a7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 6\nGara 912\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - CUS TORINO
+LOCATION: VIA DEI SALINIERI\, 1\, 23 CAGLIARI
+DTSTART:20260419T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 6 - SG AMSICORA - CUS TORINO
+UID:1695fc2d-f403-4557-82e8-912d9602cac4@1695.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 13\nGara 940\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - SG AMSICORA
+GEO:45.033509;7.633384
+LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
+DTSTART:20260614T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 13 - CUS TORINO - SG AMSICORA
+UID:f264bee0-78a0-4fd4-bd4a-b517eb46544a@f264.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 12\nGara 937\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - CUS TORINO
+GEO:41.931774;12.486216
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260607T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 12 - BUTTERFLY ROMA - CUS TORINO
+UID:db753dd7-c956-48c9-96b4-ae82c620a536@db75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 9\nGara 926\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - CUS TORINO
+GEO:41.839466;12.473159
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260510T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 9 - LAZIO HOCKEY - CUS TORINO
+UID:15df9598-a668-4120-96dd-c37f4db1222f@15df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 5\nGara 909\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - BUTTERFLY ROMA
+GEO:45.033509;7.633384
+LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
+DTSTART:20260412T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 5 - CUS TORINO - BUTTERFLY ROMA
+UID:fb4ae912-1292-428f-a364-442b453d8808@fb4a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 8\nGara 922\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - UH CAPITOLINA
@@ -139,54 +193,7 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20260503T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 8 - CUS TORINO - UH CAPITOLINA
-UID:ef621943-ae8f-4183-be37-f3837b7ff841@ef62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 10\nGara 928\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT FEMM BOLOGNA - CUS TORINO
-LOCATION: Bologna - VIA SANZIO\, 8\, 2 Bologna
-DTSTART:20260517T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 10 - HT FEMM BOLOGNA - CUS TORINO
-UID:71d719f1-f9a2-481f-b1c6-e67d98157fbb@71d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 13\nGara 940\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - SG AMSICORA
-GEO:45.033509;7.633384
-LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20260614T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 13 - CUS TORINO - SG AMSICORA
-UID:a1a4a154-e4f4-46ac-af44-78f40e88cffe@a1a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 12\nGara 937\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - CUS TORINO
-GEO:41.931774;12.486216
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260607T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 12 - BUTTERFLY ROMA - CUS TORINO
-UID:522528fb-0316-485d-99c7-e345779c97ef@5225.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 13\nGara 940\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - SG AMSICORA
-GEO:45.033509;7.633384
-LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20260614T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 13 - CUS TORINO - SG AMSICORA
-UID:5f0f43d3-b633-498f-b7df-3c504abd63cf@5f0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 9\nGara 926\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - CUS TORINO
-GEO:41.839466;12.473159
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260510T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 9 - LAZIO HOCKEY - CUS TORINO
-UID:560075cd-53be-4309-8bef-7b1cd1f75dc5@5600.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 9\nGara 926\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - CUS TORINO
-GEO:41.839466;12.473159
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260510T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 9 - LAZIO HOCKEY - CUS TORINO
-UID:191d52b7-721d-41ea-8cdb-e269d3971c28@191d.org
+UID:fd15476a-5979-4644-98f0-15ec43fe2ed4@fd15.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 11\nGara 933\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - MILANO HP
@@ -194,21 +201,14 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20260531T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 11 - CUS TORINO - MILANO HP
-UID:af6b524c-061a-4b48-9f46-1be6c677b753@af6b.org
+UID:7206e85a-6f13-4f02-985b-fa0f386b6705@7206.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 12\nGara 937\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - CUS TORINO
-GEO:41.931774;12.486216
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260607T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 12 - BUTTERFLY ROMA - CUS TORINO
-UID:8445d8c5-d17b-4afd-94b9-21a234997d75@8445.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 6\nGara 912\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - CUS TORINO
-LOCATION: VIA DEI SALINIERI\, 1\, 23 CAGLIARI
-DTSTART:20260419T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 6 - SG AMSICORA - CUS TORINO
-UID:190386a0-a400-4e94-8fa2-055b67d0122d@1903.org
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 8\nGara 922\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - UH CAPITOLINA
+GEO:45.033509;7.633384
+LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
+DTSTART:20260503T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 8 - CUS TORINO - UH CAPITOLINA
+UID:49b3c9e2-6257-4ead-b97a-079292ea2a3c@49b3.org
 END:VEVENT
 END:VCALENDAR
