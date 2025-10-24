@@ -36,7 +36,7 @@ Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 
-## Dom 26/10/2025 18.00
+## Sab 28/02/2026 10.00
 
 <strong>HC GENOVA - GENOVA H 1980</strong>
 

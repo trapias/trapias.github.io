@@ -6,6 +6,8 @@
 
 <strong>CUS CAGLIARI - POLISPORTIVA FERRINI</strong>
 
+**Risultato: 3-2**
+
 Giornata: Gara 120
 
 Campo: A. Maxia 
@@ -21,6 +23,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 ## Gio 23/10/2025 19.30
 
 <strong>HT SARDEGNA - A.S.D. POLISPORTIVA JUVENILIA</strong>
+
+**Risultato: 2-0**
 
 Giornata: Gara 121
 
