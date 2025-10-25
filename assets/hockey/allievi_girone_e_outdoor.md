@@ -30,8 +30,10 @@ Campo: Cittadella Universitaria
 
 Indirizzo Campo:  Viale Annunziata, snc - Messina
 
-Location:  Viale Annunziata, snc Messina
-Location:  Viale Annunziata, snc Messina
+Location: Viale Giovanni Palatucci, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.2255449, longitude=15.5532721)
+Location: Viale Giovanni Palatucci, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.2255449, longitude=15.5532721)
 
 
 

@@ -14,8 +14,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 ## Sab 27/09/2025 16.00
@@ -47,8 +49,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 ## Dom 05/10/2025 12.00
@@ -82,8 +86,10 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
 ## Sab 25/10/2025 17.30
@@ -96,8 +102,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 
@@ -127,8 +135,10 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
 
@@ -144,8 +154,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 ## Dom 16/11/2025 13.30
@@ -158,8 +170,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 
@@ -175,8 +189,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 ## Dom 08/03/2026 11.00
@@ -208,8 +224,10 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
 ## Sab 21/03/2026 16.00
@@ -222,8 +240,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 
@@ -272,8 +292,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 ## Sab 25/04/2026 16.00
@@ -305,8 +327,10 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
 ## Dom 03/05/2026 11.00

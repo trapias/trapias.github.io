@@ -12,6 +12,8 @@ Campo: PINO PALMIERI
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
-Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7046812, longitude=7.8430689)
+Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 

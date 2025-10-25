@@ -30,8 +30,10 @@ Campo: Campo Sportivo Augusto Briano
 
 Indirizzo Campo:  Via Santuario, snc - Savona
 
-Location:  Via Santuario, snc Savona
-Location:  Via Santuario, snc Savona
+Location: Via Santuario, Lavagnola, Savona, Liguria, 17100, Italia
+Geo: Geo(latitude=44.3230861, longitude=8.464578)
+Location: Via Santuario, Lavagnola, Savona, Liguria, 17100, Italia
+Geo: Geo(latitude=44.3230861, longitude=8.464578)
 
 
 
@@ -164,8 +166,10 @@ Campo: Campo Sportivo Augusto Briano
 
 Indirizzo Campo:  Via Santuario, snc - Savona
 
-Location:  Via Santuario, snc Savona
-Location:  Via Santuario, snc Savona
+Location: Via Santuario, Lavagnola, Savona, Liguria, 17100, Italia
+Geo: Geo(latitude=44.3230861, longitude=8.464578)
+Location: Via Santuario, Lavagnola, Savona, Liguria, 17100, Italia
+Geo: Geo(latitude=44.3230861, longitude=8.464578)
 
 
 ## Sab 11/10/2025 16.00
@@ -217,6 +221,8 @@ Campo: Campo Sportivo Augusto Briano
 
 Indirizzo Campo:  Via Santuario, snc - Savona
 
-Location:  Via Santuario, snc Savona
-Location:  Via Santuario, snc Savona
+Location: Via Santuario, Lavagnola, Savona, Liguria, 17100, Italia
+Geo: Geo(latitude=44.3230861, longitude=8.464578)
+Location: Via Santuario, Lavagnola, Savona, Liguria, 17100, Italia
+Geo: Geo(latitude=44.3230861, longitude=8.464578)
 

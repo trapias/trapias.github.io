@@ -28,10 +28,10 @@ Campo: Augusto Lorenzoni
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7025438, longitude=7.8360955)
-Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 
 ## Dom 28/06/2026 11.00
@@ -44,8 +44,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 ## Dom 28/06/2026 11.00
@@ -58,8 +60,10 @@ Campo: Campo Hockey Club Riva
 
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
-Location:  Via Mazzoldi, snc Riva del Garda
-Location:  Via Mazzoldi, snc Riva del Garda
+Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
+Geo: Geo(latitude=45.8882504, longitude=10.8629194)
+Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
+Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 
 ## Dom 28/06/2026 11.00
@@ -104,10 +108,10 @@ Campo: FIESCHI STADIUM
 
 Indirizzo Campo:  VIA FIESCHI, 20 - GENOVA
 
-Location: 20, Via Fieschi, Sant'Andrea, Portoria, Centro Est, Genova, Liguria, 16128, Italia
-Geo: Geo(latitude=44.4031734, longitude=8.935421)
-Location: 20, Via Fieschi, Sant'Andrea, Portoria, Centro Est, Genova, Liguria, 16128, Italia
-Geo: Geo(latitude=44.4031734, longitude=8.935421)
+Location: 20 rosso, Via Fieschi, Sant'Andrea, Portoria, Centro Est, Genova, Liguria, 16128, Italia
+Geo: Geo(latitude=44.4058513, longitude=8.9372219)
+Location: 20 rosso, Via Fieschi, Sant'Andrea, Portoria, Centro Est, Genova, Liguria, 16128, Italia
+Geo: Geo(latitude=44.4058513, longitude=8.9372219)
 
 
 ## Dom 28/06/2026 11.00
@@ -152,8 +156,10 @@ Campo: STADIO HOCKEY POTENZA PICENA
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
+Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
+Geo: Geo(latitude=43.3863999, longitude=13.6546703)
+Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
+Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
 ## Dom 28/06/2026 11.00
@@ -182,10 +188,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
 ## Dom 28/06/2026 11.00
@@ -228,8 +234,10 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 ## Dom 28/06/2026 11.00
@@ -258,8 +266,10 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
-Location:  Via dei Gladioli, snc Avezzano
-Location:  Via dei Gladioli, snc Avezzano
+Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
+Geo: Geo(latitude=42.0432315, longitude=13.437583)
+Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
+Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 
 ## Dom 28/06/2026 11.00
@@ -302,8 +312,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 ## Dom 28/06/2026 11.00
@@ -393,9 +405,9 @@ Campo: CENTRO GIULIO ONESTI
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
 ## Dom 28/06/2026 11.00
@@ -408,8 +420,10 @@ Campo: Lido Policoro
 
 Indirizzo Campo:  Via Lido, snc - Policoro
 
-Location:  Via Lido, snc Policoro
-Location:  Via Lido, snc Policoro
+Location: Via del Lido, Policoro, Matera, Basilicata, 75025, Italia
+Geo: Geo(latitude=40.2074524, longitude=16.6862181)
+Location: Via del Lido, Policoro, Matera, Basilicata, 75025, Italia
+Geo: Geo(latitude=40.2074524, longitude=16.6862181)
 
 
 ## Dom 28/06/2026 11.00
@@ -452,8 +466,8 @@ Campo: Augusto Lorenzoni
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7025438, longitude=7.8360955)
-Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 

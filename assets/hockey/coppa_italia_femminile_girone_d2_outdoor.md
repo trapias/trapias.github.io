@@ -14,8 +14,10 @@ Campo: STADIO HOCKEY POTENZA PICENA
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
+Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
+Geo: Geo(latitude=43.3863999, longitude=13.6546703)
+Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
+Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
 
@@ -33,10 +35,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
 
@@ -96,8 +98,10 @@ Campo: STADIO HOCKEY POTENZA PICENA
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
-Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
+Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
+Geo: Geo(latitude=43.3863999, longitude=13.6546703)
+Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
+Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
 
@@ -115,8 +119,8 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 

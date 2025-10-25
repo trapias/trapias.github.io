@@ -14,8 +14,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 
@@ -54,8 +56,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 
@@ -94,8 +98,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 
@@ -113,6 +119,8 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 

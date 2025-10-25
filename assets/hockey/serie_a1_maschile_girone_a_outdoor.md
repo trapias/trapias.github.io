@@ -42,8 +42,10 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location:  VIA S. EMILIANO, snc Uras
-Location:  VIA S. EMILIANO, snc Uras
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
 
@@ -59,8 +61,10 @@ Campo: CAMPI SPORTIVI 'SA DUCHESSA'
 
 Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
-Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
-Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
+Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
+Geo: Geo(latitude=39.2289643, longitude=9.1111611)
+Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
+Geo: Geo(latitude=39.2289643, longitude=9.1111611)
 
 
 ## Sab 21/03/2026 14.30
@@ -108,8 +112,10 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location:  VIA S. EMILIANO, snc Uras
-Location:  VIA S. EMILIANO, snc Uras
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
 ## Sab 28/03/2026 15.00
@@ -155,8 +161,10 @@ Campo: CAMPI SPORTIVI 'SA DUCHESSA'
 
 Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
-Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
-Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
+Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
+Geo: Geo(latitude=39.2289643, longitude=9.1111611)
+Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
+Geo: Geo(latitude=39.2289643, longitude=9.1111611)
 
 
 ## Sab 11/04/2026 15.00
@@ -169,8 +177,10 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location:  VIA S. EMILIANO, snc Uras
-Location:  VIA S. EMILIANO, snc Uras
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
 ## Sab 11/04/2026 15.00
@@ -202,8 +212,10 @@ Campo: CAMPI SPORTIVI 'SA DUCHESSA'
 
 Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
-Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
-Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
+Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
+Geo: Geo(latitude=39.2289643, longitude=9.1111611)
+Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
+Geo: Geo(latitude=39.2289643, longitude=9.1111611)
 
 
 ## Sab 18/04/2026 15.00
@@ -251,8 +263,10 @@ Campo: CAMPI SPORTIVI 'SA DUCHESSA'
 
 Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
-Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
-Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
+Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
+Geo: Geo(latitude=39.2289643, longitude=9.1111611)
+Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
+Geo: Geo(latitude=39.2289643, longitude=9.1111611)
 
 
 ## Sab 25/04/2026 14.30
@@ -330,8 +344,10 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location:  VIA S. EMILIANO, snc Uras
-Location:  VIA S. EMILIANO, snc Uras
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
 
@@ -347,8 +363,10 @@ Campo: CAMPI SPORTIVI 'SA DUCHESSA'
 
 Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
-Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
-Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
+Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
+Geo: Geo(latitude=39.2289643, longitude=9.1111611)
+Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
+Geo: Geo(latitude=39.2289643, longitude=9.1111611)
 
 
 ## Sab 09/05/2026 15.00
@@ -475,6 +493,8 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location:  VIA S. EMILIANO, snc Uras
-Location:  VIA S. EMILIANO, snc Uras
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 

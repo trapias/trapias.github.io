@@ -12,8 +12,10 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 
 ## Dom 12/10/2025 11.00
@@ -63,8 +65,10 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
 
@@ -80,8 +84,10 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
 ## Dom 09/11/2025 13.00
@@ -129,8 +135,10 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
 
@@ -146,8 +154,10 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 
 ## Dom 19/04/2026 13.00
@@ -179,8 +189,10 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 
 ## Dom 03/05/2026 13.00

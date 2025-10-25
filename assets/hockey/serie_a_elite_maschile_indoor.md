@@ -315,8 +315,10 @@ Campo: Palestra Geodetica Cus Pisa
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location:  Via Chiarugi, 5 - Via Chiarugi, 5 Pisa
-Location:  Via Chiarugi, 5 - Via Chiarugi, 5 Pisa
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 
 ## Sab 17/01/2026 12.00
@@ -329,8 +331,10 @@ Campo: Palestra Geodetica Cus Pisa
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location:  Via Chiarugi, 5 - Via Chiarugi, 5 Pisa
-Location:  Via Chiarugi, 5 - Via Chiarugi, 5 Pisa
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 
 <!-- VALCHISONE_START -->
@@ -344,10 +348,12 @@ Campo: Palestra Geodetica Cus Pisa
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location:  Via Chiarugi, 5 - Via Chiarugi, 5 Pisa
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 <!-- VALCHISONE_END -->
 
-Location:  Via Chiarugi, 5 - Via Chiarugi, 5 Pisa
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 <!-- VALCHISONE_END -->
 
 
@@ -362,8 +368,10 @@ Campo: Palestra Geodetica Cus Pisa
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location:  Via Chiarugi, 5 - Via Chiarugi, 5 Pisa
-Location:  Via Chiarugi, 5 - Via Chiarugi, 5 Pisa
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 
 ## Sab 17/01/2026 15.00
@@ -376,8 +384,10 @@ Campo: Palestra Geodetica Cus Pisa
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location:  Via Chiarugi, 5 - Via Chiarugi, 5 Pisa
-Location:  Via Chiarugi, 5 - Via Chiarugi, 5 Pisa
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 
 <!-- VALCHISONE_START -->
@@ -391,10 +401,12 @@ Campo: Palestra Geodetica Cus Pisa
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location:  Via Chiarugi, 5 - Via Chiarugi, 5 Pisa
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 <!-- VALCHISONE_END -->
 
-Location:  Via Chiarugi, 5 - Via Chiarugi, 5 Pisa
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 <!-- VALCHISONE_END -->
 
 
@@ -412,10 +424,10 @@ Campo: PALAZZETTO DELL SPORT
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6998177, longitude=7.8435162)
-Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6998177, longitude=7.8435162)
+Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6991506, longitude=7.84197)
+Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 
 <!-- VALCHISONE_START -->
@@ -429,12 +441,12 @@ Campo: PALAZZETTO DELL SPORT
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6998177, longitude=7.8435162)
+Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6991506, longitude=7.84197)
 <!-- VALCHISONE_END -->
 
-Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6998177, longitude=7.8435162)
+Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6991506, longitude=7.84197)
 <!-- VALCHISONE_END -->
 
 
@@ -449,10 +461,10 @@ Campo: PALAZZETTO DELL SPORT
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6998177, longitude=7.8435162)
-Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6998177, longitude=7.8435162)
+Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6991506, longitude=7.84197)
+Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 
 ## Sab 24/01/2026 14.00
@@ -465,10 +477,10 @@ Campo: PALAZZETTO DELL SPORT
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6998177, longitude=7.8435162)
-Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6998177, longitude=7.8435162)
+Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6991506, longitude=7.84197)
+Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 
 <!-- VALCHISONE_START -->
@@ -482,12 +494,12 @@ Campo: PALAZZETTO DELL SPORT
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6998177, longitude=7.8435162)
+Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6991506, longitude=7.84197)
 <!-- VALCHISONE_END -->
 
-Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6998177, longitude=7.8435162)
+Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6991506, longitude=7.84197)
 <!-- VALCHISONE_END -->
 
 
@@ -502,8 +514,8 @@ Campo: PALAZZETTO DELL SPORT
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6998177, longitude=7.8435162)
-Location: 31, Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6998177, longitude=7.8435162)
+Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6991506, longitude=7.84197)
+Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.6991506, longitude=7.84197)
 

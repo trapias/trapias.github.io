@@ -12,8 +12,10 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 ## Dom 15/03/2026 15.00
@@ -26,10 +28,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
 ## Dom 15/03/2026 15.00
@@ -58,8 +60,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 
@@ -75,8 +79,10 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
 ## Dom 22/03/2026 15.00
@@ -121,10 +127,10 @@ Campo: Augusto Lorenzoni
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7025438, longitude=7.8360955)
-Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 
 
@@ -156,10 +162,10 @@ Campo: Augusto Lorenzoni
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7025438, longitude=7.8360955)
-Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 
 ## Sab 28/03/2026 13.30
@@ -172,8 +178,10 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 ## Sab 28/03/2026 13.30
@@ -187,9 +195,9 @@ Campo: CENTRO GIULIO ONESTI
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
 
@@ -205,8 +213,10 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
 ## Dom 29/03/2026 15.00
@@ -219,8 +229,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 ## Dom 29/03/2026 15.00
@@ -233,8 +245,10 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 ## Dom 29/03/2026 15.00
@@ -248,9 +262,9 @@ Campo: CENTRO GIULIO ONESTI
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
 
@@ -266,10 +280,10 @@ Campo: Augusto Lorenzoni
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7025438, longitude=7.8360955)
-Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 
 ## Dom 12/04/2026 15.00
@@ -298,10 +312,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
 ## Dom 12/04/2026 15.00
@@ -314,8 +328,10 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
 
@@ -331,8 +347,10 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 ## Dom 19/04/2026 15.00
@@ -362,9 +380,9 @@ Campo: CENTRO GIULIO ONESTI
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
 ## Dom 19/04/2026 15.00
@@ -377,10 +395,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
 
@@ -396,8 +414,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 ## Dom 26/04/2026 15.00
@@ -410,10 +430,10 @@ Campo: Augusto Lorenzoni
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7025438, longitude=7.8360955)
-Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 
 ## Dom 26/04/2026 15.00
@@ -442,8 +462,10 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
 
@@ -460,9 +482,9 @@ Campo: CENTRO GIULIO ONESTI
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
 ## Dom 03/05/2026 15.00
@@ -475,10 +497,10 @@ Campo: Augusto Lorenzoni
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7025438, longitude=7.8360955)
-Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 
 ## Dom 03/05/2026 15.00
@@ -507,8 +529,10 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
 
@@ -524,8 +548,10 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 ## Dom 10/05/2026 15.00
@@ -538,8 +564,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 ## Dom 10/05/2026 15.00
@@ -552,10 +580,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
 ## Dom 10/05/2026 15.00
@@ -569,9 +597,9 @@ Campo: CENTRO GIULIO ONESTI
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
 
@@ -587,8 +615,10 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
 ## Dom 17/05/2026 15.00
@@ -601,8 +631,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 ## Dom 17/05/2026 15.00
@@ -615,10 +647,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
 ## Dom 17/05/2026 15.00
@@ -650,10 +682,10 @@ Campo: Augusto Lorenzoni
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7025438, longitude=7.8360955)
-Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 
 ## Dom 31/05/2026 15.00
@@ -698,10 +730,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
 
@@ -717,8 +749,10 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 ## Dom 07/06/2026 15.00
@@ -732,9 +766,9 @@ Campo: CENTRO GIULIO ONESTI
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
 ## Dom 07/06/2026 15.00
@@ -747,8 +781,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 ## Dom 07/06/2026 15.00
@@ -796,10 +832,10 @@ Campo: Augusto Lorenzoni
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7025438, longitude=7.8360955)
-Location: 49, Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7025438, longitude=7.8360955)
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 
 ## Dom 14/06/2026 15.00
@@ -812,8 +848,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 ## Dom 14/06/2026 15.00
@@ -826,8 +864,10 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
 
@@ -843,8 +883,10 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 ## Dom 21/06/2026 15.00
@@ -873,10 +915,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
 ## Dom 21/06/2026 15.00
@@ -890,7 +932,7 @@ Campo: CENTRO GIULIO ONESTI
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 

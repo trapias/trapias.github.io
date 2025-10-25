@@ -3,25 +3,11 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Femminile  - Girone B2 / Giornata 3\nGara 75\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHOCKEY CLUB ARGENTIA - MILANO HP\n\nRisultato: 0-2
-LOCATION: Via Boccaccio\, snc Cernusco sul Naviglio
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20250928T130000Z
 SUMMARY:Coppa Italia Femminile  - Girone B2 / Giornata 3 - HOCKEY CLUB ARGENTIA - MILANO HP
-UID:7fd7e72b-44d0-4f34-a882-d43f78f8ad1f@7fd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Femminile  - Girone B2 / Giornata 5\nGara 77\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHOCKEY CLUB ARGENTIA - ASD XENEIZE HC\n\nRisultato: 4-0
-LOCATION: Via Boccaccio\, snc Cernusco sul Naviglio
-DTSTART:20251003T180000Z
-SUMMARY:Coppa Italia Femminile  - Girone B2 / Giornata 5 - HOCKEY CLUB ARGENTIA - ASD XENEIZE HC
-UID:84c31d07-39a1-4fca-a849-280741e1b75a@84c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Femminile  - Girone B2 / Giornata 4\nGara 76\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nASD XENEIZE HC - MILANO HP\n\nRisultato: 0-7
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20251005T110000Z
-SUMMARY:Coppa Italia Femminile  - Girone B2 / Giornata 4 - ASD XENEIZE HC - MILANO HP
-UID:5779d50d-2635-4333-963f-c88bc4e7338e@5779.org
+UID:99dbe8fc-463e-4468-b491-a01fb32555af@99db.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Femminile  - Girone B2 / Giornata 2\nGara 74\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nASD XENEIZE HC - HOCKEY CLUB ARGENTIA\n\nRisultato: 0-5
@@ -29,64 +15,86 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20251012T143000Z
 SUMMARY:Coppa Italia Femminile  - Girone B2 / Giornata 2 - ASD XENEIZE HC - HOCKEY CLUB ARGENTIA
-UID:6543b1ef-3a26-43ba-8461-b26a103bd2ae@6543.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Femminile  - Girone B2 / Giornata 2\nGara 74\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nASD XENEIZE HC - HOCKEY CLUB ARGENTIA\n\nRisultato: 0-5
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20251012T143000Z
-SUMMARY:Coppa Italia Femminile  - Girone B2 / Giornata 2 - ASD XENEIZE HC - HOCKEY CLUB ARGENTIA
-UID:cc8224d3-de1d-405a-a42b-7fe9b207dc9e@cc82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Femminile  - Girone B2 / Giornata 1\nGara 73\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - ASD XENEIZE HC\n\nRisultato: 15-0
-LOCATION: Via Boccaccio\, snc Cernusco sul Naviglio
-DTSTART:20251011T140000Z
-SUMMARY:Coppa Italia Femminile  - Girone B2 / Giornata 1 - MILANO HP - ASD XENEIZE HC
-UID:a12f724d-7fba-41d5-a046-8df16466181e@a12f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Femminile  - Girone B2 / Giornata 6\nGara 78\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - HOCKEY CLUB ARGENTIA\n\nRisultato: 9-1
-LOCATION: Via Boccaccio\, snc Cernusco sul Naviglio
-DTSTART:20251019T130000Z
-SUMMARY:Coppa Italia Femminile  - Girone B2 / Giornata 6 - MILANO HP - HOCKEY CLUB ARGENTIA
-UID:54b2afc9-fd3f-483f-8d33-8baeaf349f76@54b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Femminile  - Girone B2 / Giornata 4\nGara 76\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nASD XENEIZE HC - MILANO HP\n\nRisultato: 0-7
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20251005T110000Z
-SUMMARY:Coppa Italia Femminile  - Girone B2 / Giornata 4 - ASD XENEIZE HC - MILANO HP
-UID:d7f4338d-ee35-4b37-bee8-7b04bf8f9a50@d7f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Femminile  - Girone B2 / Giornata 5\nGara 77\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHOCKEY CLUB ARGENTIA - ASD XENEIZE HC\n\nRisultato: 4-0
-LOCATION: Via Boccaccio\, snc Cernusco sul Naviglio
-DTSTART:20251003T180000Z
-SUMMARY:Coppa Italia Femminile  - Girone B2 / Giornata 5 - HOCKEY CLUB ARGENTIA - ASD XENEIZE HC
-UID:63c4364c-3cfe-424b-b9dc-bb42080da48f@63c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Femminile  - Girone B2 / Giornata 1\nGara 73\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - ASD XENEIZE HC\n\nRisultato: 15-0
-LOCATION: Via Boccaccio\, snc Cernusco sul Naviglio
-DTSTART:20251011T140000Z
-SUMMARY:Coppa Italia Femminile  - Girone B2 / Giornata 1 - MILANO HP - ASD XENEIZE HC
-UID:8869efcb-4a05-433f-a9c1-9dc67ab40086@8869.org
+UID:f4b9d176-cafc-4041-9fb5-5c9153fe24a8@f4b9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Femminile  - Girone B2 / Giornata 3\nGara 75\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHOCKEY CLUB ARGENTIA - MILANO HP\n\nRisultato: 0-2
-LOCATION: Via Boccaccio\, snc Cernusco sul Naviglio
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20250928T130000Z
 SUMMARY:Coppa Italia Femminile  - Girone B2 / Giornata 3 - HOCKEY CLUB ARGENTIA - MILANO HP
-UID:343aac84-9203-4827-88d1-f26ddcad43b3@343a.org
+UID:c16fe666-08f1-42a2-bf49-54c06d172e9b@c16f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Femminile  - Girone B2 / Giornata 5\nGara 77\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHOCKEY CLUB ARGENTIA - ASD XENEIZE HC\n\nRisultato: 4-0
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20251003T180000Z
+SUMMARY:Coppa Italia Femminile  - Girone B2 / Giornata 5 - HOCKEY CLUB ARGENTIA - ASD XENEIZE HC
+UID:531387df-9225-43c0-a7bf-fb24679cb649@5313.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Femminile  - Girone B2 / Giornata 4\nGara 76\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nASD XENEIZE HC - MILANO HP\n\nRisultato: 0-7
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20251005T110000Z
+SUMMARY:Coppa Italia Femminile  - Girone B2 / Giornata 4 - ASD XENEIZE HC - MILANO HP
+UID:1d0f0e5d-4a7b-4247-a013-21eb02032935@1d0f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Femminile  - Girone B2 / Giornata 6\nGara 78\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - HOCKEY CLUB ARGENTIA\n\nRisultato: 9-1
-LOCATION: Via Boccaccio\, snc Cernusco sul Naviglio
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20251019T130000Z
 SUMMARY:Coppa Italia Femminile  - Girone B2 / Giornata 6 - MILANO HP - HOCKEY CLUB ARGENTIA
-UID:bbfb6b25-c2cd-47fc-a594-c37f0e4e01e6@bbfb.org
+UID:d63892b3-bcb0-450b-a6df-b6dd275bde59@d638.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Femminile  - Girone B2 / Giornata 6\nGara 78\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - HOCKEY CLUB ARGENTIA\n\nRisultato: 9-1
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20251019T130000Z
+SUMMARY:Coppa Italia Femminile  - Girone B2 / Giornata 6 - MILANO HP - HOCKEY CLUB ARGENTIA
+UID:213c0b25-c9ca-4a99-9e99-77371d1902a7@213c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Femminile  - Girone B2 / Giornata 4\nGara 76\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nASD XENEIZE HC - MILANO HP\n\nRisultato: 0-7
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20251005T110000Z
+SUMMARY:Coppa Italia Femminile  - Girone B2 / Giornata 4 - ASD XENEIZE HC - MILANO HP
+UID:52a758c7-ec60-49d0-a844-a60e3a016689@52a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Femminile  - Girone B2 / Giornata 5\nGara 77\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHOCKEY CLUB ARGENTIA - ASD XENEIZE HC\n\nRisultato: 4-0
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20251003T180000Z
+SUMMARY:Coppa Italia Femminile  - Girone B2 / Giornata 5 - HOCKEY CLUB ARGENTIA - ASD XENEIZE HC
+UID:bd5d3e16-6870-4eee-b1a9-6876db44c256@bd5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Femminile  - Girone B2 / Giornata 1\nGara 73\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - ASD XENEIZE HC\n\nRisultato: 15-0
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20251011T140000Z
+SUMMARY:Coppa Italia Femminile  - Girone B2 / Giornata 1 - MILANO HP - ASD XENEIZE HC
+UID:e5f21081-08c8-4fe3-903b-820d4dea2bbe@e5f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Femminile  - Girone B2 / Giornata 2\nGara 74\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nASD XENEIZE HC - HOCKEY CLUB ARGENTIA\n\nRisultato: 0-5
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20251012T143000Z
+SUMMARY:Coppa Italia Femminile  - Girone B2 / Giornata 2 - ASD XENEIZE HC - HOCKEY CLUB ARGENTIA
+UID:2ba26572-f0d7-4cfc-8e31-afc034e62d44@2ba2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Femminile  - Girone B2 / Giornata 1\nGara 73\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - ASD XENEIZE HC\n\nRisultato: 15-0
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20251011T140000Z
+SUMMARY:Coppa Italia Femminile  - Girone B2 / Giornata 1 - MILANO HP - ASD XENEIZE HC
+UID:8857e961-c0f3-4e07-bf31-f110e3493006@8857.org
 END:VEVENT
 END:VCALENDAR

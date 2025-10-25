@@ -46,11 +46,11 @@ Campo: CAMPO HOCKEY SANDRO MICHELLONET
 Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.920878, longitude=7.24499)
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 <!-- VALCHISONE_END -->
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.920878, longitude=7.24499)
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 <!-- VALCHISONE_END -->
 
 
@@ -65,10 +65,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
 
@@ -84,8 +84,10 @@ Campo: PINO PALMIERI
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
-Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7046812, longitude=7.8430689)
+Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 
 ## Sab 14/03/2026 15.00
@@ -99,9 +101,9 @@ Campo: CENTRO GIULIO ONESTI
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
 ## Sab 14/03/2026 15.00
@@ -114,8 +116,10 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 
 <!-- VALCHISONE_START -->
@@ -129,10 +133,12 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 <!-- VALCHISONE_END -->
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 <!-- VALCHISONE_END -->
 
 
@@ -182,10 +188,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
 <!-- VALCHISONE_START -->
@@ -200,11 +206,11 @@ Campo: CAMPO HOCKEY SANDRO MICHELLONET
 Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.920878, longitude=7.24499)
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 <!-- VALCHISONE_END -->
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.920878, longitude=7.24499)
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 <!-- VALCHISONE_END -->
 
 
@@ -222,8 +228,10 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 ## Sab 28/03/2026 15.00
@@ -236,8 +244,10 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 
 ## Sab 28/03/2026 15.00
@@ -250,8 +260,10 @@ Campo: PINO PALMIERI
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
-Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7046812, longitude=7.8430689)
+Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 
 <!-- VALCHISONE_START -->
@@ -266,11 +278,11 @@ Campo: CENTRO GIULIO ONESTI
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 <!-- VALCHISONE_END -->
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 <!-- VALCHISONE_END -->
 
 
@@ -304,8 +316,10 @@ Campo: PINO PALMIERI
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
-Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7046812, longitude=7.8430689)
+Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 
 ## Sab 11/04/2026 15.00
@@ -318,8 +332,10 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 <!-- VALCHISONE_START -->
@@ -333,12 +349,12 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 <!-- VALCHISONE_END -->
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 <!-- VALCHISONE_END -->
 
 
@@ -357,9 +373,9 @@ Campo: CENTRO GIULIO ONESTI
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
 <!-- VALCHISONE_START -->
@@ -374,11 +390,11 @@ Campo: CAMPO HOCKEY SANDRO MICHELLONET
 Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.920878, longitude=7.24499)
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 <!-- VALCHISONE_END -->
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.920878, longitude=7.24499)
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 <!-- VALCHISONE_END -->
 
 
@@ -409,8 +425,10 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 
 
@@ -426,10 +444,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
 <!-- VALCHISONE_START -->
@@ -444,11 +462,11 @@ Campo: CAMPO HOCKEY SANDRO MICHELLONET
 Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.920878, longitude=7.24499)
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 <!-- VALCHISONE_END -->
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.920878, longitude=7.24499)
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 <!-- VALCHISONE_END -->
 
 
@@ -463,8 +481,10 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 ## Sab 25/04/2026 15.00
@@ -477,8 +497,10 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 
 
@@ -495,9 +517,9 @@ Campo: CENTRO GIULIO ONESTI
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
 ## Sab 02/05/2026 15.00
@@ -510,8 +532,10 @@ Campo: PINO PALMIERI
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
-Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7046812, longitude=7.8430689)
+Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 
 ## Sab 02/05/2026 15.00
@@ -524,8 +548,10 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 <!-- VALCHISONE_START -->
@@ -539,10 +565,12 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 <!-- VALCHISONE_END -->
 
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 <!-- VALCHISONE_END -->
 
 
@@ -592,10 +620,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
 <!-- VALCHISONE_START -->
@@ -610,11 +638,11 @@ Campo: CAMPO HOCKEY SANDRO MICHELLONET
 Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.920878, longitude=7.24499)
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 <!-- VALCHISONE_END -->
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.920878, longitude=7.24499)
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 <!-- VALCHISONE_END -->
 
 
@@ -632,8 +660,10 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 
 ## Sab 16/05/2026 15.00
@@ -646,8 +676,10 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 ## Sab 16/05/2026 15.00
@@ -661,9 +693,9 @@ Campo: CENTRO GIULIO ONESTI
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
 <!-- VALCHISONE_START -->
@@ -677,10 +709,12 @@ Campo: PINO PALMIERI
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 <!-- VALCHISONE_END -->
 
-Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 <!-- VALCHISONE_END -->
 
 
@@ -730,10 +764,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
 <!-- VALCHISONE_START -->
@@ -748,11 +782,11 @@ Campo: CAMPO HOCKEY SANDRO MICHELLONET
 Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.920878, longitude=7.24499)
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 <!-- VALCHISONE_END -->
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.920878, longitude=7.24499)
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 <!-- VALCHISONE_END -->
 
 
@@ -772,11 +806,11 @@ Campo: CAMPO HOCKEY SANDRO MICHELLONET
 Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.920878, longitude=7.24499)
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 <!-- VALCHISONE_END -->
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.920878, longitude=7.24499)
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 <!-- VALCHISONE_END -->
 
 
@@ -792,9 +826,9 @@ Campo: CENTRO GIULIO ONESTI
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
 ## Sab 06/06/2026 15.00
@@ -807,8 +841,10 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 
 ## Sab 06/06/2026 15.00
@@ -840,8 +876,10 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 ## Sab 13/06/2026 15.00
@@ -854,8 +892,10 @@ Campo: PINO PALMIERI
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
-Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7046812, longitude=7.8430689)
+Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 
 ## Sab 13/06/2026 15.00
@@ -868,10 +908,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
 <!-- VALCHISONE_START -->
@@ -909,9 +949,9 @@ Campo: CENTRO GIULIO ONESTI
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9317744, longitude=12.4862157)
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
 <!-- VALCHISONE_START -->
@@ -945,8 +985,10 @@ Campo: PINO PALMIERI
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
-Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
+Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7046812, longitude=7.8430689)
+Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 
 ## Sab 20/06/2026 15.00

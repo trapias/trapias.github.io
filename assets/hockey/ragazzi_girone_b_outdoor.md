@@ -101,8 +101,10 @@ Campo: Campo Ass. R. Fincantieri
 
 Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
 
-Location:  Via Atleti Azzurri  d'Italia, snc Monfalcone
-Location:  Via Atleti Azzurri  d'Italia, snc Monfalcone
+Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
+Geo: Geo(latitude=45.8010363, longitude=13.5423352)
+Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
+Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 
 
 
@@ -207,8 +209,10 @@ Campo: Campo Ass. R. Fincantieri
 
 Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
 
-Location:  Via Atleti Azzurri  d'Italia, snc Monfalcone
-Location:  Via Atleti Azzurri  d'Italia, snc Monfalcone
+Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
+Geo: Geo(latitude=45.8010363, longitude=13.5423352)
+Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
+Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 
 
 
@@ -303,8 +307,10 @@ Campo: Campo Ass. R. Fincantieri
 
 Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
 
-Location:  Via Atleti Azzurri  d'Italia, snc Monfalcone
-Location:  Via Atleti Azzurri  d'Italia, snc Monfalcone
+Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
+Geo: Geo(latitude=45.8010363, longitude=13.5423352)
+Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
+Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 
 
 
@@ -371,8 +377,10 @@ Campo: Campo Ass. R. Fincantieri
 
 Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
 
-Location:  Via Atleti Azzurri  d'Italia, snc Monfalcone
-Location:  Via Atleti Azzurri  d'Italia, snc Monfalcone
+Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
+Geo: Geo(latitude=45.8010363, longitude=13.5423352)
+Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
+Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 
 
 ## Dom 19/04/2026 11.00
@@ -499,6 +507,8 @@ Campo: Campo Ass. R. Fincantieri
 
 Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
 
-Location:  Via Atleti Azzurri  d'Italia, snc Monfalcone
-Location:  Via Atleti Azzurri  d'Italia, snc Monfalcone
+Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
+Geo: Geo(latitude=45.8010363, longitude=13.5423352)
+Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
+Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 

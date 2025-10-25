@@ -28,8 +28,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 ## Dom 28/06/2026 11.00
@@ -74,8 +76,10 @@ Campo: Campo Ass. R. Fincantieri
 
 Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
 
-Location:  Via Atleti Azzurri  d'Italia, snc Monfalcone
-Location:  Via Atleti Azzurri  d'Italia, snc Monfalcone
+Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
+Geo: Geo(latitude=45.8010363, longitude=13.5423352)
+Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
+Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 
 
 ## Dom 28/06/2026 11.00
@@ -88,8 +92,10 @@ Campo: Sport Arena
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
-Location:  Via Avvenire Paterlini, snc Reggio nell'Emilia
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 
 ## Dom 28/06/2026 11.00
@@ -134,8 +140,10 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location:  VIA S. EMILIANO, snc Uras
-Location:  VIA S. EMILIANO, snc Uras
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
 ## Dom 28/06/2026 13.00
@@ -148,8 +156,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 ## Dom 28/06/2026 11.00
@@ -163,9 +173,9 @@ Campo: CAMPO HOCKEY SANDRO MICHELLONET
 Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.920878, longitude=7.24499)
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.920878, longitude=7.24499)
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 
 ## Dom 28/06/2026 11.00
@@ -192,8 +202,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 ## Dom 28/06/2026 11.00
@@ -234,8 +246,10 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
 ## Dom 28/06/2026 12.00
@@ -248,8 +262,10 @@ Campo: CP BARCA
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
-Location:  Bologna - VIA SANZIO, 8, 2 Bologna
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
 ## Dom 28/06/2026 11.00
@@ -262,10 +278,10 @@ Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8394662, longitude=12.4731586)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
 ## Dom 28/06/2026 11.00
@@ -324,8 +340,10 @@ Campo: Lido Policoro
 
 Indirizzo Campo:  Via Lido, snc - Policoro
 
-Location:  Via Lido, snc Policoro
-Location:  Via Lido, snc Policoro
+Location: Via del Lido, Policoro, Matera, Basilicata, 75025, Italia
+Geo: Geo(latitude=40.2074524, longitude=16.6862181)
+Location: Via del Lido, Policoro, Matera, Basilicata, 75025, Italia
+Geo: Geo(latitude=40.2074524, longitude=16.6862181)
 
 
 ## Dom 28/06/2026 11.00
@@ -352,8 +370,10 @@ Campo: CAMPI SPORTIVI 'SA DUCHESSA'
 
 Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
-Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
-Location:  VIA IS MIRRIONIS, 3, 9 Cagliari
+Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
+Geo: Geo(latitude=39.2289643, longitude=9.1111611)
+Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
+Geo: Geo(latitude=39.2289643, longitude=9.1111611)
 
 
 ## Dom 28/06/2026 11.00

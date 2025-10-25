@@ -12,10 +12,10 @@ Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
-Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.2035542, longitude=9.1344185)
-Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2036883, longitude=9.1344264)
+Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 
 ## Sab 06/12/2025 12.00
@@ -28,10 +28,10 @@ Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
-Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.2035542, longitude=9.1344185)
-Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2036883, longitude=9.1344264)
+Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 
 ## Sab 06/12/2025 13.00
@@ -44,10 +44,10 @@ Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
-Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.2035542, longitude=9.1344185)
-Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2036883, longitude=9.1344264)
+Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 
 ## Sab 06/12/2025 14.00
@@ -60,10 +60,10 @@ Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
-Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.2035542, longitude=9.1344185)
-Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2036883, longitude=9.1344264)
+Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 
 ## Sab 06/12/2025 15.00
@@ -76,10 +76,10 @@ Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
-Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.2035542, longitude=9.1344185)
-Location: Via degli Sport, Monte Mixi, Bonaria, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.2035542, longitude=9.1344185)
+Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2036883, longitude=9.1344264)
+Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 
 

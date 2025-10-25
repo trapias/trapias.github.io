@@ -12,8 +12,10 @@ Campo: IMPIANTI SPORTIVI PARROCCHIALI
 
 Indirizzo Campo:  VIA ROMA, snc - Casale di Scodosia
 
-Location:  VIA ROMA, snc Casale di Scodosia
-Location:  VIA ROMA, snc Casale di Scodosia
+Location: Via Roma, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.1879168, longitude=11.4705266)
+Location: Via Roma, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.1879168, longitude=11.4705266)
 
 
 
@@ -29,8 +31,10 @@ Campo: IMPIANTI SPORTIVI PARROCCHIALI
 
 Indirizzo Campo:  VIA ROMA, snc - Casale di Scodosia
 
-Location:  VIA ROMA, snc Casale di Scodosia
-Location:  VIA ROMA, snc Casale di Scodosia
+Location: Via Roma, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.1879168, longitude=11.4705266)
+Location: Via Roma, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.1879168, longitude=11.4705266)
 
 
 
@@ -46,6 +50,8 @@ Campo: IMPIANTI SPORTIVI PARROCCHIALI
 
 Indirizzo Campo:  VIA ROMA, snc - Casale di Scodosia
 
-Location:  VIA ROMA, snc Casale di Scodosia
-Location:  VIA ROMA, snc Casale di Scodosia
+Location: Via Roma, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.1879168, longitude=11.4705266)
+Location: Via Roma, Casale di Scodosia, Padova, Veneto, 35040, Italia
+Geo: Geo(latitude=45.1879168, longitude=11.4705266)
 

@@ -89,8 +89,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 ## Sab 27/09/2025 15.00
@@ -142,8 +144,10 @@ Campo: Campo Ass. R. Fincantieri
 
 Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
 
-Location:  Via Atleti Azzurri  d'Italia, snc Monfalcone
-Location:  Via Atleti Azzurri  d'Italia, snc Monfalcone
+Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
+Geo: Geo(latitude=45.8010363, longitude=13.5423352)
+Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
+Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 
 
 ## Sab 11/10/2025 15.00
@@ -177,8 +181,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 ## Sab 18/10/2025 15.00
@@ -209,8 +215,10 @@ Campo: Campo Ass. R. Fincantieri
 
 Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
 
-Location:  Via Atleti Azzurri  d'Italia, snc Monfalcone
-Location:  Via Atleti Azzurri  d'Italia, snc Monfalcone
+Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
+Geo: Geo(latitude=45.8010363, longitude=13.5423352)
+Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
+Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 
 
 
@@ -246,8 +254,10 @@ Campo: Campo Comunale
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
-Location:  Via Boccaccio, snc Cernusco sul Naviglio
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 ## Sab 25/10/2025 15.00

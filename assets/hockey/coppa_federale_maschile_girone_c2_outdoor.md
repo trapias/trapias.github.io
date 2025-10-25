@@ -35,8 +35,10 @@ Campo: Campo Sportivo Comunale Hockey Loc. Cretara
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
-Location:  Via dei Gladioli, snc Avezzano
-Location:  Via dei Gladioli, snc Avezzano
+Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
+Geo: Geo(latitude=42.0432315, longitude=13.437583)
+Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
+Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 
 

@@ -32,8 +32,10 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location:  VIA S. EMILIANO, snc Uras
-Location:  VIA S. EMILIANO, snc Uras
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
 
@@ -51,8 +53,10 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location:  VIA S. EMILIANO, snc Uras
-Location:  VIA S. EMILIANO, snc Uras
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
 ## Sab 20/09/2025 15.00
@@ -67,8 +71,10 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 
@@ -104,8 +110,10 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 
@@ -139,8 +147,10 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 
@@ -158,8 +168,10 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location:  VIA S. EMILIANO, snc Uras
-Location:  VIA S. EMILIANO, snc Uras
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
 ## Sab 04/10/2025 14.30
@@ -174,8 +186,10 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 
@@ -211,8 +225,10 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location:  VIA S. EMILIANO, snc Uras
-Location:  VIA S. EMILIANO, snc Uras
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
 
@@ -230,8 +246,10 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location:  VIA S. EMILIANO, snc Uras
-Location:  VIA S. EMILIANO, snc Uras
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
 ## Dom 05/10/2025 10.30
@@ -246,8 +264,10 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 
@@ -265,8 +285,10 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location:  VIA S. EMILIANO, snc Uras
-Location:  VIA S. EMILIANO, snc Uras
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
 ## Sab 18/10/2025 15.00
@@ -281,8 +303,10 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 
@@ -300,8 +324,10 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location:  VIA S. EMILIANO, snc Uras
-Location:  VIA S. EMILIANO, snc Uras
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
 ## Sab 25/10/2025 15.00
@@ -316,8 +342,10 @@ Campo: AMSICORA
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
-Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 
@@ -333,8 +361,10 @@ Campo: Comunale Uras
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location:  VIA S. EMILIANO, snc Uras
-Location:  VIA S. EMILIANO, snc Uras
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
 ## Sab 01/11/2025 15.00

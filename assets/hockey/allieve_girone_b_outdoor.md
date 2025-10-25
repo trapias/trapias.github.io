@@ -46,8 +46,10 @@ Campo: Campo Hockey Club Riva
 
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
-Location:  Via Mazzoldi, snc Riva del Garda
-Location:  Via Mazzoldi, snc Riva del Garda
+Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
+Geo: Geo(latitude=45.8882504, longitude=10.8629194)
+Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
+Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 
 ## Dom 05/10/2025 13.00
@@ -62,8 +64,10 @@ Campo: Campo Hockey Club Riva
 
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
-Location:  Via Mazzoldi, snc Riva del Garda
-Location:  Via Mazzoldi, snc Riva del Garda
+Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
+Geo: Geo(latitude=45.8882504, longitude=10.8629194)
+Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
+Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 
 
@@ -79,8 +83,10 @@ Campo: Campo Hockey Club Riva
 
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
-Location:  Via Mazzoldi, snc Riva del Garda
-Location:  Via Mazzoldi, snc Riva del Garda
+Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
+Geo: Geo(latitude=45.8882504, longitude=10.8629194)
+Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
+Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 
 ## Dom 26/10/2025 13.00
@@ -93,8 +99,10 @@ Campo: Campo Hockey Club Riva
 
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
-Location:  Via Mazzoldi, snc Riva del Garda
-Location:  Via Mazzoldi, snc Riva del Garda
+Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
+Geo: Geo(latitude=45.8882504, longitude=10.8629194)
+Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
+Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 
 ## Dom 26/10/2025 11.00
@@ -335,8 +343,10 @@ Campo: Campo Hockey Club Riva
 
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
-Location:  Via Mazzoldi, snc Riva del Garda
-Location:  Via Mazzoldi, snc Riva del Garda
+Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
+Geo: Geo(latitude=45.8882504, longitude=10.8629194)
+Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
+Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 
 ## Dom 10/05/2026 13.00
@@ -349,8 +359,10 @@ Campo: Campo Hockey Club Riva
 
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
-Location:  Via Mazzoldi, snc Riva del Garda
-Location:  Via Mazzoldi, snc Riva del Garda
+Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
+Geo: Geo(latitude=45.8882504, longitude=10.8629194)
+Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
+Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 
 ## Dom 10/05/2026 11.00

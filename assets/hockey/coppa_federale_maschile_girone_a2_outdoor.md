@@ -32,8 +32,10 @@ Campo: Campo Giovanni Gondo
 
 Indirizzo Campo:  viale Kennedy, snc - Novara
 
-Location:  viale Kennedy, snc Novara
-Location:  viale Kennedy, snc Novara
+Location: Viale Kennedy, San Paolo, Novara, Piemonte, 28100, Italia
+Geo: Geo(latitude=45.4388788, longitude=8.599161)
+Location: Viale Kennedy, San Paolo, Novara, Piemonte, 28100, Italia
+Geo: Geo(latitude=45.4388788, longitude=8.599161)
 
 
 
@@ -90,8 +92,10 @@ Campo: Campo Giovanni Gondo
 
 Indirizzo Campo:  viale Kennedy, snc - Novara
 
-Location:  viale Kennedy, snc Novara
-Location:  viale Kennedy, snc Novara
+Location: Viale Kennedy, San Paolo, Novara, Piemonte, 28100, Italia
+Geo: Geo(latitude=45.4388788, longitude=8.599161)
+Location: Viale Kennedy, San Paolo, Novara, Piemonte, 28100, Italia
+Geo: Geo(latitude=45.4388788, longitude=8.599161)
 
 
 ## Sab 27/09/2025 15.00
@@ -166,8 +170,10 @@ Campo: Campo Giovanni Gondo
 
 Indirizzo Campo:  viale Kennedy, snc - Novara
 
-Location:  viale Kennedy, snc Novara
-Location:  viale Kennedy, snc Novara
+Location: Viale Kennedy, San Paolo, Novara, Piemonte, 28100, Italia
+Geo: Geo(latitude=45.4388788, longitude=8.599161)
+Location: Viale Kennedy, San Paolo, Novara, Piemonte, 28100, Italia
+Geo: Geo(latitude=45.4388788, longitude=8.599161)
 
 
 ## Sab 11/10/2025 14.00
