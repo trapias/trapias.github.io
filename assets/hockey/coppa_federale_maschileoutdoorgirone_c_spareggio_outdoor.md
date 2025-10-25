@@ -6,6 +6,8 @@
 
 <strong>HOCKEY CLUB OLIMPIA - HOCKEY CLUB ROMA</strong>
 
+**Risultato: 0-1**
+
 Giornata: Gara 211
 
 Campo: Sintetico Comunale 

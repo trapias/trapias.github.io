@@ -162,6 +162,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>POL GALATEA - PGS DON BOSCO 2000 ASD</strong>
 
+**Risultato: 9-0**
+
 Giornata: Gara 221
 
 Campo: DUSMET 

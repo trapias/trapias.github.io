@@ -354,6 +354,8 @@ Location:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia BRA  CN
 
 <strong>CUS PISA ASD - HP VALCHISONE</strong>
 
+**Risultato: 1-2**
+
 Giornata: Gara 157
 
 Campo: CAMPO HOCKEY PRATO 

@@ -238,6 +238,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>ASD CERNUSCO FIELD HOCKEY - A.R.FINCANTIERI A.S.D.</strong>
 
+**Risultato: 9-1**
+
 Giornata: Gara 204
 
 Campo: Campo Comunale 

@@ -197,6 +197,8 @@ Geo: Geo(latitude=41.8394662, longitude=12.4731586)
 
 <strong>H.POTENZA PICENA - BUTTERFLY ROMA</strong>
 
+**Risultato: 1-6**
+
 Giornata: Gara 110
 
 Campo: STADIO HOCKEY POTENZA PICENA 
@@ -210,6 +212,8 @@ Location:  CONTRADA SAN GIRIO, SNC Potenza Picena
 ## Sab 25/10/2025 15.00
 
 <strong>TEVERE EUR H - LAZIO HOCKEY</strong>
+
+**Risultato: 5-4**
 
 Giornata: Gara 111
 

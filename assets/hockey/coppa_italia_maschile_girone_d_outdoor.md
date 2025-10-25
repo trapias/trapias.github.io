@@ -292,6 +292,8 @@ Location:  VIA DEI SALINIERI, 1, 23 CAGLIARI
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA - POLISPORTIVA FERRINI</strong>
 
+**Risultato: 3-4**
+
 Giornata: Gara 136
 
 Campo: Comunale Uras 
@@ -305,6 +307,8 @@ Location:  VIA S. EMILIANO, snc Uras
 ## Sab 25/10/2025 15.00
 
 <strong>CUS CAGLIARI - SG AMSICORA</strong>
+
+**Risultato: 3-5**
 
 Giornata: Gara 137
 

@@ -2,19 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Femminile  - Girone A / Giornata 5\nGara 71\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - CUS TORINO\n\nRisultato: 1-3
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20251019T130000Z
+SUMMARY:Coppa Italia Femminile  - Girone A / Giornata 5 - HC GENOVA - CUS TORINO
+UID:903cbc41-7cd8-485b-93d3-4bb2db3f34df@903c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Femminile  - Girone A / Giornata 3\nGara 67\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - HF LORENZONI\n\nRisultato: 0-15
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20251005T130000Z
+SUMMARY:Coppa Italia Femminile  - Girone A / Giornata 3 - HC GENOVA - HF LORENZONI
+UID:b42b0129-f0f0-4b74-9dbe-866549ea182c@b42b.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Femminile  - Girone A / Giornata 2\nGara 66\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HC GENOVA
 LOCATION: Via Goria\, 4 Moncalvo
 DTSTART:20251026T150000Z
 SUMMARY:Coppa Italia Femminile  - Girone A / Giornata 2 - USD MONCALVESE HOCKEY - HC GENOVA
-UID:472b03ad-19f1-4b76-8399-7d9aaec5c4a9@472b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Femminile  - Girone A / Giornata 3\nGara 67\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - HF LORENZONI\n\nRisultato: 0-15
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20251005T130000Z
-SUMMARY:Coppa Italia Femminile  - Girone A / Giornata 3 - HC GENOVA - HF LORENZONI
-UID:5471a153-e1e1-4e5a-88db-0715a4a41685@5471.org
+UID:6bf190be-6f10-449f-8523-b9e46e2ef9d9@6bf1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Femminile  - Girone A / Giornata 5\nGara 71\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - CUS TORINO\n\nRisultato: 1-3
@@ -22,15 +30,7 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20251019T130000Z
 SUMMARY:Coppa Italia Femminile  - Girone A / Giornata 5 - HC GENOVA - CUS TORINO
-UID:c732614e-8fe2-490c-80e1-0331d7f31bb8@c732.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Femminile  - Girone A / Giornata 5\nGara 71\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - CUS TORINO\n\nRisultato: 1-3
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20251019T130000Z
-SUMMARY:Coppa Italia Femminile  - Girone A / Giornata 5 - HC GENOVA - CUS TORINO
-UID:3efd00d4-c8e3-4cc0-b80e-856ca97d9af2@3efd.org
+UID:e8bca778-1b8c-47d8-acc4-324eeafb09eb@e8bc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Femminile  - Girone A / Giornata 3\nGara 67\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - HF LORENZONI\n\nRisultato: 0-15
@@ -38,7 +38,7 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20251005T130000Z
 SUMMARY:Coppa Italia Femminile  - Girone A / Giornata 3 - HC GENOVA - HF LORENZONI
-UID:ebde87f7-1993-4987-8045-a6e54769848e@ebde.org
+UID:371854fe-6c79-4784-8068-dbf4ee509307@3718.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Femminile  - Girone A / Giornata 1\nGara 255\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI RIS. - HC GENOVA\n\nRisultato: 2-0
@@ -46,13 +46,13 @@ GEO:44.702544;7.836095
 LOCATION:49\, Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20250921T130000Z
 SUMMARY:Coppa Italia Femminile  - Girone A / Giornata 1 - HF LORENZONI RIS. - HC GENOVA
-UID:65e02e9b-6666-4617-9d2b-021481a4f16a@65e0.org
+UID:339ac2d8-c34b-4ff6-88b2-d5f66ceaeeca@339a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Femminile  - Girone A / Giornata 2\nGara 66\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HC GENOVA
 LOCATION: Via Goria\, 4 Moncalvo
 DTSTART:20251026T150000Z
 SUMMARY:Coppa Italia Femminile  - Girone A / Giornata 2 - USD MONCALVESE HOCKEY - HC GENOVA
-UID:30308bd7-f8d8-4bba-baf9-7cad2c3fddcf@3030.org
+UID:d2f1541c-964c-4758-837e-15c4c8a06567@d2f1.org
 END:VEVENT
 END:VCALENDAR

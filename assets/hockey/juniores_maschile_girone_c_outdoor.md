@@ -75,6 +75,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>GENOVA H 1980 U18 - ASD SUPERBA HC</strong>
 
+**Risultato: 3-3**
+
 Giornata: Gara 309
 
 Campo: CAMPO G.ARNALDI 
@@ -194,6 +196,8 @@ Location:  Via Santuario, snc Savona
 ## Sab 25/10/2025 09.00
 
 <strong>GENOVA H 1980 - ASD SUPERBA HC</strong>
+
+**Risultato: 2-55**
 
 Giornata: Gara 316
 

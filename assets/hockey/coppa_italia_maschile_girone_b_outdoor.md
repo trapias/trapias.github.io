@@ -440,6 +440,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>HOCKEY TEAM BOLOGNA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
 
+**Risultato: 1-1**
+
 Giornata: Gara 96
 
 Campo: CP BARCA 
@@ -453,6 +455,8 @@ Location:  Bologna - VIA SANZIO, 8, 2 Bologna
 ## Sab 25/10/2025 15.00
 
 <strong>ASD HOCKEY CLUB BONDENO - CSP SAN GIORGIO</strong>
+
+**Risultato: 4-0**
 
 Giornata: Gara 97
 
@@ -469,6 +473,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Sab 25/10/2025 15.00
 
 <strong>CUS PADOVA ASD - ASD ADIGE UHC</strong>
+
+**Risultato: 3-2**
 
 Giornata: Gara 168
 

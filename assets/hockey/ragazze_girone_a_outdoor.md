@@ -89,6 +89,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>USD MONCALVESE HOCKEY - HF LORENZONI</strong>
 
+**Risultato: 0-3**
+
 Giornata: Gara 668
 
 Campo: UMBERTO MICCO 
