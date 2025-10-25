@@ -2,20 +2,52 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 12\nGara 46\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - HC BRA
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260606T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 12 - BUTTERFLY ROMA - HC BRA
-UID:5d8f44c3-4a04-43b9-9b04-173ef073845b@5d8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 13\nGara 50\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - H CITTA' DEL TRICOLORE
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 8\nGara 30\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - POL FERRINI
 GEO:44.704681;7.843069
 LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260613T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 13 - HC BRA - H CITTA' DEL TRICOLORE
-UID:23b98b1e-bb5a-4742-a011-abc239dc661d@23b9.org
+DTSTART:20260502T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 8 - HC BRA - POL FERRINI
+UID:ce150f02-fed1-4850-a742-20c7de68fe74@ce15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 4\nGara 15\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - LAZIO HOCKEY
+GEO:44.704681;7.843069
+LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260328T140000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 4 - HC BRA - LAZIO HOCKEY
+UID:b9fc3197-65d7-4f5b-b899-e5461a5aa41e@b9fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 2\nGara 5\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - TEVERE EUR H
+GEO:44.704681;7.843069
+LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260314T140000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 2 - HC BRA - TEVERE EUR H
+UID:08363f5d-99c8-4041-8f9e-85d5f17410d4@0836.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 11\nGara 43\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - HC BRA
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20260530T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 11 - LAZIO HOCKEY - HC BRA
+UID:fd1ca20a-f484-4da6-adfb-110623580c81@fd1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 4\nGara 15\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - LAZIO HOCKEY
+GEO:44.704681;7.843069
+LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260328T140000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 4 - HC BRA - LAZIO HOCKEY
+UID:6f0cebcc-3709-407d-8fb0-f612a3822faf@6f0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 6\nGara 24\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nH CITTA' DEL TRICOLORE - HC BRA
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20260418T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 6 - H CITTA' DEL TRICOLORE - HC BRA
+UID:b50bf994-c1aa-43b9-a0ac-59cfb0229e62@b50b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 7\nGara 27\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HC BRA
@@ -23,103 +55,7 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20260425T130000Z
 SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 7 - SG AMSICORA - HC BRA
-UID:bed905b4-ddfe-40f8-98a1-71e92f738897@bed9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 3\nGara 12\nCAMPO HOCKEY SANDRO MICHELLONET - VIA DANTE ALIGHIERI\, 9 Villar Perosa\nHP VALCHISONE - HC BRA
-GEO:44.920693;7.244598
-LOCATION:Via Dante Alighieri\, Villaggio Operaio Giovanni Agnelli\, Saretto\, Villar Perosa\, Torino\, Piemonte\, 10069\, Italia
-DTSTART:20260321T140000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 3 - HP VALCHISONE - HC BRA
-UID:cc09a964-0dc7-458c-9f9d-1e64676dc0c0@cc09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 5\nGara 18\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - BUTTERFLY ROMA
-GEO:44.704681;7.843069
-LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260411T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 5 - HC BRA - BUTTERFLY ROMA
-UID:4545a313-caff-4b64-8839-298403670dc8@4545.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 14\nGara 55\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - SG AMSICORA
-GEO:44.704681;7.843069
-LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260620T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 14 - HC BRA - SG AMSICORA
-UID:9becea32-c9a3-4371-8caf-99b92668c659@9bec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 12\nGara 46\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - HC BRA
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260606T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 12 - BUTTERFLY ROMA - HC BRA
-UID:e66f82aa-d490-4940-8abb-43a57816b8d9@e66f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 8\nGara 30\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - POL FERRINI
-GEO:44.704681;7.843069
-LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260502T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 8 - HC BRA - POL FERRINI
-UID:507afaf8-187f-4366-8430-590d82ef5148@507a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 5\nGara 18\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - BUTTERFLY ROMA
-GEO:44.704681;7.843069
-LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260411T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 5 - HC BRA - BUTTERFLY ROMA
-UID:d5bc19ac-da11-4fbc-8bb4-12c7890c09e1@d5bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 11\nGara 43\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - HC BRA
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20260530T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 11 - LAZIO HOCKEY - HC BRA
-UID:1cfa9cb6-712c-4488-8fc0-d6247e437603@1cfa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 14\nGara 55\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - SG AMSICORA
-GEO:44.704681;7.843069
-LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260620T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 14 - HC BRA - SG AMSICORA
-UID:7f6c476b-755b-4766-81c4-4458fa0c1c90@7f6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 2\nGara 5\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - TEVERE EUR H
-GEO:44.704681;7.843069
-LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260314T140000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 2 - HC BRA - TEVERE EUR H
-UID:84031ea4-73da-48ad-b9cb-18331e45dca4@8403.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 4\nGara 15\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - LAZIO HOCKEY
-GEO:44.704681;7.843069
-LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260328T140000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 4 - HC BRA - LAZIO HOCKEY
-UID:be774c70-1779-440b-9953-bcfa64e641b1@be77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 2\nGara 5\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - TEVERE EUR H
-GEO:44.704681;7.843069
-LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260314T140000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 2 - HC BRA - TEVERE EUR H
-UID:0c69040e-4d68-4e1d-848e-df8afeb3b64d@0c69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 8\nGara 30\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - POL FERRINI
-GEO:44.704681;7.843069
-LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260502T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 8 - HC BRA - POL FERRINI
-UID:57c716d8-70f6-47f6-af29-defa77ea0516@57c7.org
+UID:d73aaa92-2646-4bc8-9166-8025e4ec670e@d73a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 13\nGara 50\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - H CITTA' DEL TRICOLORE
@@ -127,23 +63,47 @@ GEO:44.704681;7.843069
 LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260613T130000Z
 SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 13 - HC BRA - H CITTA' DEL TRICOLORE
-UID:a5aa4904-23d0-4919-917d-c3f85c01bfb7@a5aa.org
+UID:32d017f0-dd00-46e2-9659-cd33e855099d@32d0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 6\nGara 24\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nH CITTA' DEL TRICOLORE - HC BRA
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20260418T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 6 - H CITTA' DEL TRICOLORE - HC BRA
-UID:0d692f9a-640d-4ba0-8b8e-0355651693f1@0d69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 4\nGara 15\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - LAZIO HOCKEY
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 5\nGara 18\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - BUTTERFLY ROMA
 GEO:44.704681;7.843069
 LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260328T140000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 4 - HC BRA - LAZIO HOCKEY
-UID:577987fc-8880-453a-8673-ca319ef23da6@5779.org
+DTSTART:20260411T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 5 - HC BRA - BUTTERFLY ROMA
+UID:c1d0911e-fc3d-43e5-961f-b14e42af1958@c1d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 7\nGara 27\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HC BRA
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20260425T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 7 - SG AMSICORA - HC BRA
+UID:7e9824c4-3705-4715-9354-eb9dd128025c@7e98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 12\nGara 46\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - HC BRA
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260606T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 12 - BUTTERFLY ROMA - HC BRA
+UID:4ae24953-8df2-45f1-b710-b519f9112438@4ae2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 13\nGara 50\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - H CITTA' DEL TRICOLORE
+GEO:44.704681;7.843069
+LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260613T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 13 - HC BRA - H CITTA' DEL TRICOLORE
+UID:0dfe10a1-f3ed-40c9-8ec7-6d3515a8c4c9@0dfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 10\nGara 40\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - HP VALCHISONE
+GEO:44.704681;7.843069
+LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260516T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 10 - HC BRA - HP VALCHISONE
+UID:d6eb064f-e37e-4142-833d-f4bf82fa3a71@d6eb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 9\nGara 33\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - HC BRA
@@ -151,7 +111,39 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20260509T130000Z
 SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 9 - TEVERE EUR H - HC BRA
-UID:d0a45a35-6533-4348-91b4-e2ad747ddb50@d0a4.org
+UID:aa17cbc2-7ff6-4a5d-917f-292f4e7b0e04@aa17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 9\nGara 33\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - HC BRA
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260509T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 9 - TEVERE EUR H - HC BRA
+UID:c3a0ca27-cf21-4f2a-afdc-df1723f26220@c3a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 3\nGara 12\nCAMPO HOCKEY SANDRO MICHELLONET - VIA DANTE ALIGHIERI\, 9 Villar Perosa\nHP VALCHISONE - HC BRA
+GEO:44.920693;7.244598
+LOCATION:Via Dante Alighieri\, Villaggio Operaio Giovanni Agnelli\, Saretto\, Villar Perosa\, Torino\, Piemonte\, 10069\, Italia
+DTSTART:20260321T140000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 3 - HP VALCHISONE - HC BRA
+UID:12d2c874-f35c-4dc6-9bea-908470805d39@12d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 2\nGara 5\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - TEVERE EUR H
+GEO:44.704681;7.843069
+LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260314T140000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 2 - HC BRA - TEVERE EUR H
+UID:7e5ef255-4ad0-46e4-b1d1-f46ba8c0ee05@7e5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 12\nGara 46\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - HC BRA
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260606T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 12 - BUTTERFLY ROMA - HC BRA
+UID:01d59143-3eb9-441c-8b10-7a3a45e455b5@01d5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 11\nGara 43\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - HC BRA
@@ -159,23 +151,23 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20260530T130000Z
 SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 11 - LAZIO HOCKEY - HC BRA
-UID:d404880b-3f03-4962-9963-2e33e924048f@d404.org
+UID:5d783bba-ffc0-4d8a-b222-0e5808a0ede4@5d78.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 10\nGara 40\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - HP VALCHISONE
-GEO:44.704681;7.843069
-LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260516T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 10 - HC BRA - HP VALCHISONE
-UID:0f2ade31-56d6-40cb-bbf3-03c204454f34@0f2a.org
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 3\nGara 12\nCAMPO HOCKEY SANDRO MICHELLONET - VIA DANTE ALIGHIERI\, 9 Villar Perosa\nHP VALCHISONE - HC BRA
+GEO:44.920693;7.244598
+LOCATION:Via Dante Alighieri\, Villaggio Operaio Giovanni Agnelli\, Saretto\, Villar Perosa\, Torino\, Piemonte\, 10069\, Italia
+DTSTART:20260321T140000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 3 - HP VALCHISONE - HC BRA
+UID:9abd00f5-68ff-4304-9da9-102bd35f8d0f@9abd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 10\nGara 40\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - HP VALCHISONE
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 14\nGara 55\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - SG AMSICORA
 GEO:44.704681;7.843069
 LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260516T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 10 - HC BRA - HP VALCHISONE
-UID:00ccef58-88df-4649-8a36-6b7f2d9f620c@00cc.org
+DTSTART:20260620T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 14 - HC BRA - SG AMSICORA
+UID:9e883d62-01db-4a73-aa7d-5365b7fd292b@9e88.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 6\nGara 24\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nH CITTA' DEL TRICOLORE - HC BRA
@@ -183,7 +175,15 @@ GEO:44.708262;10.635422
 LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
 DTSTART:20260418T130000Z
 SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 6 - H CITTA' DEL TRICOLORE - HC BRA
-UID:afafd4c1-4ff3-4859-8d12-e2435f5f0759@afaf.org
+UID:e8ca6562-f6d0-4004-baa1-b478cd49c96a@e8ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 10\nGara 40\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - HP VALCHISONE
+GEO:44.704681;7.843069
+LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260516T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 10 - HC BRA - HP VALCHISONE
+UID:ba08857b-d330-44c3-b58c-3e247ea4e605@ba08.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 1\nGara 2\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOL FERRINI - HC BRA
@@ -191,30 +191,30 @@ GEO:39.235186;9.139409
 LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
 DTSTART:20260307T140000Z
 SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 1 - POL FERRINI - HC BRA
-UID:f98bf1a4-5f0c-434c-8bd7-bc30b08eb2d8@f98b.org
+UID:db80de1d-1477-4bd1-a4bc-35f5d4036496@db80.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 3\nGara 12\nCAMPO HOCKEY SANDRO MICHELLONET - VIA DANTE ALIGHIERI\, 9 Villar Perosa\nHP VALCHISONE - HC BRA
-GEO:44.920693;7.244598
-LOCATION:Via Dante Alighieri\, Villaggio Operaio Giovanni Agnelli\, Saretto\, Villar Perosa\, Torino\, Piemonte\, 10069\, Italia
-DTSTART:20260321T140000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 3 - HP VALCHISONE - HC BRA
-UID:2c89c7ac-2c9d-43c7-bbcf-6bc666f57931@2c89.org
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 5\nGara 18\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - BUTTERFLY ROMA
+GEO:44.704681;7.843069
+LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260411T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 5 - HC BRA - BUTTERFLY ROMA
+UID:ad5fa1bc-3e5e-4951-a1c2-2c49235e4280@ad5f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 7\nGara 27\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HC BRA
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260425T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 7 - SG AMSICORA - HC BRA
-UID:cbbb0ec4-b0ca-4fd4-bd20-f10663ca1167@cbbb.org
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 14\nGara 55\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - SG AMSICORA
+GEO:44.704681;7.843069
+LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260620T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 14 - HC BRA - SG AMSICORA
+UID:20cef96c-952e-4f9e-8c20-008c96998953@20ce.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 9\nGara 33\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - HC BRA
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260509T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 9 - TEVERE EUR H - HC BRA
-UID:224b2910-b641-4748-b89a-94be56e8b691@224b.org
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 8\nGara 30\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - POL FERRINI
+GEO:44.704681;7.843069
+LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260502T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 8 - HC BRA - POL FERRINI
+UID:7f2c5284-6645-4a8b-812d-dae45ef44e6b@7f2c.org
 END:VEVENT
 END:VCALENDAR
