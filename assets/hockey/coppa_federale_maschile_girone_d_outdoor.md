@@ -180,6 +180,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>VALVERDE HOCKEY 2018 - GRUPPO SPORTIVO M.SS: RACCOMANDATA</strong>
 
+**Risultato: 1-1**
+
 Giornata: Gara 222
 
 Campo: Comunale Valverde 

@@ -264,6 +264,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>HOCKEY CUSCUBE BRESCIA - HC GRANTORTO</strong>
 
+**Risultato: 0-3**
+
 Giornata: Gara 205
 
 Campo: Comunale San Polo 

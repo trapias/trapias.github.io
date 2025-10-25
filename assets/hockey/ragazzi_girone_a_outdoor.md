@@ -109,6 +109,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>SCUOLA HOCKEY INDER SINGH - HCU RASSEMBLEMENT TORINO</strong>
 
+**Risultato: 3-3**
+
 Giornata: Gara 687
 
 Campo: Augusto Lorenzoni 
