@@ -345,6 +345,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>HC BRA - A.S.D. S.H. PAOLO BONOMI</strong>
 
+**Risultato: 3-1**
+
 Giornata: Gara 156
 
 Campo: PINO PALMIERI 

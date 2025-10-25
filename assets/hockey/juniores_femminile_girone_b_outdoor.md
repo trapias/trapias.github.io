@@ -96,6 +96,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>MILANO HP - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 1-3**
+
 Giornata: Gara 385
 
 Campo: Campo Comunale 
