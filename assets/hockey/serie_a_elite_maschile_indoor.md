@@ -219,10 +219,12 @@ Campo: Palestra Adriano Bonini
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location:  Bondeno - Via Napoleonica, snc, snc Bondeno
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 <!-- VALCHISONE_END -->
 
-Location:  Bondeno - Via Napoleonica, snc, snc Bondeno
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 <!-- VALCHISONE_END -->
 
 
@@ -237,8 +239,10 @@ Campo: Palestra Adriano Bonini
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location:  Bondeno - Via Napoleonica, snc, snc Bondeno
-Location:  Bondeno - Via Napoleonica, snc, snc Bondeno
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
 ## Sab 20/12/2025 13.00
@@ -251,8 +255,10 @@ Campo: Palestra Adriano Bonini
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location:  Bondeno - Via Napoleonica, snc, snc Bondeno
-Location:  Bondeno - Via Napoleonica, snc, snc Bondeno
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
 <!-- VALCHISONE_START -->
@@ -266,10 +272,12 @@ Campo: Palestra Adriano Bonini
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location:  Bondeno - Via Napoleonica, snc, snc Bondeno
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 <!-- VALCHISONE_END -->
 
-Location:  Bondeno - Via Napoleonica, snc, snc Bondeno
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 <!-- VALCHISONE_END -->
 
 
@@ -284,8 +292,10 @@ Campo: Palestra Adriano Bonini
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location:  Bondeno - Via Napoleonica, snc, snc Bondeno
-Location:  Bondeno - Via Napoleonica, snc, snc Bondeno
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
 ## Sab 20/12/2025 16.00
@@ -298,8 +308,10 @@ Campo: Palestra Adriano Bonini
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location:  Bondeno - Via Napoleonica, snc, snc Bondeno
-Location:  Bondeno - Via Napoleonica, snc, snc Bondeno
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
 
