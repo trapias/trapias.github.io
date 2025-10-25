@@ -22,6 +22,8 @@ Location:  Via S.G.Bosco, 6 Barcellona Pozzo di Gotto
 
 <strong>SSD UNIME ARL - ASD SAN PIETRO CLARENZA</strong>
 
+**Risultato: 7-0**
+
 Giornata: Gara 959
 
 Campo: Cittadella Universitaria 
