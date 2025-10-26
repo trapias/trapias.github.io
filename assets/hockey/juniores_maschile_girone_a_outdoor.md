@@ -26,6 +26,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HP VALCHISONE</strong>
 
+**Risultato: 1-2**
+
 Giornata: Gara 634
 
 Campo: Campo Comunale 
@@ -130,6 +132,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 ## Dom 26/10/2025 11.00
 
 <strong>SCUOLA HOCKEY INDER SINGH - HCU RASSEMBLEMENT TORINO</strong>
+
+**Risultato: 0-5**
 
 Giornata: Gara 639
 

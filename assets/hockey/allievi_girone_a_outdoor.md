@@ -99,6 +99,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>HCU RASSEMBLEMENT TORINO - SCUOLA HOCKEY INDER SINGH</strong>
 
+**Risultato: 3-1**
+
 Giornata: Gara 719
 
 Campo: Tazzoli 
@@ -114,6 +116,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 ## Dom 26/10/2025 11.30
 
 <strong>SCUOLA HOCKEY INDER SINGH NEXT GEN - A.S.D. S.H. PAOLO BONOMI</strong>
+
+**Risultato: 0-20**
 
 Giornata: Gara 720
 

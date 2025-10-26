@@ -43,6 +43,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>HF LORENZONI - HC LARIO</strong>
 
+**Risultato: 6-0**
+
 Giornata: Gara 697
 
 Campo: Augusto Lorenzoni 

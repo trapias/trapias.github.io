@@ -81,6 +81,8 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 <strong>CSP SAN GIORGIO - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 1-9**
+
 Giornata: Gara 458
 
 Campo: Comunale Mori 
@@ -96,6 +98,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 ## Dom 26/10/2025 11.00
 
 <strong>POLISPORTIVA CAMELOT - ASD ADIGE UHC</strong>
+
+**Risultato: 1-10**
 
 Giornata: Gara 459
 
@@ -113,6 +117,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>ASD ADIGE UHC - CSP SAN GIORGIO</strong>
 
+**Risultato: 2-20**
+
 Giornata: Gara 460
 
 Campo: Comunale Mori 
@@ -128,6 +134,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 ## Dom 26/10/2025 13.00
 
 <strong>POLISPORTIVA CAMELOT - HOCKEY CLUB RIVA</strong>
+
+**Risultato: 0-23**
 
 Giornata: Gara 461
 

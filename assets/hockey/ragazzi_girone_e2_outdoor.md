@@ -61,6 +61,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>BUTTERFLY ROMA - AZ HOCKEY TEAM</strong>
 
+**Risultato: 4-3**
+
 Giornata: Gara 612
 
 Campo: CENTRO GIULIO ONESTI 

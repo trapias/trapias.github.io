@@ -48,6 +48,8 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 <strong>CSP SAN GIORGIO - CUS PADOVA ASD</strong>
 
+**Risultato: 4-3**
+
 Giornata: Gara 267
 
 Campo: campo hockey s. farinazzo 

@@ -6,6 +6,8 @@
 
 <strong>BUTTERFLY ROMA - SG AMSICORA</strong>
 
+**Risultato: 1-2**
+
 Giornata: Gara 231
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
