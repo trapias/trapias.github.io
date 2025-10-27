@@ -6,6 +6,8 @@
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - MILANO HP</strong>
 
+**Risultato: 2-1**
+
 Giornata: Gara 79
 
 Campo: Sport Arena 

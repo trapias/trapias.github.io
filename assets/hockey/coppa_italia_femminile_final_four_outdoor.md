@@ -4,7 +4,7 @@
 
 ## Sab 08/11/2025 14.00
 
-<strong>VINCENTE GIRONE A - VINCENTE SPAREGGIO GIR. C</strong>
+<strong>HF LORENZONI - SG AMSICORA</strong>
 
 Giornata: Gara 1071
 
@@ -20,7 +20,7 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 ## Sab 08/11/2025 16.00
 
-<strong>VINCENTE SPAREGGIO GIR. B - VINCENTE SPAREGGIO GIR. D</strong>
+<strong>HOCKEY TEAM FEMMINILE BOLOGNA - LAZIO HOCKEY</strong>
 
 Giornata: Gara 1072
 

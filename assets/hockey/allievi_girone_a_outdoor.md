@@ -135,6 +135,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>HCU RASSEMBLEMENT TORINO - ASD CERNUSCO FIELD HOCKEY</strong>
 
+**Risultato: 0-6**
+
 Giornata: Gara 721
 
 Campo: Tazzoli 
@@ -151,6 +153,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>SCUOLA HOCKEY INDER SINGH - A.S.D. S.H. PAOLO BONOMI</strong>
 
+**Risultato: 0-6**
+
 Giornata: Gara 722
 
 Campo: Tazzoli 
@@ -166,6 +170,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 ## Dom 26/10/2025 17.00
 
 <strong>ASD CERNUSCO FIELD HOCKEY - SCUOLA HOCKEY INDER SINGH NEXT GEN</strong>
+
+**Risultato: 12-1**
 
 Giornata: Gara 723
 

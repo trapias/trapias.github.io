@@ -45,6 +45,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>HF LORENZONI - CUS TORINO</strong>
 
+**Risultato: 2-1**
+
 Giornata: Gara 65
 
 Campo: Augusto Lorenzoni 
@@ -60,6 +62,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 ## Dom 26/10/2025 16.00
 
 <strong>USD MONCALVESE HOCKEY - HC GENOVA</strong>
+
+**Risultato: 5-0**
 
 Giornata: Gara 66
 

@@ -6,6 +6,8 @@
 
 <strong>LAZIO HOCKEY - HF GENOVA 1980</strong>
 
+**Risultato: 4-1**
+
 Giornata: Gara 240
 
 Campo: CENTRO GIULIO ONESTI 

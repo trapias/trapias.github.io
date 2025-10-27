@@ -96,6 +96,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC RAINBOW SAMPIERDARENA - CUS PISA ASD</strong>
 
+**Risultato: 1-6**
+
 Giornata: Gara 326
 
 Campo: CAMPO G.ARNALDI 

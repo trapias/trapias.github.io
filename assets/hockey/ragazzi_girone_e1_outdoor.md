@@ -25,6 +25,8 @@ Location:  VIA DELLO SPORT, 1 VILLA D'AGRI
 
 <strong>HOCKEY CLUB ROMA - POLISPORTIVA VALDAGRI</strong>
 
+**Risultato: 1-0**
+
 Giornata: Gara 700
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

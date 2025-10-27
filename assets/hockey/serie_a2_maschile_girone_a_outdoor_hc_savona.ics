@@ -2,20 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7\nGara 804\nTazzoli - Corso Tazzoli\, 78 Torino\nHCU RASSEMBLEMENT - HC SAVONA
-GEO:45.033509;7.633384
-LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20260502T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7 - HCU RASSEMBLEMENT - HC SAVONA
-UID:ac510fa7-1f8f-4ffc-a494-a801dcd536c8@ac51.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 4\nGara 795\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 - HC SAVONA
 GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20260411T113000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 4 - GENOVA H 1980 - HC SAVONA
-UID:2ca1776a-5648-4d4c-9f6f-837535164a2e@2ca1.org
+UID:4d1242fe-c315-49b0-89c2-7e686ae158f4@4d12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 789\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC SAVONA - HCU RASSEMBLEMENT
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20260321T120000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2 - HC SAVONA - HCU RASSEMBLEMENT
+UID:badbc58b-9855-4e6e-869a-0ec37e593ac0@badb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 807\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC SAVONA - MONCALVESE H
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20260509T110000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8 - HC SAVONA - MONCALVESE H
+UID:4ecc05b4-350b-4b12-a2c6-e776704cdf26@4ecc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 1\nGara 785\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nHC ROMA - HC SAVONA
@@ -23,7 +31,23 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20260314T140000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 1 - HC ROMA - HC SAVONA
-UID:e4bfc33c-66bf-4c96-9042-54c4167101f8@e4bf.org
+UID:30768d3d-08b6-41d2-b7b2-961d58355bc4@3076.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 811\nBAGLIANO - STRADA PROVINCIALE 72\, 25 MOGLIANO\nHC MOGLIANO - HC SAVONA
+GEO:43.172615;13.487342
+LOCATION:Strada Provinciale 72 Mogliano - Fiume\, Piani d'Ete\, Mogliano\, Macerata\, Marche\, 63834\, Italia
+DTSTART:20260523T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10 - HC MOGLIANO - HC SAVONA
+UID:3e1e29d2-6d59-4105-bc9e-4b35b37e0634@3e1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 811\nBAGLIANO - STRADA PROVINCIALE 72\, 25 MOGLIANO\nHC MOGLIANO - HC SAVONA
+GEO:43.172615;13.487342
+LOCATION:Strada Provinciale 72 Mogliano - Fiume\, Piani d'Ete\, Mogliano\, Macerata\, Marche\, 63834\, Italia
+DTSTART:20260523T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10 - HC MOGLIANO - HC SAVONA
+UID:dddf523d-6b04-4320-9382-6c648b03663d@dddf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 810\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC SAVONA - GENOVA H 1980
@@ -31,15 +55,21 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20260516T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9 - HC SAVONA - GENOVA H 1980
-UID:977ef44c-f8a1-4f6d-8d46-9e78ffed9ab4@977e.org
+UID:ad2accd1-7dfb-4f0e-b93a-8e7e1dd3866e@ad2a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 789\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC SAVONA - HCU RASSEMBLEMENT
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20260321T120000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2 - HC SAVONA - HCU RASSEMBLEMENT
-UID:83e7b01d-d469-4fd7-ad74-02337e92993d@83e7.org
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3\nGara 792\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - HC SAVONA
+LOCATION: Via Goria\, 4 Moncalvo
+DTSTART:20260328T140000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3 - MONCALVESE H - HC SAVONA
+UID:32ec1cd6-90e9-4300-9044-a1364151e69f@32ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3\nGara 792\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - HC SAVONA
+LOCATION: Via Goria\, 4 Moncalvo
+DTSTART:20260328T140000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3 - MONCALVESE H - HC SAVONA
+UID:e6873357-d015-43a5-8614-fea1c1c504f2@e687.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6\nGara 800\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC SAVONA - HC ROMA
@@ -47,15 +77,7 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20260425T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6 - HC SAVONA - HC ROMA
-UID:61c37531-8126-4286-88eb-0f9d48e4e7d2@61c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 807\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC SAVONA - MONCALVESE H
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20260509T110000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8 - HC SAVONA - MONCALVESE H
-UID:1fbd7028-3191-4cef-b9e6-71dcba8b0fca@1fbd.org
+UID:3c17a854-4ae1-416b-965e-a5524eb7b01e@3c17.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 796\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC SAVONA - HC MOGLIANO
@@ -63,69 +85,7 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20260418T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5 - HC SAVONA - HC MOGLIANO
-UID:1a09faca-b37e-402e-9e06-b3e4774e6cc8@1a09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 810\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC SAVONA - GENOVA H 1980
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20260516T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9 - HC SAVONA - GENOVA H 1980
-UID:b64116ac-1e0d-44ae-a139-be7db394ce96@b641.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 789\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC SAVONA - HCU RASSEMBLEMENT
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20260321T120000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2 - HC SAVONA - HCU RASSEMBLEMENT
-UID:be142bb9-2f40-4124-90fe-a5e1a2801bdb@be14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 811\nBAGLIANO - STRADA PROVINCIALE 72\, 25 MOGLIANO\nHC MOGLIANO - HC SAVONA
-GEO:43.172615;13.487342
-LOCATION:Strada Provinciale 72 Mogliano - Fiume\, Piani d'Ete\, Mogliano\, Macerata\, Marche\, 63834\, Italia
-DTSTART:20260523T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10 - HC MOGLIANO - HC SAVONA
-UID:f26241f4-dcf9-456d-974d-1130fd81e852@f262.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6\nGara 800\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC SAVONA - HC ROMA
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20260425T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6 - HC SAVONA - HC ROMA
-UID:e1855761-1f79-4084-b4d2-30d13a5c42c9@e185.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 811\nBAGLIANO - STRADA PROVINCIALE 72\, 25 MOGLIANO\nHC MOGLIANO - HC SAVONA
-GEO:43.172615;13.487342
-LOCATION:Strada Provinciale 72 Mogliano - Fiume\, Piani d'Ete\, Mogliano\, Macerata\, Marche\, 63834\, Italia
-DTSTART:20260523T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10 - HC MOGLIANO - HC SAVONA
-UID:ca5c3818-e93b-455a-a1ac-b93ca55412d9@ca5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 4\nGara 795\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 - HC SAVONA
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20260411T113000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 4 - GENOVA H 1980 - HC SAVONA
-UID:c4bfeecf-df06-4b60-975c-38476ea947cf@c4bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3\nGara 792\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - HC SAVONA
-LOCATION: Via Goria\, 4 Moncalvo
-DTSTART:20260328T140000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3 - MONCALVESE H - HC SAVONA
-UID:d166c895-7952-46e8-83c5-18c58e781f5f@d166.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3\nGara 792\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - HC SAVONA
-LOCATION: Via Goria\, 4 Moncalvo
-DTSTART:20260328T140000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3 - MONCALVESE H - HC SAVONA
-UID:ae9f4a58-da7f-48f6-8e19-20fcc0af05a0@ae9f.org
+UID:d165007b-f241-4d45-9ff4-840b48975507@d165.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7\nGara 804\nTazzoli - Corso Tazzoli\, 78 Torino\nHCU RASSEMBLEMENT - HC SAVONA
@@ -133,7 +93,15 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20260502T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7 - HCU RASSEMBLEMENT - HC SAVONA
-UID:9cb2d442-6398-4465-82bb-d8a113c68c5c@9cb2.org
+UID:1a5c203a-4af5-4ba1-b2a0-1fb07dfc9c15@1a5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 789\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC SAVONA - HCU RASSEMBLEMENT
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20260321T120000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2 - HC SAVONA - HCU RASSEMBLEMENT
+UID:2a196b94-96d9-4a80-81cf-3faa1e42f785@2a19.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 807\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC SAVONA - MONCALVESE H
@@ -141,7 +109,39 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20260509T110000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8 - HC SAVONA - MONCALVESE H
-UID:7b8ffade-9e01-4156-b829-462fef884013@7b8f.org
+UID:d3ccf096-dd21-4938-97bc-81a7c447ff45@d3cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 810\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC SAVONA - GENOVA H 1980
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20260516T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9 - HC SAVONA - GENOVA H 1980
+UID:e29b7999-3ff1-46eb-86c7-25e34295357d@e29b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 4\nGara 795\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 - HC SAVONA
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20260411T113000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 4 - GENOVA H 1980 - HC SAVONA
+UID:1ea7b011-c123-476a-9bb3-aef88f225473@1ea7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7\nGara 804\nTazzoli - Corso Tazzoli\, 78 Torino\nHCU RASSEMBLEMENT - HC SAVONA
+GEO:45.033509;7.633384
+LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
+DTSTART:20260502T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7 - HCU RASSEMBLEMENT - HC SAVONA
+UID:5d1122bc-f554-43d4-b8d2-aeece21ec3b9@5d11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6\nGara 800\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC SAVONA - HC ROMA
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20260425T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6 - HC SAVONA - HC ROMA
+UID:68cf51b6-e9ed-4a9a-ac53-2b86f6858c5a@68cf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 796\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC SAVONA - HC MOGLIANO
@@ -149,6 +149,6 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20260418T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5 - HC SAVONA - HC MOGLIANO
-UID:dbd1dabd-f18d-4aa2-b54a-12e4f503af99@dbd1.org
+UID:fb51e4ae-3f55-4614-8382-b96f4b05f40e@fb51.org
 END:VEVENT
 END:VCALENDAR

@@ -27,6 +27,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>ASD SUPERBA HC - CUS PISA ASD</strong>
 
+**Risultato: 6-4**
+
 Giornata: Gara 141
 
 Campo: CAMPO G.ARNALDI 

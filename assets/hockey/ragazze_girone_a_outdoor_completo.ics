@@ -2,20 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazze - OUTDOOR  - Girone A / Giornata 5\nGara 670\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - USD MONCALVESE HOCKEY\n\nRisultato: 3-1
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20251018T150000Z
-SUMMARY:Ragazze - OUTDOOR  - Girone A / Giornata 5 - MILANO HP - USD MONCALVESE HOCKEY
-UID:26578d20-4e25-4876-b1bb-d33f2ebb2729@2657.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone A / Giornata 7\nGara 672\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - MILANO HP
 GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20251115T140000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone A / Giornata 7 - CUS TORINO - MILANO HP
-UID:040520cc-01f2-4098-aaa6-2ce2958ed6e5@0405.org
+UID:89e9834b-b97b-4830-86bb-029b35e83db9@89e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze - OUTDOOR  - Girone A / Giornata 4\nGara 668\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HF LORENZONI\n\nRisultato: 0-3
+LOCATION: Via Goria\, 4 Moncalvo
+DTSTART:20251025T090000Z
+SUMMARY:Ragazze - OUTDOOR  - Girone A / Giornata 4 - USD MONCALVESE HOCKEY - HF LORENZONI
+UID:839186ec-1b28-48ce-a68a-313bec17efbf@8391.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone A / Giornata 1\nGara 664\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HF LORENZONI\n\nRisultato: 0-2
@@ -23,7 +22,15 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20250927T143000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone A / Giornata 1 - CUS TORINO - HF LORENZONI
-UID:96fbb94c-7d88-45a1-a17b-48171e4b35fe@96fb.org
+UID:b4c90fd0-dc58-4335-99bb-ad6706f9f6f7@b4c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze - OUTDOOR  - Girone A / Giornata 3\nGara 667\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - USD MONCALVESE HOCKEY\n\nRisultato: 2-0
+GEO:45.033509;7.633384
+LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
+DTSTART:20251004T143000Z
+SUMMARY:Ragazze - OUTDOOR  - Girone A / Giornata 3 - CUS TORINO - USD MONCALVESE HOCKEY
+UID:aaaf71dd-b6f1-4199-826a-27323987820b@aaaf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone A / Giornata 5\nGara 670\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - USD MONCALVESE HOCKEY\n\nRisultato: 3-1
@@ -31,7 +38,7 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20251018T150000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone A / Giornata 5 - MILANO HP - USD MONCALVESE HOCKEY
-UID:c27d8504-eee8-430d-aa6d-9acf4b00525f@c27d.org
+UID:c44e5599-00c8-456e-ad53-01184da8cd29@c44e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone A / Giornata 3\nGara 667\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - USD MONCALVESE HOCKEY\n\nRisultato: 2-0
@@ -39,30 +46,7 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20251004T143000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone A / Giornata 3 - CUS TORINO - USD MONCALVESE HOCKEY
-UID:abd710e1-440d-484d-99bb-ac5de097279d@abd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazze - OUTDOOR  - Girone A / Giornata 1\nGara 664\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HF LORENZONI\n\nRisultato: 0-2
-GEO:45.033509;7.633384
-LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20250927T143000Z
-SUMMARY:Ragazze - OUTDOOR  - Girone A / Giornata 1 - CUS TORINO - HF LORENZONI
-UID:96b2f817-4c99-49d7-99f1-bc1190b646f8@96b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazze - OUTDOOR  - Girone A / Giornata 4\nGara 668\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HF LORENZONI\n\nRisultato: 0-3
-LOCATION: Via Goria\, 4 Moncalvo
-DTSTART:20251025T090000Z
-SUMMARY:Ragazze - OUTDOOR  - Girone A / Giornata 4 - USD MONCALVESE HOCKEY - HF LORENZONI
-UID:2f18e054-7fd7-4c4c-9c26-d460687f5681@2f18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazze - OUTDOOR  - Girone A / Giornata 3\nGara 667\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - USD MONCALVESE HOCKEY\n\nRisultato: 2-0
-GEO:45.033509;7.633384
-LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20251004T143000Z
-SUMMARY:Ragazze - OUTDOOR  - Girone A / Giornata 3 - CUS TORINO - USD MONCALVESE HOCKEY
-UID:b35470b1-0f16-4deb-ac32-278693f1146f@b354.org
+UID:93eb69b3-52d8-45b6-bc25-41b4a93593c9@93eb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone A / Giornata 6\nGara 671\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - MILANO HP
@@ -70,14 +54,22 @@ GEO:44.703194;7.836697
 LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20251102T140000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone A / Giornata 6 - HF LORENZONI - MILANO HP
-UID:072e5fb8-2ee8-4322-a318-482ea6b6372e@072e.org
+UID:d701294a-8f75-43e5-bbd2-374547f12363@d701.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone A / Giornata 4\nGara 668\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HF LORENZONI\n\nRisultato: 0-3
 LOCATION: Via Goria\, 4 Moncalvo
 DTSTART:20251025T090000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone A / Giornata 4 - USD MONCALVESE HOCKEY - HF LORENZONI
-UID:868bd021-17c1-41db-8898-127bfc96bd53@868b.org
+UID:4041da21-c1cc-4575-bd45-7371a58d17dc@4041.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze - OUTDOOR  - Girone A / Giornata 5\nGara 670\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - USD MONCALVESE HOCKEY\n\nRisultato: 3-1
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20251018T150000Z
+SUMMARY:Ragazze - OUTDOOR  - Girone A / Giornata 5 - MILANO HP - USD MONCALVESE HOCKEY
+UID:b99d5546-ddcf-43da-acff-a42cb0df75a1@b99d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone A / Giornata 6\nGara 671\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - MILANO HP
@@ -85,7 +77,7 @@ GEO:44.703194;7.836697
 LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20251102T140000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone A / Giornata 6 - HF LORENZONI - MILANO HP
-UID:facc1105-62dd-48a9-855f-bac56f5431c5@facc.org
+UID:bf99744e-523a-4f6d-b69e-4dcfae1cdf23@bf99.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone A / Giornata 7\nGara 672\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - MILANO HP
@@ -93,6 +85,14 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20251115T140000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone A / Giornata 7 - CUS TORINO - MILANO HP
-UID:76469d9d-2735-4559-9416-a9049a9c9597@7646.org
+UID:de6c802e-22b4-4e93-bac7-e1b2ea4e1098@de6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze - OUTDOOR  - Girone A / Giornata 1\nGara 664\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HF LORENZONI\n\nRisultato: 0-2
+GEO:45.033509;7.633384
+LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
+DTSTART:20250927T143000Z
+SUMMARY:Ragazze - OUTDOOR  - Girone A / Giornata 1 - CUS TORINO - HF LORENZONI
+UID:e951fd25-ff1e-40bf-b634-22ca807e0b69@e951.org
 END:VEVENT
 END:VCALENDAR
