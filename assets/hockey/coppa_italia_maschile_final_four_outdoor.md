@@ -20,7 +20,7 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 ## Sab 08/11/2025 16.00
 
-<strong>SG AMSICORA - HC BRA</strong>
+<strong>SG AMSICORA - VINCENTE GIRONE A</strong>
 
 Giornata: Gara 1068
 

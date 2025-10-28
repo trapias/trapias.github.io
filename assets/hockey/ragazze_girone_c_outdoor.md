@@ -113,7 +113,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 # Ragazze - OUTDOOR  - Girone C / Giornata 4
 
-## Dom 02/11/2025 13.00
+## Dom 23/11/2025 11.00
 
 <strong>HC GENOVA - SPORT AND GO</strong>
 

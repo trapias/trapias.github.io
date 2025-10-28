@@ -41,7 +41,7 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 # Ragazzi - OUTDOOR  - Girone E2 / Giornata 2
 
-## -
+## Sab 15/11/2025 13.30
 
 <strong>H.POTENZA PICENA - LAZIO HOCKEY</strong>
 

@@ -199,7 +199,7 @@ Geo: Geo(latitude=44.3230861, longitude=8.464578)
 
 <strong>GENOVA H 1980 - ASD SUPERBA HC</strong>
 
-**Risultato: 2-55**
+**Risultato: 2-5**
 
 Giornata: Gara 316
 

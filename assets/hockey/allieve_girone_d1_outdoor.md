@@ -6,6 +6,8 @@
 
 <strong>UH CAPITOLINA - BUTTERFLY ROMA</strong>
 
+**Risultato: 0-3**
+
 Giornata: Gara 554
 
 Campo: EUROMA STADIUM 
