@@ -80,6 +80,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - CUS PADOVA ASD</strong>
 
+**Risultato: 2-2**
+
 Giornata: Gara 384
 
 Campo: CP BARCA 
@@ -162,7 +164,7 @@ Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
-## Dom 16/11/2025 13.30
+## Dom 01/03/2026 13.00
 
 <strong>MILANO HP - CUS PADOVA ASD</strong>
 

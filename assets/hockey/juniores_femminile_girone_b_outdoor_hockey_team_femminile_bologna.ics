@@ -2,12 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 388\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHOCKEY CLUB ARGENTIA - HOCKEY TEAM FEMMINILE BOLOGNA
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20251116T103000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5 - HOCKEY CLUB ARGENTIA - HOCKEY TEAM FEMMINILE BOLOGNA
-UID:46b198c0-ccfd-4563-b986-183490a97c8f@46b1.org
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 8\nGara 394\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY TEAM FEMMINILE BOLOGNA
+LOCATION: via J. Corrado\, 4 Padova
+DTSTART:20260411T140000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 8 - CUS PADOVA ASD - HOCKEY TEAM FEMMINILE BOLOGNA
+UID:dd90b6a3-aff5-4de1-a412-1908b53f3fa7@dd90.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 10\nGara 398\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - HOCKEY CLUB ARGENTIA
@@ -15,7 +14,15 @@ GEO:44.494706;11.280302
 LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
 DTSTART:20260503T090000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 10 - HOCKEY TEAM FEMMINILE BOLOGNA - HOCKEY CLUB ARGENTIA
-UID:9074cabf-83e9-404b-a508-4c3adef37c46@9074.org
+UID:1de2bb5a-4a0d-4944-a1b5-740e1f3c0843@1de2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 388\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHOCKEY CLUB ARGENTIA - HOCKEY TEAM FEMMINILE BOLOGNA
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20251116T103000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5 - HOCKEY CLUB ARGENTIA - HOCKEY TEAM FEMMINILE BOLOGNA
+UID:802add91-b6bb-49f6-a18f-0b1a69d871a5@802a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 2\nGara 382\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - HOCKEY TEAM FEMMINILE BOLOGNA
@@ -23,23 +30,7 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20251123T103000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 2 - MILANO HP - HOCKEY TEAM FEMMINILE BOLOGNA
-UID:a7ada32d-a5cc-4ce2-90d6-2a713ae6d562@a7ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 384\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - CUS PADOVA ASD
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20251025T143000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3 - HOCKEY TEAM FEMMINILE BOLOGNA - CUS PADOVA ASD
-UID:b421303f-d935-469a-a495-896586864bec@b421.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 388\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHOCKEY CLUB ARGENTIA - HOCKEY TEAM FEMMINILE BOLOGNA
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20251116T103000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5 - HOCKEY CLUB ARGENTIA - HOCKEY TEAM FEMMINILE BOLOGNA
-UID:c737a98b-c3ae-4ddd-8ce2-1891dac2eaac@c737.org
+UID:d5352edf-3004-4636-b92f-ed4e4331fcf0@d535.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 4\nGara 387\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - HOCKEY CLUB RIVA
@@ -47,22 +38,7 @@ GEO:44.494706;11.280302
 LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
 DTSTART:20251102T100000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 4 - HOCKEY TEAM FEMMINILE BOLOGNA - HOCKEY CLUB RIVA
-UID:0c12e7df-7ecd-4a0b-a712-112df5456726@0c12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 7\nGara 392\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - MILANO HP
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20260321T123000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 7 - HOCKEY TEAM FEMMINILE BOLOGNA - MILANO HP
-UID:8843b5db-ccff-40c0-990f-106a6497a5ee@8843.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 8\nGara 394\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY TEAM FEMMINILE BOLOGNA
-LOCATION: via J. Corrado\, 4 Padova
-DTSTART:20260411T140000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 8 - CUS PADOVA ASD - HOCKEY TEAM FEMMINILE BOLOGNA
-UID:b4c2147c-3b16-4394-8723-89bdb510ad79@b4c2.org
+UID:db742e22-cce1-4db3-b871-2922f327d7ea@db74.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 9\nGara 397\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - HOCKEY TEAM FEMMINILE BOLOGNA
@@ -70,7 +46,7 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260425T140000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 9 - HOCKEY CLUB RIVA - HOCKEY TEAM FEMMINILE BOLOGNA
-UID:44ac0315-02a7-4859-b78d-a0a698794f9b@44ac.org
+UID:5d242211-7e25-4a7c-9c99-e8b9122c8a89@5d24.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 4\nGara 387\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - HOCKEY CLUB RIVA
@@ -78,7 +54,31 @@ GEO:44.494706;11.280302
 LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
 DTSTART:20251102T100000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 4 - HOCKEY TEAM FEMMINILE BOLOGNA - HOCKEY CLUB RIVA
-UID:44edd314-b268-4217-815c-55008299d416@44ed.org
+UID:3a1ba869-ac89-4506-9528-a1838e4a82b6@3a1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 7\nGara 392\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - MILANO HP
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20260321T123000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 7 - HOCKEY TEAM FEMMINILE BOLOGNA - MILANO HP
+UID:23fd1cfc-9614-42b2-bd93-4199a9e86394@23fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 9\nGara 397\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - HOCKEY TEAM FEMMINILE BOLOGNA
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260425T140000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 9 - HOCKEY CLUB RIVA - HOCKEY TEAM FEMMINILE BOLOGNA
+UID:3b041b62-0893-4508-9c00-7f6bb6a719d2@3b04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 384\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - CUS PADOVA ASD\n\nRisultato: 2-2
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20251025T143000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3 - HOCKEY TEAM FEMMINILE BOLOGNA - CUS PADOVA ASD
+UID:cf945f90-aea6-426b-821e-477dfc10474c@cf94.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 10\nGara 398\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - HOCKEY CLUB ARGENTIA
@@ -86,30 +86,14 @@ GEO:44.494706;11.280302
 LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
 DTSTART:20260503T090000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 10 - HOCKEY TEAM FEMMINILE BOLOGNA - HOCKEY CLUB ARGENTIA
-UID:fa32ebc1-4765-446e-8d48-9ab42efd739a@fa32.org
+UID:a94c67ba-b1d9-4166-8469-06f71ef84ea3@a94c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 8\nGara 394\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY TEAM FEMMINILE BOLOGNA
 LOCATION: via J. Corrado\, 4 Padova
 DTSTART:20260411T140000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 8 - CUS PADOVA ASD - HOCKEY TEAM FEMMINILE BOLOGNA
-UID:fdfd0a33-8b47-4682-8297-2e3ba454176e@fdfd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 384\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - CUS PADOVA ASD
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20251025T143000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3 - HOCKEY TEAM FEMMINILE BOLOGNA - CUS PADOVA ASD
-UID:60e44aa1-874d-46c7-805b-18e6f32f7412@60e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 9\nGara 397\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - HOCKEY TEAM FEMMINILE BOLOGNA
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260425T140000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 9 - HOCKEY CLUB RIVA - HOCKEY TEAM FEMMINILE BOLOGNA
-UID:cb55137c-7d2f-4a71-9ea6-5546d461cf1d@cb55.org
+UID:a29e6065-3488-41fe-b461-8fec81d89bfa@a29e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 7\nGara 392\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - MILANO HP
@@ -117,6 +101,22 @@ GEO:44.494706;11.280302
 LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
 DTSTART:20260321T123000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 7 - HOCKEY TEAM FEMMINILE BOLOGNA - MILANO HP
-UID:a5775ae3-dca3-4dc9-8337-5324c5af88bc@a577.org
+UID:acd01068-e4e7-41e4-a1b1-c9286bf1f307@acd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 388\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHOCKEY CLUB ARGENTIA - HOCKEY TEAM FEMMINILE BOLOGNA
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20251116T103000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5 - HOCKEY CLUB ARGENTIA - HOCKEY TEAM FEMMINILE BOLOGNA
+UID:7f0f0cfd-0558-4a32-8a63-6a2e4e003155@7f0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 384\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - CUS PADOVA ASD\n\nRisultato: 2-2
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20251025T143000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3 - HOCKEY TEAM FEMMINILE BOLOGNA - CUS PADOVA ASD
+UID:99d0326f-d9ec-4e9c-b216-be62fe00f8b6@99d0.org
 END:VEVENT
 END:VCALENDAR

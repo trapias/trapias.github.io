@@ -117,7 +117,7 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>ASD ADIGE UHC - CSP SAN GIORGIO</strong>
 
-**Risultato: 2-20**
+**Risultato: 3-20**
 
 Giornata: Gara 460
 

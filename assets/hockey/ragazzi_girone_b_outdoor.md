@@ -481,7 +481,7 @@ Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 
-## Dom 10/05/2026 11.00
+## Dom 17/05/2026 11.00
 
 <strong>ASD ADIGE UHC - CUS PADOVA ASD</strong>
 

@@ -98,7 +98,7 @@ Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 
-## Dom 16/11/2025 11.00
+## Dom 01/03/2026 11.00
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PADOVA ASD</strong>
 

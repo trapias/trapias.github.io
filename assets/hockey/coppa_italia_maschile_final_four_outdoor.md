@@ -4,7 +4,7 @@
 
 ## Sab 08/11/2025 14.00
 
-<strong>HOCKEY TEAM BOLOGNA - BUTTERFLY ROMA</strong>
+<strong>SG AMSICORA - VINCENTE GIRONE A</strong>
 
 Giornata: Gara 1067
 
@@ -20,7 +20,7 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 ## Sab 08/11/2025 16.00
 
-<strong>SG AMSICORA - VINCENTE GIRONE A</strong>
+<strong>HOCKEY TEAM BOLOGNA - BUTTERFLY ROMA</strong>
 
 Giornata: Gara 1068
 

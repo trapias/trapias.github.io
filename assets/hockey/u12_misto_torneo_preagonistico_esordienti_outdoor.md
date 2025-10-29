@@ -391,3 +391,19 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
+
+## Dom 28/06/2026 11.00
+
+<strong>HT SARDEGNA - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1080
+
+Campo: Comunale Uras 
+
+Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
+
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
+

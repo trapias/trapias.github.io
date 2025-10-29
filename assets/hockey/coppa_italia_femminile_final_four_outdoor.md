@@ -2,7 +2,7 @@
 
 # Coppa Italia Femminile  - Final Four / Semifinale 
 
-## Sab 08/11/2025 14.00
+## Sab 08/11/2025 12.00
 
 <strong>HF LORENZONI - SG AMSICORA</strong>
 
@@ -18,7 +18,7 @@ Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Pie
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 
-## Sab 08/11/2025 16.00
+## Sab 08/11/2025 14.00
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - LAZIO HOCKEY</strong>
 

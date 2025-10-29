@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 167\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - ASD ADIGE UHC\n\nRisultato: 3-3
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251019T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8 - ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
-UID:a36e840c-b73c-4557-ab98-28698201e087@a36e.org
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 160\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - CUS PADOVA ASD\n\nRisultato: 5-1
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20250913T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1 - HOCKEY TEAM BOLOGNA - CUS PADOVA ASD
+UID:b7444c87-fffc-4e33-a8cd-b6a4e32aab88@b744.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 91\nIMPIANTI SPORTIVI UNIVERSITARI PIOVEGO - VIA J. CORRADO\, 24 Padova\nCUS PADOVA ASD - HOCKEY TEAM BOLOGNA\n\nRisultato: 0-2
+LOCATION: VIA J. CORRADO\, 24 Padova
+DTSTART:20251011T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6 - CUS PADOVA ASD - HOCKEY TEAM BOLOGNA
+UID:b0f1f6c2-2598-40e6-b426-6ae967996f7c@b0f1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 94\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 3-3
@@ -15,174 +22,7 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20251018T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7 - CSP SAN GIORGIO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:f8762587-8ae3-4158-b778-bc5e786f550c@f876.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 168\nIMPIANTI SPORTIVI UNIVERSITARI PIOVEGO - VIA J. CORRADO\, 24 Padova\nCUS PADOVA ASD - ASD ADIGE UHC\n\nRisultato: 3-2
-LOCATION: VIA J. CORRADO\, 24 Padova
-DTSTART:20251025T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9 - CUS PADOVA ASD - ASD ADIGE UHC
-UID:f16259a1-dbaa-43ab-ab23-149d900084ee@f162.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 86\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HOCKEY TEAM BOLOGNA\n\nRisultato: 2-4
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20250928T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4 - CSP SAN GIORGIO - HOCKEY TEAM BOLOGNA
-UID:da55044c-bb80-45e0-9ee1-64f74505ce1d@da55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 80\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO\n\nRisultato: 0-2
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20251002T180000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO
-UID:a3a4a476-c962-4b56-95aa-e841890637eb@a3a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 83\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO\n\nRisultato: 1-5
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20250920T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2 - CSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO
-UID:b0a8c398-f2e5-4f6a-a8bf-56cad50104fa@b0a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 91\nIMPIANTI SPORTIVI UNIVERSITARI PIOVEGO - VIA J. CORRADO\, 24 Padova\nCUS PADOVA ASD - HOCKEY TEAM BOLOGNA\n\nRisultato: 0-2
-LOCATION: VIA J. CORRADO\, 24 Padova
-DTSTART:20251011T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6 - CUS PADOVA ASD - HOCKEY TEAM BOLOGNA
-UID:30c59f59-1130-45db-ade0-41e35c20419c@30c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 169\nIMPIANTI SPORTIVI UNIVERSITARI PIOVEGO - VIA J. CORRADO\, 24 Padova\nCUS PADOVA ASD - CSP SAN GIORGIO
-LOCATION: VIA J. CORRADO\, 24 Padova
-DTSTART:20251101T140000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10 - CUS PADOVA ASD - CSP SAN GIORGIO
-UID:a33e1975-0ebb-4196-87ef-c7e9596121ae@a33e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 98\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251101T140000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10 - ASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA
-UID:19669c03-3736-4a82-b6ff-1bb53560dfd2@1966.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 88\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO\n\nRisultato: 4-1
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20251004T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5 - HOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO
-UID:6d0fd4ae-2c43-471b-88c0-987fa2ec1df0@6d0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 83\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO\n\nRisultato: 1-5
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20250920T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2 - CSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO
-UID:309b293a-ba21-4b05-b8e6-57ecc01026cd@309b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 91\nIMPIANTI SPORTIVI UNIVERSITARI PIOVEGO - VIA J. CORRADO\, 24 Padova\nCUS PADOVA ASD - HOCKEY TEAM BOLOGNA\n\nRisultato: 0-2
-LOCATION: VIA J. CORRADO\, 24 Padova
-DTSTART:20251011T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6 - CUS PADOVA ASD - HOCKEY TEAM BOLOGNA
-UID:4157f417-d25d-4f9a-b037-d61268ad021a@4157.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 162\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CSP SAN GIORGIO\n\nRisultato: 4-0
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20250927T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CSP SAN GIORGIO
-UID:172ea97f-a51f-437e-9265-06bd525d7602@172e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 84\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD\n\nRisultato: 5-3
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20250927T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
-UID:63bbe39f-b232-4390-967f-5b56eb7df214@63bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 165\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD ADIGE UHC\n\nRisultato: 3-4
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20251011T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6 - CSP SAN GIORGIO - ASD ADIGE UHC
-UID:61ccdb8e-6dfe-48ce-948c-846db40e787c@61cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 169\nIMPIANTI SPORTIVI UNIVERSITARI PIOVEGO - VIA J. CORRADO\, 24 Padova\nCUS PADOVA ASD - CSP SAN GIORGIO
-LOCATION: VIA J. CORRADO\, 24 Padova
-DTSTART:20251101T140000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10 - CUS PADOVA ASD - CSP SAN GIORGIO
-UID:7f09c9d1-d38e-4d34-9fd1-7d962cbc280f@7f09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 163\nIMPIANTI SPORTIVI UNIVERSITARI PIOVEGO - VIA J. CORRADO\, 24 Padova\nCUS PADOVA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 4-0
-LOCATION: VIA J. CORRADO\, 24 Padova
-DTSTART:20250928T140000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4 - CUS PADOVA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:36c7ab73-6b47-4bb6-b6f3-047c2504cdd6@36c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 86\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HOCKEY TEAM BOLOGNA\n\nRisultato: 2-4
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20250928T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4 - CSP SAN GIORGIO - HOCKEY TEAM BOLOGNA
-UID:bea4b81c-df5f-4c5d-b844-9f885e13f5bd@bea4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 81\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CSP SAN GIORGIO\n\nRisultato: 2-2
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20250913T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1 - ASD ADIGE UHC - CSP SAN GIORGIO
-UID:50d9ea95-ac2e-499c-8fbb-28050c20cdf3@50d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 93\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PADOVA ASD\n\nRisultato: 4-4
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20251019T140000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PADOVA ASD
-UID:dcd04b4a-d78e-4bce-b12e-e540eccbd249@dcd0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 168\nIMPIANTI SPORTIVI UNIVERSITARI PIOVEGO - VIA J. CORRADO\, 24 Padova\nCUS PADOVA ASD - ASD ADIGE UHC\n\nRisultato: 3-2
-LOCATION: VIA J. CORRADO\, 24 Padova
-DTSTART:20251025T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9 - CUS PADOVA ASD - ASD ADIGE UHC
-UID:b4859690-5ec1-47a6-b578-5b10ed3365b3@b485.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 166\nIMPIANTI SPORTIVI UNIVERSITARI PIOVEGO - VIA J. CORRADO\, 24 Padova\nCUS PADOVA ASD - ASD HOCKEY CLUB BONDENO\n\nRisultato: 0-1
-LOCATION: VIA J. CORRADO\, 24 Padova
-DTSTART:20251018T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7 - CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO
-UID:0e6f4e72-3edc-48c8-bb8d-0a37569ab0d8@0e6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 89\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 2-2
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251004T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5 - ASD ADIGE UHC - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:43ae831c-c0f6-4d55-9ce7-ad9da2c86eed@43ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 166\nIMPIANTI SPORTIVI UNIVERSITARI PIOVEGO - VIA J. CORRADO\, 24 Padova\nCUS PADOVA ASD - ASD HOCKEY CLUB BONDENO\n\nRisultato: 0-1
-LOCATION: VIA J. CORRADO\, 24 Padova
-DTSTART:20251018T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7 - CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO
-UID:10eb653f-2200-4278-9c29-715dfb365f23@10eb.org
+UID:8551807d-bdda-45db-bc6c-1eaf43704144@8551.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 96\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 1-1
@@ -190,78 +30,15 @@ GEO:44.494706;11.280302
 LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
 DTSTART:20251025T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9 - HOCKEY TEAM BOLOGNA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:3a0259d3-ff28-4755-9733-cbf10ec13d59@3a02.org
+UID:74229427-f269-4ca1-a5e8-d6caad3f8d61@7422.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 87\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - ASD HOCKEY CLUB BONDENO\n\nRisultato: 2-1
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251012T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4 - ASD ADIGE UHC - ASD HOCKEY CLUB BONDENO
-UID:71cdd186-0a9a-4fdc-ad9b-45421d94203c@71cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 82\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA\n\nRisultato: 0-1
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20250920T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA
-UID:baa4a1f5-d1da-4395-b15f-f240f700590d@baa4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 161\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CUS PADOVA ASD\n\nRisultato: 6-5
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20250920T140000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2 - ASD ADIGE UHC - CUS PADOVA ASD
-UID:121c3986-e5c2-48c4-92b6-a2524e5059f4@121c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 164\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - CUS PADOVA ASD\n\nRisultato: 3-3
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20251004T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5 - CSP SAN GIORGIO - CUS PADOVA ASD
-UID:ebc712e7-092a-414d-a6a5-80edaf30774c@ebc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 80\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO\n\nRisultato: 0-2
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20251002T180000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO
-UID:0ab2f822-fa80-4395-93a2-5504d7763d68@0ab2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 85\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - ASD ADIGE UHC\n\nRisultato: 3-1
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20250927T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3 - HOCKEY TEAM BOLOGNA - ASD ADIGE UHC
-UID:efcea5c2-0f23-4b81-9b8c-6d50586cda5f@efce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 87\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - ASD HOCKEY CLUB BONDENO\n\nRisultato: 2-1
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251012T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4 - ASD ADIGE UHC - ASD HOCKEY CLUB BONDENO
-UID:f4aa2f32-38b2-416d-a2dd-ed6fb639875c@f4aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 92\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - CSP SAN GIORGIO\n\nRisultato: 7-0
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20251019T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8 - HOCKEY TEAM BOLOGNA - CSP SAN GIORGIO
-UID:8273a9a0-38e4-4cbc-8eb8-2b51cf840053@8273.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 163\nIMPIANTI SPORTIVI UNIVERSITARI PIOVEGO - VIA J. CORRADO\, 24 Padova\nCUS PADOVA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 4-0
-LOCATION: VIA J. CORRADO\, 24 Padova
-DTSTART:20250928T140000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4 - CUS PADOVA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:df73f15e-6747-4df4-91cc-2acac4031a51@df73.org
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 97\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - CSP SAN GIORGIO\n\nRisultato: 4-0
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251025T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9 - ASD HOCKEY CLUB BONDENO - CSP SAN GIORGIO
+UID:1b61159c-bd1e-4524-922d-d602161596d3@1b61.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 165\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD ADIGE UHC\n\nRisultato: 3-4
@@ -269,55 +46,7 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20251011T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6 - CSP SAN GIORGIO - ASD ADIGE UHC
-UID:908b5936-87b3-4773-9c01-710de134622d@908b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 162\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CSP SAN GIORGIO\n\nRisultato: 4-0
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20250927T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CSP SAN GIORGIO
-UID:37da7db2-96d8-4780-bb7e-16396c0e56ee@37da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 89\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 2-2
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251004T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5 - ASD ADIGE UHC - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:f43903a5-bdac-4d58-b571-10c244874581@f439.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 96\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 1-1
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20251025T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9 - HOCKEY TEAM BOLOGNA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:142ec870-4226-4c0f-9dc8-9229edf98eed@142e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 160\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - CUS PADOVA ASD\n\nRisultato: 5-1
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20250913T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1 - HOCKEY TEAM BOLOGNA - CUS PADOVA ASD
-UID:fdc4246f-f2fe-429b-8dd4-282ecc3e9c06@fdc4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 98\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251101T140000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10 - ASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA
-UID:f1e94366-81c5-4d96-9a94-52f7df82e6c4@f1e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 97\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - CSP SAN GIORGIO\n\nRisultato: 4-0
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251025T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9 - ASD HOCKEY CLUB BONDENO - CSP SAN GIORGIO
-UID:794feee3-28f6-4af7-9e19-1783a26f3314@794f.org
+UID:dc139cc7-e056-40f5-a753-d307cf61e277@dc13.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 99\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD ADIGE UHC
@@ -325,127 +54,38 @@ GEO:44.708262;10.635422
 LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
 DTSTART:20251101T140000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD ADIGE UHC
-UID:9af93461-7e03-4bb1-bfcc-9b53eb8d0462@9af9.org
+UID:33d14f5f-decf-468e-9e7e-48f2054d27e8@33d1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 160\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - CUS PADOVA ASD\n\nRisultato: 5-1
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20250913T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1 - HOCKEY TEAM BOLOGNA - CUS PADOVA ASD
-UID:431596b1-03df-4352-b6ac-280400318401@4315.org
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 86\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HOCKEY TEAM BOLOGNA\n\nRisultato: 2-4
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20250928T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4 - CSP SAN GIORGIO - HOCKEY TEAM BOLOGNA
+UID:8b6d5ca4-73f2-4a99-8dc5-6f6307bd86ff@8b6d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 82\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA\n\nRisultato: 0-1
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 99\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD ADIGE UHC
 GEO:44.708262;10.635422
 LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20251101T140000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD ADIGE UHC
+UID:b71d90ad-ec3a-4977-a0c6-411ec050dc86@b71d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 166\nIMPIANTI SPORTIVI UNIVERSITARI PIOVEGO - VIA J. CORRADO\, 24 Padova\nCUS PADOVA ASD - ASD HOCKEY CLUB BONDENO\n\nRisultato: 0-1
+LOCATION: VIA J. CORRADO\, 24 Padova
+DTSTART:20251018T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7 - CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO
+UID:8dcaed94-dc63-47ad-b3d6-54fb72d3b11b@8dca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 83\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO\n\nRisultato: 1-5
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20250920T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA
-UID:5406334c-0b32-45f2-8949-4224210dd265@5406.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 95\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY TEAM BOLOGNA\n\nRisultato: 2-2
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251018T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7 - ASD ADIGE UHC - HOCKEY TEAM BOLOGNA
-UID:47258969-ce6e-4886-b058-9b3670971abf@4725.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 88\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO\n\nRisultato: 4-1
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20251004T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5 - HOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO
-UID:23b71524-fbfe-4cd4-9ca9-58599cbb87f8@23b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 99\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD ADIGE UHC
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20251101T140000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD ADIGE UHC
-UID:fcfd8744-5b6a-4894-af5f-ebb23a9fb819@fcfd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 90\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 1-0
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251011T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6 - ASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:4820b1fa-64db-4af3-a93f-0d40f7bbec99@4820.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 95\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY TEAM BOLOGNA\n\nRisultato: 2-2
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251018T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7 - ASD ADIGE UHC - HOCKEY TEAM BOLOGNA
-UID:4747e108-38d7-4227-aab2-a38c837f67cb@4747.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 97\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - CSP SAN GIORGIO\n\nRisultato: 4-0
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251025T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9 - ASD HOCKEY CLUB BONDENO - CSP SAN GIORGIO
-UID:7acac93e-c1a9-4caf-8fa9-3e5bb8c4b465@7aca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 84\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD\n\nRisultato: 5-3
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20250927T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
-UID:272818b6-2e86-4440-a393-b5f50aae44d2@2728.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 92\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - CSP SAN GIORGIO\n\nRisultato: 7-0
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20251019T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8 - HOCKEY TEAM BOLOGNA - CSP SAN GIORGIO
-UID:1c03c303-790b-42b2-95cb-a447b86c255a@1c03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 93\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PADOVA ASD\n\nRisultato: 4-4
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20251019T140000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PADOVA ASD
-UID:83333c42-dbfd-40ce-bd08-3ae135c09bff@8333.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 167\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - ASD ADIGE UHC\n\nRisultato: 3-3
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251019T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8 - ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
-UID:11ff0848-e28d-472f-b006-b595058b68d9@11ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 161\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CUS PADOVA ASD\n\nRisultato: 6-5
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20250920T140000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2 - ASD ADIGE UHC - CUS PADOVA ASD
-UID:798b6159-092b-42f8-90ab-a6f962734e59@798b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 90\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 1-0
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251011T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6 - ASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:c9bf5f42-87d4-4219-bbe5-dd2cb82df121@c9bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 81\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CSP SAN GIORGIO\n\nRisultato: 2-2
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20250913T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1 - ASD ADIGE UHC - CSP SAN GIORGIO
-UID:564c0533-2f1e-4b74-98ba-8fb084883d4d@564c.org
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2 - CSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO
+UID:79b6575c-dcf1-4bde-b035-b5fe11139ed4@79b6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 94\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 3-3
@@ -453,15 +93,37 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20251018T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7 - CSP SAN GIORGIO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:4af93334-be0f-4df6-afc8-a8f524f1aeaf@4af9.org
+UID:208fd4c7-e60d-4be1-932c-e947d563790c@208f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 164\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - CUS PADOVA ASD\n\nRisultato: 3-3
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 169\nIMPIANTI SPORTIVI UNIVERSITARI PIOVEGO - VIA J. CORRADO\, 24 Padova\nCUS PADOVA ASD - CSP SAN GIORGIO
+LOCATION: VIA J. CORRADO\, 24 Padova
+DTSTART:20251101T140000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10 - CUS PADOVA ASD - CSP SAN GIORGIO
+UID:3351b5f8-c816-42b8-8330-baf347df0b4b@3351.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 168\nIMPIANTI SPORTIVI UNIVERSITARI PIOVEGO - VIA J. CORRADO\, 24 Padova\nCUS PADOVA ASD - ASD ADIGE UHC\n\nRisultato: 3-2
+LOCATION: VIA J. CORRADO\, 24 Padova
+DTSTART:20251025T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9 - CUS PADOVA ASD - ASD ADIGE UHC
+UID:f37e0ded-5391-4bda-8af4-2942ece5c129@f37e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 83\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO\n\nRisultato: 1-5
 GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20251004T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5 - CSP SAN GIORGIO - CUS PADOVA ASD
-UID:9f338f86-767e-4250-8c39-ccf251f42a8b@9f33.org
+DTSTART:20250920T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2 - CSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO
+UID:89cd6b8b-a5b6-469d-b6f9-3d8b1637f72d@89cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 81\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CSP SAN GIORGIO\n\nRisultato: 2-2
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20250913T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1 - ASD ADIGE UHC - CSP SAN GIORGIO
+UID:9f6eab36-c0d0-41c3-aa6a-434ec9722c54@9f6e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 85\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - ASD ADIGE UHC\n\nRisultato: 3-1
@@ -469,6 +131,344 @@ GEO:44.494706;11.280302
 LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
 DTSTART:20250927T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3 - HOCKEY TEAM BOLOGNA - ASD ADIGE UHC
-UID:c3dae17c-a667-44eb-b1a9-c1e65c6aaf21@c3da.org
+UID:c6533f37-544a-402f-96dc-7c9e0d8c887a@c653.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 96\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 1-1
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20251025T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9 - HOCKEY TEAM BOLOGNA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
+UID:a76fd7ef-0558-4429-afe1-b032b7bd6775@a76f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 81\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CSP SAN GIORGIO\n\nRisultato: 2-2
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20250913T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1 - ASD ADIGE UHC - CSP SAN GIORGIO
+UID:ea860b93-8228-43d0-a9a1-8f4bae6c8d4d@ea86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 82\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA\n\nRisultato: 0-1
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20250920T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA
+UID:e6d74aba-56d6-48f8-8623-01f214d53e43@e6d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 161\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CUS PADOVA ASD\n\nRisultato: 6-5
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20250920T140000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2 - ASD ADIGE UHC - CUS PADOVA ASD
+UID:faa9c609-2086-4a60-ac1b-24fea97c9c08@faa9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 88\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO\n\nRisultato: 4-1
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20251004T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5 - HOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO
+UID:53fecc1e-df4c-4988-aa27-5b8b19e31eeb@53fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 93\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PADOVA ASD\n\nRisultato: 4-4
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20251019T140000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PADOVA ASD
+UID:dbc607c2-3a63-41e7-b5fa-d6ff46d24551@dbc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 84\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD\n\nRisultato: 5-3
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20250927T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
+UID:5592b2f9-c53b-4ba9-967c-86b6616578c8@5592.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 87\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - ASD HOCKEY CLUB BONDENO\n\nRisultato: 2-1
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251012T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4 - ASD ADIGE UHC - ASD HOCKEY CLUB BONDENO
+UID:b1c8645d-8b48-46eb-884f-3a5b203007fb@b1c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 89\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 2-2
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251004T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5 - ASD ADIGE UHC - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
+UID:44dd3c49-a510-4aef-9c6f-83524c6e7cfc@44dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 165\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD ADIGE UHC\n\nRisultato: 3-4
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20251011T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6 - CSP SAN GIORGIO - ASD ADIGE UHC
+UID:a2f00267-a110-4cbc-a542-0a740c5019da@a2f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 80\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO\n\nRisultato: 0-2
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20251002T180000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO
+UID:9555549b-1004-4b30-aa09-dce3b7d6f16d@9555.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 166\nIMPIANTI SPORTIVI UNIVERSITARI PIOVEGO - VIA J. CORRADO\, 24 Padova\nCUS PADOVA ASD - ASD HOCKEY CLUB BONDENO\n\nRisultato: 0-1
+LOCATION: VIA J. CORRADO\, 24 Padova
+DTSTART:20251018T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7 - CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO
+UID:7b55f389-2b9c-43d8-bfb6-cf83a22df15a@7b55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 98\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251101T140000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10 - ASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA
+UID:32c8cb18-891c-4129-a306-c467be593122@32c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 92\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - CSP SAN GIORGIO\n\nRisultato: 7-0
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20251019T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8 - HOCKEY TEAM BOLOGNA - CSP SAN GIORGIO
+UID:baa99204-185e-4bfb-aada-20e7c97738aa@baa9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 163\nIMPIANTI SPORTIVI UNIVERSITARI PIOVEGO - VIA J. CORRADO\, 24 Padova\nCUS PADOVA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 4-0
+LOCATION: VIA J. CORRADO\, 24 Padova
+DTSTART:20250928T140000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4 - CUS PADOVA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
+UID:efd9d787-e860-403d-9f7c-3870257d208b@efd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 80\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO\n\nRisultato: 0-2
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20251002T180000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO
+UID:5c8e2519-b931-459f-93c5-6c753d380540@5c8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 163\nIMPIANTI SPORTIVI UNIVERSITARI PIOVEGO - VIA J. CORRADO\, 24 Padova\nCUS PADOVA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 4-0
+LOCATION: VIA J. CORRADO\, 24 Padova
+DTSTART:20250928T140000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4 - CUS PADOVA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
+UID:551a67dc-cefc-413b-b2d5-d4ad9b17e81d@551a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 164\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - CUS PADOVA ASD\n\nRisultato: 3-3
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20251004T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5 - CSP SAN GIORGIO - CUS PADOVA ASD
+UID:5135d635-46bb-4b59-9504-7c028409d61a@5135.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 91\nIMPIANTI SPORTIVI UNIVERSITARI PIOVEGO - VIA J. CORRADO\, 24 Padova\nCUS PADOVA ASD - HOCKEY TEAM BOLOGNA\n\nRisultato: 0-2
+LOCATION: VIA J. CORRADO\, 24 Padova
+DTSTART:20251011T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6 - CUS PADOVA ASD - HOCKEY TEAM BOLOGNA
+UID:4c9846ea-079e-4dfb-8495-24f63eb50501@4c98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 169\nIMPIANTI SPORTIVI UNIVERSITARI PIOVEGO - VIA J. CORRADO\, 24 Padova\nCUS PADOVA ASD - CSP SAN GIORGIO
+LOCATION: VIA J. CORRADO\, 24 Padova
+DTSTART:20251101T140000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10 - CUS PADOVA ASD - CSP SAN GIORGIO
+UID:47eed806-3fa5-45c0-bb44-70b652421209@47ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 87\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - ASD HOCKEY CLUB BONDENO\n\nRisultato: 2-1
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251012T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4 - ASD ADIGE UHC - ASD HOCKEY CLUB BONDENO
+UID:c097943d-dde9-40e9-9f72-0ce58460f0e8@c097.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 160\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - CUS PADOVA ASD\n\nRisultato: 5-1
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20250913T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 1 - HOCKEY TEAM BOLOGNA - CUS PADOVA ASD
+UID:49b12ec7-415e-4a18-9d35-914ed9611abd@49b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 89\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 2-2
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251004T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5 - ASD ADIGE UHC - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
+UID:c3a79f62-93a2-4801-a5b5-18681f7b63e3@c3a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 95\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY TEAM BOLOGNA\n\nRisultato: 2-2
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251018T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7 - ASD ADIGE UHC - HOCKEY TEAM BOLOGNA
+UID:4b378281-497a-45f5-aeb2-6ef4877889c4@4b37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 82\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA\n\nRisultato: 0-1
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20250920T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA
+UID:7c0a498d-1ce9-4848-9f98-c41caeaa2e38@7c0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 168\nIMPIANTI SPORTIVI UNIVERSITARI PIOVEGO - VIA J. CORRADO\, 24 Padova\nCUS PADOVA ASD - ASD ADIGE UHC\n\nRisultato: 3-2
+LOCATION: VIA J. CORRADO\, 24 Padova
+DTSTART:20251025T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9 - CUS PADOVA ASD - ASD ADIGE UHC
+UID:749dd8cf-fd4e-417f-9425-2815511c9f1c@749d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 161\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CUS PADOVA ASD\n\nRisultato: 6-5
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20250920T140000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 2 - ASD ADIGE UHC - CUS PADOVA ASD
+UID:90a5c95c-ccc9-4344-b063-503911f6be1d@90a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 84\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD\n\nRisultato: 5-3
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20250927T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
+UID:c3dd5d34-16e4-45bb-8566-468a5203c511@c3dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 164\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - CUS PADOVA ASD\n\nRisultato: 3-3
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20251004T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5 - CSP SAN GIORGIO - CUS PADOVA ASD
+UID:31479038-a615-49f6-afb3-ab5ca7ce755d@3147.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 85\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - ASD ADIGE UHC\n\nRisultato: 3-1
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20250927T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3 - HOCKEY TEAM BOLOGNA - ASD ADIGE UHC
+UID:25d2ad7b-998e-4454-96d6-412ee5e69948@25d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 97\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - CSP SAN GIORGIO\n\nRisultato: 4-0
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251025T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 9 - ASD HOCKEY CLUB BONDENO - CSP SAN GIORGIO
+UID:9ba0531f-7503-4e6b-89ab-7bfaaab08ea9@9ba0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 95\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY TEAM BOLOGNA\n\nRisultato: 2-2
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251018T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 7 - ASD ADIGE UHC - HOCKEY TEAM BOLOGNA
+UID:7875cfab-e36e-47dd-8aff-5acee571f958@7875.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 167\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - ASD ADIGE UHC\n\nRisultato: 3-3
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251019T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8 - ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
+UID:c171f6ba-19d1-488a-b6de-4269fcbed323@c171.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 92\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - CSP SAN GIORGIO\n\nRisultato: 7-0
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20251019T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8 - HOCKEY TEAM BOLOGNA - CSP SAN GIORGIO
+UID:71011276-d1b8-4211-9154-0c0f592b3057@7101.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 90\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 1-0
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251011T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6 - ASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
+UID:159457bc-d068-4949-a73f-53c2f165df55@1594.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 98\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251101T140000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 10 - ASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA
+UID:5e856ebf-9f90-4380-8deb-d3de99fca129@5e85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 88\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO\n\nRisultato: 4-1
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20251004T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 5 - HOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO
+UID:fcf90a45-252e-4e61-bbec-a98f1059ad65@fcf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 162\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CSP SAN GIORGIO\n\nRisultato: 4-0
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20250927T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CSP SAN GIORGIO
+UID:805f0b92-9a63-48d9-85f1-b9d29496fb7c@805f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 86\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HOCKEY TEAM BOLOGNA\n\nRisultato: 2-4
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20250928T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 4 - CSP SAN GIORGIO - HOCKEY TEAM BOLOGNA
+UID:412a9c38-50a2-4ab8-92e3-103e4ff41cd0@412a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 93\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PADOVA ASD\n\nRisultato: 4-4
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20251019T140000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PADOVA ASD
+UID:6b05788f-24bb-40c0-ba60-77b89c65d850@6b05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 167\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - ASD ADIGE UHC\n\nRisultato: 3-3
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251019T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 8 - ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
+UID:08aa3962-4de1-4485-95f9-2fffe2036acf@08aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 162\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CSP SAN GIORGIO\n\nRisultato: 4-0
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20250927T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 3 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CSP SAN GIORGIO
+UID:95fdb1fe-6488-433f-af5f-4016985a9d86@95fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 90\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 1-0
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251011T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone B / Giornata 6 - ASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
+UID:b9394f21-79e1-4d88-86bc-97405db9be0e@b939.org
 END:VEVENT
 END:VCALENDAR

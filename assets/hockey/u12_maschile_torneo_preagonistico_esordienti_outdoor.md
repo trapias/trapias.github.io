@@ -467,22 +467,6 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 ## Dom 28/06/2026 11.00
 
-<strong>HT SARDEGNA - SQUADRA JOLLY</strong>
-
-Giornata: Gara 1046
-
-Campo: Comunale Uras 
-
-Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
-
-Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
-Geo: Geo(latitude=39.6941171, longitude=8.7021294)
-Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
-Geo: Geo(latitude=39.6941171, longitude=8.7021294)
-
-
-## Dom 28/06/2026 11.00
-
 <strong>AZ HOCKEY TEAM - SQUADRA JOLLY</strong>
 
 Giornata: Gara 1047

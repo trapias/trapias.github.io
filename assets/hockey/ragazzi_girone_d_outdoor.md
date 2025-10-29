@@ -94,7 +94,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Dom 16/11/2025 12.00
+## Sab 22/11/2025 15.00
 
 <strong>ASD BAD LAKE HOCKEY - HC GENOVA</strong>
 
