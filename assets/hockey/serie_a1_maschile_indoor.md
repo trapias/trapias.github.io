@@ -4,7 +4,7 @@
 
 ## Dom 30/11/2025 11.00
 
-<strong>HOCKEY CLUB RIVA - A.S.D. S.H. PAOLO BONOMI</strong>
+<strong>A.S.D. S.H. PAOLO BONOMI - POLISPORTIVA UNIVERSITARIA MESSINA</strong>
 
 Giornata: Gara 31
 
@@ -18,7 +18,7 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 ## Dom 30/11/2025 12.00
 
-<strong>POLISPORTIVA UNIVERSITARIA MESSINA - LAZIO HOCKEY</strong>
+<strong>USD MONCALVESE HOCKEY - CSP SAN GIORGIO</strong>
 
 Giornata: Gara 32
 
@@ -32,7 +32,7 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 ## Dom 30/11/2025 13.00
 
-<strong>USD MONCALVESE HOCKEY - CSP SAN GIORGIO</strong>
+<strong>POLISPORTIVA UNIVERSITARIA MESSINA - LAZIO HOCKEY</strong>
 
 Giornata: Gara 33
 
@@ -46,7 +46,7 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 ## Dom 30/11/2025 14.00
 
-<strong>A.S.D. S.H. PAOLO BONOMI - POLISPORTIVA UNIVERSITARIA MESSINA</strong>
+<strong>HOCKEY CLUB RIVA - A.S.D. S.H. PAOLO BONOMI</strong>
 
 Giornata: Gara 34
 
