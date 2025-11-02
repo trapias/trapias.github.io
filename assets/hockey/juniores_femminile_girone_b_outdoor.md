@@ -133,6 +133,8 @@ Location:  via J. Corrado, 4 Padova
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 2-6**
+
 Giornata: Gara 387
 
 Campo: CP BARCA 

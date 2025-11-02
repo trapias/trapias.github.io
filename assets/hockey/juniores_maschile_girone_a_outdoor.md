@@ -52,6 +52,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>SCUOLA HOCKEY INDER SINGH - HP VALCHISONE</strong>
 
+**Risultato: 0-7**
+
 Giornata: Gara 635
 
 Campo: Augusto Lorenzoni 

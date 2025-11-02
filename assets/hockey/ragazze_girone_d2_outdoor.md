@@ -61,6 +61,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>HOCKEY CLUB ROMA - LAZIO HOCKEY</strong>
 
+**Risultato: 0-9**
+
 Giornata: Gara 630
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

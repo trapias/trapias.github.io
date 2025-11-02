@@ -84,6 +84,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>LAZIO HOCKEY - H.POTENZA PICENA</strong>
 
+**Risultato: 1-3**
+
 Giornata: Gara 277
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
@@ -118,6 +120,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 ## Dom 02/11/2025 11.00
 
 <strong>BUTTERFLY ROMA - TEVERE EUR H</strong>
+
+**Risultato: 6-0**
 
 Giornata: Gara 279
 

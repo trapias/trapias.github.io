@@ -156,6 +156,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>POLISPORTIVA CAMELOT - CSP SAN GIORGIO</strong>
 
+**Risultato: 1-9**
+
 Giornata: Gara 462
 
 Campo: campo hockey s. farinazzo 
@@ -187,6 +189,8 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 ## Dom 02/11/2025 13.00
 
 <strong>HOCKEY CLUB RIVA - CSP SAN GIORGIO</strong>
+
+**Risultato: 6-4**
 
 Giornata: Gara 464
 

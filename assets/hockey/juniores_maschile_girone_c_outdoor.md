@@ -59,6 +59,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>CUS PISA ASD - HC GENOVA</strong>
 
+**Risultato: 2-1**
+
 Giornata: Gara 308
 
 Campo: CAMPO HOCKEY PRATO 
@@ -113,6 +115,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Dom 02/11/2025 11.00
 
 <strong>ASD SUPERBA HC - HC SAVONA</strong>
+
+**Risultato: 9-2**
 
 Giornata: Gara 311
 
@@ -251,6 +255,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Dom 02/11/2025 09.00
 
 <strong>GENOVA H 1980 U18 - GENOVA H 1980</strong>
+
+**Risultato: 7-7**
 
 Giornata: Gara 319
 

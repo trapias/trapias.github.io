@@ -114,7 +114,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 # Allievi - OUTDOOR  - Girone C / Giornata 3
 
-## Sab 15/11/2025 12.30
+## Sab 15/11/2025 11.00
 
 <strong>GENOVA H 1980 ROVESCIO - GENOVA H 1980 DRITTO</strong>
 
@@ -228,7 +228,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>ASD BAD LAKE HOCKEY - GENOVA H 1980 ROVESCIO</strong>
 
-**Risultato: 10-5**
+**Risultato: 15-0**
 
 Giornata: Gara 363
 

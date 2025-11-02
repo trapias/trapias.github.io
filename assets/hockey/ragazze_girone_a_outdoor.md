@@ -152,6 +152,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>HF LORENZONI - MILANO HP</strong>
 
+**Risultato: 2-0**
+
 Giornata: Gara 671
 
 Campo: Augusto Lorenzoni 
