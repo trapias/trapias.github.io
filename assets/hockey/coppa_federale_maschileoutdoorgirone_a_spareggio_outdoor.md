@@ -6,6 +6,8 @@
 
 <strong>USD MONCALVESE HOCKEY - GENOVA H 1980</strong>
 
+**Risultato: 4-3**
+
 Giornata: Gara 254
 
 Campo: PINO PALMIERI 

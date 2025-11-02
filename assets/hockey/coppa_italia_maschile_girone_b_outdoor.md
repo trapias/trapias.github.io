@@ -511,6 +511,8 @@ Location:  VIA J. CORRADO, 24 Padova
 
 <strong>ASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA</strong>
 
+**Risultato: 2-5**
+
 Giornata: Gara 98
 
 Campo: A. GIATTI 
@@ -527,6 +529,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD ADIGE UHC</strong>
 
+**Risultato: 3-3**
+
 Giornata: Gara 99
 
 Campo: Sport Arena 
@@ -542,6 +546,8 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 ## Sab 01/11/2025 15.00
 
 <strong>CUS PADOVA ASD - CSP SAN GIORGIO</strong>
+
+**Risultato: 4-0**
 
 Giornata: Gara 169
 

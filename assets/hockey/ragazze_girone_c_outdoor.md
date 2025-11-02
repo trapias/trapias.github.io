@@ -168,6 +168,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>CUS PISA ASD - HC GENOVA</strong>
 
+**Risultato: 0-4**
+
 Giornata: Gara 330
 
 Campo: CAMPO HOCKEY PRATO 

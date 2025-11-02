@@ -59,6 +59,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>UH CAPITOLINA - HOCKEY CLUB ROMA</strong>
 
+**Risultato: 11-0**
+
 Giornata: Gara 557
 
 Campo: EUROMA STADIUM 

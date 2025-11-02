@@ -357,6 +357,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>CUS CAGLIARI - HT SARDEGNA</strong>
 
+**Risultato: 2-1**
+
 Giornata: Gara 138
 
 Campo: Comunale Uras 
@@ -372,6 +374,8 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 ## Sab 01/11/2025 15.00
 
 <strong>POLISPORTIVA FERRINI - SG AMSICORA</strong>
+
+**Risultato: 4-4**
 
 Giornata: Gara 139
 

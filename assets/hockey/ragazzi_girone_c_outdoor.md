@@ -6,6 +6,8 @@
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PISA ASD</strong>
 
+**Risultato: 4-0**
+
 Giornata: Gara 442
 
 Campo: Sport Arena 

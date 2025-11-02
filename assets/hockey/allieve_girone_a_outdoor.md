@@ -146,6 +146,8 @@ Location:  Via Goria, 4 Moncalvo
 
 <strong>HF LORENZONI - USD MONCALVESE HOCKEY</strong>
 
+**Risultato: 12-1**
+
 Giornata: Gara 680
 
 Campo: Augusto Lorenzoni 

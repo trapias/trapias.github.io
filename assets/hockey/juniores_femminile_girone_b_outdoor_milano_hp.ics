@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 2\nGara 382\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - HOCKEY TEAM FEMMINILE BOLOGNA
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 385\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - HOCKEY CLUB RIVA\n\nRisultato: 1-3
 GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20251123T103000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 2 - MILANO HP - HOCKEY TEAM FEMMINILE BOLOGNA
-UID:3e457bf1-f233-44c0-8ed1-eeda257ced14@3e45.org
+DTSTART:20251025T153000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3 - MILANO HP - HOCKEY CLUB RIVA
+UID:b562c4e3-ca86-4774-b37b-ac4bc6a4bedb@b562.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 7\nGara 392\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - MILANO HP
@@ -15,7 +15,15 @@ GEO:44.494706;11.280302
 LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
 DTSTART:20260321T123000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 7 - HOCKEY TEAM FEMMINILE BOLOGNA - MILANO HP
-UID:69e00187-fff0-4375-a0a3-b5f2201a13e1@69e0.org
+UID:9bd9617e-6f97-44a5-aaa4-9a438122ea62@9bd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 389\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - CUS PADOVA ASD
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260301T120000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5 - MILANO HP - CUS PADOVA ASD
+UID:04899cb0-fcef-4c28-915c-12bc1f4bdf13@0489.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 8\nGara 395\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - MILANO HP
@@ -23,15 +31,15 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260411T140000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 8 - HOCKEY CLUB RIVA - MILANO HP
-UID:12eef202-5e25-4e20-86b8-effd85554092@12ee.org
+UID:4a16c352-9905-4315-9765-91f4cc4d870a@4a16.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 2\nGara 382\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - HOCKEY TEAM FEMMINILE BOLOGNA
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20251123T103000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 2 - MILANO HP - HOCKEY TEAM FEMMINILE BOLOGNA
-UID:472e5ac9-76d8-4af3-8277-12c69f8f3e5c@472e.org
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 7\nGara 392\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - MILANO HP
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20260321T123000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 7 - HOCKEY TEAM FEMMINILE BOLOGNA - MILANO HP
+UID:ff1b58f1-36af-4b82-be72-0e4d00581438@ff1b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 385\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - HOCKEY CLUB RIVA\n\nRisultato: 1-3
@@ -39,15 +47,30 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20251025T153000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3 - MILANO HP - HOCKEY CLUB RIVA
-UID:99fbf120-c739-475a-9bf5-7f9025ff26b9@99fb.org
+UID:c6a011f8-2f6c-476d-aadb-f3918a66eca0@c6a0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 6\nGara 390\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - HOCKEY CLUB ARGENTIA
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 389\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - CUS PADOVA ASD
 GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260308T100000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 6 - MILANO HP - HOCKEY CLUB ARGENTIA
-UID:bfc9389f-118e-476f-8750-c399980a15a2@bfc9.org
+DTSTART:20260301T120000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5 - MILANO HP - CUS PADOVA ASD
+UID:f1472748-f829-46cd-97d1-3e357815df0b@f147.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 10\nGara 399\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - MILANO HP
+LOCATION: via J. Corrado\, 4 Padova
+DTSTART:20260503T090000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 10 - CUS PADOVA ASD - MILANO HP
+UID:acbcdc83-e8d5-41da-bbd6-16ed245c6058@acbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 2\nGara 382\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - HOCKEY TEAM FEMMINILE BOLOGNA
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20251123T103000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 2 - MILANO HP - HOCKEY TEAM FEMMINILE BOLOGNA
+UID:ab5cab47-fbcc-4a5d-99e5-e68f1aca115c@ab5c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 1\nGara 380\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHOCKEY CLUB ARGENTIA - MILANO HP\n\nRisultato: 1-0
@@ -55,61 +78,14 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20250927T150000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 1 - HOCKEY CLUB ARGENTIA - MILANO HP
-UID:7b621b60-ab86-4538-beed-c00b3b8d20f8@7b62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 6\nGara 390\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - HOCKEY CLUB ARGENTIA
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260308T100000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 6 - MILANO HP - HOCKEY CLUB ARGENTIA
-UID:c0feecf5-0bbb-40a5-9486-a613443f796a@c0fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 389\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - CUS PADOVA ASD
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260301T120000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5 - MILANO HP - CUS PADOVA ASD
-UID:eabd5d37-78e3-4dac-a7ec-3db1fddc151a@eabd.org
+UID:408cfddf-1a21-4b15-b4d4-b081c98c6fb4@408c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 10\nGara 399\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - MILANO HP
 LOCATION: via J. Corrado\, 4 Padova
 DTSTART:20260503T090000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 10 - CUS PADOVA ASD - MILANO HP
-UID:f1b913dd-721c-4c9d-8a91-5cedd86aa3fa@f1b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 385\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - HOCKEY CLUB RIVA\n\nRisultato: 1-3
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20251025T153000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3 - MILANO HP - HOCKEY CLUB RIVA
-UID:ceeb58b8-5369-477c-8a3b-aab44b03af82@ceeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 7\nGara 392\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - MILANO HP
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20260321T123000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 7 - HOCKEY TEAM FEMMINILE BOLOGNA - MILANO HP
-UID:4b532f8b-170b-4b6a-85ad-265453ee78f0@4b53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 389\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - CUS PADOVA ASD
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260301T120000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5 - MILANO HP - CUS PADOVA ASD
-UID:5f0e0898-4314-41c9-8816-c328708d5ad2@5f0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 10\nGara 399\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - MILANO HP
-LOCATION: via J. Corrado\, 4 Padova
-DTSTART:20260503T090000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 10 - CUS PADOVA ASD - MILANO HP
-UID:302f201f-2ded-4211-bde0-6ef1a17fe2ac@302f.org
+UID:5ff0d192-f65c-4ea8-9b23-4390abc8d809@5ff0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 8\nGara 395\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - MILANO HP
@@ -117,6 +93,30 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260411T140000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 8 - HOCKEY CLUB RIVA - MILANO HP
-UID:2d2a1fb0-916e-44a4-8d0b-8d43c38ec1db@2d2a.org
+UID:0b8019f9-368c-4270-a583-69dfebad6633@0b80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 6\nGara 390\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - HOCKEY CLUB ARGENTIA
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260308T100000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 6 - MILANO HP - HOCKEY CLUB ARGENTIA
+UID:f138fb19-87dc-42da-ba73-29736d688838@f138.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 6\nGara 390\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - HOCKEY CLUB ARGENTIA
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260308T100000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 6 - MILANO HP - HOCKEY CLUB ARGENTIA
+UID:aa0a73ec-8a00-4aa2-8d91-15461455ecb9@aa0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 2\nGara 382\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - HOCKEY TEAM FEMMINILE BOLOGNA
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20251123T103000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 2 - MILANO HP - HOCKEY TEAM FEMMINILE BOLOGNA
+UID:3bf3ac59-fc5f-43ca-b788-fd0290f7d491@3bf3.org
 END:VEVENT
 END:VCALENDAR

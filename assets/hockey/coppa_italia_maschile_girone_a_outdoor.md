@@ -391,6 +391,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - CUS PISA ASD</strong>
 
+**Risultato: 3-2**
+
 Giornata: Gara 158
 
 Campo: CENTRO S. COMUNALE 
@@ -404,6 +406,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 ## Sab 01/11/2025 15.00
 
 <strong>ASD SUPERBA HC - HC BRA</strong>
+
+**Risultato: 1-8**
 
 Giornata: Gara 159
 

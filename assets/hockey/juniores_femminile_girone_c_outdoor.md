@@ -6,6 +6,8 @@
 
 <strong>UH CAPITOLINA - H.POTENZA PICENA</strong>
 
+**Risultato: 4-0**
+
 Giornata: Gara 293
 
 Campo: EUROMA STADIUM 

@@ -25,6 +25,8 @@ Location:  Via Marrani, snc Torre Santa Susanna
 
 <strong>HOCKEY CLUB ROMA - HOCKEY CLUB OLIMPIA</strong>
 
+**Risultato: 6-0**
+
 Giornata: Gara 212
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
