@@ -4,7 +4,7 @@
 
 ## Sab 08/11/2025 14.00
 
-<strong>SG AMSICORA - VINCENTE GIRONE A</strong>
+<strong>SG AMSICORA - HC BRA</strong>
 
 Giornata: Gara 1067
 

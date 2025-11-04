@@ -45,6 +45,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>AZ HOCKEY TEAM - ASD HOCKEY CLUB MOGLIANO</strong>
 
+**Risultato: 1-4**
+
 Giornata: Gara 586
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
@@ -60,6 +62,8 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 ## Dom 02/11/2025 15.00
 
 <strong>HOCKEY CLUB OLIMPIA - H.POTENZA PICENA</strong>
+
+**Risultato: 7-5**
 
 Giornata: Gara 587
 

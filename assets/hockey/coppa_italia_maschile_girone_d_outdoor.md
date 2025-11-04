@@ -375,7 +375,7 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 <strong>POLISPORTIVA FERRINI - SG AMSICORA</strong>
 
-**Risultato: 4-4**
+**Risultato: 4-5**
 
 Giornata: Gara 139
 

@@ -69,6 +69,8 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>HC VILLAFRANCA - CUS PADOVA ASD</strong>
 
+**Risultato: 2-2**
+
 Giornata: Gara 269
 
 Campo: Impianto comunale Nereo Faccioli 

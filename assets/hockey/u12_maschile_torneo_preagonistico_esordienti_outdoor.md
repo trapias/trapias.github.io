@@ -181,7 +181,7 @@ Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 
-## Dom 28/06/2026 11.00
+## Sab 22/11/2025 11.00
 
 <strong>HC GENOVA - SQUADRA JOLLY</strong>
 
@@ -197,7 +197,7 @@ Location: 20 rosso, Via Fieschi, Sant'Andrea, Portoria, Centro Est, Genova, Ligu
 Geo: Geo(latitude=44.4058513, longitude=8.9372219)
 
 
-## Dom 28/06/2026 11.00
+## Sab 22/11/2025 11.00
 
 <strong>HC GENOVA GIALLO BLU - SQUADRA JOLLY</strong>
 

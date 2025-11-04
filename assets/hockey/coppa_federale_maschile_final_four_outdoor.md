@@ -4,7 +4,7 @@
 
 ## Sab 15/11/2025 15.00
 
-<strong>VINCENTE SPAREGGIO GIR. A - VINCENTE SPAREGGIO GIR. C</strong>
+<strong>USD MONCALVESE HOCKEY - HOCKEY CLUB ROMA</strong>
 
 Giornata: Gara 1075
 
