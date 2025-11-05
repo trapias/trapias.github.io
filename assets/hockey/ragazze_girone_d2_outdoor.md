@@ -164,7 +164,7 @@ Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicc
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 
-## Sab 08/11/2025 15.00
+## Sab 10/01/2026 15.00
 
 <strong>LAZIO HOCKEY - HOCKEY CLUB ROMA</strong>
 
