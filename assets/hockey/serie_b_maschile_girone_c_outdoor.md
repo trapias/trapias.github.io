@@ -76,6 +76,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>HOCKEY CLUB EUR - H C ROMA  B</strong>
 
+**Risultato: 3-3**
+
 Giornata: Gara 526
 
 Campo: EUROMA STADIUM 
