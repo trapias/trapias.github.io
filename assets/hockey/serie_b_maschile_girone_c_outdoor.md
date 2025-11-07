@@ -37,7 +37,7 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 2
 
-## -
+## Dom 16/11/2025 11.00
 
 <strong>LAZIO HOCKEY B - HOCKEY CLUB EUR</strong>
 

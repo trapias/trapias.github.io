@@ -352,6 +352,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC GENOVA RAINBOW - HC GENOVA</strong>
 
+**Risultato: 1-12**
+
 Giornata: Gara 607
 
 Campo: CAMPO G.ARNALDI 

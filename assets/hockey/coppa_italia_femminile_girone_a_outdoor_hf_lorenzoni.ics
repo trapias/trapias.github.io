@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Femminile  - Girone A / Giornata 2\nGara 65\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - CUS TORINO\n\nRisultato: 2-1
-GEO:44.703194;7.836697
-LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20251026T140000Z
-SUMMARY:Coppa Italia Femminile  - Girone A / Giornata 2 - HF LORENZONI - CUS TORINO
-UID:7dfa7054-b596-4c5d-8534-bcbf68aebee7@7dfa.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Femminile  - Girone A / Giornata 3\nGara 67\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - HF LORENZONI\n\nRisultato: 0-15
 GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20251005T130000Z
 SUMMARY:Coppa Italia Femminile  - Girone A / Giornata 3 - HC GENOVA - HF LORENZONI
-UID:8d6db66e-8d1d-4274-8e39-094d6b9f0598@8d6d.org
+UID:73a7e87b-e4cb-45b8-a95d-e81c19807ab7@73a7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Femminile  - Girone A / Giornata 2\nGara 65\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - CUS TORINO\n\nRisultato: 2-1
@@ -23,7 +15,14 @@ GEO:44.703194;7.836697
 LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20251026T140000Z
 SUMMARY:Coppa Italia Femminile  - Girone A / Giornata 2 - HF LORENZONI - CUS TORINO
-UID:8382ebbc-9673-477d-b073-ba468d058983@8382.org
+UID:682d4313-f9b3-46f5-93f6-c1b57c3d39e7@682d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Femminile  - Girone A / Giornata 4\nGara 69\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HF LORENZONI\n\nRisultato: 0-6
+LOCATION: Via Goria\, 4 Moncalvo
+DTSTART:20251012T090000Z
+SUMMARY:Coppa Italia Femminile  - Girone A / Giornata 4 - USD MONCALVESE HOCKEY - HF LORENZONI
+UID:4632cbcf-b999-479c-8565-c034f10b1ac9@4632.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Femminile  - Girone A / Giornata 5\nGara 257\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - HF LORENZONI RIS.\n\nRisultato: 4-0
@@ -31,7 +30,22 @@ GEO:44.703194;7.836697
 LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20251019T130000Z
 SUMMARY:Coppa Italia Femminile  - Girone A / Giornata 5 - HF LORENZONI - HF LORENZONI RIS.
-UID:26b1e078-3bea-48ac-abff-12703213e9bd@26b1.org
+UID:df85fc06-3b3e-423f-8924-90392294b351@df85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Femminile  - Girone A / Giornata 5\nGara 257\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - HF LORENZONI RIS.\n\nRisultato: 4-0
+GEO:44.703194;7.836697
+LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20251019T130000Z
+SUMMARY:Coppa Italia Femminile  - Girone A / Giornata 5 - HF LORENZONI - HF LORENZONI RIS.
+UID:097d8c65-cf45-475d-be6c-8f64e657d40b@097d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Femminile  - Girone A / Giornata 4\nGara 69\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HF LORENZONI\n\nRisultato: 0-6
+LOCATION: Via Goria\, 4 Moncalvo
+DTSTART:20251012T090000Z
+SUMMARY:Coppa Italia Femminile  - Girone A / Giornata 4 - USD MONCALVESE HOCKEY - HF LORENZONI
+UID:3f71cabb-d9aa-42a3-99e9-c10542e60ccf@3f71.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Femminile  - Girone A / Giornata 3\nGara 67\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - HF LORENZONI\n\nRisultato: 0-15
@@ -39,28 +53,14 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20251005T130000Z
 SUMMARY:Coppa Italia Femminile  - Girone A / Giornata 3 - HC GENOVA - HF LORENZONI
-UID:3d9479ab-be9a-4fb2-967c-95818589c78b@3d94.org
+UID:c2814232-69c9-4736-8dc7-ffb1a0c4a490@c281.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Femminile  - Girone A / Giornata 5\nGara 257\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - HF LORENZONI RIS.\n\nRisultato: 4-0
+DESCRIPTION:Coppa Italia Femminile  - Girone A / Giornata 2\nGara 65\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - CUS TORINO\n\nRisultato: 2-1
 GEO:44.703194;7.836697
 LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20251019T130000Z
-SUMMARY:Coppa Italia Femminile  - Girone A / Giornata 5 - HF LORENZONI - HF LORENZONI RIS.
-UID:77d995ca-9e65-49a6-9ed5-6f1e687898f4@77d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Femminile  - Girone A / Giornata 4\nGara 69\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HF LORENZONI\n\nRisultato: 0-6
-LOCATION: Via Goria\, 4 Moncalvo
-DTSTART:20251012T090000Z
-SUMMARY:Coppa Italia Femminile  - Girone A / Giornata 4 - USD MONCALVESE HOCKEY - HF LORENZONI
-UID:f50483be-2412-419e-a0ae-be57a049371e@f504.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Femminile  - Girone A / Giornata 4\nGara 69\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HF LORENZONI\n\nRisultato: 0-6
-LOCATION: Via Goria\, 4 Moncalvo
-DTSTART:20251012T090000Z
-SUMMARY:Coppa Italia Femminile  - Girone A / Giornata 4 - USD MONCALVESE HOCKEY - HF LORENZONI
-UID:7f3b1f31-d2c5-4fa6-aed8-b7bec8cbd224@7f3b.org
+DTSTART:20251026T140000Z
+SUMMARY:Coppa Italia Femminile  - Girone A / Giornata 2 - HF LORENZONI - CUS TORINO
+UID:5414db92-a8d5-40ce-adcd-f19dfe715f10@5414.org
 END:VEVENT
 END:VCALENDAR
