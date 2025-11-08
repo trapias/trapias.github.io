@@ -8,14 +8,14 @@
 
 Giornata: Gara 124
 
-Campo: IMPIANTI SPORTIVI PARROCCHIALI 
+Campo: palestra tresto di ospedaletto euganeo 
 
-Indirizzo Campo:  VIA ROMA, snc - Casale di Scodosia
+Indirizzo Campo:  via filippi nuova, 1 - Ospedaletto Euganeo
 
-Location: Via Roma, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1879168, longitude=11.4705266)
-Location: Via Roma, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1879168, longitude=11.4705266)
+Location: Via Filippi Nuova, Tresto, Ospedaletto Euganeo, Padova, Veneto, 35045, Italia
+Geo: Geo(latitude=45.2150444, longitude=11.6066439)
+Location: Via Filippi Nuova, Tresto, Ospedaletto Euganeo, Padova, Veneto, 35045, Italia
+Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
 
 
@@ -27,14 +27,14 @@ Geo: Geo(latitude=45.1879168, longitude=11.4705266)
 
 Giornata: Gara 125
 
-Campo: IMPIANTI SPORTIVI PARROCCHIALI 
+Campo: palestra tresto di ospedaletto euganeo 
 
-Indirizzo Campo:  VIA ROMA, snc - Casale di Scodosia
+Indirizzo Campo:  via filippi nuova, 1 - Ospedaletto Euganeo
 
-Location: Via Roma, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1879168, longitude=11.4705266)
-Location: Via Roma, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1879168, longitude=11.4705266)
+Location: Via Filippi Nuova, Tresto, Ospedaletto Euganeo, Padova, Veneto, 35045, Italia
+Geo: Geo(latitude=45.2150444, longitude=11.6066439)
+Location: Via Filippi Nuova, Tresto, Ospedaletto Euganeo, Padova, Veneto, 35045, Italia
+Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
 
 
@@ -46,12 +46,12 @@ Geo: Geo(latitude=45.1879168, longitude=11.4705266)
 
 Giornata: Gara 126
 
-Campo: IMPIANTI SPORTIVI PARROCCHIALI 
+Campo: palestra tresto di ospedaletto euganeo 
 
-Indirizzo Campo:  VIA ROMA, snc - Casale di Scodosia
+Indirizzo Campo:  via filippi nuova, 1 - Ospedaletto Euganeo
 
-Location: Via Roma, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1879168, longitude=11.4705266)
-Location: Via Roma, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1879168, longitude=11.4705266)
+Location: Via Filippi Nuova, Tresto, Ospedaletto Euganeo, Padova, Veneto, 35045, Italia
+Geo: Geo(latitude=45.2150444, longitude=11.6066439)
+Location: Via Filippi Nuova, Tresto, Ospedaletto Euganeo, Padova, Veneto, 35045, Italia
+Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 

@@ -2,7 +2,7 @@
 
 # Coppa Federale Maschile - OUTDOOR  - Final Four / Semifinale 
 
-## Sab 15/11/2025 15.00
+## Sab 15/11/2025 14.30
 
 <strong>USD MONCALVESE HOCKEY - HOCKEY CLUB ROMA</strong>
 
@@ -18,7 +18,7 @@ Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerat
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 
-## Sab 15/11/2025 17.00
+## Sab 15/11/2025 16.30
 
 <strong>HOCKEY CLUB RIVA - POL GALATEA</strong>
 

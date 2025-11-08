@@ -20,7 +20,7 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 ## Dom 30/11/2025 12.00
 
-<strong>MILANO HP - HOCKEY CLUB RIVA</strong>
+<strong>CUS TORINO - HOCKEY CLUB RIVA</strong>
 
 Giornata: Gara 8
 
@@ -36,7 +36,7 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 ## Dom 30/11/2025 13.00
 
-<strong>CUS PADOVA ASD - CUS TORINO</strong>
+<strong>S.G. AMSICORA ASD - MILANO HP</strong>
 
 Giornata: Gara 9
 
@@ -52,7 +52,7 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 ## Dom 30/11/2025 14.00
 
-<strong>S.G. AMSICORA ASD - MILANO HP</strong>
+<strong>CUS PADOVA ASD - ASD HF LORENZONI</strong>
 
 Giornata: Gara 10
 
@@ -68,7 +68,7 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 ## Dom 30/11/2025 15.00
 
-<strong>CUS PADOVA ASD - ASD HF LORENZONI</strong>
+<strong>MILANO HP - HOCKEY CLUB RIVA</strong>
 
 Giornata: Gara 11
 
@@ -84,7 +84,7 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 ## Dom 30/11/2025 16.00
 
-<strong>CUS TORINO - HOCKEY CLUB RIVA</strong>
+<strong>CUS PADOVA ASD - CUS TORINO</strong>
 
 Giornata: Gara 12
 
