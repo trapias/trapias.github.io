@@ -150,6 +150,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>CUS PISA ASD - GENOVA H 1980</strong>
 
+**Risultato: 1-10**
+
 Giornata: Gara 313
 
 Campo: CAMPO HOCKEY PRATO 

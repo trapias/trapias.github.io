@@ -6,6 +6,8 @@
 
 <strong>HF LORENZONI - SG AMSICORA</strong>
 
+**Risultato: 2-0**
+
 Giornata: Gara 1071
 
 Campo: Augusto Lorenzoni 
@@ -21,6 +23,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 ## Sab 08/11/2025 14.00
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - LAZIO HOCKEY</strong>
+
+**Risultato: 1-0**
 
 Giornata: Gara 1072
 

@@ -152,6 +152,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>POL GALATEA - BUTTERFLY ROMA</strong>
 
+**Risultato: 3-1**
+
 Giornata: Gara 706
 
 Campo: DUSMET 
