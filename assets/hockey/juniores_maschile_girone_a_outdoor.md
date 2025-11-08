@@ -198,6 +198,8 @@ Location:  Via Goria, 4 Moncalvo
 
 <strong>HCU RASSEMBLEMENT TORINO - HP VALCHISONE</strong>
 
+**Risultato: 1-3**
+
 Giornata: Gara 642
 
 Campo: Tazzoli 

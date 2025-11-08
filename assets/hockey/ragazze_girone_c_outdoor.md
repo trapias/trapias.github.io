@@ -154,6 +154,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC RAINBOW SAMPIERDARENA - SPORT AND GO</strong>
 
+**Risultato: 0-4**
+
 Giornata: Gara 329
 
 Campo: CAMPO G.ARNALDI 
