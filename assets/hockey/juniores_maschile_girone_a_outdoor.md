@@ -95,6 +95,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>ASD CERNUSCO FIELD HOCKEY - USD MONCALVESE HOCKEY</strong>
 
+**Risultato: 0-3**
+
 Giornata: Gara 637
 
 Campo: Campo Comunale 

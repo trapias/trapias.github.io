@@ -59,6 +59,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>CUS PISA ASD - SPORT AND GO</strong>
 
+**Risultato: 0-1**
+
 Giornata: Gara 324
 
 Campo: CAMPO HOCKEY PRATO 

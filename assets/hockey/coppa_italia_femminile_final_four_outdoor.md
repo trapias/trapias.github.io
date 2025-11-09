@@ -43,7 +43,7 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 ## Dom 09/11/2025 10.00
 
-<strong> - </strong>
+<strong>SG AMSICORA - LAZIO HOCKEY</strong>
 
 Giornata: Gara 1073
 
@@ -59,7 +59,7 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 ## Dom 09/11/2025 12.00
 
-<strong> - </strong>
+<strong>HF LORENZONI - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
 
 Giornata: Gara 1074
 

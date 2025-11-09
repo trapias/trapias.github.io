@@ -43,7 +43,7 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 ## Dom 09/11/2025 10.00
 
-<strong> - </strong>
+<strong>SG AMSICORA - BUTTERFLY ROMA</strong>
 
 Giornata: Gara 1069
 
@@ -59,7 +59,7 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 ## Dom 09/11/2025 14.00
 
-<strong> - </strong>
+<strong>HC BRA - HOCKEY TEAM BOLOGNA</strong>
 
 Giornata: Gara 1070
 
