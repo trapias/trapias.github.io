@@ -87,6 +87,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>HF GENOVA 1980 - SPORT AND GO</strong>
 
+**Risultato: 1-7**
+
 Giornata: Gara 338
 
 Campo: CAMPO G.ARNALDI 

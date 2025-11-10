@@ -6,6 +6,8 @@
 
 <strong>VALVERDE HOCKETY 2018 - SSD UNIME ARL</strong>
 
+**Risultato: 2-1**
+
 Giornata: Gara 948
 
 Campo: Comunale Valverde 

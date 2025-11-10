@@ -96,6 +96,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>CUS PISA ASD - ASD HOCKEY CLUB BONDENO</strong>
 
+**Risultato: 1-15**
+
 Giornata: Gara 447
 
 Campo: CAMPO HOCKEY PRATO 

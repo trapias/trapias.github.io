@@ -24,7 +24,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>ASD BAD LAKE HOCKEY - ASD BAD LAKE HOCKEY B</strong>
 
-**Risultato: 3-1**
+**Risultato: 3-2**
 
 Giornata: Gara 342
 
@@ -158,6 +158,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>ASD BAD LAKE HOCKEY - GENOVA H 1980 ROVESCIO</strong>
 
+**Risultato: 12-0**
+
 Giornata: Gara 349
 
 Campo: CAMPO G.ARNALDI 
@@ -173,6 +175,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Dom 09/11/2025 09.00
 
 <strong>HC GENOVA - ASD BAD LAKE HOCKEY B</strong>
+
+**Risultato: 2-0**
 
 Giornata: Gara 350
 

@@ -82,6 +82,8 @@ Location:  Via Marrani, snc Torre Santa Susanna
 
 <strong>ASD HOCKEY AVEZZANO 1969 - HOCKEY CLUB OLIMPIA</strong>
 
+**Risultato: 0-6**
+
 Giornata: Gara 590
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
@@ -289,6 +291,8 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 ## Dom 09/11/2025 16.30
 
 <strong>AZ HOCKEY TEAM - HOCKEY CLUB OLIMPIA</strong>
+
+**Risultato: 1-6**
 
 Giornata: Gara 602
 

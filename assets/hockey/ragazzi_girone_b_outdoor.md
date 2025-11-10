@@ -222,6 +222,8 @@ Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 
 <strong>HOCKEY CLUB RIVA - CSP SAN GIORGIO</strong>
 
+**Risultato: 5-1**
+
 Giornata: Gara 412
 
 Campo: Comunale Mori 

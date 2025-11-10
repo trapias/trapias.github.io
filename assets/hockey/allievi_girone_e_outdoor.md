@@ -82,6 +82,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>ASD SAN PIETRO CLARENZA - POL GALATEA</strong>
 
+**Risultato: 0-14**
+
 Giornata: Gara 955
 
 Campo: DUSMET 
@@ -97,6 +99,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 ## Sab 08/11/2025 15.30
 
 <strong>PGS DON BOSCO 2000 ASD - SSD UNIME ARL</strong>
+
+**Risultato: 1-1**
 
 Giornata: Gara 956
 

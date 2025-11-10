@@ -6,6 +6,8 @@
 
 <strong>HC LARIO - CUS TORINO</strong>
 
+**Risultato: 8-4**
+
 Giornata: Gara 674
 
 Campo: Campo Comunale 

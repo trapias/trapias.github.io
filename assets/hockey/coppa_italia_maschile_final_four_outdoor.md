@@ -45,6 +45,8 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 <strong>SG AMSICORA - BUTTERFLY ROMA</strong>
 
+**Risultato: 3-2**
+
 Giornata: Gara 1069
 
 Campo: PINO PALMIERI 
@@ -60,6 +62,8 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 ## Dom 09/11/2025 14.00
 
 <strong>HC BRA - HOCKEY TEAM BOLOGNA</strong>
+
+**Risultato: 4-3**
 
 Giornata: Gara 1070
 

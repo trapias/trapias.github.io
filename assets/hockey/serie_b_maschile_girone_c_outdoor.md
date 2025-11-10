@@ -6,6 +6,8 @@
 
 <strong>ASD HOCKEY CAMPAGNANO - LAZIO HOCKEY B</strong>
 
+**Risultato: 3-5**
+
 Giornata: Gara 522
 
 Campo: CENTRO GIULIO ONESTI 
@@ -21,6 +23,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 ## Dom 09/11/2025 11.00
 
 <strong>H C ROMA  B - AZ HOCKEY TEAM</strong>
+
+**Risultato: 2-0**
 
 Giornata: Gara 523
 

@@ -168,6 +168,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HCU RASSEMBLEMENT TORINO</strong>
 
+**Risultato: 2-11**
+
 Giornata: Gara 690
 
 Campo: Campo Comunale 
@@ -229,6 +231,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 ## Dom 09/11/2025 16.00
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HCU RASSEMBLEMENT TORINO RIS</strong>
+
+**Risultato: 3-3**
 
 Giornata: Gara 693
 
