@@ -285,7 +285,7 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 13
 
-## Dom 16/11/2025 11.00
+## Mar 11/11/2025 17.30
 
 <strong>HCU RASSEMBLEMENT TORINO - HCU RASSEMBLEMENT TORINO RIS</strong>
 
