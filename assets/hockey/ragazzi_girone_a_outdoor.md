@@ -289,6 +289,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>HCU RASSEMBLEMENT TORINO - HCU RASSEMBLEMENT TORINO RIS</strong>
 
+**Risultato: 5-0**
+
 Giornata: Gara 696
 
 Campo: Tazzoli 

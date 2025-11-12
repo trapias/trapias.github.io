@@ -48,6 +48,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>AZ HOCKEY TEAM - UH CAPITOLINA</strong>
 
+**Risultato: 1-4**
+
 Giornata: Gara 623
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
