@@ -2,7 +2,7 @@
 
 # Juniores Maschile - OUTDOOR  - Girone A / Giornata 1
 
-## Sab 15/11/2025 15.00
+## -
 
 <strong>ASD CERNUSCO FIELD HOCKEY - SCUOLA HOCKEY INDER SINGH</strong>
 

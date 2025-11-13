@@ -25,6 +25,8 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>AZ HOCKEY TEAM - ASD HOCKEY CLUB MOGLIANO</strong>
 
+**Risultato: 2-0**
+
 Giornata: Gara 567
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
