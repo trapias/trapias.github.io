@@ -2,11 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 1\nGara 958\nOratorio Salesiano - Via S.G.Bosco\, 6 Barcellona Pozzo di Gotto\nPGS DON BOSCO 2000 ASD - POL GALATEA\n\nRisultato: 2-1
-LOCATION: Via S.G.Bosco\, 6 Barcellona Pozzo di Gotto
+DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 1\nGara 959\nCittadella Universitaria - Viale Annunziata\, snc Messina\nSSD UNIME ARL - ASD SAN PIETRO CLARENZA\n\nRisultato: 7-0
+GEO:38.225545;15.553272
+LOCATION:Viale Giovanni Palatucci\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
 DTSTART:20251019T090000Z
-SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 1 - PGS DON BOSCO 2000 ASD - POL GALATEA
-UID:c4a4b034-d4e5-4069-8ebb-b0cbe96ef3e3@c4a4.org
+SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 1 - SSD UNIME ARL - ASD SAN PIETRO CLARENZA
+UID:22954052-840d-43fa-925c-de47fe523648@2295.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 3\nGara 956\nOratorio Salesiano - Via S.G.Bosco\, 6 Barcellona Pozzo di Gotto\nPGS DON BOSCO 2000 ASD - SSD UNIME ARL\n\nRisultato: 1-1
+LOCATION: Via S.G.Bosco\, 6 Barcellona Pozzo di Gotto
+DTSTART:20251108T143000Z
+SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 3 - PGS DON BOSCO 2000 ASD - SSD UNIME ARL
+UID:697b19d8-c847-486a-8005-e10c8adbd1b6@697b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 2\nGara 960\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nPOL GALATEA - SSD UNIME ARL\n\nRisultato: 10-0
@@ -14,14 +22,14 @@ GEO:37.529426;15.096557
 LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
 DTSTART:20251026T090000Z
 SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 2 - POL GALATEA - SSD UNIME ARL
-UID:ae457d81-07e4-4834-89e7-ac96a533239d@ae45.org
+UID:bcd76e5a-cfbd-484f-b101-d1e9c2949f97@bcd7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 1\nGara 958\nOratorio Salesiano - Via S.G.Bosco\, 6 Barcellona Pozzo di Gotto\nPGS DON BOSCO 2000 ASD - POL GALATEA\n\nRisultato: 2-1
 LOCATION: Via S.G.Bosco\, 6 Barcellona Pozzo di Gotto
 DTSTART:20251019T090000Z
 SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 1 - PGS DON BOSCO 2000 ASD - POL GALATEA
-UID:c4b9b966-25ad-4272-b60b-0266b3d9c989@c4b9.org
+UID:fdcc8623-00cd-4407-926d-305207e94ade@fdcc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 3\nGara 955\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nASD SAN PIETRO CLARENZA - POL GALATEA\n\nRisultato: 0-14
@@ -29,7 +37,15 @@ GEO:37.529426;15.096557
 LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
 DTSTART:20251108T143000Z
 SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 3 - ASD SAN PIETRO CLARENZA - POL GALATEA
-UID:a7c7348f-988f-4d47-924a-f72a92b69279@a7c7.org
+UID:efdbe0f5-32b6-45e5-874d-81e13332276a@efdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 2\nGara 963\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nASD SAN PIETRO CLARENZA - PGS DON BOSCO 2000 ASD\n\nRisultato: 1-13
+GEO:37.529426;15.096557
+LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
+DTSTART:20251026T100000Z
+SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 2 - ASD SAN PIETRO CLARENZA - PGS DON BOSCO 2000 ASD
+UID:49fd4516-010a-430b-9345-1344d4f1f7a6@49fd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 1\nGara 959\nCittadella Universitaria - Viale Annunziata\, snc Messina\nSSD UNIME ARL - ASD SAN PIETRO CLARENZA\n\nRisultato: 7-0
@@ -37,7 +53,23 @@ GEO:38.225545;15.553272
 LOCATION:Viale Giovanni Palatucci\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
 DTSTART:20251019T090000Z
 SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 1 - SSD UNIME ARL - ASD SAN PIETRO CLARENZA
-UID:3a1d3714-0fe8-4234-979a-2be39bd0279c@3a1d.org
+UID:895b5dfb-9018-44f7-baea-000b8f64a378@895b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 3\nGara 955\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nASD SAN PIETRO CLARENZA - POL GALATEA\n\nRisultato: 0-14
+GEO:37.529426;15.096557
+LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
+DTSTART:20251108T143000Z
+SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 3 - ASD SAN PIETRO CLARENZA - POL GALATEA
+UID:acc3d48e-c3dc-44ac-a48f-87f93c1f8573@acc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 2\nGara 963\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nASD SAN PIETRO CLARENZA - PGS DON BOSCO 2000 ASD\n\nRisultato: 1-13
+GEO:37.529426;15.096557
+LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
+DTSTART:20251026T100000Z
+SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 2 - ASD SAN PIETRO CLARENZA - PGS DON BOSCO 2000 ASD
+UID:d5799460-214d-4ccb-9ba0-dc24bb7ac2aa@d579.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 2\nGara 960\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nPOL GALATEA - SSD UNIME ARL\n\nRisultato: 10-0
@@ -45,52 +77,20 @@ GEO:37.529426;15.096557
 LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
 DTSTART:20251026T090000Z
 SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 2 - POL GALATEA - SSD UNIME ARL
-UID:33f91034-751c-42fc-8fe5-3e1532f2b93c@33f9.org
+UID:e05e3e37-1a93-4c26-a3b0-9d7ae57c5183@e05e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 3\nGara 956\nOratorio Salesiano - Via S.G.Bosco\, 6 Barcellona Pozzo di Gotto\nPGS DON BOSCO 2000 ASD - SSD UNIME ARL\n\nRisultato: 1-1
 LOCATION: Via S.G.Bosco\, 6 Barcellona Pozzo di Gotto
 DTSTART:20251108T143000Z
 SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 3 - PGS DON BOSCO 2000 ASD - SSD UNIME ARL
-UID:562ffaf0-01b3-4554-a4f2-ed96a2d9c534@562f.org
+UID:fc5af30c-d740-4d52-91c1-45d10b8a6ae7@fc5a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 3\nGara 956\nOratorio Salesiano - Via S.G.Bosco\, 6 Barcellona Pozzo di Gotto\nPGS DON BOSCO 2000 ASD - SSD UNIME ARL\n\nRisultato: 1-1
+DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 1\nGara 958\nOratorio Salesiano - Via S.G.Bosco\, 6 Barcellona Pozzo di Gotto\nPGS DON BOSCO 2000 ASD - POL GALATEA\n\nRisultato: 2-1
 LOCATION: Via S.G.Bosco\, 6 Barcellona Pozzo di Gotto
-DTSTART:20251108T143000Z
-SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 3 - PGS DON BOSCO 2000 ASD - SSD UNIME ARL
-UID:484b40f3-9239-422e-807c-9f121a0dcccc@484b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 2\nGara 963\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nASD SAN PIETRO CLARENZA - PGS DON BOSCO 2000 ASD\n\nRisultato: 1-13
-GEO:37.529426;15.096557
-LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
-DTSTART:20251026T100000Z
-SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 2 - ASD SAN PIETRO CLARENZA - PGS DON BOSCO 2000 ASD
-UID:dec16edc-9a20-4bcf-867a-a4d07053eef6@dec1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 1\nGara 959\nCittadella Universitaria - Viale Annunziata\, snc Messina\nSSD UNIME ARL - ASD SAN PIETRO CLARENZA\n\nRisultato: 7-0
-GEO:38.225545;15.553272
-LOCATION:Viale Giovanni Palatucci\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
 DTSTART:20251019T090000Z
-SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 1 - SSD UNIME ARL - ASD SAN PIETRO CLARENZA
-UID:3f754e0a-b957-4510-a5ac-c4146c88cc8a@3f75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 3\nGara 955\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nASD SAN PIETRO CLARENZA - POL GALATEA\n\nRisultato: 0-14
-GEO:37.529426;15.096557
-LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
-DTSTART:20251108T143000Z
-SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 3 - ASD SAN PIETRO CLARENZA - POL GALATEA
-UID:da45c770-9f8c-423e-b8e0-9b11a59b88ea@da45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 2\nGara 963\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nASD SAN PIETRO CLARENZA - PGS DON BOSCO 2000 ASD\n\nRisultato: 1-13
-GEO:37.529426;15.096557
-LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
-DTSTART:20251026T100000Z
-SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 2 - ASD SAN PIETRO CLARENZA - PGS DON BOSCO 2000 ASD
-UID:42e943aa-cd14-4ae7-9cab-5e5f23f03c02@42e9.org
+SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 1 - PGS DON BOSCO 2000 ASD - POL GALATEA
+UID:e7f6fb53-a811-449e-8a44-53d2e8e74e9d@e7f6.org
 END:VEVENT
 END:VCALENDAR

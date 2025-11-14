@@ -94,7 +94,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Dom 23/11/2025 11.00
+## Dom 03/05/2026 13.00
 
 <strong>AZ HOCKEY TEAM - H.POTENZA PICENA</strong>
 

@@ -20,7 +20,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## -
+## Sab 29/11/2025 13.30
 
 <strong>BUTTERFLY ROMA - HOCKEY CLUB ROMA</strong>
 
