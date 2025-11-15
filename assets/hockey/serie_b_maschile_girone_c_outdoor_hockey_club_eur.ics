@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 7\nGara 540\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nHOCKEY CLUB EUR - LAZIO HOCKEY B
+DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 8\nGara 536\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nH C ROMA  B - HOCKEY CLUB EUR
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20260524T090000Z
+SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 8 - H C ROMA  B - HOCKEY CLUB EUR
+UID:fa4b2a48-c7da-45de-8393-59c25b837a89@fa4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 10\nGara 534\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nHOCKEY CLUB EUR - ASD HOCKEY CAMPAGNANO
 GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260510T093000Z
-SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 7 - HOCKEY CLUB EUR - LAZIO HOCKEY B
-UID:11fdaa7c-3f6b-464e-8eb7-5c26fcdd1a25@11fd.org
+DTSTART:20260607T093000Z
+SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 10 - HOCKEY CLUB EUR - ASD HOCKEY CAMPAGNANO
+UID:a7cb7829-c4ab-4001-ba14-df5855789763@a7cb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 9\nGara 539\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - HOCKEY CLUB EUR
@@ -15,15 +23,7 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20260531T093000Z
 SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 9 - AZ HOCKEY TEAM - HOCKEY CLUB EUR
-UID:b633ab08-42a9-4a93-8f35-7d4829d64811@b633.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 10\nGara 534\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nHOCKEY CLUB EUR - ASD HOCKEY CAMPAGNANO
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260607T093000Z
-SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 10 - HOCKEY CLUB EUR - ASD HOCKEY CAMPAGNANO
-UID:607553d5-083b-4f72-b358-abf082ef465c@6075.org
+UID:e04c5965-42fa-480d-a315-71670381984e@e04c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 5\nGara 524\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nASD HOCKEY CAMPAGNANO - HOCKEY CLUB EUR
@@ -31,47 +31,7 @@ GEO:41.932122;12.486847
 LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
 DTSTART:20260419T080000Z
 SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 5 - ASD HOCKEY CAMPAGNANO - HOCKEY CLUB EUR
-UID:7c6e1319-fe08-416d-8188-96381043c627@7c6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 8\nGara 536\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nH C ROMA  B - HOCKEY CLUB EUR
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20260524T090000Z
-SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 8 - H C ROMA  B - HOCKEY CLUB EUR
-UID:59ce4a15-2d51-406d-8cfe-f96f7943387f@59ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 10\nGara 534\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nHOCKEY CLUB EUR - ASD HOCKEY CAMPAGNANO
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260607T093000Z
-SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 10 - HOCKEY CLUB EUR - ASD HOCKEY CAMPAGNANO
-UID:dd0e066b-cc9e-4860-b0f1-454b0c38bda9@dd0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 7\nGara 540\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nHOCKEY CLUB EUR - LAZIO HOCKEY B
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260510T093000Z
-SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 7 - HOCKEY CLUB EUR - LAZIO HOCKEY B
-UID:0c0d50b8-e94c-431b-b76c-cfef1dce20ec@0c0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 3\nGara 526\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nHOCKEY CLUB EUR - H C ROMA  B\n\nRisultato: 3-3
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20251105T190000Z
-SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 3 - HOCKEY CLUB EUR - H C ROMA  B
-UID:5f4c795b-ef96-4a00-b59d-fee1a77af022@5f4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 4\nGara 529\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nHOCKEY CLUB EUR - AZ HOCKEY TEAM
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260322T103000Z
-SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 4 - HOCKEY CLUB EUR - AZ HOCKEY TEAM
-UID:15a15141-4f75-4053-9382-de408a01dd90@15a1.org
+UID:544d4a3e-6fcb-46d1-9a91-1991182abd2d@544d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 2\nGara 530\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY B - HOCKEY CLUB EUR
@@ -79,7 +39,7 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20251116T100000Z
 SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 2 - LAZIO HOCKEY B - HOCKEY CLUB EUR
-UID:651f44d5-723c-4035-9a25-5e4f014b5193@651f.org
+UID:46f5a30a-e16d-4189-921f-9f3effc28fa1@46f5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 3\nGara 526\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nHOCKEY CLUB EUR - H C ROMA  B\n\nRisultato: 3-3
@@ -87,31 +47,15 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20251105T190000Z
 SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 3 - HOCKEY CLUB EUR - H C ROMA  B
-UID:0b6be764-d9a8-4d77-a5f6-924b363eb3d7@0b6b.org
+UID:9b36fb8c-746e-4740-80ed-5259cf728e86@9b36.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 5\nGara 524\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nASD HOCKEY CAMPAGNANO - HOCKEY CLUB EUR
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260419T080000Z
-SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 5 - ASD HOCKEY CAMPAGNANO - HOCKEY CLUB EUR
-UID:2dbb9e65-c2ba-41fb-9abe-2bf2cf8959e0@2dbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 4\nGara 529\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nHOCKEY CLUB EUR - AZ HOCKEY TEAM
+DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 7\nGara 540\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nHOCKEY CLUB EUR - LAZIO HOCKEY B
 GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260322T103000Z
-SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 4 - HOCKEY CLUB EUR - AZ HOCKEY TEAM
-UID:b7d1a6b3-5277-46f8-8dcc-c429f3aa8f3c@b7d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 9\nGara 539\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - HOCKEY CLUB EUR
-GEO:42.043231;13.437583
-LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
-DTSTART:20260531T093000Z
-SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 9 - AZ HOCKEY TEAM - HOCKEY CLUB EUR
-UID:03e43a21-2d15-4fb8-9ff0-59ddbd71c572@03e4.org
+DTSTART:20260510T093000Z
+SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 7 - HOCKEY CLUB EUR - LAZIO HOCKEY B
+UID:187ada24-37bd-41eb-a021-ae6f3d1461f1@187a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 8\nGara 536\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nH C ROMA  B - HOCKEY CLUB EUR
@@ -119,6 +63,62 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20260524T090000Z
 SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 8 - H C ROMA  B - HOCKEY CLUB EUR
-UID:a593de4d-6be2-4ddf-b8aa-be8ab9d7a82b@a593.org
+UID:0532bfef-738d-46d6-b221-a5cf4e2fa529@0532.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 3\nGara 526\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nHOCKEY CLUB EUR - H C ROMA  B\n\nRisultato: 3-3
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20251105T190000Z
+SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 3 - HOCKEY CLUB EUR - H C ROMA  B
+UID:e06a878d-66ff-46a1-ac73-2099acfde4bb@e06a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 9\nGara 539\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - HOCKEY CLUB EUR
+GEO:42.043231;13.437583
+LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
+DTSTART:20260531T093000Z
+SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 9 - AZ HOCKEY TEAM - HOCKEY CLUB EUR
+UID:97d5cd3c-7825-4df0-896b-e2b1b66873b4@97d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 10\nGara 534\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nHOCKEY CLUB EUR - ASD HOCKEY CAMPAGNANO
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260607T093000Z
+SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 10 - HOCKEY CLUB EUR - ASD HOCKEY CAMPAGNANO
+UID:a933b554-3ff0-43bf-befd-8d8e0fe9a316@a933.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 4\nGara 529\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nHOCKEY CLUB EUR - AZ HOCKEY TEAM
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260322T103000Z
+SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 4 - HOCKEY CLUB EUR - AZ HOCKEY TEAM
+UID:64e7a188-485b-4c43-9f42-c9dcec82d888@64e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 7\nGara 540\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nHOCKEY CLUB EUR - LAZIO HOCKEY B
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260510T093000Z
+SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 7 - HOCKEY CLUB EUR - LAZIO HOCKEY B
+UID:5105ebcd-b7b7-42a8-ba3f-c9db1ee3d0ba@5105.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 4\nGara 529\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nHOCKEY CLUB EUR - AZ HOCKEY TEAM
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260322T103000Z
+SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 4 - HOCKEY CLUB EUR - AZ HOCKEY TEAM
+UID:d4dd9231-06ca-4444-a9e8-0b3432e96030@d4dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - OUTDOOR  - Girone C / Giornata 5\nGara 524\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nASD HOCKEY CAMPAGNANO - HOCKEY CLUB EUR
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260419T080000Z
+SUMMARY:Serie B Maschile - OUTDOOR  - Girone C / Giornata 5 - ASD HOCKEY CAMPAGNANO - HOCKEY CLUB EUR
+UID:38917802-bbe2-4baa-abed-716fefc3b311@3891.org
 END:VEVENT
 END:VCALENDAR

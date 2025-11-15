@@ -46,6 +46,8 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>H.POTENZA PICENA - ASD HOCKEY CLUB MOGLIANO</strong>
 
+**Risultato: 2-5**
+
 Giornata: Gara 568
 
 Campo: STADIO HOCKEY POTENZA PICENA 

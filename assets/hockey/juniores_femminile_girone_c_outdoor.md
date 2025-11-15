@@ -59,6 +59,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>UH CAPITOLINA - BUTTERFLY ROMA</strong>
 
+**Risultato: 2-5**
+
 Giornata: Gara 296
 
 Campo: EUROMA STADIUM 
