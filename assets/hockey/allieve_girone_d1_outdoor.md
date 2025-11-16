@@ -80,6 +80,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>BUTTERFLY ROMA - HOCKEY CLUB ROMA</strong>
 
+**Risultato: 7-0**
+
 Giornata: Gara 558
 
 Campo: CENTRO GIULIO ONESTI 

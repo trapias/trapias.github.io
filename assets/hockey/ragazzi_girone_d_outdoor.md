@@ -41,7 +41,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 # Ragazzi - OUTDOOR  - Girone D / Giornata 2
 
-## Dom 16/11/2025 16.00
+## Dom 01/03/2026 09.00
 
 <strong>ASD BAD LAKE HOCKEY B - GENOVA H 1980 DRITTO</strong>
 

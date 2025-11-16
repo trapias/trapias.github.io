@@ -130,6 +130,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - HCU RASSEMBLEMENT TORINO RIS</strong>
 
+**Risultato: 1-2**
+
 Giornata: Gara 688
 
 Campo: CENTRO S. COMUNALE 

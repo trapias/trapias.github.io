@@ -6,6 +6,8 @@
 
 <strong>USD MONCALVESE HOCKEY - HOCKEY CLUB ROMA</strong>
 
+**Risultato: 5-3**
+
 Giornata: Gara 1075
 
 Campo: BAGLIANO 
@@ -21,6 +23,8 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 ## Sab 15/11/2025 16.30
 
 <strong>HOCKEY CLUB RIVA - POL GALATEA</strong>
+
+**Risultato: 2-0**
 
 Giornata: Gara 1076
 
@@ -39,7 +43,7 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 ## Dom 16/11/2025 10.00
 
-<strong> - </strong>
+<strong>HOCKEY CLUB ROMA - POL GALATEA</strong>
 
 Giornata: Gara 1077
 
@@ -55,7 +59,7 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 ## Dom 16/11/2025 12.00
 
-<strong> - </strong>
+<strong>USD MONCALVESE HOCKEY - HOCKEY CLUB RIVA</strong>
 
 Giornata: Gara 1078
 

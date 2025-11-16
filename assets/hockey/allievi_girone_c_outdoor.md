@@ -118,6 +118,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>GENOVA H 1980 ROVESCIO - GENOVA H 1980 DRITTO</strong>
 
+**Risultato: 9-9**
+
 Giornata: Gara 357
 
 Campo: CAMPO G.ARNALDI 
@@ -282,6 +284,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Sab 15/11/2025 09.00
 
 <strong>GENOVA H 1980 ROVESCIO - ASD BAD LAKE HOCKEY B</strong>
+
+**Risultato: 2-10**
 
 Giornata: Gara 366
 

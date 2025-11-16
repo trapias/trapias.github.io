@@ -173,6 +173,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>CUS TORINO - MILANO HP</strong>
 
+**Risultato: 3-0**
+
 Giornata: Gara 672
 
 Campo: Tazzoli 

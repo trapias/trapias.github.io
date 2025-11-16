@@ -43,6 +43,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>LAZIO HOCKEY - H.POTENZA PICENA</strong>
 
+**Risultato: 7-0**
+
 Giornata: Gara 295
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

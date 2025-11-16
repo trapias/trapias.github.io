@@ -6,6 +6,8 @@
 
 <strong>HF GENOVA 1980 - CUS PISA ASD</strong>
 
+**Risultato: 2-1**
+
 Giornata: Gara 321
 
 Campo: CAMPO G.ARNALDI 
