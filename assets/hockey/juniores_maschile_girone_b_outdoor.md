@@ -88,6 +88,8 @@ Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 <strong>CSP SAN GIORGIO - HC VILLAFRANCA</strong>
 
+**Risultato: 3-3**
+
 Giornata: Gara 271
 
 Campo: campo hockey s. farinazzo 

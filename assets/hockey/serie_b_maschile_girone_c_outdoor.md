@@ -45,6 +45,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>LAZIO HOCKEY B - HOCKEY CLUB EUR</strong>
 
+**Risultato: 4-1**
+
 Giornata: Gara 530
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

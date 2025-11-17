@@ -45,6 +45,8 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 <strong>HOCKEY CLUB ROMA - POL GALATEA</strong>
 
+**Risultato: 3-4**
+
 Giornata: Gara 1077
 
 Campo: BAGLIANO 
@@ -60,6 +62,8 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 ## Dom 16/11/2025 12.00
 
 <strong>USD MONCALVESE HOCKEY - HOCKEY CLUB RIVA</strong>
+
+**Risultato: 3-0**
 
 Giornata: Gara 1078
 

@@ -154,6 +154,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>HOCKEY CLUB ARGENTIA - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
 
+**Risultato: 2-0**
+
 Giornata: Gara 388
 
 Campo: Campo Comunale 

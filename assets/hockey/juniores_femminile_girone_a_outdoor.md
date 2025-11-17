@@ -27,6 +27,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>HF LORENZONI - HF GENOVA 1980</strong>
 
+**Risultato: 3-3**
+
 Giornata: Gara 659
 
 Campo: Augusto Lorenzoni 

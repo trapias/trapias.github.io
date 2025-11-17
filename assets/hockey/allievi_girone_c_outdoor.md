@@ -266,6 +266,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>CUS PISA ASD - HC GENOVA</strong>
 
+**Risultato: 2-9**
+
 Giornata: Gara 365
 
 Campo: CAMPO HOCKEY PRATO 
@@ -318,6 +320,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Dom 16/11/2025 14.00
 
 <strong>CUS PISA ASD - HC GENOVA RAINBOW</strong>
+
+**Risultato: 2-4**
 
 Giornata: Gara 606
 

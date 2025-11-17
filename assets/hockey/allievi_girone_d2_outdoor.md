@@ -121,6 +121,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>HOCKEY CLUB OLIMPIA - AZ HOCKEY TEAM</strong>
 
+**Risultato: 9-7**
+
 Giornata: Gara 592
 
 Campo: Sintetico Comunale 

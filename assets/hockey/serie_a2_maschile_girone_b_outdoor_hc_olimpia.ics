@@ -2,20 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 821\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nPOL GALATEA - HC OLIMPIA
-GEO:37.529426;15.096557
-LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
-DTSTART:20260328T140000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 3 - POL GALATEA - HC OLIMPIA
-UID:17397583-ab27-4798-8113-8f8e30bb0403@1739.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 833\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nCERNUSCO FH - HC OLIMPIA
 GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20260502T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 7 - CERNUSCO FH - HC OLIMPIA
-UID:3d925c1f-f3e4-4c4a-9dda-0583bcc30818@3d92.org
+UID:bbbfb62a-8148-4d7b-ba6e-7392b1e98b35@bbbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 814\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - HC VILLAFRANCA
+LOCATION: Via Marrani\, snc Torre Santa Susanna
+DTSTART:20260314T140000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 1 - HC OLIMPIA - HC VILLAFRANCA
+UID:fe66e78f-c2de-4593-9a9a-ef00dac87e78@fe66.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 843\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - HC OLIMPIA
@@ -23,57 +22,28 @@ GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20260523T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 10 - HC GRANTORTO - HC OLIMPIA
-UID:7d79d6a2-1ca5-42ac-9794-1234d301b114@7d79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 828\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - HC GRANTORTO
-LOCATION: Via Marrani\, snc Torre Santa Susanna
-DTSTART:20260418T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 5 - HC OLIMPIA - HC GRANTORTO
-UID:210fc730-500b-4be1-a015-a6ebf739c9b0@210f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 825\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - HC OLIMPIA
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260411T120000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4 - HC RIVA - HC OLIMPIA
-UID:f8611a31-2372-47bf-b14d-4467c62ea12d@f861.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 836\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - POL GALATEA
-LOCATION: Via Marrani\, snc Torre Santa Susanna
-DTSTART:20260509T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 8 - HC OLIMPIA - POL GALATEA
-UID:c9c051f1-fc58-4c03-b906-589bb8d71a29@c9c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 840\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - HC RIVA
-LOCATION: Via Marrani\, snc Torre Santa Susanna
-DTSTART:20260516T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9 - HC OLIMPIA - HC RIVA
-UID:284fd6c6-ba3b-44e8-a25b-edc8b51f819f@284f.org
+UID:4ed6b4f6-aa3d-4395-aecf-802890ec84b3@4ed6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 829\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - HC OLIMPIA
 LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
 DTSTART:20260425T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 6 - HC VILLAFRANCA - HC OLIMPIA
-UID:a9626beb-1abd-4c3a-8307-10e83af7c945@a962.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 818\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - CERNUSCO FH
-LOCATION: Via Marrani\, snc Torre Santa Susanna
-DTSTART:20260321T140000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2 - HC OLIMPIA - CERNUSCO FH
-UID:3bf7b332-765a-4aef-ba9b-bd4ea0c9ac5f@3bf7.org
+UID:64bf0077-7f63-4769-aa9c-836044e5da3b@64bf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 828\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - HC GRANTORTO
 LOCATION: Via Marrani\, snc Torre Santa Susanna
 DTSTART:20260418T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 5 - HC OLIMPIA - HC GRANTORTO
-UID:99915f9a-55e8-49d9-b2af-2204d514d0fb@9991.org
+UID:bfb09ebe-6ba1-4288-8c0d-1421ce89171b@bfb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 818\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - CERNUSCO FH
+LOCATION: Via Marrani\, snc Torre Santa Susanna
+DTSTART:20260321T140000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2 - HC OLIMPIA - CERNUSCO FH
+UID:c9a7dd86-8db4-4a6d-a871-30f207deac85@c9a7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 821\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nPOL GALATEA - HC OLIMPIA
@@ -81,65 +51,28 @@ GEO:37.529426;15.096557
 LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
 DTSTART:20260328T140000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 3 - POL GALATEA - HC OLIMPIA
-UID:b514125f-8e9d-4b03-9da3-cf8a1fa52981@b514.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 818\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - CERNUSCO FH
-LOCATION: Via Marrani\, snc Torre Santa Susanna
-DTSTART:20260321T140000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2 - HC OLIMPIA - CERNUSCO FH
-UID:b1ad9947-ed01-4ef2-9cb6-a138c6c253ff@b1ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 814\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - HC VILLAFRANCA
-LOCATION: Via Marrani\, snc Torre Santa Susanna
-DTSTART:20260314T140000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 1 - HC OLIMPIA - HC VILLAFRANCA
-UID:862e0604-a941-4b21-809c-d02abbf84793@862e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 825\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - HC OLIMPIA
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260411T120000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4 - HC RIVA - HC OLIMPIA
-UID:0693becf-6e26-46d6-bb83-599d519d73a3@0693.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 836\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - POL GALATEA
-LOCATION: Via Marrani\, snc Torre Santa Susanna
-DTSTART:20260509T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 8 - HC OLIMPIA - POL GALATEA
-UID:2f758533-7798-4921-a52b-18278e587316@2f75.org
+UID:0a876436-892b-459e-ac08-edef573008ea@0a87.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 840\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - HC RIVA
 LOCATION: Via Marrani\, snc Torre Santa Susanna
 DTSTART:20260516T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9 - HC OLIMPIA - HC RIVA
-UID:ba051d7e-a4a8-4075-8e9b-079455018f34@ba05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 843\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - HC OLIMPIA
-GEO:45.601581;11.733989
-LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20260523T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 10 - HC GRANTORTO - HC OLIMPIA
-UID:7d032abf-2f5e-49c2-b614-6111c1fbef0e@7d03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 814\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - HC VILLAFRANCA
-LOCATION: Via Marrani\, snc Torre Santa Susanna
-DTSTART:20260314T140000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 1 - HC OLIMPIA - HC VILLAFRANCA
-UID:e37a168f-0dfb-46df-84e1-de9dcebb0eb7@e37a.org
+UID:abeb2cc7-11ff-45fb-9483-5b7a8987a95c@abeb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 829\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - HC OLIMPIA
 LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
 DTSTART:20260425T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 6 - HC VILLAFRANCA - HC OLIMPIA
-UID:8c315720-6ece-4553-ade8-c81548e2c840@8c31.org
+UID:a8aadbab-9fdd-4116-b3c7-8716290a80e5@a8aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 828\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - HC GRANTORTO
+LOCATION: Via Marrani\, snc Torre Santa Susanna
+DTSTART:20260418T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 5 - HC OLIMPIA - HC GRANTORTO
+UID:1a51f6d0-14cb-4766-9a78-aa1740b400b2@1a51.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 833\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nCERNUSCO FH - HC OLIMPIA
@@ -147,6 +80,73 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20260502T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 7 - CERNUSCO FH - HC OLIMPIA
-UID:f0b4e511-a687-4775-adc5-86057cbf1423@f0b4.org
+UID:ad22086c-49e5-4e89-ac85-88114aef6e20@ad22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 825\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - HC OLIMPIA
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260411T120000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4 - HC RIVA - HC OLIMPIA
+UID:daab6c59-87b3-4f04-9508-84bc14678d95@daab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 814\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - HC VILLAFRANCA
+LOCATION: Via Marrani\, snc Torre Santa Susanna
+DTSTART:20260314T140000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 1 - HC OLIMPIA - HC VILLAFRANCA
+UID:6de9fe1e-0676-4728-9040-ce7011062887@6de9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 818\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - CERNUSCO FH
+LOCATION: Via Marrani\, snc Torre Santa Susanna
+DTSTART:20260321T140000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2 - HC OLIMPIA - CERNUSCO FH
+UID:2865971f-a3b4-4616-b674-643e07e28cc5@2865.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 840\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - HC RIVA
+LOCATION: Via Marrani\, snc Torre Santa Susanna
+DTSTART:20260516T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9 - HC OLIMPIA - HC RIVA
+UID:30ae90c1-d690-445e-a0dc-012770932a25@30ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 843\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - HC OLIMPIA
+GEO:45.601581;11.733989
+LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20260523T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 10 - HC GRANTORTO - HC OLIMPIA
+UID:a9d5a85a-1f88-4b75-bf92-73bad0ab1869@a9d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 821\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nPOL GALATEA - HC OLIMPIA
+GEO:37.529426;15.096557
+LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
+DTSTART:20260328T140000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 3 - POL GALATEA - HC OLIMPIA
+UID:74f1f0d6-f494-4903-956e-a40b6d06bd83@74f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 825\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - HC OLIMPIA
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260411T120000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4 - HC RIVA - HC OLIMPIA
+UID:579eafe3-ef07-45b7-8d78-3996cbf171b0@579e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 836\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - POL GALATEA
+LOCATION: Via Marrani\, snc Torre Santa Susanna
+DTSTART:20260509T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 8 - HC OLIMPIA - POL GALATEA
+UID:1b47962f-8b81-4212-82d5-f6aaf5a35a96@1b47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 836\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - POL GALATEA
+LOCATION: Via Marrani\, snc Torre Santa Susanna
+DTSTART:20260509T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 8 - HC OLIMPIA - POL GALATEA
+UID:8e74eadd-56ea-4148-a681-e035ab31b32f@8e74.org
 END:VEVENT
 END:VCALENDAR
