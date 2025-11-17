@@ -137,6 +137,8 @@ Location:  Via Marrani, snc Torre Santa Susanna
 
 <strong>ASD HOCKEY AVEZZANO 1969 - H.POTENZA PICENA</strong>
 
+**Risultato: 0-12**
+
 Giornata: Gara 593
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
