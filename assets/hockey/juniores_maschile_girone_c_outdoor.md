@@ -134,6 +134,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC GENOVA - GENOVA H 1980 U18</strong>
 
+**Risultato: 5-0**
+
 Giornata: Gara 312
 
 Campo: CAMPO G.ARNALDI 
