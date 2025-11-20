@@ -78,7 +78,7 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 # Juniores Femminile - OUTDOOR  - Girone C / Giornata 3
 
-## Sab 22/11/2025 15.00
+## Sab 22/11/2025 14.30
 
 <strong>H.POTENZA PICENA - BUTTERFLY ROMA</strong>
 
