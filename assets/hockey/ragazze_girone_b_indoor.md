@@ -1,0 +1,96 @@
+
+
+# Ragazze  - Girone B / Giornata 1
+
+## Dom 14/12/2025 11.00
+
+<strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
+
+Giornata: Gara 327
+
+Campo: PALESTRA OLOF PALME 
+
+Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
+
+Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
+Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
+
+
+## Dom 14/12/2025 12.30
+
+<strong>ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC</strong>
+
+Giornata: Gara 328
+
+Campo: PALESTRA OLOF PALME 
+
+Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
+
+Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
+Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
+
+
+## Dom 14/12/2025 14.00
+
+<strong>ASD ADIGE UHC - CUS PADOVA ASD</strong>
+
+Giornata: Gara 329
+
+Campo: PALESTRA OLOF PALME 
+
+Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
+
+Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
+Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
+
+
+
+# Ragazze  - Girone B / Giornata 2
+
+## Mar 06/01/2026 11.00
+
+<strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
+
+Giornata: Gara 330
+
+Campo: Palestra Adriano Bonini 
+
+Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
+
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+
+
+## Mar 06/01/2026 12.30
+
+<strong>ASD ADIGE UHC - CUS PADOVA ASD</strong>
+
+Giornata: Gara 331
+
+Campo: Palestra Adriano Bonini 
+
+Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
+
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+
+
+## Mar 06/01/2026 14.00
+
+<strong>ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC</strong>
+
+Giornata: Gara 332
+
+Campo: Palestra Adriano Bonini 
+
+Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
+
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+

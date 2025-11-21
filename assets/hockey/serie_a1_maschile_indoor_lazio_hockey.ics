@@ -2,19 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 44\nPALA NEBIOLO - Via Umberto Fiore\,  Messina\nLAZIO HOCKEY - CSP SAN GIORGIO
-GEO:38.224983;15.556263
-LOCATION:Via Umberto Fiore\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
-DTSTART:20251213T110000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - LAZIO HOCKEY - CSP SAN GIORGIO
-UID:a62ae7b7-d3d7-40a3-8a8d-f70833516342@a62a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 1\nGara 35\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nLAZIO HOCKEY - USD MONCALVESE HOCKEY
 LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
 DTSTART:20251130T140000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 1 - LAZIO HOCKEY - USD MONCALVESE HOCKEY
-UID:e14327fd-f658-4e03-b22b-2c650928d9e1@e143.org
+UID:ee54e0fd-9bee-4b99-becc-231bd26caa57@ee54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 4\nGara 42\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nUSD MONCALVESE HOCKEY - LAZIO HOCKEY
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20260117T150000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 4 - USD MONCALVESE HOCKEY - LAZIO HOCKEY
+UID:fffc1a55-100d-4b2f-9f1d-edc6a81bfcf1@fffc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 5\nGara 58\nPOLO SCOLASTICO DI CLES - VIA IV NOVEMBRE\, 35 CLES\nLAZIO HOCKEY - HOCKEY CLUB RIVA
@@ -22,7 +21,37 @@ GEO:46.369305;11.032689
 LOCATION:Istituto Tecnico Economico e Tecnologico "C.A. Pilati"\, 35\, Via Quattro Novembre\, Pez\, Dres\, Cles\, Comunità della Val di Non\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38023\, Italia
 DTSTART:20260125T130000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 5 - LAZIO HOCKEY - HOCKEY CLUB RIVA
-UID:b38fb49f-e1fd-4557-a6b3-1dad9a8369f2@b38f.org
+UID:599f3856-df3d-4c57-bd13-ccffbec0536a@599f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 4\nGara 39\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCSP SAN GIORGIO - LAZIO HOCKEY
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20260117T120000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 4 - CSP SAN GIORGIO - LAZIO HOCKEY
+UID:6590fc36-daf7-4065-bb8e-b9370baedda9@6590.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 1\nGara 35\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nLAZIO HOCKEY - USD MONCALVESE HOCKEY
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20251130T140000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 1 - LAZIO HOCKEY - USD MONCALVESE HOCKEY
+UID:ab572a24-c6e6-47bf-82c1-0d211c8ba15a@ab57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 44\nPALA NEBIOLO - Via Umberto Fiore\,  Messina\nLAZIO HOCKEY - CSP SAN GIORGIO
+GEO:38.224983;15.556263
+LOCATION:Via Umberto Fiore\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
+DTSTART:20251213T110000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - LAZIO HOCKEY - CSP SAN GIORGIO
+UID:83498e50-3b44-4e07-bc29-a74dd8685819@8349.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 44\nPALA NEBIOLO - Via Umberto Fiore\,  Messina\nLAZIO HOCKEY - CSP SAN GIORGIO
+GEO:38.224983;15.556263
+LOCATION:Via Umberto Fiore\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
+DTSTART:20251213T110000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - LAZIO HOCKEY - CSP SAN GIORGIO
+UID:f8b82ee4-b3d7-4fc7-ac7c-c5a0137d349e@f8b8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 46\nPALA NEBIOLO - Via Umberto Fiore\,  Messina\nHOCKEY CLUB RIVA - LAZIO HOCKEY
@@ -30,120 +59,91 @@ GEO:38.224983;15.556263
 LOCATION:Via Umberto Fiore\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
 DTSTART:20251213T130000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - HOCKEY CLUB RIVA - LAZIO HOCKEY
-UID:ab07fce8-3baf-47c3-b042-496cc477ae87@ab07.org
+UID:50b34b1b-dec7-4cfe-b534-2766671e2d1e@50b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 54\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nLAZIO HOCKEY - A.S.D. S.H. PAOLO BONOMI
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20251221T150000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - LAZIO HOCKEY - A.S.D. S.H. PAOLO BONOMI
+UID:f20eadc2-264f-48ea-8ebd-c3e6e7857283@f20e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 49\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nLAZIO HOCKEY - POLISPORTIVA UNIVERSITARIA MESSINA
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20251221T100000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - LAZIO HOCKEY - POLISPORTIVA UNIVERSITARIA MESSINA
+UID:a1d23721-391e-4a0f-8d74-e46a2ea2a7ad@a1d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 5\nGara 58\nPOLO SCOLASTICO DI CLES - VIA IV NOVEMBRE\, 35 CLES\nLAZIO HOCKEY - HOCKEY CLUB RIVA
+GEO:46.369305;11.032689
+LOCATION:Istituto Tecnico Economico e Tecnologico "C.A. Pilati"\, 35\, Via Quattro Novembre\, Pez\, Dres\, Cles\, Comunità della Val di Non\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38023\, Italia
+DTSTART:20260125T130000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 5 - LAZIO HOCKEY - HOCKEY CLUB RIVA
+UID:cf1a1275-070c-4549-9f14-4cb7b1af9198@cf1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 49\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nLAZIO HOCKEY - POLISPORTIVA UNIVERSITARIA MESSINA
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20251221T100000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - LAZIO HOCKEY - POLISPORTIVA UNIVERSITARIA MESSINA
+UID:51f1b68f-89d5-4da7-86aa-21bf7b3413dd@51f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 5\nGara 56\nPOLO SCOLASTICO DI CLES - VIA IV NOVEMBRE\, 35 CLES\nA.S.D. S.H. PAOLO BONOMI - LAZIO HOCKEY
+GEO:46.369305;11.032689
+LOCATION:Istituto Tecnico Economico e Tecnologico "C.A. Pilati"\, 35\, Via Quattro Novembre\, Pez\, Dres\, Cles\, Comunità della Val di Non\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38023\, Italia
+DTSTART:20260125T110000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 5 - A.S.D. S.H. PAOLO BONOMI - LAZIO HOCKEY
+UID:48f3bd4f-559f-4f16-be18-35f2883899be@48f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 4\nGara 39\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCSP SAN GIORGIO - LAZIO HOCKEY
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20260117T120000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 4 - CSP SAN GIORGIO - LAZIO HOCKEY
+UID:a7a9d434-d09f-4a09-8196-288ffb7deba9@a7a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 46\nPALA NEBIOLO - Via Umberto Fiore\,  Messina\nHOCKEY CLUB RIVA - LAZIO HOCKEY
+GEO:38.224983;15.556263
+LOCATION:Via Umberto Fiore\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
+DTSTART:20251213T130000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - HOCKEY CLUB RIVA - LAZIO HOCKEY
+UID:86d24809-80c9-4eff-ad67-28b3a156883c@86d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 54\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nLAZIO HOCKEY - A.S.D. S.H. PAOLO BONOMI
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20251221T150000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - LAZIO HOCKEY - A.S.D. S.H. PAOLO BONOMI
+UID:2fd28761-c2f7-4293-8c9e-2fe1ff6db970@2fd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 4\nGara 42\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nUSD MONCALVESE HOCKEY - LAZIO HOCKEY
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20260117T150000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 4 - USD MONCALVESE HOCKEY - LAZIO HOCKEY
+UID:260e5ae3-39bf-42fd-b771-f504454f3e5b@260e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 5\nGara 56\nPOLO SCOLASTICO DI CLES - VIA IV NOVEMBRE\, 35 CLES\nA.S.D. S.H. PAOLO BONOMI - LAZIO HOCKEY
+GEO:46.369305;11.032689
+LOCATION:Istituto Tecnico Economico e Tecnologico "C.A. Pilati"\, 35\, Via Quattro Novembre\, Pez\, Dres\, Cles\, Comunità della Val di Non\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38023\, Italia
+DTSTART:20260125T110000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 5 - A.S.D. S.H. PAOLO BONOMI - LAZIO HOCKEY
+UID:ee5fc763-4f26-40e0-89cd-be98653e6f73@ee5f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 1\nGara 33\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nPOLISPORTIVA UNIVERSITARIA MESSINA - LAZIO HOCKEY
 LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
 DTSTART:20251130T120000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 1 - POLISPORTIVA UNIVERSITARIA MESSINA - LAZIO HOCKEY
-UID:37677efd-fbcb-4f59-b482-d50d63482065@3767.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 5\nGara 58\nPOLO SCOLASTICO DI CLES - VIA IV NOVEMBRE\, 35 CLES\nLAZIO HOCKEY - HOCKEY CLUB RIVA
-GEO:46.369305;11.032689
-LOCATION:Istituto Tecnico Economico e Tecnologico "C.A. Pilati"\, 35\, Via Quattro Novembre\, Pez\, Dres\, Cles\, Comunità della Val di Non\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38023\, Italia
-DTSTART:20260125T130000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 5 - LAZIO HOCKEY - HOCKEY CLUB RIVA
-UID:7c77db35-1338-49f1-ad37-b5a34c758b28@7c77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 46\nPALA NEBIOLO - Via Umberto Fiore\,  Messina\nHOCKEY CLUB RIVA - LAZIO HOCKEY
-GEO:38.224983;15.556263
-LOCATION:Via Umberto Fiore\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
-DTSTART:20251213T130000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - HOCKEY CLUB RIVA - LAZIO HOCKEY
-UID:1584ee64-9e82-47b0-b5e1-8bd5f8da6557@1584.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 4\nGara 42\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nUSD MONCALVESE HOCKEY - LAZIO HOCKEY
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20260117T150000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 4 - USD MONCALVESE HOCKEY - LAZIO HOCKEY
-UID:6a9d4f8b-8753-4596-a9c4-0b74f51ec2a2@6a9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 4\nGara 39\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCSP SAN GIORGIO - LAZIO HOCKEY
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20260117T120000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 4 - CSP SAN GIORGIO - LAZIO HOCKEY
-UID:d9a0905d-e644-4b89-9fa1-c3a1bc395ab0@d9a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 54\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nLAZIO HOCKEY - A.S.D. S.H. PAOLO BONOMI
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20251221T150000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - LAZIO HOCKEY - A.S.D. S.H. PAOLO BONOMI
-UID:d588ba2d-88ce-4d44-854b-fe007b534b33@d588.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 5\nGara 56\nPOLO SCOLASTICO DI CLES - VIA IV NOVEMBRE\, 35 CLES\nA.S.D. S.H. PAOLO BONOMI - LAZIO HOCKEY
-GEO:46.369305;11.032689
-LOCATION:Istituto Tecnico Economico e Tecnologico "C.A. Pilati"\, 35\, Via Quattro Novembre\, Pez\, Dres\, Cles\, Comunità della Val di Non\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38023\, Italia
-DTSTART:20260125T110000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 5 - A.S.D. S.H. PAOLO BONOMI - LAZIO HOCKEY
-UID:015f41c7-2e5e-4a40-8281-5b671a4a343b@015f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 54\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nLAZIO HOCKEY - A.S.D. S.H. PAOLO BONOMI
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20251221T150000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - LAZIO HOCKEY - A.S.D. S.H. PAOLO BONOMI
-UID:90d82d3f-ddc0-4395-b535-25ad580d1067@90d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 4\nGara 39\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCSP SAN GIORGIO - LAZIO HOCKEY
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20260117T120000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 4 - CSP SAN GIORGIO - LAZIO HOCKEY
-UID:725b3732-475d-4fb0-97ba-ab965e38868e@725b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 4\nGara 42\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nUSD MONCALVESE HOCKEY - LAZIO HOCKEY
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20260117T150000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 4 - USD MONCALVESE HOCKEY - LAZIO HOCKEY
-UID:9908f6d0-487d-429e-b769-88ca870091b1@9908.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 49\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nLAZIO HOCKEY - POLISPORTIVA UNIVERSITARIA MESSINA
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20251221T100000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - LAZIO HOCKEY - POLISPORTIVA UNIVERSITARIA MESSINA
-UID:a175b1f7-c7ba-42e9-8b24-a898bf39bfde@a175.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 1\nGara 35\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nLAZIO HOCKEY - USD MONCALVESE HOCKEY
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251130T140000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 1 - LAZIO HOCKEY - USD MONCALVESE HOCKEY
-UID:5877e144-74a5-4555-9e45-94d6ed1d77bd@5877.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 5\nGara 56\nPOLO SCOLASTICO DI CLES - VIA IV NOVEMBRE\, 35 CLES\nA.S.D. S.H. PAOLO BONOMI - LAZIO HOCKEY
-GEO:46.369305;11.032689
-LOCATION:Istituto Tecnico Economico e Tecnologico "C.A. Pilati"\, 35\, Via Quattro Novembre\, Pez\, Dres\, Cles\, Comunità della Val di Non\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38023\, Italia
-DTSTART:20260125T110000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 5 - A.S.D. S.H. PAOLO BONOMI - LAZIO HOCKEY
-UID:ae91f577-19ec-42c5-90a4-a070a1456ab6@ae91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 49\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nLAZIO HOCKEY - POLISPORTIVA UNIVERSITARIA MESSINA
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20251221T100000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - LAZIO HOCKEY - POLISPORTIVA UNIVERSITARIA MESSINA
-UID:fd02dd2b-8e1a-40d2-9cb9-c96263a8d208@fd02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 44\nPALA NEBIOLO - Via Umberto Fiore\,  Messina\nLAZIO HOCKEY - CSP SAN GIORGIO
-GEO:38.224983;15.556263
-LOCATION:Via Umberto Fiore\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
-DTSTART:20251213T110000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - LAZIO HOCKEY - CSP SAN GIORGIO
-UID:0d451926-50c9-41ca-bd73-fc5f9a69901c@0d45.org
+UID:892516fa-a935-4a17-b0a0-64762c342944@8925.org
 END:VEVENT
 END:VCALENDAR
