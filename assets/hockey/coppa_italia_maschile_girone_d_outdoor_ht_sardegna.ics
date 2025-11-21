@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 3\nGara 124\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI - HT SARDEGNA\n\nRisultato: 3-2
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20250927T140000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 3 - POLISPORTIVA FERRINI - HT SARDEGNA
-UID:811e2752-c373-4498-a707-c3b80667ae04@811e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 8\nGara 134\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - POLISPORTIVA FERRINI\n\nRisultato: 1-2
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 1\nGara 121\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - A.S.D. POLISPORTIVA JUVENILIA\n\nRisultato: 2-0
 GEO:39.694117;8.702129
 LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20251018T143000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 8 - HT SARDEGNA - POLISPORTIVA FERRINI
-UID:d4a6f47e-f6c9-47e6-84e5-9d7f562d5b87@d4a6.org
+DTSTART:20251023T173000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 1 - HT SARDEGNA - A.S.D. POLISPORTIVA JUVENILIA
+UID:feba16e3-0944-4fdc-a91d-fa0d11e4a177@feba.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 7\nGara 133\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nHT SARDEGNA - SG AMSICORA\n\nRisultato: 0-11
@@ -23,7 +15,15 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251005T083000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 7 - HT SARDEGNA - SG AMSICORA
-UID:4fb5289d-64ed-4dac-8c21-aa08991eecc7@4fb5.org
+UID:273eea6c-c9dd-40a3-8eba-891fa35435af@273e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 10\nGara 138\nComunale Uras - VIA S. EMILIANO\, snc Uras\nCUS CAGLIARI - HT SARDEGNA\n\nRisultato: 2-1
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20251101T140000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 10 - CUS CAGLIARI - HT SARDEGNA
+UID:73055796-5fe7-445b-b42a-2aafcf1dd3d5@7305.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 3\nGara 124\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI - HT SARDEGNA\n\nRisultato: 3-2
@@ -31,7 +31,7 @@ GEO:39.235186;9.139409
 LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
 DTSTART:20250927T140000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 3 - POLISPORTIVA FERRINI - HT SARDEGNA
-UID:2137803d-baa6-4676-b4ab-fd90efbbccea@2137.org
+UID:ece251b2-d17e-4c9c-a9cf-e0e14badd6ae@ece2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 5\nGara 128\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - CUS CAGLIARI\n\nRisultato: 3-1
@@ -39,7 +39,23 @@ GEO:39.694117;8.702129
 LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
 DTSTART:20251020T173000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 5 - HT SARDEGNA - CUS CAGLIARI
-UID:539a609a-fca0-4fcc-8ec6-1d541c58f0c3@539a.org
+UID:0f0c796e-e579-44f7-8c69-f46de18a729f@0f0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 10\nGara 138\nComunale Uras - VIA S. EMILIANO\, snc Uras\nCUS CAGLIARI - HT SARDEGNA\n\nRisultato: 2-1
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20251101T140000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 10 - CUS CAGLIARI - HT SARDEGNA
+UID:d1cb9253-9825-4e92-a5ff-4416588ecac7@d1cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 5\nGara 128\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - CUS CAGLIARI\n\nRisultato: 3-1
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20251020T173000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 5 - HT SARDEGNA - CUS CAGLIARI
+UID:0db8c65c-b0c3-49f1-aaca-9e087784d9d2@0db8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 8\nGara 134\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - POLISPORTIVA FERRINI\n\nRisultato: 1-2
@@ -47,55 +63,7 @@ GEO:39.694117;8.702129
 LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
 DTSTART:20251018T143000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 8 - HT SARDEGNA - POLISPORTIVA FERRINI
-UID:fba3d7c4-b74f-4cea-b8a7-fb3a5d14b5ed@fba3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 10\nGara 138\nComunale Uras - VIA S. EMILIANO\, snc Uras\nCUS CAGLIARI - HT SARDEGNA\n\nRisultato: 2-1
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20251101T140000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 10 - CUS CAGLIARI - HT SARDEGNA
-UID:2be409a2-b9be-49d3-b0e0-d86c2dc91e3a@2be4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 6\nGara 131\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA JUVENILIA - HT SARDEGNA\n\nRisultato: 1-5
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20251011T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 6 - A.S.D. POLISPORTIVA JUVENILIA - HT SARDEGNA
-UID:a628b72d-b24f-4fe5-8062-7b0d42f38e94@a628.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 1\nGara 121\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - A.S.D. POLISPORTIVA JUVENILIA\n\nRisultato: 2-0
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20251023T173000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 1 - HT SARDEGNA - A.S.D. POLISPORTIVA JUVENILIA
-UID:d3851b49-ac94-41dc-b711-5a60b298d71b@d385.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 10\nGara 138\nComunale Uras - VIA S. EMILIANO\, snc Uras\nCUS CAGLIARI - HT SARDEGNA\n\nRisultato: 2-1
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20251101T140000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 10 - CUS CAGLIARI - HT SARDEGNA
-UID:6a278f62-94c2-4b80-a8bf-00e97fafb20f@6a27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 1\nGara 121\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - A.S.D. POLISPORTIVA JUVENILIA\n\nRisultato: 2-0
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20251023T173000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 1 - HT SARDEGNA - A.S.D. POLISPORTIVA JUVENILIA
-UID:c27c75aa-c310-4029-8975-823a43218944@c27c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 6\nGara 131\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA JUVENILIA - HT SARDEGNA\n\nRisultato: 1-5
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20251011T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 6 - A.S.D. POLISPORTIVA JUVENILIA - HT SARDEGNA
-UID:66a66760-d836-40f9-af9d-ff18219f55b8@66a6.org
+UID:ad1b79d5-926c-4791-9ce7-4b29e2c77915@ad1b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 2\nGara 123\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HT SARDEGNA\n\nRisultato: 8-2
@@ -103,23 +71,15 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20250920T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 2 - SG AMSICORA - HT SARDEGNA
-UID:aa82cd35-9e7f-483c-94c3-91df3818075f@aa82.org
+UID:09d3c32f-fe9c-441e-9922-92380edc6214@09d3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 5\nGara 128\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - CUS CAGLIARI\n\nRisultato: 3-1
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20251020T173000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 5 - HT SARDEGNA - CUS CAGLIARI
-UID:ed0e8254-dd49-4069-ad9a-aa0f4a1e5c55@ed0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 2\nGara 123\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HT SARDEGNA\n\nRisultato: 8-2
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20250920T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 2 - SG AMSICORA - HT SARDEGNA
-UID:953e22c8-c05d-44ed-981c-82e323e60030@953e.org
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 3\nGara 124\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI - HT SARDEGNA\n\nRisultato: 3-2
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20250927T140000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 3 - POLISPORTIVA FERRINI - HT SARDEGNA
+UID:5acaed04-af42-4b61-baf3-1c4e9f3a8e10@5aca.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 7\nGara 133\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nHT SARDEGNA - SG AMSICORA\n\nRisultato: 0-11
@@ -127,6 +87,46 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251005T083000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 7 - HT SARDEGNA - SG AMSICORA
-UID:68fe1d0c-f581-4730-9b62-99e92306646b@68fe.org
+UID:f53dbb8d-8604-41b7-948b-da59fcdeafe1@f53d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 6\nGara 131\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA JUVENILIA - HT SARDEGNA\n\nRisultato: 1-5
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20251011T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 6 - A.S.D. POLISPORTIVA JUVENILIA - HT SARDEGNA
+UID:e5287a2d-27e7-440b-b951-83f2843d0d1e@e528.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 6\nGara 131\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA JUVENILIA - HT SARDEGNA\n\nRisultato: 1-5
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20251011T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 6 - A.S.D. POLISPORTIVA JUVENILIA - HT SARDEGNA
+UID:aa4174d6-5a90-4acc-93d0-746ce5df647c@aa41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 1\nGara 121\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - A.S.D. POLISPORTIVA JUVENILIA\n\nRisultato: 2-0
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20251023T173000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 1 - HT SARDEGNA - A.S.D. POLISPORTIVA JUVENILIA
+UID:a2876f6a-4104-4374-a013-48b602b0dbd9@a287.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 2\nGara 123\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HT SARDEGNA\n\nRisultato: 8-2
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20250920T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 2 - SG AMSICORA - HT SARDEGNA
+UID:caf3848b-368f-4a1d-8a04-9b95d8be311a@caf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 8\nGara 134\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - POLISPORTIVA FERRINI\n\nRisultato: 1-2
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20251018T143000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 8 - HT SARDEGNA - POLISPORTIVA FERRINI
+UID:9a8e3010-c664-47f6-904a-a60341356844@9a8e.org
 END:VEVENT
 END:VCALENDAR
