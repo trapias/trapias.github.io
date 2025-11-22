@@ -2,12 +2,44 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile  - Girone A / Giornata 3\nGara 490\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nCUS TORINO - HF GENOVA 1980
+GEO:45.016586;7.656535
+LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
+DTSTART:20260117T153000Z
+SUMMARY:Juniores Femminile  - Girone A / Giornata 3 - CUS TORINO - HF GENOVA 1980
+UID:495a0197-794a-422b-952a-30918db15fae@495a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile  - Girone A / Giornata 1\nGara 483\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nUSD MONCALVESE HOCKEY - CUS TORINO
+GEO:45.016586;7.656535
+LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
+DTSTART:20251213T133000Z
+SUMMARY:Juniores Femminile  - Girone A / Giornata 1 - USD MONCALVESE HOCKEY - CUS TORINO
+UID:7ae1e8cb-0ea1-4b4d-a382-43272f2a5ef4@7ae1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile  - Girone A / Giornata 2\nGara 484\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nHF GENOVA 1980 - CUS TORINO
+GEO:44.699151;7.841970
+LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260104T110000Z
+SUMMARY:Juniores Femminile  - Girone A / Giornata 2 - HF GENOVA 1980 - CUS TORINO
+UID:47c0e721-8884-4cfc-8103-38d40bd03018@47c0.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone A / Giornata 3\nGara 488\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nCUS TORINO - USD MONCALVESE HOCKEY
 GEO:45.016586;7.656535
 LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
 DTSTART:20260117T130000Z
 SUMMARY:Juniores Femminile  - Girone A / Giornata 3 - CUS TORINO - USD MONCALVESE HOCKEY
-UID:52ba9ab9-50c4-452e-a3ba-1e64acddf33d@52ba.org
+UID:9576757b-8488-4211-a577-e1376e813f76@9576.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile  - Girone A / Giornata 2\nGara 484\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nHF GENOVA 1980 - CUS TORINO
+GEO:44.699151;7.841970
+LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260104T110000Z
+SUMMARY:Juniores Femminile  - Girone A / Giornata 2 - HF GENOVA 1980 - CUS TORINO
+UID:3c0cfd8c-4ca2-470b-a549-581fdcbec375@3c0c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone A / Giornata 1\nGara 480\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nASD HF LORENZONI - CUS TORINO
@@ -15,7 +47,15 @@ GEO:45.016586;7.656535
 LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
 DTSTART:20251213T100000Z
 SUMMARY:Juniores Femminile  - Girone A / Giornata 1 - ASD HF LORENZONI - CUS TORINO
-UID:15111fd9-1ff9-4359-86f0-1b08c3c6cc05@1511.org
+UID:c457fd60-7f94-4dc7-9ffc-383fcf2fd79e@c457.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile  - Girone A / Giornata 3\nGara 490\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nCUS TORINO - HF GENOVA 1980
+GEO:45.016586;7.656535
+LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
+DTSTART:20260117T153000Z
+SUMMARY:Juniores Femminile  - Girone A / Giornata 3 - CUS TORINO - HF GENOVA 1980
+UID:7b974d53-48ae-4ec5-a3f9-ef7cd0e54ef4@7b97.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone A / Giornata 2\nGara 487\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nCUS TORINO - ASD HF LORENZONI
@@ -23,15 +63,7 @@ GEO:44.699151;7.841970
 LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260104T160000Z
 SUMMARY:Juniores Femminile  - Girone A / Giornata 2 - CUS TORINO - ASD HF LORENZONI
-UID:1e34691b-1c3f-4e62-b7e1-281c9893feb2@1e34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile  - Girone A / Giornata 1\nGara 483\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nUSD MONCALVESE HOCKEY - CUS TORINO
-GEO:45.016586;7.656535
-LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
-DTSTART:20251213T133000Z
-SUMMARY:Juniores Femminile  - Girone A / Giornata 1 - USD MONCALVESE HOCKEY - CUS TORINO
-UID:845583a1-5dd4-4980-b7e4-6436a309fe60@8455.org
+UID:cf51271a-d065-49df-9a69-508b9234c4ee@cf51.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone A / Giornata 3\nGara 488\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nCUS TORINO - USD MONCALVESE HOCKEY
@@ -39,7 +71,7 @@ GEO:45.016586;7.656535
 LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
 DTSTART:20260117T130000Z
 SUMMARY:Juniores Femminile  - Girone A / Giornata 3 - CUS TORINO - USD MONCALVESE HOCKEY
-UID:df5d631b-83bf-47d4-b963-29b05fa96237@df5d.org
+UID:4e52e2b8-3139-4dde-8f77-dfffbdac0663@4e52.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone A / Giornata 2\nGara 487\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nCUS TORINO - ASD HF LORENZONI
@@ -47,15 +79,7 @@ GEO:44.699151;7.841970
 LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260104T160000Z
 SUMMARY:Juniores Femminile  - Girone A / Giornata 2 - CUS TORINO - ASD HF LORENZONI
-UID:18f7942e-3b74-4d98-b0c8-d544de5bcc6c@18f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile  - Girone A / Giornata 3\nGara 490\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nCUS TORINO - HF GENOVA 1980
-GEO:45.016586;7.656535
-LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
-DTSTART:20260117T153000Z
-SUMMARY:Juniores Femminile  - Girone A / Giornata 3 - CUS TORINO - HF GENOVA 1980
-UID:8a83b765-71a1-455b-90a0-f0e8bc9845eb@8a83.org
+UID:70fe2388-0336-4f8b-adcb-dfc5f62a0905@70fe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone A / Giornata 1\nGara 483\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nUSD MONCALVESE HOCKEY - CUS TORINO
@@ -63,30 +87,6 @@ GEO:45.016586;7.656535
 LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
 DTSTART:20251213T133000Z
 SUMMARY:Juniores Femminile  - Girone A / Giornata 1 - USD MONCALVESE HOCKEY - CUS TORINO
-UID:bb84280b-8729-4f3c-92b9-394d05e02b0d@bb84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile  - Girone A / Giornata 2\nGara 484\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nHF GENOVA 1980 - CUS TORINO
-GEO:44.699151;7.841970
-LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260104T110000Z
-SUMMARY:Juniores Femminile  - Girone A / Giornata 2 - HF GENOVA 1980 - CUS TORINO
-UID:d806220f-dee6-461c-ae21-b06ba8582fa2@d806.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile  - Girone A / Giornata 2\nGara 484\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nHF GENOVA 1980 - CUS TORINO
-GEO:44.699151;7.841970
-LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260104T110000Z
-SUMMARY:Juniores Femminile  - Girone A / Giornata 2 - HF GENOVA 1980 - CUS TORINO
-UID:3b922037-bebf-4ca6-829b-bab9676b1c6d@3b92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile  - Girone A / Giornata 3\nGara 490\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nCUS TORINO - HF GENOVA 1980
-GEO:45.016586;7.656535
-LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
-DTSTART:20260117T153000Z
-SUMMARY:Juniores Femminile  - Girone A / Giornata 3 - CUS TORINO - HF GENOVA 1980
-UID:d3eaec3c-2ad2-4dbd-bc73-efe8410a75a2@d3ea.org
+UID:e474e819-df75-4ad4-9e7e-2cb64823de02@e474.org
 END:VEVENT
 END:VCALENDAR

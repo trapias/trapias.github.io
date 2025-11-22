@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 248\nPalazinola - Via Antonio Brilla\, snc Savona\nHF GENOVA 1980 - HC GENOVA
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20251207T130000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - HF GENOVA 1980 - HC GENOVA
+UID:0657a59d-4096-427b-89ca-a8766d2753a3@0657.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 2\nGara 253\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHF GENOVA 1980 - CUS PISA ASD
 GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251220T160000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 2 - HF GENOVA 1980 - CUS PISA ASD
-UID:8f628e32-deff-43ac-9f67-3bcab6dd497b@8f62.org
+UID:2a26ab83-8f67-464d-8e08-a1f3f7c6afcc@2a26.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 255\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC GENOVA - HF GENOVA 1980
@@ -15,15 +23,7 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260110T133000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - HC GENOVA - HF GENOVA 1980
-UID:f002766a-ce58-4b56-871f-96d6235d7e14@f002.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 248\nPalazinola - Via Antonio Brilla\, snc Savona\nHF GENOVA 1980 - HC GENOVA
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20251207T130000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - HF GENOVA 1980 - HC GENOVA
-UID:2d143c58-887f-4b9a-a13a-9ed980f7dcdf@2d14.org
+UID:d1cb6914-56ad-4bcd-a983-9a5cf1ce5f84@d1cb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 2\nGara 253\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHF GENOVA 1980 - CUS PISA ASD
@@ -31,7 +31,55 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251220T160000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 2 - HF GENOVA 1980 - CUS PISA ASD
-UID:f402a492-ccdb-4c82-9b3c-a33a9434a910@f402.org
+UID:5e82b5bd-df42-4bad-89c2-76028bb808d5@5e82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 257\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHF GENOVA 1980 - HC SAVONA
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260110T160000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - HF GENOVA 1980 - HC SAVONA
+UID:ca7a669f-060d-4c56-8122-cbbb495a405c@ca7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 255\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC GENOVA - HF GENOVA 1980
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260110T133000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - HC GENOVA - HF GENOVA 1980
+UID:4b781be7-f50b-4c23-b2b4-4b20f335c5bf@4b78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 248\nPalazinola - Via Antonio Brilla\, snc Savona\nHF GENOVA 1980 - HC GENOVA
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20251207T130000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - HF GENOVA 1980 - HC GENOVA
+UID:7ac80157-3219-401d-926c-6335f56bf546@7ac8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 2\nGara 251\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC SAVONA - HF GENOVA 1980
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251220T133000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 2 - HC SAVONA - HF GENOVA 1980
+UID:bb62c90c-b1b2-463f-8b95-c5b40b2d09e6@bb62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 2\nGara 251\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC SAVONA - HF GENOVA 1980
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251220T133000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 2 - HC SAVONA - HF GENOVA 1980
+UID:ae9702a6-8861-4a7a-b43f-05255eafdd8a@ae97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 257\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHF GENOVA 1980 - HC SAVONA
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260110T160000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - HF GENOVA 1980 - HC SAVONA
+UID:b2c6464f-17de-4488-afc8-d3ed3ce4e93e@b2c6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 247\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - HF GENOVA 1980
@@ -39,54 +87,6 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20251207T110000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - CUS PISA ASD - HF GENOVA 1980
-UID:79879c1f-1cfc-487e-afaa-d3627545b154@7987.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 248\nPalazinola - Via Antonio Brilla\, snc Savona\nHF GENOVA 1980 - HC GENOVA
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20251207T130000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - HF GENOVA 1980 - HC GENOVA
-UID:e2f4d95b-f55b-4dad-aec0-cf961579f733@e2f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 257\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHF GENOVA 1980 - HC SAVONA
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260110T160000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - HF GENOVA 1980 - HC SAVONA
-UID:66b6f540-c15c-43cb-8852-e39b1185b07c@66b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 255\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC GENOVA - HF GENOVA 1980
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260110T133000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - HC GENOVA - HF GENOVA 1980
-UID:1c856ae1-f09d-449e-a9eb-f53c892ad163@1c85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 2\nGara 251\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC SAVONA - HF GENOVA 1980
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251220T133000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 2 - HC SAVONA - HF GENOVA 1980
-UID:add0b9cb-c1ff-4e66-8fd9-582edc321772@add0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 2\nGara 251\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC SAVONA - HF GENOVA 1980
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251220T133000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 2 - HC SAVONA - HF GENOVA 1980
-UID:c23b222f-3823-4bc2-93e8-2465930c9e11@c23b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 257\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHF GENOVA 1980 - HC SAVONA
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260110T160000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - HF GENOVA 1980 - HC SAVONA
-UID:4c6778f4-0aae-4960-a384-e7cf4de5a528@4c67.org
+UID:62c44df9-942d-438c-af8c-f9f7bfa9fb47@62c4.org
 END:VEVENT
 END:VCALENDAR
