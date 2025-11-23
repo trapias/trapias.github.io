@@ -24,6 +24,8 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 <strong>ASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA</strong>
 
+**Risultato: 2-6**
+
 Giornata: Gara 443
 
 Campo: A. GIATTI 
@@ -42,6 +44,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Dom 19/10/2025 11.00
 
 <strong>ASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
+
+**Risultato: 1-1**
 
 Giornata: Gara 444
 

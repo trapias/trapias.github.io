@@ -174,6 +174,8 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>ASD ADIGE UHC - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 0-26**
+
 Giornata: Gara 463
 
 Campo: campo hockey s. farinazzo 
@@ -207,6 +209,8 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 ## Dom 02/11/2025 13.00
 
 <strong>ASD ADIGE UHC - POLISPORTIVA CAMELOT</strong>
+
+**Risultato: 3-5**
 
 Giornata: Gara 465
 

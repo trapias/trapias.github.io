@@ -82,6 +82,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>H.POTENZA PICENA - BUTTERFLY ROMA</strong>
 
+**Risultato: 0-9**
+
 Giornata: Gara 297
 
 Campo: STADIO HOCKEY POTENZA PICENA 
@@ -97,6 +99,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 ## Sab 22/11/2025 15.00
 
 <strong>UH CAPITOLINA - LAZIO HOCKEY</strong>
+
+**Risultato: 1-0**
 
 Giornata: Gara 298
 

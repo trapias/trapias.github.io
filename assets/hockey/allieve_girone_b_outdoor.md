@@ -77,6 +77,8 @@ Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 <strong>HOCKEY CLUB RIVA - ASD ADIGE UHC</strong>
 
+**Risultato: 2-7**
+
 Giornata: Gara 482
 
 Campo: Campo Hockey Club Riva 
@@ -92,6 +94,8 @@ Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 ## Dom 26/10/2025 13.00
 
 <strong>HOCKEY CLUB RIVA - ASD ADIGE UHC</strong>
+
+**Risultato: 0-7**
 
 Giornata: Gara 483
 
@@ -109,6 +113,8 @@ Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
 
+**Risultato: 5-5**
+
 Giornata: Gara 484
 
 Campo: A. GIATTI 
@@ -124,6 +130,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Dom 26/10/2025 13.00
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
+
+**Risultato: 4-4**
 
 Giornata: Gara 485
 
@@ -144,6 +152,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>ASD ADIGE UHC - ASD HOCKEY CLUB BONDENO</strong>
 
+**Risultato: 2-2**
+
 Giornata: Gara 486
 
 Campo: Comunale Mori 
@@ -159,6 +169,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 ## Dom 02/11/2025 13.00
 
 <strong>ASD ADIGE UHC - ASD HOCKEY CLUB BONDENO</strong>
+
+**Risultato: 0-4**
 
 Giornata: Gara 487
 
@@ -176,6 +188,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>CUS PADOVA ASD - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 15-0**
+
 Giornata: Gara 488
 
 Campo: Impianti L. Merigliano 
@@ -189,6 +203,8 @@ Location:  via J. Corrado, 4 Padova
 ## Dom 02/11/2025 15.00
 
 <strong>CUS PADOVA ASD - HOCKEY CLUB RIVA</strong>
+
+**Risultato: 13-1**
 
 Giornata: Gara 489
 

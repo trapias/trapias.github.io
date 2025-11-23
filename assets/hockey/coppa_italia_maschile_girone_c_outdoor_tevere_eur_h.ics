@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 5\nGara 108\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - H.POTENZA PICENA\n\nRisultato: 7-1
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20251018T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 5 - TEVERE EUR H - H.POTENZA PICENA
-UID:6179dc52-a14e-4cb3-a606-e15f8d8bd004@6179.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 2\nGara 102\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - TEVERE EUR H\n\nRisultato: 0-5
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20250927T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 2 - H.POTENZA PICENA - TEVERE EUR H
-UID:675aeece-7488-49c3-9557-d9e8b1969c57@675a.org
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 4\nGara 107\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - TEVERE EUR H\n\nRisultato: 3-2
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20251011T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 4 - BUTTERFLY ROMA - TEVERE EUR H
+UID:1a255af1-3edf-4399-8583-48ca7cc5c4c9@1a25.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 1\nGara 101\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - BUTTERFLY ROMA\n\nRisultato: 1-0
@@ -23,7 +15,15 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20250920T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 1 - TEVERE EUR H - BUTTERFLY ROMA
-UID:ac2a82f0-2a02-45b6-bf22-b41d3a312a18@ac2a.org
+UID:4fcf7ebe-0549-45db-8c60-125a1886e984@4fcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 3\nGara 105\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - TEVERE EUR H\n\nRisultato: 2-1
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20251004T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 3 - LAZIO HOCKEY - TEVERE EUR H
+UID:da6d9a99-dcf8-4cde-acfd-3c1f6416814e@da6d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 2\nGara 102\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - TEVERE EUR H\n\nRisultato: 0-5
@@ -31,47 +31,15 @@ GEO:43.386400;13.654670
 LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
 DTSTART:20250927T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 2 - H.POTENZA PICENA - TEVERE EUR H
-UID:ef82c7e0-4cb1-465c-9584-3f4c5e044236@ef82.org
+UID:8775f647-a7fb-4242-85e6-f9e1a8d386e0@8775.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 4\nGara 107\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - TEVERE EUR H\n\nRisultato: 3-2
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20251011T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 4 - BUTTERFLY ROMA - TEVERE EUR H
-UID:548f84be-2698-4b6a-a689-74427a1a4194@548f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 3\nGara 105\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - TEVERE EUR H\n\nRisultato: 2-1
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20251004T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 3 - LAZIO HOCKEY - TEVERE EUR H
-UID:4d792950-d2f9-4fb1-be33-5733967fa07b@4d79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 3\nGara 105\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - TEVERE EUR H\n\nRisultato: 2-1
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20251004T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 3 - LAZIO HOCKEY - TEVERE EUR H
-UID:9a9cea20-70c4-4839-9d76-a6caf291abab@9a9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 1\nGara 101\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - BUTTERFLY ROMA\n\nRisultato: 1-0
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20250920T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 1 - TEVERE EUR H - BUTTERFLY ROMA
-UID:903fcc45-2440-4970-bc74-53ec2b727e25@903f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 4\nGara 107\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - TEVERE EUR H\n\nRisultato: 3-2
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20251011T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 4 - BUTTERFLY ROMA - TEVERE EUR H
-UID:d334170c-2d96-4de9-b235-4522a866827f@d334.org
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 2\nGara 102\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - TEVERE EUR H\n\nRisultato: 0-5
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20250927T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 2 - H.POTENZA PICENA - TEVERE EUR H
+UID:da7ae7f6-8645-4b8a-af56-504c7e1e1a27@da7a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 6\nGara 111\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - LAZIO HOCKEY\n\nRisultato: 5-4
@@ -79,7 +47,7 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20251025T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 6 - TEVERE EUR H - LAZIO HOCKEY
-UID:40b75c46-8143-41ef-bacc-ad35a47e9fd9@40b7.org
+UID:054c3121-38b0-4762-b889-e2054119c914@054c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 5\nGara 108\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - H.POTENZA PICENA\n\nRisultato: 7-1
@@ -87,7 +55,23 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20251018T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 5 - TEVERE EUR H - H.POTENZA PICENA
-UID:4197affb-4d8f-4add-8ba7-ada8ff532912@4197.org
+UID:b101f9dc-008d-442d-8fbb-74512959b133@b101.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 3\nGara 105\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - TEVERE EUR H\n\nRisultato: 2-1
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20251004T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 3 - LAZIO HOCKEY - TEVERE EUR H
+UID:46f6d30b-d693-4ea1-aabe-492d668646f3@46f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 4\nGara 107\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - TEVERE EUR H\n\nRisultato: 3-2
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20251011T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 4 - BUTTERFLY ROMA - TEVERE EUR H
+UID:4c18c5bd-7e19-4204-9085-f2c63206d70e@4c18.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 6\nGara 111\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - LAZIO HOCKEY\n\nRisultato: 5-4
@@ -95,6 +79,22 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20251025T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 6 - TEVERE EUR H - LAZIO HOCKEY
-UID:ad009a8f-acfe-4c67-85e7-8bbfccbf628d@ad00.org
+UID:d636f5f9-baa3-49fb-ad79-dd860f53e105@d636.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 1\nGara 101\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - BUTTERFLY ROMA\n\nRisultato: 1-0
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20250920T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 1 - TEVERE EUR H - BUTTERFLY ROMA
+UID:e1f135c4-953c-48e8-a20d-b8b21ccb84b8@e1f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 5\nGara 108\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - H.POTENZA PICENA\n\nRisultato: 7-1
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20251018T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 5 - TEVERE EUR H - H.POTENZA PICENA
+UID:0366b50b-6a4a-4def-a100-ed4e220e8a39@0366.org
 END:VEVENT
 END:VCALENDAR

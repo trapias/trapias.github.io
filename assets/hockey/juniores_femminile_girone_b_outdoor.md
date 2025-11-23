@@ -119,6 +119,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>CUS PADOVA ASD - HOCKEY CLUB ARGENTIA</strong>
 
+**Risultato: 1-0**
+
 Giornata: Gara 386
 
 Campo: Impianti L. Merigliano 

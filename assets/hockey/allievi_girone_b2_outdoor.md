@@ -81,6 +81,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA</strong>
 
+**Risultato: 0-10**
+
 Giornata: Gara 470
 
 Campo: Sport Arena 
@@ -96,6 +98,8 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 ## Dom 26/10/2025 11.00
 
 <strong>ASD HOCKEY CLUB BONDENO - HC PISTOIA</strong>
+
+**Risultato: 19-0**
 
 Giornata: Gara 471
 
@@ -113,6 +117,8 @@ Geo: Geo(latitude=44.7082583, longitude=10.6364889)
 
 <strong>ASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA</strong>
 
+**Risultato: 2-1**
+
 Giornata: Gara 472
 
 Campo: Balestri e Gambini 
@@ -128,6 +134,8 @@ Geo: Geo(latitude=44.7082583, longitude=10.6364889)
 ## Dom 26/10/2025 13.00
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HC PISTOIA</strong>
+
+**Risultato: 2-2**
 
 Giornata: Gara 473
 
@@ -148,6 +156,8 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 <strong>HC PISTOIA - HOCKEY TEAM BOLOGNA</strong>
 
+**Risultato: 0-7**
+
 Giornata: Gara 474
 
 Campo: HOCKEY STADIUM ANDREA BRUSCHI 
@@ -163,6 +173,8 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 ## Dom 02/11/2025 11.00
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO</strong>
+
+**Risultato: 0-2**
 
 Giornata: Gara 475
 
@@ -180,6 +192,8 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 <strong>HOCKEY TEAM BOLOGNA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
 
+**Risultato: 2-0**
+
 Giornata: Gara 476
 
 Campo: HOCKEY STADIUM ANDREA BRUSCHI 
@@ -195,6 +209,8 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 ## Dom 02/11/2025 13.00
 
 <strong>HC PISTOIA - ASD HOCKEY CLUB BONDENO</strong>
+
+**Risultato: 1-19**
 
 Giornata: Gara 477
 

@@ -79,6 +79,8 @@ Location:  via J. Corrado, 4 Padova
 
 <strong>POLISPORTIVA CAMELOT - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 1-8**
+
 Giornata: Gara 404
 
 Campo: Grantorto Hockey Stadium 
@@ -187,6 +189,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>CSP SAN GIORGIO - POLISPORTIVA CAMELOT</strong>
 
+**Risultato: 9-2**
+
 Giornata: Gara 410
 
 Campo: campo hockey s. farinazzo 
@@ -202,6 +206,8 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 ## Sab 01/11/2025 13.00
 
 <strong>HOCKEY TRIESTE 2012 - CUS PADOVA ASD</strong>
+
+**Risultato: 1-4**
 
 Giornata: Gara 411
 
@@ -240,6 +246,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>CUS PADOVA ASD - ASD ADIGE UHC</strong>
 
+**Risultato: 1-3**
+
 Giornata: Gara 413
 
 Campo: Impianti L. Merigliano 
@@ -253,6 +261,8 @@ Location:  via J. Corrado, 4 Padova
 ## Dom 09/11/2025 12.30
 
 <strong>POLISPORTIVA CAMELOT - HOCKEY TRIESTE 2012</strong>
+
+**Risultato: 3-1**
 
 Giornata: Gara 414
 

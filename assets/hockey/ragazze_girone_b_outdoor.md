@@ -6,6 +6,8 @@
 
 <strong>ASD ADIGE UHC - ASD HOCKEY CLUB BONDENO</strong>
 
+**Risultato: 8-1**
+
 Giornata: Gara 430
 
 Campo: Comunale Mori 
@@ -61,6 +63,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
 
+**Risultato: 1-6**
+
 Giornata: Gara 433
 
 Campo: A. GIATTI 
@@ -95,6 +99,8 @@ Location:  via J. Corrado, 4 Padova
 ## Sab 01/11/2025 11.00
 
 <strong>ASD HOCKEY CLUB BONDENO - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
+
+**Risultato: 1-5**
 
 Giornata: Gara 435
 
