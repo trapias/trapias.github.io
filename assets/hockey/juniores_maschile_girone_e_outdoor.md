@@ -27,6 +27,8 @@ Geo: Geo(latitude=37.5737465, longitude=15.121129)
 
 <strong>POL GALATEA - SSD UNIME ARL</strong>
 
+**Risultato: 6-1**
+
 Giornata: Gara 950
 
 Campo: DUSMET 

@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile  - Girone D / Giornata 2\nGara 178\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - HOCKEY POTENZA PICENA
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260118T153000Z
-SUMMARY:Juniores Femminile  - Girone D / Giornata 2 - CUS PISA ASD - HOCKEY POTENZA PICENA
-UID:1e63c029-44cd-41d1-928a-5cdc1f65cb4e@1e63.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone D / Giornata 2\nGara 177\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHOCKEY POTENZA PICENA - BUTTERFLY ROMA HCC
 GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260118T133000Z
 SUMMARY:Juniores Femminile  - Girone D / Giornata 2 - HOCKEY POTENZA PICENA - BUTTERFLY ROMA HCC
-UID:e5caae12-47ef-4d01-a905-f22a43b74f59@e5ca.org
+UID:74f43063-9cf5-4d4f-8292-8d37b0361dc9@74f4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone D / Giornata 1\nGara 173\nPALAPRINCIPI - Viale Piemonte PORTO POTENZA PICENA\nHOCKEY POTENZA PICENA - CUS PISA ASD
@@ -23,7 +15,15 @@ GEO:43.354477;13.697774
 LOCATION:Viale Piemonte\, Porto Potenza Picena\, Potenza Picena\, Macerata\, Marche\, 62018\, Italia
 DTSTART:20251221T113000Z
 SUMMARY:Juniores Femminile  - Girone D / Giornata 1 - HOCKEY POTENZA PICENA - CUS PISA ASD
-UID:5f556f3e-f61e-458b-9e5b-8b517240d0f0@5f55.org
+UID:54fbadd9-8347-461e-bc5d-9dd93b225168@54fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile  - Girone D / Giornata 1\nGara 175\nPALAPRINCIPI - Viale Piemonte PORTO POTENZA PICENA\nBUTTERFLY ROMA HCC - HOCKEY POTENZA PICENA
+GEO:43.354477;13.697774
+LOCATION:Viale Piemonte\, Porto Potenza Picena\, Potenza Picena\, Macerata\, Marche\, 62018\, Italia
+DTSTART:20251221T153000Z
+SUMMARY:Juniores Femminile  - Girone D / Giornata 1 - BUTTERFLY ROMA HCC - HOCKEY POTENZA PICENA
+UID:e329658a-060b-4bc0-857c-f4b298a56302@e329.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone D / Giornata 2\nGara 178\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - HOCKEY POTENZA PICENA
@@ -31,31 +31,7 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260118T153000Z
 SUMMARY:Juniores Femminile  - Girone D / Giornata 2 - CUS PISA ASD - HOCKEY POTENZA PICENA
-UID:52d1805c-1784-44d6-8cf4-07f0e0600823@52d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile  - Girone D / Giornata 1\nGara 175\nPALAPRINCIPI - Viale Piemonte PORTO POTENZA PICENA\nBUTTERFLY ROMA HCC - HOCKEY POTENZA PICENA
-GEO:43.354477;13.697774
-LOCATION:Viale Piemonte\, Porto Potenza Picena\, Potenza Picena\, Macerata\, Marche\, 62018\, Italia
-DTSTART:20251221T153000Z
-SUMMARY:Juniores Femminile  - Girone D / Giornata 1 - BUTTERFLY ROMA HCC - HOCKEY POTENZA PICENA
-UID:fa1a57f9-c7d9-4c4d-bcdf-e699b16c8a4b@fa1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile  - Girone D / Giornata 1\nGara 173\nPALAPRINCIPI - Viale Piemonte PORTO POTENZA PICENA\nHOCKEY POTENZA PICENA - CUS PISA ASD
-GEO:43.354477;13.697774
-LOCATION:Viale Piemonte\, Porto Potenza Picena\, Potenza Picena\, Macerata\, Marche\, 62018\, Italia
-DTSTART:20251221T113000Z
-SUMMARY:Juniores Femminile  - Girone D / Giornata 1 - HOCKEY POTENZA PICENA - CUS PISA ASD
-UID:4dda1db8-a0c5-4fcd-a157-42771e065848@4dda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile  - Girone D / Giornata 1\nGara 175\nPALAPRINCIPI - Viale Piemonte PORTO POTENZA PICENA\nBUTTERFLY ROMA HCC - HOCKEY POTENZA PICENA
-GEO:43.354477;13.697774
-LOCATION:Viale Piemonte\, Porto Potenza Picena\, Potenza Picena\, Macerata\, Marche\, 62018\, Italia
-DTSTART:20251221T153000Z
-SUMMARY:Juniores Femminile  - Girone D / Giornata 1 - BUTTERFLY ROMA HCC - HOCKEY POTENZA PICENA
-UID:76eceafb-edc3-4255-ae0e-e539559dc95a@76ec.org
+UID:5a4e6650-f2f5-46e9-8e9c-6f9a35c13d75@5a4e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone D / Giornata 2\nGara 177\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHOCKEY POTENZA PICENA - BUTTERFLY ROMA HCC
@@ -63,6 +39,30 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260118T133000Z
 SUMMARY:Juniores Femminile  - Girone D / Giornata 2 - HOCKEY POTENZA PICENA - BUTTERFLY ROMA HCC
-UID:88f4b471-a8d7-468e-be0a-929bd3379bd2@88f4.org
+UID:2b9e3bb6-48a9-4d79-a287-7e3e973d8516@2b9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile  - Girone D / Giornata 1\nGara 173\nPALAPRINCIPI - Viale Piemonte PORTO POTENZA PICENA\nHOCKEY POTENZA PICENA - CUS PISA ASD
+GEO:43.354477;13.697774
+LOCATION:Viale Piemonte\, Porto Potenza Picena\, Potenza Picena\, Macerata\, Marche\, 62018\, Italia
+DTSTART:20251221T113000Z
+SUMMARY:Juniores Femminile  - Girone D / Giornata 1 - HOCKEY POTENZA PICENA - CUS PISA ASD
+UID:17d45caf-b89a-4827-a0dd-a8098eb4a86c@17d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile  - Girone D / Giornata 2\nGara 178\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - HOCKEY POTENZA PICENA
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260118T153000Z
+SUMMARY:Juniores Femminile  - Girone D / Giornata 2 - CUS PISA ASD - HOCKEY POTENZA PICENA
+UID:d3250d0a-6c64-454d-8e86-daa2e600fd96@d325.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile  - Girone D / Giornata 1\nGara 175\nPALAPRINCIPI - Viale Piemonte PORTO POTENZA PICENA\nBUTTERFLY ROMA HCC - HOCKEY POTENZA PICENA
+GEO:43.354477;13.697774
+LOCATION:Viale Piemonte\, Porto Potenza Picena\, Potenza Picena\, Macerata\, Marche\, 62018\, Italia
+DTSTART:20251221T153000Z
+SUMMARY:Juniores Femminile  - Girone D / Giornata 1 - BUTTERFLY ROMA HCC - HOCKEY POTENZA PICENA
+UID:85e3e23b-f1bb-4f5c-b206-669085abc891@85e3.org
 END:VEVENT
 END:VCALENDAR

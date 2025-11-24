@@ -84,6 +84,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>LAZIO HOCKEY - BUTTERFLY ROMA</strong>
 
+**Risultato: 1-2**
+
 Giornata: Gara 613
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

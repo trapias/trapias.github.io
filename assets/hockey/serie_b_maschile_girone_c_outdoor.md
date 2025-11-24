@@ -119,6 +119,8 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>H C ROMA  B - LAZIO HOCKEY B</strong>
 
+**Risultato: 0-0**
+
 Giornata: Gara 528
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

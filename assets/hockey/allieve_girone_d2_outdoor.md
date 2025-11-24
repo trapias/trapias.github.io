@@ -6,6 +6,8 @@
 
 <strong>AZ HOCKEY TEAM - H.POTENZA PICENA</strong>
 
+**Risultato: 8-0**
+
 Giornata: Gara 566
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 

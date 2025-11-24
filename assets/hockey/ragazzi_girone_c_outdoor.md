@@ -84,6 +84,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>HOCKEY TEAM BOLOGNA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
 
+**Risultato: 6-3**
+
 Giornata: Gara 446
 
 Campo: CP BARCA 

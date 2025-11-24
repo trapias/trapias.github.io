@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 2\nGara 404\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - HOCKEY CLUB RIVA\n\nRisultato: 1-8
-GEO:45.601581;11.733989
-LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20251011T143000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 2 - POLISPORTIVA CAMELOT - HOCKEY CLUB RIVA
-UID:c2b09c10-fb6d-4bf3-895c-f436727375c0@c2b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 1\nGara 400\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - CUS PADOVA ASD\n\nRisultato: 3-1
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 10\nGara 428\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CUS PADOVA ASD
 GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20250928T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 1 - HOCKEY CLUB RIVA - CUS PADOVA ASD
-UID:5f72b6df-4da8-414d-b046-8455ea7c37a8@5f72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 3\nGara 408\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - CUS PADOVA ASD\n\nRisultato: 1-3
-GEO:45.601581;11.733989
-LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20251019T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 3 - POLISPORTIVA CAMELOT - CUS PADOVA ASD
-UID:92f12ebb-01c9-422e-a3fd-2f0824eaef74@92f1.org
+DTSTART:20260517T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 10 - ASD ADIGE UHC - CUS PADOVA ASD
+UID:9b30487f-2e4c-47ec-b243-f678d32e50b1@9b30.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 7\nGara 418\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - CUS PADOVA ASD
@@ -31,7 +15,22 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20260329T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 7 - CSP SAN GIORGIO - CUS PADOVA ASD
-UID:b3d1d0cc-69d5-4a83-a75a-570aca0eb7d9@b3d1.org
+UID:8cb69288-97fb-4544-ab52-0d090809e70c@8cb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 5\nGara 412\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - CSP SAN GIORGIO\n\nRisultato: 5-1
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251109T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 5 - HOCKEY CLUB RIVA - CSP SAN GIORGIO
+UID:21131715-d19c-4c6e-b85a-25316df3a6c9@2113.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 5\nGara 413\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - ASD ADIGE UHC\n\nRisultato: 1-3
+LOCATION: via J. Corrado\, 4 Padova
+DTSTART:20251109T120000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 5 - CUS PADOVA ASD - ASD ADIGE UHC
+UID:b09176c6-afec-4863-9bd7-81e3b92ca763@b091.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 7\nGara 420\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY TRIESTE 2012
@@ -39,31 +38,54 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260329T110000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 7 - ASD ADIGE UHC - HOCKEY TRIESTE 2012
-UID:917d3f5c-12f8-4f04-905b-036d086309f1@917d.org
+UID:47ee8f5f-0b0d-427b-ba47-4e52b02ff92e@47ee.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 10\nGara 427\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HOCKEY CLUB RIVA
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20260510T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 10 - CSP SAN GIORGIO - HOCKEY CLUB RIVA
-UID:ccb4f089-c09f-4eea-87ba-7b85553e3e48@ccb4.org
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 4\nGara 411\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - CUS PADOVA ASD\n\nRisultato: 1-4
+GEO:45.801036;13.542335
+LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
+DTSTART:20251101T120000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 4 - HOCKEY TRIESTE 2012 - CUS PADOVA ASD
+UID:cfd87394-17c8-4916-bd44-4948793f47ce@cfd8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 2\nGara 404\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - HOCKEY CLUB RIVA\n\nRisultato: 1-8
-GEO:45.601581;11.733989
-LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20251011T143000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 2 - POLISPORTIVA CAMELOT - HOCKEY CLUB RIVA
-UID:386449de-b5da-4563-8de9-5a5702f7a88d@3864.org
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 8\nGara 421\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - HOCKEY CLUB RIVA
+GEO:45.801036;13.542335
+LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
+DTSTART:20260419T110000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 8 - HOCKEY TRIESTE 2012 - HOCKEY CLUB RIVA
+UID:5d41d43b-60c2-42e3-a602-5440309a08a6@5d41.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 3\nGara 407\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD ADIGE UHC
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20251123T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 3 - CSP SAN GIORGIO - ASD ADIGE UHC
-UID:9669e173-c549-49d1-b287-75a1dff27a15@9669.org
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 6\nGara 416\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - POLISPORTIVA CAMELOT
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260315T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 6 - ASD ADIGE UHC - POLISPORTIVA CAMELOT
+UID:37ae4e8f-5f5e-45b5-88ca-a33e78f30882@37ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 4\nGara 411\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - CUS PADOVA ASD\n\nRisultato: 1-4
+GEO:45.801036;13.542335
+LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
+DTSTART:20251101T120000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 4 - HOCKEY TRIESTE 2012 - CUS PADOVA ASD
+UID:9c340ca8-ef47-49d6-87cd-4ce09a678ad8@9c34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 6\nGara 415\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY CLUB RIVA
+LOCATION: via J. Corrado\, 4 Padova
+DTSTART:20260315T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 6 - CUS PADOVA ASD - HOCKEY CLUB RIVA
+UID:a33dc93a-e30d-49ce-aeb9-dff42c213502@a33d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 7\nGara 419\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - POLISPORTIVA CAMELOT
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260329T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 7 - HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT
+UID:9e73bccf-78b1-4969-bdc0-50911dc3c04b@9e73.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 2\nGara 405\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - ASD ADIGE UHC
@@ -71,39 +93,15 @@ GEO:45.801036;13.542335
 LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
 DTSTART:20251116T120000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 2 - HOCKEY TRIESTE 2012 - ASD ADIGE UHC
-UID:dd500a2d-c2a4-461e-9922-267e8adee1b1@dd50.org
+UID:ef695074-39d5-4175-ba9b-376aab3d2275@ef69.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 4\nGara 410\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - POLISPORTIVA CAMELOT\n\nRisultato: 9-2
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20251101T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 4 - CSP SAN GIORGIO - POLISPORTIVA CAMELOT
-UID:0351b80c-c49e-431f-82da-232d15c4681c@0351.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 8\nGara 421\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - HOCKEY CLUB RIVA
-GEO:45.801036;13.542335
-LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
-DTSTART:20260419T110000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 8 - HOCKEY TRIESTE 2012 - HOCKEY CLUB RIVA
-UID:51e116f6-0a7c-4a15-a99d-541b9466a891@51e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 8\nGara 421\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - HOCKEY CLUB RIVA
-GEO:45.801036;13.542335
-LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
-DTSTART:20260419T110000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 8 - HOCKEY TRIESTE 2012 - HOCKEY CLUB RIVA
-UID:04d04b00-3fe3-4967-b551-e14a8296d69c@04d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 8\nGara 422\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CSP SAN GIORGIO
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260419T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 8 - ASD ADIGE UHC - CSP SAN GIORGIO
-UID:f96ab00d-b0e4-479d-aa9a-44be6e87b666@f96a.org
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 5\nGara 414\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - HOCKEY TRIESTE 2012\n\nRisultato: 3-1
+GEO:45.601581;11.733989
+LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20251109T113000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 5 - POLISPORTIVA CAMELOT - HOCKEY TRIESTE 2012
+UID:bee14bcb-24e4-48ae-ab7c-8d089741ef12@bee1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 1\nGara 400\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - CUS PADOVA ASD\n\nRisultato: 3-1
@@ -111,7 +109,47 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20250928T100000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 1 - HOCKEY CLUB RIVA - CUS PADOVA ASD
-UID:c97b9d43-5b7a-4ead-80af-cf1294275ed4@c97b.org
+UID:2baeffcc-fddd-488b-897f-9f96dfbaa08a@2bae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 1\nGara 401\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - ASD ADIGE UHC\n\nRisultato: 1-16
+GEO:45.601581;11.733989
+LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20250921T110000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 1 - POLISPORTIVA CAMELOT - ASD ADIGE UHC
+UID:160ee929-ecb3-499a-b657-3a07f2a8b3ba@160e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 6\nGara 417\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - CSP SAN GIORGIO
+GEO:45.801036;13.542335
+LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
+DTSTART:20260315T120000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 6 - HOCKEY TRIESTE 2012 - CSP SAN GIORGIO
+UID:39214ce2-1993-463e-a077-4d57d7ca9fb5@3921.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 7\nGara 419\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - POLISPORTIVA CAMELOT
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260329T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 7 - HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT
+UID:dfc7f8b6-0b99-4498-818c-744731b4a930@dfc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 4\nGara 409\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY CLUB RIVA\n\nRisultato: 4-5
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251021T160000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 4 - ASD ADIGE UHC - HOCKEY CLUB RIVA
+UID:00ed213f-c251-4c87-9ddf-7c313398811a@00ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 9\nGara 424\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - ASD ADIGE UHC
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260503T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 9 - HOCKEY CLUB RIVA - ASD ADIGE UHC
+UID:28e415ac-0db3-419c-9e39-78f5dcbd2c7a@28e4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 8\nGara 422\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CSP SAN GIORGIO
@@ -119,31 +157,7 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260419T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 8 - ASD ADIGE UHC - CSP SAN GIORGIO
-UID:115645e8-dde4-43d4-b6a5-d846408b0697@1156.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 3\nGara 406\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - HOCKEY TRIESTE 2012\n\nRisultato: 12-0
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251019T110000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 3 - HOCKEY CLUB RIVA - HOCKEY TRIESTE 2012
-UID:e23ff37f-a867-4a5c-829d-ed606f03f505@e23f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 4\nGara 409\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY CLUB RIVA\n\nRisultato: 4-5
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251021T160000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 4 - ASD ADIGE UHC - HOCKEY CLUB RIVA
-UID:b392e5e9-ddc9-4d9c-87a2-ccaf05dc2efc@b392.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 9\nGara 424\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - ASD ADIGE UHC
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260503T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 9 - HOCKEY CLUB RIVA - ASD ADIGE UHC
-UID:7c9c4bbd-61ca-4fe5-a671-332c92bb430d@7c9c.org
+UID:6d86ef35-c069-488a-aa60-1ba97a2afd6f@6d86.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 5\nGara 414\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - HOCKEY TRIESTE 2012\n\nRisultato: 3-1
@@ -151,84 +165,22 @@ GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20251109T113000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 5 - POLISPORTIVA CAMELOT - HOCKEY TRIESTE 2012
-UID:35d4905d-24d3-4e26-8099-431fc46b8c30@35d4.org
+UID:8d736067-84a1-429b-a94d-263b56da9001@8d73.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 9\nGara 425\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - CSP SAN GIORGIO
-GEO:45.601581;11.733989
-LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20260503T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 9 - POLISPORTIVA CAMELOT - CSP SAN GIORGIO
-UID:0a8bc407-a1f2-431b-9e64-087c1b766e6e@0a8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 4\nGara 410\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - POLISPORTIVA CAMELOT\n\nRisultato: 9-2
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20251101T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 4 - CSP SAN GIORGIO - POLISPORTIVA CAMELOT
-UID:1e5ec81c-3109-4a8c-a84d-7124e5c4a5a7@1e5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 1\nGara 401\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - ASD ADIGE UHC\n\nRisultato: 1-16
-GEO:45.601581;11.733989
-LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20250921T110000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 1 - POLISPORTIVA CAMELOT - ASD ADIGE UHC
-UID:458b6177-6395-4b75-a5af-7033bf95b3b9@458b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 7\nGara 419\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - POLISPORTIVA CAMELOT
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260329T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 7 - HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT
-UID:a59d2431-9113-45dd-8bf7-5badd06eadd9@a59d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 10\nGara 428\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CUS PADOVA ASD
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260517T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 10 - ASD ADIGE UHC - CUS PADOVA ASD
-UID:78c042ba-c494-499b-b60a-9952013fde60@78c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 6\nGara 415\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY CLUB RIVA
-LOCATION: via J. Corrado\, 4 Padova
-DTSTART:20260315T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 6 - CUS PADOVA ASD - HOCKEY CLUB RIVA
-UID:67cf7844-f49a-4328-a1a6-d20922126088@67cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 7\nGara 419\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - POLISPORTIVA CAMELOT
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260329T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 7 - HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT
-UID:930b1536-24b7-4d66-a73d-cf550c6d9b15@930b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 8\nGara 423\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - POLISPORTIVA CAMELOT
-LOCATION: via J. Corrado\, 4 Padova
-DTSTART:20260419T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 8 - CUS PADOVA ASD - POLISPORTIVA CAMELOT
-UID:3040c40c-a57f-46a9-8570-16fef2627582@3040.org
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 6\nGara 417\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - CSP SAN GIORGIO
+GEO:45.801036;13.542335
+LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
+DTSTART:20260315T120000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 6 - HOCKEY TRIESTE 2012 - CSP SAN GIORGIO
+UID:8d54058d-4083-4319-9194-1d42eb428e46@8d54.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 9\nGara 426\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY TRIESTE 2012
 LOCATION: via J. Corrado\, 4 Padova
 DTSTART:20260503T103000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 9 - CUS PADOVA ASD - HOCKEY TRIESTE 2012
-UID:34c86d66-9fdc-4d04-9c29-12331754ad6a@34c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 4\nGara 411\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - CUS PADOVA ASD\n\nRisultato: 1-4
-GEO:45.801036;13.542335
-LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
-DTSTART:20251101T120000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 4 - HOCKEY TRIESTE 2012 - CUS PADOVA ASD
-UID:84a3450b-b2c4-4230-b9ce-cf1488d2bd21@84a3.org
+UID:057bef0b-4429-4e91-85ed-f5fddbebbcbe@057b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 7\nGara 420\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY TRIESTE 2012
@@ -236,31 +188,15 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260329T110000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 7 - ASD ADIGE UHC - HOCKEY TRIESTE 2012
-UID:8684ba45-50fd-40e1-ba03-afc4771f3e09@8684.org
+UID:66d7dc95-5dc6-4455-980d-cad10280c6f4@66d7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 3\nGara 408\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - CUS PADOVA ASD\n\nRisultato: 1-3
-GEO:45.601581;11.733989
-LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20251019T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 3 - POLISPORTIVA CAMELOT - CUS PADOVA ASD
-UID:4fa026d0-5111-4152-92bc-35c9d57e9115@4fa0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 6\nGara 416\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - POLISPORTIVA CAMELOT
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260315T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 6 - ASD ADIGE UHC - POLISPORTIVA CAMELOT
-UID:9207d7cc-f6ca-499b-a489-a6bb51ab1a36@9207.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 10\nGara 427\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HOCKEY CLUB RIVA
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20260510T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 10 - CSP SAN GIORGIO - HOCKEY CLUB RIVA
-UID:651aaab6-4459-4da4-9b4a-f47d944040fe@651a.org
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 8\nGara 421\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - HOCKEY CLUB RIVA
+GEO:45.801036;13.542335
+LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
+DTSTART:20260419T110000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 8 - HOCKEY TRIESTE 2012 - HOCKEY CLUB RIVA
+UID:532e52fb-a6f8-49b4-8d82-253f774139b5@532e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 10\nGara 429\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - POLISPORTIVA CAMELOT
@@ -268,15 +204,7 @@ GEO:45.801036;13.542335
 LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
 DTSTART:20260510T103000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 10 - HOCKEY TRIESTE 2012 - POLISPORTIVA CAMELOT
-UID:e1df7a01-4b2b-4dc6-afc1-c22a74074e60@e1df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 10\nGara 428\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CUS PADOVA ASD
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260517T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 10 - ASD ADIGE UHC - CUS PADOVA ASD
-UID:9a4ee24c-7445-41fc-b011-a5ec156c928c@9a4e.org
+UID:db837ab7-e5de-490a-be6b-5939c8238d75@db83.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 1\nGara 402\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HOCKEY TRIESTE 2012\n\nRisultato: 14-0
@@ -284,169 +212,22 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20250921T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 1 - CSP SAN GIORGIO - HOCKEY TRIESTE 2012
-UID:2912093b-c7f7-4173-b8c2-cb40fb3d9d51@2912.org
+UID:afaf887a-b5d8-4553-9bc6-3256b236661f@afaf.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 6\nGara 415\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY CLUB RIVA
-LOCATION: via J. Corrado\, 4 Padova
-DTSTART:20260315T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 6 - CUS PADOVA ASD - HOCKEY CLUB RIVA
-UID:8807e035-40f7-4a89-bda0-6cd79229857b@8807.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 4\nGara 411\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - CUS PADOVA ASD\n\nRisultato: 1-4
-GEO:45.801036;13.542335
-LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
-DTSTART:20251101T120000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 4 - HOCKEY TRIESTE 2012 - CUS PADOVA ASD
-UID:f5c5c300-72aa-4f4e-b501-3776e10b1ccb@f5c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 6\nGara 417\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - CSP SAN GIORGIO
-GEO:45.801036;13.542335
-LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
-DTSTART:20260315T120000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 6 - HOCKEY TRIESTE 2012 - CSP SAN GIORGIO
-UID:50242796-4fbb-4f96-bbdb-342d004c04a6@5024.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 1\nGara 402\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HOCKEY TRIESTE 2012\n\nRisultato: 14-0
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20250921T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 1 - CSP SAN GIORGIO - HOCKEY TRIESTE 2012
-UID:0c359159-fccd-4646-b5cd-f8ed95b4b392@0c35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 5\nGara 412\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - CSP SAN GIORGIO\n\nRisultato: 5-1
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251109T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 5 - HOCKEY CLUB RIVA - CSP SAN GIORGIO
-UID:bdfe7da3-3de4-4c42-9f35-17a60b13b533@bdfe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 6\nGara 416\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - POLISPORTIVA CAMELOT
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260315T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 6 - ASD ADIGE UHC - POLISPORTIVA CAMELOT
-UID:02d29491-0e9d-4291-8887-00338f158ab3@02d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 7\nGara 418\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - CUS PADOVA ASD
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20260329T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 7 - CSP SAN GIORGIO - CUS PADOVA ASD
-UID:9c7f5610-10f2-4df1-a1ab-920cf7b38752@9c7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 5\nGara 412\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - CSP SAN GIORGIO\n\nRisultato: 5-1
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251109T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 5 - HOCKEY CLUB RIVA - CSP SAN GIORGIO
-UID:5feda17b-b934-4df2-a664-c900e87a955a@5fed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 2\nGara 403\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - CSP SAN GIORGIO\n\nRisultato: 0-1
-LOCATION: via J. Corrado\, 4 Padova
-DTSTART:20251012T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 2 - CUS PADOVA ASD - CSP SAN GIORGIO
-UID:29164ac8-069f-4f1b-aca7-4f136b9ead17@2916.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 8\nGara 423\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - POLISPORTIVA CAMELOT
-LOCATION: via J. Corrado\, 4 Padova
-DTSTART:20260419T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 8 - CUS PADOVA ASD - POLISPORTIVA CAMELOT
-UID:fb50d5e5-92dc-441e-8f9b-077bf3b19847@fb50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 5\nGara 413\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - ASD ADIGE UHC\n\nRisultato: 1-3
-LOCATION: via J. Corrado\, 4 Padova
-DTSTART:20251109T120000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 5 - CUS PADOVA ASD - ASD ADIGE UHC
-UID:23332e36-a0c2-4074-897c-013e1475d16f@2333.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 9\nGara 424\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - ASD ADIGE UHC
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260503T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 9 - HOCKEY CLUB RIVA - ASD ADIGE UHC
-UID:08ad4d21-f94e-468e-90c9-942103e54430@08ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 1\nGara 401\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - ASD ADIGE UHC\n\nRisultato: 1-16
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 2\nGara 404\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - HOCKEY CLUB RIVA\n\nRisultato: 1-8
 GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20250921T110000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 1 - POLISPORTIVA CAMELOT - ASD ADIGE UHC
-UID:cd5fe659-4924-4f1d-a17a-f781198f83ae@cd5f.org
+DTSTART:20251011T143000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 2 - POLISPORTIVA CAMELOT - HOCKEY CLUB RIVA
+UID:358c11dc-c3ee-4d94-8f0a-821b2f0ca7e6@358c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 4\nGara 409\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY CLUB RIVA\n\nRisultato: 4-5
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251021T160000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 4 - ASD ADIGE UHC - HOCKEY CLUB RIVA
-UID:287c8af2-31d1-4361-9ca3-bdea41535430@287c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 3\nGara 407\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD ADIGE UHC
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20251123T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 3 - CSP SAN GIORGIO - ASD ADIGE UHC
-UID:b0b73008-25b5-4207-9c12-3495a3e4c6b4@b0b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 2\nGara 405\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - ASD ADIGE UHC
-GEO:45.801036;13.542335
-LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
-DTSTART:20251116T120000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 2 - HOCKEY TRIESTE 2012 - ASD ADIGE UHC
-UID:1b0963b5-b29f-458e-ac5a-405cd1c0e847@1b09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 3\nGara 406\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - HOCKEY TRIESTE 2012\n\nRisultato: 12-0
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251019T110000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 3 - HOCKEY CLUB RIVA - HOCKEY TRIESTE 2012
-UID:ffb6937a-0fe2-4125-ab2d-451e659a3358@ffb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 5\nGara 413\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - ASD ADIGE UHC\n\nRisultato: 1-3
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 9\nGara 426\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY TRIESTE 2012
 LOCATION: via J. Corrado\, 4 Padova
-DTSTART:20251109T120000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 5 - CUS PADOVA ASD - ASD ADIGE UHC
-UID:575d92d3-c315-48e4-85ce-75d4039c4cd6@575d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 5\nGara 414\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - HOCKEY TRIESTE 2012\n\nRisultato: 3-1
-GEO:45.601581;11.733989
-LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20251109T113000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 5 - POLISPORTIVA CAMELOT - HOCKEY TRIESTE 2012
-UID:c3d21f4e-3185-4f1a-99a5-a846f1ab3198@c3d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 6\nGara 417\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - CSP SAN GIORGIO
-GEO:45.801036;13.542335
-LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
-DTSTART:20260315T120000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 6 - HOCKEY TRIESTE 2012 - CSP SAN GIORGIO
-UID:91da641c-52f3-41f6-beb6-bdd3b576316d@91da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 2\nGara 403\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - CSP SAN GIORGIO\n\nRisultato: 0-1
-LOCATION: via J. Corrado\, 4 Padova
-DTSTART:20251012T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 2 - CUS PADOVA ASD - CSP SAN GIORGIO
-UID:133f848b-cd5a-4273-8465-14ba06ba2496@133f.org
+DTSTART:20260503T103000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 9 - CUS PADOVA ASD - HOCKEY TRIESTE 2012
+UID:8d005e46-9b8b-4653-8d7f-9469975e3ac9@8d00.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 9\nGara 425\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - CSP SAN GIORGIO
@@ -454,14 +235,99 @@ GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20260503T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 9 - POLISPORTIVA CAMELOT - CSP SAN GIORGIO
-UID:9968d67f-928f-4e57-b185-0ebc717cff08@9968.org
+UID:e2372476-e8e3-42ac-8105-76b8a928ab76@e237.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 9\nGara 426\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY TRIESTE 2012
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 2\nGara 403\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - CSP SAN GIORGIO\n\nRisultato: 0-1
 LOCATION: via J. Corrado\, 4 Padova
-DTSTART:20260503T103000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 9 - CUS PADOVA ASD - HOCKEY TRIESTE 2012
-UID:0153f3f3-f796-44f1-999f-52dfa6236487@0153.org
+DTSTART:20251012T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 2 - CUS PADOVA ASD - CSP SAN GIORGIO
+UID:6f841906-d0cc-43f2-b7f9-e7f9a2c1e3fd@6f84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 2\nGara 405\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - ASD ADIGE UHC
+GEO:45.801036;13.542335
+LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
+DTSTART:20251116T120000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 2 - HOCKEY TRIESTE 2012 - ASD ADIGE UHC
+UID:115b81ed-f4c5-4002-9cd3-b0a5013dd46c@115b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 1\nGara 402\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HOCKEY TRIESTE 2012\n\nRisultato: 14-0
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20250921T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 1 - CSP SAN GIORGIO - HOCKEY TRIESTE 2012
+UID:0be688d3-ea8d-437f-8bc8-9f6f2ea0f0e3@0be6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 3\nGara 406\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - HOCKEY TRIESTE 2012\n\nRisultato: 12-0
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251019T110000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 3 - HOCKEY CLUB RIVA - HOCKEY TRIESTE 2012
+UID:88ba3677-97ef-4d41-a7b9-de6ae47d1940@88ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 10\nGara 428\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CUS PADOVA ASD
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260517T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 10 - ASD ADIGE UHC - CUS PADOVA ASD
+UID:309aa305-0009-42a3-9102-636bea41a69a@309a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 1\nGara 401\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - ASD ADIGE UHC\n\nRisultato: 1-16
+GEO:45.601581;11.733989
+LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20250921T110000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 1 - POLISPORTIVA CAMELOT - ASD ADIGE UHC
+UID:37730f8d-e261-4495-9656-c688732cd15d@3773.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 4\nGara 410\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - POLISPORTIVA CAMELOT\n\nRisultato: 9-2
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20251101T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 4 - CSP SAN GIORGIO - POLISPORTIVA CAMELOT
+UID:1652cfc3-6e02-4868-8905-cca32b2b5a52@1652.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 2\nGara 403\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - CSP SAN GIORGIO\n\nRisultato: 0-1
+LOCATION: via J. Corrado\, 4 Padova
+DTSTART:20251012T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 2 - CUS PADOVA ASD - CSP SAN GIORGIO
+UID:b25c322c-e559-4e11-8a55-3365b14db3b5@b25c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 8\nGara 423\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - POLISPORTIVA CAMELOT
+LOCATION: via J. Corrado\, 4 Padova
+DTSTART:20260419T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 8 - CUS PADOVA ASD - POLISPORTIVA CAMELOT
+UID:1950a76f-0dfc-4c43-8e70-ed2812b474fd@1950.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 6\nGara 416\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - POLISPORTIVA CAMELOT
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260315T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 6 - ASD ADIGE UHC - POLISPORTIVA CAMELOT
+UID:c4bf7aab-cf2a-43dd-90bb-a0c98e555840@c4bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 8\nGara 423\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - POLISPORTIVA CAMELOT
+LOCATION: via J. Corrado\, 4 Padova
+DTSTART:20260419T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 8 - CUS PADOVA ASD - POLISPORTIVA CAMELOT
+UID:ccce1012-1dce-4329-a26e-e54f0df67d6f@ccce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 9\nGara 425\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - CSP SAN GIORGIO
+GEO:45.601581;11.733989
+LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20260503T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 9 - POLISPORTIVA CAMELOT - CSP SAN GIORGIO
+UID:1786ceb4-60f4-4999-b0b3-9f711efdd705@1786.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 10\nGara 429\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - POLISPORTIVA CAMELOT
@@ -469,6 +335,140 @@ GEO:45.801036;13.542335
 LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
 DTSTART:20260510T103000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 10 - HOCKEY TRIESTE 2012 - POLISPORTIVA CAMELOT
-UID:e28dafa9-50a2-4661-a069-84bf55e9e65b@e28d.org
+UID:cde26dfa-7fde-430e-8eb5-fb53ef921e7e@cde2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 6\nGara 415\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY CLUB RIVA
+LOCATION: via J. Corrado\, 4 Padova
+DTSTART:20260315T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 6 - CUS PADOVA ASD - HOCKEY CLUB RIVA
+UID:5c51ece0-140f-49cc-be1b-bbe7b9b8b223@5c51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 3\nGara 407\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD ADIGE UHC\n\nRisultato: 2-2
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20251123T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 3 - CSP SAN GIORGIO - ASD ADIGE UHC
+UID:52483583-944a-4fda-a933-7f67fd34e72e@5248.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 1\nGara 400\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - CUS PADOVA ASD\n\nRisultato: 3-1
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20250928T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 1 - HOCKEY CLUB RIVA - CUS PADOVA ASD
+UID:3726cc81-1996-4607-9f9a-2f7d4d1440b4@3726.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 3\nGara 406\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - HOCKEY TRIESTE 2012\n\nRisultato: 12-0
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251019T110000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 3 - HOCKEY CLUB RIVA - HOCKEY TRIESTE 2012
+UID:873ba6b5-495e-4251-8a2d-bf6e9ef35ee2@873b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 5\nGara 413\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - ASD ADIGE UHC\n\nRisultato: 1-3
+LOCATION: via J. Corrado\, 4 Padova
+DTSTART:20251109T120000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 5 - CUS PADOVA ASD - ASD ADIGE UHC
+UID:443a98bf-be2a-4ee8-a2dd-4b5e65be0114@443a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 3\nGara 407\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD ADIGE UHC\n\nRisultato: 2-2
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20251123T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 3 - CSP SAN GIORGIO - ASD ADIGE UHC
+UID:946f83bc-a584-4e5f-862b-8d831a613d98@946f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 5\nGara 412\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - CSP SAN GIORGIO\n\nRisultato: 5-1
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251109T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 5 - HOCKEY CLUB RIVA - CSP SAN GIORGIO
+UID:1413a122-d46b-4888-9187-265c010a9cc8@1413.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 9\nGara 424\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - ASD ADIGE UHC
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260503T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 9 - HOCKEY CLUB RIVA - ASD ADIGE UHC
+UID:7be94eab-7992-48d6-8d2a-f37774766d93@7be9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 4\nGara 410\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - POLISPORTIVA CAMELOT\n\nRisultato: 9-2
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20251101T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 4 - CSP SAN GIORGIO - POLISPORTIVA CAMELOT
+UID:8e5c9095-6f8f-440d-8cc7-1c2c032e7ae5@8e5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 3\nGara 408\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - CUS PADOVA ASD\n\nRisultato: 1-3
+GEO:45.601581;11.733989
+LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20251019T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 3 - POLISPORTIVA CAMELOT - CUS PADOVA ASD
+UID:78fea50e-aa0e-4026-8f4d-68a5c945d8f3@78fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 8\nGara 422\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CSP SAN GIORGIO
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260419T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 8 - ASD ADIGE UHC - CSP SAN GIORGIO
+UID:dc7f49ac-54db-4a2d-bed7-63183ec8244a@dc7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 10\nGara 427\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HOCKEY CLUB RIVA
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20260510T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 10 - CSP SAN GIORGIO - HOCKEY CLUB RIVA
+UID:6ade1161-8355-49cd-a0b0-1037c31cbe7b@6ade.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 4\nGara 409\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY CLUB RIVA\n\nRisultato: 4-5
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251021T160000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 4 - ASD ADIGE UHC - HOCKEY CLUB RIVA
+UID:c3482218-5d6d-4cb0-a224-bd070b5b9ae0@c348.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 2\nGara 404\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - HOCKEY CLUB RIVA\n\nRisultato: 1-8
+GEO:45.601581;11.733989
+LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20251011T143000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 2 - POLISPORTIVA CAMELOT - HOCKEY CLUB RIVA
+UID:5ce08660-0968-4c5a-aeb8-ddaaa83d20eb@5ce0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 7\nGara 418\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - CUS PADOVA ASD
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20260329T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 7 - CSP SAN GIORGIO - CUS PADOVA ASD
+UID:15e2e5c7-f084-4610-9ede-a36d2cc03e71@15e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 3\nGara 408\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - CUS PADOVA ASD\n\nRisultato: 1-3
+GEO:45.601581;11.733989
+LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20251019T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 3 - POLISPORTIVA CAMELOT - CUS PADOVA ASD
+UID:2a378779-a08d-4605-8613-b9d744e20e18@2a37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 10\nGara 427\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HOCKEY CLUB RIVA
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20260510T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 10 - CSP SAN GIORGIO - HOCKEY CLUB RIVA
+UID:1079a569-edac-4e00-aea4-9443d12bd995@1079.org
 END:VEVENT
 END:VCALENDAR
