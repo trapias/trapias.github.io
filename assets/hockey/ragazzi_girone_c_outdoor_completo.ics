@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 4\nGara 449\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20260329T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 4 - HOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO
-UID:a607ece3-fbd2-4c4b-bf7a-455d4e201ce8@a607.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 1\nGara 443\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA\n\nRisultato: 2-6
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251012T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 1 - ASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA
-UID:54149511-b908-4ca5-9059-8f19b2cefe1a@5414.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 6\nGara 453\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - CUS PISA ASD
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260503T110000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 6 - ASD HOCKEY CLUB BONDENO - CUS PISA ASD
-UID:807ab4fb-70df-4462-9fda-20e62cd79c1d@807a.org
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 5\nGara 450\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20260419T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 5 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO
+UID:8ddfd065-93a4-4bcb-b58a-831ebe45b927@8ddf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 4\nGara 448\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
@@ -31,7 +15,23 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260329T110000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 4 - CUS PISA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:9b0a8261-0d65-451e-89b1-bb6f35cee2ed@9b0a.org
+UID:12acad45-61d3-4a56-b899-23786666b4b1@12ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 3\nGara 447\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - ASD HOCKEY CLUB BONDENO\n\nRisultato: 1-15
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251109T120000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 3 - CUS PISA ASD - ASD HOCKEY CLUB BONDENO
+UID:945a80af-354b-4375-9b57-bc9f46ba93b8@945a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 3\nGara 446\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 6-3
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20251123T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 3 - HOCKEY TEAM BOLOGNA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
+UID:6f8a7249-c745-42aa-8452-0a7430c23efa@6f8a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 4\nGara 448\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
@@ -39,71 +39,7 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260329T110000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 4 - CUS PISA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:ecc150de-a65a-46aa-958a-e2f174e99be1@ecc1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 1\nGara 442\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PISA ASD\n\nRisultato: 4-0
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20251101T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 1 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PISA ASD
-UID:3743d969-005e-4264-83bd-bf5710686995@3743.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 5\nGara 451\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - HOCKEY TEAM BOLOGNA
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260419T110000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 5 - CUS PISA ASD - HOCKEY TEAM BOLOGNA
-UID:6ba5a7bc-8f91-472f-bab5-12c1cf8bfd84@6ba5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 5\nGara 451\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - HOCKEY TEAM BOLOGNA
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260419T110000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 5 - CUS PISA ASD - HOCKEY TEAM BOLOGNA
-UID:17a061b7-cd52-4efb-a83b-8884d6b0360d@17a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 3\nGara 447\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - ASD HOCKEY CLUB BONDENO\n\nRisultato: 1-15
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251109T120000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 3 - CUS PISA ASD - ASD HOCKEY CLUB BONDENO
-UID:daa3684c-887f-4605-903a-b4bf7aa11a40@daa3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 6\nGara 452\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20260503T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 6 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA
-UID:63a426a4-7956-42eb-a392-47a3c71e7809@63a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 3\nGara 446\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 6-3
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20251123T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 3 - HOCKEY TEAM BOLOGNA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:9f449f25-fd80-44b9-9047-3308f70f79ef@9f44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 2\nGara 445\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - CUS PISA ASD\n\nRisultato: 7-0
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20251019T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 2 - HOCKEY TEAM BOLOGNA - CUS PISA ASD
-UID:cd58b258-81b4-4953-8dbb-90af0b85761f@cd58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 4\nGara 449\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20260329T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 4 - HOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO
-UID:bca0bb74-e4a6-476c-bb3b-616febfd393a@bca0.org
+UID:d10f7b16-a9aa-4375-a5e6-a18950c701c0@d10f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 6\nGara 453\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - CUS PISA ASD
@@ -111,39 +47,15 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20260503T110000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 6 - ASD HOCKEY CLUB BONDENO - CUS PISA ASD
-UID:1ac374b3-ba82-4517-9699-6b72cae587f7@1ac3.org
+UID:21e45c1d-b080-46e7-b4c4-3467f5e818ac@21e4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 3\nGara 447\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - ASD HOCKEY CLUB BONDENO\n\nRisultato: 1-15
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 5\nGara 451\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - HOCKEY TEAM BOLOGNA
 GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251109T120000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 3 - CUS PISA ASD - ASD HOCKEY CLUB BONDENO
-UID:feaeb4d5-05ef-4c0d-8d1b-b6e133f5c52f@feae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 5\nGara 450\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20260419T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 5 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO
-UID:92d78f99-92f0-4d4b-87b9-6113caa56eb4@92d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 6\nGara 452\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20260503T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 6 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA
-UID:ae2b0598-fa23-4e3d-b953-416af5da9c9f@ae2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 2\nGara 444\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 1-1
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251019T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 2 - ASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:adfe6976-469e-404b-9b7c-58a2c3d9906b@adfe.org
+DTSTART:20260419T110000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 5 - CUS PISA ASD - HOCKEY TEAM BOLOGNA
+UID:78c1a1d0-768a-48f3-ba09-08cecdb5661b@78c1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 1\nGara 442\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PISA ASD\n\nRisultato: 4-0
@@ -151,23 +63,7 @@ GEO:44.708262;10.635422
 LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
 DTSTART:20251101T100000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 1 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PISA ASD
-UID:882f17e3-83c1-4cb9-9395-2e3ad3f75554@882f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 2\nGara 444\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 1-1
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251019T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 2 - ASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:9b609d1c-adb1-454c-97ae-d0737dc856cd@9b60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 5\nGara 450\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20260419T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 5 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO
-UID:2e1b835f-54d9-4c26-b676-43ca3bb8c444@2e1b.org
+UID:9c37cfe0-affe-4036-b474-8f9be077ca9b@9c37.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 1\nGara 443\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA\n\nRisultato: 2-6
@@ -175,15 +71,7 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20251012T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 1 - ASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA
-UID:be527517-cd6e-48d7-b89d-aeaa456adf67@be52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 2\nGara 445\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - CUS PISA ASD\n\nRisultato: 7-0
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20251019T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 2 - HOCKEY TEAM BOLOGNA - CUS PISA ASD
-UID:7048e2ac-a24f-40a7-a511-2b2519f9f798@7048.org
+UID:2f02a943-3ea4-44ec-aa59-3a670a0b8007@2f02.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 3\nGara 446\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 6-3
@@ -191,6 +79,118 @@ GEO:44.494706;11.280302
 LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
 DTSTART:20251123T100000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 3 - HOCKEY TEAM BOLOGNA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:51195c60-377c-40f9-a03d-eb1a13a0143f@5119.org
+UID:396d3830-5606-410f-b1d5-bfd6515eb1ae@396d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 2\nGara 444\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 1-1
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251019T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 2 - ASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
+UID:5cf955d6-4384-48fe-b3ea-de95750fe8b1@5cf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 5\nGara 450\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20260419T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 5 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO
+UID:2fdf7da7-9e20-4bd2-a149-2b9f654fa746@2fdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 2\nGara 445\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - CUS PISA ASD\n\nRisultato: 7-0
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20251019T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 2 - HOCKEY TEAM BOLOGNA - CUS PISA ASD
+UID:dac8e768-e4bd-426c-8430-aacb26a7bba0@dac8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 5\nGara 451\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - HOCKEY TEAM BOLOGNA
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260419T110000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 5 - CUS PISA ASD - HOCKEY TEAM BOLOGNA
+UID:f67fae85-7f9d-47c2-b2ae-a33c5ed4be94@f67f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 6\nGara 453\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - CUS PISA ASD
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260503T110000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 6 - ASD HOCKEY CLUB BONDENO - CUS PISA ASD
+UID:c1ec1862-815e-4362-88d1-68ed2184273c@c1ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 2\nGara 444\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 1-1
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251019T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 2 - ASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
+UID:f59dd6a4-8f2e-4b64-9c7e-26103271632f@f59d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 3\nGara 447\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - ASD HOCKEY CLUB BONDENO\n\nRisultato: 1-15
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251109T120000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 3 - CUS PISA ASD - ASD HOCKEY CLUB BONDENO
+UID:ed0755aa-8781-4c83-8978-a03d23c1a2f6@ed07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 4\nGara 449\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20260329T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 4 - HOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO
+UID:401f4beb-9e62-45d9-94dc-945403dbc217@401f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 1\nGara 443\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA\n\nRisultato: 2-6
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251012T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 1 - ASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA
+UID:d8cd2a66-fc5b-4826-b36f-c4bb4e37ff11@d8cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 4\nGara 449\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20260329T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 4 - HOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO
+UID:a1ae2709-f2e0-493e-9521-d8ca878cad49@a1ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 2\nGara 445\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - CUS PISA ASD\n\nRisultato: 7-0
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20251019T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 2 - HOCKEY TEAM BOLOGNA - CUS PISA ASD
+UID:68de3cb5-54e4-4319-8c97-6abc67901dae@68de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 6\nGara 452\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20260503T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 6 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA
+UID:e57b382f-b3b9-4b37-8588-11b695d39199@e57b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 6\nGara 452\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20260503T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 6 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA
+UID:c564d00c-2a6e-41bd-9e4a-3938112683ab@c564.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 1\nGara 442\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PISA ASD\n\nRisultato: 4-0
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20251101T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 1 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PISA ASD
+UID:0405d902-a350-4dc5-a4ac-1ceafd042d77@0405.org
 END:VEVENT
 END:VCALENDAR

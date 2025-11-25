@@ -4,7 +4,7 @@
 
 ## Dom 21/12/2025 12.30
 
-<strong>HOCKEY POTENZA PICENA - CUS PISA ASD</strong>
+<strong>HOCKEY POTENZA PICENA - BUTTERFLY ROMA HCC</strong>
 
 Giornata: Gara 173
 
@@ -36,7 +36,7 @@ Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
 ## Dom 21/12/2025 16.30
 
-<strong>BUTTERFLY ROMA HCC - HOCKEY POTENZA PICENA</strong>
+<strong>HOCKEY POTENZA PICENA - CUS PISA ASD</strong>
 
 Giornata: Gara 175
 
