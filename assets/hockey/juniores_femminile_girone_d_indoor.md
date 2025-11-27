@@ -75,7 +75,7 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 Giornata: Gara 177
 
-Campo: PALACUS Pisa 
+Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 

@@ -407,3 +407,19 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
+
+## Dom 28/06/2026 11.00
+
+<strong>BUTTERFLY ROMA - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1110
+
+Campo: CENTRO GIULIO ONESTI 
+
+Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
+
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
+
