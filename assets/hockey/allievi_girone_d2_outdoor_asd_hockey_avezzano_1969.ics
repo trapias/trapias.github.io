@@ -2,19 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 9\nGara 603\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - ASD HOCKEY AVEZZANO 1969
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20260426T090000Z
-SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 9 - H.POTENZA PICENA - ASD HOCKEY AVEZZANO 1969
-UID:a3bf4ec2-fef4-434b-8f39-23ae900e718d@a3bf.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 8\nGara 600\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHOCKEY CLUB OLIMPIA - ASD HOCKEY AVEZZANO 1969
 LOCATION: Via Marrani\, snc Torre Santa Susanna
 DTSTART:20260412T130000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 8 - HOCKEY CLUB OLIMPIA - ASD HOCKEY AVEZZANO 1969
-UID:a9c63f52-2375-406c-b33f-a66e6a64cdc6@a9c6.org
+UID:68f279f9-0ed9-4c59-9a0d-555b49ec71a3@68f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 6\nGara 598\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nASD HOCKEY AVEZZANO 1969 - ASD HOCKEY CLUB MOGLIANO
+GEO:42.043231;13.437583
+LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
+DTSTART:20260315T150000Z
+SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 6 - ASD HOCKEY AVEZZANO 1969 - ASD HOCKEY CLUB MOGLIANO
+UID:6227d4ea-a70e-488d-8539-e6838a7da681@6227.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 10\nGara 604\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nASD HOCKEY AVEZZANO 1969 - AZ HOCKEY TEAM
+GEO:42.043231;13.437583
+LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
+DTSTART:20260503T090000Z
+SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 10 - ASD HOCKEY AVEZZANO 1969 - AZ HOCKEY TEAM
+UID:cef4bb33-b836-401d-8d1c-8148dabbe4c8@cef4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 4\nGara 593\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nASD HOCKEY AVEZZANO 1969 - H.POTENZA PICENA\n\nRisultato: 0-12
@@ -22,14 +30,31 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20251116T100000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 4 - ASD HOCKEY AVEZZANO 1969 - H.POTENZA PICENA
-UID:8b5d2c0c-9084-4757-99da-98ad11f26c33@8b5d.org
+UID:126460f0-f0a6-4826-8d03-a5e312ae20a8@1264.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 8\nGara 600\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHOCKEY CLUB OLIMPIA - ASD HOCKEY AVEZZANO 1969
-LOCATION: Via Marrani\, snc Torre Santa Susanna
-DTSTART:20260412T130000Z
-SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 8 - HOCKEY CLUB OLIMPIA - ASD HOCKEY AVEZZANO 1969
-UID:a3187a0f-a796-4c1f-95d6-b52b8d33f074@a318.org
+DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 6\nGara 598\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nASD HOCKEY AVEZZANO 1969 - ASD HOCKEY CLUB MOGLIANO
+GEO:42.043231;13.437583
+LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
+DTSTART:20260315T150000Z
+SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 6 - ASD HOCKEY AVEZZANO 1969 - ASD HOCKEY CLUB MOGLIANO
+UID:2fcb10b0-7d8a-4869-a3e2-0ea792e01924@2fcb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 10\nGara 604\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nASD HOCKEY AVEZZANO 1969 - AZ HOCKEY TEAM
+GEO:42.043231;13.437583
+LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
+DTSTART:20260503T090000Z
+SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 10 - ASD HOCKEY AVEZZANO 1969 - AZ HOCKEY TEAM
+UID:bb3ba7d8-73d2-4d00-8610-f184862247ef@bb3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 5\nGara 594\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - ASD HOCKEY AVEZZANO 1969
+GEO:42.043231;13.437583
+LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
+DTSTART:20260301T100000Z
+SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 5 - AZ HOCKEY TEAM - ASD HOCKEY AVEZZANO 1969
+UID:f31734ba-4990-4df3-af54-170451a901ac@f317.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 1\nGara 588\nBAGLIANO - STRADA PROVINCIALE 72\, 25 MOGLIANO\nASD HOCKEY CLUB MOGLIANO - ASD HOCKEY AVEZZANO 1969\n\nRisultato: 6-0
@@ -37,15 +62,14 @@ GEO:43.172615;13.487342
 LOCATION:Strada Provinciale 72 Mogliano - Fiume\, Piani d'Ete\, Mogliano\, Macerata\, Marche\, 63834\, Italia
 DTSTART:20251019T100000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 1 - ASD HOCKEY CLUB MOGLIANO - ASD HOCKEY AVEZZANO 1969
-UID:7cc9e107-4ee4-4a99-8c9a-2f6d0384a166@7cc9.org
+UID:1164893d-2e64-4096-a51b-73d0a48621d1@1164.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 5\nGara 594\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - ASD HOCKEY AVEZZANO 1969
-GEO:42.043231;13.437583
-LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
-DTSTART:20260301T100000Z
-SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 5 - AZ HOCKEY TEAM - ASD HOCKEY AVEZZANO 1969
-UID:bc5cfc05-dc43-4714-a276-0e2c1920ae9b@bc5c.org
+DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 8\nGara 600\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHOCKEY CLUB OLIMPIA - ASD HOCKEY AVEZZANO 1969
+LOCATION: Via Marrani\, snc Torre Santa Susanna
+DTSTART:20260412T130000Z
+SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 8 - HOCKEY CLUB OLIMPIA - ASD HOCKEY AVEZZANO 1969
+UID:8ea50938-ffc0-4a06-bd85-cc474c2c164e@8ea5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 9\nGara 603\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - ASD HOCKEY AVEZZANO 1969
@@ -53,31 +77,7 @@ GEO:43.386400;13.654670
 LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
 DTSTART:20260426T090000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 9 - H.POTENZA PICENA - ASD HOCKEY AVEZZANO 1969
-UID:15b3aacb-164f-46ad-8c72-2b8736e8382b@15b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 6\nGara 598\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nASD HOCKEY AVEZZANO 1969 - ASD HOCKEY CLUB MOGLIANO
-GEO:42.043231;13.437583
-LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
-DTSTART:20260315T150000Z
-SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 6 - ASD HOCKEY AVEZZANO 1969 - ASD HOCKEY CLUB MOGLIANO
-UID:08c51b52-f592-4d47-bbf1-b075236264ae@08c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 10\nGara 604\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nASD HOCKEY AVEZZANO 1969 - AZ HOCKEY TEAM
-GEO:42.043231;13.437583
-LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
-DTSTART:20260503T090000Z
-SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 10 - ASD HOCKEY AVEZZANO 1969 - AZ HOCKEY TEAM
-UID:c6ebcf44-7aaa-4893-a7d3-592556f51977@c6eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 10\nGara 604\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nASD HOCKEY AVEZZANO 1969 - AZ HOCKEY TEAM
-GEO:42.043231;13.437583
-LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
-DTSTART:20260503T090000Z
-SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 10 - ASD HOCKEY AVEZZANO 1969 - AZ HOCKEY TEAM
-UID:74018392-1695-47fc-beaa-d23a8908bbbc@7401.org
+UID:7d337ae2-d84c-4d6a-865a-21f7ed514d58@7d33.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 4\nGara 593\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nASD HOCKEY AVEZZANO 1969 - H.POTENZA PICENA\n\nRisultato: 0-12
@@ -85,7 +85,7 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20251116T100000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 4 - ASD HOCKEY AVEZZANO 1969 - H.POTENZA PICENA
-UID:e45d6be1-ebea-4d53-bbec-12b228727d2c@e45d.org
+UID:13670015-ebbe-4e14-b5e1-d12687a878c0@1367.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 3\nGara 590\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nASD HOCKEY AVEZZANO 1969 - HOCKEY CLUB OLIMPIA\n\nRisultato: 0-6
@@ -93,7 +93,7 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20251109T133000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 3 - ASD HOCKEY AVEZZANO 1969 - HOCKEY CLUB OLIMPIA
-UID:8b7ff2a4-8162-4692-b816-acea1e0b9386@8b7f.org
+UID:44930dfe-f5f4-46bc-92a6-c9be8f613f95@4493.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 5\nGara 594\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - ASD HOCKEY AVEZZANO 1969
@@ -101,7 +101,7 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20260301T100000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 5 - AZ HOCKEY TEAM - ASD HOCKEY AVEZZANO 1969
-UID:e7eabe44-f8b5-4ec6-88ee-1765151b9fc1@e7ea.org
+UID:cb613cb0-2fdc-477e-aa25-3cf15182e1c0@cb61.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 3\nGara 590\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nASD HOCKEY AVEZZANO 1969 - HOCKEY CLUB OLIMPIA\n\nRisultato: 0-6
@@ -109,14 +109,14 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20251109T133000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 3 - ASD HOCKEY AVEZZANO 1969 - HOCKEY CLUB OLIMPIA
-UID:122b42ae-6e51-4ea4-a92a-16121f2ec2b2@122b.org
+UID:8c789c4b-610b-4b30-a695-d89aee6fa000@8c78.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 6\nGara 598\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nASD HOCKEY AVEZZANO 1969 - ASD HOCKEY CLUB MOGLIANO
-GEO:42.043231;13.437583
-LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
-DTSTART:20260315T150000Z
-SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 6 - ASD HOCKEY AVEZZANO 1969 - ASD HOCKEY CLUB MOGLIANO
-UID:55c716a2-6dc0-4498-ad81-3d996e8dd815@55c7.org
+DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 9\nGara 603\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - ASD HOCKEY AVEZZANO 1969
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20260426T090000Z
+SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 9 - H.POTENZA PICENA - ASD HOCKEY AVEZZANO 1969
+UID:b058860f-26fb-4089-b277-68afd4344b83@b058.org
 END:VEVENT
 END:VCALENDAR

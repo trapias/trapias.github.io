@@ -57,14 +57,14 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 Giornata: Gara 757
 
-Campo: CAMPI SPORTIVI 'SA DUCHESSA' 
+Campo: A. Maxia 
 
-Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
-Geo: Geo(latitude=39.2289643, longitude=9.1111611)
-Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
-Geo: Geo(latitude=39.2289643, longitude=9.1111611)
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
 ## Sab 21/03/2026 14.30
@@ -157,14 +157,14 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 Giornata: Gara 763
 
-Campo: CAMPI SPORTIVI 'SA DUCHESSA' 
+Campo: A. Maxia 
 
-Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
-Geo: Geo(latitude=39.2289643, longitude=9.1111611)
-Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
-Geo: Geo(latitude=39.2289643, longitude=9.1111611)
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
 ## Sab 11/04/2026 15.00
@@ -208,14 +208,14 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 Giornata: Gara 766
 
-Campo: CAMPI SPORTIVI 'SA DUCHESSA' 
+Campo: A. Maxia 
 
-Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
-Geo: Geo(latitude=39.2289643, longitude=9.1111611)
-Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
-Geo: Geo(latitude=39.2289643, longitude=9.1111611)
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
 ## Sab 18/04/2026 15.00
@@ -259,14 +259,14 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 Giornata: Gara 769
 
-Campo: CAMPI SPORTIVI 'SA DUCHESSA' 
+Campo: A. Maxia 
 
-Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
-Geo: Geo(latitude=39.2289643, longitude=9.1111611)
-Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
-Geo: Geo(latitude=39.2289643, longitude=9.1111611)
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
 ## Sab 25/04/2026 14.30
@@ -359,14 +359,14 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 Giornata: Gara 775
 
-Campo: CAMPI SPORTIVI 'SA DUCHESSA' 
+Campo: A. Maxia 
 
-Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
-Geo: Geo(latitude=39.2289643, longitude=9.1111611)
-Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
-Geo: Geo(latitude=39.2289643, longitude=9.1111611)
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
 ## Sab 09/05/2026 15.00

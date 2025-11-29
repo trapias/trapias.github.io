@@ -471,3 +471,19 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
+
+## Dom 28/06/2026 11.00
+
+<strong>POL. VALVERDE INDOOR - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1117
+
+Campo: Comunale Valverde 
+
+Indirizzo Campo:  Via Seminara, 28 - Valverde
+
+Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
+Geo: Geo(latitude=37.5737465, longitude=15.121129)
+Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
+Geo: Geo(latitude=37.5737465, longitude=15.121129)
+

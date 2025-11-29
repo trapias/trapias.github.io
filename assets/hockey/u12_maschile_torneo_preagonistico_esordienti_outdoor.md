@@ -726,3 +726,19 @@ Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
+
+## Dom 28/06/2026 11.00
+
+<strong>POL. VALVERDE INDOOR - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1118
+
+Campo: Comunale Valverde 
+
+Indirizzo Campo:  Via Seminara, 28 - Valverde
+
+Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
+Geo: Geo(latitude=37.5737465, longitude=15.121129)
+Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
+Geo: Geo(latitude=37.5737465, longitude=15.121129)
+
