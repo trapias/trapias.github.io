@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 13\nGara 49\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - BUTTERFLY ROMA
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 4\nGara 13\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - TEVERE EUR H
 GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260613T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 13 - SG AMSICORA - BUTTERFLY ROMA
-UID:6fa7d8f5-78f2-4d0f-858a-e56119fedbf6@6fa7.org
+DTSTART:20260328T143000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 4 - SG AMSICORA - TEVERE EUR H
+UID:236f103f-c61c-4a77-88e2-c1804c62c993@236f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 7\nGara 27\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HC BRA
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20260425T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 7 - SG AMSICORA - HC BRA
+UID:a240d21d-30b9-4aec-81a0-1fa66becfbea@a240.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 9\nGara 36\nCAMPO HOCKEY SANDRO MICHELLONET - VIA DANTE ALIGHIERI\, 9 Villar Perosa\nHP VALCHISONE - SG AMSICORA
@@ -15,23 +23,15 @@ GEO:44.920693;7.244598
 LOCATION:Via Dante Alighieri\, Villaggio Operaio Giovanni Agnelli\, Saretto\, Villar Perosa\, Torino\, Piemonte\, 10069\, Italia
 DTSTART:20260509T130000Z
 SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 9 - HP VALCHISONE - SG AMSICORA
-UID:799e5c43-5003-4b3a-a6f0-cad6f3abded6@799e.org
+UID:32559425-2d1e-42bc-ad2e-ff8030e49167@3255.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 4\nGara 13\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - TEVERE EUR H
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260328T143000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 4 - SG AMSICORA - TEVERE EUR H
-UID:33b39468-0d4d-417d-887c-13032390d888@33b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 10\nGara 38\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - POL FERRINI
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260516T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 10 - SG AMSICORA - POL FERRINI
-UID:bb0f20b9-29b4-491a-aece-17d8218e379e@bb0f.org
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 11\nGara 41\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - SG AMSICORA
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260530T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 11 - TEVERE EUR H - SG AMSICORA
+UID:3752af60-d655-4c53-9154-73227a404199@3752.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 14\nGara 55\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - SG AMSICORA
@@ -39,15 +39,7 @@ GEO:44.704681;7.843069
 LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260620T130000Z
 SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 14 - HC BRA - SG AMSICORA
-UID:dbbe221a-412b-4ec4-990e-40409687d5a6@dbbe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 3\nGara 10\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOL FERRINI - SG AMSICORA
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20260321T140000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 3 - POL FERRINI - SG AMSICORA
-UID:4270a34a-eb8f-4dc2-8610-76a4fe42c386@4270.org
+UID:a9d9b03a-9834-4c24-9ddf-85a9c9bb1288@a9d9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 8\nGara 31\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - LAZIO HOCKEY
@@ -55,47 +47,7 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20260502T130000Z
 SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 8 - SG AMSICORA - LAZIO HOCKEY
-UID:4eb6b25b-7921-449b-96bd-035b9dde3677@4eb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 7\nGara 27\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HC BRA
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260425T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 7 - SG AMSICORA - HC BRA
-UID:36edbfcf-ca11-4c0f-b698-5c6e167876e0@36ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 7\nGara 27\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HC BRA
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260425T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 7 - SG AMSICORA - HC BRA
-UID:e97df76b-a766-4e1d-a1b8-4edfd585369f@e97d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 8\nGara 31\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - LAZIO HOCKEY
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260502T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 8 - SG AMSICORA - LAZIO HOCKEY
-UID:c9b6df97-ab87-433b-a1f7-9c9e46cfb407@c9b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 3\nGara 10\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOL FERRINI - SG AMSICORA
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20260321T140000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 3 - POL FERRINI - SG AMSICORA
-UID:dcd14e9c-ceca-4d98-9e07-129dd0d41802@dcd1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 5\nGara 19\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - H CITTA' DEL TRICOLORE
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260411T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 5 - SG AMSICORA - H CITTA' DEL TRICOLORE
-UID:c53993f2-e97b-4142-9614-ccac63405637@c539.org
+UID:9f2e4dc0-1d73-4705-a21d-22ce5db40530@9f2e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 2\nGara 8\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HP VALCHISONE
@@ -103,23 +55,7 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20260314T140000Z
 SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 2 - SG AMSICORA - HP VALCHISONE
-UID:066e5ea3-617f-4ddc-bb98-146f17768791@066e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 2\nGara 8\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HP VALCHISONE
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260314T140000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 2 - SG AMSICORA - HP VALCHISONE
-UID:9da0bb7a-ea82-4040-b4ac-a2889df6baba@9da0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 11\nGara 41\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - SG AMSICORA
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260530T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 11 - TEVERE EUR H - SG AMSICORA
-UID:06004043-36c5-416f-ab0b-a13b59afbeb7@0600.org
+UID:73adc239-4773-41d8-83b4-3252511d0981@73ad.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 13\nGara 49\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - BUTTERFLY ROMA
@@ -127,39 +63,23 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20260613T130000Z
 SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 13 - SG AMSICORA - BUTTERFLY ROMA
-UID:0d26592c-79c3-40c3-9ecf-ac7508be7180@0d26.org
+UID:4717cdc2-3592-4941-998a-17b054e27fb3@4717.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 6\nGara 21\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - SG AMSICORA
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260418T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 6 - BUTTERFLY ROMA - SG AMSICORA
-UID:3de95df2-d7a2-417a-80f5-7d7ad839e299@3de9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 9\nGara 36\nCAMPO HOCKEY SANDRO MICHELLONET - VIA DANTE ALIGHIERI\, 9 Villar Perosa\nHP VALCHISONE - SG AMSICORA
-GEO:44.920693;7.244598
-LOCATION:Via Dante Alighieri\, Villaggio Operaio Giovanni Agnelli\, Saretto\, Villar Perosa\, Torino\, Piemonte\, 10069\, Italia
-DTSTART:20260509T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 9 - HP VALCHISONE - SG AMSICORA
-UID:1c668cf2-f8db-416c-aa86-428b1f92feb0@1c66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 6\nGara 21\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - SG AMSICORA
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260418T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 6 - BUTTERFLY ROMA - SG AMSICORA
-UID:ce90c36a-93cd-4c30-b730-3b10a0ee53fe@ce90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 4\nGara 13\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - TEVERE EUR H
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 5\nGara 19\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - H CITTA' DEL TRICOLORE
 GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260328T143000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 4 - SG AMSICORA - TEVERE EUR H
-UID:6eb48483-e8dd-45f8-800a-e1a3e80c05ee@6eb4.org
+DTSTART:20260411T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 5 - SG AMSICORA - H CITTA' DEL TRICOLORE
+UID:f9e7a94c-7c0d-42d3-a8e6-0fc4ffd3a519@f9e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 7\nGara 27\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HC BRA
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20260425T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 7 - SG AMSICORA - HC BRA
+UID:e26c8f37-3f70-4477-a859-21846c0c6172@e26c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 12\nGara 47\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nH CITTA' DEL TRICOLORE - SG AMSICORA
@@ -167,7 +87,87 @@ GEO:44.708262;10.635422
 LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
 DTSTART:20260606T130000Z
 SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 12 - H CITTA' DEL TRICOLORE - SG AMSICORA
-UID:479693c1-09e0-4f08-a0b0-c94121d3a0fd@4796.org
+UID:3c176422-4aa5-4028-8cf1-bf6fce36463a@3c17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 12\nGara 47\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nH CITTA' DEL TRICOLORE - SG AMSICORA
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20260606T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 12 - H CITTA' DEL TRICOLORE - SG AMSICORA
+UID:3c044620-dfcc-4b8a-9731-5265c5a212a8@3c04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 13\nGara 49\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - BUTTERFLY ROMA
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20260613T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 13 - SG AMSICORA - BUTTERFLY ROMA
+UID:78c08c88-a5ba-43fe-a803-83662fef8b03@78c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 3\nGara 10\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOL FERRINI - SG AMSICORA
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20260321T140000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 3 - POL FERRINI - SG AMSICORA
+UID:74c8ccd3-0d70-47b5-b8d2-e9494ea3fdb3@74c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 10\nGara 38\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - POL FERRINI
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20260516T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 10 - SG AMSICORA - POL FERRINI
+UID:1093b42f-c466-4daa-b2c6-30d8ad1a6bf2@1093.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 8\nGara 31\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - LAZIO HOCKEY
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20260502T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 8 - SG AMSICORA - LAZIO HOCKEY
+UID:a2122ed9-4899-4722-8db0-900446953188@a212.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 10\nGara 38\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - POL FERRINI
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20260516T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 10 - SG AMSICORA - POL FERRINI
+UID:28b4ce2d-3ef8-4ebd-8f43-0e8f89475f0b@28b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 5\nGara 19\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - H CITTA' DEL TRICOLORE
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20260411T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 5 - SG AMSICORA - H CITTA' DEL TRICOLORE
+UID:c1c5c71c-38d7-4848-be0c-11485b2ce68d@c1c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 3\nGara 10\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOL FERRINI - SG AMSICORA
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20260321T140000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 3 - POL FERRINI - SG AMSICORA
+UID:016141f6-9fe4-4046-9692-25e8285584ab@0161.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 6\nGara 21\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - SG AMSICORA
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260418T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 6 - BUTTERFLY ROMA - SG AMSICORA
+UID:94f497dc-b5eb-4245-965d-6765bf198b4d@94f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 4\nGara 13\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - TEVERE EUR H
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20260328T143000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 4 - SG AMSICORA - TEVERE EUR H
+UID:f8dfc39c-ee85-4203-a4c5-a90fd6ecd4c7@f8df.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 11\nGara 41\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - SG AMSICORA
@@ -175,7 +175,23 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20260530T130000Z
 SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 11 - TEVERE EUR H - SG AMSICORA
-UID:e988a126-ce24-4404-9c2e-a633e8770390@e988.org
+UID:96a2fd3d-9152-43d7-9b2d-72fce5e780f1@96a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 6\nGara 21\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - SG AMSICORA
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260418T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 6 - BUTTERFLY ROMA - SG AMSICORA
+UID:8ad49af0-5e4c-40b1-9cc9-c53c691738d6@8ad4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 2\nGara 8\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HP VALCHISONE
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20260314T140000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 2 - SG AMSICORA - HP VALCHISONE
+UID:189af220-bfea-4552-aa82-0f1793c72548@189a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 1\nGara 4\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - SG AMSICORA
@@ -183,15 +199,15 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20260307T140000Z
 SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 1 - LAZIO HOCKEY - SG AMSICORA
-UID:a4abd18b-f053-4f51-8c1b-c164626aac2a@a4ab.org
+UID:8f6585fb-aaa1-41c5-9bcd-454ab1da4bb2@8f65.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 5\nGara 19\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - H CITTA' DEL TRICOLORE
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260411T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 5 - SG AMSICORA - H CITTA' DEL TRICOLORE
-UID:7be5c525-dd61-4162-9b7b-99ddbd7647db@7be5.org
+DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 9\nGara 36\nCAMPO HOCKEY SANDRO MICHELLONET - VIA DANTE ALIGHIERI\, 9 Villar Perosa\nHP VALCHISONE - SG AMSICORA
+GEO:44.920693;7.244598
+LOCATION:Via Dante Alighieri\, Villaggio Operaio Giovanni Agnelli\, Saretto\, Villar Perosa\, Torino\, Piemonte\, 10069\, Italia
+DTSTART:20260509T130000Z
+SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 9 - HP VALCHISONE - SG AMSICORA
+UID:3f881ed5-ca30-4fe4-a742-111038dae292@3f88.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 14\nGara 55\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - SG AMSICORA
@@ -199,22 +215,6 @@ GEO:44.704681;7.843069
 LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260620T130000Z
 SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 14 - HC BRA - SG AMSICORA
-UID:63b722b7-0a3a-4def-a205-a095739db92b@63b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 10\nGara 38\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - POL FERRINI
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260516T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 10 - SG AMSICORA - POL FERRINI
-UID:d447331b-a744-45e6-8258-ed5a2dccf13f@d447.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - OUTDOOR / Giornata 12\nGara 47\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nH CITTA' DEL TRICOLORE - SG AMSICORA
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20260606T130000Z
-SUMMARY:Serie A Elite Maschile - OUTDOOR / Giornata 12 - H CITTA' DEL TRICOLORE - SG AMSICORA
-UID:c10672ee-8032-4af8-bd06-55547201fc0c@c106.org
+UID:02731b59-74c7-49e0-b04e-d11772ccd3ae@0273.org
 END:VEVENT
 END:VCALENDAR

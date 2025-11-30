@@ -7,6 +7,8 @@
 
 <strong>HP VALCHISONE - CUS PISA ASD</strong>
 
+**Risultato: 3-3**
+
 Giornata: Gara 97
 
 Campo: CENTRO S. COMUNALE 
@@ -25,6 +27,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>ASD HOCKEY CLUB BONDENO - HC BRA</strong>
 
+**Risultato: 3-2**
+
 Giornata: Gara 98
 
 Campo: CENTRO S. COMUNALE 
@@ -38,6 +42,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 ## Sab 29/11/2025 13.00
 
 <strong>CUS PADOVA ASD - BUTTERFLY ROMA HCC</strong>
+
+**Risultato: 2-2**
 
 Giornata: Gara 99
 
@@ -53,6 +59,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>CUS PISA ASD - ASD HOCKEY CLUB BONDENO</strong>
 
+**Risultato: 2-5**
+
 Giornata: Gara 100
 
 Campo: CENTRO S. COMUNALE 
@@ -67,6 +75,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 ## Sab 29/11/2025 15.00 ⭐
 
 <strong>BUTTERFLY ROMA HCC - HP VALCHISONE</strong>
+
+**Risultato: 7-4**
 
 Giornata: Gara 101
 
@@ -85,6 +95,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 ## Sab 29/11/2025 16.00
 
 <strong>HC BRA - CUS PADOVA ASD</strong>
+
+**Risultato: 3-2**
 
 Giornata: Gara 102
 
