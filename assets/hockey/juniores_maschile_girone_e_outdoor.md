@@ -48,6 +48,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>VALVERDE HOCKETY 2018 - POL GALATEA</strong>
 
+**Risultato: 2-3**
+
 Giornata: Gara 953
 
 Campo: Comunale Valverde 

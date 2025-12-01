@@ -2,28 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 63\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHOCKEY CLUB ROMA - HC SAVONA
-GEO:39.203688;9.134426
-LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251206T120000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HOCKEY CLUB ROMA - HC SAVONA
-UID:5abc70a7-68ef-46f1-a2ed-faca2f94b896@5abc.org
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 78\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHC SAVONA - S.G. AMSICORA ASD
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20260125T120000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - HC SAVONA - S.G. AMSICORA ASD
+UID:1fd3ef74-8860-4b4d-82c3-7256bbc28f3b@1fd3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 74\nPalaRomanzi - viale Gambaro\, 66 Genova\nGENOVA H. 1980 - S.G. AMSICORA ASD
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260104T130000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - GENOVA H. 1980 - S.G. AMSICORA ASD
-UID:10a8bca0-b6fc-4428-ab0a-bcb780a8ba50@10a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 64\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nS.G. AMSICORA ASD - GENOVA H. 1980
-GEO:39.203688;9.134426
-LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251206T130000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - S.G. AMSICORA ASD - GENOVA H. 1980
-UID:fc73e35e-3ac7-4fb0-8a07-1dbdb1726d4d@fc73.org
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 66\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nGENOVA H. 1980 - HC SAVONA
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20251213T100000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - GENOVA H. 1980 - HC SAVONA
+UID:dbbad564-c799-4028-904c-52dbd1bd60f4@dbba.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 71\nPalaRomanzi - viale Gambaro\, 66 Genova\nHC SAVONA - GENOVA H. 1980
@@ -31,7 +22,45 @@ GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20260104T100000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - HC SAVONA - GENOVA H. 1980
-UID:dd1eeced-fa34-438c-8395-3dc51447e5cb@dd1e.org
+UID:b106489e-0f1b-4dd9-9285-a35a32ecba53@b106.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 75\nPalaRomanzi - viale Gambaro\, 66 Genova\nHCU RASSEMBLEMENT TORINO - HOCKEY CLUB ROMA
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20260104T140000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - HCU RASSEMBLEMENT TORINO - HOCKEY CLUB ROMA
+UID:e802b381-8e3c-4eb6-b3ed-1a6eda0090a1@e802.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 69\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.G. AMSICORA ASD - HC SAVONA
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20251213T130000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - S.G. AMSICORA ASD - HC SAVONA
+UID:261802b4-acbf-4785-a3a5-32d784cbdf43@2618.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 80\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHCU RASSEMBLEMENT TORINO - HC SAVONA
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20260125T140000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - HCU RASSEMBLEMENT TORINO - HC SAVONA
+UID:f9a29fb8-5d2d-4017-ba21-c0137003eff9@f9a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 66\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nGENOVA H. 1980 - HC SAVONA
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20251213T100000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - GENOVA H. 1980 - HC SAVONA
+UID:4dc6df12-bbdb-4d2f-b46f-50d696b34894@4dc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 73\nPalaRomanzi - viale Gambaro\, 66 Genova\nHC SAVONA - HOCKEY CLUB ROMA
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20260104T120000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - HC SAVONA - HOCKEY CLUB ROMA
+UID:3e57fc4b-ff48-404c-978c-1a1cdfa7e259@3e57.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 64\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nS.G. AMSICORA ASD - GENOVA H. 1980
@@ -39,217 +68,7 @@ GEO:39.203688;9.134426
 LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251206T130000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - S.G. AMSICORA ASD - GENOVA H. 1980
-UID:3394eac9-ee49-49e4-92b4-62ed781426d6@3394.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 71\nPalaRomanzi - viale Gambaro\, 66 Genova\nHC SAVONA - GENOVA H. 1980
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260104T100000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - HC SAVONA - GENOVA H. 1980
-UID:659e37c4-0b1b-461b-8994-8c97c40694d0@659e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 73\nPalaRomanzi - viale Gambaro\, 66 Genova\nHC SAVONA - HOCKEY CLUB ROMA
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260104T120000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - HC SAVONA - HOCKEY CLUB ROMA
-UID:62b96020-0e92-4540-a6e2-aba7d3e5ed84@62b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 65\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHC SAVONA - HCU RASSEMBLEMENT TORINO
-GEO:39.203688;9.134426
-LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251206T140000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HC SAVONA - HCU RASSEMBLEMENT TORINO
-UID:c3c396f2-5431-4767-98fd-84bb21990124@c3c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 78\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHC SAVONA - S.G. AMSICORA ASD
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20260125T120000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - HC SAVONA - S.G. AMSICORA ASD
-UID:103aca56-5373-45ac-aa71-68d86f24cdc3@103a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 79\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHOCKEY CLUB ROMA - GENOVA H. 1980
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20260125T130000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - HOCKEY CLUB ROMA - GENOVA H. 1980
-UID:a1fd83a5-cdf2-4e8e-8b9e-178f9367ef46@a1fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 67\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHCU RASSEMBLEMENT TORINO - S.G. AMSICORA ASD
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251213T110000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - HCU RASSEMBLEMENT TORINO - S.G. AMSICORA ASD
-UID:23f28194-628d-4d4a-beaf-91a0ec946540@23f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 66\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nGENOVA H. 1980 - HC SAVONA
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251213T100000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - GENOVA H. 1980 - HC SAVONA
-UID:8266dfea-c532-4ccc-b734-8960853badd5@8266.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 75\nPalaRomanzi - viale Gambaro\, 66 Genova\nHCU RASSEMBLEMENT TORINO - HOCKEY CLUB ROMA
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260104T140000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - HCU RASSEMBLEMENT TORINO - HOCKEY CLUB ROMA
-UID:6750ed5b-f726-47f4-9656-25a9fa8087e3@6750.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 76\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nS.G. AMSICORA ASD - HOCKEY CLUB ROMA
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20260125T100000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - S.G. AMSICORA ASD - HOCKEY CLUB ROMA
-UID:91fd5e21-6a86-401f-8b82-bddf7193bec2@91fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 80\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHCU RASSEMBLEMENT TORINO - HC SAVONA
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20260125T140000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - HCU RASSEMBLEMENT TORINO - HC SAVONA
-UID:e6e955f9-8c33-49d7-820e-b2c5c1fa319b@e6e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 61\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHOCKEY CLUB ROMA - S.G. AMSICORA ASD
-GEO:39.203688;9.134426
-LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251206T100000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HOCKEY CLUB ROMA - S.G. AMSICORA ASD
-UID:2f469cec-7895-4e05-bd7e-73041ce0eea3@2f46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 75\nPalaRomanzi - viale Gambaro\, 66 Genova\nHCU RASSEMBLEMENT TORINO - HOCKEY CLUB ROMA
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260104T140000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - HCU RASSEMBLEMENT TORINO - HOCKEY CLUB ROMA
-UID:efdb7e19-7654-4d73-bf09-930e5259cd00@efdb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 62\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHCU RASSEMBLEMENT TORINO - GENOVA H. 1980
-GEO:39.203688;9.134426
-LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251206T110000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HCU RASSEMBLEMENT TORINO - GENOVA H. 1980
-UID:8524c158-4b4b-467b-b035-db667b8d2ff9@8524.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 72\nPalaRomanzi - viale Gambaro\, 66 Genova\nS.G. AMSICORA ASD - HCU RASSEMBLEMENT TORINO
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260104T110000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - S.G. AMSICORA ASD - HCU RASSEMBLEMENT TORINO
-UID:1d334609-f817-4049-8e5a-3ccacf3f0389@1d33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 79\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHOCKEY CLUB ROMA - GENOVA H. 1980
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20260125T130000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - HOCKEY CLUB ROMA - GENOVA H. 1980
-UID:af4b7972-f427-437b-805f-94b7214a6e16@af4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 61\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHOCKEY CLUB ROMA - S.G. AMSICORA ASD
-GEO:39.203688;9.134426
-LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251206T100000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HOCKEY CLUB ROMA - S.G. AMSICORA ASD
-UID:65a3b25a-beca-42fb-b87e-dd6dd1577809@65a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 70\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHOCKEY CLUB ROMA - HCU RASSEMBLEMENT TORINO
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251213T140000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - HOCKEY CLUB ROMA - HCU RASSEMBLEMENT TORINO
-UID:ff43eacb-d3f0-4a1a-9e1c-d472c040bf17@ff43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 76\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nS.G. AMSICORA ASD - HOCKEY CLUB ROMA
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20260125T100000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - S.G. AMSICORA ASD - HOCKEY CLUB ROMA
-UID:030d115a-ef49-4e5b-99c1-500f49f8655a@030d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 68\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nGENOVA H. 1980 - HOCKEY CLUB ROMA
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251213T120000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - GENOVA H. 1980 - HOCKEY CLUB ROMA
-UID:f458622e-408b-4550-851f-fa0ac2f0a779@f458.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 77\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nGENOVA H. 1980 - HCU RASSEMBLEMENT TORINO
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20260125T110000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - GENOVA H. 1980 - HCU RASSEMBLEMENT TORINO
-UID:a6ea139d-1ae0-4f83-b0f4-ae689bd4b1d0@a6ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 70\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHOCKEY CLUB ROMA - HCU RASSEMBLEMENT TORINO
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251213T140000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - HOCKEY CLUB ROMA - HCU RASSEMBLEMENT TORINO
-UID:e69041dc-90a7-4da9-9053-28e905eb6949@e690.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 62\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHCU RASSEMBLEMENT TORINO - GENOVA H. 1980
-GEO:39.203688;9.134426
-LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251206T110000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HCU RASSEMBLEMENT TORINO - GENOVA H. 1980
-UID:9a174eef-499d-4ec2-8443-bb2ed9a6a294@9a17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 69\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.G. AMSICORA ASD - HC SAVONA
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251213T130000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - S.G. AMSICORA ASD - HC SAVONA
-UID:1d02a61f-0064-46d0-92c8-07d0f239d964@1d02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 74\nPalaRomanzi - viale Gambaro\, 66 Genova\nGENOVA H. 1980 - S.G. AMSICORA ASD
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260104T130000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - GENOVA H. 1980 - S.G. AMSICORA ASD
-UID:1d60a7d9-5a21-4677-bad4-a8ca662a03e2@1d60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 78\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHC SAVONA - S.G. AMSICORA ASD
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20260125T120000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - HC SAVONA - S.G. AMSICORA ASD
-UID:b8b935ec-695e-4554-994b-cc8bd82e6362@b8b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 80\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHCU RASSEMBLEMENT TORINO - HC SAVONA
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20260125T140000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - HCU RASSEMBLEMENT TORINO - HC SAVONA
-UID:63b208d6-d102-4f0e-94c2-882b289f04f5@63b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 73\nPalaRomanzi - viale Gambaro\, 66 Genova\nHC SAVONA - HOCKEY CLUB ROMA
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260104T120000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - HC SAVONA - HOCKEY CLUB ROMA
-UID:3eca6f2c-ae21-41c3-be92-20699265bfa4@3eca.org
+UID:d8bc9e76-ef11-4045-816e-468296055c26@d8bc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 63\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHOCKEY CLUB ROMA - HC SAVONA
@@ -257,21 +76,22 @@ GEO:39.203688;9.134426
 LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251206T120000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HOCKEY CLUB ROMA - HC SAVONA
-UID:adb039e8-0ad7-432d-91e5-7b4d3e3624b1@adb0.org
+UID:2c69d3ae-fe45-4fa5-9f86-a4dcc9cfb510@2c69.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 68\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nGENOVA H. 1980 - HOCKEY CLUB ROMA
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 69\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.G. AMSICORA ASD - HC SAVONA
 LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251213T120000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - GENOVA H. 1980 - HOCKEY CLUB ROMA
-UID:7b018c8e-1032-4401-8986-29d124d71deb@7b01.org
+DTSTART:20251213T130000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - S.G. AMSICORA ASD - HC SAVONA
+UID:94483e42-7e1e-4d03-9d08-8d5b643d9279@9448.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 67\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHCU RASSEMBLEMENT TORINO - S.G. AMSICORA ASD
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251213T110000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - HCU RASSEMBLEMENT TORINO - S.G. AMSICORA ASD
-UID:77bcda77-0b0b-4f25-8a57-a5bb1c8c738d@77bc.org
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 76\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nS.G. AMSICORA ASD - HOCKEY CLUB ROMA
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20260125T100000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - S.G. AMSICORA ASD - HOCKEY CLUB ROMA
+UID:2c3b5a24-9291-4a5a-b485-97af8b7097e0@2c3b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 72\nPalaRomanzi - viale Gambaro\, 66 Genova\nS.G. AMSICORA ASD - HCU RASSEMBLEMENT TORINO
@@ -279,15 +99,106 @@ GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20260104T110000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - S.G. AMSICORA ASD - HCU RASSEMBLEMENT TORINO
-UID:9909a503-b60c-43a2-9791-1e2b531279f6@9909.org
+UID:3ac3f2f1-4aa4-411b-a905-134f8b2ca58e@3ac3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 65\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHC SAVONA - HCU RASSEMBLEMENT TORINO
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 68\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nGENOVA H. 1980 - HOCKEY CLUB ROMA
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20251213T120000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - GENOVA H. 1980 - HOCKEY CLUB ROMA
+UID:47f9f2c4-e308-47c4-a9a1-f451aec85bf4@47f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 64\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nS.G. AMSICORA ASD - GENOVA H. 1980
 GEO:39.203688;9.134426
 LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251206T140000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HC SAVONA - HCU RASSEMBLEMENT TORINO
-UID:915e709e-174b-4501-afe1-6378ec4354b2@915e.org
+DTSTART:20251206T130000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - S.G. AMSICORA ASD - GENOVA H. 1980
+UID:829d9bd5-7525-431a-a099-a189daaad06b@829d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 70\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHOCKEY CLUB ROMA - HCU RASSEMBLEMENT TORINO
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20251213T140000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - HOCKEY CLUB ROMA - HCU RASSEMBLEMENT TORINO
+UID:bb4ae208-5d8d-4f8a-a2ef-6d18a3066ebd@bb4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 62\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHCU RASSEMBLEMENT TORINO - GENOVA H. 1980
+GEO:39.203688;9.134426
+LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20251206T110000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HCU RASSEMBLEMENT TORINO - GENOVA H. 1980
+UID:360ae159-0117-4b3e-a398-77a042527cc6@360a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 73\nPalaRomanzi - viale Gambaro\, 66 Genova\nHC SAVONA - HOCKEY CLUB ROMA
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20260104T120000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - HC SAVONA - HOCKEY CLUB ROMA
+UID:35285aba-df9c-4314-b182-2fcd11214550@3528.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 80\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHCU RASSEMBLEMENT TORINO - HC SAVONA
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20260125T140000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - HCU RASSEMBLEMENT TORINO - HC SAVONA
+UID:3c1d0c68-8a70-4bf4-b2b6-b76ba4783f14@3c1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 78\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHC SAVONA - S.G. AMSICORA ASD
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20260125T120000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - HC SAVONA - S.G. AMSICORA ASD
+UID:3516a804-6a94-4464-b564-45f038359365@3516.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 61\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHOCKEY CLUB ROMA - S.G. AMSICORA ASD
+GEO:39.203688;9.134426
+LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20251206T100000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HOCKEY CLUB ROMA - S.G. AMSICORA ASD
+UID:87e07dcd-85c6-47ff-af67-10e23a84799b@87e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 62\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHCU RASSEMBLEMENT TORINO - GENOVA H. 1980
+GEO:39.203688;9.134426
+LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20251206T110000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HCU RASSEMBLEMENT TORINO - GENOVA H. 1980
+UID:c6b56fe7-1e27-4aa0-a5f3-aaaee3d3ba9d@c6b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 68\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nGENOVA H. 1980 - HOCKEY CLUB ROMA
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20251213T120000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - GENOVA H. 1980 - HOCKEY CLUB ROMA
+UID:0a71dfb9-e2b8-43d6-85a9-550fcc462ea2@0a71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 76\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nS.G. AMSICORA ASD - HOCKEY CLUB ROMA
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20260125T100000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - S.G. AMSICORA ASD - HOCKEY CLUB ROMA
+UID:e6c9e792-60f5-42de-aaa0-6ad5d3855787@e6c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 67\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHCU RASSEMBLEMENT TORINO - S.G. AMSICORA ASD
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20251213T110000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - HCU RASSEMBLEMENT TORINO - S.G. AMSICORA ASD
+UID:508993d1-1ea9-45ce-8941-e6d9a763a85b@5089.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 70\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHOCKEY CLUB ROMA - HCU RASSEMBLEMENT TORINO
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20251213T140000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - HOCKEY CLUB ROMA - HCU RASSEMBLEMENT TORINO
+UID:90f57e16-8e6d-4be4-bff7-532381fe3491@90f5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 77\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nGENOVA H. 1980 - HCU RASSEMBLEMENT TORINO
@@ -295,20 +206,109 @@ GEO:41.776492;12.546693
 LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
 DTSTART:20260125T110000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - GENOVA H. 1980 - HCU RASSEMBLEMENT TORINO
-UID:b8f4d297-0043-4d11-9689-d6cbc444e237@b8f4.org
+UID:3654f4fc-974f-4f4f-a2a8-0ff5af7e0174@3654.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 66\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nGENOVA H. 1980 - HC SAVONA
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251213T100000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - GENOVA H. 1980 - HC SAVONA
-UID:5844baaa-6411-4179-a958-6796dbe17310@5844.org
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 74\nPalaRomanzi - viale Gambaro\, 66 Genova\nGENOVA H. 1980 - S.G. AMSICORA ASD
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20260104T130000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - GENOVA H. 1980 - S.G. AMSICORA ASD
+UID:867a7745-3b03-4f90-8443-1262edc46f69@867a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 69\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.G. AMSICORA ASD - HC SAVONA
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 71\nPalaRomanzi - viale Gambaro\, 66 Genova\nHC SAVONA - GENOVA H. 1980
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20260104T100000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - HC SAVONA - GENOVA H. 1980
+UID:9384064a-3bfe-42dc-8c77-5aa4990647a7@9384.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 67\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHCU RASSEMBLEMENT TORINO - S.G. AMSICORA ASD
 LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251213T130000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - S.G. AMSICORA ASD - HC SAVONA
-UID:65aec8ab-c57a-43b3-b374-496e7114929a@65ae.org
+DTSTART:20251213T110000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - HCU RASSEMBLEMENT TORINO - S.G. AMSICORA ASD
+UID:41d3505c-a205-4e82-b3c2-595b1d7f42ca@41d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 63\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHOCKEY CLUB ROMA - HC SAVONA
+GEO:39.203688;9.134426
+LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20251206T120000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HOCKEY CLUB ROMA - HC SAVONA
+UID:56a0e251-0d35-489e-b9c9-024184b6190a@56a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 72\nPalaRomanzi - viale Gambaro\, 66 Genova\nS.G. AMSICORA ASD - HCU RASSEMBLEMENT TORINO
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20260104T110000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - S.G. AMSICORA ASD - HCU RASSEMBLEMENT TORINO
+UID:0d69327f-a5d9-49da-afa5-48c1d07b4982@0d69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 77\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nGENOVA H. 1980 - HCU RASSEMBLEMENT TORINO
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20260125T110000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - GENOVA H. 1980 - HCU RASSEMBLEMENT TORINO
+UID:2bd61cb3-bb7b-4d47-9cef-fa5bdc03ab2c@2bd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 65\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHC SAVONA - HCU RASSEMBLEMENT TORINO
+GEO:39.203688;9.134426
+LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20251206T140000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HC SAVONA - HCU RASSEMBLEMENT TORINO
+UID:0bddb424-b805-48d8-b0d2-b7b5406e416d@0bdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 61\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHOCKEY CLUB ROMA - S.G. AMSICORA ASD
+GEO:39.203688;9.134426
+LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20251206T100000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HOCKEY CLUB ROMA - S.G. AMSICORA ASD
+UID:8e5aab96-b2a6-4750-9430-b45c46e1df4f@8e5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 79\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHOCKEY CLUB ROMA - GENOVA H. 1980
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20260125T130000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - HOCKEY CLUB ROMA - GENOVA H. 1980
+UID:79c2fa6a-d014-4a58-926d-59c3a25080d3@79c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 79\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHOCKEY CLUB ROMA - GENOVA H. 1980
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20260125T130000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - HOCKEY CLUB ROMA - GENOVA H. 1980
+UID:4e2a5cd3-1ad1-42e8-9d94-d649ad2b9361@4e2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 74\nPalaRomanzi - viale Gambaro\, 66 Genova\nGENOVA H. 1980 - S.G. AMSICORA ASD
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20260104T130000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - GENOVA H. 1980 - S.G. AMSICORA ASD
+UID:92aac1cc-60c5-4950-a3d2-3de151a51dc0@92aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 65\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHC SAVONA - HCU RASSEMBLEMENT TORINO
+GEO:39.203688;9.134426
+LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20251206T140000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HC SAVONA - HCU RASSEMBLEMENT TORINO
+UID:9948aee5-da8c-4328-994a-c9c077bbedbf@9948.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 75\nPalaRomanzi - viale Gambaro\, 66 Genova\nHCU RASSEMBLEMENT TORINO - HOCKEY CLUB ROMA
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20260104T140000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - HCU RASSEMBLEMENT TORINO - HOCKEY CLUB ROMA
+UID:a9d5184c-ff42-4a2f-a099-83ccf1a0356f@a9d5.org
 END:VEVENT
 END:VCALENDAR

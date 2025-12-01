@@ -63,6 +63,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>CUS PISA ASD - ASD BAD LAKE HOCKEY</strong>
 
+**Risultato: 1-4**
+
 Giornata: Gara 354
 
 Campo: CAMPO HOCKEY PRATO 
@@ -153,6 +155,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Dom 30/11/2025 13.00
 
 <strong>CUS PISA ASD - ASD BAD LAKE HOCKEY B</strong>
+
+**Risultato: 7-6**
 
 Giornata: Gara 359
 

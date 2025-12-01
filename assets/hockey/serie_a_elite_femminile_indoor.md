@@ -6,6 +6,8 @@
 
 <strong>S.G. AMSICORA ASD - ASD HF LORENZONI</strong>
 
+**Risultato: 1-3**
+
 Giornata: Gara 7
 
 Campo: PALESTRA TORRAZZA 
@@ -21,6 +23,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 ## Dom 30/11/2025 12.00
 
 <strong>CUS TORINO - HOCKEY CLUB RIVA</strong>
+
+**Risultato: 4-4**
 
 Giornata: Gara 8
 
@@ -38,6 +42,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 <strong>S.G. AMSICORA ASD - MILANO HP</strong>
 
+**Risultato: 8-2**
+
 Giornata: Gara 9
 
 Campo: PALESTRA TORRAZZA 
@@ -53,6 +59,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 ## Dom 30/11/2025 14.00
 
 <strong>CUS PADOVA ASD - ASD HF LORENZONI</strong>
+
+**Risultato: 2-5**
 
 Giornata: Gara 10
 
@@ -70,6 +78,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 <strong>MILANO HP - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 4-5**
+
 Giornata: Gara 11
 
 Campo: PALESTRA TORRAZZA 
@@ -85,6 +95,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 ## Dom 30/11/2025 16.00
 
 <strong>CUS PADOVA ASD - CUS TORINO</strong>
+
+**Risultato: 1-10**
 
 Giornata: Gara 12
 

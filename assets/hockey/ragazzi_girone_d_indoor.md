@@ -6,6 +6,8 @@
 
 <strong>BUTTERFLY ROMA HCC - LAZIO HOCKEY</strong>
 
+**Risultato: 2-2**
+
 Giornata: Gara 153
 
 Campo: CENTRO SPORTIVO MILLEVOI 
@@ -21,6 +23,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 ## Dom 30/11/2025 11.10
 
 <strong>HOCKEY POTENZA PICENA - AZ HOCKEY TEAM</strong>
+
+**Risultato: 7-0**
 
 Giornata: Gara 154
 
@@ -38,6 +42,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 <strong>HOCKEY CLUB ROMA - LAZIO HOCKEY</strong>
 
+**Risultato: 1-8**
+
 Giornata: Gara 155
 
 Campo: CENTRO SPORTIVO MILLEVOI 
@@ -54,6 +60,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 <strong>BUTTERFLY ROMA HCC - HOCKEY POTENZA PICENA</strong>
 
+**Risultato: 4-5**
+
 Giornata: Gara 156
 
 Campo: CENTRO SPORTIVO MILLEVOI 
@@ -69,6 +77,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 ## Dom 30/11/2025 14.40
 
 <strong>HOCKEY CLUB ROMA - AZ HOCKEY TEAM</strong>
+
+**Risultato: 1-3**
 
 Giornata: Gara 157
 

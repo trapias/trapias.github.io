@@ -6,6 +6,8 @@
 
 <strong>ASD AQUILA - AZ HOCKEY TEAM</strong>
 
+**Risultato: 0-6**
+
 Giornata: Gara 203
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
@@ -21,6 +23,8 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 ## Dom 30/11/2025 11.40
 
 <strong>BUTTERFLY ROMA HCC - HOCKEY POTENZA PICENA</strong>
+
+**Risultato: 2-1**
 
 Giornata: Gara 204
 
@@ -38,6 +42,8 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 <strong>LAZIO HOCKEY - ASD AQUILA</strong>
 
+**Risultato: 14-0**
+
 Giornata: Gara 205
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
@@ -54,6 +60,8 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 <strong>AZ HOCKEY TEAM - BUTTERFLY ROMA HCC</strong>
 
+**Risultato: 0-4**
+
 Giornata: Gara 206
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
@@ -69,6 +77,8 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 ## Dom 30/11/2025 15.00
 
 <strong>HOCKEY POTENZA PICENA - LAZIO HOCKEY</strong>
+
+**Risultato: 1-3**
 
 Giornata: Gara 207
 

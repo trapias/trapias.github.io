@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 2\nGara 304\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - DEL PINTO & ASSOCIATI H. PISTOIA
-GEO:45.896716;13.491104
-LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
-DTSTART:20251221T133000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 2 - A.R.FINCANTIERI A.S.D. - DEL PINTO & ASSOCIATI H. PISTOIA
-UID:f469139d-7b57-40da-a8ef-dff47d6b396d@f469.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 2\nGara 245\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nCUS PADOVA ASD - A.R.FINCANTIERI A.S.D.
-GEO:45.896716;13.491104
-LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
-DTSTART:20251221T100000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 2 - CUS PADOVA ASD - A.R.FINCANTIERI A.S.D.
-UID:e0730800-d94f-40ab-934d-9f5d1bc296d8@e073.org
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 1\nGara 244\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nCUS PADOVA ASD - A.R.FINCANTIERI A.S.D.
+GEO:43.944387;10.929450
+LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
+DTSTART:20251207T140000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 1 - CUS PADOVA ASD - A.R.FINCANTIERI A.S.D.
+UID:b98ac73e-f874-46ea-847e-4d7c045b2809@b98a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 3\nGara 308\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nDEL PINTO & ASSOCIATI H. PISTOIA - A.R.FINCANTIERI A.S.D.
@@ -23,7 +15,15 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20260111T133000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 3 - DEL PINTO & ASSOCIATI H. PISTOIA - A.R.FINCANTIERI A.S.D.
-UID:2d9aa1ac-9be6-4da0-a65d-69ba76214c27@2d9a.org
+UID:db9c09ed-82f3-4a5c-a0c7-b0f6c32febf7@db9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 2\nGara 304\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - DEL PINTO & ASSOCIATI H. PISTOIA
+GEO:45.896716;13.491104
+LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
+DTSTART:20251221T133000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 2 - A.R.FINCANTIERI A.S.D. - DEL PINTO & ASSOCIATI H. PISTOIA
+UID:3f18e497-474f-4281-9d7c-ea7b588f21c1@3f18.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 1\nGara 244\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nCUS PADOVA ASD - A.R.FINCANTIERI A.S.D.
@@ -31,7 +31,47 @@ GEO:43.944387;10.929450
 LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
 DTSTART:20251207T140000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 1 - CUS PADOVA ASD - A.R.FINCANTIERI A.S.D.
-UID:fc20febf-293c-43d1-9194-abc68074a595@fc20.org
+UID:2d488377-1d2d-418c-bb6c-ff4ee5184ec3@2d48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 3\nGara 308\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nDEL PINTO & ASSOCIATI H. PISTOIA - A.R.FINCANTIERI A.S.D.
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260111T133000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 3 - DEL PINTO & ASSOCIATI H. PISTOIA - A.R.FINCANTIERI A.S.D.
+UID:829ff0c8-ebc2-417f-b1e2-4d672ffea895@829f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 3\nGara 305\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260111T100000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 3 - ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
+UID:8f7b5c1f-d369-4859-8101-17d23a711f31@8f7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 2\nGara 245\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nCUS PADOVA ASD - A.R.FINCANTIERI A.S.D.
+GEO:45.896716;13.491104
+LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
+DTSTART:20251221T100000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 2 - CUS PADOVA ASD - A.R.FINCANTIERI A.S.D.
+UID:5334680e-aaac-47d7-81fa-ba3f3e887dcd@5334.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 3\nGara 305\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260111T100000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 3 - ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
+UID:da1bb99d-506c-4591-af40-f9fd759cfb07@da1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 2\nGara 304\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - DEL PINTO & ASSOCIATI H. PISTOIA
+GEO:45.896716;13.491104
+LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
+DTSTART:20251221T133000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 2 - A.R.FINCANTIERI A.S.D. - DEL PINTO & ASSOCIATI H. PISTOIA
+UID:aeb96d65-60be-4504-9bad-f7c0b647a43a@aeb9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 1\nGara 243\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
@@ -39,15 +79,7 @@ GEO:43.944387;10.929450
 LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
 DTSTART:20251207T123000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
-UID:96d7ca35-ef3d-4177-aa12-62555a45aa30@96d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 1\nGara 244\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nCUS PADOVA ASD - A.R.FINCANTIERI A.S.D.
-GEO:43.944387;10.929450
-LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
-DTSTART:20251207T140000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 1 - CUS PADOVA ASD - A.R.FINCANTIERI A.S.D.
-UID:998478f9-f233-4eee-9f1b-59cefc48bcb5@9984.org
+UID:4651a843-7cbe-4366-aab7-22244c10c78e@4651.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 2\nGara 245\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nCUS PADOVA ASD - A.R.FINCANTIERI A.S.D.
@@ -55,38 +87,6 @@ GEO:45.896716;13.491104
 LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
 DTSTART:20251221T100000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 2 - CUS PADOVA ASD - A.R.FINCANTIERI A.S.D.
-UID:ac3405c7-c8a0-42b0-a910-5b13d714e573@ac34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 3\nGara 305\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260111T100000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 3 - ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
-UID:2c22934e-4b18-4bd9-b6f3-d43517b7f154@2c22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 3\nGara 308\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nDEL PINTO & ASSOCIATI H. PISTOIA - A.R.FINCANTIERI A.S.D.
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260111T133000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 3 - DEL PINTO & ASSOCIATI H. PISTOIA - A.R.FINCANTIERI A.S.D.
-UID:eb87c805-c393-47df-9b0d-34134759777d@eb87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 2\nGara 304\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - DEL PINTO & ASSOCIATI H. PISTOIA
-GEO:45.896716;13.491104
-LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
-DTSTART:20251221T133000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 2 - A.R.FINCANTIERI A.S.D. - DEL PINTO & ASSOCIATI H. PISTOIA
-UID:9e90f946-c833-4ca0-9e55-73f589ecc349@9e90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 3\nGara 305\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260111T100000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 3 - ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
-UID:95d21bd8-9a51-462c-8fbc-979f9b8933d4@95d2.org
+UID:7161f820-b679-4b94-9ca1-1bafc2ce6aa6@7161.org
 END:VEVENT
 END:VCALENDAR
