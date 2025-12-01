@@ -423,3 +423,19 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
+
+## Dom 28/06/2026 11.00
+
+<strong>I CICLOPI - SQUADRA JOLLY</strong>
+
+Giornata: Gara 1119
+
+Campo: DUSMET 
+
+Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+

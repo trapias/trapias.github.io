@@ -218,14 +218,12 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 Giornata: Gara 1
 
-Campo: palacus 
+Campo: CENTRO S. COMUNALE 
 
-Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
+Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
-Geo: Geo(latitude=45.4687897, longitude=9.292811)
-Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
-Geo: Geo(latitude=45.4687897, longitude=9.292811)
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Dom 14/12/2025 12.00
@@ -234,14 +232,12 @@ Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
 Giornata: Gara 2
 
-Campo: palacus 
+Campo: CENTRO S. COMUNALE 
 
-Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
+Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
-Geo: Geo(latitude=45.4687897, longitude=9.292811)
-Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
-Geo: Geo(latitude=45.4687897, longitude=9.292811)
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Dom 14/12/2025 13.00
@@ -250,14 +246,12 @@ Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
 Giornata: Gara 3
 
-Campo: palacus 
+Campo: CENTRO S. COMUNALE 
 
-Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
+Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
-Geo: Geo(latitude=45.4687897, longitude=9.292811)
-Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
-Geo: Geo(latitude=45.4687897, longitude=9.292811)
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Dom 14/12/2025 14.00
@@ -266,14 +260,12 @@ Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
 Giornata: Gara 4
 
-Campo: palacus 
+Campo: CENTRO S. COMUNALE 
 
-Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
+Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
-Geo: Geo(latitude=45.4687897, longitude=9.292811)
-Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
-Geo: Geo(latitude=45.4687897, longitude=9.292811)
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Dom 14/12/2025 15.00
@@ -282,14 +274,12 @@ Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
 Giornata: Gara 5
 
-Campo: palacus 
+Campo: CENTRO S. COMUNALE 
 
-Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
+Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
-Geo: Geo(latitude=45.4687897, longitude=9.292811)
-Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
-Geo: Geo(latitude=45.4687897, longitude=9.292811)
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 ## Dom 14/12/2025 16.00
@@ -298,14 +288,12 @@ Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
 Giornata: Gara 6
 
-Campo: palacus 
+Campo: CENTRO S. COMUNALE 
 
-Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
+Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
-Geo: Geo(latitude=45.4687897, longitude=9.292811)
-Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
-Geo: Geo(latitude=45.4687897, longitude=9.292811)
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
 

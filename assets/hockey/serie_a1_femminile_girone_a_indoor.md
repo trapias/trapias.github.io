@@ -7,7 +7,7 @@
 
 <strong>CUS TORINO - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 
-**Risultato: 50-50**
+**Risultato: 0-0**
 
 Giornata: Gara 438
 

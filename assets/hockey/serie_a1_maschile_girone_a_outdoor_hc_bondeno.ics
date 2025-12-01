@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 6\nGara 769\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nCUS CAGLIARI - HC BONDENO
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20260425T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 6 - CUS CAGLIARI - HC BONDENO
-UID:ae80e21d-f224-4bf4-b15d-cd29f79de655@ae80.org
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 758\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HC BONDENO
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260321T133000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2 - ASD ADIGE UHC - HC BONDENO
+UID:8bf12c4a-5989-4dfb-8d75-b284a6e5abe5@8bf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3\nGara 761\nCampo Hockey Mario Steffenel - Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo\nCUS PADOVA ASD - HC BONDENO
+LOCATION: Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo
+DTSTART:20260328T140000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3 - CUS PADOVA ASD - HC BONDENO
+UID:843e506e-dd35-4e89-a16b-557aece025f5@843e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 1\nGara 754\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - CUS CAGLIARI
@@ -15,7 +22,55 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20260314T140000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 1 - HC BONDENO - CUS CAGLIARI
-UID:42166668-37af-4d6b-97a8-f15a49e8daa5@4216.org
+UID:abb184f4-f2de-41c9-9c54-772c9fad96bf@abb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 758\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HC BONDENO
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260321T133000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2 - ASD ADIGE UHC - HC BONDENO
+UID:1f3ce88c-96cc-4fef-8f12-eb6c4976d3ba@1f3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 783\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - HC BONDENO
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20260523T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10 - HT SARDEGNA - HC BONDENO
+UID:d5c33ba6-48da-4103-adc7-ff05f9c4b418@d5c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 783\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - HC BONDENO
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20260523T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10 - HT SARDEGNA - HC BONDENO
+UID:24f030a3-efcd-4bfb-bbda-1bf44bfd8ab2@24f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 7\nGara 773\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - ASD ADIGE UHC
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260502T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 7 - HC BONDENO - ASD ADIGE UHC
+UID:dced9f70-3910-4762-96ca-b70feffa6bfb@dced.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4\nGara 765\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - CSP SAN GIORGIO
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260411T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4 - HC BONDENO - CSP SAN GIORGIO
+UID:cff30623-66ec-4704-abc3-95f8f52d03a7@cff3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 776\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - CUS PADOVA ASD
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260509T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8 - HC BONDENO - CUS PADOVA ASD
+UID:37e19fa3-536d-412e-80cf-c66f5586360f@37e1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 1\nGara 754\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - CUS CAGLIARI
@@ -23,125 +78,7 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20260314T140000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 1 - HC BONDENO - CUS CAGLIARI
-UID:ad46e308-6d26-4bca-8fb8-7089c3089733@ad46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4\nGara 765\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - CSP SAN GIORGIO
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260411T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4 - HC BONDENO - CSP SAN GIORGIO
-UID:71e954f9-3b93-4b29-aa88-df614b7faa18@71e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 780\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HC BONDENO
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20260516T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9 - CSP SAN GIORGIO - HC BONDENO
-UID:198fd952-341c-480a-8519-1e4e3836ef86@198f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 758\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HC BONDENO
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260321T133000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2 - ASD ADIGE UHC - HC BONDENO
-UID:9e17d9ce-4011-4ab6-afb9-cdfe20d06028@9e17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 7\nGara 773\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - ASD ADIGE UHC
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260502T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 7 - HC BONDENO - ASD ADIGE UHC
-UID:81ae095f-a9eb-42d5-9e2c-42a39059ff10@81ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 776\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - CUS PADOVA ASD
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260509T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8 - HC BONDENO - CUS PADOVA ASD
-UID:a8b6552c-000f-4e33-bb81-0d93a3e40609@a8b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 783\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - HC BONDENO
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20260523T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10 - HT SARDEGNA - HC BONDENO
-UID:024935da-6248-4476-b323-6073675664f0@0249.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3\nGara 761\nCampo Hockey Mario Steffenel - Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo\nCUS PADOVA ASD - HC BONDENO
-LOCATION: Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo
-DTSTART:20260328T140000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3 - CUS PADOVA ASD - HC BONDENO
-UID:5b7f4653-85e8-4eee-8cb2-7e73f19ba0ba@5b7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 758\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HC BONDENO
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260321T133000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2 - ASD ADIGE UHC - HC BONDENO
-UID:1fa13174-d936-470d-845e-8bdb99b1e4be@1fa1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3\nGara 761\nCampo Hockey Mario Steffenel - Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo\nCUS PADOVA ASD - HC BONDENO
-LOCATION: Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo
-DTSTART:20260328T140000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3 - CUS PADOVA ASD - HC BONDENO
-UID:1136fc7c-0d24-4226-9c47-debbb4183b8f@1136.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 768\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - HT SARDEGNA
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260418T123000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5 - HC BONDENO - HT SARDEGNA
-UID:5affc8a5-374f-4d53-8330-10baeffa8a11@5aff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4\nGara 765\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - CSP SAN GIORGIO
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260411T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4 - HC BONDENO - CSP SAN GIORGIO
-UID:9e1b8844-cdec-4960-87d3-d36836b82dfd@9e1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 776\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - CUS PADOVA ASD
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260509T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8 - HC BONDENO - CUS PADOVA ASD
-UID:27d0df82-93b1-48db-a573-5536827f77e9@27d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 7\nGara 773\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - ASD ADIGE UHC
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260502T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 7 - HC BONDENO - ASD ADIGE UHC
-UID:954025c8-27aa-4a90-9667-c60306f75335@9540.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 768\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - HT SARDEGNA
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260418T123000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5 - HC BONDENO - HT SARDEGNA
-UID:51ca3fa3-9ebb-45fa-96dd-dc9043cdf3bf@51ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 780\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HC BONDENO
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20260516T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9 - CSP SAN GIORGIO - HC BONDENO
-UID:a2a1ea47-0ff4-4efb-92df-afd6287e94b7@a2a1.org
+UID:8e5a1330-9210-4e23-94cb-ea728e3d4905@8e5a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 6\nGara 769\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nCUS CAGLIARI - HC BONDENO
@@ -149,14 +86,77 @@ GEO:39.235186;9.139409
 LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
 DTSTART:20260425T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 6 - CUS CAGLIARI - HC BONDENO
-UID:f02e49b2-de8c-4100-901c-4f4b4ed4f5f4@f02e.org
+UID:2747ee12-a8e7-4b0a-8f4e-4d825ac43ac5@2747.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 783\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - HC BONDENO
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20260523T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10 - HT SARDEGNA - HC BONDENO
-UID:f91709d5-34bd-4589-9ba2-4811faff6c59@f917.org
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4\nGara 765\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - CSP SAN GIORGIO
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260411T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4 - HC BONDENO - CSP SAN GIORGIO
+UID:1bb03246-73af-4844-9a94-9d9cbcce4525@1bb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3\nGara 761\nCampo Hockey Mario Steffenel - Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo\nCUS PADOVA ASD - HC BONDENO
+LOCATION: Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo
+DTSTART:20260328T140000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3 - CUS PADOVA ASD - HC BONDENO
+UID:70b97bdb-d362-48fc-9358-5facdfc29f6d@70b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 6\nGara 769\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nCUS CAGLIARI - HC BONDENO
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20260425T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 6 - CUS CAGLIARI - HC BONDENO
+UID:e1c7f03b-9968-4431-aa99-a14b4267778f@e1c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 776\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - CUS PADOVA ASD
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260509T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8 - HC BONDENO - CUS PADOVA ASD
+UID:ca1bfc36-f839-4052-b2f1-75a6f2732010@ca1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 7\nGara 773\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - ASD ADIGE UHC
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260502T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 7 - HC BONDENO - ASD ADIGE UHC
+UID:f397c79f-9b90-4144-9b02-3f27af4072aa@f397.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 780\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HC BONDENO
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20260516T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9 - CSP SAN GIORGIO - HC BONDENO
+UID:3651ddad-11a1-4753-8f4e-a1875fda020f@3651.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 768\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - HT SARDEGNA
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260418T123000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5 - HC BONDENO - HT SARDEGNA
+UID:462e44ec-6d29-4130-bc53-ea2e8de8f30c@462e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 768\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - HT SARDEGNA
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260418T123000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5 - HC BONDENO - HT SARDEGNA
+UID:8672877b-e6ea-4b35-8cdd-55b9bc847e95@8672.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 780\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HC BONDENO
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20260516T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9 - CSP SAN GIORGIO - HC BONDENO
+UID:bda599ad-7b6b-459e-9b2e-2bec7630a29d@bda5.org
 END:VEVENT
 END:VCALENDAR
