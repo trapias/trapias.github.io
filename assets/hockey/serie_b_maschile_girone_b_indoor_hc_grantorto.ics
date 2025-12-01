@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 382\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHC GRANTORTO - A.R.FINCANTIERI A.S.D.
+DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 1\nGara 378\nComunale Mori - Via Lomba\, 23 Mori\nHC GRANTORTO - CUS PADOVA ASD
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251214T120000Z
+SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 1 - HC GRANTORTO - CUS PADOVA ASD
+UID:34b0e027-230a-42cd-b988-f431d94e59a0@34b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 386\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHC GRANTORTO - HC PISTOIA FRANJO
 GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20251221T090000Z
-SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - HC GRANTORTO - A.R.FINCANTIERI A.S.D.
-UID:806bdfde-247a-4da2-a9f0-7bb2dd51ac9c@806b.org
+DTSTART:20251221T130000Z
+SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - HC GRANTORTO - HC PISTOIA FRANJO
+UID:69af174d-c4f8-4039-a045-a9418b795080@69af.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 382\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHC GRANTORTO - A.R.FINCANTIERI A.S.D.
@@ -15,7 +23,7 @@ GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
 DTSTART:20251221T090000Z
 SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - HC GRANTORTO - A.R.FINCANTIERI A.S.D.
-UID:40a4c0a7-fab9-48dd-ad65-cfbcd2f3b8a3@40a4.org
+UID:fbae9a7d-39ed-401f-b791-c7e1b90e930d@fbae.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 389\nImpianti CUS Padova via G. Bruno - via G. Bruno\, 27 Padova\nHC GRANTORTO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
@@ -23,7 +31,23 @@ GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
 DTSTART:20251221T160000Z
 SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - HC GRANTORTO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
-UID:b92ce224-3b36-4c49-8291-164cb683ce55@b92c.org
+UID:224809b3-1784-4a46-8371-1715a922ebe2@2248.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 382\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHC GRANTORTO - A.R.FINCANTIERI A.S.D.
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20251221T090000Z
+SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - HC GRANTORTO - A.R.FINCANTIERI A.S.D.
+UID:a6b285f0-13a9-429e-8551-ff1a02115168@a6b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 389\nImpianti CUS Padova via G. Bruno - via G. Bruno\, 27 Padova\nHC GRANTORTO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20251221T160000Z
+SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - HC GRANTORTO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
+UID:740d8207-04c0-4cf6-9188-06feadeb0199@740d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 1\nGara 378\nComunale Mori - Via Lomba\, 23 Mori\nHC GRANTORTO - CUS PADOVA ASD
@@ -31,31 +55,7 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20251214T120000Z
 SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 1 - HC GRANTORTO - CUS PADOVA ASD
-UID:c308b781-ccbb-495a-803d-1dea705fa2a7@c308.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 386\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHC GRANTORTO - HC PISTOIA FRANJO
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20251221T130000Z
-SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - HC GRANTORTO - HC PISTOIA FRANJO
-UID:87385922-1a3c-4c15-afed-7c8a17b762f3@8738.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 386\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHC GRANTORTO - HC PISTOIA FRANJO
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20251221T130000Z
-SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - HC GRANTORTO - HC PISTOIA FRANJO
-UID:9915c01d-9391-4927-9844-35525a83a38a@9915.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 389\nImpianti CUS Padova via G. Bruno - via G. Bruno\, 27 Padova\nHC GRANTORTO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20251221T160000Z
-SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - HC GRANTORTO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
-UID:67cfa9fb-52bf-4548-9fd6-8db0ed5800e6@67cf.org
+UID:d639d57d-a593-48e5-b3ce-8f0020d8803a@d639.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 1\nGara 375\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HC GRANTORTO
@@ -63,14 +63,14 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20251214T090000Z
 SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 1 - ASD ADIGE UHC - HC GRANTORTO
-UID:b24cf77b-b6aa-41c6-b973-2876dc0690bf@b24c.org
+UID:a232c8bc-ee81-417d-9714-b0c71f0666ad@a232.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 1\nGara 378\nComunale Mori - Via Lomba\, 23 Mori\nHC GRANTORTO - CUS PADOVA ASD
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251214T120000Z
-SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 1 - HC GRANTORTO - CUS PADOVA ASD
-UID:a92671a5-9eb6-4e41-80a5-45389cb38b15@a926.org
+DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 386\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHC GRANTORTO - HC PISTOIA FRANJO
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20251221T130000Z
+SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - HC GRANTORTO - HC PISTOIA FRANJO
+UID:f64dc7e2-be0f-460e-9770-fcb1dbc38056@f64d.org
 END:VEVENT
 END:VCALENDAR

@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSA / Giornata 1\nGara 397\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - POLISPORTIVA CAMELOT
-GEO:45.215044;11.606644
-LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
-DTSTART:20251207T123000Z
-SUMMARY:Ragazzi  - Girone BSA / Giornata 1 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - POLISPORTIVA CAMELOT
-UID:2fb8e78b-4d6d-4d1b-a4ec-ceb75b77f0fe@2fb8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 405\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nHOCKEY TEAM BOLOGNA - POLISPORTIVA CAMELOT
+DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 401\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nPOLISPORTIVA CAMELOT - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
 GEO:44.708262;10.635422
 LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20251214T150000Z
-SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - HOCKEY TEAM BOLOGNA - POLISPORTIVA CAMELOT
-UID:231b882f-476d-4d02-a88c-33ca5299577d@231b.org
+DTSTART:20251214T100000Z
+SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - POLISPORTIVA CAMELOT - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
+UID:883f4c36-7fe2-4761-9a88-aaa6e2556a7f@883f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 403\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nPOLISPORTIVA CAMELOT - CSP SAN GIORGIO
@@ -23,7 +15,7 @@ GEO:44.708262;10.635422
 LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
 DTSTART:20251214T123000Z
 SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - POLISPORTIVA CAMELOT - CSP SAN GIORGIO
-UID:5df89086-df23-43aa-bf50-5253f0bbf5f6@5df8.org
+UID:39a3b5c1-f04a-489c-b6cc-c846c3fd35bb@39a3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone BSA / Giornata 1\nGara 398\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nPOLISPORTIVA CAMELOT - HOCKEY TEAM BOLOGNA
@@ -31,7 +23,15 @@ GEO:45.215044;11.606644
 LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
 DTSTART:20251207T140000Z
 SUMMARY:Ragazzi  - Girone BSA / Giornata 1 - POLISPORTIVA CAMELOT - HOCKEY TEAM BOLOGNA
-UID:0eb46835-af3e-422d-b240-6953667ae91b@0eb4.org
+UID:72789f5f-0d55-4153-9385-c773f5096017@7278.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 401\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nPOLISPORTIVA CAMELOT - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20251214T100000Z
+SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - POLISPORTIVA CAMELOT - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
+UID:cb58d9b7-bd01-45ef-989c-d9c7b27de259@cb58.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 405\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nHOCKEY TEAM BOLOGNA - POLISPORTIVA CAMELOT
@@ -39,47 +39,7 @@ GEO:44.708262;10.635422
 LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
 DTSTART:20251214T150000Z
 SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - HOCKEY TEAM BOLOGNA - POLISPORTIVA CAMELOT
-UID:81592cab-c23b-4b31-a011-ad04d4509d4e@8159.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSA / Giornata 1\nGara 397\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - POLISPORTIVA CAMELOT
-GEO:45.215044;11.606644
-LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
-DTSTART:20251207T123000Z
-SUMMARY:Ragazzi  - Girone BSA / Giornata 1 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - POLISPORTIVA CAMELOT
-UID:d61aca2a-bdeb-4b75-b9ef-c1f2e63aeae0@d61a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 401\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nPOLISPORTIVA CAMELOT - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20251214T100000Z
-SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - POLISPORTIVA CAMELOT - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
-UID:f3c3fcf7-ca37-43dc-9509-2e87fc447b50@f3c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 401\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nPOLISPORTIVA CAMELOT - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20251214T100000Z
-SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - POLISPORTIVA CAMELOT - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
-UID:10979847-a0af-4dc8-b0d9-107e56de1933@1097.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSA / Giornata 1\nGara 398\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nPOLISPORTIVA CAMELOT - HOCKEY TEAM BOLOGNA
-GEO:45.215044;11.606644
-LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
-DTSTART:20251207T140000Z
-SUMMARY:Ragazzi  - Girone BSA / Giornata 1 - POLISPORTIVA CAMELOT - HOCKEY TEAM BOLOGNA
-UID:f99f3855-319f-480c-b973-9c5ab59c7cd1@f99f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 403\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nPOLISPORTIVA CAMELOT - CSP SAN GIORGIO
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20251214T123000Z
-SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - POLISPORTIVA CAMELOT - CSP SAN GIORGIO
-UID:09933947-363d-4056-ac27-53e95f678a82@0993.org
+UID:725ca36a-c3cd-43f5-9367-cf7a6ec7c5a5@725c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone BSA / Giornata 1\nGara 394\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nCSP SAN GIORGIO - POLISPORTIVA CAMELOT
@@ -87,6 +47,46 @@ GEO:45.215044;11.606644
 LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
 DTSTART:20251207T090000Z
 SUMMARY:Ragazzi  - Girone BSA / Giornata 1 - CSP SAN GIORGIO - POLISPORTIVA CAMELOT
-UID:4c69b9d0-28de-4716-bc3a-ca53caaf3679@4c69.org
+UID:ae1e3012-40f4-4167-a4ff-af3d36ddf5fd@ae1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 405\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nHOCKEY TEAM BOLOGNA - POLISPORTIVA CAMELOT
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20251214T150000Z
+SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - HOCKEY TEAM BOLOGNA - POLISPORTIVA CAMELOT
+UID:75962cea-cabe-4138-8148-18e0edd46f00@7596.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone BSA / Giornata 1\nGara 398\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nPOLISPORTIVA CAMELOT - HOCKEY TEAM BOLOGNA
+GEO:45.215044;11.606644
+LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
+DTSTART:20251207T140000Z
+SUMMARY:Ragazzi  - Girone BSA / Giornata 1 - POLISPORTIVA CAMELOT - HOCKEY TEAM BOLOGNA
+UID:589b6f59-a293-48cf-b27d-c39589fe95e3@589b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone BSA / Giornata 1\nGara 397\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - POLISPORTIVA CAMELOT
+GEO:45.215044;11.606644
+LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
+DTSTART:20251207T123000Z
+SUMMARY:Ragazzi  - Girone BSA / Giornata 1 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - POLISPORTIVA CAMELOT
+UID:139bedd8-7e92-4880-98ce-b6940763a1fa@139b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 403\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nPOLISPORTIVA CAMELOT - CSP SAN GIORGIO
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20251214T123000Z
+SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - POLISPORTIVA CAMELOT - CSP SAN GIORGIO
+UID:38d05614-1e81-494d-9fc3-87244a0cfa61@38d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone BSA / Giornata 1\nGara 397\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - POLISPORTIVA CAMELOT
+GEO:45.215044;11.606644
+LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
+DTSTART:20251207T123000Z
+SUMMARY:Ragazzi  - Girone BSA / Giornata 1 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - POLISPORTIVA CAMELOT
+UID:9e897cab-1797-47f7-bbe1-04b95f18cc22@9e89.org
 END:VEVENT
 END:VCALENDAR
