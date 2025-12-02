@@ -135,22 +135,6 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 ## Dom 28/12/2025 11.00
 
-<strong>CSP SAN GIORGIO - CUS PADOVA ASD</strong>
-
-Giornata: Gara 353
-
-Campo: Palestra Adriano Bonini 
-
-Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
-
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
-
-
-## Dom 28/12/2025 12.00
-
 <strong>A.R.FINCANTIERI A.S.D. - HC VILLAFRANCA</strong>
 
 Giornata: Gara 354
@@ -165,7 +149,7 @@ Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrare
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
-## Dom 28/12/2025 13.00
+## Dom 28/12/2025 12.00
 
 <strong>HOCKEY CUSCUBE BRESCIA - CSP SAN GIORGIO</strong>
 
@@ -181,7 +165,7 @@ Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrare
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
-## Dom 28/12/2025 14.00
+## Dom 28/12/2025 13.00
 
 <strong>ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.</strong>
 
@@ -197,7 +181,7 @@ Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrare
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
-## Dom 28/12/2025 15.00
+## Dom 28/12/2025 14.00
 
 <strong>CUS PADOVA ASD - HOCKEY CUSCUBE BRESCIA</strong>
 
@@ -213,7 +197,7 @@ Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrare
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
-## Dom 28/12/2025 16.00
+## Dom 28/12/2025 15.00
 
 <strong>ASD HOCKEY CLUB BONDENO - CSP SAN GIORGIO</strong>
 
@@ -229,7 +213,7 @@ Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrare
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
-## Dom 28/12/2025 17.00
+## Dom 28/12/2025 16.00
 
 <strong>HC VILLAFRANCA - CUS PADOVA ASD</strong>
 
@@ -349,6 +333,22 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 <strong>HC VILLAFRANCA - ASD HOCKEY CLUB BONDENO</strong>
 
 Giornata: Gara 366
+
+Campo: palestra macoratti 
+
+Indirizzo Campo:  PIAZZALE ATLETI AZZURRI D'ITALIA - GRADISCA D'ISONZO
+
+Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
+Geo: Geo(latitude=45.8967164, longitude=13.4911036)
+Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
+Geo: Geo(latitude=45.8967164, longitude=13.4911036)
+
+
+## Mar 06/01/2026 17.00
+
+<strong>CSP SAN GIORGIO - CUS PADOVA ASD</strong>
+
+Giornata: Gara 569
 
 Campo: palestra macoratti 
 
