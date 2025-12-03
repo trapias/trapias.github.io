@@ -203,7 +203,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Sab 18/04/2026 17.00
+## Dom 19/04/2026 17.00
 
 <strong>HOCKEY CLUB ROMA - POL GALATEA</strong>
 
