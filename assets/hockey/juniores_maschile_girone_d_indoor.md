@@ -4,7 +4,7 @@
 
 ## Dom 07/12/2025 11.10
 
-<strong>BUTTERFLY ROMA HCC - HOCKEY CLUB ROMA</strong>
+<strong>BUTTERFLY ROMA HCC - HOCKEY POTENZA PICENA</strong>
 
 Giornata: Gara 179
 
@@ -36,7 +36,7 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 ## Dom 07/12/2025 15.50
 
-<strong>HOCKEY POTENZA PICENA - BUTTERFLY ROMA HCC</strong>
+<strong>HOCKEY CLUB ROMA - BUTTERFLY ROMA HCC</strong>
 
 Giornata: Gara 181
 
