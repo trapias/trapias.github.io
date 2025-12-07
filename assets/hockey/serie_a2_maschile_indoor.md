@@ -6,6 +6,8 @@
 
 <strong>HOCKEY CLUB ROMA - S.G. AMSICORA ASD</strong>
 
+**Risultato: 3-5**
+
 Giornata: Gara 61
 
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
@@ -21,6 +23,8 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 ## Sab 06/12/2025 12.00
 
 <strong>HCU RASSEMBLEMENT TORINO - GENOVA H. 1980</strong>
+
+**Risultato: 7-3**
 
 Giornata: Gara 62
 
@@ -38,6 +42,8 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 <strong>HOCKEY CLUB ROMA - HC SAVONA</strong>
 
+**Risultato: 4-5**
+
 Giornata: Gara 63
 
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
@@ -54,6 +60,8 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 <strong>S.G. AMSICORA ASD - GENOVA H. 1980</strong>
 
+**Risultato: 6-3**
+
 Giornata: Gara 64
 
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
@@ -69,6 +77,8 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 ## Sab 06/12/2025 15.00
 
 <strong>HC SAVONA - HCU RASSEMBLEMENT TORINO</strong>
+
+**Risultato: 4-7**
 
 Giornata: Gara 65
 

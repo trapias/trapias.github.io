@@ -6,6 +6,8 @@
 
 <strong>SCUOLA HOCKEY INDER SINGH - HCU RASSEMBLEMENT TORINO</strong>
 
+**Risultato: 6-3**
+
 Giornata: Gara 528
 
 Campo: PALAZZETTO DELL SPORT 
@@ -22,6 +24,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 ## Sab 06/12/2025 10.00 ⭐
 
 <strong>HP VALCHISONE - HCU RASSEMBLEMENT TORINO RIS</strong>
+
+**Risultato: 5-1**
 
 Giornata: Gara 529
 
@@ -43,6 +47,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>HCU RASSEMBLEMENT TORINO - ASD CERNUSCO FIELD HOCKEY</strong>
 
+**Risultato: 9-0**
+
 Giornata: Gara 530
 
 Campo: PALAZZETTO DELL SPORT 
@@ -58,6 +64,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 ## Sab 06/12/2025 12.00
 
 <strong>SCUOLA HOCKEY INDER SINGH - HCU RASSEMBLEMENT TORINO RIS</strong>
+
+**Risultato: 7-0**
 
 Giornata: Gara 531
 
@@ -75,6 +83,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 ## Sab 06/12/2025 13.00 ⭐
 
 <strong>HP VALCHISONE - ASD CERNUSCO FIELD HOCKEY</strong>
+
+**Risultato: 8-0**
 
 Giornata: Gara 532
 

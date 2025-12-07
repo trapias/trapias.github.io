@@ -2,7 +2,7 @@
 
 # Serie B Maschile - Indoor  - Girone C / Giornata 1
 
-## Dom 14/12/2025 10.00
+## Dom 14/12/2025 11.40
 
 <strong>AZ HOCKEY TEAM-B - ASD HOCKEY CAMPAGNANO</strong>
 
@@ -18,7 +18,7 @@ Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 
-## Dom 14/12/2025 11.10
+## Dom 14/12/2025 12.40
 
 <strong>ASD HOCKEY AVEZZANO 1969 - HOCKEY POTENZA PICENA</strong>
 
@@ -34,7 +34,7 @@ Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 
-## Dom 14/12/2025 12.20
+## Dom 14/12/2025 13.40
 
 <strong>AZ HOCKEY TEAM - HOCKEY CLUB EUR</strong>
 
@@ -50,7 +50,7 @@ Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 
-## Dom 14/12/2025 13.30
+## Dom 14/12/2025 14.40
 
 <strong>ASD HOCKEY AVEZZANO 1969 - ASD HOCKEY CAMPAGNANO</strong>
 
@@ -66,7 +66,7 @@ Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 
-## Dom 14/12/2025 14.40
+## Dom 14/12/2025 15.40
 
 <strong>AZ HOCKEY TEAM - HOCKEY POTENZA PICENA</strong>
 
@@ -82,7 +82,7 @@ Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 
-## Dom 14/12/2025 15.50
+## Dom 14/12/2025 16.40
 
 <strong>AZ HOCKEY TEAM-B - HOCKEY CLUB EUR</strong>
 

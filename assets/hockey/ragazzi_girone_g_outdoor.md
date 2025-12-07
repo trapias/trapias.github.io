@@ -76,7 +76,7 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 # Ragazzi - OUTDOOR  - Girone G / Giornata 3
 
-## Dom 07/12/2025 11.00
+## Dom 14/12/2025 11.00
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA - SG AMSICORA</strong>
 
