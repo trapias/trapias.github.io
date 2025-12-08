@@ -6,6 +6,8 @@
 
 <strong>HC GENOVA - HC SAVONA</strong>
 
+**Risultato: 4-0**
+
 Giornata: Gara 246
 
 Campo: Palazinola 
@@ -21,6 +23,8 @@ Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 ## Dom 07/12/2025 12.00
 
 <strong>CUS PISA ASD - HF GENOVA 1980</strong>
+
+**Risultato: 4-2**
 
 Giornata: Gara 247
 
@@ -38,6 +42,8 @@ Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 
 <strong>HF GENOVA 1980 - HC GENOVA</strong>
 
+**Risultato: 3-3**
+
 Giornata: Gara 248
 
 Campo: Palazinola 
@@ -53,6 +59,8 @@ Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 ## Dom 07/12/2025 15.00
 
 <strong>HC SAVONA - CUS PISA ASD</strong>
+
+**Risultato: 1-8**
 
 Giornata: Gara 249
 

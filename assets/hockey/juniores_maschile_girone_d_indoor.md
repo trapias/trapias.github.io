@@ -6,6 +6,8 @@
 
 <strong>BUTTERFLY ROMA HCC - HOCKEY POTENZA PICENA</strong>
 
+**Risultato: 7-0**
+
 Giornata: Gara 179
 
 Campo: CENTRO SPORTIVO MILLEVOI 
@@ -22,6 +24,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 <strong>HOCKEY CLUB ROMA - HOCKEY POTENZA PICENA</strong>
 
+**Risultato: 4-4**
+
 Giornata: Gara 180
 
 Campo: CENTRO SPORTIVO MILLEVOI 
@@ -37,6 +41,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 ## Dom 07/12/2025 15.50
 
 <strong>HOCKEY CLUB ROMA - BUTTERFLY ROMA HCC</strong>
+
+**Risultato: 1-16**
 
 Giornata: Gara 181
 

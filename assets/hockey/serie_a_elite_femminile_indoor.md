@@ -117,6 +117,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 <strong>S.G. AMSICORA ASD - CUS TORINO</strong>
 
+**Risultato: 3-1**
+
 Giornata: Gara 13
 
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
@@ -132,6 +134,8 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 ## Dom 07/12/2025 12.00
 
 <strong>MILANO HP - ASD HF LORENZONI</strong>
+
+**Risultato: 2-2**
 
 Giornata: Gara 14
 
@@ -149,6 +153,8 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 <strong>CUS PADOVA ASD - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 3-3**
+
 Giornata: Gara 15
 
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
@@ -164,6 +170,8 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 ## Dom 07/12/2025 14.00
 
 <strong>ASD HF LORENZONI - S.G. AMSICORA ASD</strong>
+
+**Risultato: 1-1**
 
 Giornata: Gara 16
 
@@ -181,6 +189,8 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 <strong>CUS TORINO - CUS PADOVA ASD</strong>
 
+**Risultato: 1-1**
+
 Giornata: Gara 17
 
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
@@ -196,6 +206,8 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 ## Dom 07/12/2025 16.00
 
 <strong>HOCKEY CLUB RIVA - MILANO HP</strong>
+
+**Risultato: 5-4**
 
 Giornata: Gara 18
 

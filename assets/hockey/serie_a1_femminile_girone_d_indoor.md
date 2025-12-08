@@ -6,6 +6,8 @@
 
 <strong>HOCKEY POTENZA PICENA - ASD UNIONE CAPITOLINA HOCKEY</strong>
 
+**Risultato: 1-3**
+
 Giornata: Gara 185
 
 Campo: PALAPRINCIPI 
@@ -21,6 +23,8 @@ Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 ## Dom 07/12/2025 13.00
 
 <strong>BUTTERFLY ROMA HCC - ASD HOCKEY CAMPAGNANO</strong>
+
+**Risultato: 5-4**
 
 Giornata: Gara 186
 
@@ -38,6 +42,8 @@ Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
 <strong>ASD HOCKEY CAMPAGNANO - HOCKEY POTENZA PICENA</strong>
 
+**Risultato: 6-2**
+
 Giornata: Gara 187
 
 Campo: PALAPRINCIPI 
@@ -53,6 +59,8 @@ Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 ## Dom 07/12/2025 16.00
 
 <strong>ASD UNIONE CAPITOLINA HOCKEY - BUTTERFLY ROMA HCC</strong>
+
+**Risultato: 1-4**
 
 Giornata: Gara 188
 

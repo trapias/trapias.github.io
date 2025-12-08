@@ -2,12 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 389\nImpianti CUS Padova via G. Bruno - via G. Bruno\, 27 Padova\nHC GRANTORTO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
+DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 1\nGara 380\nComunale Mori - Via Lomba\, 23 Mori\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - CUS PADOVA ASD
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251214T140000Z
+SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 1 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - CUS PADOVA ASD
+UID:7717fbb7-eff8-4781-bbfa-17aca92d0ccb@7717.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 387\nImpianti CUS Padova via G. Bruno - via G. Bruno\, 27 Padova\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - ASD ADIGE UHC
 GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20251221T160000Z
-SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - HC GRANTORTO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
-UID:84d98474-03ca-44fa-b75d-0af16d817519@84d9.org
+DTSTART:20251221T140000Z
+SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - ASD ADIGE UHC
+UID:46384624-0d84-4b48-b485-b277d128705e@4638.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 384\nImpianti CUS Padova via G. Bruno - via G. Bruno\, 27 Padova\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HC PISTOIA FRANJO
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20251221T110000Z
+SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HC PISTOIA FRANJO
+UID:aaf5e12c-7ca0-4496-9c5f-e3533c6e7191@aaf5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 1\nGara 377\nComunale Mori - Via Lomba\, 23 Mori\nA.R.FINCANTIERI A.S.D. - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
@@ -15,7 +31,23 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20251214T110000Z
 SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 1 - A.R.FINCANTIERI A.S.D. - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
-UID:1577d309-e075-4db5-8002-8f62f30cd04d@1577.org
+UID:0a386808-88f5-4fe0-a685-08b6c9120efe@0a38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 384\nImpianti CUS Padova via G. Bruno - via G. Bruno\, 27 Padova\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HC PISTOIA FRANJO
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20251221T110000Z
+SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HC PISTOIA FRANJO
+UID:725b6020-a62a-4bcb-ae5d-a415ec231445@725b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 387\nImpianti CUS Padova via G. Bruno - via G. Bruno\, 27 Padova\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - ASD ADIGE UHC
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20251221T140000Z
+SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - ASD ADIGE UHC
+UID:f267262d-cb7a-4730-8b0e-2770561cb14f@f267.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 1\nGara 380\nComunale Mori - Via Lomba\, 23 Mori\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - CUS PADOVA ASD
@@ -23,7 +55,7 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20251214T140000Z
 SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 1 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - CUS PADOVA ASD
-UID:73a99488-77e6-41c5-b90c-460b9c072b16@73a9.org
+UID:60bb0f3c-87bc-4e04-9bc1-ccac868ae93e@60bb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 389\nImpianti CUS Padova via G. Bruno - via G. Bruno\, 27 Padova\nHC GRANTORTO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
@@ -31,46 +63,14 @@ GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
 DTSTART:20251221T160000Z
 SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - HC GRANTORTO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
-UID:8e010ec6-35c8-4741-b8b5-1264c5f9823b@8e01.org
+UID:437e94eb-39aa-4426-bbe5-8608ef2f2c21@437e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 1\nGara 380\nComunale Mori - Via Lomba\, 23 Mori\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - CUS PADOVA ASD
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251214T140000Z
-SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 1 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - CUS PADOVA ASD
-UID:559da259-2453-4b60-8cee-47519111ac57@559d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 384\nImpianti CUS Padova via G. Bruno - via G. Bruno\, 27 Padova\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HC PISTOIA FRANJO
+DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 389\nImpianti CUS Padova via G. Bruno - via G. Bruno\, 27 Padova\nHC GRANTORTO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
 GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20251221T110000Z
-SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HC PISTOIA FRANJO
-UID:4bc4cf33-46a9-4d3e-8d66-f897f4c2eedf@4bc4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 387\nImpianti CUS Padova via G. Bruno - via G. Bruno\, 27 Padova\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - ASD ADIGE UHC
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20251221T140000Z
-SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - ASD ADIGE UHC
-UID:4aa372ea-c70c-455d-b0cf-021aecbd21d0@4aa3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 384\nImpianti CUS Padova via G. Bruno - via G. Bruno\, 27 Padova\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HC PISTOIA FRANJO
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20251221T110000Z
-SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HC PISTOIA FRANJO
-UID:fd56f971-ae60-439d-a130-0106aa117d82@fd56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 387\nImpianti CUS Padova via G. Bruno - via G. Bruno\, 27 Padova\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - ASD ADIGE UHC
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20251221T140000Z
-SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - ASD ADIGE UHC
-UID:588a70db-206c-4009-9557-d29a502d15de@588a.org
+DTSTART:20251221T160000Z
+SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - HC GRANTORTO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
+UID:f200d261-06ea-475d-9c32-f424c652545b@f200.org
 END:VEVENT
 END:VCALENDAR

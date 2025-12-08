@@ -6,6 +6,8 @@
 
 <strong>DEL PINTO & ASSOCIATI H. PISTOIA - ASD HOCKEY CLUB BONDENO</strong>
 
+**Risultato: 0-5**
+
 Giornata: Gara 241
 
 Campo: PISTA DI PATTINAGGIO E PALESTRA FORNACI  
@@ -21,6 +23,8 @@ Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 ## Dom 07/12/2025 12.30
 
 <strong>DEL PINTO & ASSOCIATI H. PISTOIA - CUS PADOVA ASD</strong>
+
+**Risultato: 2-2**
 
 Giornata: Gara 242
 
@@ -38,6 +42,8 @@ Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
 <strong>ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.</strong>
 
+**Risultato: 20-0**
+
 Giornata: Gara 243
 
 Campo: PISTA DI PATTINAGGIO E PALESTRA FORNACI  
@@ -53,6 +59,8 @@ Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 ## Dom 07/12/2025 15.00
 
 <strong>CUS PADOVA ASD - A.R.FINCANTIERI A.S.D.</strong>
+
+**Risultato: 11-1**
 
 Giornata: Gara 244
 
