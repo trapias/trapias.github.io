@@ -6,6 +6,8 @@
 
 <strong>CUS PISA ASD - GENOVA H. 1980</strong>
 
+**Risultato: 2-7**
+
 Giornata: Gara 548
 
 Campo: Palestra Geodetica Cus Pisa 
@@ -21,6 +23,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Lun 08/12/2025 11.00
 
 <strong>HC GENOVA - ASD SUPERBA HC</strong>
+
+**Risultato: 5-9**
 
 Giornata: Gara 549
 
@@ -38,6 +42,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>HC SAVONA - HC PISTOIA FRANJO</strong>
 
+**Risultato: 10-1**
+
 Giornata: Gara 550
 
 Campo: Palestra Geodetica Cus Pisa 
@@ -53,6 +59,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Lun 08/12/2025 13.00
 
 <strong>ASD SUPERBA HC - GENOVA H. 1980 U18</strong>
+
+**Risultato: 8-1**
 
 Giornata: Gara 551
 
@@ -70,6 +78,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>GENOVA H. 1980 - HC GENOVA</strong>
 
+**Risultato: 14-3**
+
 Giornata: Gara 552
 
 Campo: Palestra Geodetica Cus Pisa 
@@ -85,6 +95,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Lun 08/12/2025 15.00
 
 <strong>HC PISTOIA FRANJO - CUS PISA ASD</strong>
+
+**Risultato: 2-10**
 
 Giornata: Gara 553
 
@@ -102,6 +114,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>GENOVA H. 1980 U18 - HC SAVONA</strong>
 
+**Risultato: 5-5**
+
 Giornata: Gara 554
 
 Campo: Palestra Geodetica Cus Pisa 
@@ -117,6 +131,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Lun 08/12/2025 17.00
 
 <strong>HC GENOVA - CUS PISA ASD</strong>
+
+**Risultato: 1-10**
 
 Giornata: Gara 555
 

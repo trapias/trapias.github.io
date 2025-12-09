@@ -6,6 +6,8 @@
 
 <strong>ASD HF LORENZONI - USD MONCALVESE HOCKEY</strong>
 
+**Risultato: 10-0**
+
 Giornata: Gara 504
 
 Campo: PALAZZETTO DELL SPORT 
@@ -22,6 +24,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 ## Lun 08/12/2025 11.00 ⭐
 
 <strong>HOCKEY PRATO VALCHISONE FEMMINILE - CUS TORINO</strong>
+
+**Risultato: 5-1**
 
 Giornata: Gara 505
 
@@ -44,6 +48,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>HOCKEY PRATO VALCHISONE FEMMINILE - USD MONCALVESE HOCKEY</strong>
 
+**Risultato: 7-1**
+
 Giornata: Gara 506
 
 Campo: PALAZZETTO DELL SPORT 
@@ -63,6 +69,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 ## Lun 08/12/2025 15.00
 
 <strong>ASD HF LORENZONI - CUS TORINO</strong>
+
+**Risultato: 6-0**
 
 Giornata: Gara 507
 

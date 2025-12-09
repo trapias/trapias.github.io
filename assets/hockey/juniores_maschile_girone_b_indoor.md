@@ -6,6 +6,8 @@
 
 <strong>HOCKEY CUSCUBE BRESCIA - HC VILLAFRANCA</strong>
 
+**Risultato: 0-10**
+
 Giornata: Gara 345
 
 Campo: Polivalente Verrocchio 
@@ -21,6 +23,8 @@ Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 ## Lun 08/12/2025 11.00
 
 <strong>CSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO</strong>
+
+**Risultato: 6-5**
 
 Giornata: Gara 346
 
@@ -38,6 +42,8 @@ Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 
 <strong>A.R.FINCANTIERI A.S.D. - CUS PADOVA ASD</strong>
 
+**Risultato: 1-10**
+
 Giornata: Gara 347
 
 Campo: Polivalente Verrocchio 
@@ -53,6 +59,8 @@ Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 ## Lun 08/12/2025 13.00
 
 <strong>CSP SAN GIORGIO - HC VILLAFRANCA</strong>
+
+**Risultato: 5-5**
 
 Giornata: Gara 348
 
@@ -70,6 +78,8 @@ Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 
 <strong>CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO</strong>
 
+**Risultato: 2-3**
+
 Giornata: Gara 349
 
 Campo: Polivalente Verrocchio 
@@ -86,6 +96,8 @@ Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 
 <strong>HOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI A.S.D.</strong>
 
+**Risultato: 3-4**
+
 Giornata: Gara 350
 
 Campo: Polivalente Verrocchio 
@@ -101,6 +113,8 @@ Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 ## Lun 08/12/2025 16.00
 
 <strong>ASD HOCKEY CLUB BONDENO - HC VILLAFRANCA</strong>
+
+**Risultato: 4-3**
 
 Giornata: Gara 351
 

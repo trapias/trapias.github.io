@@ -6,6 +6,8 @@
 
 <strong>SCUOLA HOCKEY INDER SINGH - HCU RASSEMBLEMENT TORINO</strong>
 
+**Risultato: 1-6**
+
 Giornata: Gara 516
 
 Campo: PALAZZETTO DELL SPORT 
@@ -22,6 +24,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 ## Lun 08/12/2025 13.00 ⭐
 
 <strong>HP VALCHISONE - USD MONCALVESE HOCKEY</strong>
+
+**Risultato: 3-3**
 
 Giornata: Gara 517
 
@@ -44,6 +48,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>HP VALCHISONE - HCU RASSEMBLEMENT TORINO</strong>
 
+**Risultato: 0-1**
+
 Giornata: Gara 518
 
 Campo: PALAZZETTO DELL SPORT 
@@ -63,6 +69,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 ## Lun 08/12/2025 17.00
 
 <strong>SCUOLA HOCKEY INDER SINGH - USD MONCALVESE HOCKEY</strong>
+
+**Risultato: 2-7**
 
 Giornata: Gara 519
 
