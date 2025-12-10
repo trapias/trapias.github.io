@@ -57,20 +57,20 @@ Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardi
 Geo: Geo(latitude=39.2289643, longitude=9.1111611)
 
 
-## Lun 15/12/2025 18.00
+## Dom 25/01/2026 11.00
 
-<strong>CUS CAGLIARI - SG AMSICORA</strong>
+<strong>POLISPORTIVA FERRINI - A.S.D. POLISPORTIVA JUVENILIA</strong>
 
 Giornata: Gara 1087
 
-Campo: AMSICORA 
+Campo: A. Maxia 
 
-Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
 

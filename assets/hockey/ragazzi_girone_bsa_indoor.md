@@ -6,6 +6,8 @@
 
 <strong>CSP SAN GIORGIO - POLISPORTIVA CAMELOT</strong>
 
+**Risultato: 9-0**
+
 Giornata: Gara 394
 
 Campo: palestra tresto di ospedaletto euganeo 
@@ -21,6 +23,8 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 ## Dom 07/12/2025 11.00
 
 <strong>ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HOCKEY TEAM BOLOGNA</strong>
+
+**Risultato: 1-8**
 
 Giornata: Gara 395
 
@@ -38,6 +42,8 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
 <strong>CSP SAN GIORGIO - HOCKEY TEAM BOLOGNA</strong>
 
+**Risultato: 3-2**
+
 Giornata: Gara 396
 
 Campo: palestra tresto di ospedaletto euganeo 
@@ -53,6 +59,8 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 ## Dom 07/12/2025 13.30
 
 <strong>ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - POLISPORTIVA CAMELOT</strong>
+
+**Risultato: 2-3**
 
 Giornata: Gara 397
 
@@ -70,6 +78,8 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
 <strong>POLISPORTIVA CAMELOT - HOCKEY TEAM BOLOGNA</strong>
 
+**Risultato: 1-8**
+
 Giornata: Gara 398
 
 Campo: palestra tresto di ospedaletto euganeo 
@@ -85,6 +95,8 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 ## Dom 07/12/2025 16.00
 
 <strong>CSP SAN GIORGIO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE</strong>
+
+**Risultato: 9-1**
 
 Giornata: Gara 399
 

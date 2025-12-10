@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 6\nGara 866\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - H.POTENZA PICENA
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 2\nGara 859\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - CUS PADOVA
 GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260426T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 6 - HC RIVA - H.POTENZA PICENA
-UID:fb02229a-afbf-4860-9469-86794193d273@fb02.org
+DTSTART:20260322T140000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 2 - HC RIVA - CUS PADOVA
+UID:53fe75f9-e188-45c8-8400-e21f79c94337@53fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 865\nCampo Hockey Mario Steffenel - Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo\nCUS PADOVA - HC RIVA
+LOCATION: Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo
+DTSTART:20260419T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 5 - CUS PADOVA - HC RIVA
+UID:52d544ec-403a-4097-9455-91094becb9c5@52d5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 2\nGara 859\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - CUS PADOVA
@@ -15,22 +22,30 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260322T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 2 - HC RIVA - CUS PADOVA
-UID:59a96a85-1fc0-4b03-8574-4aa17c4752fc@59a9.org
+UID:d389331c-a60b-4482-9b71-14db9b1b56e8@d389.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 861\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - HC RIVA
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20260329T140000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3 - H.POTENZA PICENA - HC RIVA
+UID:9e3eab3b-1910-433a-a7d7-71fa83d56f4c@9e3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 861\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - HC RIVA
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20260329T140000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3 - H.POTENZA PICENA - HC RIVA
+UID:16dbd63f-9904-42af-bb33-993699642202@16db.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 865\nCampo Hockey Mario Steffenel - Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo\nCUS PADOVA - HC RIVA
 LOCATION: Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo
 DTSTART:20260419T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 5 - CUS PADOVA - HC RIVA
-UID:621ce00f-1e41-40c6-9ea2-474682a8d886@621c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 2\nGara 859\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - CUS PADOVA
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260322T140000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 2 - HC RIVA - CUS PADOVA
-UID:6116cd6d-e295-4150-8450-8e5eb08dba2e@6116.org
+UID:6c717a75-5f7f-49bc-84ab-8b1b836d918c@6c71.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1\nGara 857\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - HC ARGENTIA
@@ -38,30 +53,31 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260315T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1 - HC RIVA - HC ARGENTIA
-UID:49896423-4a2c-4c7a-81a3-0fbdf792a13c@4989.org
+UID:888bc066-64a7-4186-9ba9-0dc6d38963b3@888b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 865\nCampo Hockey Mario Steffenel - Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo\nCUS PADOVA - HC RIVA
-LOCATION: Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo
-DTSTART:20260419T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 5 - CUS PADOVA - HC RIVA
-UID:ad0ddc56-ec33-494a-8d8d-c64c9756ce65@ad0d.org
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4\nGara 863\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC ARGENTIA - HC RIVA
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260412T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4 - HC ARGENTIA - HC RIVA
+UID:6ee59084-e8db-4df2-ba82-782fa8e4977f@6ee5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 861\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - HC RIVA
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20260329T140000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3 - H.POTENZA PICENA - HC RIVA
-UID:2c945d57-4b61-494d-9ea9-473cd1c65996@2c94.org
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4\nGara 863\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC ARGENTIA - HC RIVA
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260412T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4 - HC ARGENTIA - HC RIVA
+UID:c0a2c0b9-ab36-4cde-878f-03fbef17c1a7@c0a2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 861\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - HC RIVA
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20260329T140000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3 - H.POTENZA PICENA - HC RIVA
-UID:085d850f-dec0-4f3a-8f4d-33e6cb53b1e5@085d.org
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1\nGara 857\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - HC ARGENTIA
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260315T140000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1 - HC RIVA - HC ARGENTIA
+UID:f1e74eb5-9307-4442-85dc-bb5a9792dc49@f1e7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 6\nGara 866\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - H.POTENZA PICENA
@@ -69,30 +85,14 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260426T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 6 - HC RIVA - H.POTENZA PICENA
-UID:965dac0a-8c43-4d33-bb24-7c6226f0516b@965d.org
+UID:f8beb34e-a92a-4e77-9a2b-4960cbf3efe2@f8be.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4\nGara 863\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC ARGENTIA - HC RIVA
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260412T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4 - HC ARGENTIA - HC RIVA
-UID:4827c8dc-eb85-48c4-b0df-acdab64e9448@4827.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4\nGara 863\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC ARGENTIA - HC RIVA
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260412T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4 - HC ARGENTIA - HC RIVA
-UID:01d79a3a-de6a-4e3a-827b-19b68b9b78ae@01d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1\nGara 857\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - HC ARGENTIA
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 6\nGara 866\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - H.POTENZA PICENA
 GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260315T140000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1 - HC RIVA - HC ARGENTIA
-UID:2ba06960-7bd5-4f51-8f93-8a126631d8ac@2ba0.org
+DTSTART:20260426T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 6 - HC RIVA - H.POTENZA PICENA
+UID:fc5e7e9e-ae3a-43c2-89af-ffef8d4bcfe7@fc5e.org
 END:VEVENT
 END:VCALENDAR

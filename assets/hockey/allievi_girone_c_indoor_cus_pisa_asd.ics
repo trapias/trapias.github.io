@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone C / Giornata 2\nGara 295\nPalaRomanzi - viale Gambaro\, 66 Genova\nCUS PISA ASD - HC PISTOIA
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260105T100000Z
-SUMMARY:Allievi  - Girone C / Giornata 2 - CUS PISA ASD - HC PISTOIA
-UID:9598210c-d7ef-4063-919b-805a5a05439b@9598.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone C / Giornata 3\nGara 299\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nGENOVA H. 1980 DRITTO - CUS PISA ASD
-GEO:43.944387;10.929450
-LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
-DTSTART:20260118T110000Z
-SUMMARY:Allievi  - Girone C / Giornata 3 - GENOVA H. 1980 DRITTO - CUS PISA ASD
-UID:e0f76bda-6ea4-40fe-92cd-29fa002c1501@e0f7.org
+DESCRIPTION:Allievi  - Girone C / Giornata 1\nGara 290\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - GENOVA H. 1980 DRITTO
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251214T090000Z
+SUMMARY:Allievi  - Girone C / Giornata 1 - CUS PISA ASD - GENOVA H. 1980 DRITTO
+UID:a62f3e97-131a-4157-9741-b8dfe45bebda@a62f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone C / Giornata 1\nGara 293\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC PISTOIA - CUS PISA ASD
@@ -23,7 +15,7 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251214T130000Z
 SUMMARY:Allievi  - Girone C / Giornata 1 - HC PISTOIA - CUS PISA ASD
-UID:ec1d0e52-f02a-47ab-b50f-fadbf0280802@ec1d.org
+UID:3609ba76-977b-4f8e-bd96-2695574fd009@3609.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone C / Giornata 2\nGara 295\nPalaRomanzi - viale Gambaro\, 66 Genova\nCUS PISA ASD - HC PISTOIA
@@ -31,7 +23,15 @@ GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20260105T100000Z
 SUMMARY:Allievi  - Girone C / Giornata 2 - CUS PISA ASD - HC PISTOIA
-UID:0ed4abc3-a2ad-43ac-bede-515274c9dbac@0ed4.org
+UID:7c02cd51-d64a-47f3-a1b7-04a4077b0a6d@7c02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone C / Giornata 2\nGara 295\nPalaRomanzi - viale Gambaro\, 66 Genova\nCUS PISA ASD - HC PISTOIA
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20260105T100000Z
+SUMMARY:Allievi  - Girone C / Giornata 2 - CUS PISA ASD - HC PISTOIA
+UID:b059bd59-ed44-429f-be4d-9b0a9c8f817b@b059.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone C / Giornata 2\nGara 296\nPalaRomanzi - viale Gambaro\, 66 Genova\nASD BAD LAKE HOCKEY - CUS PISA ASD
@@ -39,7 +39,23 @@ GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20260105T120000Z
 SUMMARY:Allievi  - Girone C / Giornata 2 - ASD BAD LAKE HOCKEY - CUS PISA ASD
-UID:deacb483-b222-4933-92fd-52d54560302f@deac.org
+UID:c64fee9c-5f08-4e33-a608-080a7514f945@c64f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone C / Giornata 3\nGara 300\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nCUS PISA ASD - ASD BAD LAKE HOCKEY
+GEO:43.944387;10.929450
+LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
+DTSTART:20260118T130000Z
+SUMMARY:Allievi  - Girone C / Giornata 3 - CUS PISA ASD - ASD BAD LAKE HOCKEY
+UID:bc16e9ef-3322-4e8a-8771-bc79a102ed2f@bc16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone C / Giornata 3\nGara 300\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nCUS PISA ASD - ASD BAD LAKE HOCKEY
+GEO:43.944387;10.929450
+LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
+DTSTART:20260118T130000Z
+SUMMARY:Allievi  - Girone C / Giornata 3 - CUS PISA ASD - ASD BAD LAKE HOCKEY
+UID:0f3b4f18-25b9-4fa8-9c58-f92f960eaec8@0f3b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone C / Giornata 3\nGara 299\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nGENOVA H. 1980 DRITTO - CUS PISA ASD
@@ -47,31 +63,7 @@ GEO:43.944387;10.929450
 LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
 DTSTART:20260118T110000Z
 SUMMARY:Allievi  - Girone C / Giornata 3 - GENOVA H. 1980 DRITTO - CUS PISA ASD
-UID:5edf9cd5-6ad7-4b5c-9359-d48abad1c31e@5edf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone C / Giornata 3\nGara 300\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nCUS PISA ASD - ASD BAD LAKE HOCKEY
-GEO:43.944387;10.929450
-LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
-DTSTART:20260118T130000Z
-SUMMARY:Allievi  - Girone C / Giornata 3 - CUS PISA ASD - ASD BAD LAKE HOCKEY
-UID:edf7c74c-2623-4a25-8e1f-0b53a606fc8b@edf7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone C / Giornata 3\nGara 300\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nCUS PISA ASD - ASD BAD LAKE HOCKEY
-GEO:43.944387;10.929450
-LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
-DTSTART:20260118T130000Z
-SUMMARY:Allievi  - Girone C / Giornata 3 - CUS PISA ASD - ASD BAD LAKE HOCKEY
-UID:520094cb-44e1-432b-8dab-5b46aee3e4cd@5200.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone C / Giornata 2\nGara 296\nPalaRomanzi - viale Gambaro\, 66 Genova\nASD BAD LAKE HOCKEY - CUS PISA ASD
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260105T120000Z
-SUMMARY:Allievi  - Girone C / Giornata 2 - ASD BAD LAKE HOCKEY - CUS PISA ASD
-UID:394a194b-4ad3-4455-993e-5a783cea04a0@394a.org
+UID:3fc58645-e9dc-4eff-93dd-775604db29b8@3fc5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone C / Giornata 1\nGara 293\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC PISTOIA - CUS PISA ASD
@@ -79,7 +71,23 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251214T130000Z
 SUMMARY:Allievi  - Girone C / Giornata 1 - HC PISTOIA - CUS PISA ASD
-UID:f04d94f9-abaa-4246-81e1-c71a4ee77adb@f04d.org
+UID:09fd13da-6dbe-44c0-84f7-dd8138c0a58e@09fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone C / Giornata 3\nGara 299\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nGENOVA H. 1980 DRITTO - CUS PISA ASD
+GEO:43.944387;10.929450
+LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
+DTSTART:20260118T110000Z
+SUMMARY:Allievi  - Girone C / Giornata 3 - GENOVA H. 1980 DRITTO - CUS PISA ASD
+UID:c3b127c1-4a39-4f09-9f68-e4aab03f98ce@c3b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone C / Giornata 2\nGara 296\nPalaRomanzi - viale Gambaro\, 66 Genova\nASD BAD LAKE HOCKEY - CUS PISA ASD
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20260105T120000Z
+SUMMARY:Allievi  - Girone C / Giornata 2 - ASD BAD LAKE HOCKEY - CUS PISA ASD
+UID:f68fc573-04ad-4a1d-8c9c-b62dca6339d0@f68f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone C / Giornata 1\nGara 290\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - GENOVA H. 1980 DRITTO
@@ -87,14 +95,6 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251214T090000Z
 SUMMARY:Allievi  - Girone C / Giornata 1 - CUS PISA ASD - GENOVA H. 1980 DRITTO
-UID:a476ee1e-8a1a-43c4-a621-0a64b3d792b9@a476.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone C / Giornata 1\nGara 290\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - GENOVA H. 1980 DRITTO
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251214T090000Z
-SUMMARY:Allievi  - Girone C / Giornata 1 - CUS PISA ASD - GENOVA H. 1980 DRITTO
-UID:38fe0340-fa62-44e8-9057-cc251b357524@38fe.org
+UID:44a41868-9a71-4946-97bd-caa23c4f37b9@44a4.org
 END:VEVENT
 END:VCALENDAR

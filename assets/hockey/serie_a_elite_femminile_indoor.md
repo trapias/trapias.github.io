@@ -224,7 +224,7 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 # Serie A Elite Femminile - Indoor / Giornata 3
 
-## Dom 14/12/2025 11.00
+## Dom 14/12/2025 10.45
 
 <strong>CUS TORINO - MILANO HP</strong>
 
@@ -238,7 +238,7 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
-## Dom 14/12/2025 12.00
+## Dom 14/12/2025 11.45
 
 <strong>HOCKEY CLUB RIVA - ASD HF LORENZONI</strong>
 
@@ -252,7 +252,7 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
-## Dom 14/12/2025 13.00
+## Dom 14/12/2025 12.45
 
 <strong>S.G. AMSICORA ASD - CUS PADOVA ASD</strong>
 
@@ -266,7 +266,7 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
-## Dom 14/12/2025 14.00
+## Dom 14/12/2025 13.45
 
 <strong>ASD HF LORENZONI - CUS TORINO</strong>
 
@@ -280,7 +280,7 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
-## Dom 14/12/2025 15.00
+## Dom 14/12/2025 14.45
 
 <strong>HOCKEY CLUB RIVA - S.G. AMSICORA ASD</strong>
 
@@ -294,7 +294,7 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
-## Dom 14/12/2025 16.00
+## Dom 14/12/2025 15.45
 
 <strong>MILANO HP - CUS PADOVA ASD</strong>
 
