@@ -8,14 +8,14 @@
 
 Giornata: Gara 226
 
-Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
+Campo: PALAZZETTO DELLO SPORT DI CELANO 
 
-Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
+Indirizzo Campo:  VIA DELLA TORRE  - CELANO (AQ)
 
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
+Location: Via della Torre, Celano, L'Aquila, 67043, Italia
+Geo: Geo(latitude=42.0792711, longitude=13.5399331)
+Location: Via della Torre, Celano, L'Aquila, 67043, Italia
+Geo: Geo(latitude=42.0792711, longitude=13.5399331)
 
 
 ## Dom 14/12/2025 12.50
@@ -24,14 +24,14 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 Giornata: Gara 228
 
-Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
+Campo: PALAZZETTO DELLO SPORT DI CELANO 
 
-Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
+Indirizzo Campo:  VIA DELLA TORRE  - CELANO (AQ)
 
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
+Location: Via della Torre, Celano, L'Aquila, 67043, Italia
+Geo: Geo(latitude=42.0792711, longitude=13.5399331)
+Location: Via della Torre, Celano, L'Aquila, 67043, Italia
+Geo: Geo(latitude=42.0792711, longitude=13.5399331)
 
 
 ## Dom 14/12/2025 13.50
@@ -40,14 +40,14 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 Giornata: Gara 230
 
-Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
+Campo: PALAZZETTO DELLO SPORT DI CELANO 
 
-Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
+Indirizzo Campo:  VIA DELLA TORRE  - CELANO (AQ)
 
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
+Location: Via della Torre, Celano, L'Aquila, 67043, Italia
+Geo: Geo(latitude=42.0792711, longitude=13.5399331)
+Location: Via della Torre, Celano, L'Aquila, 67043, Italia
+Geo: Geo(latitude=42.0792711, longitude=13.5399331)
 
 
 ## Dom 14/12/2025 14.50
@@ -56,14 +56,14 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 Giornata: Gara 231
 
-Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
+Campo: PALAZZETTO DELLO SPORT DI CELANO 
 
-Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
+Indirizzo Campo:  VIA DELLA TORRE  - CELANO (AQ)
 
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
+Location: Via della Torre, Celano, L'Aquila, 67043, Italia
+Geo: Geo(latitude=42.0792711, longitude=13.5399331)
+Location: Via della Torre, Celano, L'Aquila, 67043, Italia
+Geo: Geo(latitude=42.0792711, longitude=13.5399331)
 
 
 ## Dom 14/12/2025 15.50
@@ -72,14 +72,14 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 Giornata: Gara 232
 
-Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
+Campo: PALAZZETTO DELLO SPORT DI CELANO 
 
-Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
+Indirizzo Campo:  VIA DELLA TORRE  - CELANO (AQ)
 
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
+Location: Via della Torre, Celano, L'Aquila, 67043, Italia
+Geo: Geo(latitude=42.0792711, longitude=13.5399331)
+Location: Via della Torre, Celano, L'Aquila, 67043, Italia
+Geo: Geo(latitude=42.0792711, longitude=13.5399331)
 
 
 
