@@ -146,7 +146,7 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
 ## Dom 11/01/2026 11.00
 
-<strong>ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.</strong>
+<strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
 
 Giornata: Gara 305
 
@@ -160,7 +160,7 @@ Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrare
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
-## Dom 11/01/2026 12.00
+## Dom 11/01/2026 12.30
 
 <strong>DEL PINTO & ASSOCIATI H. PISTOIA - CUS PADOVA ASD</strong>
 
@@ -178,7 +178,7 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 ## Dom 11/01/2026 13.30
 
-<strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
+<strong>ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.</strong>
 
 Giornata: Gara 307
 
@@ -192,7 +192,7 @@ Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrare
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
-## Dom 11/01/2026 14.30
+## Dom 11/01/2026 15.00
 
 <strong>DEL PINTO & ASSOCIATI H. PISTOIA - A.R.FINCANTIERI A.S.D.</strong>
 

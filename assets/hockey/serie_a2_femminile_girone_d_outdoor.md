@@ -43,6 +43,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>SG AMSICORA B - CUS CAGLIARI</strong>
 
+**Risultato: 5-1**
+
 Giornata: Gara 1113
 
 Campo: AMSICORA 
@@ -58,6 +60,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 ## Gio 11/12/2025 19.00
 
 <strong>POLISPORTIVA FERRINI B - FORTITUDO HOCKEY CAGLIARI</strong>
+
+**Risultato: 4-2**
 
 Giornata: Gara 1114
 
