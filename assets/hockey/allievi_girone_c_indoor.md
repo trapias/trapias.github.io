@@ -2,7 +2,7 @@
 
 # Allievi  - Girone C / Giornata 1
 
-## Dom 14/12/2025 10.00
+## Dom 14/12/2025 10.30
 
 <strong>CUS PISA ASD - GENOVA H. 1980 DRITTO</strong>
 
@@ -18,7 +18,7 @@ Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 
-## Dom 14/12/2025 11.00
+## Dom 14/12/2025 11.30
 
 <strong>ASD BAD LAKE HOCKEY - HC PISTOIA</strong>
 
@@ -34,7 +34,7 @@ Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 
-## Dom 14/12/2025 13.00
+## Dom 14/12/2025 13.30
 
 <strong>GENOVA H. 1980 DRITTO - ASD BAD LAKE HOCKEY</strong>
 
@@ -50,7 +50,7 @@ Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 
-## Dom 14/12/2025 14.00
+## Dom 14/12/2025 14.30
 
 <strong>HC PISTOIA - CUS PISA ASD</strong>
 

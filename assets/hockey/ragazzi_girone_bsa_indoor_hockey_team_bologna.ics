@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 405\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nHOCKEY TEAM BOLOGNA - POLISPORTIVA CAMELOT
+DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 400\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nHOCKEY TEAM BOLOGNA - CSP SAN GIORGIO
 GEO:44.708262;10.635422
 LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20251214T150000Z
-SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - HOCKEY TEAM BOLOGNA - POLISPORTIVA CAMELOT
-UID:2c2d3f4f-bca2-4d97-a011-9bcb03230a8e@2c2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSA / Giornata 1\nGara 396\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nCSP SAN GIORGIO - HOCKEY TEAM BOLOGNA\n\nRisultato: 3-2
-GEO:45.215044;11.606644
-LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
-DTSTART:20251207T113000Z
-SUMMARY:Ragazzi  - Girone BSA / Giornata 1 - CSP SAN GIORGIO - HOCKEY TEAM BOLOGNA
-UID:58ffb094-00b6-4322-8e78-a05bd2e2db9e@58ff.org
+DTSTART:20251214T090000Z
+SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - HOCKEY TEAM BOLOGNA - CSP SAN GIORGIO
+UID:c688c06e-af09-4a56-82ea-c8bb00603d62@c688.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone BSA / Giornata 1\nGara 398\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nPOLISPORTIVA CAMELOT - HOCKEY TEAM BOLOGNA\n\nRisultato: 1-8
@@ -23,15 +15,23 @@ GEO:45.215044;11.606644
 LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
 DTSTART:20251207T140000Z
 SUMMARY:Ragazzi  - Girone BSA / Giornata 1 - POLISPORTIVA CAMELOT - HOCKEY TEAM BOLOGNA
-UID:7301ac07-9e38-4f5f-8e0a-aecc98b72d90@7301.org
+UID:9c6844cc-e137-42ff-8153-ee41f9aafa3e@9c68.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 405\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nHOCKEY TEAM BOLOGNA - POLISPORTIVA CAMELOT
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20251214T150000Z
-SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - HOCKEY TEAM BOLOGNA - POLISPORTIVA CAMELOT
-UID:506cb4ce-4c69-4aee-bfda-dac30dc26183@506c.org
+DESCRIPTION:Ragazzi  - Girone BSA / Giornata 1\nGara 398\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nPOLISPORTIVA CAMELOT - HOCKEY TEAM BOLOGNA\n\nRisultato: 1-8
+GEO:45.215044;11.606644
+LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
+DTSTART:20251207T140000Z
+SUMMARY:Ragazzi  - Girone BSA / Giornata 1 - POLISPORTIVA CAMELOT - HOCKEY TEAM BOLOGNA
+UID:83fb444c-b38a-431d-9a72-fca14414dd42@83fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone BSA / Giornata 1\nGara 396\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nCSP SAN GIORGIO - HOCKEY TEAM BOLOGNA\n\nRisultato: 3-2
+GEO:45.215044;11.606644
+LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
+DTSTART:20251207T113000Z
+SUMMARY:Ragazzi  - Girone BSA / Giornata 1 - CSP SAN GIORGIO - HOCKEY TEAM BOLOGNA
+UID:5a9d38d9-83e1-450a-8186-ddaf7d27bdb2@5a9d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 402\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HOCKEY TEAM BOLOGNA
@@ -39,7 +39,39 @@ GEO:44.708262;10.635422
 LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
 DTSTART:20251214T113000Z
 SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HOCKEY TEAM BOLOGNA
-UID:cd4203d5-5f47-4117-a537-2e36f176d336@cd42.org
+UID:ccec4c65-024c-4991-9784-98046b56f97c@ccec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 405\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nHOCKEY TEAM BOLOGNA - POLISPORTIVA CAMELOT
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20251214T150000Z
+SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - HOCKEY TEAM BOLOGNA - POLISPORTIVA CAMELOT
+UID:e54424c2-0a50-48fc-8539-c2893b3f7465@e544.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 405\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nHOCKEY TEAM BOLOGNA - POLISPORTIVA CAMELOT
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20251214T150000Z
+SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - HOCKEY TEAM BOLOGNA - POLISPORTIVA CAMELOT
+UID:eaa8e9de-72e9-4326-ab75-15b309091474@eaa8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 400\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nHOCKEY TEAM BOLOGNA - CSP SAN GIORGIO
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20251214T090000Z
+SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - HOCKEY TEAM BOLOGNA - CSP SAN GIORGIO
+UID:4cdcbe4d-c234-4d98-9320-320aec753a5c@4cdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 402\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HOCKEY TEAM BOLOGNA
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20251214T113000Z
+SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HOCKEY TEAM BOLOGNA
+UID:e4743f8c-e80d-4ac0-912f-5f1d0209d38c@e474.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone BSA / Giornata 1\nGara 396\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nCSP SAN GIORGIO - HOCKEY TEAM BOLOGNA\n\nRisultato: 3-2
@@ -47,31 +79,7 @@ GEO:45.215044;11.606644
 LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
 DTSTART:20251207T113000Z
 SUMMARY:Ragazzi  - Girone BSA / Giornata 1 - CSP SAN GIORGIO - HOCKEY TEAM BOLOGNA
-UID:e22ed0a4-a6ea-468b-9544-2063fb63f819@e22e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSA / Giornata 1\nGara 398\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nPOLISPORTIVA CAMELOT - HOCKEY TEAM BOLOGNA\n\nRisultato: 1-8
-GEO:45.215044;11.606644
-LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
-DTSTART:20251207T140000Z
-SUMMARY:Ragazzi  - Girone BSA / Giornata 1 - POLISPORTIVA CAMELOT - HOCKEY TEAM BOLOGNA
-UID:267cda50-b881-4d36-9164-b3b1982fb533@267c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 400\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nHOCKEY TEAM BOLOGNA - CSP SAN GIORGIO
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20251214T090000Z
-SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - HOCKEY TEAM BOLOGNA - CSP SAN GIORGIO
-UID:a31f79d2-d9d3-4d23-900b-2a850ca47a0a@a31f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 400\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nHOCKEY TEAM BOLOGNA - CSP SAN GIORGIO
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20251214T090000Z
-SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - HOCKEY TEAM BOLOGNA - CSP SAN GIORGIO
-UID:5ac23d00-5a77-414b-8de5-c3a976665a32@5ac2.org
+UID:2d7879e4-6068-4c5a-861d-5d719ea143c6@2d78.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone BSA / Giornata 1\nGara 395\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HOCKEY TEAM BOLOGNA\n\nRisultato: 1-8
@@ -79,14 +87,6 @@ GEO:45.215044;11.606644
 LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
 DTSTART:20251207T100000Z
 SUMMARY:Ragazzi  - Girone BSA / Giornata 1 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HOCKEY TEAM BOLOGNA
-UID:a48b3966-f78e-4220-8115-ac9c91e1b2b4@a48b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 402\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HOCKEY TEAM BOLOGNA
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20251214T113000Z
-SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HOCKEY TEAM BOLOGNA
-UID:3376d641-5165-4b2b-8ec8-e5a42247194c@3376.org
+UID:01fa62cd-b319-4b0f-98a0-ed3e9f1d0bca@01fa.org
 END:VEVENT
 END:VCALENDAR
