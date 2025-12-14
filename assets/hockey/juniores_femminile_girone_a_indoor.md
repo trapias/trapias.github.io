@@ -6,6 +6,8 @@
 
 <strong>ASD HF LORENZONI - CUS TORINO</strong>
 
+**Risultato: 3-1**
+
 Giornata: Gara 480
 
 Campo: PALESTRA TORRAZZA 
@@ -21,6 +23,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 ## Sab 13/12/2025 12.00
 
 <strong>USD MONCALVESE HOCKEY - HF GENOVA 1980</strong>
+
+**Risultato: 2-1**
 
 Giornata: Gara 481
 
@@ -38,6 +42,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 <strong>ASD HF LORENZONI - HF GENOVA 1980</strong>
 
+**Risultato: 5-3**
+
 Giornata: Gara 482
 
 Campo: PALESTRA TORRAZZA 
@@ -53,6 +59,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 ## Sab 13/12/2025 14.30
 
 <strong>USD MONCALVESE HOCKEY - CUS TORINO</strong>
+
+**Risultato: 1-3**
 
 Giornata: Gara 483
 

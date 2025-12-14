@@ -18,7 +18,7 @@ Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 
-## Dom 14/12/2025 11.00
+## Dom 14/12/2025 12.00
 
 <strong>HC RAINBOW SAMPIERDARENA - HC SAVONA</strong>
 
@@ -34,7 +34,7 @@ Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 
-## Dom 14/12/2025 13.00
+## Dom 14/12/2025 14.00
 
 <strong>HF GENOVA 1980 - HC RAINBOW SAMPIERDARENA</strong>
 
@@ -50,7 +50,7 @@ Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 
-## Dom 14/12/2025 14.00
+## Dom 14/12/2025 15.00
 
 <strong>HC SAVONA - CUS PISA ASD</strong>
 

@@ -99,6 +99,8 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 <strong>GENOVA H. 1980 - HC SAVONA</strong>
 
+**Risultato: 9-5**
+
 Giornata: Gara 66
 
 Campo: CENTRO S. COMUNALE 
@@ -112,6 +114,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 ## Sab 13/12/2025 12.00
 
 <strong>HCU RASSEMBLEMENT TORINO - S.G. AMSICORA ASD</strong>
+
+**Risultato: 7-2**
 
 Giornata: Gara 67
 
@@ -127,6 +131,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>GENOVA H. 1980 - HOCKEY CLUB ROMA</strong>
 
+**Risultato: 6-4**
+
 Giornata: Gara 68
 
 Campo: CENTRO S. COMUNALE 
@@ -141,6 +147,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>S.G. AMSICORA ASD - HC SAVONA</strong>
 
+**Risultato: 8-4**
+
 Giornata: Gara 69
 
 Campo: CENTRO S. COMUNALE 
@@ -154,6 +162,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 ## Sab 13/12/2025 15.00
 
 <strong>HOCKEY CLUB ROMA - HCU RASSEMBLEMENT TORINO</strong>
+
+**Risultato: 0-7**
 
 Giornata: Gara 70
 
