@@ -6,6 +6,8 @@
 
 <strong>ASD ADIGE UHC - HC GRANTORTO</strong>
 
+**Risultato: 1-2**
+
 Giornata: Gara 375
 
 Campo: Comunale Mori 
@@ -22,6 +24,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>CUS PADOVA ASD - HC PISTOIA FRANJO</strong>
 
+**Risultato: 2-5**
+
 Giornata: Gara 376
 
 Campo: Comunale Mori 
@@ -37,6 +41,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 ## Dom 14/12/2025 12.00
 
 <strong>A.R.FINCANTIERI A.S.D. - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE</strong>
+
+**Risultato: 3-4**
 
 Giornata: Gara 377
 
@@ -70,6 +76,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HC PISTOIA FRANJO - A.R.FINCANTIERI A.S.D.</strong>
 
+**Risultato: 4-2**
+
 Giornata: Gara 379
 
 Campo: Comunale Mori 
@@ -86,6 +94,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - CUS PADOVA ASD</strong>
 
+**Risultato: 8-4**
+
 Giornata: Gara 380
 
 Campo: Comunale Mori 
@@ -101,6 +111,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 ## Dom 14/12/2025 16.00
 
 <strong>HC PISTOIA FRANJO - ASD ADIGE UHC</strong>
+
+**Risultato: 1-6**
 
 Giornata: Gara 381
 

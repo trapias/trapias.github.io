@@ -117,6 +117,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
 
+**Risultato: 2-4**
+
 Giornata: Gara 412
 
 Campo: Palestra Adriano Bonini 
@@ -132,6 +134,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Dom 14/12/2025 11.30
 
 <strong>ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC</strong>
+
+**Risultato: 1-5**
 
 Giornata: Gara 413
 
@@ -149,6 +153,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>CUS PADOVA ASD - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 2-3**
+
 Giornata: Gara 414
 
 Campo: Palestra Adriano Bonini 
@@ -164,6 +170,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Dom 14/12/2025 14.00
 
 <strong>HOCKEY CLUB RIVA - ASD ADIGE UHC</strong>
+
+**Risultato: 6-4**
 
 Giornata: Gara 415
 
@@ -181,6 +189,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>CUS PADOVA ASD - ASD ADIGE UHC</strong>
 
+**Risultato: 2-3**
+
 Giornata: Gara 416
 
 Campo: Palestra Adriano Bonini 
@@ -196,6 +206,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Dom 14/12/2025 16.30
 
 <strong>ASD HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA</strong>
+
+**Risultato: 5-3**
 
 Giornata: Gara 417
 

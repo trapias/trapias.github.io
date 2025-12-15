@@ -228,6 +228,8 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 <strong>CUS TORINO - MILANO HP</strong>
 
+**Risultato: 5-1**
+
 Giornata: Gara 1
 
 Campo: CENTRO S. COMUNALE 
@@ -241,6 +243,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 ## Dom 14/12/2025 11.45
 
 <strong>HOCKEY CLUB RIVA - ASD HF LORENZONI</strong>
+
+**Risultato: 5-4**
 
 Giornata: Gara 2
 
@@ -256,6 +260,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>S.G. AMSICORA ASD - CUS PADOVA ASD</strong>
 
+**Risultato: 7-2**
+
 Giornata: Gara 3
 
 Campo: CENTRO S. COMUNALE 
@@ -269,6 +275,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 ## Dom 14/12/2025 13.45
 
 <strong>ASD HF LORENZONI - CUS TORINO</strong>
+
+**Risultato: 2-7**
 
 Giornata: Gara 4
 
@@ -284,6 +292,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>HOCKEY CLUB RIVA - S.G. AMSICORA ASD</strong>
 
+**Risultato: 2-3**
+
 Giornata: Gara 5
 
 Campo: CENTRO S. COMUNALE 
@@ -297,6 +307,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 ## Dom 14/12/2025 15.45
 
 <strong>MILANO HP - CUS PADOVA ASD</strong>
+
+**Risultato: 5-2**
 
 Giornata: Gara 6
 

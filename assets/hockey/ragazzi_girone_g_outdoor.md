@@ -80,6 +80,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA - SG AMSICORA</strong>
 
+**Risultato: 5-1**
+
 Giornata: Gara 1088
 
 Campo: Comunale Uras 

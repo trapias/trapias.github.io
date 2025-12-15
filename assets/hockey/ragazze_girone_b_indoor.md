@@ -6,6 +6,8 @@
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
 
+**Risultato: 0-4**
+
 Giornata: Gara 327
 
 Campo: PALESTRA OLOF PALME 
@@ -20,6 +22,8 @@ Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 <strong>ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC</strong>
 
+**Risultato: 2-3**
+
 Giornata: Gara 328
 
 Campo: PALESTRA OLOF PALME 
@@ -33,6 +37,8 @@ Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 ## Dom 14/12/2025 14.00
 
 <strong>ASD ADIGE UHC - CUS PADOVA ASD</strong>
+
+**Risultato: 0-4**
 
 Giornata: Gara 329
 

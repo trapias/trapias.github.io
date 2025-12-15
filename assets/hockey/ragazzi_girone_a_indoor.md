@@ -110,6 +110,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>HCU RASSEMBLEMENT TORINO - HP VALCHISONE</strong>
 
+**Risultato: 5-1**
+
 Giornata: Gara 533
 
 Campo: PALESTRA TORRAZZA 
@@ -130,6 +132,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 <strong>SCUOLA HOCKEY INDER SINGH - ASD CERNUSCO FIELD HOCKEY</strong>
 
+**Risultato: 7-2**
+
 Giornata: Gara 534
 
 Campo: PALESTRA TORRAZZA 
@@ -145,6 +149,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 ## Dom 14/12/2025 11.00
 
 <strong>HCU RASSEMBLEMENT TORINO RIS - HCU RASSEMBLEMENT TORINO</strong>
+
+**Risultato: 0-14**
 
 Giornata: Gara 535
 
@@ -162,6 +168,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 ## Dom 14/12/2025 12.00 ⭐
 
 <strong>SCUOLA HOCKEY INDER SINGH - HP VALCHISONE</strong>
+
+**Risultato: 3-1**
 
 Giornata: Gara 536
 
@@ -182,6 +190,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 ## Dom 14/12/2025 13.00
 
 <strong>HCU RASSEMBLEMENT TORINO RIS - ASD CERNUSCO FIELD HOCKEY</strong>
+
+**Risultato: 1-3**
 
 Giornata: Gara 537
 

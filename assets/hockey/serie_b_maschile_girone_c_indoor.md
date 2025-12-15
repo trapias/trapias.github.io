@@ -6,6 +6,8 @@
 
 <strong>AZ HOCKEY TEAM - HOCKEY POTENZA PICENA</strong>
 
+**Risultato: 0-9**
+
 Giornata: Gara 226
 
 Campo: PALAZZETTO DELLO SPORT DI CELANO 
@@ -21,6 +23,8 @@ Geo: Geo(latitude=42.0792711, longitude=13.5399331)
 ## Dom 14/12/2025 12.50
 
 <strong>HOCKEY CLUB EUR - ASD HOCKEY CAMPAGNANO</strong>
+
+**Risultato: 5-4**
 
 Giornata: Gara 228
 
@@ -38,6 +42,8 @@ Geo: Geo(latitude=42.0792711, longitude=13.5399331)
 
 <strong>AZ HOCKEY TEAM - AZ HOCKEY TEAM-B</strong>
 
+**Risultato: 5-2**
+
 Giornata: Gara 230
 
 Campo: PALAZZETTO DELLO SPORT DI CELANO 
@@ -54,6 +60,8 @@ Geo: Geo(latitude=42.0792711, longitude=13.5399331)
 
 <strong>HOCKEY POTENZA PICENA - HOCKEY CLUB EUR</strong>
 
+**Risultato: 9-0**
+
 Giornata: Gara 231
 
 Campo: PALAZZETTO DELLO SPORT DI CELANO 
@@ -69,6 +77,8 @@ Geo: Geo(latitude=42.0792711, longitude=13.5399331)
 ## Dom 14/12/2025 15.50
 
 <strong>ASD HOCKEY CAMPAGNANO - AZ HOCKEY TEAM-B</strong>
+
+**Risultato: 7-2**
 
 Giornata: Gara 232
 

@@ -153,6 +153,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>HC PISTOIA FRANJO - ASD SUPERBA HC</strong>
 
+**Risultato: 0-8**
+
 Giornata: Gara 556
 
 Campo: PISTA DI PATTINAGGIO E PALESTRA FORNACI  
@@ -168,6 +170,8 @@ Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 ## Dom 14/12/2025 11.00
 
 <strong>GENOVA H. 1980 - HC SAVONA</strong>
+
+**Risultato: 11-3**
 
 Giornata: Gara 557
 
@@ -185,6 +189,8 @@ Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
 <strong>CUS PISA ASD - GENOVA H. 1980 U18</strong>
 
+**Risultato: 4-4**
+
 Giornata: Gara 558
 
 Campo: PISTA DI PATTINAGGIO E PALESTRA FORNACI  
@@ -200,6 +206,8 @@ Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 ## Dom 14/12/2025 13.00
 
 <strong>HC SAVONA - ASD SUPERBA HC</strong>
+
+**Risultato: 2-9**
 
 Giornata: Gara 559
 
@@ -217,6 +225,8 @@ Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
 <strong>GENOVA H. 1980 U18 - GENOVA H. 1980</strong>
 
+**Risultato: 1-8**
+
 Giornata: Gara 560
 
 Campo: PISTA DI PATTINAGGIO E PALESTRA FORNACI  
@@ -232,6 +242,8 @@ Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 ## Dom 14/12/2025 15.00
 
 <strong>HC PISTOIA FRANJO - HC GENOVA</strong>
+
+**Risultato: 5-4**
 
 Giornata: Gara 561
 

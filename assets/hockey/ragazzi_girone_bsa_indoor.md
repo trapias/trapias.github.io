@@ -117,6 +117,8 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
 <strong>HOCKEY TEAM BOLOGNA - CSP SAN GIORGIO</strong>
 
+**Risultato: 3-2**
+
 Giornata: Gara 400
 
 Campo: Sport Arena 
@@ -132,6 +134,8 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 ## Dom 14/12/2025 11.00
 
 <strong>POLISPORTIVA CAMELOT - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE</strong>
+
+**Risultato: 1-0**
 
 Giornata: Gara 401
 
@@ -149,6 +153,8 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 <strong>ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HOCKEY TEAM BOLOGNA</strong>
 
+**Risultato: 2-7**
+
 Giornata: Gara 402
 
 Campo: Sport Arena 
@@ -164,6 +170,8 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 ## Dom 14/12/2025 13.30
 
 <strong>POLISPORTIVA CAMELOT - CSP SAN GIORGIO</strong>
+
+**Risultato: 1-5**
 
 Giornata: Gara 403
 
@@ -181,6 +189,8 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 <strong>ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - CSP SAN GIORGIO</strong>
 
+**Risultato: 1-8**
+
 Giornata: Gara 404
 
 Campo: Sport Arena 
@@ -196,6 +206,8 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 ## Dom 14/12/2025 16.00
 
 <strong>HOCKEY TEAM BOLOGNA - POLISPORTIVA CAMELOT</strong>
+
+**Risultato: 6-3**
 
 Giornata: Gara 405
 

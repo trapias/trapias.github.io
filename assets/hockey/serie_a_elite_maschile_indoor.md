@@ -115,6 +115,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>BUTTERFLY ROMA HCC - CUS PISA ASD</strong>
 
+**Risultato: 8-0**
+
 Giornata: Gara 103
 
 Campo: CENTRO SPORTIVO MILLEVOI 
@@ -131,6 +133,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 ## Dom 14/12/2025 12.00 ⭐
 
 <strong>HP VALCHISONE - HC BRA</strong>
+
+**Risultato: 4-8**
 
 Giornata: Gara 104
 
@@ -152,6 +156,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
 
+**Risultato: 5-5**
+
 Giornata: Gara 105
 
 Campo: CENTRO SPORTIVO MILLEVOI 
@@ -167,6 +173,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 ## Dom 14/12/2025 14.00
 
 <strong>HC BRA - CUS PISA ASD</strong>
+
+**Risultato: 5-3**
 
 Giornata: Gara 106
 
@@ -184,6 +192,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 ## Dom 14/12/2025 15.00 ⭐
 
 <strong>CUS PADOVA ASD - HP VALCHISONE</strong>
+
+**Risultato: 2-2**
 
 Giornata: Gara 107
 
@@ -204,6 +214,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 ## Dom 14/12/2025 16.00
 
 <strong>ASD HOCKEY CLUB BONDENO - BUTTERFLY ROMA HCC</strong>
+
+**Risultato: 5-7**
 
 Giornata: Gara 108
 

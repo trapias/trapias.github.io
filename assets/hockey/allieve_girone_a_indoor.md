@@ -6,6 +6,8 @@
 
 <strong>CUS TORINO - ASD HF LORENZONI</strong>
 
+**Risultato: 1-8**
+
 Giornata: Gara 492
 
 Campo: PALESTRA TORRAZZA 
@@ -22,6 +24,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 ## Dom 14/12/2025 15.20 ⭐
 
 <strong>HOCKEY PRATO VALCHISONE FEMMINILE - HOCKEY CLUB LARIO</strong>
+
+**Risultato: 2-0**
 
 Giornata: Gara 493
 
@@ -43,6 +47,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 <strong>HOCKEY CLUB LARIO - ASD HF LORENZONI</strong>
 
+**Risultato: 1-5**
+
 Giornata: Gara 494
 
 Campo: PALESTRA TORRAZZA 
@@ -59,6 +65,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 ## Dom 14/12/2025 17.45 ⭐
 
 <strong>CUS TORINO - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
+
+**Risultato: 0-9**
 
 Giornata: Gara 495
 
