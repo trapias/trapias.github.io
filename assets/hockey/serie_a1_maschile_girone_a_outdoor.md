@@ -151,7 +151,7 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4
 
-## Sab 11/04/2026 15.00
+## Dom 12/04/2026 12.00
 
 <strong>CUS CAGLIARI - ASD ADIGE UHC</strong>
 
@@ -253,7 +253,7 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 6
 
-## Sab 25/04/2026 15.00
+## Sab 25/04/2026 16.30
 
 <strong>CUS CAGLIARI - HC BONDENO</strong>
 

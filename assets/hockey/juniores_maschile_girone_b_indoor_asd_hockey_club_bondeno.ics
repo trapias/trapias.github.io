@@ -2,12 +2,36 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 363\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 368\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHOCKEY CUSCUBE BRESCIA - ASD HOCKEY CLUB BONDENO
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20260118T100000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HOCKEY CUSCUBE BRESCIA - ASD HOCKEY CLUB BONDENO
+UID:102dbef8-0bbf-4087-b3d6-72df37e6a7d8@102d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 366\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nHC VILLAFRANCA - ASD HOCKEY CLUB BONDENO
 GEO:45.896716;13.491104
 LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
-DTSTART:20260106T120000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
-UID:da7f8356-e7f0-4f83-847f-2bbb6856b0b7@da7f.org
+DTSTART:20260106T150000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - HC VILLAFRANCA - ASD HOCKEY CLUB BONDENO
+UID:4ebd873e-6dcd-4747-af74-f4456457ad03@4ebd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 358\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - CSP SAN GIORGIO
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251228T140000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - CSP SAN GIORGIO
+UID:7e9bbe19-3b5c-467d-8c5f-439a932700a2@7e9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 366\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nHC VILLAFRANCA - ASD HOCKEY CLUB BONDENO
+GEO:45.896716;13.491104
+LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
+DTSTART:20260106T150000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - HC VILLAFRANCA - ASD HOCKEY CLUB BONDENO
+UID:2b6f9e4e-0497-46cb-93c8-dbb0af73d7cc@2b6f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 346\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nCSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO\n\nRisultato: 6-5
@@ -15,31 +39,39 @@ GEO:45.519604;10.258212
 LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
 DTSTART:20251208T100000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - CSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO
-UID:d196069b-730f-447a-ae8f-c26a2c362cae@d196.org
+UID:0606be42-01c9-4f13-8c87-de8d28600713@0606.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 352\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - HOCKEY CUSCUBE BRESCIA
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251228T090000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - HOCKEY CUSCUBE BRESCIA
-UID:b0db583d-e964-44a8-bed8-54ea3d4ce1ea@b0db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 368\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHOCKEY CUSCUBE BRESCIA - ASD HOCKEY CLUB BONDENO
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 371\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
 GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20260118T100000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HOCKEY CUSCUBE BRESCIA - ASD HOCKEY CLUB BONDENO
-UID:ed210472-0d9c-45fb-9905-a71909032c8f@ed21.org
+DTSTART:20260118T130000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
+UID:2821e218-9b5a-4639-9cbc-6c2b0ce32009@2821.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 358\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - CSP SAN GIORGIO
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251228T140000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - CSP SAN GIORGIO
-UID:139789e6-6f3a-4959-8314-ebd60a8f1277@1397.org
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 351\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nASD HOCKEY CLUB BONDENO - HC VILLAFRANCA\n\nRisultato: 4-3
+GEO:45.519604;10.258212
+LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
+DTSTART:20251208T150000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - HC VILLAFRANCA
+UID:1bded8e1-7186-45cb-b9be-b77f7d32641a@1bde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 349\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nCUS PADOVA ASD - ASD HOCKEY CLUB BONDENO\n\nRisultato: 2-3
+GEO:45.519604;10.258212
+LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
+DTSTART:20251208T130000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO
+UID:b64b90e5-f5fa-4ee2-beb0-185a11eba8a6@b64b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 351\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nASD HOCKEY CLUB BONDENO - HC VILLAFRANCA\n\nRisultato: 4-3
+GEO:45.519604;10.258212
+LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
+DTSTART:20251208T150000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - HC VILLAFRANCA
+UID:12a8cfff-5735-41f7-b04b-93d042891669@12a8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 363\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
@@ -47,23 +79,7 @@ GEO:45.896716;13.491104
 LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
 DTSTART:20260106T120000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
-UID:645d291c-2d7e-41ec-a875-69272983e80c@645d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 349\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nCUS PADOVA ASD - ASD HOCKEY CLUB BONDENO\n\nRisultato: 2-3
-GEO:45.519604;10.258212
-LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
-DTSTART:20251208T130000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO
-UID:cfb6b53e-b109-4f6f-bad0-c24994cb680f@cfb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 351\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nASD HOCKEY CLUB BONDENO - HC VILLAFRANCA\n\nRisultato: 4-3
-GEO:45.519604;10.258212
-LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
-DTSTART:20251208T150000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - HC VILLAFRANCA
-UID:ce28d426-8b48-4886-a0ed-3337d5f32d45@ce28.org
+UID:35fda048-db43-48a9-96bd-a3927d14bea4@35fd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 371\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
@@ -71,55 +87,7 @@ GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
 DTSTART:20260118T130000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
-UID:7b63ea81-e2da-46a6-b3d8-3f88d7c0e590@7b63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 366\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nHC VILLAFRANCA - ASD HOCKEY CLUB BONDENO
-GEO:45.896716;13.491104
-LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
-DTSTART:20260106T150000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - HC VILLAFRANCA - ASD HOCKEY CLUB BONDENO
-UID:492afdc1-102e-4d39-a5ff-205523649180@492a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 349\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nCUS PADOVA ASD - ASD HOCKEY CLUB BONDENO\n\nRisultato: 2-3
-GEO:45.519604;10.258212
-LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
-DTSTART:20251208T130000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO
-UID:4b2516cb-fb88-4491-abd4-f36acba1d928@4b25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 351\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nASD HOCKEY CLUB BONDENO - HC VILLAFRANCA\n\nRisultato: 4-3
-GEO:45.519604;10.258212
-LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
-DTSTART:20251208T150000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - HC VILLAFRANCA
-UID:f5e4eddf-6bc5-4c7e-bbac-70fb5282014c@f5e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 356\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251228T120000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
-UID:04d8e983-4ed4-4837-8aa5-e765aaad8a6f@04d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 366\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nHC VILLAFRANCA - ASD HOCKEY CLUB BONDENO
-GEO:45.896716;13.491104
-LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
-DTSTART:20260106T150000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - HC VILLAFRANCA - ASD HOCKEY CLUB BONDENO
-UID:ab47e6c7-627e-45f9-880b-cba7926c3558@ab47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 371\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20260118T130000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
-UID:ac915f76-d2a6-495b-8fde-7e2ee4999ffe@ac91.org
+UID:bc4d65ff-7a4f-4ec5-87ad-2d08213d98d5@bc4d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 352\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - HOCKEY CUSCUBE BRESCIA
@@ -127,23 +95,7 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20251228T090000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - HOCKEY CUSCUBE BRESCIA
-UID:b7009637-d4ef-4dbf-8643-fc83b144ac88@b700.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 356\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251228T120000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
-UID:7552f253-8796-49fb-8c14-dec4b6cb1085@7552.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 368\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHOCKEY CUSCUBE BRESCIA - ASD HOCKEY CLUB BONDENO
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20260118T100000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HOCKEY CUSCUBE BRESCIA - ASD HOCKEY CLUB BONDENO
-UID:e10e02e2-43d6-43eb-b68b-1df35d3f835c@e10e.org
+UID:6ac2a5e5-1734-41f1-beb6-75d242d64499@6ac2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 358\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - CSP SAN GIORGIO
@@ -151,6 +103,54 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20251228T140000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - CSP SAN GIORGIO
-UID:593fcecc-b0a3-46e8-be68-03cf81e8c402@593f.org
+UID:66c0d8b0-ace4-4e78-bc1b-d875929c7a49@66c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 356\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251228T120000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
+UID:bc308a38-527b-4fc8-8791-c8c2af316b15@bc30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 352\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - HOCKEY CUSCUBE BRESCIA
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251228T090000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - HOCKEY CUSCUBE BRESCIA
+UID:47a53b64-2348-458c-b08a-93eef2a01e24@47a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 356\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251228T120000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
+UID:296c8635-b585-449c-b6d7-32e9ed7e0a72@296c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 349\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nCUS PADOVA ASD - ASD HOCKEY CLUB BONDENO\n\nRisultato: 2-3
+GEO:45.519604;10.258212
+LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
+DTSTART:20251208T130000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO
+UID:75fca5bf-25f1-4112-bcda-103b1a36c2ce@75fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 363\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
+GEO:45.896716;13.491104
+LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
+DTSTART:20260106T120000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
+UID:c787a16f-fe65-4339-a6b7-0a2d5fa08e3e@c787.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 368\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHOCKEY CUSCUBE BRESCIA - ASD HOCKEY CLUB BONDENO
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20260118T100000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HOCKEY CUSCUBE BRESCIA - ASD HOCKEY CLUB BONDENO
+UID:912e884e-e26d-4add-9017-d600f73a09a7@912e.org
 END:VEVENT
 END:VCALENDAR

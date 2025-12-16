@@ -105,6 +105,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>HOCKEY CLUB RIVA - POLISPORTIVA UNIVERSITARIA MESSINA</strong>
 
+**Risultato: 2-2**
+
 Giornata: Gara 43
 
 Campo: PALA NEBIOLO 
@@ -120,6 +122,8 @@ Geo: Geo(latitude=38.224983, longitude=15.5562633)
 ## Sab 13/12/2025 12.00
 
 <strong>LAZIO HOCKEY - CSP SAN GIORGIO</strong>
+
+**Risultato: 4-4**
 
 Giornata: Gara 44
 
@@ -137,6 +141,8 @@ Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
 <strong>USD MONCALVESE HOCKEY - A.S.D. S.H. PAOLO BONOMI</strong>
 
+**Risultato: 6-2**
+
 Giornata: Gara 45
 
 Campo: PALA NEBIOLO 
@@ -152,6 +158,8 @@ Geo: Geo(latitude=38.224983, longitude=15.5562633)
 ## Sab 13/12/2025 14.00
 
 <strong>HOCKEY CLUB RIVA - LAZIO HOCKEY</strong>
+
+**Risultato: 0-3**
 
 Giornata: Gara 46
 
@@ -169,6 +177,8 @@ Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - CSP SAN GIORGIO</strong>
 
+**Risultato: 4-3**
+
 Giornata: Gara 47
 
 Campo: PALA NEBIOLO 
@@ -184,6 +194,8 @@ Geo: Geo(latitude=38.224983, longitude=15.5562633)
 ## Sab 13/12/2025 16.00
 
 <strong>POLISPORTIVA UNIVERSITARIA MESSINA - USD MONCALVESE HOCKEY</strong>
+
+**Risultato: 7-2**
 
 Giornata: Gara 48
 
