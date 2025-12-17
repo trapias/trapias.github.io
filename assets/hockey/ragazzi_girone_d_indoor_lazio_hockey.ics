@@ -2,20 +2,36 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone D / Giornata 1\nGara 155\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHOCKEY CLUB ROMA - LAZIO HOCKEY\n\nRisultato: 1-8
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20251130T112000Z
-SUMMARY:Ragazzi  - Girone D / Giornata 1 - HOCKEY CLUB ROMA - LAZIO HOCKEY
-UID:12a669e8-5f9d-4879-b769-2cc11767ec69@12a6.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone D / Giornata 2\nGara 159\nPALAPRINCIPI - Viale Piemonte PORTO POTENZA PICENA\nAZ HOCKEY TEAM - LAZIO HOCKEY
 GEO:43.354477;13.697774
 LOCATION:Viale Piemonte\, Porto Potenza Picena\, Potenza Picena\, Macerata\, Marche\, 62018\, Italia
 DTSTART:20260111T120000Z
 SUMMARY:Ragazzi  - Girone D / Giornata 2 - AZ HOCKEY TEAM - LAZIO HOCKEY
-UID:d70640a0-1e74-486e-9805-a7f6bf2165bc@d706.org
+UID:ec69197f-65fb-42ab-b357-662abe1c6498@ec69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone D / Giornata 2\nGara 162\nPALAPRINCIPI - Viale Piemonte PORTO POTENZA PICENA\nLAZIO HOCKEY - HOCKEY POTENZA PICENA
+GEO:43.354477;13.697774
+LOCATION:Viale Piemonte\, Porto Potenza Picena\, Potenza Picena\, Macerata\, Marche\, 62018\, Italia
+DTSTART:20260111T150000Z
+SUMMARY:Ragazzi  - Girone D / Giornata 2 - LAZIO HOCKEY - HOCKEY POTENZA PICENA
+UID:acbe7181-fb54-4ce8-baec-530dd5c5a64c@acbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone D / Giornata 1\nGara 155\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHOCKEY CLUB ROMA - LAZIO HOCKEY\n\nRisultato: 1-8
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20251130T112000Z
+SUMMARY:Ragazzi  - Girone D / Giornata 1 - HOCKEY CLUB ROMA - LAZIO HOCKEY
+UID:3b4ea15e-b8c3-412d-a426-8b3de9f4bd17@3b4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone D / Giornata 2\nGara 162\nPALAPRINCIPI - Viale Piemonte PORTO POTENZA PICENA\nLAZIO HOCKEY - HOCKEY POTENZA PICENA
+GEO:43.354477;13.697774
+LOCATION:Viale Piemonte\, Porto Potenza Picena\, Potenza Picena\, Macerata\, Marche\, 62018\, Italia
+DTSTART:20260111T150000Z
+SUMMARY:Ragazzi  - Girone D / Giornata 2 - LAZIO HOCKEY - HOCKEY POTENZA PICENA
+UID:eb9386d9-bbb4-45f6-9544-75531f73663f@eb93.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone D / Giornata 1\nGara 153\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nBUTTERFLY ROMA HCC - LAZIO HOCKEY\n\nRisultato: 2-2
@@ -23,23 +39,7 @@ GEO:41.776492;12.546693
 LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
 DTSTART:20251130T090000Z
 SUMMARY:Ragazzi  - Girone D / Giornata 1 - BUTTERFLY ROMA HCC - LAZIO HOCKEY
-UID:ceb9e243-b070-4dc6-80cc-8ee64f2a87dc@ceb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone D / Giornata 1\nGara 155\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHOCKEY CLUB ROMA - LAZIO HOCKEY\n\nRisultato: 1-8
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20251130T112000Z
-SUMMARY:Ragazzi  - Girone D / Giornata 1 - HOCKEY CLUB ROMA - LAZIO HOCKEY
-UID:ff08c740-c137-49b4-b175-b84f32cc7174@ff08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone D / Giornata 2\nGara 162\nPALAPRINCIPI - Viale Piemonte PORTO POTENZA PICENA\nLAZIO HOCKEY - HOCKEY POTENZA PICENA
-GEO:43.354477;13.697774
-LOCATION:Viale Piemonte\, Porto Potenza Picena\, Potenza Picena\, Macerata\, Marche\, 62018\, Italia
-DTSTART:20260111T150000Z
-SUMMARY:Ragazzi  - Girone D / Giornata 2 - LAZIO HOCKEY - HOCKEY POTENZA PICENA
-UID:18ddf88b-bd90-4ae1-a75e-0fe7ccb95b6a@18dd.org
+UID:7e190447-2a9f-41d6-84e6-b519245919c6@7e19.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone D / Giornata 2\nGara 159\nPALAPRINCIPI - Viale Piemonte PORTO POTENZA PICENA\nAZ HOCKEY TEAM - LAZIO HOCKEY
@@ -47,14 +47,14 @@ GEO:43.354477;13.697774
 LOCATION:Viale Piemonte\, Porto Potenza Picena\, Potenza Picena\, Macerata\, Marche\, 62018\, Italia
 DTSTART:20260111T120000Z
 SUMMARY:Ragazzi  - Girone D / Giornata 2 - AZ HOCKEY TEAM - LAZIO HOCKEY
-UID:97d39d8b-02c3-404a-86ce-4af62b097aff@97d3.org
+UID:3b019f30-f1f4-47e5-8916-4804af2bf33e@3b01.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone D / Giornata 2\nGara 162\nPALAPRINCIPI - Viale Piemonte PORTO POTENZA PICENA\nLAZIO HOCKEY - HOCKEY POTENZA PICENA
-GEO:43.354477;13.697774
-LOCATION:Viale Piemonte\, Porto Potenza Picena\, Potenza Picena\, Macerata\, Marche\, 62018\, Italia
-DTSTART:20260111T150000Z
-SUMMARY:Ragazzi  - Girone D / Giornata 2 - LAZIO HOCKEY - HOCKEY POTENZA PICENA
-UID:b5edac9f-c825-414b-9b0e-0c914e9a76d9@b5ed.org
+DESCRIPTION:Ragazzi  - Girone D / Giornata 1\nGara 155\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHOCKEY CLUB ROMA - LAZIO HOCKEY\n\nRisultato: 1-8
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20251130T112000Z
+SUMMARY:Ragazzi  - Girone D / Giornata 1 - HOCKEY CLUB ROMA - LAZIO HOCKEY
+UID:2b1411e2-754e-40f5-a0a8-4285d4422ebc@2b14.org
 END:VEVENT
 END:VCALENDAR

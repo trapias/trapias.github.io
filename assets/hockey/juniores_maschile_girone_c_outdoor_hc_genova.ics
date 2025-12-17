@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 4\nGara 315\nCampo Sportivo Augusto Briano - Via Santuario\, snc Savona\nHC SAVONA - HC GENOVA\n\nRisultato: 1-2
-GEO:44.323086;8.464578
-LOCATION:Via Santuario\, Lavagnola\, Savona\, Liguria\, 17100\, Italia
-DTSTART:20251012T090000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 4 - HC SAVONA - HC GENOVA
-UID:a96e7da7-e680-44a1-bf89-56be11d0e750@a96e.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 5\nGara 317\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - ASD SUPERBA HC\n\nRisultato: 0-5
 GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20251104T193000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 5 - HC GENOVA - ASD SUPERBA HC
-UID:08b064d9-09ff-4f70-a65b-24a3270620b9@08b0.org
+UID:e5da43f3-6989-45d3-a92d-08dd5311fcf3@e5da.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 1\nGara 307\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - GENOVA H 1980
@@ -23,7 +15,23 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20260228T090000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 1 - HC GENOVA - GENOVA H 1980
-UID:a895b806-b3f6-45da-9634-762e99768d5e@a895.org
+UID:ff3d91e0-51f9-487f-a789-ffa229cd906f@ff3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 2\nGara 308\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - HC GENOVA\n\nRisultato: 2-1
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251102T140000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 2 - CUS PISA ASD - HC GENOVA
+UID:7baf09dc-f882-48f9-9c48-3cf216eb92b8@7baf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 3\nGara 312\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - GENOVA H 1980 U18\n\nRisultato: 5-0
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20251117T183000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 3 - HC GENOVA - GENOVA H 1980 U18
+UID:69a1d2e7-619e-4a6f-9fec-6c158a27682a@69a1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 4\nGara 315\nCampo Sportivo Augusto Briano - Via Santuario\, snc Savona\nHC SAVONA - HC GENOVA\n\nRisultato: 1-2
@@ -31,15 +39,7 @@ GEO:44.323086;8.464578
 LOCATION:Via Santuario\, Lavagnola\, Savona\, Liguria\, 17100\, Italia
 DTSTART:20251012T090000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 4 - HC SAVONA - HC GENOVA
-UID:dad9d884-be6f-4dcd-b64c-413c1370d531@dad9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 2\nGara 308\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - HC GENOVA\n\nRisultato: 2-1
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251102T140000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 2 - CUS PISA ASD - HC GENOVA
-UID:26290a92-afc5-424a-893d-a5d5401f546a@2629.org
+UID:a043128e-fd02-4635-8399-2d6ead495962@a043.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 1\nGara 307\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - GENOVA H 1980
@@ -47,7 +47,7 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20260228T090000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 1 - HC GENOVA - GENOVA H 1980
-UID:7d15972e-45f8-439e-8eed-efe9bd76d480@7d15.org
+UID:7e276174-ba25-410e-ab08-43f198cf5628@7e27.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 2\nGara 308\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - HC GENOVA\n\nRisultato: 2-1
@@ -55,7 +55,7 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251102T140000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 2 - CUS PISA ASD - HC GENOVA
-UID:50b25ab2-657c-4cb3-a35b-2570b326b969@50b2.org
+UID:ac26c233-f3da-4966-8468-2f4d027b548e@ac26.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 3\nGara 312\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - GENOVA H 1980 U18\n\nRisultato: 5-0
@@ -63,15 +63,15 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20251117T183000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 3 - HC GENOVA - GENOVA H 1980 U18
-UID:1d26cae5-7c81-4d21-9aad-5be64bc8a85a@1d26.org
+UID:a8143cfe-8898-425f-846a-fc0aa50827e8@a814.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 3\nGara 312\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - GENOVA H 1980 U18\n\nRisultato: 5-0
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20251117T183000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 3 - HC GENOVA - GENOVA H 1980 U18
-UID:e857a848-42b5-43af-bc40-96c219f587f2@e857.org
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 4\nGara 315\nCampo Sportivo Augusto Briano - Via Santuario\, snc Savona\nHC SAVONA - HC GENOVA\n\nRisultato: 1-2
+GEO:44.323086;8.464578
+LOCATION:Via Santuario\, Lavagnola\, Savona\, Liguria\, 17100\, Italia
+DTSTART:20251012T090000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 4 - HC SAVONA - HC GENOVA
+UID:429b4006-117a-4571-8ef1-8a2227bb1621@429b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 5\nGara 317\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - ASD SUPERBA HC\n\nRisultato: 0-5
@@ -79,6 +79,6 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20251104T193000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 5 - HC GENOVA - ASD SUPERBA HC
-UID:45986c34-95f1-4099-ae47-bb31e1097422@4598.org
+UID:c067c490-98a9-4dcf-a64a-c700aa56ffb2@c067.org
 END:VEVENT
 END:VCALENDAR

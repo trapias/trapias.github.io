@@ -6,6 +6,8 @@
 
 <strong>CUS PISA ASD - GENOVA H. 1980 DRITTO</strong>
 
+**Risultato: 2-8**
+
 Giornata: Gara 290
 
 Campo: PALACUS Pisa 
@@ -22,6 +24,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>GENOVA H. 1980 DRITTO - ASD BAD LAKE HOCKEY</strong>
 
+**Risultato: 2-3**
+
 Giornata: Gara 292
 
 Campo: PALACUS Pisa 
@@ -37,6 +41,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Dom 14/12/2025 16.00
 
 <strong>ASD BAD LAKE HOCKEY - CUS PISA ASD</strong>
+
+**Risultato: 3-4**
 
 Giornata: Gara 296
 

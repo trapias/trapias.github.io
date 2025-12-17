@@ -519,10 +519,9 @@ Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 
-<!-- VALCHISONE_START -->
-## Sab 24/01/2026 15.00 ⭐
+## Sab 24/01/2026 15.00
 
-<strong>ASD HOCKEY CLUB BONDENO - HP VALCHISONE</strong>
+<strong>HC BRA - BUTTERFLY ROMA HCC</strong>
 
 Giornata: Gara 95
 
@@ -532,17 +531,14 @@ Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
-<!-- VALCHISONE_END -->
-
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
-<!-- VALCHISONE_END -->
 
 
+<!-- VALCHISONE_START -->
+## Sab 24/01/2026 16.00 ⭐
 
-## Sab 24/01/2026 16.00
-
-<strong>HC BRA - BUTTERFLY ROMA HCC</strong>
+<strong>ASD HOCKEY CLUB BONDENO - HP VALCHISONE</strong>
 
 Giornata: Gara 96
 
@@ -552,6 +548,10 @@ Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
+<!-- VALCHISONE_END -->
+
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
+<!-- VALCHISONE_END -->
+
 
