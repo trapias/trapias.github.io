@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 3\nGara 901\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - MILANO HP
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 8\nGara 921\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - LAZIO HOCKEY
 GEO:44.703194;7.836697
 LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260328T140000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 3 - HF LORENZONI - MILANO HP
-UID:6ecd4bd8-03ab-425e-a7e8-2f3087867b33@6ecd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 13\nGara 941\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - UH CAPITOLINA
-GEO:44.703194;7.836697
-LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260614T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 13 - HF LORENZONI - UH CAPITOLINA
-UID:a94108ac-8436-4fd6-89d3-09a34583919e@a941.org
+DTSTART:20260503T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 8 - HF LORENZONI - LAZIO HOCKEY
+UID:9c1edd07-559b-461b-b41b-ca2b423ade55@9c1e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 7\nGara 917\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - CUS TORINO
@@ -23,7 +15,23 @@ GEO:44.703194;7.836697
 LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260426T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 7 - HF LORENZONI - CUS TORINO
-UID:02e1bbec-1f26-44bb-8c80-9619b5f60893@02e1.org
+UID:8657726e-83d8-493f-a09f-7a94e00d7854@8657.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 13\nGara 941\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - UH CAPITOLINA
+GEO:44.703194;7.836697
+LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260614T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 13 - HF LORENZONI - UH CAPITOLINA
+UID:a98d9d9a-85e7-4008-b070-18543faa132f@a98d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 2\nGara 899\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - BUTTERFLY ROMA
+GEO:44.703194;7.836697
+LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260322T140000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 2 - HF LORENZONI - BUTTERFLY ROMA
+UID:968d5d9e-95a3-4572-852b-4a3af41822f6@968d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 3\nGara 901\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - MILANO HP
@@ -31,31 +39,7 @@ GEO:44.703194;7.836697
 LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260328T140000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 3 - HF LORENZONI - MILANO HP
-UID:454fe090-2321-4fef-9490-2917166cfe0d@454f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 11\nGara 932\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - HT FEMM BOLOGNA
-GEO:44.703194;7.836697
-LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260531T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 11 - HF LORENZONI - HT FEMM BOLOGNA
-UID:8ab68378-9882-4e2f-9f57-8e4dc8111ee7@8ab6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 9\nGara 927\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - HF LORENZONI
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260510T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 9 - BUTTERFLY ROMA - HF LORENZONI
-UID:6142ebe4-65ec-4c17-92c1-91fdb39075ec@6142.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 8\nGara 921\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - LAZIO HOCKEY
-GEO:44.703194;7.836697
-LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260503T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 8 - HF LORENZONI - LAZIO HOCKEY
-UID:7e4b4fe3-09fd-4238-ac50-18aef13677c0@7e4b.org
+UID:b08fc481-96f8-428b-be84-68c02608e11e@b08f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 14\nGara 945\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HF LORENZONI
@@ -63,23 +47,7 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20260621T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 14 - CUS TORINO - HF LORENZONI
-UID:e36e7ddb-9403-4eff-ae2d-9768f182f39b@e36e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 5\nGara 908\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - SG AMSICORA
-GEO:44.703194;7.836697
-LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260412T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 5 - HF LORENZONI - SG AMSICORA
-UID:06ef4151-4717-4b64-b1fd-af1739b38575@06ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 7\nGara 917\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - CUS TORINO
-GEO:44.703194;7.836697
-LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260426T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 7 - HF LORENZONI - CUS TORINO
-UID:0e007482-0728-42e2-92ae-9629ffd056ac@0e00.org
+UID:64e2192a-8b7c-4392-9158-589921320a9e@64e2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 4\nGara 904\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT FEMM BOLOGNA - HF LORENZONI
@@ -87,7 +55,31 @@ GEO:44.494706;11.280302
 LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
 DTSTART:20260329T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 4 - HT FEMM BOLOGNA - HF LORENZONI
-UID:b1da3eb8-6eeb-4018-aaf3-36c7ab0636be@b1da.org
+UID:cfdbf3b7-eb1c-4a24-9b74-68fea3a3f2f8@cfdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 12\nGara 936\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HF LORENZONI
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20260607T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 12 - SG AMSICORA - HF LORENZONI
+UID:bc038371-3509-488d-b8b2-cd682e2e458e@bc03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 9\nGara 927\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - HF LORENZONI
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260510T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 9 - BUTTERFLY ROMA - HF LORENZONI
+UID:9b542726-1977-4db8-89c7-c0143ceebeb7@9b54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 11\nGara 932\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - HT FEMM BOLOGNA
+GEO:44.703194;7.836697
+LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260531T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 11 - HF LORENZONI - HT FEMM BOLOGNA
+UID:fba84a07-2ff1-4856-af2e-442320f0c55d@fba8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 8\nGara 921\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - LAZIO HOCKEY
@@ -95,7 +87,39 @@ GEO:44.703194;7.836697
 LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260503T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 8 - HF LORENZONI - LAZIO HOCKEY
-UID:2d9c2b01-d682-4b39-8ee5-93d8b4b9f04c@2d9c.org
+UID:9fc9440b-4350-4b82-9fb3-dcb5ac5688b9@9fc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 10\nGara 929\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - HF LORENZONI
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260517T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 10 - MILANO HP - HF LORENZONI
+UID:42d32f5f-7ca6-448e-921f-7b2f03e1489a@42d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 9\nGara 927\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - HF LORENZONI
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260510T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 9 - BUTTERFLY ROMA - HF LORENZONI
+UID:2d56679c-a9d5-43b7-83b8-ad7261f8b9ab@2d56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 5\nGara 908\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - SG AMSICORA
+GEO:44.703194;7.836697
+LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260412T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 5 - HF LORENZONI - SG AMSICORA
+UID:772e9a3b-8eb0-4167-aa28-70e519d7119c@772e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 4\nGara 904\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT FEMM BOLOGNA - HF LORENZONI
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20260329T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 4 - HT FEMM BOLOGNA - HF LORENZONI
+UID:de3e92b0-37c4-40a7-9f5a-91f812158f20@de3e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 13\nGara 941\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - UH CAPITOLINA
@@ -103,7 +127,23 @@ GEO:44.703194;7.836697
 LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260614T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 13 - HF LORENZONI - UH CAPITOLINA
-UID:755ac687-ebf0-4302-b512-a1da4c22d611@755a.org
+UID:ae3795ac-9e4a-480b-903e-f1db446da328@ae37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 14\nGara 945\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HF LORENZONI
+GEO:45.033509;7.633384
+LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
+DTSTART:20260621T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 14 - CUS TORINO - HF LORENZONI
+UID:a1b859bc-77f2-490a-8b52-2a0e3d312262@a1b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 12\nGara 936\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HF LORENZONI
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20260607T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 12 - SG AMSICORA - HF LORENZONI
+UID:8a4ada0d-7b71-4156-bb74-870b2a05d1d7@8a4a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 6\nGara 913\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - HF LORENZONI
@@ -111,7 +151,15 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20260419T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 6 - UH CAPITOLINA - HF LORENZONI
-UID:5229da07-9378-4b06-bafe-0c899b0ba959@5229.org
+UID:75f220ed-2fc1-467a-87b8-47d3253c3cfc@75f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 3\nGara 901\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - MILANO HP
+GEO:44.703194;7.836697
+LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260328T140000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 3 - HF LORENZONI - MILANO HP
+UID:b4b987c1-c2df-4b31-8e7d-bf1a42d55812@b4b9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 1\nGara 893\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - HF LORENZONI
@@ -119,23 +167,7 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20260315T140000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 1 - LAZIO HOCKEY - HF LORENZONI
-UID:d72c2bb3-ce5a-4914-b6cc-4cb97c81174a@d72c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 12\nGara 936\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HF LORENZONI
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260607T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 12 - SG AMSICORA - HF LORENZONI
-UID:a8c1dfb1-8cff-4244-a9cb-5273d2659281@a8c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 6\nGara 913\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - HF LORENZONI
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260419T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 6 - UH CAPITOLINA - HF LORENZONI
-UID:a386464c-7ddf-4151-9e05-007f29b96fc0@a386.org
+UID:b9e69312-c4f8-4935-a746-86e08413fea7@b9e6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 5\nGara 908\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - SG AMSICORA
@@ -143,23 +175,23 @@ GEO:44.703194;7.836697
 LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260412T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 5 - HF LORENZONI - SG AMSICORA
-UID:492ab1cb-dd44-43bb-a79c-06f742c79ee0@492a.org
+UID:0caea0dd-f979-463c-882f-c26d8e2b9a24@0cae.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 12\nGara 936\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HF LORENZONI
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260607T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 12 - SG AMSICORA - HF LORENZONI
-UID:207d5094-d1d1-4615-8768-39bdd1d213cd@207d.org
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 6\nGara 913\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - HF LORENZONI
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260419T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 6 - UH CAPITOLINA - HF LORENZONI
+UID:1acbd027-2b1f-4e6f-8b35-bd0ef474c95e@1acb.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 14\nGara 945\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HF LORENZONI
-GEO:45.033509;7.633384
-LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20260621T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 14 - CUS TORINO - HF LORENZONI
-UID:070fdf71-e683-4d85-925c-91d2483f70ec@070f.org
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 10\nGara 929\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - HF LORENZONI
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260517T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 10 - MILANO HP - HF LORENZONI
+UID:b1e46f72-6f3a-45ee-85de-ebe884dac101@b1e4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 2\nGara 899\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - BUTTERFLY ROMA
@@ -167,7 +199,15 @@ GEO:44.703194;7.836697
 LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260322T140000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 2 - HF LORENZONI - BUTTERFLY ROMA
-UID:52684ad1-2c93-4ed8-a20d-a599db45ca66@5268.org
+UID:cf9aa19a-f2f4-414d-aee4-8a89ef16411c@cf9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 7\nGara 917\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - CUS TORINO
+GEO:44.703194;7.836697
+LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260426T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 7 - HF LORENZONI - CUS TORINO
+UID:d56e1899-28b4-4214-98ab-a0b51effee02@d56e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 11\nGara 932\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - HT FEMM BOLOGNA
@@ -175,46 +215,6 @@ GEO:44.703194;7.836697
 LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260531T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 11 - HF LORENZONI - HT FEMM BOLOGNA
-UID:87374456-f3f5-4139-9cc8-c13061e811d0@8737.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 9\nGara 927\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - HF LORENZONI
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260510T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 9 - BUTTERFLY ROMA - HF LORENZONI
-UID:faba6c66-5592-4526-9def-728f40d58f87@faba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 4\nGara 904\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT FEMM BOLOGNA - HF LORENZONI
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20260329T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 4 - HT FEMM BOLOGNA - HF LORENZONI
-UID:42f1775a-5e8d-46de-bff9-da9d008e3120@42f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 10\nGara 929\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - HF LORENZONI
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260517T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 10 - MILANO HP - HF LORENZONI
-UID:804b1ca2-a72e-4db8-a6b3-219e8ba9270b@804b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 10\nGara 929\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - HF LORENZONI
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260517T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 10 - MILANO HP - HF LORENZONI
-UID:e1fde60a-92f7-40cb-9e6b-260b9bbe54a5@e1fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 2\nGara 899\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - BUTTERFLY ROMA
-GEO:44.703194;7.836697
-LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260322T140000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 2 - HF LORENZONI - BUTTERFLY ROMA
-UID:ebb534d7-5e0c-4d24-a301-663bc14b1983@ebb5.org
+UID:01340c1f-8d72-4822-9a77-d6b62e9ce84d@0134.org
 END:VEVENT
 END:VCALENDAR
