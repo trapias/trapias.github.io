@@ -81,6 +81,8 @@ Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 
 <strong>CUS PISA ASD - HC GENOVA</strong>
 
+**Risultato: 9-2**
+
 Giornata: Gara 250
 
 Campo: Palestra Geodetica Cus Pisa 
@@ -96,6 +98,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Sab 20/12/2025 14.30
 
 <strong>HC SAVONA - HF GENOVA 1980</strong>
+
+**Risultato: 2-9**
 
 Giornata: Gara 251
 
@@ -113,6 +117,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>HC SAVONA - HC GENOVA</strong>
 
+**Risultato: 1-7**
+
 Giornata: Gara 252
 
 Campo: Palestra Geodetica Cus Pisa 
@@ -128,6 +134,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Sab 20/12/2025 17.00
 
 <strong>HF GENOVA 1980 - CUS PISA ASD</strong>
+
+**Risultato: 2-5**
 
 Giornata: Gara 253
 

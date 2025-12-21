@@ -237,6 +237,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 <strong>HP VALCHISONE - ASD HOCKEY CLUB BONDENO</strong>
 
+**Risultato: 2-7**
+
 Giornata: Gara 109
 
 Campo: Palestra Adriano Bonini 
@@ -257,6 +259,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>CUS PISA ASD - CUS PADOVA ASD</strong>
 
+**Risultato: 4-3**
+
 Giornata: Gara 110
 
 Campo: Palestra Adriano Bonini 
@@ -272,6 +276,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Sab 20/12/2025 13.00
 
 <strong>BUTTERFLY ROMA HCC - HC BRA</strong>
+
+**Risultato: 3-3**
 
 Giornata: Gara 111
 
@@ -289,6 +295,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Sab 20/12/2025 14.00 ⭐
 
 <strong>CUS PISA ASD - HP VALCHISONE</strong>
+
+**Risultato: 5-6**
 
 Giornata: Gara 112
 
@@ -310,6 +318,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>BUTTERFLY ROMA HCC - CUS PADOVA ASD</strong>
 
+**Risultato: 7-2**
+
 Giornata: Gara 113
 
 Campo: Palestra Adriano Bonini 
@@ -325,6 +335,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Sab 20/12/2025 16.00
 
 <strong>HC BRA - ASD HOCKEY CLUB BONDENO</strong>
+
+**Risultato: 2-3**
 
 Giornata: Gara 114
 

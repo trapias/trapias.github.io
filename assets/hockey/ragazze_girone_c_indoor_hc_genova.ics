@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazze  - Girone C / Giornata 1\nGara 262\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC RAINBOW SAMPIERDARENA - HC GENOVA
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251221T130000Z
-SUMMARY:Ragazze  - Girone C / Giornata 1 - HC RAINBOW SAMPIERDARENA - HC GENOVA
-UID:f3fc725f-c089-4cb7-9b1b-1b49a20a67eb@f3fc.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ragazze  - Girone C / Giornata 2\nGara 263\nPalazinola - Via Antonio Brilla\, snc Savona\nHC SAVONA - HC GENOVA
 GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20260111T083000Z
 SUMMARY:Ragazze  - Girone C / Giornata 2 - HC SAVONA - HC GENOVA
-UID:7ed8aa60-88e0-4564-9a9d-d8ecd5997569@7ed8.org
+UID:89ca4081-b04f-4a01-9b23-d13d7a47d8b6@89ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze  - Girone C / Giornata 2\nGara 265\nPalazinola - Via Antonio Brilla\, snc Savona\nHC GENOVA - CUS PISA ASD
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20260111T103000Z
+SUMMARY:Ragazze  - Girone C / Giornata 2 - HC GENOVA - CUS PISA ASD
+UID:4853280b-1c75-44bb-9d1f-475af815e50e@4853.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze  - Girone C / Giornata 1\nGara 260\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHF GENOVA 1980 - HC GENOVA
@@ -23,7 +23,7 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251221T110000Z
 SUMMARY:Ragazze  - Girone C / Giornata 1 - HF GENOVA 1980 - HC GENOVA
-UID:1e66fff8-683d-4828-8e68-de400f769054@1e66.org
+UID:3cf9e66d-fa6b-4a23-94af-989793e723a3@3cf9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze  - Girone C / Giornata 2\nGara 265\nPalazinola - Via Antonio Brilla\, snc Savona\nHC GENOVA - CUS PISA ASD
@@ -31,15 +31,7 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20260111T103000Z
 SUMMARY:Ragazze  - Girone C / Giornata 2 - HC GENOVA - CUS PISA ASD
-UID:efadbbc2-8d5c-4372-bdaa-b88dce898bec@efad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazze  - Girone C / Giornata 2\nGara 265\nPalazinola - Via Antonio Brilla\, snc Savona\nHC GENOVA - CUS PISA ASD
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20260111T103000Z
-SUMMARY:Ragazze  - Girone C / Giornata 2 - HC GENOVA - CUS PISA ASD
-UID:8fe228e6-3da3-4581-832f-4e036b5616ca@8fe2.org
+UID:1804b15f-e1b0-4c9e-b9e4-52553a05b724@1804.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze  - Girone C / Giornata 1\nGara 262\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC RAINBOW SAMPIERDARENA - HC GENOVA
@@ -47,7 +39,7 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251221T130000Z
 SUMMARY:Ragazze  - Girone C / Giornata 1 - HC RAINBOW SAMPIERDARENA - HC GENOVA
-UID:3cfc16ad-c120-478c-8d94-a84a6c39943d@3cfc.org
+UID:6579c1fa-a246-4076-98c7-683551ed7931@6579.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze  - Girone C / Giornata 2\nGara 263\nPalazinola - Via Antonio Brilla\, snc Savona\nHC SAVONA - HC GENOVA
@@ -55,6 +47,14 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20260111T083000Z
 SUMMARY:Ragazze  - Girone C / Giornata 2 - HC SAVONA - HC GENOVA
-UID:a5ba8577-ba59-4886-8585-4b533bbac874@a5ba.org
+UID:d8d233de-52b0-43bf-992e-b2a3047e9e52@d8d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze  - Girone C / Giornata 1\nGara 262\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC RAINBOW SAMPIERDARENA - HC GENOVA
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251221T130000Z
+SUMMARY:Ragazze  - Girone C / Giornata 1 - HC RAINBOW SAMPIERDARENA - HC GENOVA
+UID:3fb0c56b-eeb6-43a4-a6db-fb07ce307bb1@3fb0.org
 END:VEVENT
 END:VCALENDAR
