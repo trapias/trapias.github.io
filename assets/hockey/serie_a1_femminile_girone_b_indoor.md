@@ -81,6 +81,8 @@ Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
 <strong>CUS PADOVA ASD - A.R.FINCANTIERI A.S.D.</strong>
 
+**Risultato: 13-0**
+
 Giornata: Gara 245
 
 Campo: palestra macoratti 
@@ -96,6 +98,8 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 ## Dom 21/12/2025 12.00
 
 <strong>ASD HOCKEY CLUB BONDENO - DEL PINTO & ASSOCIATI H. PISTOIA</strong>
+
+**Risultato: 3-0**
 
 Giornata: Gara 302
 
@@ -113,6 +117,8 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
 
+**Risultato: 5-0**
+
 Giornata: Gara 303
 
 Campo: palestra macoratti 
@@ -128,6 +134,8 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 ## Dom 21/12/2025 14.30
 
 <strong>A.R.FINCANTIERI A.S.D. - DEL PINTO & ASSOCIATI H. PISTOIA</strong>
+
+**Risultato: 2-13**
 
 Giornata: Gara 304
 

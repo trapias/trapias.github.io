@@ -63,6 +63,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 <strong>BUTTERFLY ROMA HCC - HOCKEY POTENZA PICENA</strong>
 
+**Risultato: 3-3**
+
 Giornata: Gara 182
 
 Campo: PALAPRINCIPI 
@@ -79,6 +81,8 @@ Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
 <strong>HOCKEY CLUB ROMA - BUTTERFLY ROMA HCC</strong>
 
+**Risultato: 1-4**
+
 Giornata: Gara 183
 
 Campo: PALAPRINCIPI 
@@ -94,6 +98,8 @@ Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 ## Dom 21/12/2025 15.30
 
 <strong>HOCKEY POTENZA PICENA - HOCKEY CLUB ROMA</strong>
+
+**Risultato: 2-4**
 
 Giornata: Gara 184
 

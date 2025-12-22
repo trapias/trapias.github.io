@@ -6,6 +6,8 @@
 
 <strong>CUS PISA ASD - HF GENOVA 1980</strong>
 
+**Risultato: 5-1**
+
 Giornata: Gara 258
 
 Campo: Palestra Geodetica Cus Pisa 
@@ -21,6 +23,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Dom 21/12/2025 11.00
 
 <strong>HC RAINBOW SAMPIERDARENA - HC SAVONA</strong>
+
+**Risultato: 1-10**
 
 Giornata: Gara 259
 
@@ -38,6 +42,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>HF GENOVA 1980 - HC GENOVA</strong>
 
+**Risultato: 0-6**
+
 Giornata: Gara 260
 
 Campo: Palestra Geodetica Cus Pisa 
@@ -54,6 +60,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>CUS PISA ASD - HC SAVONA</strong>
 
+**Risultato: 4-4**
+
 Giornata: Gara 261
 
 Campo: Palestra Geodetica Cus Pisa 
@@ -69,6 +77,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Dom 21/12/2025 14.00
 
 <strong>HC RAINBOW SAMPIERDARENA - HC GENOVA</strong>
+
+**Risultato: 0-12**
 
 Giornata: Gara 262
 

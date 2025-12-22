@@ -145,6 +145,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>SCUOLA HOCKEY INDER SINGH - SCUOLA HOCKEY INDER SINGH NEXT GEN</strong>
 
+**Risultato: 4-2**
+
 Giornata: Gara 457
 
 Campo: PALAZZETTO DELL SPORT 
@@ -161,6 +163,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 ## Dom 21/12/2025 12.00 ⭐
 
 <strong>HP VALCHISONE - ASD CERNUSCO FIELD HOCKEY</strong>
+
+**Risultato: 4-5**
 
 Giornata: Gara 458
 
@@ -182,6 +186,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - HCU RASSEMBLEMENT</strong>
 
+**Risultato: 9-0**
+
 Giornata: Gara 459
 
 Campo: PALAZZETTO DELL SPORT 
@@ -198,6 +204,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 ## Dom 21/12/2025 14.00 ⭐
 
 <strong>SCUOLA HOCKEY INDER SINGH NEXT GEN - HP VALCHISONE</strong>
+
+**Risultato: 2-4**
 
 Giornata: Gara 460
 
@@ -219,6 +227,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>SCUOLA HOCKEY INDER SINGH - A.S.D. S.H. PAOLO BONOMI</strong>
 
+**Risultato: 1-7**
+
 Giornata: Gara 461
 
 Campo: PALAZZETTO DELL SPORT 
@@ -234,6 +244,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 ## Dom 21/12/2025 16.00
 
 <strong>HCU RASSEMBLEMENT - ASD CERNUSCO FIELD HOCKEY</strong>
+
+**Risultato: 0-6**
 
 Giornata: Gara 462
 

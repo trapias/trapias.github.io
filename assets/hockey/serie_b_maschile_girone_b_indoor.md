@@ -133,6 +133,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HC GRANTORTO - A.R.FINCANTIERI A.S.D.</strong>
 
+**Risultato: 3-1**
+
 Giornata: Gara 382
 
 Campo: PALESTRA CUS PADOVA 
@@ -148,6 +150,8 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 ## Dom 21/12/2025 11.00
 
 <strong>CUS PADOVA ASD - ASD ADIGE UHC</strong>
+
+**Risultato: 6-6**
 
 Giornata: Gara 383
 
@@ -165,6 +169,8 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 <strong>ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HC PISTOIA FRANJO</strong>
 
+**Risultato: 3-1**
+
 Giornata: Gara 384
 
 Campo: Impianti CUS Padova via G. Bruno 
@@ -180,6 +186,8 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 ## Dom 21/12/2025 13.00
 
 <strong>A.R.FINCANTIERI A.S.D. - ASD ADIGE UHC</strong>
+
+**Risultato: 0-9**
 
 Giornata: Gara 385
 
@@ -197,6 +205,8 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 <strong>HC GRANTORTO - HC PISTOIA FRANJO</strong>
 
+**Risultato: 6-2**
+
 Giornata: Gara 386
 
 Campo: PALESTRA CUS PADOVA 
@@ -212,6 +222,8 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 ## Dom 21/12/2025 15.00
 
 <strong>ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - ASD ADIGE UHC</strong>
+
+**Risultato: 2-7**
 
 Giornata: Gara 387
 
@@ -229,6 +241,8 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 <strong>CUS PADOVA ASD - A.R.FINCANTIERI A.S.D.</strong>
 
+**Risultato: 3-2**
+
 Giornata: Gara 388
 
 Campo: PALESTRA CUS PADOVA 
@@ -244,6 +258,8 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 ## Dom 21/12/2025 17.00
 
 <strong>HC GRANTORTO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE</strong>
+
+**Risultato: 4-7**
 
 Giornata: Gara 389
 

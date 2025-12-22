@@ -216,6 +216,8 @@ Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
 <strong>LAZIO HOCKEY - POLISPORTIVA UNIVERSITARIA MESSINA</strong>
 
+**Risultato: 3-4**
+
 Giornata: Gara 49
 
 Campo: CENTRO SPORTIVO MILLEVOI 
@@ -231,6 +233,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 ## Dom 21/12/2025 12.00
 
 <strong>CSP SAN GIORGIO - USD MONCALVESE HOCKEY</strong>
+
+**Risultato: 2-6**
 
 Giornata: Gara 50
 
@@ -248,6 +252,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 1-2**
+
 Giornata: Gara 51
 
 Campo: CENTRO SPORTIVO MILLEVOI 
@@ -263,6 +269,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 ## Dom 21/12/2025 14.00
 
 <strong>CSP SAN GIORGIO - POLISPORTIVA UNIVERSITARIA MESSINA</strong>
+
+**Risultato: 6-4**
 
 Giornata: Gara 52
 
@@ -280,6 +288,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 <strong>USD MONCALVESE HOCKEY - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 3-6**
+
 Giornata: Gara 53
 
 Campo: CENTRO SPORTIVO MILLEVOI 
@@ -295,6 +305,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 ## Dom 21/12/2025 16.00
 
 <strong>LAZIO HOCKEY - A.S.D. S.H. PAOLO BONOMI</strong>
+
+**Risultato: 4-2**
 
 Giornata: Gara 54
 

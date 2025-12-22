@@ -6,6 +6,8 @@
 
 <strong>ASD HOCKEY AVEZZANO 1969 - AZ HOCKEY TEAM</strong>
 
+**Risultato: 5-2**
+
 Giornata: Gara 163
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
@@ -22,6 +24,8 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 <strong>ASD HOCKEY AVEZZANO 1969 - HOCKEY POTENZA PICENA</strong>
 
+**Risultato: 3-5**
+
 Giornata: Gara 164
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
@@ -37,6 +41,8 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 ## Dom 21/12/2025 15.40
 
 <strong>AZ HOCKEY TEAM - HOCKEY POTENZA PICENA</strong>
+
+**Risultato: 2-8**
 
 Giornata: Gara 165
 

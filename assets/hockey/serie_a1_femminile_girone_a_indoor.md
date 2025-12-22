@@ -168,6 +168,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>CUS TORINO - ASD HOCKEY CLUB ARGENTIA</strong>
 
+**Risultato: 1-5**
+
 Giornata: Gara 446
 
 Campo: C.S. SEVENINFINITY 
@@ -184,6 +186,8 @@ Geo: Geo(latitude=45.5316303, longitude=9.4158354)
 ## Dom 21/12/2025 10.30 ⭐
 
 <strong>HOCKEY PRATO VALCHISONE FEMMINILE - USD MONCALVESE HOCKEY</strong>
+
+**Risultato: 3-8**
 
 Giornata: Gara 447
 
@@ -205,6 +209,8 @@ Geo: Geo(latitude=45.5316303, longitude=9.4158354)
 
 <strong>USD MONCALVESE HOCKEY - CUS TORINO</strong>
 
+**Risultato: 3-1**
+
 Giornata: Gara 448
 
 Campo: C.S. SEVENINFINITY 
@@ -221,6 +227,8 @@ Geo: Geo(latitude=45.5316303, longitude=9.4158354)
 ## Dom 21/12/2025 13.00 ⭐
 
 <strong>ASD HOCKEY CLUB ARGENTIA - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
+
+**Risultato: 3-3**
 
 Giornata: Gara 449
 

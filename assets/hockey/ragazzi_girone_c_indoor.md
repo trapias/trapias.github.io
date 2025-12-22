@@ -6,6 +6,8 @@
 
 <strong>HC SAVONA - GENOVA H. 1980 DRITTO</strong>
 
+**Risultato: 4-3**
+
 Giornata: Gara 280
 
 Campo: Palazinola 
@@ -21,6 +23,8 @@ Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 ## Dom 21/12/2025 10.30
 
 <strong>CUS PISA ASD - HC GENOVA</strong>
+
+**Risultato: 4-1**
 
 Giornata: Gara 281
 
@@ -38,6 +42,8 @@ Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 
 <strong>GENOVA H. 1980 ROVESCIO - GENOVA H. 1980 DRITTO</strong>
 
+**Risultato: 2-6**
+
 Giornata: Gara 282
 
 Campo: Palazinola 
@@ -54,6 +60,8 @@ Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 
 <strong>CUS PISA ASD - HC SAVONA</strong>
 
+**Risultato: 3-5**
+
 Giornata: Gara 283
 
 Campo: Palazinola 
@@ -69,6 +77,8 @@ Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 ## Dom 21/12/2025 13.30
 
 <strong>GENOVA H. 1980 ROVESCIO - HC GENOVA</strong>
+
+**Risultato: 3-1**
 
 Giornata: Gara 284
 

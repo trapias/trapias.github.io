@@ -6,6 +6,8 @@
 
 <strong>AZ HOCKEY TEAM - HOCKEY POTENZA PICENA</strong>
 
+**Risultato: 3-0**
+
 Giornata: Gara 166
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
@@ -21,6 +23,8 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 ## Dom 21/12/2025 14.30
 
 <strong>HOCKEY POTENZA PICENA - AZ HOCKEY TEAM</strong>
+
+**Risultato: 2-2**
 
 Giornata: Gara 167
 
