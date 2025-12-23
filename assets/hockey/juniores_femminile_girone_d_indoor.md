@@ -24,7 +24,7 @@ Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
 <strong>BUTTERFLY ROMA HCC - HOCKEY POTENZA PICENA</strong>
 
-**Risultato: 5-0**
+**Risultato: 6-0**
 
 Giornata: Gara 177
 
