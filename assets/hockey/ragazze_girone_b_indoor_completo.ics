@@ -2,19 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazze  - Girone B / Giornata 1\nGara 327\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD\n\nRisultato: 0-4
+DESCRIPTION:Ragazze  - Girone B / Giornata 1\nGara 329\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD ADIGE UHC - CUS PADOVA ASD\n\nRisultato: 0-4
 LOCATION: Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe
-DTSTART:20251214T100000Z
-SUMMARY:Ragazze  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
-UID:50b1ab4c-644e-4af9-b2d1-590e000bc361@50b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazze  - Girone B / Giornata 2\nGara 331\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD ADIGE UHC - CUS PADOVA ASD
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260106T113000Z
-SUMMARY:Ragazze  - Girone B / Giornata 2 - ASD ADIGE UHC - CUS PADOVA ASD
-UID:4b818b36-11ae-41b4-8ac7-fe7e04811fbb@4b81.org
+DTSTART:20251214T130000Z
+SUMMARY:Ragazze  - Girone B / Giornata 1 - ASD ADIGE UHC - CUS PADOVA ASD
+UID:5e8ae03e-87eb-42b2-9f42-e176fe3d0cbd@5e8a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze  - Girone B / Giornata 2\nGara 330\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
@@ -22,7 +14,15 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20260106T100000Z
 SUMMARY:Ragazze  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
-UID:56527a1a-71be-465f-a6e1-f3ecad041c0a@5652.org
+UID:9cb25721-02c7-4af1-a1e8-be5dd9942eae@9cb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze  - Girone B / Giornata 2\nGara 332\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260106T130000Z
+SUMMARY:Ragazze  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
+UID:caeec6a4-f532-4f11-bcd5-552af3ed3209@caee.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze  - Girone B / Giornata 2\nGara 331\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD ADIGE UHC - CUS PADOVA ASD
@@ -30,36 +30,21 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20260106T113000Z
 SUMMARY:Ragazze  - Girone B / Giornata 2 - ASD ADIGE UHC - CUS PADOVA ASD
-UID:c0528812-a947-4d61-ab4f-8d8f8b87f04c@c052.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazze  - Girone B / Giornata 2\nGara 332\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260106T130000Z
-SUMMARY:Ragazze  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
-UID:86153d19-6894-4d7f-9881-19a28b21588d@8615.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazze  - Girone B / Giornata 1\nGara 327\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD\n\nRisultato: 0-4
-LOCATION: Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe
-DTSTART:20251214T100000Z
-SUMMARY:Ragazze  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
-UID:56d4e0ca-f83b-4aa8-97ed-3132d71d9732@56d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazze  - Girone B / Giornata 1\nGara 328\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD HOCKEY CLUB BONDENO - ASD ADIGE UHC\n\nRisultato: 2-3
-LOCATION: Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe
-DTSTART:20251214T113000Z
-SUMMARY:Ragazze  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
-UID:70ef7ef4-8a87-40c5-9897-2641ce8bbdb9@70ef.org
+UID:16a057d9-fb08-46c6-9ccd-af15dedb7ddc@16a0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze  - Girone B / Giornata 1\nGara 329\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD ADIGE UHC - CUS PADOVA ASD\n\nRisultato: 0-4
 LOCATION: Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe
 DTSTART:20251214T130000Z
 SUMMARY:Ragazze  - Girone B / Giornata 1 - ASD ADIGE UHC - CUS PADOVA ASD
-UID:eff12866-696d-404f-924f-fc57f5da4f5c@eff1.org
+UID:51a4e7eb-8b43-448a-bb1b-556aceedd66f@51a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze  - Girone B / Giornata 1\nGara 327\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD\n\nRisultato: 0-4
+LOCATION: Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe
+DTSTART:20251214T100000Z
+SUMMARY:Ragazze  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
+UID:1de6d28c-1d0a-493c-8826-b4ccb970055b@1de6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze  - Girone B / Giornata 2\nGara 332\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
@@ -67,7 +52,29 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20260106T130000Z
 SUMMARY:Ragazze  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
-UID:32bd041c-6f63-426e-aeb5-a46f337ec8c3@32bd.org
+UID:0a5fa8f1-0075-47b9-ace1-33a1daa55be2@0a5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze  - Girone B / Giornata 1\nGara 328\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD HOCKEY CLUB BONDENO - ASD ADIGE UHC\n\nRisultato: 2-3
+LOCATION: Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe
+DTSTART:20251214T113000Z
+SUMMARY:Ragazze  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
+UID:2cc936dc-0101-40c3-a478-e4648cb084c7@2cc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze  - Girone B / Giornata 2\nGara 331\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD ADIGE UHC - CUS PADOVA ASD
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260106T113000Z
+SUMMARY:Ragazze  - Girone B / Giornata 2 - ASD ADIGE UHC - CUS PADOVA ASD
+UID:e3ed2402-882a-4dd4-9aa4-ddda00a1ce17@e3ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze  - Girone B / Giornata 1\nGara 327\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD\n\nRisultato: 0-4
+LOCATION: Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe
+DTSTART:20251214T100000Z
+SUMMARY:Ragazze  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
+UID:da38d147-9520-45be-ba14-924d71c7461c@da38.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze  - Girone B / Giornata 2\nGara 330\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
@@ -75,20 +82,13 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20260106T100000Z
 SUMMARY:Ragazze  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
-UID:0a1f362a-6688-4a58-bde1-fc12f4c4350b@0a1f.org
+UID:c9ec4db1-9b3a-4637-8e0d-b6ecf739271e@c9ec.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze  - Girone B / Giornata 1\nGara 328\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD HOCKEY CLUB BONDENO - ASD ADIGE UHC\n\nRisultato: 2-3
 LOCATION: Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe
 DTSTART:20251214T113000Z
 SUMMARY:Ragazze  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
-UID:90b9e55f-44c1-4289-b540-aa3f3317d6c5@90b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazze  - Girone B / Giornata 1\nGara 329\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD ADIGE UHC - CUS PADOVA ASD\n\nRisultato: 0-4
-LOCATION: Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe
-DTSTART:20251214T130000Z
-SUMMARY:Ragazze  - Girone B / Giornata 1 - ASD ADIGE UHC - CUS PADOVA ASD
-UID:5e8bbfd6-6469-4f9b-a439-67d853be27a9@5e8b.org
+UID:bdfa27c7-f79a-4bcd-a505-48c45a431ec9@bdfa.org
 END:VEVENT
 END:VCALENDAR
