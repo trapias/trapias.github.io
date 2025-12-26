@@ -2,28 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 2\nGara 556\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nHC PISTOIA FRANJO - ASD SUPERBA HC\n\nRisultato: 0-8
-GEO:43.944387;10.929450
-LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
-DTSTART:20251214T090000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 2 - HC PISTOIA FRANJO - ASD SUPERBA HC
-UID:869df810-c425-4066-b70c-c3842d59cbba@869d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 3\nGara 563\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nGENOVA H. 1980 - HC PISTOIA FRANJO
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260118T093000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 3 - GENOVA H. 1980 - HC PISTOIA FRANJO
-UID:271afe52-d63d-4b93-bb41-67e6b44734a6@271a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone C / Giornata 2\nGara 561\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nHC PISTOIA FRANJO - HC GENOVA\n\nRisultato: 5-4
 GEO:43.944387;10.929450
 LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
 DTSTART:20251214T140000Z
 SUMMARY:Juniores Maschile  - Girone C / Giornata 2 - HC PISTOIA FRANJO - HC GENOVA
-UID:005ecd5e-b73d-42af-9e55-7bebdf0510c0@005e.org
+UID:6f30d350-4425-4909-9d1a-72c378862516@6f30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 1\nGara 553\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC PISTOIA FRANJO - CUS PISA ASD\n\nRisultato: 2-10
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251208T140000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 1 - HC PISTOIA FRANJO - CUS PISA ASD
+UID:ebe678a1-ed91-4258-ba9f-3809bfc82690@ebe6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 2\nGara 556\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nHC PISTOIA FRANJO - ASD SUPERBA HC\n\nRisultato: 0-8
+GEO:43.944387;10.929450
+LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
+DTSTART:20251214T090000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 2 - HC PISTOIA FRANJO - ASD SUPERBA HC
+UID:b2564db3-935f-4162-8258-0910568c3644@b256.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone C / Giornata 1\nGara 550\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC SAVONA - HC PISTOIA FRANJO\n\nRisultato: 10-1
@@ -31,7 +31,15 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251208T110000Z
 SUMMARY:Juniores Maschile  - Girone C / Giornata 1 - HC SAVONA - HC PISTOIA FRANJO
-UID:1a6bab53-f47b-49cb-aa8c-d5e84f199cee@1a6b.org
+UID:a9a80d5d-cb1c-41ef-941e-e44f7b01c653@a9a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 3\nGara 568\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC PISTOIA FRANJO - GENOVA H. 1980 U18
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260118T143000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 3 - HC PISTOIA FRANJO - GENOVA H. 1980 U18
+UID:e1a99f84-1009-434e-b426-7892eaa5cc3b@e1a9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone C / Giornata 3\nGara 563\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nGENOVA H. 1980 - HC PISTOIA FRANJO
@@ -39,47 +47,7 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260118T093000Z
 SUMMARY:Juniores Maschile  - Girone C / Giornata 3 - GENOVA H. 1980 - HC PISTOIA FRANJO
-UID:11dd3905-5949-4577-801c-c13475db0877@11dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 2\nGara 556\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nHC PISTOIA FRANJO - ASD SUPERBA HC\n\nRisultato: 0-8
-GEO:43.944387;10.929450
-LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
-DTSTART:20251214T090000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 2 - HC PISTOIA FRANJO - ASD SUPERBA HC
-UID:4fb2ba59-6ea7-4d51-9a6e-608986a5411a@4fb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 1\nGara 553\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC PISTOIA FRANJO - CUS PISA ASD\n\nRisultato: 2-10
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251208T140000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 1 - HC PISTOIA FRANJO - CUS PISA ASD
-UID:f1def279-68c6-4187-a588-fa5d11ee4f49@f1de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 3\nGara 568\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC PISTOIA FRANJO - GENOVA H. 1980 U18
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260118T143000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 3 - HC PISTOIA FRANJO - GENOVA H. 1980 U18
-UID:887beb75-bf87-4d1b-90b6-c5d4547dcb4c@887b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 3\nGara 568\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC PISTOIA FRANJO - GENOVA H. 1980 U18
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260118T143000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 3 - HC PISTOIA FRANJO - GENOVA H. 1980 U18
-UID:1c800e1e-5bc1-4d06-9911-5108913fcde1@1c80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 1\nGara 553\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC PISTOIA FRANJO - CUS PISA ASD\n\nRisultato: 2-10
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251208T140000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 1 - HC PISTOIA FRANJO - CUS PISA ASD
-UID:0441e3e1-9839-40b6-909b-e140df9b70e4@0441.org
+UID:ea305fec-b4fe-47dd-b74e-28abd66ada26@ea30.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone C / Giornata 2\nGara 561\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nHC PISTOIA FRANJO - HC GENOVA\n\nRisultato: 5-4
@@ -87,6 +55,38 @@ GEO:43.944387;10.929450
 LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
 DTSTART:20251214T140000Z
 SUMMARY:Juniores Maschile  - Girone C / Giornata 2 - HC PISTOIA FRANJO - HC GENOVA
-UID:fea34deb-e48e-4b3e-ab25-8640510bf08e@fea3.org
+UID:0ebcfe7b-a733-4af0-87a0-105af083ce6a@0ebc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 2\nGara 556\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nHC PISTOIA FRANJO - ASD SUPERBA HC\n\nRisultato: 0-8
+GEO:43.944387;10.929450
+LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
+DTSTART:20251214T090000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 2 - HC PISTOIA FRANJO - ASD SUPERBA HC
+UID:892c7435-a6ab-4636-8998-6d66c013a1f9@892c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 1\nGara 553\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC PISTOIA FRANJO - CUS PISA ASD\n\nRisultato: 2-10
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251208T140000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 1 - HC PISTOIA FRANJO - CUS PISA ASD
+UID:f49132ad-b49d-49f5-a735-becf2d968d44@f491.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 3\nGara 563\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nGENOVA H. 1980 - HC PISTOIA FRANJO
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260118T093000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 3 - GENOVA H. 1980 - HC PISTOIA FRANJO
+UID:76cfd691-166f-4c44-b289-c77a700325b3@76cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 3\nGara 568\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC PISTOIA FRANJO - GENOVA H. 1980 U18
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260118T143000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 3 - HC PISTOIA FRANJO - GENOVA H. 1980 U18
+UID:7be3c0da-0be1-4e4d-8d80-aba2a53e564e@7be3.org
 END:VEVENT
 END:VCALENDAR
