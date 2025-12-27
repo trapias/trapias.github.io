@@ -2,12 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 2\nGara 14\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nMILANO HP - ASD HF LORENZONI\n\nRisultato: 2-2
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 2\nGara 16\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nASD HF LORENZONI - S.G. AMSICORA ASD\n\nRisultato: 1-1
 GEO:39.203688;9.134426
 LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251207T110000Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 2 - MILANO HP - ASD HF LORENZONI
-UID:8d926473-b36f-4e82-a1fa-65fd6c5c37a3@8d92.org
+DTSTART:20251207T130000Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 2 - ASD HF LORENZONI - S.G. AMSICORA ASD
+UID:4edd7d8d-8e05-47af-a895-e4a7e0bc3836@4edd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 3\nGara 4\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD HF LORENZONI - CUS TORINO\n\nRisultato: 2-7
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20251214T124500Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 3 - ASD HF LORENZONI - CUS TORINO
+UID:16e7dee3-6ae8-4d70-90e8-60e55ee4ca6e@16e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 4\nGara 20\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nASD HF LORENZONI - MILANO HP
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20260111T110000Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 4 - ASD HF LORENZONI - MILANO HP
+UID:ea13222c-76d7-4f1c-bf93-347f87423441@ea13.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 4\nGara 22\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nASD HF LORENZONI - HOCKEY CLUB RIVA
@@ -15,84 +30,7 @@ GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
 DTSTART:20260111T130000Z
 SUMMARY:Serie A Elite Femminile - Indoor / Giornata 4 - ASD HF LORENZONI - HOCKEY CLUB RIVA
-UID:92da2936-16c3-4b8b-acbb-480bb4be0c32@92da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 3\nGara 4\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD HF LORENZONI - CUS TORINO\n\nRisultato: 2-7
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251214T124500Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 3 - ASD HF LORENZONI - CUS TORINO
-UID:d43dac61-d13a-446e-87fb-c485279ce37b@d43d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 5\nGara 28\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nASD HF LORENZONI - CUS PADOVA ASD
-GEO:44.699151;7.841970
-LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260125T130000Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 5 - ASD HF LORENZONI - CUS PADOVA ASD
-UID:23bbf400-d14d-4085-b807-cee4696b8b07@23bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 2\nGara 14\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nMILANO HP - ASD HF LORENZONI\n\nRisultato: 2-2
-GEO:39.203688;9.134426
-LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251207T110000Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 2 - MILANO HP - ASD HF LORENZONI
-UID:5d44d71c-20cd-4d44-be26-1fe95f32bd6d@5d44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 5\nGara 25\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nCUS TORINO - ASD HF LORENZONI
-GEO:44.699151;7.841970
-LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260125T100000Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 5 - CUS TORINO - ASD HF LORENZONI
-UID:53082ccc-fffc-4d34-92de-8e8001924ef6@5308.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 3\nGara 4\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD HF LORENZONI - CUS TORINO\n\nRisultato: 2-7
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251214T124500Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 3 - ASD HF LORENZONI - CUS TORINO
-UID:4e4e4718-9056-41c1-9986-408f747de5eb@4e4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 3\nGara 2\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHOCKEY CLUB RIVA - ASD HF LORENZONI\n\nRisultato: 5-4
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251214T104500Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 3 - HOCKEY CLUB RIVA - ASD HF LORENZONI
-UID:21759641-5a59-4311-85b6-91bcd664bd1b@2175.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 4\nGara 20\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nASD HF LORENZONI - MILANO HP
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20260111T110000Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 4 - ASD HF LORENZONI - MILANO HP
-UID:1983ae35-d0dd-44c4-92b0-6fcde2d3ef86@1983.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 2\nGara 16\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nASD HF LORENZONI - S.G. AMSICORA ASD\n\nRisultato: 1-1
-GEO:39.203688;9.134426
-LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251207T130000Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 2 - ASD HF LORENZONI - S.G. AMSICORA ASD
-UID:16e04d65-d546-4de2-b448-d62f88e1a544@16e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 5\nGara 28\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nASD HF LORENZONI - CUS PADOVA ASD
-GEO:44.699151;7.841970
-LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260125T130000Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 5 - ASD HF LORENZONI - CUS PADOVA ASD
-UID:a2895308-ac13-4c9b-a614-f3b1b2cd395e@a289.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 4\nGara 20\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nASD HF LORENZONI - MILANO HP
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20260111T110000Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 4 - ASD HF LORENZONI - MILANO HP
-UID:3083c5d6-b326-435a-bcc0-455669464fdf@3083.org
+UID:353e3e9b-6f52-4f96-b18e-cff94ca1a509@353e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 1\nGara 7\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nS.G. AMSICORA ASD - ASD HF LORENZONI\n\nRisultato: 1-3
@@ -100,7 +38,7 @@ GEO:45.016586;7.656535
 LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
 DTSTART:20251130T100000Z
 SUMMARY:Serie A Elite Femminile - Indoor / Giornata 1 - S.G. AMSICORA ASD - ASD HF LORENZONI
-UID:5db38cbd-580c-4975-87e1-27fb44cd5f3e@5db3.org
+UID:982b2c3e-6d93-4a0e-8b67-d548231cd028@982b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 4\nGara 22\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nASD HF LORENZONI - HOCKEY CLUB RIVA
@@ -108,15 +46,7 @@ GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
 DTSTART:20260111T130000Z
 SUMMARY:Serie A Elite Femminile - Indoor / Giornata 4 - ASD HF LORENZONI - HOCKEY CLUB RIVA
-UID:4a84cc67-8ecb-44a7-97e4-b9553e74c8d0@4a84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 5\nGara 25\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nCUS TORINO - ASD HF LORENZONI
-GEO:44.699151;7.841970
-LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260125T100000Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 5 - CUS TORINO - ASD HF LORENZONI
-UID:7a1b7d88-840f-49b9-887a-eae1851e9ba0@7a1b.org
+UID:20bb3b23-4efd-4ccb-9270-9521d2e73017@20bb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 2\nGara 16\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nASD HF LORENZONI - S.G. AMSICORA ASD\n\nRisultato: 1-1
@@ -124,14 +54,60 @@ GEO:39.203688;9.134426
 LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251207T130000Z
 SUMMARY:Serie A Elite Femminile - Indoor / Giornata 2 - ASD HF LORENZONI - S.G. AMSICORA ASD
-UID:3d70efc7-8363-46b4-b1e1-28cb0608cb10@3d70.org
+UID:b0cf5aed-2055-4713-9f08-2aa42c388447@b0cf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 3\nGara 2\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHOCKEY CLUB RIVA - ASD HF LORENZONI\n\nRisultato: 5-4
 LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
 DTSTART:20251214T104500Z
 SUMMARY:Serie A Elite Femminile - Indoor / Giornata 3 - HOCKEY CLUB RIVA - ASD HF LORENZONI
-UID:6c67326d-dfaa-4ccc-af08-3f9bcc5e9e4a@6c67.org
+UID:9d386f0a-6958-4a06-9813-93c9f518446d@9d38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 2\nGara 14\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nMILANO HP - ASD HF LORENZONI\n\nRisultato: 2-2
+GEO:39.203688;9.134426
+LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20251207T110000Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 2 - MILANO HP - ASD HF LORENZONI
+UID:77fdd8fc-a770-476a-8dec-d947852823ef@77fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 5\nGara 28\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nASD HF LORENZONI - CUS PADOVA ASD
+GEO:44.699151;7.841970
+LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260125T130000Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 5 - ASD HF LORENZONI - CUS PADOVA ASD
+UID:7f3ae505-419f-44fe-9396-88b61c265b39@7f3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 3\nGara 4\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD HF LORENZONI - CUS TORINO\n\nRisultato: 2-7
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20251214T124500Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 3 - ASD HF LORENZONI - CUS TORINO
+UID:9df414a4-9677-482e-9565-8887767092ce@9df4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 5\nGara 25\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nCUS TORINO - ASD HF LORENZONI
+GEO:44.699151;7.841970
+LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260125T100000Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 5 - CUS TORINO - ASD HF LORENZONI
+UID:fd0163e0-c905-467b-a324-bff87ac581b9@fd01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 5\nGara 25\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nCUS TORINO - ASD HF LORENZONI
+GEO:44.699151;7.841970
+LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260125T100000Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 5 - CUS TORINO - ASD HF LORENZONI
+UID:60790fbc-5795-4cc8-8282-eedce84fdca8@6079.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 3\nGara 2\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHOCKEY CLUB RIVA - ASD HF LORENZONI\n\nRisultato: 5-4
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20251214T104500Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 3 - HOCKEY CLUB RIVA - ASD HF LORENZONI
+UID:64ee1407-dde1-421d-8328-6001d50fafa0@64ee.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 1\nGara 10\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nCUS PADOVA ASD - ASD HF LORENZONI\n\nRisultato: 2-5
@@ -139,7 +115,23 @@ GEO:45.016586;7.656535
 LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
 DTSTART:20251130T130000Z
 SUMMARY:Serie A Elite Femminile - Indoor / Giornata 1 - CUS PADOVA ASD - ASD HF LORENZONI
-UID:be1b1edd-25d7-4942-b587-1ef934acfe48@be1b.org
+UID:e3684f7a-fa59-44a1-a759-1131fb77ea67@e368.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 5\nGara 28\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nASD HF LORENZONI - CUS PADOVA ASD
+GEO:44.699151;7.841970
+LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260125T130000Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 5 - ASD HF LORENZONI - CUS PADOVA ASD
+UID:c519c24b-6ad1-4f2e-b642-6c08c5f61cf2@c519.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 4\nGara 20\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nASD HF LORENZONI - MILANO HP
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20260111T110000Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 4 - ASD HF LORENZONI - MILANO HP
+UID:2a3db807-624d-4d69-8d3b-782644eeb6c8@2a3d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 1\nGara 10\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nCUS PADOVA ASD - ASD HF LORENZONI\n\nRisultato: 2-5
@@ -147,6 +139,14 @@ GEO:45.016586;7.656535
 LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
 DTSTART:20251130T130000Z
 SUMMARY:Serie A Elite Femminile - Indoor / Giornata 1 - CUS PADOVA ASD - ASD HF LORENZONI
-UID:14584207-1f5b-4c81-b7da-4b879b960987@1458.org
+UID:ea623ae0-b8f1-462c-8bcb-aad7865ba48d@ea62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 2\nGara 14\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nMILANO HP - ASD HF LORENZONI\n\nRisultato: 2-2
+GEO:39.203688;9.134426
+LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20251207T110000Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 2 - MILANO HP - ASD HF LORENZONI
+UID:54d69445-d7e6-409a-af7b-9a39fc46c658@54d6.org
 END:VEVENT
 END:VCALENDAR

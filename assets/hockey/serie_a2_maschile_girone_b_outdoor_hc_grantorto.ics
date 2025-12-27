@@ -2,12 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 839\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nPOL GALATEA - HC GRANTORTO
-GEO:37.529426;15.096557
-LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
-DTSTART:20260516T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9 - POL GALATEA - HC GRANTORTO
-UID:339b2c27-a6bf-4e43-b5c4-ae457a314644@339b.org
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 835\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - HC GRANTORTO
+LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
+DTSTART:20260509T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 8 - HC VILLAFRANCA - HC GRANTORTO
+UID:cc20ed73-6b16-4733-9a2f-fd4f95f4c918@cc20.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 824\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - POL GALATEA
@@ -15,7 +14,46 @@ GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20260411T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4 - HC GRANTORTO - POL GALATEA
-UID:6368a7da-43b4-4fe0-87f8-16a7242f39a7@6368.org
+UID:e26f1ba3-51aa-482b-ab99-8b7eb3162fa0@e26f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 831\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - CERNUSCO FH
+GEO:45.601581;11.733989
+LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20260425T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 6 - HC GRANTORTO - CERNUSCO FH
+UID:74606e34-925d-42fc-a7bf-50abf34eeddb@7460.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 824\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - POL GALATEA
+GEO:45.601581;11.733989
+LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20260411T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4 - HC GRANTORTO - POL GALATEA
+UID:28950c4a-6505-44c9-bfcb-6d2122af6a5c@2895.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 828\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - HC GRANTORTO
+LOCATION: Via Marrani\, snc Torre Santa Susanna
+DTSTART:20260418T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 5 - HC OLIMPIA - HC GRANTORTO
+UID:b08b1ffc-658f-446b-9245-6ae9ccd1f584@b08b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 839\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nPOL GALATEA - HC GRANTORTO
+GEO:37.529426;15.096557
+LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
+DTSTART:20260516T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9 - POL GALATEA - HC GRANTORTO
+UID:42a3809e-5cd9-4cc1-9879-d931acf5a592@42a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 820\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - HC VILLAFRANCA
+GEO:45.601581;11.733989
+LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20260328T140000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 3 - HC GRANTORTO - HC VILLAFRANCA
+UID:f1f76e74-fef7-4ffc-af16-0616a5e72799@f1f7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 834\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - HC RIVA
@@ -23,22 +61,15 @@ GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20260502T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 7 - HC GRANTORTO - HC RIVA
-UID:f8f34307-3344-47f8-849f-1f8c877bff79@f8f3.org
+UID:9727c472-21ec-459c-a360-11a2038f283b@9727.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 828\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - HC GRANTORTO
-LOCATION: Via Marrani\, snc Torre Santa Susanna
-DTSTART:20260418T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 5 - HC OLIMPIA - HC GRANTORTO
-UID:6120e6c2-363f-451d-9bdd-115f7038b839@6120.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 824\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - POL GALATEA
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 834\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - HC RIVA
 GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20260411T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4 - HC GRANTORTO - POL GALATEA
-UID:5f31bfeb-5b71-47e1-8fa9-9148977cc3a3@5f31.org
+DTSTART:20260502T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 7 - HC GRANTORTO - HC RIVA
+UID:a828bfa8-9834-41c6-85dc-03c469758420@a828.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 831\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - CERNUSCO FH
@@ -46,7 +77,7 @@ GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20260425T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 6 - HC GRANTORTO - CERNUSCO FH
-UID:bbfe934b-3fda-4673-b2e7-c043a3c0f6f8@bbfe.org
+UID:bf385d9b-c779-40fa-8516-7f7e1a8e5816@bf38.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 819\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - HC GRANTORTO
@@ -54,60 +85,7 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260321T150000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2 - HC RIVA - HC GRANTORTO
-UID:3f5e8c92-bd62-4ed2-b90b-4cae6e1bdd13@3f5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 835\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - HC GRANTORTO
-LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
-DTSTART:20260509T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 8 - HC VILLAFRANCA - HC GRANTORTO
-UID:5a9c7715-b9b9-40a8-9859-9a722df9269f@5a9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 820\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - HC VILLAFRANCA
-GEO:45.601581;11.733989
-LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20260328T140000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 3 - HC GRANTORTO - HC VILLAFRANCA
-UID:802a89fd-6719-4d4d-af8c-6fb63b671db9@802a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 839\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nPOL GALATEA - HC GRANTORTO
-GEO:37.529426;15.096557
-LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
-DTSTART:20260516T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9 - POL GALATEA - HC GRANTORTO
-UID:89ead958-c4e4-41ce-bf76-290c945247b5@89ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 828\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - HC GRANTORTO
-LOCATION: Via Marrani\, snc Torre Santa Susanna
-DTSTART:20260418T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 5 - HC OLIMPIA - HC GRANTORTO
-UID:93ee781c-7612-47f1-ab7a-6ee0122f3b3c@93ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 820\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - HC VILLAFRANCA
-GEO:45.601581;11.733989
-LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20260328T140000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 3 - HC GRANTORTO - HC VILLAFRANCA
-UID:63e4f813-4b7b-47d6-a38c-57391268df99@63e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 835\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - HC GRANTORTO
-LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
-DTSTART:20260509T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 8 - HC VILLAFRANCA - HC GRANTORTO
-UID:1d3f9474-cb31-4789-bb82-4b8f7ce805dc@1d3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 819\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - HC GRANTORTO
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260321T150000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2 - HC RIVA - HC GRANTORTO
-UID:2423f7b2-da69-4052-8cef-483483e7b5d7@2423.org
+UID:07192bf7-d980-4639-a5f9-ff0940bde1da@0719.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 843\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - HC OLIMPIA
@@ -115,15 +93,14 @@ GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20260523T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 10 - HC GRANTORTO - HC OLIMPIA
-UID:7bdf76ba-55fa-4c80-9199-6c00ff89d514@7bdf.org
+UID:e8636358-4ad8-4838-9910-b8507eb23a18@e863.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 831\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - CERNUSCO FH
-GEO:45.601581;11.733989
-LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20260425T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 6 - HC GRANTORTO - CERNUSCO FH
-UID:2c0c40c6-775a-4f62-85d0-c360c8c1c277@2c0c.org
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 835\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - HC GRANTORTO
+LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
+DTSTART:20260509T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 8 - HC VILLAFRANCA - HC GRANTORTO
+UID:9c0887e9-26e6-4e18-aaf7-aa3bfe9f406a@9c08.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 816\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nCERNUSCO FH - HC GRANTORTO
@@ -131,7 +108,30 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20260314T140000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 1 - CERNUSCO FH - HC GRANTORTO
-UID:812594da-b7fc-421e-a4fc-021b10b75f3c@8125.org
+UID:86fa285e-d7b4-46f5-8200-25456ce0e0bf@86fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 820\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - HC VILLAFRANCA
+GEO:45.601581;11.733989
+LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20260328T140000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 3 - HC GRANTORTO - HC VILLAFRANCA
+UID:9e2cd85b-276f-4caf-8a9c-6927153053d3@9e2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 819\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - HC GRANTORTO
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260321T150000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2 - HC RIVA - HC GRANTORTO
+UID:1e20e0e4-1fc4-4737-89a1-8e12e3fc0453@1e20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 828\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - HC GRANTORTO
+LOCATION: Via Marrani\, snc Torre Santa Susanna
+DTSTART:20260418T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 5 - HC OLIMPIA - HC GRANTORTO
+UID:20bd61c8-711b-4718-9b7c-49845d1d94f9@20bd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 843\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - HC OLIMPIA
@@ -139,14 +139,14 @@ GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20260523T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 10 - HC GRANTORTO - HC OLIMPIA
-UID:bc5cd8d1-1e6c-400e-a272-3e1b86cbba77@bc5c.org
+UID:67e9c40c-fc6a-4924-8c75-6a90f2600f17@67e9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 834\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - HC RIVA
-GEO:45.601581;11.733989
-LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20260502T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 7 - HC GRANTORTO - HC RIVA
-UID:89f019a7-c4f5-477d-9b88-39fcf8529bf0@89f0.org
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 839\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nPOL GALATEA - HC GRANTORTO
+GEO:37.529426;15.096557
+LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
+DTSTART:20260516T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9 - POL GALATEA - HC GRANTORTO
+UID:577bdd6c-8458-4799-8265-c491d82e4cee@577b.org
 END:VEVENT
 END:VCALENDAR

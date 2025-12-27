@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 14\nGara 947\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - HT FEMM BOLOGNA
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 7\nGara 919\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT FEMM BOLOGNA - BUTTERFLY ROMA
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20260426T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 7 - HT FEMM BOLOGNA - BUTTERFLY ROMA
+UID:6f41c18b-7033-4895-908e-108f8f887cb7@6f41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 3\nGara 903\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - UH CAPITOLINA
 GEO:41.932122;12.486847
 LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260621T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 14 - BUTTERFLY ROMA - HT FEMM BOLOGNA
-UID:e8c1201a-7a41-4e72-9f86-34416c5d9773@e8c1.org
+DTSTART:20260328T123000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 3 - BUTTERFLY ROMA - UH CAPITOLINA
+UID:b4b0ea02-7372-4d90-b02d-cbce34e5f6f2@b4b0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 13\nGara 942\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - BUTTERFLY ROMA
@@ -15,47 +23,31 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20260614T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 13 - MILANO HP - BUTTERFLY ROMA
-UID:d44846b5-0fd5-4c20-9f7b-c22534005454@d448.org
+UID:c6ccfabb-8294-4ab6-a877-50a199752471@c6cc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 7\nGara 919\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT FEMM BOLOGNA - BUTTERFLY ROMA
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20260426T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 7 - HT FEMM BOLOGNA - BUTTERFLY ROMA
-UID:eba10609-dd86-40fa-ad60-e6b9f41b7d8f@eba1.org
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 10\nGara 931\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - BUTTERFLY ROMA
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260517T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 10 - UH CAPITOLINA - BUTTERFLY ROMA
+UID:b14115a6-75d0-465b-b5af-d6b6a2cd0cc8@b141.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 8\nGara 920\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - SG AMSICORA
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 9\nGara 927\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - HF LORENZONI
 GEO:41.932122;12.486847
 LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260503T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 8 - BUTTERFLY ROMA - SG AMSICORA
-UID:d119e1fc-a47e-459e-b9fc-927a24b23da1@d119.org
+DTSTART:20260510T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 9 - BUTTERFLY ROMA - HF LORENZONI
+UID:aac69c18-5cf1-4031-866c-023b635a31b4@aac6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 3\nGara 903\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - UH CAPITOLINA
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260328T123000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 3 - BUTTERFLY ROMA - UH CAPITOLINA
-UID:36c34ece-b8fc-4a32-9512-ed2a40216152@36c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 11\nGara 935\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - BUTTERFLY ROMA
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20260531T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 11 - LAZIO HOCKEY - BUTTERFLY ROMA
-UID:e768d404-fbbe-4fe1-aa77-a37a6e44d223@e768.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 14\nGara 947\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - HT FEMM BOLOGNA
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260621T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 14 - BUTTERFLY ROMA - HT FEMM BOLOGNA
-UID:6bf0ff7f-d441-4676-a5d4-ac716732de1a@6bf0.org
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 13\nGara 942\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - BUTTERFLY ROMA
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260614T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 13 - MILANO HP - BUTTERFLY ROMA
+UID:58c68cf1-95f4-4cf9-aca9-0e1a5fa983c7@58c6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 2\nGara 899\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - BUTTERFLY ROMA
@@ -63,7 +55,15 @@ GEO:44.703194;7.836697
 LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260322T140000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 2 - HF LORENZONI - BUTTERFLY ROMA
-UID:076cb778-b737-4e30-bca9-4a3b1b9f0322@076c.org
+UID:3fd9247a-f6af-4972-931d-243495814d75@3fd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 2\nGara 899\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - BUTTERFLY ROMA
+GEO:44.703194;7.836697
+LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260322T140000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 2 - HF LORENZONI - BUTTERFLY ROMA
+UID:d3a65e39-a311-4397-b922-af8d3f790a18@d3a6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 4\nGara 907\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - LAZIO HOCKEY
@@ -71,23 +71,15 @@ GEO:41.932122;12.486847
 LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
 DTSTART:20260329T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 4 - BUTTERFLY ROMA - LAZIO HOCKEY
-UID:3fd5fae9-6563-49cf-b2b2-1879c28dbe8e@3fd5.org
+UID:01ab4cfc-b37f-4499-b182-b0c1267aef36@01ab.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 5\nGara 909\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - BUTTERFLY ROMA
-GEO:45.033509;7.633384
-LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20260412T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 5 - CUS TORINO - BUTTERFLY ROMA
-UID:1291cf20-fa7b-4563-897f-45956d6f9fd0@1291.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 5\nGara 909\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - BUTTERFLY ROMA
-GEO:45.033509;7.633384
-LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20260412T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 5 - CUS TORINO - BUTTERFLY ROMA
-UID:778f246e-8cd9-4821-b699-05aa6ddd35fa@778f.org
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 8\nGara 920\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - SG AMSICORA
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260503T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 8 - BUTTERFLY ROMA - SG AMSICORA
+UID:62e283d4-654c-4ea3-abb7-fdcb805fea31@62e2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 3\nGara 903\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - UH CAPITOLINA
@@ -95,7 +87,79 @@ GEO:41.932122;12.486847
 LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
 DTSTART:20260328T123000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 3 - BUTTERFLY ROMA - UH CAPITOLINA
-UID:e927e6e6-9748-4f69-bab8-89474e063816@e927.org
+UID:9cc9cb14-357b-4248-b848-c25e8165b5b7@9cc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 5\nGara 909\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - BUTTERFLY ROMA
+GEO:45.033509;7.633384
+LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
+DTSTART:20260412T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 5 - CUS TORINO - BUTTERFLY ROMA
+UID:59b9f19b-7717-4e5e-86e3-ab2b054cb52f@59b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 7\nGara 919\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT FEMM BOLOGNA - BUTTERFLY ROMA
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20260426T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 7 - HT FEMM BOLOGNA - BUTTERFLY ROMA
+UID:fafd6ab8-e5ff-43b8-b679-8f6170d41faa@fafd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 11\nGara 935\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - BUTTERFLY ROMA
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20260531T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 11 - LAZIO HOCKEY - BUTTERFLY ROMA
+UID:2c164f36-1d48-4402-99bc-eee4915f3510@2c16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 11\nGara 935\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - BUTTERFLY ROMA
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20260531T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 11 - LAZIO HOCKEY - BUTTERFLY ROMA
+UID:64d0297d-52c0-44e7-b3c4-90274013bf15@64d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 14\nGara 947\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - HT FEMM BOLOGNA
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260621T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 14 - BUTTERFLY ROMA - HT FEMM BOLOGNA
+UID:fa63a6f9-6e04-47ef-b8f2-05611af10207@fa63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 5\nGara 909\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - BUTTERFLY ROMA
+GEO:45.033509;7.633384
+LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
+DTSTART:20260412T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 5 - CUS TORINO - BUTTERFLY ROMA
+UID:0a740622-b7f5-4929-a13e-62d5e23366ec@0a74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 6\nGara 914\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - MILANO HP
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260419T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 6 - BUTTERFLY ROMA - MILANO HP
+UID:811769d6-57cc-47bf-bf63-c444db09cac7@8117.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 6\nGara 914\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - MILANO HP
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260419T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 6 - BUTTERFLY ROMA - MILANO HP
+UID:db2f3bfa-a4fd-433c-af04-049b64b4963b@db2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 9\nGara 927\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - HF LORENZONI
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260510T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 9 - BUTTERFLY ROMA - HF LORENZONI
+UID:d0581dc4-cda9-44ac-a9c0-32861f8e7c3b@d058.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 1\nGara 892\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - BUTTERFLY ROMA
@@ -103,7 +167,7 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20260315T140000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 1 - SG AMSICORA - BUTTERFLY ROMA
-UID:d6037608-65e4-403d-821e-fca4b167e544@d603.org
+UID:7f6adffb-4b9a-4cac-864a-90b42ff82f9e@7f6a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 10\nGara 931\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - BUTTERFLY ROMA
@@ -111,95 +175,7 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20260517T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 10 - UH CAPITOLINA - BUTTERFLY ROMA
-UID:cd96a739-97f4-437c-9a85-740508b2cad8@cd96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 6\nGara 914\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - MILANO HP
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260419T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 6 - BUTTERFLY ROMA - MILANO HP
-UID:7779c7d1-13b6-4c4a-879a-bebaaf0a6a29@7779.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 10\nGara 931\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - BUTTERFLY ROMA
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260517T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 10 - UH CAPITOLINA - BUTTERFLY ROMA
-UID:37c15e0c-b4b0-41f5-8da2-abd635c63139@37c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 11\nGara 935\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - BUTTERFLY ROMA
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20260531T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 11 - LAZIO HOCKEY - BUTTERFLY ROMA
-UID:f536ac1d-931d-493f-9ce8-3336c1315353@f536.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 2\nGara 899\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - BUTTERFLY ROMA
-GEO:44.703194;7.836697
-LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260322T140000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 2 - HF LORENZONI - BUTTERFLY ROMA
-UID:09e0484d-132a-42c2-957c-760bff38d7e3@09e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 8\nGara 920\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - SG AMSICORA
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260503T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 8 - BUTTERFLY ROMA - SG AMSICORA
-UID:26d2a3a3-f3ae-470e-9c04-0421a39e00c3@26d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 9\nGara 927\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - HF LORENZONI
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260510T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 9 - BUTTERFLY ROMA - HF LORENZONI
-UID:aa5abb49-0669-4bcc-a907-64fe49697d4a@aa5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 9\nGara 927\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - HF LORENZONI
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260510T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 9 - BUTTERFLY ROMA - HF LORENZONI
-UID:5ad8bba7-cfd8-492f-8840-c80e67c6b07d@5ad8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 12\nGara 937\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - CUS TORINO
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260607T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 12 - BUTTERFLY ROMA - CUS TORINO
-UID:72ef2859-19fd-4db7-a59f-6762ad775b52@72ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 6\nGara 914\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - MILANO HP
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260419T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 6 - BUTTERFLY ROMA - MILANO HP
-UID:33d380e4-2cc9-4abc-bee3-e6797157daf1@33d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 12\nGara 937\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - CUS TORINO
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260607T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 12 - BUTTERFLY ROMA - CUS TORINO
-UID:0de8a1b6-b6e8-4fc3-b77c-3211171d2bb9@0de8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 7\nGara 919\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT FEMM BOLOGNA - BUTTERFLY ROMA
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20260426T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 7 - HT FEMM BOLOGNA - BUTTERFLY ROMA
-UID:05d9e52e-33c4-46ab-b676-2ca0fde9b19d@05d9.org
+UID:5ef1a468-def9-4833-b54e-ba213aa19621@5ef1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 4\nGara 907\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - LAZIO HOCKEY
@@ -207,14 +183,38 @@ GEO:41.932122;12.486847
 LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
 DTSTART:20260329T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 4 - BUTTERFLY ROMA - LAZIO HOCKEY
-UID:cb18f4b8-7b35-44df-b05f-facb9c282688@cb18.org
+UID:51433df6-1f54-46cc-b95e-4e9047df2e5a@5143.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 13\nGara 942\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - BUTTERFLY ROMA
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260614T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 13 - MILANO HP - BUTTERFLY ROMA
-UID:d0a60432-4af5-4320-ad56-e5b4a0f44d84@d0a6.org
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 12\nGara 937\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - CUS TORINO
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260607T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 12 - BUTTERFLY ROMA - CUS TORINO
+UID:4e8509e1-94e9-4da6-a8df-e18fb8521bdb@4e85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 8\nGara 920\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - SG AMSICORA
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260503T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 8 - BUTTERFLY ROMA - SG AMSICORA
+UID:12e9b85e-62a0-4982-b802-2d7e63c7fd1c@12e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 14\nGara 947\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - HT FEMM BOLOGNA
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260621T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 14 - BUTTERFLY ROMA - HT FEMM BOLOGNA
+UID:a595cf6b-61db-42fe-8408-12eba6301487@a595.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 12\nGara 937\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - CUS TORINO
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260607T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 12 - BUTTERFLY ROMA - CUS TORINO
+UID:0c0cfd2c-f30e-4c33-ae06-5e1ed7c2b15b@0c0c.org
 END:VEVENT
 END:VCALENDAR
