@@ -2,19 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 47\nPALA NEBIOLO - Via Umberto Fiore\,  Messina\nA.S.D. S.H. PAOLO BONOMI - CSP SAN GIORGIO\n\nRisultato: 4-3
-GEO:38.224983;15.556263
-LOCATION:Via Umberto Fiore\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
-DTSTART:20251213T140000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - A.S.D. S.H. PAOLO BONOMI - CSP SAN GIORGIO
-UID:9d4aa875-176d-4e92-9c27-571c6e02dae4@9d4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 4\nGara 41\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHOCKEY CLUB RIVA - CSP SAN GIORGIO
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 4\nGara 39\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCSP SAN GIORGIO - LAZIO HOCKEY
 LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20260117T140000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 4 - HOCKEY CLUB RIVA - CSP SAN GIORGIO
-UID:a5ea53ec-f492-4046-bb0e-d468674c9b09@a5ea.org
+DTSTART:20260117T120000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 4 - CSP SAN GIORGIO - LAZIO HOCKEY
+UID:f7eda668-aa92-4fe7-bbdc-81ffabf7705e@f7ed.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 5\nGara 59\nPOLO SCOLASTICO DI CLES - VIA IV NOVEMBRE\, 35 CLES\nCSP SAN GIORGIO - A.S.D. S.H. PAOLO BONOMI
@@ -22,14 +14,23 @@ GEO:46.369305;11.032689
 LOCATION:Istituto Tecnico Economico e Tecnologico "C.A. Pilati"\, 35\, Via Quattro Novembre\, Pez\, Dres\, Cles\, Comunità della Val di Non\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38023\, Italia
 DTSTART:20260125T140000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 5 - CSP SAN GIORGIO - A.S.D. S.H. PAOLO BONOMI
-UID:043af9de-f2f4-4f9e-9d4e-d4f2b068ece4@043a.org
+UID:99a76cf1-4f98-4df2-a2fd-453a486c19ce@99a7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 4\nGara 39\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCSP SAN GIORGIO - LAZIO HOCKEY
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20260117T120000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 4 - CSP SAN GIORGIO - LAZIO HOCKEY
-UID:0c0b2236-40dd-4b3b-b8a0-2a3fe8d9b60c@0c0b.org
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 47\nPALA NEBIOLO - Via Umberto Fiore\,  Messina\nA.S.D. S.H. PAOLO BONOMI - CSP SAN GIORGIO\n\nRisultato: 4-3
+GEO:38.224983;15.556263
+LOCATION:Via Umberto Fiore\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
+DTSTART:20251213T140000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - A.S.D. S.H. PAOLO BONOMI - CSP SAN GIORGIO
+UID:1dc1518b-8aec-4490-aeae-947ebe0fb33c@1dc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 50\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nCSP SAN GIORGIO - USD MONCALVESE HOCKEY\n\nRisultato: 2-6
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20251221T110000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - CSP SAN GIORGIO - USD MONCALVESE HOCKEY
+UID:d18ac90c-efc2-4f08-9264-47942d0980ea@d18a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 5\nGara 55\nPOLO SCOLASTICO DI CLES - VIA IV NOVEMBRE\, 35 CLES\nPOLISPORTIVA UNIVERSITARIA MESSINA - CSP SAN GIORGIO
@@ -37,52 +38,59 @@ GEO:46.369305;11.032689
 LOCATION:Istituto Tecnico Economico e Tecnologico "C.A. Pilati"\, 35\, Via Quattro Novembre\, Pez\, Dres\, Cles\, Comunità della Val di Non\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38023\, Italia
 DTSTART:20260125T100000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 5 - POLISPORTIVA UNIVERSITARIA MESSINA - CSP SAN GIORGIO
-UID:29ecb511-e3f5-4f72-8c71-219060a4fb8b@29ec.org
+UID:beb0f2a4-8bb2-497f-8a0e-eb337fe91fdf@beb0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 4\nGara 39\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCSP SAN GIORGIO - LAZIO HOCKEY
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20260117T120000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 4 - CSP SAN GIORGIO - LAZIO HOCKEY
-UID:5a66551a-b6fd-4bed-92f5-b4fdc8d73f18@5a66.org
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 5\nGara 59\nPOLO SCOLASTICO DI CLES - VIA IV NOVEMBRE\, 35 CLES\nCSP SAN GIORGIO - A.S.D. S.H. PAOLO BONOMI
+GEO:46.369305;11.032689
+LOCATION:Istituto Tecnico Economico e Tecnologico "C.A. Pilati"\, 35\, Via Quattro Novembre\, Pez\, Dres\, Cles\, Comunità della Val di Non\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38023\, Italia
+DTSTART:20260125T140000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 5 - CSP SAN GIORGIO - A.S.D. S.H. PAOLO BONOMI
+UID:c5f61c06-b9f6-4291-b65e-114869c1af97@c5f6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 1\nGara 36\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCSP SAN GIORGIO - HOCKEY CLUB RIVA\n\nRisultato: 3-4
 LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
 DTSTART:20251130T150000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 1 - CSP SAN GIORGIO - HOCKEY CLUB RIVA
-UID:f1db4599-9106-4639-9da0-7e1d0c9616e2@f1db.org
+UID:1e7e2a0e-4b8d-48e9-88ee-3baea06644b1@1e7e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 50\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nCSP SAN GIORGIO - USD MONCALVESE HOCKEY\n\nRisultato: 2-6
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20251221T110000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - CSP SAN GIORGIO - USD MONCALVESE HOCKEY
-UID:b4b8bcdb-1b1b-4b19-ba60-1ad4f23f8896@b4b8.org
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 4\nGara 39\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCSP SAN GIORGIO - LAZIO HOCKEY
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20260117T120000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 4 - CSP SAN GIORGIO - LAZIO HOCKEY
+UID:748b0e50-522f-48da-827a-67b60444cf1a@748b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 50\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nCSP SAN GIORGIO - USD MONCALVESE HOCKEY\n\nRisultato: 2-6
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20251221T110000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - CSP SAN GIORGIO - USD MONCALVESE HOCKEY
-UID:bd564971-6540-4ec2-b3bd-0ce7ed9f8e1e@bd56.org
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 4\nGara 41\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHOCKEY CLUB RIVA - CSP SAN GIORGIO
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20260117T140000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 4 - HOCKEY CLUB RIVA - CSP SAN GIORGIO
+UID:8f52b4d0-8050-48d0-a231-77d52b845485@8f52.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 1\nGara 32\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nUSD MONCALVESE HOCKEY - CSP SAN GIORGIO\n\nRisultato: 3-2
 LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
 DTSTART:20251130T110000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 1 - USD MONCALVESE HOCKEY - CSP SAN GIORGIO
-UID:7af01359-d799-4a8d-abef-33f685c61709@7af0.org
+UID:40b7a679-bdf2-4f3f-9048-c1573090727f@40b7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 5\nGara 55\nPOLO SCOLASTICO DI CLES - VIA IV NOVEMBRE\, 35 CLES\nPOLISPORTIVA UNIVERSITARIA MESSINA - CSP SAN GIORGIO
-GEO:46.369305;11.032689
-LOCATION:Istituto Tecnico Economico e Tecnologico "C.A. Pilati"\, 35\, Via Quattro Novembre\, Pez\, Dres\, Cles\, Comunità della Val di Non\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38023\, Italia
-DTSTART:20260125T100000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 5 - POLISPORTIVA UNIVERSITARIA MESSINA - CSP SAN GIORGIO
-UID:a4a985e0-83f9-4445-b6d7-501da16e6cbe@a4a9.org
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 50\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nCSP SAN GIORGIO - USD MONCALVESE HOCKEY\n\nRisultato: 2-6
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20251221T110000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - CSP SAN GIORGIO - USD MONCALVESE HOCKEY
+UID:5ada515d-5ba0-4dad-89a3-c25eee6e44da@5ada.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 52\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nCSP SAN GIORGIO - POLISPORTIVA UNIVERSITARIA MESSINA\n\nRisultato: 6-4
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20251221T130000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - CSP SAN GIORGIO - POLISPORTIVA UNIVERSITARIA MESSINA
+UID:5100a84e-4f17-4866-a7b2-c033e5ed9874@5100.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 47\nPALA NEBIOLO - Via Umberto Fiore\,  Messina\nA.S.D. S.H. PAOLO BONOMI - CSP SAN GIORGIO\n\nRisultato: 4-3
@@ -90,7 +98,7 @@ GEO:38.224983;15.556263
 LOCATION:Via Umberto Fiore\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
 DTSTART:20251213T140000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - A.S.D. S.H. PAOLO BONOMI - CSP SAN GIORGIO
-UID:c33cf552-7695-4a15-ab5d-1daf65de8cdc@c33c.org
+UID:7ae5c0eb-1d3d-4e0d-a0c2-c8484a779b41@7ae5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 44\nPALA NEBIOLO - Via Umberto Fiore\,  Messina\nLAZIO HOCKEY - CSP SAN GIORGIO\n\nRisultato: 4-4
@@ -98,7 +106,7 @@ GEO:38.224983;15.556263
 LOCATION:Via Umberto Fiore\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
 DTSTART:20251213T110000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - LAZIO HOCKEY - CSP SAN GIORGIO
-UID:0ae7b80a-6bf4-4da6-9f86-4b83e4d21bdb@0ae7.org
+UID:c32d2343-bf77-403e-954c-5a37bdadce1b@c32d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 52\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nCSP SAN GIORGIO - POLISPORTIVA UNIVERSITARIA MESSINA\n\nRisultato: 6-4
@@ -106,44 +114,36 @@ GEO:41.776492;12.546693
 LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
 DTSTART:20251221T130000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - CSP SAN GIORGIO - POLISPORTIVA UNIVERSITARIA MESSINA
-UID:9357ef6c-e39f-4c55-ac9b-5fd858761eaa@9357.org
+UID:e958786b-18ec-4102-8914-cc0707bbd121@e958.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 44\nPALA NEBIOLO - Via Umberto Fiore\,  Messina\nLAZIO HOCKEY - CSP SAN GIORGIO\n\nRisultato: 4-4
-GEO:38.224983;15.556263
-LOCATION:Via Umberto Fiore\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
-DTSTART:20251213T110000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - LAZIO HOCKEY - CSP SAN GIORGIO
-UID:080d1d80-6e55-4ff4-bc79-9dcdb281c542@080d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 5\nGara 59\nPOLO SCOLASTICO DI CLES - VIA IV NOVEMBRE\, 35 CLES\nCSP SAN GIORGIO - A.S.D. S.H. PAOLO BONOMI
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 5\nGara 55\nPOLO SCOLASTICO DI CLES - VIA IV NOVEMBRE\, 35 CLES\nPOLISPORTIVA UNIVERSITARIA MESSINA - CSP SAN GIORGIO
 GEO:46.369305;11.032689
 LOCATION:Istituto Tecnico Economico e Tecnologico "C.A. Pilati"\, 35\, Via Quattro Novembre\, Pez\, Dres\, Cles\, Comunità della Val di Non\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38023\, Italia
-DTSTART:20260125T140000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 5 - CSP SAN GIORGIO - A.S.D. S.H. PAOLO BONOMI
-UID:1113d6f1-7858-4e29-8500-0e92e03f7658@1113.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 1\nGara 36\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCSP SAN GIORGIO - HOCKEY CLUB RIVA\n\nRisultato: 3-4
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251130T150000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 1 - CSP SAN GIORGIO - HOCKEY CLUB RIVA
-UID:9f46f050-e23e-4aa1-a140-f0103e5950dc@9f46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 52\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nCSP SAN GIORGIO - POLISPORTIVA UNIVERSITARIA MESSINA\n\nRisultato: 6-4
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20251221T130000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - CSP SAN GIORGIO - POLISPORTIVA UNIVERSITARIA MESSINA
-UID:ea8f5901-8309-4729-829b-9eed87d5d489@ea8f.org
+DTSTART:20260125T100000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 5 - POLISPORTIVA UNIVERSITARIA MESSINA - CSP SAN GIORGIO
+UID:2d0afd6b-995d-4305-a434-803e4c130e5f@2d0a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 4\nGara 41\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHOCKEY CLUB RIVA - CSP SAN GIORGIO
 LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
 DTSTART:20260117T140000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 4 - HOCKEY CLUB RIVA - CSP SAN GIORGIO
-UID:d413e560-8a10-46c3-83b9-54abc6aa0200@d413.org
+UID:1280e4c7-f28e-4f18-bdbd-e4ed0d4148a4@1280.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 1\nGara 36\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCSP SAN GIORGIO - HOCKEY CLUB RIVA\n\nRisultato: 3-4
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20251130T150000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 1 - CSP SAN GIORGIO - HOCKEY CLUB RIVA
+UID:008f53fa-a6b7-43ac-92c3-11a358ad076d@008f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 44\nPALA NEBIOLO - Via Umberto Fiore\,  Messina\nLAZIO HOCKEY - CSP SAN GIORGIO\n\nRisultato: 4-4
+GEO:38.224983;15.556263
+LOCATION:Via Umberto Fiore\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
+DTSTART:20251213T110000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - LAZIO HOCKEY - CSP SAN GIORGIO
+UID:3201fc47-b7fa-4e72-8838-6c02d80649d5@3201.org
 END:VEVENT
 END:VCALENDAR

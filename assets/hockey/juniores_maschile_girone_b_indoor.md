@@ -135,6 +135,8 @@ Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 
 <strong>ASD HOCKEY CLUB BONDENO - HOCKEY CUSCUBE BRESCIA</strong>
 
+**Risultato: 7-1**
+
 Giornata: Gara 352
 
 Campo: Palestra Adriano Bonini 
@@ -150,6 +152,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Dom 28/12/2025 11.00
 
 <strong>A.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO</strong>
+
+**Risultato: 1-13**
 
 Giornata: Gara 354
 
@@ -167,6 +171,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>CUS PADOVA ASD - HC VILLAFRANCA</strong>
 
+**Risultato: 2-1**
+
 Giornata: Gara 355
 
 Campo: Palestra Adriano Bonini 
@@ -182,6 +188,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Dom 28/12/2025 13.00
 
 <strong>CSP SAN GIORGIO - HOCKEY CUSCUBE BRESCIA</strong>
+
+**Risultato: 10-1**
 
 Giornata: Gara 356
 
@@ -199,6 +207,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.</strong>
 
+**Risultato: 9-0**
+
 Giornata: Gara 357
 
 Campo: Palestra Adriano Bonini 
@@ -215,6 +225,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>HOCKEY CUSCUBE BRESCIA - CUS PADOVA ASD</strong>
 
+**Risultato: 1-13**
+
 Giornata: Gara 358
 
 Campo: Palestra Adriano Bonini 
@@ -230,6 +242,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Dom 28/12/2025 16.00
 
 <strong>HC VILLAFRANCA - CSP SAN GIORGIO</strong>
+
+**Risultato: 5-9**
 
 Giornata: Gara 359
 
