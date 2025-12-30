@@ -295,7 +295,7 @@ Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
-## Dom 15/03/2026 11.00
+## Dom 08/03/2026 13.00
 
 <strong>ASD ADIGE UHC - POLISPORTIVA CAMELOT</strong>
 

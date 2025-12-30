@@ -117,7 +117,7 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 # Ragazze - OUTDOOR  - Girone B / Giornata 4
 
-## Sab 18/04/2026 16.00
+## Dom 26/04/2026 11.00
 
 <strong>ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC</strong>
 
@@ -150,20 +150,20 @@ Location:  via J. Corrado, 4 Padova
 
 # Ragazze - OUTDOOR  - Girone B / Giornata 5
 
-## Sab 16/05/2026 13.30
+## Dom 08/03/2026 11.00
 
-<strong>ASD ADIGE UHC - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
+<strong>HOCKEY TEAM FEMMINILE BOLOGNA - ASD ADIGE UHC</strong>
 
 Giornata: Gara 438
 
-Campo: Comunale Mori 
+Campo: CP BARCA 
 
-Indirizzo Campo:  Via Lomba, 23 - Mori
+Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
 ## Sab 16/05/2026 16.00
@@ -199,7 +199,7 @@ Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
-## Dom 31/05/2026 11.00
+## Sab 30/05/2026 16.30
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - ASD HOCKEY CLUB BONDENO</strong>
 
