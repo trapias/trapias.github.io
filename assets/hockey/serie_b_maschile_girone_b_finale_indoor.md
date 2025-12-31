@@ -4,23 +4,23 @@
 
 ## Dom 04/01/2026 11.00
 
-<strong>1 CLASSIFICATA - 4 CLASSIFICATA</strong>
+<strong>ASD ADIGE UHC - HC PISTOIA FRANJO</strong>
 
 Giornata: Gara 390
 
-Campo: Sport Arena 
+Campo: COMPLESSO POLIVALENTE VIA CISALPINA 
 
-Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
+Indirizzo Campo:  VIA CISALPINA, snc - Reggio nell'Emilia
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
+Location: Via Cisalpina, Tribunale, San Paolo Tribunale, Mancasale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42100, Italia
+Geo: Geo(latitude=44.7099019, longitude=10.6345091)
+Location: Via Cisalpina, Tribunale, San Paolo Tribunale, Mancasale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42100, Italia
+Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 
 
 ## Dom 04/01/2026 12.00
 
-<strong>2 CLASSIFICATA - 3 CLASSIFICATA</strong>
+<strong>ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HC GRANTORTO</strong>
 
 Giornata: Gara 391
 

@@ -60,6 +60,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HC GRANTORTO - CUS PADOVA ASD</strong>
 
+**Risultato: 7-4**
+
 Giornata: Gara 378
 
 Campo: Comunale Mori 
