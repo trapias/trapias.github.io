@@ -6,6 +6,8 @@
 
 <strong>POLISPORTIVA CAMELOT - ASD HOCKEY CLUB BONDENO</strong>
 
+**Risultato: 0-14**
+
 Giornata: Gara 418
 
 Campo: PALESTRA OLOF PALME 
@@ -19,6 +21,8 @@ Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 ## Dom 21/12/2025 11.00
 
 <strong>CSP SAN GIORGIO - HOCKEY CLUB RIVA</strong>
+
+**Risultato: 2-5**
 
 Giornata: Gara 419
 
@@ -48,6 +52,8 @@ Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 <strong>POLISPORTIVA CAMELOT - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 0-13**
+
 Giornata: Gara 421
 
 Campo: PALESTRA OLOF PALME 
@@ -75,6 +81,8 @@ Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 ## Dom 21/12/2025 15.00
 
 <strong>ASD HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA</strong>
+
+**Risultato: 6-4**
 
 Giornata: Gara 423
 

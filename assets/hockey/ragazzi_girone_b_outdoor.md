@@ -97,6 +97,8 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 <strong>HOCKEY TRIESTE 2012 - ASD ADIGE UHC</strong>
 
+**Risultato: 1-11**
+
 Giornata: Gara 405
 
 Campo: Campo Ass. R. Fincantieri 

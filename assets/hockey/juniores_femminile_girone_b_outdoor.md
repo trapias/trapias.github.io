@@ -43,6 +43,8 @@ Location:  via J. Corrado, 4 Padova
 
 <strong>MILANO HP - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
 
+**Risultato: 0-0**
+
 Giornata: Gara 382
 
 Campo: Campo Comunale 
