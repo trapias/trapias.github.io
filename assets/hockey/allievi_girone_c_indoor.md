@@ -63,6 +63,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>ASD BAD LAKE HOCKEY - GENOVA H. 1980 DRITTO</strong>
 
+**Risultato: 2-2**
+
 Giornata: Gara 294
 
 Campo: PalaRomanzi 
@@ -79,6 +81,8 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 <strong>GENOVA H. 1980 DRITTO - CUS PISA ASD</strong>
 
+**Risultato: 4-5**
+
 Giornata: Gara 299
 
 Campo: PalaRomanzi 
@@ -94,6 +98,8 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 ## Lun 05/01/2026 13.00
 
 <strong>CUS PISA ASD - ASD BAD LAKE HOCKEY</strong>
+
+**Risultato: 3-3**
 
 Giornata: Gara 300
 

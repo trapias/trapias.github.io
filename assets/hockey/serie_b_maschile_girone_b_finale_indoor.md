@@ -6,6 +6,8 @@
 
 <strong>ASD ADIGE UHC - HC PISTOIA FRANJO</strong>
 
+**Risultato: 9-2**
+
 Giornata: Gara 390
 
 Campo: COMPLESSO POLIVALENTE VIA CISALPINA 
@@ -21,6 +23,8 @@ Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 ## Dom 04/01/2026 12.00
 
 <strong>ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HC GRANTORTO</strong>
+
+**Risultato: 3-4**
 
 Giornata: Gara 391
 
@@ -39,7 +43,9 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 ## Dom 04/01/2026 15.00
 
-<strong> - </strong>
+<strong>HC GRANTORTO - ASD ADIGE UHC</strong>
+
+**Risultato: 2-8**
 
 Giornata: Gara 392
 
@@ -55,7 +61,9 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 ## Dom 04/01/2026 14.00
 
-<strong> - </strong>
+<strong>ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HC PISTOIA FRANJO</strong>
+
+**Risultato: 5-2**
 
 Giornata: Gara 393
 

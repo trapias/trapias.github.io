@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 7\nGara 133\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nHT SARDEGNA - SG AMSICORA\n\nRisultato: 0-11
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 2\nGara 123\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HT SARDEGNA\n\nRisultato: 8-2
 GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251005T083000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 7 - HT SARDEGNA - SG AMSICORA
-UID:78ab7f88-c2e1-4fa3-87cd-a9e1bfd648f6@78ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 9\nGara 137\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nCUS CAGLIARI - SG AMSICORA\n\nRisultato: 3-5
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251025T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 9 - CUS CAGLIARI - SG AMSICORA
-UID:4106ef1b-2a2f-457c-b73c-7a807441e628@4106.org
+DTSTART:20250920T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 2 - SG AMSICORA - HT SARDEGNA
+UID:ad920114-8b89-4d29-9541-0bfeac170e30@ad92.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 5\nGara 129\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - POLISPORTIVA FERRINI\n\nRisultato: 3-1
@@ -23,15 +15,23 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251004T123000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 5 - SG AMSICORA - POLISPORTIVA FERRINI
-UID:bf62a2e6-1a6f-4750-801e-b4fe58a6fd41@bf62.org
+UID:280be7ae-116c-4ca8-aea5-66925d5c1d21@280b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 8\nGara 135\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - A.S.D. POLISPORTIVA JUVENILIA\n\nRisultato: 12-0
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 3\nGara 125\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nA.S.D. POLISPORTIVA JUVENILIA - SG AMSICORA\n\nRisultato: 1-10
 GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251018T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 8 - SG AMSICORA - A.S.D. POLISPORTIVA JUVENILIA
-UID:cc4e0caf-29e6-45fc-a2ed-f3f359aa47d3@cc4e.org
+DTSTART:20251009T180000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 3 - A.S.D. POLISPORTIVA JUVENILIA - SG AMSICORA
+UID:91d931db-f07b-4332-bdcb-88e5a494a44f@91d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 4\nGara 127\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - CUS CAGLIARI\n\nRisultato: 8-1
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20250927T123000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 4 - SG AMSICORA - CUS CAGLIARI
+UID:c180cbb4-9d3f-4747-8953-bd91c7b1e50e@c180.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 10\nGara 139\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI - SG AMSICORA\n\nRisultato: 4-5
@@ -39,7 +39,23 @@ GEO:39.235186;9.139409
 LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
 DTSTART:20251101T140000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 10 - POLISPORTIVA FERRINI - SG AMSICORA
-UID:3f8c8f02-9a44-4c06-81e9-2eca7ee418a7@3f8c.org
+UID:0b5fba40-27e0-446e-9591-65b9d8e75d5f@0b5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 3\nGara 125\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nA.S.D. POLISPORTIVA JUVENILIA - SG AMSICORA\n\nRisultato: 1-10
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20251009T180000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 3 - A.S.D. POLISPORTIVA JUVENILIA - SG AMSICORA
+UID:8378d332-ea2a-4c09-9e05-a7736e2e9cad@8378.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 2\nGara 123\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HT SARDEGNA\n\nRisultato: 8-2
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20250920T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 2 - SG AMSICORA - HT SARDEGNA
+UID:40f8db46-e6e2-4a15-a47f-0456579dbef7@40f8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 9\nGara 137\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nCUS CAGLIARI - SG AMSICORA\n\nRisultato: 3-5
@@ -47,15 +63,15 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251025T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 9 - CUS CAGLIARI - SG AMSICORA
-UID:72ebd5dd-266e-43ed-aba6-9e32df1b61f5@72eb.org
+UID:b6b5d0bd-7a67-49bd-9f2d-47cbc205c9a2@b6b5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 3\nGara 125\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nA.S.D. POLISPORTIVA JUVENILIA - SG AMSICORA\n\nRisultato: 1-10
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 9\nGara 137\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nCUS CAGLIARI - SG AMSICORA\n\nRisultato: 3-5
 GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251009T180000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 3 - A.S.D. POLISPORTIVA JUVENILIA - SG AMSICORA
-UID:112fdc42-9fc9-4600-aad4-6edcb6b65fa0@112f.org
+DTSTART:20251025T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 9 - CUS CAGLIARI - SG AMSICORA
+UID:7d38f67a-d23e-493b-8530-d2df690118b9@7d38.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 5\nGara 129\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - POLISPORTIVA FERRINI\n\nRisultato: 3-1
@@ -63,7 +79,7 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251004T123000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 5 - SG AMSICORA - POLISPORTIVA FERRINI
-UID:201de717-6be5-4ef7-b5a1-6ff082a45b07@201d.org
+UID:2fdbb257-fe15-4b52-9db6-0eabef8a166e@2fdb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 8\nGara 135\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - A.S.D. POLISPORTIVA JUVENILIA\n\nRisultato: 12-0
@@ -71,23 +87,7 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251018T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 8 - SG AMSICORA - A.S.D. POLISPORTIVA JUVENILIA
-UID:f81ef188-8f3d-48a2-b03c-311d6410a30c@f81e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 3\nGara 125\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nA.S.D. POLISPORTIVA JUVENILIA - SG AMSICORA\n\nRisultato: 1-10
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251009T180000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 3 - A.S.D. POLISPORTIVA JUVENILIA - SG AMSICORA
-UID:b2011bdf-07e0-425c-a205-d06dae4c1771@b201.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 2\nGara 123\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HT SARDEGNA\n\nRisultato: 8-2
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20250920T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 2 - SG AMSICORA - HT SARDEGNA
-UID:625f165e-573e-4035-a29f-0cd147c227a3@625f.org
+UID:b8aba932-e491-4a84-8455-41e46e479868@b8ab.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 4\nGara 127\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - CUS CAGLIARI\n\nRisultato: 8-1
@@ -95,23 +95,15 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20250927T123000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 4 - SG AMSICORA - CUS CAGLIARI
-UID:49c2ead9-b425-49d0-8893-79ce6290b3dd@49c2.org
+UID:a51f3c27-3ced-4aa6-8b6d-2778fc2268a2@a51f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 7\nGara 133\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nHT SARDEGNA - SG AMSICORA\n\nRisultato: 0-11
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 8\nGara 135\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - A.S.D. POLISPORTIVA JUVENILIA\n\nRisultato: 12-0
 GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251005T083000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 7 - HT SARDEGNA - SG AMSICORA
-UID:10bf3535-3fb3-4b4b-9e08-4d83d5c6843b@10bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 2\nGara 123\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HT SARDEGNA\n\nRisultato: 8-2
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20250920T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 2 - SG AMSICORA - HT SARDEGNA
-UID:47369444-ce17-4558-85a8-d2ae161ae2d2@4736.org
+DTSTART:20251018T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 8 - SG AMSICORA - A.S.D. POLISPORTIVA JUVENILIA
+UID:3a1f6cd3-e104-4504-b987-f0321fe51ed4@3a1f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 10\nGara 139\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI - SG AMSICORA\n\nRisultato: 4-5
@@ -119,14 +111,22 @@ GEO:39.235186;9.139409
 LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
 DTSTART:20251101T140000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 10 - POLISPORTIVA FERRINI - SG AMSICORA
-UID:800034c1-69b6-47b4-9731-caf1f39342d0@8000.org
+UID:ebb874a5-0a27-4ee0-9424-ae05bc133983@ebb8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 4\nGara 127\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - CUS CAGLIARI\n\nRisultato: 8-1
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 7\nGara 133\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nHT SARDEGNA - SG AMSICORA\n\nRisultato: 0-11
 GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20250927T123000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 4 - SG AMSICORA - CUS CAGLIARI
-UID:bdca1c0e-ea2a-4ee8-8fb4-e1778db21b83@bdca.org
+DTSTART:20251005T083000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 7 - HT SARDEGNA - SG AMSICORA
+UID:b51ebb36-127e-4e71-a353-9bc54398bfe6@b51e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 7\nGara 133\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nHT SARDEGNA - SG AMSICORA\n\nRisultato: 0-11
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20251005T083000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone D / Giornata 7 - HT SARDEGNA - SG AMSICORA
+UID:b80de775-92ad-49e1-9297-90749f679559@b80d.org
 END:VEVENT
 END:VCALENDAR

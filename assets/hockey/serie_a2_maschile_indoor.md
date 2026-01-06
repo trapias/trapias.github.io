@@ -182,6 +182,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>HC SAVONA - GENOVA H. 1980</strong>
 
+**Risultato: 5-6**
+
 Giornata: Gara 71
 
 Campo: PalaRomanzi 
@@ -197,6 +199,8 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 ## Dom 04/01/2026 12.00
 
 <strong>S.G. AMSICORA ASD - HCU RASSEMBLEMENT TORINO</strong>
+
+**Risultato: 3-4**
 
 Giornata: Gara 72
 
@@ -214,6 +218,8 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 <strong>HC SAVONA - HOCKEY CLUB ROMA</strong>
 
+**Risultato: 4-5**
+
 Giornata: Gara 73
 
 Campo: PalaRomanzi 
@@ -230,6 +236,8 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 <strong>GENOVA H. 1980 - S.G. AMSICORA ASD</strong>
 
+**Risultato: 3-4**
+
 Giornata: Gara 74
 
 Campo: PalaRomanzi 
@@ -245,6 +253,8 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 ## Dom 04/01/2026 15.00
 
 <strong>HCU RASSEMBLEMENT TORINO - HOCKEY CLUB ROMA</strong>
+
+**Risultato: 5-5**
 
 Giornata: Gara 75
 

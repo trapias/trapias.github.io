@@ -92,6 +92,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 <strong>HOCKEY PRATO VALCHISONE FEMMINILE - ASD HF LORENZONI</strong>
 
+**Risultato: 4-0**
+
 Giornata: Gara 496
 
 Campo: PALAZZETTO DELL SPORT 
@@ -112,6 +114,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>CUS TORINO - HOCKEY CLUB LARIO</strong>
 
+**Risultato: 1-4**
+
 Giornata: Gara 497
 
 Campo: PALAZZETTO DELL SPORT 
@@ -127,6 +131,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 ## Dom 04/01/2026 14.00
 
 <strong>ASD HF LORENZONI - CUS TORINO</strong>
+
+**Risultato: 3-1**
 
 Giornata: Gara 498
 
@@ -144,6 +150,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 ## Dom 04/01/2026 15.00 ⭐
 
 <strong>HOCKEY CLUB LARIO - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
+
+**Risultato: 0-5**
 
 Giornata: Gara 499
 
