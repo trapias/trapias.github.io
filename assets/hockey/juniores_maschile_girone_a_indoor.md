@@ -91,6 +91,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>HCU RASSEMBLEMENT TORINO - USD MONCALVESE HOCKEY</strong>
 
+**Risultato: 3-1**
+
 Giornata: Gara 520
 
 Campo: PALESTRA TORRAZZA 
@@ -107,6 +109,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 ## Mar 06/01/2026 13.00 ⭐
 
 <strong>HP VALCHISONE - SCUOLA HOCKEY INDER SINGH</strong>
+
+**Risultato: 6-2**
 
 Giornata: Gara 521
 
@@ -128,6 +132,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 <strong>HCU RASSEMBLEMENT TORINO - SCUOLA HOCKEY INDER SINGH</strong>
 
+**Risultato: 6-1**
+
 Giornata: Gara 522
 
 Campo: PALESTRA TORRAZZA 
@@ -144,6 +150,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 ## Mar 06/01/2026 17.00 ⭐
 
 <strong>USD MONCALVESE HOCKEY - HP VALCHISONE</strong>
+
+**Risultato: 5-3**
 
 Giornata: Gara 523
 

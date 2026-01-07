@@ -91,6 +91,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>CUS TORINO - USD MONCALVESE HOCKEY</strong>
 
+**Risultato: 3-1**
+
 Giornata: Gara 508
 
 Campo: PALESTRA TORRAZZA 
@@ -107,6 +109,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 ## Mar 06/01/2026 11.00 ⭐
 
 <strong>ASD HF LORENZONI - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
+
+**Risultato: 4-3**
 
 Giornata: Gara 509
 
@@ -128,6 +132,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 <strong>USD MONCALVESE HOCKEY - ASD HF LORENZONI</strong>
 
+**Risultato: 0-4**
+
 Giornata: Gara 510
 
 Campo: PALESTRA TORRAZZA 
@@ -144,6 +150,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 ## Mar 06/01/2026 15.00 ⭐
 
 <strong>CUS TORINO - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
+
+**Risultato: 2-4**
 
 Giornata: Gara 511
 

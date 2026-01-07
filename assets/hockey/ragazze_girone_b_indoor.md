@@ -57,6 +57,8 @@ Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
 
+**Risultato: 2-6**
+
 Giornata: Gara 330
 
 Campo: Palestra Adriano Bonini 
@@ -73,6 +75,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>ASD ADIGE UHC - CUS PADOVA ASD</strong>
 
+**Risultato: 0-8**
+
 Giornata: Gara 331
 
 Campo: Palestra Adriano Bonini 
@@ -88,6 +92,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Mar 06/01/2026 14.00
 
 <strong>ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC</strong>
+
+**Risultato: 3-8**
 
 Giornata: Gara 332
 
