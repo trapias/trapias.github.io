@@ -2,36 +2,36 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 348\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nCSP SAN GIORGIO - HC VILLAFRANCA\n\nRisultato: 5-5
-GEO:45.519604;10.258212
-LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
-DTSTART:20251208T120000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - CSP SAN GIORGIO - HC VILLAFRANCA
-UID:baebcc2a-1eb7-4a42-80d1-e51583915784@baeb.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 359\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nHC VILLAFRANCA - CSP SAN GIORGIO\n\nRisultato: 5-9
 GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20251228T150000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - HC VILLAFRANCA - CSP SAN GIORGIO
-UID:9dd52e45-3c53-4cd8-b49a-c1f4a9e920a0@9dd5.org
+UID:ba024b91-22fc-4d4f-8bca-1142670f16e4@ba02.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 370\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHC VILLAFRANCA - HOCKEY CUSCUBE BRESCIA
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 367\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nCUS PADOVA ASD - HC VILLAFRANCA
 GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20260118T120000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HC VILLAFRANCA - HOCKEY CUSCUBE BRESCIA
-UID:23e8f5dc-3d58-43f0-8fd3-04f115e786c2@23e8.org
+DTSTART:20260118T090000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - CUS PADOVA ASD - HC VILLAFRANCA
+UID:87d77a89-8e92-4e13-ad2a-dd05c0110cb7@87d7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 372\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHC VILLAFRANCA - A.R.FINCANTIERI A.S.D.
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20260118T140000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HC VILLAFRANCA - A.R.FINCANTIERI A.S.D.
-UID:ce403aa7-a538-4dc5-ab9b-211816f399a0@ce40.org
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 360\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - HC VILLAFRANCA\n\nRisultato: 1-9
+GEO:45.896716;13.491104
+LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
+DTSTART:20260106T090000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - A.R.FINCANTIERI A.S.D. - HC VILLAFRANCA
+UID:bdbcb474-c47d-40ad-97c2-88ac3fdc4a8b@bdbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 351\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nASD HOCKEY CLUB BONDENO - HC VILLAFRANCA\n\nRisultato: 4-3
+GEO:45.519604;10.258212
+LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
+DTSTART:20251208T150000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - HC VILLAFRANCA
+UID:845a1486-0bbc-44e0-89fe-e0a18cbb0e3f@845a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 364\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nHC VILLAFRANCA - ASD HOCKEY CLUB BONDENO\n\nRisultato: 1-4
@@ -39,7 +39,55 @@ GEO:45.896716;13.491104
 LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
 DTSTART:20260106T130000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - HC VILLAFRANCA - ASD HOCKEY CLUB BONDENO
-UID:9f6cf694-b794-4433-9f53-d3d487a8c756@9f6c.org
+UID:1c0eeb9c-376b-4cf4-8409-81f97b3c6a6d@1c0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 370\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHC VILLAFRANCA - HOCKEY CUSCUBE BRESCIA
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20260118T120000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HC VILLAFRANCA - HOCKEY CUSCUBE BRESCIA
+UID:76942a6d-33a1-4ed9-a103-da8d90ba9699@7694.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 348\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nCSP SAN GIORGIO - HC VILLAFRANCA\n\nRisultato: 5-5
+GEO:45.519604;10.258212
+LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
+DTSTART:20251208T120000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - CSP SAN GIORGIO - HC VILLAFRANCA
+UID:ffea3900-5b69-4b95-b406-e97d3c3720a5@ffea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 364\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nHC VILLAFRANCA - ASD HOCKEY CLUB BONDENO\n\nRisultato: 1-4
+GEO:45.896716;13.491104
+LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
+DTSTART:20260106T130000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - HC VILLAFRANCA - ASD HOCKEY CLUB BONDENO
+UID:1590d914-247c-466b-a47a-a6c8c8e5523a@1590.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 359\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nHC VILLAFRANCA - CSP SAN GIORGIO\n\nRisultato: 5-9
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251228T150000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - HC VILLAFRANCA - CSP SAN GIORGIO
+UID:a6ffcfdd-a854-4154-91db-1ca4b6109417@a6ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 367\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nCUS PADOVA ASD - HC VILLAFRANCA
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20260118T090000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - CUS PADOVA ASD - HC VILLAFRANCA
+UID:fa940e85-696b-40a7-8d20-99c3be04c207@fa94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 372\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHC VILLAFRANCA - A.R.FINCANTIERI A.S.D.
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20260118T140000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HC VILLAFRANCA - A.R.FINCANTIERI A.S.D.
+UID:eefb2c25-3dd9-4ebb-8cee-d03cf1336775@eefb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 345\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nHOCKEY CUSCUBE BRESCIA - HC VILLAFRANCA\n\nRisultato: 0-10
@@ -47,15 +95,7 @@ GEO:45.519604;10.258212
 LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
 DTSTART:20251208T090000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - HOCKEY CUSCUBE BRESCIA - HC VILLAFRANCA
-UID:d6010b5d-e123-4082-91ce-6dec59ad2dab@d601.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 367\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nCUS PADOVA ASD - HC VILLAFRANCA
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20260118T090000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - CUS PADOVA ASD - HC VILLAFRANCA
-UID:b5df6317-ad9b-4dfd-bef5-4e3101eac775@b5df.org
+UID:437820b6-e653-4f63-999b-4ac1a55035eb@4378.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 355\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nCUS PADOVA ASD - HC VILLAFRANCA\n\nRisultato: 2-1
@@ -63,15 +103,7 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20251228T110000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - CUS PADOVA ASD - HC VILLAFRANCA
-UID:f231225b-f218-4fad-ab0a-3a966efccb72@f231.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 360\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - HC VILLAFRANCA\n\nRisultato: 1-9
-GEO:45.896716;13.491104
-LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
-DTSTART:20260106T090000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - A.R.FINCANTIERI A.S.D. - HC VILLAFRANCA
-UID:ca65516b-433b-42ed-a6d1-0a553a9e301f@ca65.org
+UID:f08241f1-e1b8-4c22-92a6-0603201c4f78@f082.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 370\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHC VILLAFRANCA - HOCKEY CUSCUBE BRESCIA
@@ -79,47 +111,7 @@ GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
 DTSTART:20260118T120000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HC VILLAFRANCA - HOCKEY CUSCUBE BRESCIA
-UID:a22660be-2fb7-496d-8848-dbf5c486694c@a226.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 372\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHC VILLAFRANCA - A.R.FINCANTIERI A.S.D.
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20260118T140000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HC VILLAFRANCA - A.R.FINCANTIERI A.S.D.
-UID:41095981-ba35-4f14-bdca-fbed42100fcf@4109.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 348\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nCSP SAN GIORGIO - HC VILLAFRANCA\n\nRisultato: 5-5
-GEO:45.519604;10.258212
-LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
-DTSTART:20251208T120000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - CSP SAN GIORGIO - HC VILLAFRANCA
-UID:1a6ea7fb-c34b-4583-b0f4-d50b9aaca529@1a6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 359\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nHC VILLAFRANCA - CSP SAN GIORGIO\n\nRisultato: 5-9
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251228T150000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - HC VILLAFRANCA - CSP SAN GIORGIO
-UID:ba3fdbaf-ef03-4c97-9ae2-0e3c7c776ff5@ba3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 367\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nCUS PADOVA ASD - HC VILLAFRANCA
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20260118T090000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - CUS PADOVA ASD - HC VILLAFRANCA
-UID:b2b4aa5a-202e-431d-a04a-7881adc479ca@b2b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 360\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - HC VILLAFRANCA\n\nRisultato: 1-9
-GEO:45.896716;13.491104
-LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
-DTSTART:20260106T090000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - A.R.FINCANTIERI A.S.D. - HC VILLAFRANCA
-UID:dc852f71-5070-40d7-88a6-cf2532ef7f89@dc85.org
+UID:d6a70237-a329-4279-9d17-c6d0737d28a3@d6a7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 355\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nCUS PADOVA ASD - HC VILLAFRANCA\n\nRisultato: 2-1
@@ -127,7 +119,7 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20251228T110000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - CUS PADOVA ASD - HC VILLAFRANCA
-UID:dd71a06d-bc88-45fe-b83e-fa27138246f5@dd71.org
+UID:2aaa430a-4f11-4f1f-bcab-fc17e4823fbc@2aaa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 351\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nASD HOCKEY CLUB BONDENO - HC VILLAFRANCA\n\nRisultato: 4-3
@@ -135,22 +127,30 @@ GEO:45.519604;10.258212
 LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
 DTSTART:20251208T150000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - HC VILLAFRANCA
-UID:4e240203-0e35-4566-8870-37d1d3bdea65@4e24.org
+UID:af8ce4a7-b421-4223-bec9-bd6ab3cce2bf@af8c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 364\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nHC VILLAFRANCA - ASD HOCKEY CLUB BONDENO\n\nRisultato: 1-4
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 348\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nCSP SAN GIORGIO - HC VILLAFRANCA\n\nRisultato: 5-5
+GEO:45.519604;10.258212
+LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
+DTSTART:20251208T120000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - CSP SAN GIORGIO - HC VILLAFRANCA
+UID:dff88899-d5d5-4c90-9cad-2017702b5ffe@dff8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 360\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - HC VILLAFRANCA\n\nRisultato: 1-9
 GEO:45.896716;13.491104
 LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
-DTSTART:20260106T130000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - HC VILLAFRANCA - ASD HOCKEY CLUB BONDENO
-UID:cdac78e9-329b-4b51-8dfe-8adc43c7d961@cdac.org
+DTSTART:20260106T090000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - A.R.FINCANTIERI A.S.D. - HC VILLAFRANCA
+UID:e36a1249-25ba-4a16-ae0c-7c3269a2a74a@e36a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 351\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nASD HOCKEY CLUB BONDENO - HC VILLAFRANCA\n\nRisultato: 4-3
-GEO:45.519604;10.258212
-LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
-DTSTART:20251208T150000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - HC VILLAFRANCA
-UID:31dd28df-c255-43b2-9bcc-322c701c5806@31dd.org
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 372\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHC VILLAFRANCA - A.R.FINCANTIERI A.S.D.
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20260118T140000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HC VILLAFRANCA - A.R.FINCANTIERI A.S.D.
+UID:a2144f07-59ab-4ac2-9978-ab8b6f72a7af@a214.org
 END:VEVENT
 END:VCALENDAR

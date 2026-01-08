@@ -99,6 +99,8 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 <strong>BUTTERFLY ROMA HCC - LAZIO HOCKEY</strong>
 
+**Risultato: 0-0**
+
 Giornata: Gara 208
 
 Campo: CENTRO SPORTIVO MILLEVOI 
