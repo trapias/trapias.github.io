@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone F / Giornata 2\nGara 1103\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI - HT SARDEGNA
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20260208T093000Z
-SUMMARY:Allievi - OUTDOOR  - Girone F / Giornata 2 - POLISPORTIVA FERRINI - HT SARDEGNA
-UID:e472ffb7-f49d-4b4a-8556-f7d25104e505@e472.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone F / Giornata 3\nGara 1105\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA JUVENILIA RIS. - HT SARDEGNA
+DESCRIPTION:Allievi - OUTDOOR  - Girone F / Giornata 5\nGara 1108\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - A.S.D. POLISPORTIVA JUVENILIA
 GEO:39.694117;8.702129
 LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20260308T090000Z
-SUMMARY:Allievi - OUTDOOR  - Girone F / Giornata 3 - A.S.D. POLISPORTIVA JUVENILIA RIS. - HT SARDEGNA
-UID:a6affee9-e741-4151-827b-4f9d48ab533e@a6af.org
+DTSTART:20260301T083000Z
+SUMMARY:Allievi - OUTDOOR  - Girone F / Giornata 5 - HT SARDEGNA - A.S.D. POLISPORTIVA JUVENILIA
+UID:c4f9c913-d8f6-4285-a010-8c6368e7b5aa@c4f9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone F / Giornata 5\nGara 1108\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - A.S.D. POLISPORTIVA JUVENILIA
@@ -23,7 +15,15 @@ GEO:39.694117;8.702129
 LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
 DTSTART:20260301T083000Z
 SUMMARY:Allievi - OUTDOOR  - Girone F / Giornata 5 - HT SARDEGNA - A.S.D. POLISPORTIVA JUVENILIA
-UID:f4b0eb39-836d-4e97-a0e9-9ad551128fc3@f4b0.org
+UID:2175b3b4-a701-4adb-8f8b-069905356fa3@2175.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone F / Giornata 3\nGara 1105\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA JUVENILIA RIS. - HT SARDEGNA
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20260308T090000Z
+SUMMARY:Allievi - OUTDOOR  - Girone F / Giornata 3 - A.S.D. POLISPORTIVA JUVENILIA RIS. - HT SARDEGNA
+UID:b1c671e5-5d29-4022-8604-79ea2fa2f78d@b1c6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone F / Giornata 1\nGara 1101\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HT SARDEGNA
@@ -31,23 +31,7 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20260201T100000Z
 SUMMARY:Allievi - OUTDOOR  - Girone F / Giornata 1 - SG AMSICORA - HT SARDEGNA
-UID:5b8c085e-11a1-4f3e-a9b7-afd5254405cc@5b8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone F / Giornata 5\nGara 1108\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - A.S.D. POLISPORTIVA JUVENILIA
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20260301T083000Z
-SUMMARY:Allievi - OUTDOOR  - Girone F / Giornata 5 - HT SARDEGNA - A.S.D. POLISPORTIVA JUVENILIA
-UID:320133bf-4b3d-4ce5-b376-24e4390b4ff3@3201.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone F / Giornata 2\nGara 1103\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI - HT SARDEGNA
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20260208T093000Z
-SUMMARY:Allievi - OUTDOOR  - Girone F / Giornata 2 - POLISPORTIVA FERRINI - HT SARDEGNA
-UID:a1305950-e835-4b1b-8036-6fec83343e57@a130.org
+UID:3edde0c5-2694-46bf-9c95-7b8ab3c86a34@3edd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone F / Giornata 3\nGara 1105\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA JUVENILIA RIS. - HT SARDEGNA
@@ -55,6 +39,22 @@ GEO:39.694117;8.702129
 LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
 DTSTART:20260308T090000Z
 SUMMARY:Allievi - OUTDOOR  - Girone F / Giornata 3 - A.S.D. POLISPORTIVA JUVENILIA RIS. - HT SARDEGNA
-UID:7e8dec7c-5c48-4f07-a6db-75510e1d6ff7@7e8d.org
+UID:7ff9e5f6-f79a-47a9-9cf6-ba061c2246b2@7ff9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone F / Giornata 2\nGara 1103\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI - HT SARDEGNA
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20260208T093000Z
+SUMMARY:Allievi - OUTDOOR  - Girone F / Giornata 2 - POLISPORTIVA FERRINI - HT SARDEGNA
+UID:5f782fe7-b88b-48b9-aa7f-747b4115926b@5f78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone F / Giornata 2\nGara 1103\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI - HT SARDEGNA
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20260208T093000Z
+SUMMARY:Allievi - OUTDOOR  - Girone F / Giornata 2 - POLISPORTIVA FERRINI - HT SARDEGNA
+UID:d9f0b950-efe3-40fc-b8ad-ecf983627e42@d9f0.org
 END:VEVENT
 END:VCALENDAR

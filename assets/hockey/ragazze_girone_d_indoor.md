@@ -95,84 +95,82 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 # Ragazze  - Girone D / Giornata 2
 
-## Dom 04/01/2026 10.30
+## Dom 01/02/2026 10.30
 
 <strong>BUTTERFLY ROMA HCC - LAZIO HOCKEY</strong>
 
-**Risultato: 0-0**
-
 Giornata: Gara 208
 
-Campo: CENTRO SPORTIVO MILLEVOI 
+Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
 
-Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
+Geo: Geo(latitude=42.0431814, longitude=13.4297776)
+Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
+Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 
-## Dom 04/01/2026 11.40
+## Dom 01/02/2026 11.40
 
 <strong>HOCKEY POTENZA PICENA - ASD AQUILA</strong>
 
 Giornata: Gara 209
 
-Campo: CENTRO SPORTIVO MILLEVOI 
+Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
 
-Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
+Geo: Geo(latitude=42.0431814, longitude=13.4297776)
+Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
+Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 
-## Dom 04/01/2026 12.50
+## Dom 01/02/2026 12.50
 
 <strong>LAZIO HOCKEY - AZ HOCKEY TEAM</strong>
 
 Giornata: Gara 210
 
-Campo: CENTRO SPORTIVO MILLEVOI 
+Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
 
-Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
+Geo: Geo(latitude=42.0431814, longitude=13.4297776)
+Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
+Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 
-## Dom 04/01/2026 14.00
+## Dom 01/02/2026 14.00
 
 <strong>ASD AQUILA - BUTTERFLY ROMA HCC</strong>
 
 Giornata: Gara 211
 
-Campo: CENTRO SPORTIVO MILLEVOI 
+Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
 
-Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
+Geo: Geo(latitude=42.0431814, longitude=13.4297776)
+Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
+Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 
-## Dom 04/01/2026 15.10
+## Dom 01/02/2026 15.10
 
 <strong>AZ HOCKEY TEAM - HOCKEY POTENZA PICENA</strong>
 
 Giornata: Gara 212
 
-Campo: CENTRO SPORTIVO MILLEVOI 
+Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
 
-Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
+Geo: Geo(latitude=42.0431814, longitude=13.4297776)
+Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
+Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
