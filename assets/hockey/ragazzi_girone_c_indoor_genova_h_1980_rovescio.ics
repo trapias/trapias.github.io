@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 284\nPalazinola - Via Antonio Brilla\, snc Savona\nGENOVA H. 1980 ROVESCIO - HC GENOVA\n\nRisultato: 3-1
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20251221T123000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 1 - GENOVA H. 1980 ROVESCIO - HC GENOVA
-UID:2a34590c-402b-4a96-8701-85f39721e97c@2a34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 284\nPalazinola - Via Antonio Brilla\, snc Savona\nGENOVA H. 1980 ROVESCIO - HC GENOVA\n\nRisultato: 3-1
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20251221T123000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 1 - GENOVA H. 1980 ROVESCIO - HC GENOVA
-UID:7c02ff4a-39ce-4c65-b55c-5974f20306a4@7c02.org
+DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 288\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nGENOVA H. 1980 ROVESCIO - HC SAVONA
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260111T120000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 2 - GENOVA H. 1980 ROVESCIO - HC SAVONA
+UID:570634e1-45c2-4d15-9b8f-661618f34913@5706.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 282\nPalazinola - Via Antonio Brilla\, snc Savona\nGENOVA H. 1980 ROVESCIO - GENOVA H. 1980 DRITTO\n\nRisultato: 2-6
@@ -23,7 +15,15 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20251221T103000Z
 SUMMARY:Ragazzi  - Girone C / Giornata 1 - GENOVA H. 1980 ROVESCIO - GENOVA H. 1980 DRITTO
-UID:2136889b-9a4e-4a3c-b6db-8a4aac77e52c@2136.org
+UID:8e15b461-536f-4398-a040-8e4402f901be@8e15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 284\nPalazinola - Via Antonio Brilla\, snc Savona\nGENOVA H. 1980 ROVESCIO - HC GENOVA\n\nRisultato: 3-1
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20251221T123000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 1 - GENOVA H. 1980 ROVESCIO - HC GENOVA
+UID:a9eeb6c0-d27c-4e72-8913-280b11020811@a9ee.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 288\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nGENOVA H. 1980 ROVESCIO - HC SAVONA
@@ -31,23 +31,7 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260111T120000Z
 SUMMARY:Ragazzi  - Girone C / Giornata 2 - GENOVA H. 1980 ROVESCIO - HC SAVONA
-UID:9d95b9de-dc95-4adc-b7e5-529823d54419@9d95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 288\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nGENOVA H. 1980 ROVESCIO - HC SAVONA
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260111T120000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 2 - GENOVA H. 1980 ROVESCIO - HC SAVONA
-UID:0e678772-9456-4f58-be9f-1f9ba80e36a3@0e67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 285\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - GENOVA H. 1980 ROVESCIO
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260111T090000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 2 - CUS PISA ASD - GENOVA H. 1980 ROVESCIO
-UID:81b12ef1-3b3b-4851-bd81-2508f4e0aef0@81b1.org
+UID:8e584b4d-15ef-42a3-bd1f-de45a7497186@8e58.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 282\nPalazinola - Via Antonio Brilla\, snc Savona\nGENOVA H. 1980 ROVESCIO - GENOVA H. 1980 DRITTO\n\nRisultato: 2-6
@@ -55,7 +39,15 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20251221T103000Z
 SUMMARY:Ragazzi  - Girone C / Giornata 1 - GENOVA H. 1980 ROVESCIO - GENOVA H. 1980 DRITTO
-UID:9e0b794b-611c-4c19-9a4e-f7834e8d093a@9e0b.org
+UID:c0083eef-434d-4602-9324-681d18b184df@c008.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 284\nPalazinola - Via Antonio Brilla\, snc Savona\nGENOVA H. 1980 ROVESCIO - HC GENOVA\n\nRisultato: 3-1
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20251221T123000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 1 - GENOVA H. 1980 ROVESCIO - HC GENOVA
+UID:ed38c34e-34e5-4ed3-9e68-d3902ed8b006@ed38.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 285\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - GENOVA H. 1980 ROVESCIO
@@ -63,6 +55,14 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260111T090000Z
 SUMMARY:Ragazzi  - Girone C / Giornata 2 - CUS PISA ASD - GENOVA H. 1980 ROVESCIO
-UID:76a0fffe-5109-44fc-92d5-fc91e0b586c0@76a0.org
+UID:c94157b4-2387-4e7f-9a32-abc0ccd85403@c941.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 285\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - GENOVA H. 1980 ROVESCIO
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260111T090000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 2 - CUS PISA ASD - GENOVA H. 1980 ROVESCIO
+UID:ce9cf3e6-a1ff-4e20-a179-bb914814b818@ce9c.org
 END:VEVENT
 END:VCALENDAR

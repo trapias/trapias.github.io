@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 8\nGara 922\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - UH CAPITOLINA
-GEO:45.033509;7.633384
-LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20260503T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 8 - CUS TORINO - UH CAPITOLINA
-UID:47f0bdfe-439e-4e08-8588-b9d1a19074fe@47f0.org
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 1\nGara 894\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - CUS TORINO
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260322T140000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 1 - UH CAPITOLINA - CUS TORINO
+UID:5ff8d9ff-06a6-4441-bf2f-22370d34e9b6@5ff8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 5\nGara 911\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT FEMM BOLOGNA - UH CAPITOLINA
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20260419T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 5 - HT FEMM BOLOGNA - UH CAPITOLINA
+UID:731a06e1-ad0d-4ea9-8910-a3e8f84bc34d@731a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 14\nGara 946\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - UH CAPITOLINA
@@ -15,63 +23,31 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20260621T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 14 - LAZIO HOCKEY - UH CAPITOLINA
-UID:b8620049-ea0c-4a97-a3f9-2bc806726b59@b862.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 4\nGara 906\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - UH CAPITOLINA
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260329T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 4 - SG AMSICORA - UH CAPITOLINA
-UID:d2bf7252-032a-4877-90b6-23ad4a848385@d2bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 11\nGara 934\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - SG AMSICORA
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260531T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 11 - UH CAPITOLINA - SG AMSICORA
-UID:bc87bd09-1880-43f8-a352-7db82b36eeff@bc87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 11\nGara 934\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - SG AMSICORA
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260531T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 11 - UH CAPITOLINA - SG AMSICORA
-UID:727e93d3-ce86-428a-9ba0-f9e80dcee270@727e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 1\nGara 894\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - CUS TORINO
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260315T140000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 1 - UH CAPITOLINA - CUS TORINO
-UID:32772c77-f405-4f2c-b544-4ddbcac6cfb8@3277.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 1\nGara 894\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - CUS TORINO
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260315T140000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 1 - UH CAPITOLINA - CUS TORINO
-UID:148cb3f4-7f55-4b43-9716-60560ea79a50@148c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 5\nGara 911\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT FEMM BOLOGNA - UH CAPITOLINA
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20260412T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 5 - HT FEMM BOLOGNA - UH CAPITOLINA
-UID:7613e17d-856d-4169-a901-41378dc85db8@7613.org
+UID:53cd3543-d662-4ef7-b380-0a0bac10ccad@53cd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 6\nGara 913\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - HF LORENZONI
 GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260419T130000Z
+DTSTART:20260426T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 6 - UH CAPITOLINA - HF LORENZONI
-UID:f13e4c8f-51e7-4438-9661-333ced6fc512@f13e.org
+UID:4dabd50d-4949-4e6c-a04a-7afdad8ffa5b@4dab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 4\nGara 906\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - UH CAPITOLINA
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20260412T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 4 - SG AMSICORA - UH CAPITOLINA
+UID:4bc58d6d-306b-4639-86d4-33621886a820@4bc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 3\nGara 903\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - UH CAPITOLINA
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260411T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 3 - BUTTERFLY ROMA - UH CAPITOLINA
+UID:bebfdaed-5e6e-4a10-b6f2-5cb4ee229ec6@bebf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 13\nGara 941\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - UH CAPITOLINA
@@ -79,47 +55,7 @@ GEO:44.703194;7.836697
 LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260614T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 13 - HF LORENZONI - UH CAPITOLINA
-UID:f24bed7e-89d2-4721-bd69-936ad4452eee@f24b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 2\nGara 897\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - MILANO HP
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260322T140000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 2 - UH CAPITOLINA - MILANO HP
-UID:bd88c438-8fb7-4414-9e14-a78acede9e18@bd88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 7\nGara 918\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - LAZIO HOCKEY
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260426T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 7 - UH CAPITOLINA - LAZIO HOCKEY
-UID:c57bf97a-d3e6-444c-93ce-9167054bdb3e@c57b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 6\nGara 913\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - HF LORENZONI
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260419T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 6 - UH CAPITOLINA - HF LORENZONI
-UID:68395449-9627-4967-a9c4-9d54541ac25c@6839.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 3\nGara 903\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - UH CAPITOLINA
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260328T123000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 3 - BUTTERFLY ROMA - UH CAPITOLINA
-UID:00870caa-c405-45a3-877f-9f63a1c178b4@0087.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 9\nGara 925\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - UH CAPITOLINA
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260510T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 9 - MILANO HP - UH CAPITOLINA
-UID:ac3d18dc-8379-4921-84ea-210bdf723674@ac3d.org
+UID:0bb18fe1-46ec-43c7-bda6-1d1b0364aa6e@0bb1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 12\nGara 939\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - HT FEMM BOLOGNA
@@ -127,7 +63,119 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20260607T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 12 - UH CAPITOLINA - HT FEMM BOLOGNA
-UID:0381c9df-82ac-4440-a485-e6f2c8300a4a@0381.org
+UID:0574a84c-6df3-48e0-9c60-48d712f07f4a@0574.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 7\nGara 918\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - LAZIO HOCKEY
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260503T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 7 - UH CAPITOLINA - LAZIO HOCKEY
+UID:77e6f834-d376-4718-87da-da611ec77b7f@77e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 12\nGara 939\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - HT FEMM BOLOGNA
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260607T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 12 - UH CAPITOLINA - HT FEMM BOLOGNA
+UID:ad18f28c-7c2b-4669-bfb1-1d1ab293ba36@ad18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 5\nGara 911\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT FEMM BOLOGNA - UH CAPITOLINA
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20260419T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 5 - HT FEMM BOLOGNA - UH CAPITOLINA
+UID:e6281216-78ea-429a-95e2-e95dd6ddfb14@e628.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 9\nGara 925\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - UH CAPITOLINA
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260517T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 9 - MILANO HP - UH CAPITOLINA
+UID:935688d3-2dbe-4027-8521-6bd764469b54@9356.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 6\nGara 913\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - HF LORENZONI
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260426T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 6 - UH CAPITOLINA - HF LORENZONI
+UID:78eab2fd-cf04-4691-825c-f9f5555cad3d@78ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 3\nGara 903\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - UH CAPITOLINA
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260411T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 3 - BUTTERFLY ROMA - UH CAPITOLINA
+UID:40ed25ca-44a2-44e5-8747-1a6a016583fd@40ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 4\nGara 906\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - UH CAPITOLINA
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20260412T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 4 - SG AMSICORA - UH CAPITOLINA
+UID:6cadc14c-95de-42a1-8357-a7c9b06fccb7@6cad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 11\nGara 934\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - SG AMSICORA
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260531T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 11 - UH CAPITOLINA - SG AMSICORA
+UID:34d49eb1-e3ae-40a6-b134-d144f824b040@34d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 10\nGara 931\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - BUTTERFLY ROMA
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260530T110000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 10 - UH CAPITOLINA - BUTTERFLY ROMA
+UID:512164f5-819e-4ce6-8e0b-957e0a0495e1@5121.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 2\nGara 897\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - MILANO HP
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260329T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 2 - UH CAPITOLINA - MILANO HP
+UID:064b87d4-60a0-44f1-8951-e12d0a622243@064b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 2\nGara 897\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - MILANO HP
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260329T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 2 - UH CAPITOLINA - MILANO HP
+UID:20c334da-f4ec-4915-81c7-1f7dea47874c@20c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 13\nGara 941\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - UH CAPITOLINA
+GEO:44.703194;7.836697
+LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260614T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 13 - HF LORENZONI - UH CAPITOLINA
+UID:3c11212e-4098-4adc-9973-fd5053b30365@3c11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 9\nGara 925\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - UH CAPITOLINA
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260517T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 9 - MILANO HP - UH CAPITOLINA
+UID:6d438bda-a46c-4111-af8b-723a4f161bf4@6d43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 11\nGara 934\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - SG AMSICORA
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260531T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 11 - UH CAPITOLINA - SG AMSICORA
+UID:15bb0c8d-5283-4608-846f-e706cc54c114@15bb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 14\nGara 946\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - UH CAPITOLINA
@@ -135,94 +183,46 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20260621T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 14 - LAZIO HOCKEY - UH CAPITOLINA
-UID:570c14be-be1f-4efa-8789-68a778554f9d@570c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 12\nGara 939\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - HT FEMM BOLOGNA
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260607T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 12 - UH CAPITOLINA - HT FEMM BOLOGNA
-UID:9c8107bf-31e4-4817-9f8d-89a086784279@9c81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 5\nGara 911\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT FEMM BOLOGNA - UH CAPITOLINA
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20260412T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 5 - HT FEMM BOLOGNA - UH CAPITOLINA
-UID:477b892e-5119-4dda-be5e-0544aefd43ab@477b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 4\nGara 906\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - UH CAPITOLINA
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260329T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 4 - SG AMSICORA - UH CAPITOLINA
-UID:d2f9be2d-aa90-43b6-95fe-c53e3d6d592f@d2f9.org
+UID:f8983242-3203-4baa-bb94-e930d3c5a31e@f898.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 7\nGara 918\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - LAZIO HOCKEY
 GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260426T130000Z
+DTSTART:20260503T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 7 - UH CAPITOLINA - LAZIO HOCKEY
-UID:75cf5213-48b9-47f4-82ad-c088b6c978ff@75cf.org
+UID:0cc7ee95-24d8-49b0-9aac-bfa9b847dc79@0cc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 1\nGara 894\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - CUS TORINO
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260322T140000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 1 - UH CAPITOLINA - CUS TORINO
+UID:216e34a5-c048-4e4c-a414-ca87d9b0e044@216e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 10\nGara 931\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - BUTTERFLY ROMA
 GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260517T130000Z
+DTSTART:20260530T110000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 10 - UH CAPITOLINA - BUTTERFLY ROMA
-UID:f2a6cdac-1529-43eb-bc6b-a26790823d25@f2a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 9\nGara 925\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - UH CAPITOLINA
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260510T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 9 - MILANO HP - UH CAPITOLINA
-UID:bd71d04c-8354-4dd5-bb2e-ccfefa1f6e65@bd71.org
+UID:50018855-35d0-41de-9fe5-fddf113b3b1f@5001.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 8\nGara 922\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - UH CAPITOLINA
 GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20260503T130000Z
+DTSTART:20260510T130000Z
 SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 8 - CUS TORINO - UH CAPITOLINA
-UID:23353b71-3e4c-420c-a700-89306562cffb@2335.org
+UID:095419b7-5330-4a96-b758-13190a341629@0954.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 3\nGara 903\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - UH CAPITOLINA
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260328T123000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 3 - BUTTERFLY ROMA - UH CAPITOLINA
-UID:4241e5ac-347b-4d9a-93ac-26d72036bff0@4241.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 2\nGara 897\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - MILANO HP
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260322T140000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 2 - UH CAPITOLINA - MILANO HP
-UID:8bd43170-36d8-447d-b746-6c24fc8ed7e3@8bd4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 10\nGara 931\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - BUTTERFLY ROMA
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260517T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 10 - UH CAPITOLINA - BUTTERFLY ROMA
-UID:1216d91f-58d2-4cfd-bca4-dd7f71948198@1216.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 13\nGara 941\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - UH CAPITOLINA
-GEO:44.703194;7.836697
-LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260614T130000Z
-SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 13 - HF LORENZONI - UH CAPITOLINA
-UID:f8a3c8e5-f2a3-4669-9055-f826922b2210@f8a3.org
+DESCRIPTION:Serie A Elite Femminile - OUTDOOR / Giornata 8\nGara 922\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - UH CAPITOLINA
+GEO:45.033509;7.633384
+LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
+DTSTART:20260510T130000Z
+SUMMARY:Serie A Elite Femminile - OUTDOOR / Giornata 8 - CUS TORINO - UH CAPITOLINA
+UID:17232e16-8c0b-4a26-86e2-b78d8bd1a6ce@1723.org
 END:VEVENT
 END:VCALENDAR

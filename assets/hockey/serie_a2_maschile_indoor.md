@@ -271,82 +271,82 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 # Serie A2 Maschile - Indoor / Giornata 4
 
-## Dom 25/01/2026 11.00
+## Sab 24/01/2026 10.30
 
 <strong>S.G. AMSICORA ASD - HOCKEY CLUB ROMA</strong>
 
 Giornata: Gara 76
 
-Campo: CENTRO SPORTIVO MILLEVOI 
+Campo: PALATORRINO ROMA 
 
-Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+Indirizzo Campo:  VIA FIUME GIALLO, 47 - ROMA
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8098847, longitude=12.4281055)
+Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
 
-## Dom 25/01/2026 12.00
+## Sab 24/01/2026 15.30
 
 <strong>GENOVA H. 1980 - HCU RASSEMBLEMENT TORINO</strong>
 
 Giornata: Gara 77
 
-Campo: CENTRO SPORTIVO MILLEVOI 
+Campo: PALATORRINO ROMA 
 
-Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+Indirizzo Campo:  VIA FIUME GIALLO, 47 - ROMA
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8098847, longitude=12.4281055)
+Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
 
-## Dom 25/01/2026 13.00
+## Sab 24/01/2026 12.30
 
 <strong>HC SAVONA - S.G. AMSICORA ASD</strong>
 
 Giornata: Gara 78
 
-Campo: CENTRO SPORTIVO MILLEVOI 
+Campo: PALATORRINO ROMA 
 
-Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+Indirizzo Campo:  VIA FIUME GIALLO, 47 - ROMA
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8098847, longitude=12.4281055)
+Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
 
-## Dom 25/01/2026 14.00
+## Sab 24/01/2026 13.30
 
 <strong>HOCKEY CLUB ROMA - GENOVA H. 1980</strong>
 
 Giornata: Gara 79
 
-Campo: CENTRO SPORTIVO MILLEVOI 
+Campo: PALATORRINO ROMA 
 
-Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+Indirizzo Campo:  VIA FIUME GIALLO, 47 - ROMA
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8098847, longitude=12.4281055)
+Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
 
-## Dom 25/01/2026 15.00
+## Sab 24/01/2026 14.30
 
 <strong>HCU RASSEMBLEMENT TORINO - HC SAVONA</strong>
 
 Giornata: Gara 80
 
-Campo: CENTRO SPORTIVO MILLEVOI 
+Campo: PALATORRINO ROMA 
 
-Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+Indirizzo Campo:  VIA FIUME GIALLO, 47 - ROMA
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8098847, longitude=12.4281055)
+Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 

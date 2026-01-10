@@ -2,19 +2,36 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 77\nPALATORRINO ROMA - VIA FIUME GIALLO\, 47 ROMA\nGENOVA H. 1980 - HCU RASSEMBLEMENT TORINO
+GEO:41.809885;12.428105
+LOCATION:Palatorrino\, 47\, Via Fiume Giallo\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260124T143000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - GENOVA H. 1980 - HCU RASSEMBLEMENT TORINO
+UID:f33578f9-cb39-423a-abbf-7899347ecdd1@f335.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 64\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nS.G. AMSICORA ASD - GENOVA H. 1980\n\nRisultato: 6-3
 GEO:39.203688;9.134426
 LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251206T130000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - S.G. AMSICORA ASD - GENOVA H. 1980
-UID:e0a2386a-a392-41c1-a1b5-e0cc9ab78c86@e0a2.org
+UID:77f0f55c-23e8-45f7-92eb-39faa84f499a@77f0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 68\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nGENOVA H. 1980 - HOCKEY CLUB ROMA\n\nRisultato: 6-4
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251213T120000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - GENOVA H. 1980 - HOCKEY CLUB ROMA
-UID:2dc507c4-5057-498e-a5f5-1479d47bb545@2dc5.org
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 71\nPalaRomanzi - viale Gambaro\, 66 Genova\nHC SAVONA - GENOVA H. 1980\n\nRisultato: 5-6
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20260104T100000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - HC SAVONA - GENOVA H. 1980
+UID:d2ce5780-2838-445e-b71d-19c0c5f6fc05@d2ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 79\nPALATORRINO ROMA - VIA FIUME GIALLO\, 47 ROMA\nHOCKEY CLUB ROMA - GENOVA H. 1980
+GEO:41.809885;12.428105
+LOCATION:Palatorrino\, 47\, Via Fiume Giallo\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260124T123000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - HOCKEY CLUB ROMA - GENOVA H. 1980
+UID:1c67f88a-86ed-4195-af31-359c3ec19c2d@1c67.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 74\nPalaRomanzi - viale Gambaro\, 66 Genova\nGENOVA H. 1980 - S.G. AMSICORA ASD\n\nRisultato: 3-4
@@ -22,37 +39,37 @@ GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20260104T130000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - GENOVA H. 1980 - S.G. AMSICORA ASD
-UID:0e92ed29-dea8-40f3-abbb-fa7b80fb388d@0e92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 77\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nGENOVA H. 1980 - HCU RASSEMBLEMENT TORINO
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20260125T110000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - GENOVA H. 1980 - HCU RASSEMBLEMENT TORINO
-UID:7273235c-70b4-4c1c-abc7-de5f11c5b998@7273.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 68\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nGENOVA H. 1980 - HOCKEY CLUB ROMA\n\nRisultato: 6-4
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251213T120000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - GENOVA H. 1980 - HOCKEY CLUB ROMA
-UID:2f43dc69-ad6d-4c23-8dc4-799c148613f5@2f43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 74\nPalaRomanzi - viale Gambaro\, 66 Genova\nGENOVA H. 1980 - S.G. AMSICORA ASD\n\nRisultato: 3-4
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260104T130000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - GENOVA H. 1980 - S.G. AMSICORA ASD
-UID:13e76cac-183e-404f-9607-ce4a239cb056@13e7.org
+UID:a4afe9a1-dc62-4405-8c10-7824c8332c07@a4af.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 66\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nGENOVA H. 1980 - HC SAVONA\n\nRisultato: 9-5
 LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
 DTSTART:20251213T100000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - GENOVA H. 1980 - HC SAVONA
-UID:02971fd3-7280-4d78-9539-d2ceb870721c@0297.org
+UID:4b74eacb-6dc9-4457-b042-a2f340fe98f3@4b74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 68\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nGENOVA H. 1980 - HOCKEY CLUB ROMA\n\nRisultato: 6-4
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20251213T120000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - GENOVA H. 1980 - HOCKEY CLUB ROMA
+UID:0c120233-5f3f-49ec-b088-6dfdd319683d@0c12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 74\nPalaRomanzi - viale Gambaro\, 66 Genova\nGENOVA H. 1980 - S.G. AMSICORA ASD\n\nRisultato: 3-4
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20260104T130000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - GENOVA H. 1980 - S.G. AMSICORA ASD
+UID:9312b1ef-18e7-4eeb-bc2c-d4d4e74a1cff@9312.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 79\nPALATORRINO ROMA - VIA FIUME GIALLO\, 47 ROMA\nHOCKEY CLUB ROMA - GENOVA H. 1980
+GEO:41.809885;12.428105
+LOCATION:Palatorrino\, 47\, Via Fiume Giallo\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260124T123000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - HOCKEY CLUB ROMA - GENOVA H. 1980
+UID:488fe686-4914-4b06-9ac5-2dfd01e7175b@488f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 62\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHCU RASSEMBLEMENT TORINO - GENOVA H. 1980\n\nRisultato: 7-3
@@ -60,47 +77,21 @@ GEO:39.203688;9.134426
 LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251206T110000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HCU RASSEMBLEMENT TORINO - GENOVA H. 1980
-UID:d54196b1-ee42-4098-a1fd-540eea4bd1a6@d541.org
+UID:d43a3fff-40e9-4f0c-a020-b69f4dfeaea8@d43a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 79\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHOCKEY CLUB ROMA - GENOVA H. 1980
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20260125T130000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - HOCKEY CLUB ROMA - GENOVA H. 1980
-UID:006fac37-754b-4351-aec0-e273f9e9d826@006f.org
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 66\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nGENOVA H. 1980 - HC SAVONA\n\nRisultato: 9-5
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20251213T100000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - GENOVA H. 1980 - HC SAVONA
+UID:e23a9038-0abc-4457-a136-47e5e7e9beef@e23a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 77\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nGENOVA H. 1980 - HCU RASSEMBLEMENT TORINO
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20260125T110000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - GENOVA H. 1980 - HCU RASSEMBLEMENT TORINO
-UID:c819ec1c-ca77-4dda-bcff-7fe1d5ca74ed@c819.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 71\nPalaRomanzi - viale Gambaro\, 66 Genova\nHC SAVONA - GENOVA H. 1980\n\nRisultato: 5-6
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260104T100000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - HC SAVONA - GENOVA H. 1980
-UID:c416b73d-3465-4172-82a6-2c5ebd8f1ebc@c416.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 79\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHOCKEY CLUB ROMA - GENOVA H. 1980
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20260125T130000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - HOCKEY CLUB ROMA - GENOVA H. 1980
-UID:ccb3bcec-2e99-49b2-aa1a-c756b6ad4bfb@ccb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 71\nPalaRomanzi - viale Gambaro\, 66 Genova\nHC SAVONA - GENOVA H. 1980\n\nRisultato: 5-6
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260104T100000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - HC SAVONA - GENOVA H. 1980
-UID:13180202-7ac4-4529-b34d-42c5ed07a1f5@1318.org
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 68\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nGENOVA H. 1980 - HOCKEY CLUB ROMA\n\nRisultato: 6-4
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20251213T120000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - GENOVA H. 1980 - HOCKEY CLUB ROMA
+UID:40b7b8a2-5795-4bb1-a86c-89e4a8bc310e@40b7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 64\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nS.G. AMSICORA ASD - GENOVA H. 1980\n\nRisultato: 6-3
@@ -108,13 +99,22 @@ GEO:39.203688;9.134426
 LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251206T130000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - S.G. AMSICORA ASD - GENOVA H. 1980
-UID:2b5d77ec-bbd2-41de-8597-c4c3c634ab9b@2b5d.org
+UID:bc6f1b11-2f8a-4528-93e1-358982845ffc@bc6f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 66\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nGENOVA H. 1980 - HC SAVONA\n\nRisultato: 9-5
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251213T100000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - GENOVA H. 1980 - HC SAVONA
-UID:3a125cb0-c7d2-4eec-8001-c97864eded29@3a12.org
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 77\nPALATORRINO ROMA - VIA FIUME GIALLO\, 47 ROMA\nGENOVA H. 1980 - HCU RASSEMBLEMENT TORINO
+GEO:41.809885;12.428105
+LOCATION:Palatorrino\, 47\, Via Fiume Giallo\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260124T143000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - GENOVA H. 1980 - HCU RASSEMBLEMENT TORINO
+UID:68ba5e61-fc65-4f95-b927-485279b78f2f@68ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 71\nPalaRomanzi - viale Gambaro\, 66 Genova\nHC SAVONA - GENOVA H. 1980\n\nRisultato: 5-6
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20260104T100000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - HC SAVONA - GENOVA H. 1980
+UID:b27fb7c1-43f0-4dcf-b7a6-40a0dd8219e4@b27f.org
 END:VEVENT
 END:VCALENDAR

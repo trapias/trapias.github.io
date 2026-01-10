@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 5\nGara 95\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nHC BRA - BUTTERFLY ROMA HCC
-GEO:44.699151;7.841970
-LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260124T140000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 5 - HC BRA - BUTTERFLY ROMA HCC
-UID:d85b507c-166c-4137-a6fa-97642f06335a@d85b.org
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 3\nGara 113\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nBUTTERFLY ROMA HCC - CUS PADOVA ASD\n\nRisultato: 7-2
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251220T140000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 3 - BUTTERFLY ROMA HCC - CUS PADOVA ASD
+UID:af73c7b9-838c-4240-a2db-ae36bbf0a4c6@af73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 4\nGara 115\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - BUTTERFLY ROMA HCC
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260117T100000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 4 - CUS PISA ASD - BUTTERFLY ROMA HCC
+UID:95e52671-a2e0-4c25-b438-143ad8a808ca@95e5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 2\nGara 108\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nASD HOCKEY CLUB BONDENO - BUTTERFLY ROMA HCC\n\nRisultato: 5-7
@@ -15,21 +23,54 @@ GEO:41.776492;12.546693
 LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
 DTSTART:20251214T150000Z
 SUMMARY:Serie A Elite Maschile - Indoor / Giornata 2 - ASD HOCKEY CLUB BONDENO - BUTTERFLY ROMA HCC
-UID:f2166775-c6c4-493c-9a95-545eabb97180@f216.org
+UID:f4fdb015-c6a2-4b6d-8a5e-5e8c7c7590c5@f4fd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 1\nGara 101\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nBUTTERFLY ROMA HCC - HP VALCHISONE\n\nRisultato: 7-4
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251129T140000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 1 - BUTTERFLY ROMA HCC - HP VALCHISONE
-UID:cba8e0b4-4cf4-47f9-b084-f0151e9780b3@cba8.org
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 2\nGara 103\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nBUTTERFLY ROMA HCC - CUS PISA ASD\n\nRisultato: 8-0
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20251214T100000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 2 - BUTTERFLY ROMA HCC - CUS PISA ASD
+UID:837654fb-5796-407c-90df-30c5f4d6aedb@8376.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 3\nGara 111\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nBUTTERFLY ROMA HCC - HC BRA\n\nRisultato: 3-3
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251220T120000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 3 - BUTTERFLY ROMA HCC - HC BRA
+UID:dbcd85a7-b7f6-481c-9021-19ecf75c65ec@dbcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 2\nGara 103\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nBUTTERFLY ROMA HCC - CUS PISA ASD\n\nRisultato: 8-0
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20251214T100000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 2 - BUTTERFLY ROMA HCC - CUS PISA ASD
+UID:ba9119ec-7331-4f77-846f-ba70e8b355bd@ba91.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 1\nGara 99\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCUS PADOVA ASD - BUTTERFLY ROMA HCC\n\nRisultato: 2-2
 LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
 DTSTART:20251129T120000Z
 SUMMARY:Serie A Elite Maschile - Indoor / Giornata 1 - CUS PADOVA ASD - BUTTERFLY ROMA HCC
-UID:ed254848-8291-4173-a361-c5c7af03e56b@ed25.org
+UID:a0f86a92-97c7-426f-8341-0f540b88639f@a0f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 5\nGara 93\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nBUTTERFLY ROMA HCC - ASD HOCKEY CLUB BONDENO
+GEO:44.699151;7.841970
+LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260124T120000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 5 - BUTTERFLY ROMA HCC - ASD HOCKEY CLUB BONDENO
+UID:d93dc958-e3ff-47a7-8f79-154ca025f139@d93d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 3\nGara 111\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nBUTTERFLY ROMA HCC - HC BRA\n\nRisultato: 3-3
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251220T120000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 3 - BUTTERFLY ROMA HCC - HC BRA
+UID:9973f0a9-7be0-4636-8c41-29ac6e716409@9973.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 4\nGara 120\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHP VALCHISONE - BUTTERFLY ROMA HCC
@@ -37,30 +78,7 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260117T150000Z
 SUMMARY:Serie A Elite Maschile - Indoor / Giornata 4 - HP VALCHISONE - BUTTERFLY ROMA HCC
-UID:6b51357a-c156-4561-92b7-75f6293f2b20@6b51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 2\nGara 103\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nBUTTERFLY ROMA HCC - CUS PISA ASD\n\nRisultato: 8-0
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20251214T100000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 2 - BUTTERFLY ROMA HCC - CUS PISA ASD
-UID:74c54d10-55c8-49f7-87af-b56fd3aaaeba@74c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 1\nGara 101\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nBUTTERFLY ROMA HCC - HP VALCHISONE\n\nRisultato: 7-4
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251129T140000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 1 - BUTTERFLY ROMA HCC - HP VALCHISONE
-UID:b4e3ac01-53cd-4726-b3d9-0b0c331019bc@b4e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 2\nGara 103\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nBUTTERFLY ROMA HCC - CUS PISA ASD\n\nRisultato: 8-0
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20251214T100000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 2 - BUTTERFLY ROMA HCC - CUS PISA ASD
-UID:541b1813-8dd7-4627-a39c-30f0e6291ea7@541b.org
+UID:1dac10b6-88ee-4a7c-90b3-2c6b8b04729f@1dac.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 5\nGara 95\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nHC BRA - BUTTERFLY ROMA HCC
@@ -68,7 +86,7 @@ GEO:44.699151;7.841970
 LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260124T140000Z
 SUMMARY:Serie A Elite Maschile - Indoor / Giornata 5 - HC BRA - BUTTERFLY ROMA HCC
-UID:4b305b67-f6ab-429b-8c51-10ae18efaa13@4b30.org
+UID:6b3775bd-b9f3-47f6-a486-e546bbb015f2@6b37.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 5\nGara 93\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nBUTTERFLY ROMA HCC - ASD HOCKEY CLUB BONDENO
@@ -76,7 +94,7 @@ GEO:44.699151;7.841970
 LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260124T120000Z
 SUMMARY:Serie A Elite Maschile - Indoor / Giornata 5 - BUTTERFLY ROMA HCC - ASD HOCKEY CLUB BONDENO
-UID:6a413a29-d651-4d98-97a3-6b6e13f1421a@6a41.org
+UID:624954c2-a922-46fe-bbb3-ef14169d2721@6249.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 3\nGara 113\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nBUTTERFLY ROMA HCC - CUS PADOVA ASD\n\nRisultato: 7-2
@@ -84,55 +102,7 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20251220T140000Z
 SUMMARY:Serie A Elite Maschile - Indoor / Giornata 3 - BUTTERFLY ROMA HCC - CUS PADOVA ASD
-UID:6d6bc381-3bac-41df-a60a-dd5252369fab@6d6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 3\nGara 113\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nBUTTERFLY ROMA HCC - CUS PADOVA ASD\n\nRisultato: 7-2
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251220T140000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 3 - BUTTERFLY ROMA HCC - CUS PADOVA ASD
-UID:119003ca-a963-4178-b911-fd2d52e26628@1190.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 3\nGara 111\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nBUTTERFLY ROMA HCC - HC BRA\n\nRisultato: 3-3
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251220T120000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 3 - BUTTERFLY ROMA HCC - HC BRA
-UID:f203d4d9-edd8-4fbf-8ee6-c3ae6248fcae@f203.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 5\nGara 93\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nBUTTERFLY ROMA HCC - ASD HOCKEY CLUB BONDENO
-GEO:44.699151;7.841970
-LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260124T120000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 5 - BUTTERFLY ROMA HCC - ASD HOCKEY CLUB BONDENO
-UID:44f58712-cdb6-49c8-a179-aab69aecabfb@44f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 4\nGara 115\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - BUTTERFLY ROMA HCC
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260117T100000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 4 - CUS PISA ASD - BUTTERFLY ROMA HCC
-UID:1b983016-2fa3-4c7a-97e9-db5ff8dbffd3@1b98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 4\nGara 115\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - BUTTERFLY ROMA HCC
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260117T100000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 4 - CUS PISA ASD - BUTTERFLY ROMA HCC
-UID:c3b0abd6-7b74-4bc5-a2ec-5091b1a125a4@c3b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 2\nGara 108\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nASD HOCKEY CLUB BONDENO - BUTTERFLY ROMA HCC\n\nRisultato: 5-7
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20251214T150000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 2 - ASD HOCKEY CLUB BONDENO - BUTTERFLY ROMA HCC
-UID:c0c32aa7-ea64-4e97-99c1-d72512fa9071@c0c3.org
+UID:838d8ab5-c8cf-4a56-8822-f8ce77a670de@838d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 4\nGara 120\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHP VALCHISONE - BUTTERFLY ROMA HCC
@@ -140,14 +110,44 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260117T150000Z
 SUMMARY:Serie A Elite Maschile - Indoor / Giornata 4 - HP VALCHISONE - BUTTERFLY ROMA HCC
-UID:37b639b8-3d20-4547-a2e1-f4178e71fae5@37b6.org
+UID:bdffc205-362f-4cc9-b38e-5e6c62c9bf4f@bdff.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 3\nGara 111\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nBUTTERFLY ROMA HCC - HC BRA\n\nRisultato: 3-3
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251220T120000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 3 - BUTTERFLY ROMA HCC - HC BRA
-UID:4931e51c-0af6-4127-b8d7-b0c27349e3a1@4931.org
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 4\nGara 115\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - BUTTERFLY ROMA HCC
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260117T100000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 4 - CUS PISA ASD - BUTTERFLY ROMA HCC
+UID:9c4ced45-5610-4425-9642-0c94e582f3e2@9c4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 1\nGara 101\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nBUTTERFLY ROMA HCC - HP VALCHISONE\n\nRisultato: 7-4
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20251129T140000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 1 - BUTTERFLY ROMA HCC - HP VALCHISONE
+UID:d2aee913-a237-427c-8b70-d7ac21d31062@d2ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 2\nGara 108\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nASD HOCKEY CLUB BONDENO - BUTTERFLY ROMA HCC\n\nRisultato: 5-7
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20251214T150000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 2 - ASD HOCKEY CLUB BONDENO - BUTTERFLY ROMA HCC
+UID:ba10e63f-2c6a-4ce9-a366-2c6d8ebef877@ba10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 1\nGara 101\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nBUTTERFLY ROMA HCC - HP VALCHISONE\n\nRisultato: 7-4
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20251129T140000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 1 - BUTTERFLY ROMA HCC - HP VALCHISONE
+UID:56f90b96-41fd-4cd3-b036-b216b5f4cf1d@56f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 5\nGara 95\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nHC BRA - BUTTERFLY ROMA HCC
+GEO:44.699151;7.841970
+LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260124T140000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 5 - HC BRA - BUTTERFLY ROMA HCC
+UID:7675a4a2-4b15-4108-84b0-a9fbb1fb191c@7675.org
 END:VEVENT
 END:VCALENDAR
