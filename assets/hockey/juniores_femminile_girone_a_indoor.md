@@ -81,6 +81,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 <strong>HF GENOVA 1980 - CUS TORINO</strong>
 
+**Risultato: 0-1**
+
 Giornata: Gara 484
 
 Campo: PALAZZETTO DELL SPORT 
@@ -96,6 +98,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 ## Dom 04/01/2026 13.00
 
 <strong>USD MONCALVESE HOCKEY - ASD HF LORENZONI</strong>
+
+**Risultato: 3-6**
 
 Giornata: Gara 485
 
@@ -113,6 +117,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>HF GENOVA 1980 - USD MONCALVESE HOCKEY</strong>
 
+**Risultato: 2-3**
+
 Giornata: Gara 486
 
 Campo: PALAZZETTO DELL SPORT 
@@ -128,6 +134,8 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 ## Dom 04/01/2026 17.00
 
 <strong>CUS TORINO - ASD HF LORENZONI</strong>
+
+**Risultato: 2-3**
 
 Giornata: Gara 487
 

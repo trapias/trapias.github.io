@@ -81,6 +81,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>HC SAVONA - HF GENOVA 1980</strong>
 
+**Risultato: 3-1**
+
 Giornata: Gara 272
 
 Campo: PalaRomanzi 
@@ -96,6 +98,8 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 ## Lun 05/01/2026 12.00
 
 <strong>CUS PISA ASD - HC RAINBOW SAMPIERDARENA</strong>
+
+**Risultato: 11-0**
 
 Giornata: Gara 273
 
@@ -113,6 +117,8 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 <strong>HF GENOVA 1980 - CUS PISA ASD</strong>
 
+**Risultato: 0-11**
+
 Giornata: Gara 274
 
 Campo: PalaRomanzi 
@@ -128,6 +134,8 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 ## Lun 05/01/2026 16.00
 
 <strong>HC SAVONA - HC RAINBOW SAMPIERDARENA</strong>
+
+**Risultato: 7-0**
 
 Giornata: Gara 275
 

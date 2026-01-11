@@ -182,6 +182,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>HC SAVONA - GENOVA H. 1980</strong>
 
+**Risultato: 5-6**
+
 Giornata: Gara 71
 
 Campo: PalaRomanzi 
@@ -197,6 +199,8 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 ## Dom 04/01/2026 12.00
 
 <strong>S.G. AMSICORA ASD - HCU RASSEMBLEMENT TORINO</strong>
+
+**Risultato: 3-4**
 
 Giornata: Gara 72
 
@@ -214,6 +218,8 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 <strong>HC SAVONA - HOCKEY CLUB ROMA</strong>
 
+**Risultato: 4-5**
+
 Giornata: Gara 73
 
 Campo: PalaRomanzi 
@@ -229,6 +235,8 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 ## Dom 04/01/2026 14.00
 
 <strong>GENOVA H. 1980 - S.G. AMSICORA ASD</strong>
+
+**Risultato: 3-4**
 
 Giornata: Gara 74
 
@@ -246,6 +254,8 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 <strong>HCU RASSEMBLEMENT TORINO - HOCKEY CLUB ROMA</strong>
 
+**Risultato: 5-5**
+
 Giornata: Gara 75
 
 Campo: PalaRomanzi 
@@ -261,82 +271,82 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 # Serie A2 Maschile - Indoor / Giornata 4
 
-## Dom 25/01/2026 11.00
+## Sab 24/01/2026 10.30
 
 <strong>S.G. AMSICORA ASD - HOCKEY CLUB ROMA</strong>
 
 Giornata: Gara 76
 
-Campo: CENTRO SPORTIVO MILLEVOI 
+Campo: PALATORRINO ROMA 
 
-Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+Indirizzo Campo:  VIA FIUME GIALLO, 47 - ROMA
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8098847, longitude=12.4281055)
+Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
 
-## Dom 25/01/2026 12.00
+## Sab 24/01/2026 15.30
 
 <strong>GENOVA H. 1980 - HCU RASSEMBLEMENT TORINO</strong>
 
 Giornata: Gara 77
 
-Campo: CENTRO SPORTIVO MILLEVOI 
+Campo: PALATORRINO ROMA 
 
-Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+Indirizzo Campo:  VIA FIUME GIALLO, 47 - ROMA
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8098847, longitude=12.4281055)
+Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
 
-## Dom 25/01/2026 13.00
+## Sab 24/01/2026 12.00
 
 <strong>HC SAVONA - S.G. AMSICORA ASD</strong>
 
 Giornata: Gara 78
 
-Campo: CENTRO SPORTIVO MILLEVOI 
+Campo: PALATORRINO ROMA 
 
-Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+Indirizzo Campo:  VIA FIUME GIALLO, 47 - ROMA
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8098847, longitude=12.4281055)
+Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
 
-## Dom 25/01/2026 14.00
+## Sab 24/01/2026 13.00
 
 <strong>HOCKEY CLUB ROMA - GENOVA H. 1980</strong>
 
 Giornata: Gara 79
 
-Campo: CENTRO SPORTIVO MILLEVOI 
+Campo: PALATORRINO ROMA 
 
-Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+Indirizzo Campo:  VIA FIUME GIALLO, 47 - ROMA
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8098847, longitude=12.4281055)
+Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
 
-## Dom 25/01/2026 15.00
+## Sab 24/01/2026 14.00
 
 <strong>HCU RASSEMBLEMENT TORINO - HC SAVONA</strong>
 
 Giornata: Gara 80
 
-Campo: CENTRO SPORTIVO MILLEVOI 
+Campo: PALATORRINO ROMA 
 
-Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+Indirizzo Campo:  VIA FIUME GIALLO, 47 - ROMA
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8098847, longitude=12.4281055)
+Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
