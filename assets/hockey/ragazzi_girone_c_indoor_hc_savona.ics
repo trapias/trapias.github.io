@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 288\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nGENOVA H. 1980 ROVESCIO - HC SAVONA
+DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 286\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC SAVONA - HC GENOVA
 GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260111T120000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 2 - GENOVA H. 1980 ROVESCIO - HC SAVONA
-UID:4ebb4082-c843-4bff-991e-15c4593178ec@4ebb.org
+DTSTART:20260111T100000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 2 - HC SAVONA - HC GENOVA
+UID:975db4aa-837f-4b3f-85b4-42d31f9ea0c8@975d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 280\nPalazinola - Via Antonio Brilla\, snc Savona\nHC SAVONA - GENOVA H. 1980 DRITTO\n\nRisultato: 4-3
@@ -15,15 +15,7 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20251221T083000Z
 SUMMARY:Ragazzi  - Girone C / Giornata 1 - HC SAVONA - GENOVA H. 1980 DRITTO
-UID:e71f09ba-69aa-469a-a4f1-b9a8285854c7@e71f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 283\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - HC SAVONA\n\nRisultato: 3-5
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20251221T113000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 1 - CUS PISA ASD - HC SAVONA
-UID:89e765bb-4f0e-43b0-9828-1c60d93d6caf@89e7.org
+UID:8e4de93b-31e7-4c68-819f-6fb87c763cda@8e4d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 288\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nGENOVA H. 1980 ROVESCIO - HC SAVONA
@@ -31,7 +23,15 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260111T120000Z
 SUMMARY:Ragazzi  - Girone C / Giornata 2 - GENOVA H. 1980 ROVESCIO - HC SAVONA
-UID:202194cb-b17b-4c37-8626-2ce0d4cab329@2021.org
+UID:0334e83f-74e7-42f8-9165-16aecd086b11@0334.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 286\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC SAVONA - HC GENOVA
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260111T100000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 2 - HC SAVONA - HC GENOVA
+UID:406a8d3d-0875-44fc-bd42-3dc3248a9527@406a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 283\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - HC SAVONA\n\nRisultato: 3-5
@@ -39,23 +39,15 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20251221T113000Z
 SUMMARY:Ragazzi  - Girone C / Giornata 1 - CUS PISA ASD - HC SAVONA
-UID:91e7d1f2-2ac5-4a77-934b-ac7eabe7341d@91e7.org
+UID:cad391b4-e647-48c3-8418-788731f7f724@cad3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 286\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC SAVONA - HC GENOVA
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260111T100000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 2 - HC SAVONA - HC GENOVA
-UID:55753cbb-985a-4978-83f5-d22a6be717b6@5575.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 286\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC SAVONA - HC GENOVA
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260111T100000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 2 - HC SAVONA - HC GENOVA
-UID:f5f3e0a5-8f97-4554-984a-a94c91c8c471@f5f3.org
+DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 283\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - HC SAVONA\n\nRisultato: 3-5
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20251221T113000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 1 - CUS PISA ASD - HC SAVONA
+UID:60968cbe-19fc-4dcf-9d82-e833d1ab8118@6096.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 280\nPalazinola - Via Antonio Brilla\, snc Savona\nHC SAVONA - GENOVA H. 1980 DRITTO\n\nRisultato: 4-3
@@ -63,6 +55,14 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20251221T083000Z
 SUMMARY:Ragazzi  - Girone C / Giornata 1 - HC SAVONA - GENOVA H. 1980 DRITTO
-UID:e1de023b-b2c1-446c-bf56-64b1041a19f5@e1de.org
+UID:d85e2d29-7aba-425c-8291-7f2676652d29@d85e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 288\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nGENOVA H. 1980 ROVESCIO - HC SAVONA
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260111T120000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 2 - GENOVA H. 1980 ROVESCIO - HC SAVONA
+UID:b91df5dc-4744-4d56-8c00-be3227643f00@b91d.org
 END:VEVENT
 END:VCALENDAR

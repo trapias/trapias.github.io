@@ -84,6 +84,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>HC GENOVA - HF GENOVA 1980</strong>
 
+**Risultato: 2-2**
+
 Giornata: Gara 255
 
 Campo: Palestra Geodetica Cus Pisa 
@@ -99,6 +101,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Sab 10/01/2026 16.00
 
 <strong>HC GENOVA - CUS PISA ASD</strong>
+
+**Risultato: 1-5**
 
 Giornata: Gara 256
 

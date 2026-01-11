@@ -177,6 +177,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 <strong>HCU RASSEMBLEMENT TORINO - HP VALCHISONE</strong>
 
+**Risultato: 5-1**
+
 Giornata: Gara 524
 
 Campo: PALAZZETTO SPORT PINASCA 
@@ -195,6 +197,8 @@ Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 <strong>USD MONCALVESE HOCKEY - SCUOLA HOCKEY INDER SINGH</strong>
 
+**Risultato: 4-1**
+
 Giornata: Gara 525
 
 Campo: PALAZZETTO SPORT PINASCA 
@@ -208,6 +212,8 @@ Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 ## Sab 10/01/2026 12.00
 
 <strong>USD MONCALVESE HOCKEY - HCU RASSEMBLEMENT TORINO</strong>
+
+**Risultato: 4-1**
 
 Giornata: Gara 526
 
@@ -223,6 +229,8 @@ Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 ## Sab 10/01/2026 13.00 ⭐
 
 <strong>SCUOLA HOCKEY INDER SINGH - HP VALCHISONE</strong>
+
+**Risultato: 0-3**
 
 Giornata: Gara 527
 

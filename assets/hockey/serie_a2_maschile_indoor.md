@@ -303,7 +303,7 @@ Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, R
 Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
 
-## Sab 24/01/2026 12.30
+## Sab 24/01/2026 12.00
 
 <strong>HC SAVONA - S.G. AMSICORA ASD</strong>
 
@@ -319,7 +319,7 @@ Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, R
 Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
 
-## Sab 24/01/2026 13.30
+## Sab 24/01/2026 13.00
 
 <strong>HOCKEY CLUB ROMA - GENOVA H. 1980</strong>
 
@@ -335,7 +335,7 @@ Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, R
 Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
 
-## Sab 24/01/2026 14.30
+## Sab 24/01/2026 14.00
 
 <strong>HCU RASSEMBLEMENT TORINO - HC SAVONA</strong>
 

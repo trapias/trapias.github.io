@@ -177,6 +177,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 <strong>USD MONCALVESE HOCKEY - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 
+**Risultato: 0-4**
+
 Giornata: Gara 512
 
 Campo: PALAZZETTO SPORT PINASCA 
@@ -195,6 +197,8 @@ Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 <strong>CUS TORINO - ASD HF LORENZONI</strong>
 
+**Risultato: 0-6**
+
 Giornata: Gara 513
 
 Campo: PALAZZETTO SPORT PINASCA 
@@ -208,6 +212,8 @@ Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 ## Sab 10/01/2026 16.30
 
 <strong>USD MONCALVESE HOCKEY - CUS TORINO</strong>
+
+**Risultato: 0-1**
 
 Giornata: Gara 514
 
@@ -223,6 +229,8 @@ Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 ## Sab 10/01/2026 17.30 ⭐
 
 <strong>HOCKEY PRATO VALCHISONE FEMMINILE - ASD HF LORENZONI</strong>
+
+**Risultato: 5-5**
 
 Giornata: Gara 515
 
