@@ -156,6 +156,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 <strong>BUTTERFLY ROMA HCC - ASD UNIONE CAPITOLINA HOCKEY</strong>
 
+**Risultato: 1-1**
+
 Giornata: Gara 193
 
 Campo: CENTRO SPORTIVO MILLEVOI 
@@ -171,6 +173,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 ## Dom 11/01/2026 12.20
 
 <strong>HOCKEY POTENZA PICENA - ASD HOCKEY CAMPAGNANO</strong>
+
+**Risultato: 0-2**
 
 Giornata: Gara 194
 
@@ -188,6 +192,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 <strong>HOCKEY POTENZA PICENA - BUTTERFLY ROMA HCC</strong>
 
+**Risultato: 2-2**
+
 Giornata: Gara 195
 
 Campo: CENTRO SPORTIVO MILLEVOI 
@@ -203,6 +209,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 ## Dom 11/01/2026 15.50
 
 <strong>ASD HOCKEY CAMPAGNANO - ASD UNIONE CAPITOLINA HOCKEY</strong>
+
+**Risultato: 5-2**
 
 Giornata: Gara 196
 

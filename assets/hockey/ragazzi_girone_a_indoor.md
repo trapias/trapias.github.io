@@ -213,6 +213,8 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 <strong>HCU RASSEMBLEMENT TORINO RIS - HP VALCHISONE</strong>
 
+**Risultato: 2-5**
+
 Giornata: Gara 538
 
 Campo: PALAZZETTO SPORT PINASCA 
@@ -231,6 +233,8 @@ Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 <strong>HCU RASSEMBLEMENT TORINO - SCUOLA HOCKEY INDER SINGH</strong>
 
+**Risultato: 2-5**
+
 Giornata: Gara 539
 
 Campo: PALAZZETTO SPORT PINASCA 
@@ -245,6 +249,8 @@ Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 ## Dom 11/01/2026 11.00 ⭐
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HP VALCHISONE</strong>
+
+**Risultato: 0-5**
 
 Giornata: Gara 540
 
@@ -264,6 +270,8 @@ Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 <strong>HCU RASSEMBLEMENT TORINO RIS - SCUOLA HOCKEY INDER SINGH</strong>
 
+**Risultato: 1-6**
+
 Giornata: Gara 541
 
 Campo: PALAZZETTO SPORT PINASCA 
@@ -277,6 +285,8 @@ Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 ## Dom 11/01/2026 13.00
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HCU RASSEMBLEMENT TORINO</strong>
+
+**Risultato: 0-8**
 
 Giornata: Gara 542
 

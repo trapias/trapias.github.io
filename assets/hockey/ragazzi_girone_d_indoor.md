@@ -99,6 +99,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 <strong>BUTTERFLY ROMA HCC - HOCKEY CLUB ROMA</strong>
 
+**Risultato: 6-2**
+
 Giornata: Gara 158
 
 Campo: PALAPRINCIPI 
@@ -114,6 +116,8 @@ Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 ## Dom 11/01/2026 13.00
 
 <strong>AZ HOCKEY TEAM - LAZIO HOCKEY</strong>
+
+**Risultato: 1-5**
 
 Giornata: Gara 159
 
@@ -131,6 +135,8 @@ Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
 <strong>HOCKEY POTENZA PICENA - HOCKEY CLUB ROMA</strong>
 
+**Risultato: 10-0**
+
 Giornata: Gara 160
 
 Campo: PALAPRINCIPI 
@@ -147,6 +153,8 @@ Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
 <strong>AZ HOCKEY TEAM - BUTTERFLY ROMA HCC</strong>
 
+**Risultato: 2-2**
+
 Giornata: Gara 161
 
 Campo: PALAPRINCIPI 
@@ -162,6 +170,8 @@ Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 ## Dom 11/01/2026 16.00
 
 <strong>LAZIO HOCKEY - HOCKEY POTENZA PICENA</strong>
+
+**Risultato: 1-2**
 
 Giornata: Gara 162
 

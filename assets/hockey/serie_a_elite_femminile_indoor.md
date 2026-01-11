@@ -327,6 +327,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>HOCKEY CLUB RIVA - CUS PADOVA ASD</strong>
 
+**Risultato: 3-1**
+
 Giornata: Gara 19
 
 Campo: PALESTRA CUS PADOVA 
@@ -342,6 +344,8 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 ## Dom 11/01/2026 12.00
 
 <strong>ASD HF LORENZONI - MILANO HP</strong>
+
+**Risultato: 3-1**
 
 Giornata: Gara 20
 
@@ -359,6 +363,8 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 <strong>CUS TORINO - S.G. AMSICORA ASD</strong>
 
+**Risultato: 2-2**
+
 Giornata: Gara 21
 
 Campo: PALESTRA CUS PADOVA 
@@ -374,6 +380,8 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 ## Dom 11/01/2026 14.00
 
 <strong>ASD HF LORENZONI - HOCKEY CLUB RIVA</strong>
+
+**Risultato: 5-3**
 
 Giornata: Gara 22
 
@@ -391,6 +399,8 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 <strong>CUS PADOVA ASD - S.G. AMSICORA ASD</strong>
 
+**Risultato: 1-6**
+
 Giornata: Gara 23
 
 Campo: PALESTRA CUS PADOVA 
@@ -406,6 +416,8 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 ## Dom 11/01/2026 16.00
 
 <strong>MILANO HP - CUS TORINO</strong>
+
+**Risultato: 3-4**
 
 Giornata: Gara 24
 

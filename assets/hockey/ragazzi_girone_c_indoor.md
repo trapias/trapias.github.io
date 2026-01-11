@@ -99,6 +99,8 @@ Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 
 <strong>CUS PISA ASD - GENOVA H. 1980 ROVESCIO</strong>
 
+**Risultato: 2-4**
+
 Giornata: Gara 285
 
 Campo: Palestra Geodetica Cus Pisa 
@@ -114,6 +116,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Dom 11/01/2026 11.00
 
 <strong>HC SAVONA - HC GENOVA</strong>
+
+**Risultato: 8-1**
 
 Giornata: Gara 286
 
@@ -131,6 +135,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>GENOVA H. 1980 DRITTO - CUS PISA ASD</strong>
 
+**Risultato: 6-0**
+
 Giornata: Gara 287
 
 Campo: Palestra Geodetica Cus Pisa 
@@ -147,6 +153,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>GENOVA H. 1980 ROVESCIO - HC SAVONA</strong>
 
+**Risultato: 1-7**
+
 Giornata: Gara 288
 
 Campo: Palestra Geodetica Cus Pisa 
@@ -162,6 +170,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Dom 11/01/2026 14.00
 
 <strong>HC GENOVA - GENOVA H. 1980 DRITTO</strong>
+
+**Risultato: 2-6**
 
 Giornata: Gara 289
 

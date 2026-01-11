@@ -156,6 +156,8 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
 
+**Risultato: 13-0**
+
 Giornata: Gara 305
 
 Campo: Palestra Adriano Bonini 
@@ -171,6 +173,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Dom 11/01/2026 12.30
 
 <strong>DEL PINTO & ASSOCIATI H. PISTOIA - CUS PADOVA ASD</strong>
+
+**Risultato: 4-1**
 
 Giornata: Gara 306
 
@@ -188,6 +192,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.</strong>
 
+**Risultato: 19-0**
+
 Giornata: Gara 307
 
 Campo: Palestra Adriano Bonini 
@@ -203,6 +209,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Dom 11/01/2026 15.00
 
 <strong>DEL PINTO & ASSOCIATI H. PISTOIA - A.R.FINCANTIERI A.S.D.</strong>
+
+**Risultato: 9-2**
 
 Giornata: Gara 308
 
