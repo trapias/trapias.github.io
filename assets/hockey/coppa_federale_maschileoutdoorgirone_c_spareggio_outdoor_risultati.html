@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coppa Federale Maschile-OUTDOOR-Girone C Spareggio - Risultati e Classifica</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <style>
+        :root {
+            --color-primary: #06862D;
+            --color-valchisone: #ff6b00;
+            --color-win: #28a745;
+            --color-draw: #ffc107;
+            --color-loss: #dc3545;
+        }
+
+        body {
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            padding: 20px 0;
+        }
+
+        .container-custom {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 15px;
+        }
+
+        .header-card {
+            background: linear-gradient(135deg, var(--color-primary) 0%, #048a24 100%);
+            color: white;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            text-align: center;
+        }
+
+        .header-card h1 {
+            font-size: 2rem;
+            margin: 0 0 10px 0;
+            font-weight: bold;
+        }
+
+        .header-card p {
+            margin: 0;
+            opacity: 0.9;
+        }
+
+        .card-section {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 25px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+        }
+
+        .card-section h2 {
+            color: var(--color-primary);
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid var(--color-primary);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .icon {
+            font-size: 1.8rem;
+        }
+
+        /* Tabella Classifica */
+        .classifica-table {
+            width: 100%;
+            margin-top: 20px;
+        }
+
+        .classifica-table thead {
+            background: var(--color-primary);
+            color: white;
+        }
+
+        .classifica-table th {
+            padding: 12px 8px;
+            font-weight: 600;
+            text-align: center;
+            font-size: 0.9rem;
+        }
+
+        .classifica-table td {
+            padding: 12px 8px;
+            text-align: center;
+            border-bottom: 1px solid #eee;
+        }
+
+        .classifica-table tbody tr:hover {
+            background: #f8f9fa;
+        }
+
+        .classifica-table .pos {
+            font-weight: bold;
+            color: var(--color-primary);
+        }
+
+        .classifica-table .squadra {
+            text-align: left;
+            font-weight: 600;
+        }
+
+        .valchisone-row {
+            background: #fff3cd !important;
+            border-left: 4px solid var(--color-valchisone);
+        }
+
+        .valchisone-badge {
+            background: var(--color-valchisone);
+            color: white;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            margin-left: 5px;
+        }
+
+        .diff-positiva {
+            color: var(--color-win);
+            font-weight: bold;
+        }
+
+        .diff-negativa {
+            color: var(--color-loss);
+            font-weight: bold;
+        }
+
+        /* Lista Squadre */
+        .squadre-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .squadra-card {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 10px;
+            border-left: 4px solid var(--color-primary);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .squadra-card.valchisone {
+            border-left-color: var(--color-valchisone);
+            background: #fff3cd;
+        }
+
+        .squadra-numero {
+            background: var(--color-primary);
+            color: white;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+
+        /* Risultati */
+        .giornata-section {
+            margin-bottom: 30px;
+        }
+
+        .giornata-header {
+            background: var(--color-primary);
+            color: white;
+            padding: 10px 20px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+
+        .partita-card {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 10px;
+            display: grid;
+            grid-template-columns: 1fr auto 1fr;
+            gap: 15px;
+            align-items: center;
+        }
+
+        .partita-card.valchisone {
+            background: #fff3cd;
+            border-left: 4px solid var(--color-valchisone);
+        }
+
+        .partita-card.da-giocare {
+            opacity: 0.7;
+            background: #e9ecef;
+        }
+
+        .squadra-nome {
+            font-weight: 600;
+        }
+
+        .casa {
+            text-align: right;
+        }
+
+        .trasferta {
+            text-align: left;
+        }
+
+        .punteggio {
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: var(--color-primary);
+            min-width: 80px;
+        }
+
+        .punteggio.pareggio {
+            color: var(--color-draw);
+        }
+
+        .info-partita {
+            grid-column: 1 / -1;
+            font-size: 0.85rem;
+            color: #666;
+            margin-top: 5px;
+            padding-top: 10px;
+            border-top: 1px solid #dee2e6;
+        }
+
+        /* Filtri */
+        .filters {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            padding: 8px 16px;
+            border: 2px solid var(--color-primary);
+            background: white;
+            color: var(--color-primary);
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-weight: 600;
+        }
+
+        .filter-btn:hover {
+            background: var(--color-primary);
+            color: white;
+        }
+
+        .filter-btn.active {
+            background: var(--color-primary);
+            color: white;
+        }
+
+        /* Chart */
+        .chart-container {
+            position: relative;
+            height: 400px;
+            margin-top: 20px;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .header-card h1 {
+                font-size: 1.5rem;
+            }
+
+            .classifica-table {
+                font-size: 0.85rem;
+            }
+
+            .classifica-table th,
+            .classifica-table td {
+                padding: 8px 4px;
+            }
+
+            .partita-card {
+                grid-template-columns: 1fr;
+                text-align: center;
+            }
+
+            .casa, .trasferta {
+                text-align: center;
+            }
+
+            .squadre-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* Statistiche Badge */
+        .stat-badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            margin: 2px;
+        }
+
+        .stat-vittorie {
+            background: #d4edda;
+            color: #155724;
+        }
+
+        .stat-pareggi {
+            background: #fff3cd;
+            color: #856404;
+        }
+
+        .stat-sconfitte {
+            background: #f8d7da;
+            color: #721c24;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-custom">
+        <!-- Pulsante ritorno -->
+        <div style="margin-bottom: 20px;">
+            <a href="index.html" class="btn btn-outline-success" style="border: 2px solid var(--color-primary); color: var(--color-primary); font-weight: 600; padding: 10px 20px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
+                ← Torna all'indice
+            </a>
+        </div>
+
+        <!-- Header -->
+        <div class="header-card">
+            <h1>Coppa Federale Maschile-OUTDOOR-Girone C Spareggio</h1>
+            <p>Risultati e Classifica - Stagione 2025/2026</p>
+        </div>
+
+        <!-- Squadre Partecipanti -->
+        <div class="card-section">
+            <h2><span class="icon">📋</span> Squadre Partecipanti (2)</h2>
+            <div class="squadre-grid">
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">1</div>
+                    <div>
+                        HOCKEY CLUB OLIMPIA
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">2</div>
+                    <div>
+                        HOCKEY CLUB ROMA
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Classifica -->
+        <div class="card-section">
+            <h2><span class="icon">🏆</span> Classifica</h2>
+            <div class="table-responsive">
+                <table class="table classifica-table">
+                    <thead>
+                        <tr>
+                            <th>Pos</th>
+                            <th style="text-align:left;">Squadra</th>
+                            <th>Pt</th>
+                            <th>G</th>
+                            <th>V</th>
+                            <th>N</th>
+                            <th>P</th>
+                            <th>GF</th>
+                            <th>GS</th>
+                            <th>DR</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        <tr class="">
+                            <td class="pos">1</td>
+                            <td class="squadra">
+                                HOCKEY CLUB ROMA
+                                
+                            </td>
+                            <td><strong>6</strong></td>
+                            <td>2</td>
+                            <td>2</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>7</td>
+                            <td>0</td>
+                            <td class="diff-positiva">+7</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">2</td>
+                            <td class="squadra">
+                                HOCKEY CLUB OLIMPIA
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>2</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>2</td>
+                            <td>0</td>
+                            <td>7</td>
+                            <td class="diff-negativa">-7</td>
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Grafici Statistiche -->
+        <div class="card-section">
+            <h2><span class="icon">📊</span> Statistiche</h2>
+            <div class="chart-container">
+                <canvas id="goalChart"></canvas>
+            </div>
+        </div>
+
+        <!-- Risultati -->
+        <div class="card-section">
+            <h2><span class="icon">📅</span> Risultati</h2>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 211</div>
+
+                <div class="partita-card  "
+                     data-valchisone="false"
+                     data-giocata="true">
+                    <div class="casa">
+                        <div class="squadra-nome">HOCKEY CLUB OLIMPIA</div>
+                    </div>
+                    <div class="punteggio ">0-1</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">HOCKEY CLUB ROMA</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Sab 25/10/2025 15.00 | 📍 Sintetico Comunale - Via Marrani, snc - Torre Santa Susanna
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 212</div>
+
+                <div class="partita-card  "
+                     data-valchisone="false"
+                     data-giocata="true">
+                    <div class="casa">
+                        <div class="squadra-nome">HOCKEY CLUB ROMA</div>
+                    </div>
+                    <div class="punteggio ">6-0</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">HOCKEY CLUB OLIMPIA</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Sab 01/11/2025 15.00 | 📍 COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE, 25 - ROMA
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Dati per il grafico
+        const squadreData = [
+
+            {
+                nome: "HOCKEY CLUB ROMA",
+                gol_fatti: 7,
+                gol_subiti: 0,
+                differenza: 7
+            },
+
+            {
+                nome: "HOCKEY CLUB OLIMPIA",
+                gol_fatti: 0,
+                gol_subiti: 7,
+                differenza: -7
+            },
+
+        ];
+
+        // Grafico Gol
+        const ctx = document.getElementById('goalChart');
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: squadreData.map(s => s.nome),
+                datasets: [
+                    {
+                        label: 'Gol Fatti',
+                        data: squadreData.map(s => s.gol_fatti),
+                        backgroundColor: 'rgba(6, 134, 45, 0.7)',
+                        borderColor: 'rgba(6, 134, 45, 1)',
+                        borderWidth: 2
+                    },
+                    {
+                        label: 'Gol Subiti',
+                        data: squadreData.map(s => s.gol_subiti),
+                        backgroundColor: 'rgba(220, 53, 69, 0.7)',
+                        borderColor: 'rgba(220, 53, 69, 1)',
+                        borderWidth: 2
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'top',
+                    },
+                    title: {
+                        display: true,
+                        text: 'Gol Fatti vs Gol Subiti',
+                        font: {
+                            size: 16
+                        }
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+
+        // Funzione filtro risultati
+        function filtraRisultati(tipo) {
+            const partite = document.querySelectorAll('.partita-card');
+            const buttons = document.querySelectorAll('.filter-btn');
+
+            // Aggiorna pulsanti attivi
+            buttons.forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+
+            partite.forEach(partita => {
+                let mostra = true;
+
+                switch(tipo) {
+                    case 'valchisone':
+                        mostra = partita.dataset.valchisone === 'true';
+                        break;
+                    case 'giocate':
+                        mostra = partita.dataset.giocata === 'true';
+                        break;
+                    case 'dagiocare':
+                        mostra = partita.dataset.giocata === 'false';
+                        break;
+                    case 'tutti':
+                    default:
+                        mostra = true;
+                }
+
+                partita.style.display = mostra ? 'grid' : 'none';
+            });
+        }
+    </script>
+</body>
+</html>

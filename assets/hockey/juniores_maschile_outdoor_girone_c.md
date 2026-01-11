@@ -1,0 +1,186 @@
+# Juniores Maschile - OUTDOOR  - Girone C / Giornata 1
+## Sab 18/10/2025 12.00
+
+<strong>GENOVA H 1980 U18 - HC SAVONA</strong>
+
+Giornata: Gara 305
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+
+
+## Dom 05/10/2025 12.00
+
+<strong>CUS PISA ASD - ASD SUPERBA HC</strong>
+
+**Risultato: 0-8**
+
+Giornata: Gara 306
+
+Campo: CAMPO HOCKEY PRATO 
+
+Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
+
+
+
+## Dom 26/10/2025 18.00
+
+<strong>HC GENOVA - GENOVA H 1980</strong>
+
+Giornata: Gara 307
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+
+# Juniores Maschile - OUTDOOR  - Girone C / Giornata 2
+## Dom 02/11/2025 15.00
+
+<strong>CUS PISA ASD - HC GENOVA</strong>
+
+Giornata: Gara 308
+
+Campo: CAMPO HOCKEY PRATO 
+
+Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
+
+
+
+## Sab 25/10/2025 13.00
+
+<strong>GENOVA H 1980 U18 - ASD SUPERBA HC</strong>
+
+Giornata: Gara 309
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+
+
+## Dom 05/10/2025 11.00
+
+<strong>GENOVA H 1980 - HC SAVONA</strong>
+
+**Risultato: 8-3**
+
+Giornata: Gara 310
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+
+# Juniores Maschile - OUTDOOR  - Girone C / Giornata 3
+## Dom 02/11/2025 11.00
+
+<strong>ASD SUPERBA HC - HC SAVONA</strong>
+
+Giornata: Gara 311
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+
+
+## Lun 17/11/2025 19.30
+
+<strong>HC GENOVA - GENOVA H 1980 U18</strong>
+
+Giornata: Gara 312
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+
+
+## Sab 08/11/2025 14.00
+
+<strong>CUS PISA ASD - GENOVA H 1980</strong>
+
+Giornata: Gara 313
+
+Campo: CAMPO HOCKEY PRATO 
+
+Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
+
+
+# Juniores Maschile - OUTDOOR  - Girone C / Giornata 4
+## Sab 08/11/2025 16.00
+
+<strong>CUS PISA ASD - GENOVA H 1980 U18</strong>
+
+Giornata: Gara 314
+
+Campo: CAMPO HOCKEY PRATO 
+
+Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
+
+
+
+## Dom 12/10/2025 11.00
+
+<strong>HC SAVONA - HC GENOVA</strong>
+
+**Risultato: 1-2**
+
+Giornata: Gara 315
+
+Campo: Campo Sportivo Augusto Briano 
+
+Indirizzo Campo:  Via Santuario, snc - Savona
+
+
+
+## Sab 25/10/2025 09.00
+
+<strong>GENOVA H 1980 - ASD SUPERBA HC</strong>
+
+Giornata: Gara 316
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+
+# Juniores Maschile - OUTDOOR  - Girone C / Giornata 5
+## Mar 04/11/2025 20.30
+
+<strong>HC GENOVA - ASD SUPERBA HC</strong>
+
+Giornata: Gara 317
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+
+
+## Sab 15/11/2025 16.00
+
+<strong>CUS PISA ASD - HC SAVONA</strong>
+
+Giornata: Gara 318
+
+Campo: CAMPO HOCKEY PRATO 
+
+Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
+
+
+
+## Dom 02/11/2025 09.00
+
+<strong>GENOVA H 1980 U18 - GENOVA H 1980</strong>
+
+Giornata: Gara 319
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+

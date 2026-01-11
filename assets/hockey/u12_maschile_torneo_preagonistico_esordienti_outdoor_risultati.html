@@ -1,0 +1,2807 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>U12 Maschile - Torneo Preagonistico Esordienti - OUTDOOR - Risultati e Classifica</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <style>
+        :root {
+            --color-primary: #06862D;
+            --color-valchisone: #ff6b00;
+            --color-win: #28a745;
+            --color-draw: #ffc107;
+            --color-loss: #dc3545;
+        }
+
+        body {
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            padding: 20px 0;
+        }
+
+        .container-custom {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 15px;
+        }
+
+        .header-card {
+            background: linear-gradient(135deg, var(--color-primary) 0%, #048a24 100%);
+            color: white;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            text-align: center;
+        }
+
+        .header-card h1 {
+            font-size: 2rem;
+            margin: 0 0 10px 0;
+            font-weight: bold;
+        }
+
+        .header-card p {
+            margin: 0;
+            opacity: 0.9;
+        }
+
+        .card-section {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 25px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+        }
+
+        .card-section h2 {
+            color: var(--color-primary);
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid var(--color-primary);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .icon {
+            font-size: 1.8rem;
+        }
+
+        /* Tabella Classifica */
+        .classifica-table {
+            width: 100%;
+            margin-top: 20px;
+        }
+
+        .classifica-table thead {
+            background: var(--color-primary);
+            color: white;
+        }
+
+        .classifica-table th {
+            padding: 12px 8px;
+            font-weight: 600;
+            text-align: center;
+            font-size: 0.9rem;
+        }
+
+        .classifica-table td {
+            padding: 12px 8px;
+            text-align: center;
+            border-bottom: 1px solid #eee;
+        }
+
+        .classifica-table tbody tr:hover {
+            background: #f8f9fa;
+        }
+
+        .classifica-table .pos {
+            font-weight: bold;
+            color: var(--color-primary);
+        }
+
+        .classifica-table .squadra {
+            text-align: left;
+            font-weight: 600;
+        }
+
+        .valchisone-row {
+            background: #fff3cd !important;
+            border-left: 4px solid var(--color-valchisone);
+        }
+
+        .valchisone-badge {
+            background: var(--color-valchisone);
+            color: white;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            margin-left: 5px;
+        }
+
+        .diff-positiva {
+            color: var(--color-win);
+            font-weight: bold;
+        }
+
+        .diff-negativa {
+            color: var(--color-loss);
+            font-weight: bold;
+        }
+
+        /* Lista Squadre */
+        .squadre-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .squadra-card {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 10px;
+            border-left: 4px solid var(--color-primary);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .squadra-card.valchisone {
+            border-left-color: var(--color-valchisone);
+            background: #fff3cd;
+        }
+
+        .squadra-numero {
+            background: var(--color-primary);
+            color: white;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+
+        /* Risultati */
+        .giornata-section {
+            margin-bottom: 30px;
+        }
+
+        .giornata-header {
+            background: var(--color-primary);
+            color: white;
+            padding: 10px 20px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+
+        .partita-card {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 10px;
+            display: grid;
+            grid-template-columns: 1fr auto 1fr;
+            gap: 15px;
+            align-items: center;
+        }
+
+        .partita-card.valchisone {
+            background: #fff3cd;
+            border-left: 4px solid var(--color-valchisone);
+        }
+
+        .partita-card.da-giocare {
+            opacity: 0.7;
+            background: #e9ecef;
+        }
+
+        .squadra-nome {
+            font-weight: 600;
+        }
+
+        .casa {
+            text-align: right;
+        }
+
+        .trasferta {
+            text-align: left;
+        }
+
+        .punteggio {
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: var(--color-primary);
+            min-width: 80px;
+        }
+
+        .punteggio.pareggio {
+            color: var(--color-draw);
+        }
+
+        .info-partita {
+            grid-column: 1 / -1;
+            font-size: 0.85rem;
+            color: #666;
+            margin-top: 5px;
+            padding-top: 10px;
+            border-top: 1px solid #dee2e6;
+        }
+
+        /* Filtri */
+        .filters {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            padding: 8px 16px;
+            border: 2px solid var(--color-primary);
+            background: white;
+            color: var(--color-primary);
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-weight: 600;
+        }
+
+        .filter-btn:hover {
+            background: var(--color-primary);
+            color: white;
+        }
+
+        .filter-btn.active {
+            background: var(--color-primary);
+            color: white;
+        }
+
+        /* Chart */
+        .chart-container {
+            position: relative;
+            height: 400px;
+            margin-top: 20px;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .header-card h1 {
+                font-size: 1.5rem;
+            }
+
+            .classifica-table {
+                font-size: 0.85rem;
+            }
+
+            .classifica-table th,
+            .classifica-table td {
+                padding: 8px 4px;
+            }
+
+            .partita-card {
+                grid-template-columns: 1fr;
+                text-align: center;
+            }
+
+            .casa, .trasferta {
+                text-align: center;
+            }
+
+            .squadre-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* Statistiche Badge */
+        .stat-badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            margin: 2px;
+        }
+
+        .stat-vittorie {
+            background: #d4edda;
+            color: #155724;
+        }
+
+        .stat-pareggi {
+            background: #fff3cd;
+            color: #856404;
+        }
+
+        .stat-sconfitte {
+            background: #f8d7da;
+            color: #721c24;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-custom">
+        <!-- Pulsante ritorno -->
+        <div style="margin-bottom: 20px;">
+            <a href="index.html" class="btn btn-outline-success" style="border: 2px solid var(--color-primary); color: var(--color-primary); font-weight: 600; padding: 10px 20px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
+                ← Torna all'indice
+            </a>
+        </div>
+
+        <!-- Header -->
+        <div class="header-card">
+            <h1>U12 Maschile - Torneo Preagonistico Esordienti - OUTDOOR</h1>
+            <p>Risultati e Classifica - Stagione 2025/2026</p>
+        </div>
+
+        <!-- Squadre Partecipanti -->
+        <div class="card-section">
+            <h2><span class="icon">📋</span> Squadre Partecipanti (46)</h2>
+            <div class="squadre-grid">
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">1</div>
+                    <div>
+                        ASD ADIGE UHC
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">2</div>
+                    <div>
+                        ASD BAD LAKE HOCKEY
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">3</div>
+                    <div>
+                        ASD HOCKEY CAMPAGNANO
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">4</div>
+                    <div>
+                        ASD HOCKEY CLUB BONDENO
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">5</div>
+                    <div>
+                        ASD HOCKEY CLUB ERCHIE SANTA LUCIA
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">6</div>
+                    <div>
+                        ASD HOCKEY CLUB MOGLIANO
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">7</div>
+                    <div>
+                        ASD SAN PIETRO CLARENZA
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">8</div>
+                    <div>
+                        ASD SUPERBA HC
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">9</div>
+                    <div>
+                        AZ HOCKEY TEAM
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">10</div>
+                    <div>
+                        BUTTERFLY ROMA
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">11</div>
+                    <div>
+                        CIRCOLO POLICORO MAGNA GRECIA
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">12</div>
+                    <div>
+                        CSP SAN GIORGIO
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">13</div>
+                    <div>
+                        CUS CAGLIARI
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">14</div>
+                    <div>
+                        CUS PADOVA
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">15</div>
+                    <div>
+                        CUS PISA ASD
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">16</div>
+                    <div>
+                        CUS TORINO
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">17</div>
+                    <div>
+                        GENOVA H 1980 LAGACCIO
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">18</div>
+                    <div>
+                        GENOVA H 1980 QUEZZI
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">19</div>
+                    <div>
+                        GENOVA H 1980 SESTRI
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">20</div>
+                    <div>
+                        H.POTENZA PICENA
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">21</div>
+                    <div>
+                        HC GENOVA
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">22</div>
+                    <div>
+                        HC GENOVA GIALLO BLU
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">23</div>
+                    <div>
+                        HC RAINBOW
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">24</div>
+                    <div>
+                        HCU RASSEMBLEMENT TORINO
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">25</div>
+                    <div>
+                        HOCKEY CLUB ARGENTIA
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">26</div>
+                    <div>
+                        HOCKEY CLUB OLIMPIA
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">27</div>
+                    <div>
+                        HOCKEY CLUB RIVA
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">28</div>
+                    <div>
+                        HOCKEY CLUB ROMA
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">29</div>
+                    <div>
+                        HOCKEY CLUB ROVIGO
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">30</div>
+                    <div>
+                        HOCKEY CUSCUBE BRESCIA
+                    </div>
+                </div>
+
+                <div class="squadra-card valchisone">
+                    <div class="squadra-numero">31</div>
+                    <div>
+                        HP VALCHISONE
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">32</div>
+                    <div>
+                        LAZIO HOCKEY
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">33</div>
+                    <div>
+                        PGS DON BOSCO 2000 ASD
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">34</div>
+                    <div>
+                        POL GALATEA
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">35</div>
+                    <div>
+                        POL. VALVERDE INDOOR
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">36</div>
+                    <div>
+                        POLISPORTIVA CAMELOT
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">37</div>
+                    <div>
+                        POLISPORTIVA L'AQUILA HOCKEY
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">38</div>
+                    <div>
+                        POLISPORTIVA VALDAGRI
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">39</div>
+                    <div>
+                        S.H.P. BONOMI
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">40</div>
+                    <div>
+                        SCUOLA HOCKEY INDER SINGH
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">41</div>
+                    <div>
+                        SCUOLA HOCKEY INDER SINGH NEXT GEN
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">42</div>
+                    <div>
+                        SG AMSICORA
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">43</div>
+                    <div>
+                        SQUADRA JOLLY
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">44</div>
+                    <div>
+                        SSD UNIME ARL
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">45</div>
+                    <div>
+                        TEVERE EUR H
+                    </div>
+                </div>
+
+                <div class="squadra-card ">
+                    <div class="squadra-numero">46</div>
+                    <div>
+                        VELINO HOCKEY TEAM
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Classifica -->
+        <div class="card-section">
+            <h2><span class="icon">🏆</span> Classifica</h2>
+            <div class="table-responsive">
+                <table class="table classifica-table">
+                    <thead>
+                        <tr>
+                            <th>Pos</th>
+                            <th style="text-align:left;">Squadra</th>
+                            <th>Pt</th>
+                            <th>G</th>
+                            <th>V</th>
+                            <th>N</th>
+                            <th>P</th>
+                            <th>GF</th>
+                            <th>GS</th>
+                            <th>DR</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        <tr class="">
+                            <td class="pos">1</td>
+                            <td class="squadra">
+                                ASD ADIGE UHC
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">2</td>
+                            <td class="squadra">
+                                ASD BAD LAKE HOCKEY
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">3</td>
+                            <td class="squadra">
+                                ASD HOCKEY CAMPAGNANO
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">4</td>
+                            <td class="squadra">
+                                ASD HOCKEY CLUB BONDENO
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">5</td>
+                            <td class="squadra">
+                                ASD HOCKEY CLUB ERCHIE SANTA LUCIA
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">6</td>
+                            <td class="squadra">
+                                ASD HOCKEY CLUB MOGLIANO
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">7</td>
+                            <td class="squadra">
+                                ASD SAN PIETRO CLARENZA
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">8</td>
+                            <td class="squadra">
+                                ASD SUPERBA HC
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">9</td>
+                            <td class="squadra">
+                                AZ HOCKEY TEAM
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">10</td>
+                            <td class="squadra">
+                                BUTTERFLY ROMA
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">11</td>
+                            <td class="squadra">
+                                CIRCOLO POLICORO MAGNA GRECIA
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">12</td>
+                            <td class="squadra">
+                                CSP SAN GIORGIO
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">13</td>
+                            <td class="squadra">
+                                CUS CAGLIARI
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">14</td>
+                            <td class="squadra">
+                                CUS PADOVA
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">15</td>
+                            <td class="squadra">
+                                CUS PISA ASD
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">16</td>
+                            <td class="squadra">
+                                CUS TORINO
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">17</td>
+                            <td class="squadra">
+                                GENOVA H 1980 LAGACCIO
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">18</td>
+                            <td class="squadra">
+                                GENOVA H 1980 QUEZZI
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">19</td>
+                            <td class="squadra">
+                                GENOVA H 1980 SESTRI
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">20</td>
+                            <td class="squadra">
+                                H.POTENZA PICENA
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">21</td>
+                            <td class="squadra">
+                                HC GENOVA
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">22</td>
+                            <td class="squadra">
+                                HC GENOVA GIALLO BLU
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">23</td>
+                            <td class="squadra">
+                                HC RAINBOW
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">24</td>
+                            <td class="squadra">
+                                HCU RASSEMBLEMENT TORINO
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">25</td>
+                            <td class="squadra">
+                                HOCKEY CLUB ARGENTIA
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">26</td>
+                            <td class="squadra">
+                                HOCKEY CLUB OLIMPIA
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">27</td>
+                            <td class="squadra">
+                                HOCKEY CLUB RIVA
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">28</td>
+                            <td class="squadra">
+                                HOCKEY CLUB ROMA
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">29</td>
+                            <td class="squadra">
+                                HOCKEY CLUB ROVIGO
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">30</td>
+                            <td class="squadra">
+                                HOCKEY CUSCUBE BRESCIA
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="valchisone-row">
+                            <td class="pos">31</td>
+                            <td class="squadra">
+                                HP VALCHISONE
+                                <span class="valchisone-badge">⭐</span>
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">32</td>
+                            <td class="squadra">
+                                LAZIO HOCKEY
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">33</td>
+                            <td class="squadra">
+                                PGS DON BOSCO 2000 ASD
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">34</td>
+                            <td class="squadra">
+                                POL GALATEA
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">35</td>
+                            <td class="squadra">
+                                POL. VALVERDE INDOOR
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">36</td>
+                            <td class="squadra">
+                                POLISPORTIVA CAMELOT
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">37</td>
+                            <td class="squadra">
+                                POLISPORTIVA L'AQUILA HOCKEY
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">38</td>
+                            <td class="squadra">
+                                POLISPORTIVA VALDAGRI
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">39</td>
+                            <td class="squadra">
+                                S.H.P. BONOMI
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">40</td>
+                            <td class="squadra">
+                                SCUOLA HOCKEY INDER SINGH
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">41</td>
+                            <td class="squadra">
+                                SCUOLA HOCKEY INDER SINGH NEXT GEN
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">42</td>
+                            <td class="squadra">
+                                SG AMSICORA
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">43</td>
+                            <td class="squadra">
+                                SQUADRA JOLLY
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">44</td>
+                            <td class="squadra">
+                                SSD UNIME ARL
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">45</td>
+                            <td class="squadra">
+                                TEVERE EUR H
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                        <tr class="">
+                            <td class="pos">46</td>
+                            <td class="squadra">
+                                VELINO HOCKEY TEAM
+                                
+                            </td>
+                            <td><strong>0</strong></td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td class="">0</td>
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Grafici Statistiche -->
+        <div class="card-section">
+            <h2><span class="icon">📊</span> Statistiche</h2>
+            <div class="chart-container">
+                <canvas id="goalChart"></canvas>
+            </div>
+        </div>
+
+        <!-- Risultati -->
+        <div class="card-section">
+            <h2><span class="icon">📅</span> Risultati</h2>
+
+            <div class="filters">
+                <button class="filter-btn active" onclick="filtraRisultati('tutti')">Tutte le partite</button>
+                <button class="filter-btn" onclick="filtraRisultati('valchisone')">Solo Val Chisone</button>
+                <button class="filter-btn" onclick="filtraRisultati('giocate')">Solo giocate</button>
+                <button class="filter-btn" onclick="filtraRisultati('dagiocare')">Da giocare</button>
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1018</div>
+
+                <div class="partita-card valchisone da-giocare"
+                     data-valchisone="true"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">HP VALCHISONE</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 CAMPO HOCKEY SANDRO MICHELLONET - VIA DANTE ALIGHIERI, 9 - Villar Perosa
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1019</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">HCU RASSEMBLEMENT TORINO</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 Tazzoli - Corso Tazzoli, 78 - Torino
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1020</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">SCUOLA HOCKEY INDER SINGH</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 Augusto Lorenzoni - VIA MADONNA DEI FIORI, 49 - Bra
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1021</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">SCUOLA HOCKEY INDER SINGH NEXT GEN</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 Augusto Lorenzoni - VIA MADONNA DEI FIORI, 49 - Bra
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1022</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">HOCKEY CLUB ARGENTIA</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 Campo Comunale - Via Boccaccio, snc - Cernusco sul Naviglio
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1023</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">HOCKEY CUSCUBE BRESCIA</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 Comunale San Polo - Via Giotto, 1 - Brescia
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1024</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">HOCKEY CLUB RIVA</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 Campo Hockey Club Riva - Via Mazzoldi, snc - Riva del Garda
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1025</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">POLISPORTIVA CAMELOT</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 Grantorto Hockey Stadium - Viale dello sport, 7 - Grantorto
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1026</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">CSP SAN GIORGIO</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 campo hockey s. farinazzo - VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1027</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">HOCKEY CLUB ROVIGO</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 Campo Hockey Mario Steffenel - Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1028</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">HC GENOVA</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Sab 22/11/2025 11.00 | 📍 FIESCHI STADIUM - VIA FIESCHI, 20 - GENOVA
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1029</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">HC GENOVA GIALLO BLU</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Sab 22/11/2025 11.00 | 📍 FIESCHI STADIUM - VIA FIESCHI, 20 - GENOVA
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1030</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">ASD SUPERBA HC</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 CAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO, 2B - Genova
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1031</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">GENOVA H 1980 LAGACCIO</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 CAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO, 2B - Genova
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1032</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">GENOVA H 1980 QUEZZI</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 CAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO, 2B - Genova
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1033</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">GENOVA H 1980 SESTRI</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 CAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO, 2B - Genova
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1034</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">ASD BAD LAKE HOCKEY</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 CAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO, 2B - Genova
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1035</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">ASD BAD LAKE HOCKEY</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 CAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO, 2B - Genova
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1036</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">ASD BAD LAKE HOCKEY</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 CAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO, 2B - Genova
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1037</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">CUS PISA ASD</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 CAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI - PISA
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1038</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">H.POTENZA PICENA</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 STADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO, SNC - Potenza Picena
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1039</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">ASD HOCKEY CLUB MOGLIANO</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 BAGLIANO - STRADA PROVINCIALE 72, 25 - MOGLIANO
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1040</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">TEVERE EUR H</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 EUROMA STADIUM - Via Bilbao, 12 - Roma
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1041</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">LAZIO HOCKEY</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE, 25 - ROMA
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1042</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">HOCKEY CLUB OLIMPIA</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 Sintetico Comunale - Via Marrani, snc - Torre Santa Susanna
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1043</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">PGS DON BOSCO 2000 ASD</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 Oratorio Salesiano - Via S.G.Bosco, 6 - Barcellona Pozzo di Gotto
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1044</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">ASD SAN PIETRO CLARENZA</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 DUSMET - VIA NUOVALUCELLO, 132 - Catania
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1045</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">SG AMSICORA</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 AMSICORA - VIA DEI SALINIERI, 1, 23 - CAGLIARI
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1047</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">AZ HOCKEY TEAM</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 Campo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli, snc - Avezzano
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1048</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">SSD UNIME ARL</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 Cittadella Universitaria - Viale Annunziata, snc - Messina
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1049</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">ASD HOCKEY CLUB ERCHIE SANTA LUCIA</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 Sintetico Comunale - Via Marrani, snc - Torre Santa Susanna
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1050</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">VELINO HOCKEY TEAM</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 Campo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli, snc - Avezzano
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1051</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">ASD ADIGE UHC</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 Comunale Mori - Via Lomba, 23 - Mori
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1052</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">CUS PADOVA</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 Impianti L. Merigliano - via J. Corrado, 4 - Padova
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1053</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">HC RAINBOW</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 CAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO, 2B - Genova
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1054</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">ASD HOCKEY CLUB BONDENO</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 A. GIATTI - VIA NAPOLEONICA, 87 - BONDENO
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1055</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">HOCKEY CLUB ROMA</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE, 25 - ROMA
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1056</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">BUTTERFLY ROMA</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 CENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI, 48 - Roma
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1057</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">CUS CAGLIARI</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 CAMPI SPORTIVI 'SA DUCHESSA' - VIA IS MIRRIONIS, 3, 9 - Cagliari
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1058</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">POL GALATEA</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 DUSMET - VIA NUOVALUCELLO, 132 - Catania
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1059</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">POLISPORTIVA L'AQUILA HOCKEY</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 Polisportiva L'Aquila Rugby - LocalitÃ  Centi Colella, snc - L'Aquila
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1060</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">CIRCOLO POLICORO MAGNA GRECIA</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 Lido Policoro - Via Lido, snc - Policoro
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1061</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">POLISPORTIVA VALDAGRI</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 Campo Villa D\'agri - VIA DELLO SPORT, 1 - VILLA D'AGRI
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1062</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">ASD HOCKEY CAMPAGNANO</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.30 | 📍 CENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI, 48 - Roma
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1065</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">S.H.P. BONOMI</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 CENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 1118</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">POL. VALVERDE INDOOR</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 Comunale Valverde - Via Seminara, 28 - Valverde
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="giornata-section">
+                <div class="giornata-header">Gara 989</div>
+
+                <div class="partita-card  da-giocare"
+                     data-valchisone="false"
+                     data-giocata="false">
+                    <div class="casa">
+                        <div class="squadra-nome">CUS TORINO</div>
+                    </div>
+                    <div class="punteggio ">vs</div>
+                    <div class="trasferta">
+                        <div class="squadra-nome">SQUADRA JOLLY</div>
+                    </div>
+                    <div class="info-partita">
+                        📅 Dom 28/06/2026 11.00 | 📍 Tazzoli - Corso Tazzoli, 78 - Torino
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Dati per il grafico
+        const squadreData = [
+
+            {
+                nome: "ASD ADIGE UHC",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "ASD BAD LAKE HOCKEY",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "ASD HOCKEY CAMPAGNANO",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "ASD HOCKEY CLUB BONDENO",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "ASD HOCKEY CLUB ERCHIE SANTA LUCIA",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "ASD HOCKEY CLUB MOGLIANO",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "ASD SAN PIETRO CLARENZA",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "ASD SUPERBA HC",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "AZ HOCKEY TEAM",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "BUTTERFLY ROMA",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "CIRCOLO POLICORO MAGNA GRECIA",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "CSP SAN GIORGIO",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "CUS CAGLIARI",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "CUS PADOVA",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "CUS PISA ASD",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "CUS TORINO",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "GENOVA H 1980 LAGACCIO",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "GENOVA H 1980 QUEZZI",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "GENOVA H 1980 SESTRI",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "H.POTENZA PICENA",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "HC GENOVA",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "HC GENOVA GIALLO BLU",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "HC RAINBOW",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "HCU RASSEMBLEMENT TORINO",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "HOCKEY CLUB ARGENTIA",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "HOCKEY CLUB OLIMPIA",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "HOCKEY CLUB RIVA",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "HOCKEY CLUB ROMA",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "HOCKEY CLUB ROVIGO",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "HOCKEY CUSCUBE BRESCIA",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "HP VALCHISONE",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "LAZIO HOCKEY",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "PGS DON BOSCO 2000 ASD",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "POL GALATEA",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "POL. VALVERDE INDOOR",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "POLISPORTIVA CAMELOT",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "POLISPORTIVA L'AQUILA HOCKEY",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "POLISPORTIVA VALDAGRI",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "S.H.P. BONOMI",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "SCUOLA HOCKEY INDER SINGH",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "SCUOLA HOCKEY INDER SINGH NEXT GEN",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "SG AMSICORA",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "SQUADRA JOLLY",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "SSD UNIME ARL",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "TEVERE EUR H",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+            {
+                nome: "VELINO HOCKEY TEAM",
+                gol_fatti: 0,
+                gol_subiti: 0,
+                differenza: 0
+            },
+
+        ];
+
+        // Grafico Gol
+        const ctx = document.getElementById('goalChart');
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: squadreData.map(s => s.nome),
+                datasets: [
+                    {
+                        label: 'Gol Fatti',
+                        data: squadreData.map(s => s.gol_fatti),
+                        backgroundColor: 'rgba(6, 134, 45, 0.7)',
+                        borderColor: 'rgba(6, 134, 45, 1)',
+                        borderWidth: 2
+                    },
+                    {
+                        label: 'Gol Subiti',
+                        data: squadreData.map(s => s.gol_subiti),
+                        backgroundColor: 'rgba(220, 53, 69, 0.7)',
+                        borderColor: 'rgba(220, 53, 69, 1)',
+                        borderWidth: 2
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'top',
+                    },
+                    title: {
+                        display: true,
+                        text: 'Gol Fatti vs Gol Subiti',
+                        font: {
+                            size: 16
+                        }
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+
+        // Funzione filtro risultati
+        function filtraRisultati(tipo) {
+            const partite = document.querySelectorAll('.partita-card');
+            const buttons = document.querySelectorAll('.filter-btn');
+
+            // Aggiorna pulsanti attivi
+            buttons.forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+
+            partite.forEach(partita => {
+                let mostra = true;
+
+                switch(tipo) {
+                    case 'valchisone':
+                        mostra = partita.dataset.valchisone === 'true';
+                        break;
+                    case 'giocate':
+                        mostra = partita.dataset.giocata === 'true';
+                        break;
+                    case 'dagiocare':
+                        mostra = partita.dataset.giocata === 'false';
+                        break;
+                    case 'tutti':
+                    default:
+                        mostra = true;
+                }
+
+                partita.style.display = mostra ? 'grid' : 'none';
+            });
+        }
+    </script>
+</body>
+</html>

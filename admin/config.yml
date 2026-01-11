@@ -1,0 +1,91 @@
+# Decap CMS Configuration for trapias.it
+
+# Backend configuration
+# For local development, run: npx decap-server
+local_backend: true
+
+backend:
+  name: github
+  repo: trapias/trapias.github.io
+  branch: main
+
+# Media files configuration
+media_folder: "public/images"
+public_folder: "/images"
+
+# Site URL for preview
+site_url: https://www.trapias.it
+display_url: https://www.trapias.it
+
+# Logo
+logo_url: /images/AL_Mac.png
+
+# Collections
+collections:
+  - name: "blog"
+    label: "Blog Posts"
+    folder: "src/content/blog"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    extension: "md"
+    format: "yaml-frontmatter"
+    sortable_fields: ["date", "title"]
+    view_filters:
+      - label: "Posts with images"
+        field: poster
+        pattern: "."
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        required: true
+
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        required: true
+
+      - label: "Permalink"
+        name: "permalink"
+        widget: "string"
+        required: true
+        hint: "Custom URL path (e.g., '2024/01/30/My-Post' or 'my-post-slug')"
+
+      - label: "Description"
+        name: "description"
+        widget: "text"
+        required: false
+        hint: "Brief description for SEO and previews"
+
+      - label: "Poster Image"
+        name: "poster"
+        widget: "image"
+        required: false
+        hint: "Featured image for the post"
+        choose_url: true
+        media_library:
+          config:
+            multiple: false
+
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        required: false
+        field:
+          name: "tag"
+          widget: "string"
+
+      - label: "Categories"
+        name: "categories"
+        widget: "list"
+        required: false
+        field:
+          name: "category"
+          widget: "string"
+
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
