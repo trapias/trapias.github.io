@@ -266,8 +266,6 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>HCU RASSEMBLEMENT - SCUOLA HOCKEY INDER SINGH NEXT GEN</strong>
 
-**Risultato: 6-0**
-
 Giornata: Gara 463
 
 Campo: PALESTRA TORRAZZA 
@@ -284,8 +282,6 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 ## Dom 04/01/2026 11.30 ⭐
 
 <strong>HP VALCHISONE - SCUOLA HOCKEY INDER SINGH</strong>
-
-**Risultato: 3-1**
 
 Giornata: Gara 464
 
@@ -308,8 +304,6 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 <strong>HCU RASSEMBLEMENT - HP VALCHISONE</strong>
 
-**Risultato: 2-2**
-
 Giornata: Gara 465
 
 Campo: PALESTRA TORRAZZA 
@@ -329,8 +323,6 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 ## Dom 04/01/2026 14.00
 
 <strong>SCUOLA HOCKEY INDER SINGH NEXT GEN - SCUOLA HOCKEY INDER SINGH</strong>
-
-**Risultato: 1-4**
 
 Giornata: Gara 466
 

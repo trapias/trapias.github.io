@@ -115,8 +115,6 @@ Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 <strong>ASD HOCKEY CLUB BONDENO - CSP SAN GIORGIO</strong>
 
-**Risultato: 7-0**
-
 Giornata: Gara 425
 
 Campo: Palestra Adriano Bonini 
@@ -132,8 +130,6 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Dom 04/01/2026 11.00
 
 <strong>ASD ADIGE UHC - POLISPORTIVA CAMELOT</strong>
-
-**Risultato: 1-1**
 
 Giornata: Gara 426
 
@@ -151,8 +147,6 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>CSP SAN GIORGIO - HOCKEY CLUB RIVA</strong>
 
-**Risultato: 2-3**
-
 Giornata: Gara 427
 
 Campo: Palestra Adriano Bonini 
@@ -168,8 +162,6 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Dom 04/01/2026 13.00
 
 <strong>ASD ADIGE UHC - ASD HOCKEY CLUB BONDENO</strong>
-
-**Risultato: 1-18**
 
 Giornata: Gara 428
 
@@ -187,8 +179,6 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>CSP SAN GIORGIO - POLISPORTIVA CAMELOT</strong>
 
-**Risultato: 10-0**
-
 Giornata: Gara 429
 
 Campo: Palestra Adriano Bonini 
@@ -204,8 +194,6 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Dom 04/01/2026 15.00
 
 <strong>ASD ADIGE UHC - HOCKEY CLUB RIVA</strong>
-
-**Risultato: 0-12**
 
 Giornata: Gara 430
 

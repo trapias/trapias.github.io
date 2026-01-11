@@ -2,7 +2,7 @@
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 1
 
-## Dom 22/03/2026 15.00
+## Dom 15/03/2026 15.00
 
 <strong>SG AMSICORA - BUTTERFLY ROMA</strong>
 
@@ -18,7 +18,7 @@ Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
-## Dom 22/03/2026 15.00
+## Dom 15/03/2026 15.00
 
 <strong>LAZIO HOCKEY - HF LORENZONI</strong>
 
@@ -34,7 +34,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Dom 22/03/2026 15.00
+## Dom 15/03/2026 15.00
 
 <strong>UH CAPITOLINA - CUS TORINO</strong>
 
@@ -50,7 +50,7 @@ Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 
-## Dom 22/03/2026 13.00
+## Dom 15/03/2026 15.00
 
 <strong>MILANO HP - HT FEMM BOLOGNA</strong>
 
@@ -69,7 +69,7 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 2
 
-## Dom 29/03/2026 15.00
+## Dom 22/03/2026 15.00
 
 <strong>HT FEMM BOLOGNA - SG AMSICORA</strong>
 
@@ -85,7 +85,7 @@ Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bol
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
-## Dom 29/03/2026 15.00
+## Dom 22/03/2026 15.00
 
 <strong>UH CAPITOLINA - MILANO HP</strong>
 
@@ -101,7 +101,7 @@ Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 
-## Dom 29/03/2026 15.00
+## Dom 22/03/2026 15.00
 
 <strong>CUS TORINO - LAZIO HOCKEY</strong>
 
@@ -117,7 +117,7 @@ Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemon
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
-## Dom 29/03/2026 15.00
+## Dom 22/03/2026 15.00
 
 <strong>HF LORENZONI - BUTTERFLY ROMA</strong>
 
@@ -136,7 +136,7 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 3
 
-## Sab 11/04/2026 13.00
+## Sab 28/03/2026 15.30
 
 <strong>CUS TORINO - HT FEMM BOLOGNA</strong>
 
@@ -152,7 +152,7 @@ Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemon
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
-## Sab 11/04/2026 13.00
+## Sab 28/03/2026 15.00
 
 <strong>HF LORENZONI - MILANO HP</strong>
 
@@ -168,7 +168,7 @@ Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Pie
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 
-## Sab 11/04/2026 13.00
+## Sab 28/03/2026 13.30
 
 <strong>SG AMSICORA - LAZIO HOCKEY</strong>
 
@@ -184,7 +184,7 @@ Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
-## Sab 11/04/2026 15.00
+## Sab 28/03/2026 13.30
 
 <strong>BUTTERFLY ROMA - UH CAPITOLINA</strong>
 
@@ -203,7 +203,7 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 4
 
-## Dom 12/04/2026 15.00
+## Dom 29/03/2026 15.00
 
 <strong>HT FEMM BOLOGNA - HF LORENZONI</strong>
 
@@ -219,7 +219,7 @@ Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bol
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
-## Dom 12/04/2026 13.00
+## Dom 29/03/2026 15.00
 
 <strong>MILANO HP - CUS TORINO</strong>
 
@@ -235,7 +235,7 @@ Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
-## Dom 12/04/2026 15.00
+## Dom 29/03/2026 15.00
 
 <strong>SG AMSICORA - UH CAPITOLINA</strong>
 
@@ -251,7 +251,7 @@ Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
-## Dom 12/04/2026 15.00
+## Dom 29/03/2026 15.00
 
 <strong>BUTTERFLY ROMA - LAZIO HOCKEY</strong>
 
@@ -270,7 +270,7 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 5
 
-## Dom 19/04/2026 15.00
+## Dom 12/04/2026 15.00
 
 <strong>HF LORENZONI - SG AMSICORA</strong>
 
@@ -286,7 +286,7 @@ Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Pie
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 
-## Dom 19/04/2026 15.00
+## Dom 12/04/2026 15.00
 
 <strong>CUS TORINO - BUTTERFLY ROMA</strong>
 
@@ -302,7 +302,7 @@ Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemon
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
-## Dom 19/04/2026 15.00
+## Dom 12/04/2026 15.00
 
 <strong>LAZIO HOCKEY - MILANO HP</strong>
 
@@ -318,7 +318,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Dom 19/04/2026 15.00
+## Dom 12/04/2026 15.00
 
 <strong>HT FEMM BOLOGNA - UH CAPITOLINA</strong>
 
@@ -337,7 +337,7 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 6
 
-## Dom 26/04/2026 15.00
+## Dom 19/04/2026 15.00
 
 <strong>SG AMSICORA - CUS TORINO</strong>
 
@@ -353,7 +353,7 @@ Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
-## Dom 26/04/2026 15.00
+## Dom 19/04/2026 15.00
 
 <strong>UH CAPITOLINA - HF LORENZONI</strong>
 
@@ -369,7 +369,7 @@ Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 
-## Dom 26/04/2026 15.00
+## Dom 19/04/2026 15.00
 
 <strong>BUTTERFLY ROMA - MILANO HP</strong>
 
@@ -385,7 +385,7 @@ Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capital
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
-## Dom 26/04/2026 15.00
+## Dom 19/04/2026 15.00
 
 <strong>LAZIO HOCKEY - HT FEMM BOLOGNA</strong>
 
@@ -404,7 +404,7 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 7
 
-## Dom 03/05/2026 15.00
+## Dom 26/04/2026 14.00
 
 <strong>MILANO HP - SG AMSICORA</strong>
 
@@ -420,7 +420,7 @@ Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
-## Dom 03/05/2026 15.00
+## Dom 26/04/2026 15.00
 
 <strong>HF LORENZONI - CUS TORINO</strong>
 
@@ -436,7 +436,7 @@ Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Pie
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 
-## Dom 03/05/2026 15.00
+## Dom 26/04/2026 15.00
 
 <strong>UH CAPITOLINA - LAZIO HOCKEY</strong>
 
@@ -452,7 +452,7 @@ Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 
-## Dom 03/05/2026 15.00
+## Dom 26/04/2026 15.00
 
 <strong>HT FEMM BOLOGNA - BUTTERFLY ROMA</strong>
 
@@ -471,7 +471,7 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 8
 
-## Dom 10/05/2026 15.00
+## Dom 03/05/2026 15.00
 
 <strong>BUTTERFLY ROMA - SG AMSICORA</strong>
 
@@ -487,7 +487,7 @@ Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capital
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
-## Dom 10/05/2026 15.00
+## Dom 03/05/2026 15.00
 
 <strong>HF LORENZONI - LAZIO HOCKEY</strong>
 
@@ -503,7 +503,7 @@ Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Pie
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 
-## Dom 10/05/2026 15.00
+## Dom 03/05/2026 15.00
 
 <strong>CUS TORINO - UH CAPITOLINA</strong>
 
@@ -519,7 +519,7 @@ Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemon
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
-## Dom 10/05/2026 15.00
+## Dom 03/05/2026 15.00
 
 <strong>HT FEMM BOLOGNA - MILANO HP</strong>
 
@@ -538,7 +538,7 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 9
 
-## Dom 17/05/2026 15.00
+## Dom 10/05/2026 15.00
 
 <strong>SG AMSICORA - HT FEMM BOLOGNA</strong>
 
@@ -554,7 +554,7 @@ Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
-## Dom 17/05/2026 15.00
+## Dom 10/05/2026 15.00
 
 <strong>MILANO HP - UH CAPITOLINA</strong>
 
@@ -570,7 +570,7 @@ Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
-## Dom 17/05/2026 15.00
+## Dom 10/05/2026 15.00
 
 <strong>LAZIO HOCKEY - CUS TORINO</strong>
 
@@ -586,7 +586,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Dom 17/05/2026 15.00
+## Dom 10/05/2026 15.00
 
 <strong>BUTTERFLY ROMA - HF LORENZONI</strong>
 
@@ -605,7 +605,7 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 10
 
-## Sab 30/05/2026 15.00
+## Dom 17/05/2026 15.00
 
 <strong>HT FEMM BOLOGNA - CUS TORINO</strong>
 
@@ -621,7 +621,7 @@ Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bol
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
-## Sab 30/05/2026 15.00
+## Dom 17/05/2026 15.00
 
 <strong>MILANO HP - HF LORENZONI</strong>
 
@@ -637,7 +637,7 @@ Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
-## Sab 30/05/2026 13.00
+## Dom 17/05/2026 15.00
 
 <strong>LAZIO HOCKEY - SG AMSICORA</strong>
 
@@ -653,7 +653,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Sab 30/05/2026 13.00
+## Dom 17/05/2026 15.00
 
 <strong>UH CAPITOLINA - BUTTERFLY ROMA</strong>
 

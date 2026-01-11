@@ -6,8 +6,6 @@
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - ASD HOCKEY CLUB BONDENO</strong>
 
-**Risultato: 4-1**
-
 Giornata: Gara 309
 
 Campo: PALARECORD CUS 
@@ -24,8 +22,6 @@ Geo: Geo(latitude=44.5131553, longitude=11.3970058)
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - CUS PADOVA ASD</strong>
 
-**Risultato: 7-4**
-
 Giornata: Gara 310
 
 Campo: PALARECORD CUS 
@@ -41,8 +37,6 @@ Geo: Geo(latitude=44.5131553, longitude=11.3970058)
 ## Dom 04/01/2026 14.00
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
-
-**Risultato: 6-1**
 
 Giornata: Gara 311
 

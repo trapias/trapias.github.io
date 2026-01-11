@@ -6,8 +6,6 @@
 
 <strong>MILANO HP - ASD HOCKEY CLUB ARGENTIA</strong>
 
-**Risultato: 1-5**
-
 Giornata: Gara 315
 
 Campo: COMPLESSO POLIVALENTE VIA CISALPINA 
@@ -23,8 +21,6 @@ Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 ## Mar 06/01/2026 12.00
 
 <strong>HOCKEY CLUB RIVA 2 - HOCKEY CLUB RIVA 1</strong>
-
-**Risultato: 0-5**
 
 Giornata: Gara 316
 
@@ -42,8 +38,6 @@ Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 
 <strong>ASD HOCKEY CLUB ARGENTIA - HOCKEY CLUB RIVA 1</strong>
 
-**Risultato: 4-9**
-
 Giornata: Gara 317
 
 Campo: COMPLESSO POLIVALENTE VIA CISALPINA 
@@ -59,8 +53,6 @@ Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 ## Mar 06/01/2026 14.30
 
 <strong>HOCKEY CLUB RIVA 2 - MILANO HP</strong>
-
-**Risultato: 0-5**
 
 Giornata: Gara 318
 
@@ -78,8 +70,6 @@ Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 
 <strong>ASD HOCKEY CLUB ARGENTIA - HOCKEY CLUB RIVA 2</strong>
 
-**Risultato: 9-0**
-
 Giornata: Gara 319
 
 Campo: COMPLESSO POLIVALENTE VIA CISALPINA 
@@ -94,9 +84,7 @@ Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 
 ## Mar 06/01/2026 16.30
 
-<strong>HOCKEY CLUB RIVA 1 - MILANO HP</strong>
-
-**Risultato: 7-1**
+<strong>HOCKEY CLUB RIVA 2 - MILANO HP</strong>
 
 Giornata: Gara 320
 

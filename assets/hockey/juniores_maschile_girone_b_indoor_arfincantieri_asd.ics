@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 363\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO\n\nRisultato: 3-9
-GEO:45.896716;13.491104
-LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
-DTSTART:20260106T120000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - A.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO
-UID:801a8c6e-2645-40a5-b593-0fc1a6595a40@801a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 347\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nA.R.FINCANTIERI A.S.D. - CUS PADOVA ASD\n\nRisultato: 1-10
 GEO:45.519604;10.258212
 LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
 DTSTART:20251208T110000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - A.R.FINCANTIERI A.S.D. - CUS PADOVA ASD
-UID:4d382b5a-dde0-408b-962b-dd9b78954728@4d38.org
+UID:b04c9295-3246-484d-9380-2887a6e518be@b04c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 365\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - CUS PADOVA ASD
+GEO:45.896716;13.491104
+LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
+DTSTART:20260106T140000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - A.R.FINCANTIERI A.S.D. - CUS PADOVA ASD
+UID:e2e63ffc-8fed-42b8-98e1-06af337b85c5@e2e6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 354\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nA.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO\n\nRisultato: 1-13
@@ -23,7 +23,15 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20251228T100000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - A.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO
-UID:90dfec14-1b1e-4835-a83a-2ef048b8b368@90df.org
+UID:886b5a7f-5ae7-4fa8-be1b-48ad94c683a6@886b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 360\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - HC VILLAFRANCA
+GEO:45.896716;13.491104
+LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
+DTSTART:20260106T090000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - A.R.FINCANTIERI A.S.D. - HC VILLAFRANCA
+UID:4d91e93d-58ae-489e-aa31-3f66565ab36c@4d91.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 374\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI A.S.D.
@@ -31,7 +39,7 @@ GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
 DTSTART:20260118T160000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI A.S.D.
-UID:749fb556-684e-41c1-aebf-4444052342ed@749f.org
+UID:094e13d3-9cde-4f7c-b816-7bc4a3745d61@094e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 354\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nA.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO\n\nRisultato: 1-13
@@ -39,31 +47,15 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20251228T100000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - A.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO
-UID:6834843d-e3ae-4205-a000-c5175481661b@6834.org
+UID:67ec155d-80cb-4e24-bd6f-75c519f89f4c@67ec.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 357\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.\n\nRisultato: 9-0
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251228T130000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
-UID:a3c12ab6-c713-44cf-9f90-774398233697@a3c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 363\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO\n\nRisultato: 3-9
-GEO:45.896716;13.491104
-LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
-DTSTART:20260106T120000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - A.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO
-UID:20a401c0-ec36-4032-9af7-5fded9685b60@20a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 360\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - HC VILLAFRANCA\n\nRisultato: 1-9
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 360\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - HC VILLAFRANCA
 GEO:45.896716;13.491104
 LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
 DTSTART:20260106T090000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - A.R.FINCANTIERI A.S.D. - HC VILLAFRANCA
-UID:94b91168-1f2e-448f-b945-039694e3fa7f@94b9.org
+UID:8bfe9ccf-e64d-468a-ad8e-21d51a7c1093@8bfe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 369\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
@@ -71,7 +63,31 @@ GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
 DTSTART:20260118T110000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
-UID:e391acf6-c615-4004-8f39-18aef6088bc4@e391.org
+UID:e0b685c2-402f-4ac5-9d43-d0c587f535bd@e0b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 357\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.\n\nRisultato: 9-0
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251228T130000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
+UID:2711f84e-bea4-4483-b2fb-9e91a83e609b@2711.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 350\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nHOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI A.S.D.\n\nRisultato: 3-4
+GEO:45.519604;10.258212
+LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
+DTSTART:20251208T140000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - HOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI A.S.D.
+UID:230c56f7-5aa8-4ce1-abe2-e6a4ac698901@230c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 350\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nHOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI A.S.D.\n\nRisultato: 3-4
+GEO:45.519604;10.258212
+LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
+DTSTART:20251208T140000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - HOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI A.S.D.
+UID:d1788294-3f16-4744-befa-a62d102747c4@d178.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 374\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI A.S.D.
@@ -79,15 +95,7 @@ GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
 DTSTART:20260118T160000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI A.S.D.
-UID:84b2a103-db1f-454b-b8e1-a2cd43c94ba7@84b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 350\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nHOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI A.S.D.\n\nRisultato: 3-4
-GEO:45.519604;10.258212
-LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
-DTSTART:20251208T140000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - HOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI A.S.D.
-UID:27436710-640b-4d17-8673-9ba68baf4b3a@2743.org
+UID:599d8cae-0a5a-46ba-a675-c37b58a0de06@599d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 347\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nA.R.FINCANTIERI A.S.D. - CUS PADOVA ASD\n\nRisultato: 1-10
@@ -95,7 +103,23 @@ GEO:45.519604;10.258212
 LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
 DTSTART:20251208T110000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - A.R.FINCANTIERI A.S.D. - CUS PADOVA ASD
-UID:bf25edab-a2a5-4286-bb31-d514495d0385@bf25.org
+UID:584c4ea3-cd3b-4847-98d8-749cc18f2ead@584c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 372\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHC VILLAFRANCA - A.R.FINCANTIERI A.S.D.
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20260118T140000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HC VILLAFRANCA - A.R.FINCANTIERI A.S.D.
+UID:e3c75a51-045c-473f-8e5e-c75e9f183b66@e3c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 363\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO
+GEO:45.896716;13.491104
+LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
+DTSTART:20260106T120000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - A.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO
+UID:94d46352-12ba-4050-be7a-341c1036ff61@94d4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 369\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
@@ -103,7 +127,31 @@ GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
 DTSTART:20260118T110000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
-UID:49ac563f-c586-4481-bd94-7ea82c6a9cb5@49ac.org
+UID:f90af323-e4cd-41a9-9a19-0767da25cbe8@f90a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 365\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - CUS PADOVA ASD
+GEO:45.896716;13.491104
+LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
+DTSTART:20260106T140000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - A.R.FINCANTIERI A.S.D. - CUS PADOVA ASD
+UID:a6a26693-38d7-4657-a765-f92b9dce3ac2@a6a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 372\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHC VILLAFRANCA - A.R.FINCANTIERI A.S.D.
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20260118T140000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HC VILLAFRANCA - A.R.FINCANTIERI A.S.D.
+UID:f5097963-9acd-4c19-9855-0ca300b685df@f509.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 363\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO
+GEO:45.896716;13.491104
+LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
+DTSTART:20260106T120000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - A.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO
+UID:689fea95-3ab3-43fe-9bc5-a9d6376d0211@689f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 357\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.\n\nRisultato: 9-0
@@ -111,54 +159,6 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20251228T130000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.
-UID:f2044153-2906-4d5e-af5e-38e82f21d31b@f204.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 365\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - CUS PADOVA ASD\n\nRisultato: 0-13
-GEO:45.896716;13.491104
-LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
-DTSTART:20260106T140000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - A.R.FINCANTIERI A.S.D. - CUS PADOVA ASD
-UID:3ee94a05-81e8-4447-82d0-f95e78411b8e@3ee9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 365\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - CUS PADOVA ASD\n\nRisultato: 0-13
-GEO:45.896716;13.491104
-LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
-DTSTART:20260106T140000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - A.R.FINCANTIERI A.S.D. - CUS PADOVA ASD
-UID:1868b50a-2d5d-4d75-b2e3-da28042b47d1@1868.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 372\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHC VILLAFRANCA - A.R.FINCANTIERI A.S.D.
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20260118T140000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HC VILLAFRANCA - A.R.FINCANTIERI A.S.D.
-UID:0bea748d-a699-45fc-9e39-92822ce45de9@0bea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 350\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nHOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI A.S.D.\n\nRisultato: 3-4
-GEO:45.519604;10.258212
-LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
-DTSTART:20251208T140000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - HOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI A.S.D.
-UID:c855fe41-8269-4312-b98e-f1a24771b6fc@c855.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 360\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - HC VILLAFRANCA\n\nRisultato: 1-9
-GEO:45.896716;13.491104
-LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
-DTSTART:20260106T090000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - A.R.FINCANTIERI A.S.D. - HC VILLAFRANCA
-UID:bfa51383-8444-42dc-b31b-f82ff3509d96@bfa5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 372\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHC VILLAFRANCA - A.R.FINCANTIERI A.S.D.
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20260118T140000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HC VILLAFRANCA - A.R.FINCANTIERI A.S.D.
-UID:56ae4dca-01f5-47d6-8314-bc39666e5553@56ae.org
+UID:3dd9acfd-30b1-4260-87bc-e8357218f8ae@3dd9.org
 END:VEVENT
 END:VCALENDAR

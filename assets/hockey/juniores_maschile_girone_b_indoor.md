@@ -264,8 +264,6 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>A.R.FINCANTIERI A.S.D. - HC VILLAFRANCA</strong>
 
-**Risultato: 1-9**
-
 Giornata: Gara 360
 
 Campo: palestra macoratti 
@@ -281,8 +279,6 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 ## Mar 06/01/2026 11.00
 
 <strong>CSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO</strong>
-
-**Risultato: 4-7**
 
 Giornata: Gara 361
 
@@ -300,8 +296,6 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
 <strong>CUS PADOVA ASD - HOCKEY CUSCUBE BRESCIA</strong>
 
-**Risultato: 11-2**
-
 Giornata: Gara 362
 
 Campo: palestra macoratti 
@@ -317,8 +311,6 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 ## Mar 06/01/2026 13.00
 
 <strong>A.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO</strong>
-
-**Risultato: 3-9**
 
 Giornata: Gara 363
 
@@ -336,8 +328,6 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
 <strong>HC VILLAFRANCA - ASD HOCKEY CLUB BONDENO</strong>
 
-**Risultato: 1-4**
-
 Giornata: Gara 364
 
 Campo: palestra macoratti 
@@ -353,8 +343,6 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 ## Mar 06/01/2026 15.00
 
 <strong>A.R.FINCANTIERI A.S.D. - CUS PADOVA ASD</strong>
-
-**Risultato: 0-13**
 
 Giornata: Gara 365
 
@@ -372,8 +360,6 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
 <strong>HOCKEY CUSCUBE BRESCIA - ASD HOCKEY CLUB BONDENO</strong>
 
-**Risultato: 3-10**
-
 Giornata: Gara 366
 
 Campo: palestra macoratti 
@@ -389,8 +375,6 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 ## Mar 06/01/2026 17.00
 
 <strong>CSP SAN GIORGIO - CUS PADOVA ASD</strong>
-
-**Risultato: 4-6**
 
 Giornata: Gara 569
 
