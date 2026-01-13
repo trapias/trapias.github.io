@@ -2,20 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 2\nGara 296\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - BUTTERFLY ROMA\n\nRisultato: 2-5
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20251114T180000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 2 - UH CAPITOLINA - BUTTERFLY ROMA
+UID:10da29a8-a417-4cdd-aa85-538b48d7c6f8@10da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 4\nGara 300\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - LAZIO HOCKEY
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260307T140000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 4 - BUTTERFLY ROMA - LAZIO HOCKEY
+UID:3b7e12a3-a864-4286-9e11-5666d2b0fffa@3b7e.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 3\nGara 297\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - BUTTERFLY ROMA\n\nRisultato: 0-9
 GEO:43.386400;13.654670
 LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
 DTSTART:20251122T133000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 3 - H.POTENZA PICENA - BUTTERFLY ROMA
-UID:fee60094-9ada-40a9-a587-a048f81b4837@fee6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 5\nGara 302\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - UH CAPITOLINA
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260401T170000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 5 - BUTTERFLY ROMA - UH CAPITOLINA
-UID:7aa5c42c-6fec-4ea1-9699-1333b6334410@7aa5.org
+UID:7846d469-3e59-4de8-8f78-34564cdf26c9@7846.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 1\nGara 294\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - BUTTERFLY ROMA
@@ -23,63 +31,7 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20260301T140000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 1 - LAZIO HOCKEY - BUTTERFLY ROMA
-UID:753a4c7d-123a-4166-bf2a-2731e55adbd4@753a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 4\nGara 300\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - LAZIO HOCKEY
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260307T140000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 4 - BUTTERFLY ROMA - LAZIO HOCKEY
-UID:38c49300-b904-4132-9691-a4b1afa55a31@38c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 2\nGara 296\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - BUTTERFLY ROMA\n\nRisultato: 2-5
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20251114T180000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 2 - UH CAPITOLINA - BUTTERFLY ROMA
-UID:36cd649b-d625-4694-bf89-8a6714233544@36cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 6\nGara 303\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - H.POTENZA PICENA
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260509T130000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 6 - BUTTERFLY ROMA - H.POTENZA PICENA
-UID:8ad37a0d-e548-4c0d-814f-a5e27fc11330@8ad3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 3\nGara 297\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - BUTTERFLY ROMA\n\nRisultato: 0-9
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20251122T133000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 3 - H.POTENZA PICENA - BUTTERFLY ROMA
-UID:88c04fa8-f0f6-4981-adf5-01165634f949@88c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 6\nGara 303\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - H.POTENZA PICENA
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260509T130000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 6 - BUTTERFLY ROMA - H.POTENZA PICENA
-UID:c03876d2-a6ed-4042-ad61-b375f662ed3d@c038.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 4\nGara 300\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - LAZIO HOCKEY
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260307T140000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 4 - BUTTERFLY ROMA - LAZIO HOCKEY
-UID:d1d854ea-6125-4564-8740-4acd466502e1@d1d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 2\nGara 296\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - BUTTERFLY ROMA\n\nRisultato: 2-5
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20251114T180000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 2 - UH CAPITOLINA - BUTTERFLY ROMA
-UID:14c998f4-d218-4eaa-98ae-dae35d91d566@14c9.org
+UID:6ecee33e-4001-49bd-bd58-3da158edf11d@6ece.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 5\nGara 302\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - UH CAPITOLINA
@@ -87,6 +39,54 @@ GEO:41.932122;12.486847
 LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
 DTSTART:20260401T170000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 5 - BUTTERFLY ROMA - UH CAPITOLINA
-UID:c74e3f16-a473-4582-a540-207ae8754ffc@c74e.org
+UID:983bd5d9-369c-4bed-bd1a-90377cfc2ce8@983b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 4\nGara 300\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - LAZIO HOCKEY
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260307T140000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 4 - BUTTERFLY ROMA - LAZIO HOCKEY
+UID:a951e77c-9095-44f8-a890-3fd7b8761920@a951.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 6\nGara 303\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - H.POTENZA PICENA
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260509T130000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 6 - BUTTERFLY ROMA - H.POTENZA PICENA
+UID:258eb088-c754-47ff-b957-4758023ea420@258e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 6\nGara 303\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - H.POTENZA PICENA
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260509T130000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 6 - BUTTERFLY ROMA - H.POTENZA PICENA
+UID:1f8284ae-67af-4f38-93d3-adfb414165b5@1f82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 3\nGara 297\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - BUTTERFLY ROMA\n\nRisultato: 0-9
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20251122T133000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 3 - H.POTENZA PICENA - BUTTERFLY ROMA
+UID:5c08b0a2-6260-4311-ae63-de1a7f8c5763@5c08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 2\nGara 296\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - BUTTERFLY ROMA\n\nRisultato: 2-5
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20251114T180000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 2 - UH CAPITOLINA - BUTTERFLY ROMA
+UID:d52c86e1-ef0b-4529-9161-8d9964ec6782@d52c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 5\nGara 302\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - UH CAPITOLINA
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260401T170000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 5 - BUTTERFLY ROMA - UH CAPITOLINA
+UID:dd9e7e18-4779-4eca-a560-d8bdfeded88f@dd9e.org
 END:VEVENT
 END:VCALENDAR

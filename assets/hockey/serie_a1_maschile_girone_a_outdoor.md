@@ -202,7 +202,7 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5
 
-## Sab 18/04/2026 15.00
+## Sab 18/04/2026 13.00
 
 <strong>CUS CAGLIARI - CSP SAN GIORGIO</strong>
 
@@ -353,7 +353,7 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8
 
-## Sab 09/05/2026 15.00
+## Sab 09/05/2026 17.00
 
 <strong>CUS CAGLIARI - HT SARDEGNA</strong>
 
