@@ -2,7 +2,7 @@
 
 # Ragazze - OUTDOOR  - Girone E / Giornata 1
 
-## Dom 18/01/2026 11.00
+## Gio 12/02/2026 18.30
 
 <strong>SG AMSICORA - CUS CAGLIARI</strong>
 

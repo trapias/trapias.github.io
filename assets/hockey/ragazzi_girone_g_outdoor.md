@@ -57,7 +57,7 @@ Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardi
 Geo: Geo(latitude=39.2289643, longitude=9.1111611)
 
 
-## Dom 25/01/2026 11.00
+## Dom 25/01/2026 10.00
 
 <strong>POLISPORTIVA FERRINI - A.S.D. POLISPORTIVA JUVENILIA</strong>
 

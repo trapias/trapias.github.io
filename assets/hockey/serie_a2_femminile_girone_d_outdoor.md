@@ -78,7 +78,7 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 # Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 3
 
-## Dom 25/01/2026 11.00
+## Dom 25/01/2026 12.00
 
 <strong>CUS CAGLIARI - POLISPORTIVA FERRINI B</strong>
 

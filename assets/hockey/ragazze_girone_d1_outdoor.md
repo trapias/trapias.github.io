@@ -84,7 +84,7 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 # Ragazze - OUTDOOR  - Girone D1 / Giornata 5
 
-## Dom 29/03/2026 13.00
+## Sab 28/03/2026 12.00
 
 <strong>H.POTENZA PICENA - UH CAPITOLINA</strong>
 
@@ -103,7 +103,7 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 # Ragazze - OUTDOOR  - Girone D1 / Giornata 6
 
-## Dom 19/04/2026 13.00
+## Sab 18/04/2026 17.00
 
 <strong>UH CAPITOLINA - AZ HOCKEY TEAM</strong>
 

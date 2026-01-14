@@ -41,7 +41,7 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 # Allieve  - Girone D / Giornata 2
 
-## Dom 18/01/2026 13.00
+## Dom 18/01/2026 12.00
 
 <strong>HOCKEY POTENZA PICENA - AZ HOCKEY TEAM</strong>
 
@@ -57,7 +57,7 @@ Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 
-## Dom 18/01/2026 15.00
+## Dom 18/01/2026 14.00
 
 <strong>AZ HOCKEY TEAM - HOCKEY POTENZA PICENA</strong>
 
