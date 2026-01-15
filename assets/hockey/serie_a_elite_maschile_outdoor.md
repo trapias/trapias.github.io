@@ -955,7 +955,7 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
 <!-- VALCHISONE_START -->
-## Sab 20/06/2026 15.00 ⭐
+## Sab 20/06/2026 11.00 ⭐
 
 <strong>POL FERRINI - HP VALCHISONE</strong>
 

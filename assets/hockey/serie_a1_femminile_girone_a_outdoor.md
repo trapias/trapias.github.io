@@ -18,7 +18,7 @@ Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 
-## Dom 15/03/2026 15.00
+## Dom 15/03/2026 11.00
 
 <strong>POL FERRINI - HF GENOVA 80</strong>
 

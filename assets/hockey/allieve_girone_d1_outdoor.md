@@ -195,7 +195,7 @@ Location:  Via G. Rodari, 5 Oriolo Romano
 Location:  Via G. Rodari, 5 Oriolo Romano
 
 
-## Sab 11/04/2026 17.00
+## Sab 11/04/2026 18.00
 
 <strong>LAZIO HOCKEY - UH CAPITOLINA</strong>
 
