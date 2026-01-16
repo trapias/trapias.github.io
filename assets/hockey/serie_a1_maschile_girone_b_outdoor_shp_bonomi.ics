@@ -2,11 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 733\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.H.P. BONOMI - H.POTENZA PICENA
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 748\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - S.H.P. BONOMI
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20260516T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9 - H.POTENZA PICENA - S.H.P. BONOMI
+UID:4d375587-05c1-48f3-9c0a-1bd18b5a7ace@4d37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 747\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.H.P. BONOMI - CUS PISA ASD
 LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20260411T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 4 - S.H.P. BONOMI - H.POTENZA PICENA
-UID:6144794e-2e38-4154-80fb-b0fd1577af62@6144.org
+DTSTART:20260509T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8 - S.H.P. BONOMI - CUS PISA ASD
+UID:79d4e87e-a5ec-4edd-87bf-7f1e956a9ccb@79d4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 752\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA HC - S.H.P. BONOMI
@@ -14,51 +22,7 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20260523T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 10 - SUPERBA HC - S.H.P. BONOMI
-UID:878d64ad-e48f-4940-87cd-2b664647249a@878d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 726\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.H.P. BONOMI - A.S.D. POLISPORTIVA JUVENILIA
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20260314T140000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1 - S.H.P. BONOMI - A.S.D. POLISPORTIVA JUVENILIA
-UID:10d546b8-958d-4c0e-a176-723d3cec10fa@10d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 741\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA JUVENILIA - S.H.P. BONOMI
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20260425T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6 - A.S.D. POLISPORTIVA JUVENILIA - S.H.P. BONOMI
-UID:cef9c300-80d2-4668-85e0-c032f7406682@cef9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 737\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.H.P. BONOMI - SUPERBA HC
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20260418T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 5 - S.H.P. BONOMI - SUPERBA HC
-UID:9cd70e4e-88be-4a86-91d3-96689d6aedf4@9cd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 743\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.H.P. BONOMI - HT BOLOGNA
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20260502T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 7 - S.H.P. BONOMI - HT BOLOGNA
-UID:adf7e970-0592-4041-8215-d15dcf528912@adf7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 748\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - S.H.P. BONOMI
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20260516T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9 - H.POTENZA PICENA - S.H.P. BONOMI
-UID:a488bfc0-68aa-47f8-9718-c9ab025aa69d@a488.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 747\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.H.P. BONOMI - CUS PISA ASD
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20260509T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8 - S.H.P. BONOMI - CUS PISA ASD
-UID:7ec517fd-c183-4079-8e1d-4749d1955347@7ec5.org
+UID:e03ddb38-04b8-4fc2-8e6f-f7a247eae3a9@e03d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 728\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT BOLOGNA - S.H.P. BONOMI
@@ -66,75 +30,7 @@ GEO:44.494706;11.280302
 LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
 DTSTART:20260321T143000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 2 - HT BOLOGNA - S.H.P. BONOMI
-UID:34a3644f-da94-459a-9004-90a4d2d9ffa3@34a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 733\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.H.P. BONOMI - H.POTENZA PICENA
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20260411T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 4 - S.H.P. BONOMI - H.POTENZA PICENA
-UID:03ed48d9-2f2c-46b7-a73f-f9512bd01aa9@03ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 737\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.H.P. BONOMI - SUPERBA HC
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20260418T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 5 - S.H.P. BONOMI - SUPERBA HC
-UID:3d6c5a74-7195-4d49-bbf0-f57d6b72b8c1@3d6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 732\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - S.H.P. BONOMI
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260328T140000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3 - CUS PISA ASD - S.H.P. BONOMI
-UID:c03436d8-0011-4f94-8b71-0389287f6547@c034.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 748\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - S.H.P. BONOMI
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20260516T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9 - H.POTENZA PICENA - S.H.P. BONOMI
-UID:3a3d0741-4b78-4a68-9c83-33aa3204d7aa@3a3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 726\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.H.P. BONOMI - A.S.D. POLISPORTIVA JUVENILIA
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20260314T140000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1 - S.H.P. BONOMI - A.S.D. POLISPORTIVA JUVENILIA
-UID:d400c997-e23b-457e-aa82-49467adaa907@d400.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 728\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT BOLOGNA - S.H.P. BONOMI
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20260321T143000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 2 - HT BOLOGNA - S.H.P. BONOMI
-UID:32ed1c71-1783-4b0e-a530-0458c97b8b96@32ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 747\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.H.P. BONOMI - CUS PISA ASD
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20260509T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8 - S.H.P. BONOMI - CUS PISA ASD
-UID:b7812890-849c-4023-b3d3-bff7a96107f5@b781.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 741\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA JUVENILIA - S.H.P. BONOMI
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20260425T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6 - A.S.D. POLISPORTIVA JUVENILIA - S.H.P. BONOMI
-UID:6090b977-ae4a-411d-9d00-c35076cbd5ad@6090.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 732\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - S.H.P. BONOMI
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260328T140000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3 - CUS PISA ASD - S.H.P. BONOMI
-UID:f0b6b7b5-a709-4923-a039-7984e3e041e5@f0b6.org
+UID:ada821d0-9375-4aed-9ee5-fa3c00479cba@ada8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 752\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA HC - S.H.P. BONOMI
@@ -142,13 +38,117 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20260523T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 10 - SUPERBA HC - S.H.P. BONOMI
-UID:0824ffcd-cf72-43f5-ae91-cb6a9d98330b@0824.org
+UID:4975e092-8ca6-45fd-9980-67f206f64346@4975.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 733\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.H.P. BONOMI - H.POTENZA PICENA
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20260411T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 4 - S.H.P. BONOMI - H.POTENZA PICENA
+UID:8a6eeaf1-a0ce-4a44-9c5e-c61f8eda98ae@8a6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 726\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.H.P. BONOMI - A.S.D. POLISPORTIVA JUVENILIA
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20260314T140000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1 - S.H.P. BONOMI - A.S.D. POLISPORTIVA JUVENILIA
+UID:d3491f52-143c-4355-bb51-ec8cf70fad11@d349.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 737\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.H.P. BONOMI - SUPERBA HC
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20260418T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 5 - S.H.P. BONOMI - SUPERBA HC
+UID:42965857-34f5-45f6-8b5c-6544d29438db@4296.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 741\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA JUVENILIA - S.H.P. BONOMI
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20260425T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6 - A.S.D. POLISPORTIVA JUVENILIA - S.H.P. BONOMI
+UID:583b5cec-996f-4392-909b-a1b4f98c696f@583b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 743\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.H.P. BONOMI - HT BOLOGNA
 LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
 DTSTART:20260502T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 7 - S.H.P. BONOMI - HT BOLOGNA
-UID:714e12b2-fa18-4fe2-b975-81b5d4e830b2@714e.org
+UID:0f8cfd8c-7c46-40af-a89c-2864f84b4b3b@0f8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 732\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - S.H.P. BONOMI
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260328T140000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3 - CUS PISA ASD - S.H.P. BONOMI
+UID:a0ab2c45-3009-485c-ae0c-9390078559fd@a0ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 733\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.H.P. BONOMI - H.POTENZA PICENA
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20260411T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 4 - S.H.P. BONOMI - H.POTENZA PICENA
+UID:456ba4c6-47cd-4ad7-96e7-617d2c77b83f@456b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 748\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - S.H.P. BONOMI
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20260516T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9 - H.POTENZA PICENA - S.H.P. BONOMI
+UID:3b3f865b-e234-4d94-8116-8881002adeaf@3b3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 728\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT BOLOGNA - S.H.P. BONOMI
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20260321T143000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 2 - HT BOLOGNA - S.H.P. BONOMI
+UID:41ed5920-82f5-453d-b961-7869e5d84de9@41ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 743\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.H.P. BONOMI - HT BOLOGNA
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20260502T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 7 - S.H.P. BONOMI - HT BOLOGNA
+UID:33c1f93b-23b5-429c-9e7c-c78fcf0bde6e@33c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 732\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - S.H.P. BONOMI
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260328T140000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3 - CUS PISA ASD - S.H.P. BONOMI
+UID:751c48ee-1fdf-421c-a132-4e6a71a9b94d@751c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 737\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.H.P. BONOMI - SUPERBA HC
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20260418T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 5 - S.H.P. BONOMI - SUPERBA HC
+UID:bd126fbb-6f02-4d1d-aebb-9c88813e1c78@bd12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 741\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA JUVENILIA - S.H.P. BONOMI
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20260425T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6 - A.S.D. POLISPORTIVA JUVENILIA - S.H.P. BONOMI
+UID:a666e740-fa28-4891-83eb-25123cbc9de7@a666.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 747\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.H.P. BONOMI - CUS PISA ASD
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20260509T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8 - S.H.P. BONOMI - CUS PISA ASD
+UID:411592de-a9d7-4a9a-9fc9-45a4c14700ae@4115.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 726\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.H.P. BONOMI - A.S.D. POLISPORTIVA JUVENILIA
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20260314T140000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1 - S.H.P. BONOMI - A.S.D. POLISPORTIVA JUVENILIA
+UID:b45da31c-77cf-49ac-889f-bba5206f03d0@b45d.org
 END:VEVENT
 END:VCALENDAR

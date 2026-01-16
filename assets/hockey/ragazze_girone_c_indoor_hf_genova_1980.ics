@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazze  - Girone C / Giornata 1\nGara 260\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHF GENOVA 1980 - HC GENOVA\n\nRisultato: 0-6
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251221T110000Z
-SUMMARY:Ragazze  - Girone C / Giornata 1 - HF GENOVA 1980 - HC GENOVA
-UID:094a8a67-be0f-4533-a8b5-c878ac61fba6@094a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ragazze  - Girone C / Giornata 2\nGara 266\nPalazinola - Via Antonio Brilla\, snc Savona\nHF GENOVA 1980 - HC SAVONA\n\nRisultato: 6-10
 GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20260111T113000Z
 SUMMARY:Ragazze  - Girone C / Giornata 2 - HF GENOVA 1980 - HC SAVONA
-UID:393d711a-67be-4ea6-9990-91f18c9d5d2b@393d.org
+UID:30f5129d-f72e-4d5a-a61f-9777df4a4985@30f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze  - Girone C / Giornata 1\nGara 260\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHF GENOVA 1980 - HC GENOVA\n\nRisultato: 0-6
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251221T110000Z
+SUMMARY:Ragazze  - Girone C / Giornata 1 - HF GENOVA 1980 - HC GENOVA
+UID:e994b19b-910b-440c-9509-c3e38667e5e9@e994.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze  - Girone C / Giornata 2\nGara 264\nPalazinola - Via Antonio Brilla\, snc Savona\nHC RAINBOW SAMPIERDARENA - HF GENOVA 1980\n\nRisultato: 0-6
@@ -23,7 +23,7 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20260111T093000Z
 SUMMARY:Ragazze  - Girone C / Giornata 2 - HC RAINBOW SAMPIERDARENA - HF GENOVA 1980
-UID:55c0e919-a238-4b04-bea4-d7cdd4f8a5b1@55c0.org
+UID:475cc163-e30c-4b6d-997f-e364c5c5613f@475c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze  - Girone C / Giornata 1\nGara 258\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - HF GENOVA 1980\n\nRisultato: 5-1
@@ -31,23 +31,7 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251221T090000Z
 SUMMARY:Ragazze  - Girone C / Giornata 1 - CUS PISA ASD - HF GENOVA 1980
-UID:d48957a2-c355-40e3-8843-0dc4abeab551@d489.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazze  - Girone C / Giornata 2\nGara 264\nPalazinola - Via Antonio Brilla\, snc Savona\nHC RAINBOW SAMPIERDARENA - HF GENOVA 1980\n\nRisultato: 0-6
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20260111T093000Z
-SUMMARY:Ragazze  - Girone C / Giornata 2 - HC RAINBOW SAMPIERDARENA - HF GENOVA 1980
-UID:262fe740-72ba-4224-b101-f76c646ddfb6@262f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazze  - Girone C / Giornata 1\nGara 260\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHF GENOVA 1980 - HC GENOVA\n\nRisultato: 0-6
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251221T110000Z
-SUMMARY:Ragazze  - Girone C / Giornata 1 - HF GENOVA 1980 - HC GENOVA
-UID:175bfb0f-62dc-4931-8167-6be7fb062f4d@175b.org
+UID:7148399e-01d2-4607-abd9-be56cb5bb87b@7148.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze  - Girone C / Giornata 2\nGara 266\nPalazinola - Via Antonio Brilla\, snc Savona\nHF GENOVA 1980 - HC SAVONA\n\nRisultato: 6-10
@@ -55,6 +39,22 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20260111T113000Z
 SUMMARY:Ragazze  - Girone C / Giornata 2 - HF GENOVA 1980 - HC SAVONA
-UID:197719b6-f94c-428a-926b-22da8cddc0ea@1977.org
+UID:aa017842-906d-40cc-a90b-820ca48930fc@aa01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze  - Girone C / Giornata 1\nGara 260\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHF GENOVA 1980 - HC GENOVA\n\nRisultato: 0-6
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251221T110000Z
+SUMMARY:Ragazze  - Girone C / Giornata 1 - HF GENOVA 1980 - HC GENOVA
+UID:b57665a2-50de-4f61-8d7b-5dc37887b2bb@b576.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze  - Girone C / Giornata 2\nGara 264\nPalazinola - Via Antonio Brilla\, snc Savona\nHC RAINBOW SAMPIERDARENA - HF GENOVA 1980\n\nRisultato: 0-6
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20260111T093000Z
+SUMMARY:Ragazze  - Girone C / Giornata 2 - HC RAINBOW SAMPIERDARENA - HF GENOVA 1980
+UID:a42f8c7d-0879-4065-b757-071233c84a84@a42f.org
 END:VEVENT
 END:VCALENDAR
