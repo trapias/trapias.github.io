@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 1110\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - SQUADRA JOLLY
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 987\nCAMPI SPORTIVI 'SA DUCHESSA' - VIA IS MIRRIONIS\, 3\, 9 Cagliari\nCUS CAGLIARI - SQUADRA JOLLY
+GEO:39.228964;9.111161
+LOCATION:3\, Via Is Mirrionis\, Tuvixeddu\, Is Mirrionis\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09100\, Italia
 DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - BUTTERFLY ROMA - SQUADRA JOLLY
-UID:023deefa-f90b-4b0f-8414-8fec96f16f5a@023d.org
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - CUS CAGLIARI - SQUADRA JOLLY
+UID:48386f0a-d43c-4ef9-81e8-5873e96add3c@4838.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 1119\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nI CICLOPI - SQUADRA JOLLY
+GEO:37.529426;15.096557
+LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - I CICLOPI - SQUADRA JOLLY
+UID:8d7bdce4-a3d6-40ab-8217-31dbc175af59@8d7b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 964\nComunale Valverde - Via Seminara\, 28 Valverde\nVALVERDE HOCKETY 2018 - SQUADRA JOLLY
@@ -15,31 +23,7 @@ GEO:37.573746;15.121129
 LOCATION:Via Seminara\, Portiere\, Fontana-Casalrosato\, Maugeri\, Valverde\, Catania\, Sicilia\, 95028\, Italia
 DTSTART:20260628T090000Z
 SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - VALVERDE HOCKETY 2018 - SQUADRA JOLLY
-UID:06aed148-7679-470a-a49d-6713e7a2be2b@06ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 970\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nHC PISTOIA - SQUADRA JOLLY
-GEO:43.950983;10.829288
-LOCATION:Via per Montagnana\, Montagnana\, Marliana\, Pistoia\, Toscana\, 51130\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HC PISTOIA - SQUADRA JOLLY
-UID:32273415-9a9c-4d4c-8ea4-c456ca8a4235@3227.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 974\nCAMPO HOCKEY SANDRO MICHELLONET - VIA DANTE ALIGHIERI\, 9 Villar Perosa\nSCUOLA HOCKEY SILVANA UGHETTO - SQUADRA JOLLY
-GEO:44.920693;7.244598
-LOCATION:Via Dante Alighieri\, Villaggio Operaio Giovanni Agnelli\, Saretto\, Villar Perosa\, Torino\, Piemonte\, 10069\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - SCUOLA HOCKEY SILVANA UGHETTO - SQUADRA JOLLY
-UID:03c2baf7-473c-4d25-a000-abf6b97af67f@03c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 981\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nHOCKEY CLUB ROMA - SQUADRA JOLLY
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HOCKEY CLUB ROMA - SQUADRA JOLLY
-UID:e618526a-8e61-4a9f-9418-6a95a98cac35@e618.org
+UID:4309eb39-eb20-415f-ac98-b1613c28f065@4309.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 968\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - SQUADRA JOLLY
@@ -47,54 +31,7 @@ GEO:45.801036;13.542335
 LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
 DTSTART:20260628T090000Z
 SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HOCKEY TRIESTE 2012 - SQUADRA JOLLY
-UID:766fc5ae-f1f5-4201-a6be-4892ff7c7d58@766f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 987\nCAMPI SPORTIVI 'SA DUCHESSA' - VIA IS MIRRIONIS\, 3\, 9 Cagliari\nCUS CAGLIARI - SQUADRA JOLLY
-GEO:39.228964;9.111161
-LOCATION:3\, Via Is Mirrionis\, Tuvixeddu\, Is Mirrionis\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09100\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - CUS CAGLIARI - SQUADRA JOLLY
-UID:dd9f295a-bb1b-42ff-9a42-416575b20990@dd9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 965\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHOCKEY CLUB ARGENTIA - SQUADRA JOLLY
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HOCKEY CLUB ARGENTIA - SQUADRA JOLLY
-UID:3e01e023-c7bd-428f-8b57-738aee912593@3e01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 985\nLido Policoro - Via Lido\, snc Policoro\nCIRCOLO POLICORO MAGNA GRECIA - SQUADRA JOLLY
-GEO:40.207452;16.686218
-LOCATION:Via del Lido\, Policoro\, Matera\, Basilicata\, 75025\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - CIRCOLO POLICORO MAGNA GRECIA - SQUADRA JOLLY
-UID:79b84148-2562-444d-8931-555597b27644@79b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 973\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nASD CERNUSCO FIELD HOCKEY - SQUADRA JOLLY
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260628T110000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - ASD CERNUSCO FIELD HOCKEY - SQUADRA JOLLY
-UID:c24ef9d8-5b8b-4e97-be74-3676eef132a2@c24e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 977\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - SQUADRA JOLLY
-LOCATION: Via Goria\, 4 Moncalvo
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - USD MONCALVESE HOCKEY - SQUADRA JOLLY
-UID:79f8650a-c2f3-4026-a412-8507105a71f7@79f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 982\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI - SQUADRA JOLLY
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - POLISPORTIVA FERRINI - SQUADRA JOLLY
-UID:7ce3a4cf-0387-45a9-9c45-5fa077242378@7ce3.org
+UID:a3f1072c-b6e7-49a2-90a8-4e964eecfa68@a3f1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 967\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - SQUADRA JOLLY
@@ -102,7 +39,15 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20260628T090000Z
 SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - CSP SAN GIORGIO - SQUADRA JOLLY
-UID:93368a5e-8316-4e8b-ba50-4de1c74fcc12@9336.org
+UID:20870f2c-00a6-4086-b96c-50f3b6d26cda@2087.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 967\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - SQUADRA JOLLY
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - CSP SAN GIORGIO - SQUADRA JOLLY
+UID:ddd53db6-158f-43d3-8367-5466c025cfec@ddd5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 973\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nASD CERNUSCO FIELD HOCKEY - SQUADRA JOLLY
@@ -110,7 +55,15 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20260628T110000Z
 SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - ASD CERNUSCO FIELD HOCKEY - SQUADRA JOLLY
-UID:0a1c2c28-b26e-4ef3-a148-33a4205bae78@0a1c.org
+UID:4f74eaae-9f26-4284-aba1-5e588d918d90@4f74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 982\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI - SQUADRA JOLLY
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - POLISPORTIVA FERRINI - SQUADRA JOLLY
+UID:8112e8a7-534f-4520-bb78-58854c2c8ae9@8112.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 965\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHOCKEY CLUB ARGENTIA - SQUADRA JOLLY
@@ -118,15 +71,154 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20260628T090000Z
 SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HOCKEY CLUB ARGENTIA - SQUADRA JOLLY
-UID:8e70d55c-a8bf-4529-a58e-5a3824342d4f@8e70.org
+UID:6bf63698-5db6-4593-aad3-cddaae0298b7@6bf6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 987\nCAMPI SPORTIVI 'SA DUCHESSA' - VIA IS MIRRIONIS\, 3\, 9 Cagliari\nCUS CAGLIARI - SQUADRA JOLLY
-GEO:39.228964;9.111161
-LOCATION:3\, Via Is Mirrionis\, Tuvixeddu\, Is Mirrionis\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09100\, Italia
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 974\nCAMPO HOCKEY SANDRO MICHELLONET - VIA DANTE ALIGHIERI\, 9 Villar Perosa\nSCUOLA HOCKEY SILVANA UGHETTO - SQUADRA JOLLY
+GEO:44.920693;7.244598
+LOCATION:Via Dante Alighieri\, Villaggio Operaio Giovanni Agnelli\, Saretto\, Villar Perosa\, Torino\, Piemonte\, 10069\, Italia
 DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - CUS CAGLIARI - SQUADRA JOLLY
-UID:51d58f19-e730-44ff-b5d0-c0aeeab1e0fd@51d5.org
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - SCUOLA HOCKEY SILVANA UGHETTO - SQUADRA JOLLY
+UID:2d5ca8b8-4cfa-4cba-b5d4-91f56cd54d4e@2d5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 974\nCAMPO HOCKEY SANDRO MICHELLONET - VIA DANTE ALIGHIERI\, 9 Villar Perosa\nSCUOLA HOCKEY SILVANA UGHETTO - SQUADRA JOLLY
+GEO:44.920693;7.244598
+LOCATION:Via Dante Alighieri\, Villaggio Operaio Giovanni Agnelli\, Saretto\, Villar Perosa\, Torino\, Piemonte\, 10069\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - SCUOLA HOCKEY SILVANA UGHETTO - SQUADRA JOLLY
+UID:db296b46-276c-445e-b1fc-c632af700be8@db29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 973\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nASD CERNUSCO FIELD HOCKEY - SQUADRA JOLLY
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260628T110000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - ASD CERNUSCO FIELD HOCKEY - SQUADRA JOLLY
+UID:c6189012-c550-4ffb-9347-adc53fd97cee@c618.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 966\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - SQUADRA JOLLY
+GEO:45.601581;11.733989
+LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HC GRANTORTO - SQUADRA JOLLY
+UID:b73a0c60-1b9f-4024-8255-8fd96659a510@b73a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 969\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - SQUADRA JOLLY
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - SQUADRA JOLLY
+UID:4ff109ac-bf78-4dd0-9391-bf282b6fb8b4@4ff1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 985\nLido Policoro - Via Lido\, snc Policoro\nCIRCOLO POLICORO MAGNA GRECIA - SQUADRA JOLLY
+GEO:40.207452;16.686218
+LOCATION:Via del Lido\, Policoro\, Matera\, Basilicata\, 75025\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - CIRCOLO POLICORO MAGNA GRECIA - SQUADRA JOLLY
+UID:a4561267-15b8-4dc4-80d2-a44c2ca0969e@a456.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 979\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT BOLOGNA - SQUADRA JOLLY
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HT BOLOGNA - SQUADRA JOLLY
+UID:c4794dbf-d5cd-4748-b2b3-486743fa97b5@c479.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 972\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA JUVENILIA - SQUADRA JOLLY
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - A.S.D. POLISPORTIVA JUVENILIA - SQUADRA JOLLY
+UID:8fff0713-4ade-4eee-b31d-90738672a5f3@8fff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 975\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nASD HOCKEY CLUB ERCHIE SANTA LUCIA - SQUADRA JOLLY
+LOCATION: Via Marrani\, snc Torre Santa Susanna
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - ASD HOCKEY CLUB ERCHIE SANTA LUCIA - SQUADRA JOLLY
+UID:52cb7f33-dc21-4981-9d27-d225f0210f8f@52cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 984\nPolisportiva L'Aquila Rugby - LocalitÃ  Centi Colella\, snc L'Aquila\nPOLISPORTIVA L'AQUILA HOCKEY - SQUADRA JOLLY
+LOCATION: LocalitÃ  Centi Colella\, snc L'Aquila
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - POLISPORTIVA L'AQUILA HOCKEY - SQUADRA JOLLY
+UID:71f7fd05-c6b2-4fae-8997-4fa09a7edad0@71f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 981\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nHOCKEY CLUB ROMA - SQUADRA JOLLY
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HOCKEY CLUB ROMA - SQUADRA JOLLY
+UID:2d08c27b-2932-41d3-8bd0-aa17954ef263@2d08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 976\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC LARIO - SQUADRA JOLLY
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260628T100000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HC LARIO - SQUADRA JOLLY
+UID:bc93289c-edfd-45fa-b731-d10d7758fed6@bc93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 971\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - SQUADRA JOLLY
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - TEVERE EUR H - SQUADRA JOLLY
+UID:ddccec53-8da5-45cb-9319-77075b04352b@ddcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 969\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - SQUADRA JOLLY
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - SQUADRA JOLLY
+UID:644339da-bb37-4114-9067-352227340310@6443.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 980\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT FEMM BOLOGNA - SQUADRA JOLLY
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20260628T100000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HT FEMM BOLOGNA - SQUADRA JOLLY
+UID:09bb5ac3-8ad0-4b4e-afce-5186aa4e53db@09bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 986\nCampo Villa D\\'agri - VIA DELLO SPORT\, 1 VILLA D'AGRI\nPOLISPORTIVA VALDAGRI - SQUADRA JOLLY
+LOCATION: VIA DELLO SPORT\, 1 VILLA D'AGRI
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - POLISPORTIVA VALDAGRI - SQUADRA JOLLY
+UID:f76165b4-411a-45d5-aef9-0a0d91a6426a@f761.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 965\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHOCKEY CLUB ARGENTIA - SQUADRA JOLLY
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HOCKEY CLUB ARGENTIA - SQUADRA JOLLY
+UID:a3cbb3f0-9a2d-4288-9453-32197a2bddc1@a3cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 978\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA B - SQUADRA JOLLY
+LOCATION: via J. Corrado\, 4 Padova
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - CUS PADOVA B - SQUADRA JOLLY
+UID:e2939488-9e37-419c-9e8d-bf0577b5a217@e293.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 984\nPolisportiva L'Aquila Rugby - LocalitÃ  Centi Colella\, snc L'Aquila\nPOLISPORTIVA L'AQUILA HOCKEY - SQUADRA JOLLY
+LOCATION: LocalitÃ  Centi Colella\, snc L'Aquila
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - POLISPORTIVA L'AQUILA HOCKEY - SQUADRA JOLLY
+UID:9a46090d-3017-416f-8a9b-d08722ab1342@9a46.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 1110\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - SQUADRA JOLLY
@@ -134,263 +226,7 @@ GEO:41.932122;12.486847
 LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
 DTSTART:20260628T090000Z
 SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - BUTTERFLY ROMA - SQUADRA JOLLY
-UID:b6d5e8da-cc65-4732-9f33-bc4d2ac99d0c@b6d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 969\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - SQUADRA JOLLY
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - SQUADRA JOLLY
-UID:83703f41-2865-4a8f-a3af-3c5afd57a022@8370.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 976\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC LARIO - SQUADRA JOLLY
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260628T100000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HC LARIO - SQUADRA JOLLY
-UID:7538ee49-fc0a-43dd-9e5e-b374a5488e78@7538.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 1079\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - SQUADRA JOLLY
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - CUS PISA ASD - SQUADRA JOLLY
-UID:48e1d3a4-69f8-4e9b-85e3-6af41fc3782d@48e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 971\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - SQUADRA JOLLY
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - TEVERE EUR H - SQUADRA JOLLY
-UID:71055e69-b72c-45aa-b0e4-06dcc5ad78e8@7105.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 979\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT BOLOGNA - SQUADRA JOLLY
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HT BOLOGNA - SQUADRA JOLLY
-UID:c3e691ed-552d-4ff1-ac1c-954bd20607b2@c3e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 974\nCAMPO HOCKEY SANDRO MICHELLONET - VIA DANTE ALIGHIERI\, 9 Villar Perosa\nSCUOLA HOCKEY SILVANA UGHETTO - SQUADRA JOLLY
-GEO:44.920693;7.244598
-LOCATION:Via Dante Alighieri\, Villaggio Operaio Giovanni Agnelli\, Saretto\, Villar Perosa\, Torino\, Piemonte\, 10069\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - SCUOLA HOCKEY SILVANA UGHETTO - SQUADRA JOLLY
-UID:8b731fac-23ad-44fb-acd7-381a4cf15c0c@8b73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 978\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA B - SQUADRA JOLLY
-LOCATION: via J. Corrado\, 4 Padova
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - CUS PADOVA B - SQUADRA JOLLY
-UID:b951ce96-369f-4fc2-b1a1-a49e51bb7959@b951.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 980\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT FEMM BOLOGNA - SQUADRA JOLLY
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20260628T100000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HT FEMM BOLOGNA - SQUADRA JOLLY
-UID:be4f50d1-9829-47c8-9a20-b520b9608cae@be4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 1119\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nI CICLOPI - SQUADRA JOLLY
-GEO:37.529426;15.096557
-LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - I CICLOPI - SQUADRA JOLLY
-UID:bf5bdd17-1013-4f71-a505-127bb07be585@bf5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 970\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nHC PISTOIA - SQUADRA JOLLY
-GEO:43.950983;10.829288
-LOCATION:Via per Montagnana\, Montagnana\, Marliana\, Pistoia\, Toscana\, 51130\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HC PISTOIA - SQUADRA JOLLY
-UID:8b6b5568-1a21-4023-8546-ff73d47acb39@8b6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 983\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI B - SQUADRA JOLLY
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20260628T100000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - POLISPORTIVA FERRINI B - SQUADRA JOLLY
-UID:77d99b80-3b4f-493e-a0c2-d0a8f8635b3f@77d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 966\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - SQUADRA JOLLY
-GEO:45.601581;11.733989
-LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HC GRANTORTO - SQUADRA JOLLY
-UID:cf35ef9e-54df-430c-8a65-ca6e9eef6ffc@cf35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 986\nCampo Villa D\\'agri - VIA DELLO SPORT\, 1 VILLA D'AGRI\nPOLISPORTIVA VALDAGRI - SQUADRA JOLLY
-LOCATION: VIA DELLO SPORT\, 1 VILLA D'AGRI
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - POLISPORTIVA VALDAGRI - SQUADRA JOLLY
-UID:748a86a1-46e2-49d9-bc8e-27cd7694a80e@748a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 967\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - SQUADRA JOLLY
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - CSP SAN GIORGIO - SQUADRA JOLLY
-UID:45b45dae-0439-40b7-a8b8-ee610a5a6250@45b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 972\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA JUVENILIA - SQUADRA JOLLY
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - A.S.D. POLISPORTIVA JUVENILIA - SQUADRA JOLLY
-UID:dfcad213-5c43-4736-9744-cc9a1eac8d87@dfca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 977\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - SQUADRA JOLLY
-LOCATION: Via Goria\, 4 Moncalvo
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - USD MONCALVESE HOCKEY - SQUADRA JOLLY
-UID:483550bd-421e-441c-a446-b8b8f047e0b5@4835.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 982\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI - SQUADRA JOLLY
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - POLISPORTIVA FERRINI - SQUADRA JOLLY
-UID:ac070c0f-e7f0-4afb-a190-dccd98658514@ac07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 984\nPolisportiva L'Aquila Rugby - LocalitÃ  Centi Colella\, snc L'Aquila\nPOLISPORTIVA L'AQUILA HOCKEY - SQUADRA JOLLY
-LOCATION: LocalitÃ  Centi Colella\, snc L'Aquila
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - POLISPORTIVA L'AQUILA HOCKEY - SQUADRA JOLLY
-UID:b52a978e-9625-4333-8fc9-2f61d14f213c@b52a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 1119\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nI CICLOPI - SQUADRA JOLLY
-GEO:37.529426;15.096557
-LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - I CICLOPI - SQUADRA JOLLY
-UID:52ba1efc-9d2c-483e-b0c8-a321188b35f9@52ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 976\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC LARIO - SQUADRA JOLLY
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260628T100000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HC LARIO - SQUADRA JOLLY
-UID:8effe2c4-99fb-4e33-81d6-05bd0c165882@8eff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 972\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA JUVENILIA - SQUADRA JOLLY
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - A.S.D. POLISPORTIVA JUVENILIA - SQUADRA JOLLY
-UID:15479d06-f380-4cd0-8cb6-866249caedc4@1547.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 984\nPolisportiva L'Aquila Rugby - LocalitÃ  Centi Colella\, snc L'Aquila\nPOLISPORTIVA L'AQUILA HOCKEY - SQUADRA JOLLY
-LOCATION: LocalitÃ  Centi Colella\, snc L'Aquila
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - POLISPORTIVA L'AQUILA HOCKEY - SQUADRA JOLLY
-UID:d8635d1d-b612-4715-b917-21104556ba3b@d863.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 975\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nASD HOCKEY CLUB ERCHIE SANTA LUCIA - SQUADRA JOLLY
-LOCATION: Via Marrani\, snc Torre Santa Susanna
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - ASD HOCKEY CLUB ERCHIE SANTA LUCIA - SQUADRA JOLLY
-UID:fac79d89-d1ba-4a93-92da-75ff741bc5bb@fac7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 978\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA B - SQUADRA JOLLY
-LOCATION: via J. Corrado\, 4 Padova
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - CUS PADOVA B - SQUADRA JOLLY
-UID:3c0a6a9a-61d4-42dc-8c0c-d0d4f0ab9525@3c0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 966\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - SQUADRA JOLLY
-GEO:45.601581;11.733989
-LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HC GRANTORTO - SQUADRA JOLLY
-UID:99f14d16-8102-46da-bba1-7ab9cd6340b6@99f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 983\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI B - SQUADRA JOLLY
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20260628T100000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - POLISPORTIVA FERRINI B - SQUADRA JOLLY
-UID:3d19ebf5-215e-4f65-ae3e-3c67527a8258@3d19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 968\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - SQUADRA JOLLY
-GEO:45.801036;13.542335
-LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HOCKEY TRIESTE 2012 - SQUADRA JOLLY
-UID:34462cf4-267a-40bf-8fb2-a81fd2fa0010@3446.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 985\nLido Policoro - Via Lido\, snc Policoro\nCIRCOLO POLICORO MAGNA GRECIA - SQUADRA JOLLY
-GEO:40.207452;16.686218
-LOCATION:Via del Lido\, Policoro\, Matera\, Basilicata\, 75025\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - CIRCOLO POLICORO MAGNA GRECIA - SQUADRA JOLLY
-UID:d5ac29bb-014a-4bea-bdc9-0b0d33969f3c@d5ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 1079\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - SQUADRA JOLLY
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - CUS PISA ASD - SQUADRA JOLLY
-UID:7a13ca14-914c-4381-b093-9b7c488bcb26@7a13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 1080\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - SQUADRA JOLLY
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HT SARDEGNA - SQUADRA JOLLY
-UID:da69567a-8fab-4a16-b171-ce35f99acdcd@da69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 975\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nASD HOCKEY CLUB ERCHIE SANTA LUCIA - SQUADRA JOLLY
-LOCATION: Via Marrani\, snc Torre Santa Susanna
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - ASD HOCKEY CLUB ERCHIE SANTA LUCIA - SQUADRA JOLLY
-UID:c5f2956a-373f-4ae7-867a-8905c88b0aac@c5f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 980\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT FEMM BOLOGNA - SQUADRA JOLLY
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20260628T100000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HT FEMM BOLOGNA - SQUADRA JOLLY
-UID:e19a575a-1146-44ec-84b8-3f1286427e2e@e19a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 969\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - SQUADRA JOLLY
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - SQUADRA JOLLY
-UID:ac9a73e6-2144-4579-8a72-a39773fbc650@ac9a.org
+UID:6358c839-49ba-416e-97f5-d0ba7a1668d3@6358.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 981\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nHOCKEY CLUB ROMA - SQUADRA JOLLY
@@ -398,7 +234,7 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20260628T090000Z
 SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HOCKEY CLUB ROMA - SQUADRA JOLLY
-UID:e72bc605-33c1-4ff2-93b1-9207490336a1@e72b.org
+UID:60798acb-32a8-4990-8703-562df92bba67@6079.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 1080\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - SQUADRA JOLLY
@@ -406,7 +242,124 @@ GEO:39.694117;8.702129
 LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
 DTSTART:20260628T090000Z
 SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HT SARDEGNA - SQUADRA JOLLY
-UID:1072e54e-ae28-4d14-90dc-2b035f1ff2b1@1072.org
+UID:152c049d-2036-4c5c-9c0c-33a75dd93256@152c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 982\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI - SQUADRA JOLLY
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - POLISPORTIVA FERRINI - SQUADRA JOLLY
+UID:da09f569-9d6f-4433-bc60-85f90396d225@da09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 970\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nHC PISTOIA - SQUADRA JOLLY
+GEO:43.950983;10.829288
+LOCATION:Via per Montagnana\, Montagnana\, Marliana\, Pistoia\, Toscana\, 51130\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HC PISTOIA - SQUADRA JOLLY
+UID:48e50b8a-b978-4e49-975b-2c54ce0253e1@48e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 977\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - SQUADRA JOLLY
+LOCATION: Via Goria\, 4 Moncalvo
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - USD MONCALVESE HOCKEY - SQUADRA JOLLY
+UID:74765163-f39b-4faa-aeaf-4437464d0b20@7476.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 976\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC LARIO - SQUADRA JOLLY
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260628T100000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HC LARIO - SQUADRA JOLLY
+UID:e0262148-422d-43a6-8b96-4b6b6b76457d@e026.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 983\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI B - SQUADRA JOLLY
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20260628T100000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - POLISPORTIVA FERRINI B - SQUADRA JOLLY
+UID:9999c858-db47-49ab-8170-1e1c21ea0207@9999.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 1079\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - SQUADRA JOLLY
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - CUS PISA ASD - SQUADRA JOLLY
+UID:ed86b2b2-3f00-4fe9-a670-40efd78f3e38@ed86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 985\nLido Policoro - Via Lido\, snc Policoro\nCIRCOLO POLICORO MAGNA GRECIA - SQUADRA JOLLY
+GEO:40.207452;16.686218
+LOCATION:Via del Lido\, Policoro\, Matera\, Basilicata\, 75025\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - CIRCOLO POLICORO MAGNA GRECIA - SQUADRA JOLLY
+UID:61d4b867-fc63-4069-8011-57497fbf790d@61d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 987\nCAMPI SPORTIVI 'SA DUCHESSA' - VIA IS MIRRIONIS\, 3\, 9 Cagliari\nCUS CAGLIARI - SQUADRA JOLLY
+GEO:39.228964;9.111161
+LOCATION:3\, Via Is Mirrionis\, Tuvixeddu\, Is Mirrionis\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09100\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - CUS CAGLIARI - SQUADRA JOLLY
+UID:c1a7f96c-5833-40d8-9e14-6c5aa7ec3076@c1a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 978\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA B - SQUADRA JOLLY
+LOCATION: via J. Corrado\, 4 Padova
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - CUS PADOVA B - SQUADRA JOLLY
+UID:beb95ff4-2113-4d90-a9dc-9b9277448d62@beb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 977\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - SQUADRA JOLLY
+LOCATION: Via Goria\, 4 Moncalvo
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - USD MONCALVESE HOCKEY - SQUADRA JOLLY
+UID:c5b7cd00-56b7-4745-a8ff-6000b53f8260@c5b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 970\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nHC PISTOIA - SQUADRA JOLLY
+GEO:43.950983;10.829288
+LOCATION:Via per Montagnana\, Montagnana\, Marliana\, Pistoia\, Toscana\, 51130\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HC PISTOIA - SQUADRA JOLLY
+UID:08be0097-34bd-47bd-a095-b7feee508b8f@08be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 1080\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - SQUADRA JOLLY
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HT SARDEGNA - SQUADRA JOLLY
+UID:0638bd1a-4561-4a8f-81a9-75177a6429d5@0638.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 1110\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - SQUADRA JOLLY
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - BUTTERFLY ROMA - SQUADRA JOLLY
+UID:982492c7-8283-4e31-875b-ea9dc44168e7@9824.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 983\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI B - SQUADRA JOLLY
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20260628T100000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - POLISPORTIVA FERRINI B - SQUADRA JOLLY
+UID:d9df82da-8ce5-45fa-8061-583b52765a88@d9df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 972\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA JUVENILIA - SQUADRA JOLLY
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - A.S.D. POLISPORTIVA JUVENILIA - SQUADRA JOLLY
+UID:e7b512fe-7a3c-467f-a789-329be1a46b99@e7b5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 979\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT BOLOGNA - SQUADRA JOLLY
@@ -414,7 +367,38 @@ GEO:44.494706;11.280302
 LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
 DTSTART:20260628T090000Z
 SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HT BOLOGNA - SQUADRA JOLLY
-UID:9d82793c-d5d5-466e-8a93-bf31356bd934@9d82.org
+UID:f1e69cfc-03ff-44a7-b1af-872323719d35@f1e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 986\nCampo Villa D\\'agri - VIA DELLO SPORT\, 1 VILLA D'AGRI\nPOLISPORTIVA VALDAGRI - SQUADRA JOLLY
+LOCATION: VIA DELLO SPORT\, 1 VILLA D'AGRI
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - POLISPORTIVA VALDAGRI - SQUADRA JOLLY
+UID:c7e8cf99-6a8e-45c7-90bf-2dd94152055f@c7e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 1119\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nI CICLOPI - SQUADRA JOLLY
+GEO:37.529426;15.096557
+LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - I CICLOPI - SQUADRA JOLLY
+UID:09416448-1adb-4984-9d02-4a04ccbf4469@0941.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 1079\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - SQUADRA JOLLY
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - CUS PISA ASD - SQUADRA JOLLY
+UID:4c3e3bfc-9f77-42ce-a799-4e633195de70@4c3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 966\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - SQUADRA JOLLY
+GEO:45.601581;11.733989
+LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HC GRANTORTO - SQUADRA JOLLY
+UID:e5e21884-9df6-41d0-9e67-797062adbc73@e5e2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 971\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - SQUADRA JOLLY
@@ -422,13 +406,29 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20260628T090000Z
 SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - TEVERE EUR H - SQUADRA JOLLY
-UID:a1a96986-2f30-4db7-b034-7ca3ff32dff7@a1a9.org
+UID:a5e99b02-b9d6-4811-82c9-07563f3db93c@a5e9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 986\nCampo Villa D\\'agri - VIA DELLO SPORT\, 1 VILLA D'AGRI\nPOLISPORTIVA VALDAGRI - SQUADRA JOLLY
-LOCATION: VIA DELLO SPORT\, 1 VILLA D'AGRI
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 980\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT FEMM BOLOGNA - SQUADRA JOLLY
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20260628T100000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HT FEMM BOLOGNA - SQUADRA JOLLY
+UID:ac9cb83c-45a6-47f0-8427-c05c6232a5c8@ac9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 975\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nASD HOCKEY CLUB ERCHIE SANTA LUCIA - SQUADRA JOLLY
+LOCATION: Via Marrani\, snc Torre Santa Susanna
 DTSTART:20260628T090000Z
-SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - POLISPORTIVA VALDAGRI - SQUADRA JOLLY
-UID:f710ad31-36b8-4a1f-b6b6-edb5b034a0b8@f710.org
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - ASD HOCKEY CLUB ERCHIE SANTA LUCIA - SQUADRA JOLLY
+UID:d5b098c2-c2d2-4921-ba52-539d7e7b2f61@d5b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1\nGara 968\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - SQUADRA JOLLY
+GEO:45.801036;13.542335
+LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
+DTSTART:20260628T090000Z
+SUMMARY:U12 Misto - Torneo Preagonistico Esordienti / Giornata 1 - HOCKEY TRIESTE 2012 - SQUADRA JOLLY
+UID:4ff858f0-1107-4e6a-970f-35e3903b418f@4ff8.org
 END:VEVENT
 END:VCALENDAR
