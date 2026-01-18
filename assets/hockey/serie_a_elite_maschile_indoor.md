@@ -357,6 +357,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>CUS PISA ASD - BUTTERFLY ROMA HCC</strong>
 
+**Risultato: 4-9**
+
 Giornata: Gara 115
 
 Campo: Palestra Geodetica Cus Pisa 
@@ -372,6 +374,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Sab 17/01/2026 12.00
 
 <strong>CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO</strong>
+
+**Risultato: 4-3**
 
 Giornata: Gara 116
 
@@ -389,6 +393,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Sab 17/01/2026 13.00 ⭐
 
 <strong>HC BRA - HP VALCHISONE</strong>
+
+**Risultato: 3-2**
 
 Giornata: Gara 117
 
@@ -410,6 +416,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PISA ASD</strong>
 
+**Risultato: 3-3**
+
 Giornata: Gara 118
 
 Campo: Palestra Geodetica Cus Pisa 
@@ -425,6 +433,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Sab 17/01/2026 15.00
 
 <strong>CUS PADOVA ASD - HC BRA</strong>
+
+**Risultato: 3-7**
 
 Giornata: Gara 119
 
@@ -442,6 +452,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Sab 17/01/2026 16.00 ⭐
 
 <strong>HP VALCHISONE - BUTTERFLY ROMA HCC</strong>
+
+**Risultato: 4-4**
 
 Giornata: Gara 120
 

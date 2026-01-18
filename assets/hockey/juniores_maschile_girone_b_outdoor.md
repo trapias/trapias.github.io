@@ -102,7 +102,7 @@ Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 
-## Dom 01/03/2026 11.00
+## Dom 08/03/2026 11.00
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PADOVA ASD</strong>
 
@@ -138,7 +138,7 @@ Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 7
 
-## Dom 08/03/2026 11.00
+## Dom 15/03/2026 15.00
 
 <strong>CSP SAN GIORGIO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
 
@@ -174,7 +174,7 @@ Location:  via J. Corrado, 4 Padova
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 9
 
-## Dom 08/03/2026 11.00
+## Dom 10/05/2026 11.00
 
 <strong>CUS PADOVA ASD - HC VILLAFRANCA</strong>
 

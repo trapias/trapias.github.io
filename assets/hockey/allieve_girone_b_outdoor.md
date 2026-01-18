@@ -381,7 +381,7 @@ Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Ga
 Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 
-## Dom 10/05/2026 11.00
+## Dom 03/05/2026 11.00
 
 <strong>ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC</strong>
 
@@ -397,7 +397,7 @@ Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrare
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
-## Dom 10/05/2026 13.00
+## Dom 03/05/2026 13.00
 
 <strong>ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC</strong>
 

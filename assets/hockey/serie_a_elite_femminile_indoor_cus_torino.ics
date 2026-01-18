@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 4\nGara 21\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nCUS TORINO - S.G. AMSICORA ASD\n\nRisultato: 2-2
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20260111T120000Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 4 - CUS TORINO - S.G. AMSICORA ASD
-UID:aa5742a1-1155-4568-b4fa-5737af1cf35b@aa57.org
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 5\nGara 25\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nCUS TORINO - ASD HF LORENZONI
+GEO:44.699151;7.841970
+LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260125T100000Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 5 - CUS TORINO - ASD HF LORENZONI
+UID:b589eb01-b4c7-43ff-a026-0b25f8b48d8b@b589.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 3\nGara 1\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCUS TORINO - MILANO HP\n\nRisultato: 5-1
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20251214T094500Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 3 - CUS TORINO - MILANO HP
+UID:6b8e194d-e1a9-4fd2-8733-e4cb6fb7438f@6b8e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 5\nGara 30\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nHOCKEY CLUB RIVA - CUS TORINO
@@ -15,22 +22,7 @@ GEO:44.699151;7.841970
 LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260125T150000Z
 SUMMARY:Serie A Elite Femminile - Indoor / Giornata 5 - HOCKEY CLUB RIVA - CUS TORINO
-UID:33bd4e17-57d7-445e-9a49-20b490d1c933@33bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 1\nGara 12\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nCUS PADOVA ASD - CUS TORINO\n\nRisultato: 1-10
-GEO:45.016586;7.656535
-LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
-DTSTART:20251130T150000Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 1 - CUS PADOVA ASD - CUS TORINO
-UID:b18b370a-8027-4b96-a646-8151c9ae84a5@b18b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 3\nGara 1\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCUS TORINO - MILANO HP\n\nRisultato: 5-1
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251214T094500Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 3 - CUS TORINO - MILANO HP
-UID:1f3864ea-59d1-462a-8d73-6fb103a6ad5b@1f38.org
+UID:c8d23269-ddb8-4059-ad09-d3188481b426@c8d2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 4\nGara 24\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nMILANO HP - CUS TORINO\n\nRisultato: 3-4
@@ -38,61 +30,7 @@ GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
 DTSTART:20260111T150000Z
 SUMMARY:Serie A Elite Femminile - Indoor / Giornata 4 - MILANO HP - CUS TORINO
-UID:0f107557-0cb4-465f-929e-0cc3836284d2@0f10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 1\nGara 8\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nCUS TORINO - HOCKEY CLUB RIVA\n\nRisultato: 4-4
-GEO:45.016586;7.656535
-LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
-DTSTART:20251130T110000Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 1 - CUS TORINO - HOCKEY CLUB RIVA
-UID:0d74b86e-5e9d-4a07-8ad5-208eb69cdc70@0d74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 5\nGara 25\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nCUS TORINO - ASD HF LORENZONI
-GEO:44.699151;7.841970
-LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260125T100000Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 5 - CUS TORINO - ASD HF LORENZONI
-UID:7ab81a7e-e8d8-4887-b70f-3b10f57c5992@7ab8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 4\nGara 24\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nMILANO HP - CUS TORINO\n\nRisultato: 3-4
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20260111T150000Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 4 - MILANO HP - CUS TORINO
-UID:efb36350-9b96-429a-be41-bc30561430fe@efb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 2\nGara 17\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nCUS TORINO - CUS PADOVA ASD\n\nRisultato: 1-1
-GEO:39.203688;9.134426
-LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251207T140000Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 2 - CUS TORINO - CUS PADOVA ASD
-UID:350c4321-0a90-4162-8a28-d97eedf00ee4@350c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 3\nGara 4\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD HF LORENZONI - CUS TORINO\n\nRisultato: 2-7
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251214T124500Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 3 - ASD HF LORENZONI - CUS TORINO
-UID:41f89625-ea1e-4487-8dbd-49b909b09726@41f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 3\nGara 4\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD HF LORENZONI - CUS TORINO\n\nRisultato: 2-7
-LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251214T124500Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 3 - ASD HF LORENZONI - CUS TORINO
-UID:588252dd-90a3-4fc9-bcca-902266ae080e@5882.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 2\nGara 13\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nS.G. AMSICORA ASD - CUS TORINO\n\nRisultato: 3-1
-GEO:39.203688;9.134426
-LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251207T100000Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 2 - S.G. AMSICORA ASD - CUS TORINO
-UID:50e180ea-8dfd-446f-b41b-2f2020668d2a@50e1.org
+UID:6878fda7-5f39-4315-9a48-0990ed7749ca@6878.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 5\nGara 30\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nHOCKEY CLUB RIVA - CUS TORINO
@@ -100,23 +38,7 @@ GEO:44.699151;7.841970
 LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260125T150000Z
 SUMMARY:Serie A Elite Femminile - Indoor / Giornata 5 - HOCKEY CLUB RIVA - CUS TORINO
-UID:a16d429a-7203-4fb2-9d46-fecc9f479577@a16d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 2\nGara 13\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nS.G. AMSICORA ASD - CUS TORINO\n\nRisultato: 3-1
-GEO:39.203688;9.134426
-LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251207T100000Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 2 - S.G. AMSICORA ASD - CUS TORINO
-UID:441a0ba0-cf0c-4d96-94cc-71be4f79e1bc@441a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 4\nGara 21\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nCUS TORINO - S.G. AMSICORA ASD\n\nRisultato: 2-2
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20260111T120000Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 4 - CUS TORINO - S.G. AMSICORA ASD
-UID:88963f11-fd8a-4e03-8f53-2f077a83a906@8896.org
+UID:663ebd3e-1df6-400a-b3e3-d267c9b5b79c@663e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 2\nGara 17\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nCUS TORINO - CUS PADOVA ASD\n\nRisultato: 1-1
@@ -124,14 +46,30 @@ GEO:39.203688;9.134426
 LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251207T140000Z
 SUMMARY:Serie A Elite Femminile - Indoor / Giornata 2 - CUS TORINO - CUS PADOVA ASD
-UID:1af040a8-0baf-41ad-a465-2a252d4e9050@1af0.org
+UID:9ffe9c7f-23bb-44b4-ab3f-59c059afbeb4@9ffe.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 3\nGara 1\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCUS TORINO - MILANO HP\n\nRisultato: 5-1
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 3\nGara 4\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD HF LORENZONI - CUS TORINO\n\nRisultato: 2-7
 LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
-DTSTART:20251214T094500Z
-SUMMARY:Serie A Elite Femminile - Indoor / Giornata 3 - CUS TORINO - MILANO HP
-UID:c7196900-ee41-4048-8420-8cbba2b8a279@c719.org
+DTSTART:20251214T124500Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 3 - ASD HF LORENZONI - CUS TORINO
+UID:53292ee9-6ae9-469f-9d1a-3cf10096a31b@5329.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 2\nGara 17\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nCUS TORINO - CUS PADOVA ASD\n\nRisultato: 1-1
+GEO:39.203688;9.134426
+LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20251207T140000Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 2 - CUS TORINO - CUS PADOVA ASD
+UID:49e5ebc2-35d8-4092-b558-20d00ee38b96@49e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 2\nGara 13\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nS.G. AMSICORA ASD - CUS TORINO\n\nRisultato: 3-1
+GEO:39.203688;9.134426
+LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20251207T100000Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 2 - S.G. AMSICORA ASD - CUS TORINO
+UID:38292dce-d4b5-45c6-aca3-727fe5ac3cca@3829.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 5\nGara 25\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nCUS TORINO - ASD HF LORENZONI
@@ -139,7 +77,14 @@ GEO:44.699151;7.841970
 LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260125T100000Z
 SUMMARY:Serie A Elite Femminile - Indoor / Giornata 5 - CUS TORINO - ASD HF LORENZONI
-UID:419115ef-3758-4f4b-b7ca-c7f19dcb7cab@4191.org
+UID:217b4c19-5d40-468d-8776-c2087866ad1e@217b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 3\nGara 1\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCUS TORINO - MILANO HP\n\nRisultato: 5-1
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20251214T094500Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 3 - CUS TORINO - MILANO HP
+UID:eed5de18-faed-48e6-b9a2-6de9d3865acd@eed5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 1\nGara 8\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nCUS TORINO - HOCKEY CLUB RIVA\n\nRisultato: 4-4
@@ -147,7 +92,7 @@ GEO:45.016586;7.656535
 LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
 DTSTART:20251130T110000Z
 SUMMARY:Serie A Elite Femminile - Indoor / Giornata 1 - CUS TORINO - HOCKEY CLUB RIVA
-UID:c18a58cb-4add-4dd8-bfc6-40b92de40a19@c18a.org
+UID:33d383d5-e0bb-4000-964c-7d9daccd97e9@33d3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 1\nGara 12\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nCUS PADOVA ASD - CUS TORINO\n\nRisultato: 1-10
@@ -155,6 +100,61 @@ GEO:45.016586;7.656535
 LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
 DTSTART:20251130T150000Z
 SUMMARY:Serie A Elite Femminile - Indoor / Giornata 1 - CUS PADOVA ASD - CUS TORINO
-UID:0e5e77a3-9221-4a6c-9a60-5a84d4916259@0e5e.org
+UID:a44b1bf6-7986-4dad-9e8b-b61b82207844@a44b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 4\nGara 21\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nCUS TORINO - S.G. AMSICORA ASD\n\nRisultato: 2-2
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20260111T120000Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 4 - CUS TORINO - S.G. AMSICORA ASD
+UID:91a4d871-e327-41e7-abdf-ad814a3b9c44@91a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 2\nGara 13\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nS.G. AMSICORA ASD - CUS TORINO\n\nRisultato: 3-1
+GEO:39.203688;9.134426
+LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20251207T100000Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 2 - S.G. AMSICORA ASD - CUS TORINO
+UID:16718d63-010d-40dd-b4b8-2fb62ecef99e@1671.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 3\nGara 4\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD HF LORENZONI - CUS TORINO\n\nRisultato: 2-7
+LOCATION: Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna
+DTSTART:20251214T124500Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 3 - ASD HF LORENZONI - CUS TORINO
+UID:2ee80a0f-e70b-4774-9adb-dfe28f67d6ea@2ee8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 4\nGara 24\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nMILANO HP - CUS TORINO\n\nRisultato: 3-4
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20260111T150000Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 4 - MILANO HP - CUS TORINO
+UID:32403a0b-50f5-411f-9cde-6951faa45d88@3240.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 1\nGara 8\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nCUS TORINO - HOCKEY CLUB RIVA\n\nRisultato: 4-4
+GEO:45.016586;7.656535
+LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
+DTSTART:20251130T110000Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 1 - CUS TORINO - HOCKEY CLUB RIVA
+UID:00e66da8-9c65-4d85-91ba-785ea92b20fc@00e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 1\nGara 12\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nCUS PADOVA ASD - CUS TORINO\n\nRisultato: 1-10
+GEO:45.016586;7.656535
+LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
+DTSTART:20251130T150000Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 1 - CUS PADOVA ASD - CUS TORINO
+UID:770b0ce5-c6ab-49dd-8748-957c9178e588@770b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Femminile - Indoor / Giornata 4\nGara 21\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nCUS TORINO - S.G. AMSICORA ASD\n\nRisultato: 2-2
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20260111T120000Z
+SUMMARY:Serie A Elite Femminile - Indoor / Giornata 4 - CUS TORINO - S.G. AMSICORA ASD
+UID:ef68690a-5876-44b6-bc61-02c16544d515@ef68.org
 END:VEVENT
 END:VCALENDAR

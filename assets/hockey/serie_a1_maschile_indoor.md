@@ -327,6 +327,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - USD MONCALVESE HOCKEY</strong>
 
+**Risultato: 8-2**
+
 Giornata: Gara 37
 
 Campo: CENTRO S. COMUNALE 
@@ -340,6 +342,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 ## Sab 17/01/2026 12.00
 
 <strong>POLISPORTIVA UNIVERSITARIA MESSINA - HOCKEY CLUB RIVA</strong>
+
+**Risultato: 4-2**
 
 Giornata: Gara 38
 
@@ -355,6 +359,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>CSP SAN GIORGIO - LAZIO HOCKEY</strong>
 
+**Risultato: 4-3**
+
 Giornata: Gara 39
 
 Campo: CENTRO S. COMUNALE 
@@ -368,6 +374,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 ## Sab 17/01/2026 14.00
 
 <strong>POLISPORTIVA UNIVERSITARIA MESSINA - A.S.D. S.H. PAOLO BONOMI</strong>
+
+**Risultato: 4-4**
 
 Giornata: Gara 40
 
@@ -383,6 +391,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>HOCKEY CLUB RIVA - CSP SAN GIORGIO</strong>
 
+**Risultato: 4-3**
+
 Giornata: Gara 41
 
 Campo: CENTRO S. COMUNALE 
@@ -396,6 +406,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 ## Sab 17/01/2026 16.00
 
 <strong>USD MONCALVESE HOCKEY - LAZIO HOCKEY</strong>
+
+**Risultato: 3-4**
 
 Giornata: Gara 42
 

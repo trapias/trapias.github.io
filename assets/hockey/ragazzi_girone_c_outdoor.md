@@ -205,7 +205,7 @@ Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia,
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 
-## Dom 03/05/2026 13.00
+## Dom 03/05/2026 15.00
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PISA ASD</strong>
 
