@@ -127,7 +127,8 @@ Campo: Campo Comunale Oriolo Romano
 
 Indirizzo Campo:  Via G. Rodari, 5 - Oriolo Romano
 
-Location:  Via G. Rodari, 5 Oriolo Romano
+Location: Romano, Via Fratelli Cairoli, Romano di Lombardia, Bergamo, Lombardia, 24058, Italia
+Geo: Geo(latitude=45.5238156, longitude=9.7535313)
 
 
 
@@ -157,7 +158,8 @@ Campo: Campo Comunale Oriolo Romano
 
 Indirizzo Campo:  Via G. Rodari, 5 - Oriolo Romano
 
-Location:  Via G. Rodari, 5 Oriolo Romano
+Location: Romano, Via Fratelli Cairoli, Romano di Lombardia, Bergamo, Lombardia, 24058, Italia
+Geo: Geo(latitude=45.5238156, longitude=9.7535313)
 
 
 
@@ -173,7 +175,8 @@ Campo: Campo Comunale Oriolo Romano
 
 Indirizzo Campo:  Via G. Rodari, 5 - Oriolo Romano
 
-Location:  Via G. Rodari, 5 Oriolo Romano
+Location: Romano, Via Fratelli Cairoli, Romano di Lombardia, Bergamo, Lombardia, 24058, Italia
+Geo: Geo(latitude=45.5238156, longitude=9.7535313)
 
 
 ## Sab 11/04/2026 18.00

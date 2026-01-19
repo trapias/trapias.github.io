@@ -2,26 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 782\nCampo Hockey Mario Steffenel - Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo\nCUS PADOVA ASD - ASD ADIGE UHC
-LOCATION: Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo
-DTSTART:20260523T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10 - CUS PADOVA ASD - ASD ADIGE UHC
-UID:f100a4df-7fd2-4a87-be57-a55e2458eda2@f100.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4\nGara 764\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - CUS PADOVA ASD
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20260411T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4 - HT SARDEGNA - CUS PADOVA ASD
-UID:ca8e25c5-6031-472d-b384-8f4c952cc4df@ca8e.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 1\nGara 755\nCampo Hockey Mario Steffenel - Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo\nCUS PADOVA ASD - CSP SAN GIORGIO
-LOCATION: Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo
+GEO:45.085185;7.679001
+LOCATION:Via Rovigo\, Valdocco\, Aurora\, Circoscrizione 7\, Torino\, Piemonte\, 10100\, Italia
 DTSTART:20260314T140000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 1 - CUS PADOVA ASD - CSP SAN GIORGIO
-UID:e30d7590-23e2-4cfb-938e-f62e051d612d@e30d.org
+UID:1e82f9c3-02b2-4f51-9f64-eee5a38f5c61@1e82.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 776\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - CUS PADOVA ASD
@@ -29,14 +15,31 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20260509T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8 - HC BONDENO - CUS PADOVA ASD
-UID:41f29535-ace0-42d1-8c9c-477b6310bf1e@41f2.org
+UID:5a184d2c-25c0-47ab-8ba0-5f5c36298c59@5a18.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3\nGara 761\nCampo Hockey Mario Steffenel - Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo\nCUS PADOVA ASD - HC BONDENO
-LOCATION: Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo
+GEO:45.085185;7.679001
+LOCATION:Via Rovigo\, Valdocco\, Aurora\, Circoscrizione 7\, Torino\, Piemonte\, 10100\, Italia
 DTSTART:20260328T140000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3 - CUS PADOVA ASD - HC BONDENO
-UID:97836015-58f5-4c48-a317-d734e65cde77@9783.org
+UID:339102b5-64d9-4c51-b726-e0d4342c40d9@3391.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 779\nCampo Hockey Mario Steffenel - Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo\nCUS PADOVA ASD - HT SARDEGNA
+GEO:45.085185;7.679001
+LOCATION:Via Rovigo\, Valdocco\, Aurora\, Circoscrizione 7\, Torino\, Piemonte\, 10100\, Italia
+DTSTART:20260516T123000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9 - CUS PADOVA ASD - HT SARDEGNA
+UID:576875df-f862-4c62-9682-af2fbc57f3ed@5768.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4\nGara 764\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - CUS PADOVA ASD
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20260411T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4 - HT SARDEGNA - CUS PADOVA ASD
+UID:679ce154-ab06-4bda-8af1-806519bc3aca@679c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 6\nGara 770\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - CUS PADOVA ASD
@@ -44,15 +47,7 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20260425T123000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 6 - CSP SAN GIORGIO - CUS PADOVA ASD
-UID:3d4f82bf-fdc0-463a-8116-3dc0ffff0592@3d4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 767\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CUS PADOVA ASD
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260418T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5 - ASD ADIGE UHC - CUS PADOVA ASD
-UID:9bf065ad-a7f3-4f26-b527-519002567b5d@9bf0.org
+UID:e00e2acb-48e8-4b95-a226-f1a4eff9daa3@e00e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 757\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nCUS CAGLIARI - CUS PADOVA ASD
@@ -60,20 +55,30 @@ GEO:39.235186;9.139409
 LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
 DTSTART:20260321T140000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2 - CUS CAGLIARI - CUS PADOVA ASD
-UID:b2b04ae0-7003-4d66-a1b5-111970bde945@b2b0.org
+UID:440e189f-f9a1-48d2-8fb9-690ae406a830@440e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 779\nCampo Hockey Mario Steffenel - Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo\nCUS PADOVA ASD - HT SARDEGNA
-LOCATION: Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo
-DTSTART:20260516T123000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9 - CUS PADOVA ASD - HT SARDEGNA
-UID:b8fda14d-0005-4db2-8381-b9429530d650@b8fd.org
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 767\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CUS PADOVA ASD
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260418T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5 - ASD ADIGE UHC - CUS PADOVA ASD
+UID:8906c71e-34a8-4202-884a-f8db5fa01103@8906.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 782\nCampo Hockey Mario Steffenel - Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo\nCUS PADOVA ASD - ASD ADIGE UHC
+GEO:45.085185;7.679001
+LOCATION:Via Rovigo\, Valdocco\, Aurora\, Circoscrizione 7\, Torino\, Piemonte\, 10100\, Italia
+DTSTART:20260523T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10 - CUS PADOVA ASD - ASD ADIGE UHC
+UID:f47d691b-aae2-4d52-bb5d-83eaafc3c006@f47d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 7\nGara 772\nCampo Hockey Mario Steffenel - Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo\nCUS PADOVA ASD - CUS CAGLIARI
-LOCATION: Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo
+GEO:45.085185;7.679001
+LOCATION:Via Rovigo\, Valdocco\, Aurora\, Circoscrizione 7\, Torino\, Piemonte\, 10100\, Italia
 DTSTART:20260502T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 7 - CUS PADOVA ASD - CUS CAGLIARI
-UID:61740d4f-35d1-4574-9d0c-0c3849b2de72@6174.org
+UID:bae0a9bb-a8b4-470c-a86f-45af91c1fe6a@bae0.org
 END:VEVENT
 END:VCALENDAR

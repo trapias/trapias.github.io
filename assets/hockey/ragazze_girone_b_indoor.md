@@ -14,7 +14,8 @@ Campo: PALESTRA OLOF PALME
 
 Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
 
-Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
+Location: Cadoneghe, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.4586481, longitude=11.9201748)
 
 
 ## Dom 14/12/2025 12.30
@@ -29,7 +30,8 @@ Campo: PALESTRA OLOF PALME
 
 Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
 
-Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
+Location: Cadoneghe, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.4586481, longitude=11.9201748)
 
 
 ## Dom 14/12/2025 14.00
@@ -44,7 +46,8 @@ Campo: PALESTRA OLOF PALME
 
 Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
 
-Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
+Location: Cadoneghe, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.4586481, longitude=11.9201748)
 
 
 

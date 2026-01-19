@@ -153,7 +153,8 @@ Campo: Impianti L. Merigliano
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 
@@ -169,7 +170,8 @@ Campo: Impianti L. Merigliano
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 
@@ -198,5 +200,6 @@ Campo: Impianti L. Merigliano
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 

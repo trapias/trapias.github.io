@@ -212,7 +212,8 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
+Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
 ## Dom 14/12/2025 11.45
@@ -227,7 +228,8 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
+Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
 ## Dom 14/12/2025 12.45
@@ -242,7 +244,8 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
+Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
 ## Dom 14/12/2025 13.45
@@ -257,7 +260,8 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
+Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
 ## Dom 14/12/2025 14.45
@@ -272,7 +276,8 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
+Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
 ## Dom 14/12/2025 15.45
@@ -287,7 +292,8 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
+Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
 
@@ -403,7 +409,7 @@ Campo: PALAZZETTO DELL SPORT
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
+Geo: Geo(latitude=44.6990294, longitude=7.8420903)
 
 
 ## Dom 25/01/2026 12.00
@@ -417,7 +423,7 @@ Campo: PALAZZETTO DELL SPORT
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
+Geo: Geo(latitude=44.6990294, longitude=7.8420903)
 
 
 ## Dom 25/01/2026 13.00
@@ -431,7 +437,7 @@ Campo: PALAZZETTO DELL SPORT
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
+Geo: Geo(latitude=44.6990294, longitude=7.8420903)
 
 
 ## Dom 25/01/2026 14.00
@@ -445,7 +451,7 @@ Campo: PALAZZETTO DELL SPORT
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
+Geo: Geo(latitude=44.6990294, longitude=7.8420903)
 
 
 ## Dom 25/01/2026 15.00
@@ -459,7 +465,7 @@ Campo: PALAZZETTO DELL SPORT
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
+Geo: Geo(latitude=44.6990294, longitude=7.8420903)
 
 
 ## Dom 25/01/2026 16.00
@@ -473,5 +479,5 @@ Campo: PALAZZETTO DELL SPORT
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
+Geo: Geo(latitude=44.6990294, longitude=7.8420903)
 

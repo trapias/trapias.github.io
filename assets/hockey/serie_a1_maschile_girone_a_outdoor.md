@@ -26,7 +26,8 @@ Campo: Campo Hockey Mario Steffenel
 
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
-Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
+Location: Via Rovigo, Valdocco, Aurora, Circoscrizione 7, Torino, Piemonte, 10100, Italia
+Geo: Geo(latitude=45.0851854, longitude=7.6790006)
 
 
 ## Sab 14/03/2026 15.00
@@ -115,7 +116,8 @@ Campo: Campo Hockey Mario Steffenel
 
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
-Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
+Location: Via Rovigo, Valdocco, Aurora, Circoscrizione 7, Torino, Piemonte, 10100, Italia
+Geo: Geo(latitude=45.0851854, longitude=7.6790006)
 
 
 ## Sab 28/03/2026 14.30
@@ -280,7 +282,8 @@ Campo: Campo Hockey Mario Steffenel
 
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
-Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
+Location: Via Rovigo, Valdocco, Aurora, Circoscrizione 7, Torino, Piemonte, 10100, Italia
+Geo: Geo(latitude=45.0851854, longitude=7.6790006)
 
 
 ## Sab 02/05/2026 15.00
@@ -383,7 +386,8 @@ Campo: Campo Hockey Mario Steffenel
 
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
-Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
+Location: Via Rovigo, Valdocco, Aurora, Circoscrizione 7, Torino, Piemonte, 10100, Italia
+Geo: Geo(latitude=45.0851854, longitude=7.6790006)
 
 
 ## Sab 16/05/2026 15.00
@@ -427,7 +431,8 @@ Campo: Campo Hockey Mario Steffenel
 
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
-Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
+Location: Via Rovigo, Valdocco, Aurora, Circoscrizione 7, Torino, Piemonte, 10100, Italia
+Geo: Geo(latitude=45.0851854, longitude=7.6790006)
 
 
 ## Sab 23/05/2026 15.00

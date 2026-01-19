@@ -65,7 +65,8 @@ Campo: Impianti L. Merigliano
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 ## Sab 11/10/2025 16.30
@@ -233,7 +234,8 @@ Campo: Impianti L. Merigliano
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 ## Dom 09/11/2025 12.30
@@ -265,7 +267,8 @@ Campo: Impianti L. Merigliano
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 ## Dom 08/03/2026 13.00
@@ -382,7 +385,8 @@ Campo: Impianti L. Merigliano
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 
@@ -426,7 +430,8 @@ Campo: Impianti L. Merigliano
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 

@@ -57,7 +57,8 @@ Campo: UMBERTO MICCO
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location:  Via Goria, 4 Moncalvo
+Location: Moncalvo, Asti, Piemonte, 14036, Italia
+Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 
 
@@ -104,7 +105,8 @@ Campo: UMBERTO MICCO
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location:  Via Goria, 4 Moncalvo
+Location: Moncalvo, Asti, Piemonte, 14036, Italia
+Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 
 ## Dom 12/04/2026 15.00
@@ -165,7 +167,8 @@ Campo: UMBERTO MICCO
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location:  Via Goria, 4 Moncalvo
+Location: Moncalvo, Asti, Piemonte, 14036, Italia
+Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 
 ## Dom 26/04/2026 15.00

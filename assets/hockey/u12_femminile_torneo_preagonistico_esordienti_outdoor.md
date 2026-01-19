@@ -194,7 +194,8 @@ Campo: Sintetico Comunale
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
-Location:  Via Marrani, snc Torre Santa Susanna
+Location: Torre Santa Susanna, Brindisi, Puglia, 72028, Italia
+Geo: Geo(latitude=40.465627, longitude=17.735612)
 
 
 ## Dom 28/06/2026 11.00
@@ -263,7 +264,8 @@ Campo: Sintetico Comunale
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
-Location:  Via Marrani, snc Torre Santa Susanna
+Location: Torre Santa Susanna, Brindisi, Puglia, 72028, Italia
+Geo: Geo(latitude=40.465627, longitude=17.735612)
 
 
 ## Dom 28/06/2026 11.00
@@ -304,7 +306,8 @@ Campo: Impianti L. Merigliano
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 ## Dom 28/06/2026 11.00
@@ -345,7 +348,8 @@ Campo: Campo Comunale Oriolo Romano
 
 Indirizzo Campo:  Via G. Rodari, 5 - Oriolo Romano
 
-Location:  Via G. Rodari, 5 Oriolo Romano
+Location: Romano, Via Fratelli Cairoli, Romano di Lombardia, Bergamo, Lombardia, 24058, Italia
+Geo: Geo(latitude=45.5238156, longitude=9.7535313)
 
 
 ## Dom 28/06/2026 11.00
@@ -386,7 +390,8 @@ Campo: Campo Villa D\'agri
 
 Indirizzo Campo:  VIA DELLO SPORT, 1 - VILLA D'AGRI
 
-Location:  VIA DELLO SPORT, 1 VILLA D'AGRI
+Location: San Martino d'Agri, Potenza, Basilicata, Italia
+Geo: Geo(latitude=40.2397458, longitude=16.0530431)
 
 
 ## Dom 28/06/2026 11.00

@@ -29,5 +29,6 @@ Campo: Sintetico Comunale
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
-Location:  Via Marrani, snc Torre Santa Susanna
+Location: Torre Santa Susanna, Brindisi, Puglia, 72028, Italia
+Geo: Geo(latitude=40.465627, longitude=17.735612)
 

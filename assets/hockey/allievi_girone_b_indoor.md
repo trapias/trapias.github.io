@@ -14,7 +14,8 @@ Campo: PALESTRA OLOF PALME
 
 Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
 
-Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
+Location: Cadoneghe, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.4586481, longitude=11.9201748)
 
 
 ## Dom 21/12/2025 11.00
@@ -29,7 +30,8 @@ Campo: PALESTRA OLOF PALME
 
 Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
 
-Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
+Location: Cadoneghe, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.4586481, longitude=11.9201748)
 
 
 ## Dom 21/12/2025 12.00
@@ -42,7 +44,8 @@ Campo: PALESTRA OLOF PALME
 
 Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
 
-Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
+Location: Cadoneghe, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.4586481, longitude=11.9201748)
 
 
 ## Dom 21/12/2025 13.00
@@ -57,7 +60,8 @@ Campo: PALESTRA OLOF PALME
 
 Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
 
-Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
+Location: Cadoneghe, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.4586481, longitude=11.9201748)
 
 
 ## Dom 21/12/2025 14.00
@@ -70,7 +74,8 @@ Campo: PALESTRA OLOF PALME
 
 Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
 
-Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
+Location: Cadoneghe, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.4586481, longitude=11.9201748)
 
 
 ## Dom 21/12/2025 15.00
@@ -85,7 +90,8 @@ Campo: PALESTRA OLOF PALME
 
 Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
 
-Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
+Location: Cadoneghe, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.4586481, longitude=11.9201748)
 
 
 ## Dom 21/12/2025 16.00
@@ -98,7 +104,8 @@ Campo: PALESTRA OLOF PALME
 
 Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
 
-Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
+Location: Cadoneghe, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.4586481, longitude=11.9201748)
 
 
 

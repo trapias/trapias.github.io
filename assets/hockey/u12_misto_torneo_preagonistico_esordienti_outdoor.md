@@ -166,7 +166,8 @@ Campo: Sintetico Comunale
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
-Location:  Via Marrani, snc Torre Santa Susanna
+Location: Torre Santa Susanna, Brindisi, Puglia, 72028, Italia
+Geo: Geo(latitude=40.465627, longitude=17.735612)
 
 
 ## Dom 28/06/2026 12.00
@@ -193,7 +194,8 @@ Campo: UMBERTO MICCO
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location:  Via Goria, 4 Moncalvo
+Location: Moncalvo, Asti, Piemonte, 14036, Italia
+Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 
 ## Dom 28/06/2026 11.00
@@ -206,7 +208,8 @@ Campo: Impianti L. Merigliano
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 ## Dom 28/06/2026 11.00
@@ -289,7 +292,8 @@ Campo: Polisportiva L'Aquila Rugby
 
 Indirizzo Campo:  LocalitÃ  Centi Colella, snc - L'Aquila
 
-Location:  LocalitÃ  Centi Colella, snc L'Aquila
+Location: L'Aquila, Abruzzo, Italia
+Geo: Geo(latitude=42.1368853, longitude=13.610341)
 
 
 ## Dom 28/06/2026 11.00
@@ -316,7 +320,8 @@ Campo: Campo Villa D\'agri
 
 Indirizzo Campo:  VIA DELLO SPORT, 1 - VILLA D'AGRI
 
-Location:  VIA DELLO SPORT, 1 VILLA D'AGRI
+Location: San Martino d'Agri, Potenza, Basilicata, Italia
+Geo: Geo(latitude=40.2397458, longitude=16.0530431)
 
 
 ## Dom 28/06/2026 11.00

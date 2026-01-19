@@ -14,7 +14,8 @@ Campo: Oratorio Salesiano
 
 Indirizzo Campo:  Via S.G.Bosco, 6 - Barcellona Pozzo di Gotto
 
-Location:  Via S.G.Bosco, 6 Barcellona Pozzo di Gotto
+Location: Barcellona Pozzo di Gotto, Messina, Sicilia, 98051, Italia
+Geo: Geo(latitude=38.1483059, longitude=15.2175523)
 
 
 ## Dom 19/10/2025 11.00
@@ -99,5 +100,6 @@ Campo: Oratorio Salesiano
 
 Indirizzo Campo:  Via S.G.Bosco, 6 - Barcellona Pozzo di Gotto
 
-Location:  Via S.G.Bosco, 6 Barcellona Pozzo di Gotto
+Location: Barcellona Pozzo di Gotto, Messina, Sicilia, 98051, Italia
+Geo: Geo(latitude=38.1483059, longitude=15.2175523)
 

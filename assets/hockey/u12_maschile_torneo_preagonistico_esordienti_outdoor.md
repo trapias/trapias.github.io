@@ -155,7 +155,8 @@ Campo: Campo Hockey Mario Steffenel
 
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
-Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
+Location: Via Rovigo, Valdocco, Aurora, Circoscrizione 7, Torino, Piemonte, 10100, Italia
+Geo: Geo(latitude=45.0851854, longitude=7.6790006)
 
 
 ## Sab 22/11/2025 11.00
@@ -364,7 +365,8 @@ Campo: Sintetico Comunale
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
-Location:  Via Marrani, snc Torre Santa Susanna
+Location: Torre Santa Susanna, Brindisi, Puglia, 72028, Italia
+Geo: Geo(latitude=40.465627, longitude=17.735612)
 
 
 ## Dom 28/06/2026 11.00
@@ -377,7 +379,8 @@ Campo: Oratorio Salesiano
 
 Indirizzo Campo:  Via S.G.Bosco, 6 - Barcellona Pozzo di Gotto
 
-Location:  Via S.G.Bosco, 6 Barcellona Pozzo di Gotto
+Location: Barcellona Pozzo di Gotto, Messina, Sicilia, 98051, Italia
+Geo: Geo(latitude=38.1483059, longitude=15.2175523)
 
 
 ## Dom 28/06/2026 11.00
@@ -446,7 +449,8 @@ Campo: Sintetico Comunale
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
-Location:  Via Marrani, snc Torre Santa Susanna
+Location: Torre Santa Susanna, Brindisi, Puglia, 72028, Italia
+Geo: Geo(latitude=40.465627, longitude=17.735612)
 
 
 ## Dom 28/06/2026 11.00
@@ -487,7 +491,8 @@ Campo: Impianti L. Merigliano
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 ## Dom 28/06/2026 11.00
@@ -584,7 +589,8 @@ Campo: Polisportiva L'Aquila Rugby
 
 Indirizzo Campo:  LocalitÃ  Centi Colella, snc - L'Aquila
 
-Location:  LocalitÃ  Centi Colella, snc L'Aquila
+Location: L'Aquila, Abruzzo, Italia
+Geo: Geo(latitude=42.1368853, longitude=13.610341)
 
 
 ## Dom 28/06/2026 11.00
@@ -611,7 +617,8 @@ Campo: Campo Villa D\'agri
 
 Indirizzo Campo:  VIA DELLO SPORT, 1 - VILLA D'AGRI
 
-Location:  VIA DELLO SPORT, 1 VILLA D'AGRI
+Location: San Martino d'Agri, Potenza, Basilicata, Italia
+Geo: Geo(latitude=40.2397458, longitude=16.0530431)
 
 
 ## Dom 28/06/2026 11.30
@@ -638,7 +645,8 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
+Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
 ## Dom 28/06/2026 11.00

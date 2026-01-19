@@ -14,7 +14,8 @@ Campo: Campo Villa D\'agri
 
 Indirizzo Campo:  VIA DELLO SPORT, 1 - VILLA D'AGRI
 
-Location:  VIA DELLO SPORT, 1 VILLA D'AGRI
+Location: San Martino d'Agri, Potenza, Basilicata, Italia
+Geo: Geo(latitude=40.2397458, longitude=16.0530431)
 
 
 
@@ -68,7 +69,8 @@ Campo: Campo Villa D\'agri
 
 Indirizzo Campo:  VIA DELLO SPORT, 1 - VILLA D'AGRI
 
-Location:  VIA DELLO SPORT, 1 VILLA D'AGRI
+Location: San Martino d'Agri, Potenza, Basilicata, Italia
+Geo: Geo(latitude=40.2397458, longitude=16.0530431)
 
 
 

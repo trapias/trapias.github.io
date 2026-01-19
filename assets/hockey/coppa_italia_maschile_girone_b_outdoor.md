@@ -199,7 +199,8 @@ Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO
 
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
-Location:  VIA J. CORRADO, 24 Padova
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 
@@ -284,7 +285,8 @@ Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO
 
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
-Location:  VIA J. CORRADO, 24 Padova
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 ## Sab 11/10/2025 15.00
@@ -350,7 +352,8 @@ Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO
 
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
-Location:  VIA J. CORRADO, 24 Padova
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 
@@ -451,7 +454,8 @@ Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO
 
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
-Location:  VIA J. CORRADO, 24 Padova
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 
@@ -501,5 +505,6 @@ Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO
 
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
-Location:  VIA J. CORRADO, 24 Padova
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 

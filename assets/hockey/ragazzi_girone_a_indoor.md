@@ -15,7 +15,7 @@ Campo: PALAZZETTO DELL SPORT
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
+Geo: Geo(latitude=44.6990294, longitude=7.8420903)
 
 
 <!-- VALCHISONE_START -->
@@ -32,7 +32,7 @@ Campo: PALAZZETTO DELL SPORT
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
+Geo: Geo(latitude=44.6990294, longitude=7.8420903)
 <!-- VALCHISONE_END -->
 
 
@@ -50,7 +50,7 @@ Campo: PALAZZETTO DELL SPORT
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
+Geo: Geo(latitude=44.6990294, longitude=7.8420903)
 
 
 ## Sab 06/12/2025 12.00
@@ -66,7 +66,7 @@ Campo: PALAZZETTO DELL SPORT
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
+Geo: Geo(latitude=44.6990294, longitude=7.8420903)
 
 
 <!-- VALCHISONE_START -->
@@ -83,7 +83,7 @@ Campo: PALAZZETTO DELL SPORT
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
+Geo: Geo(latitude=44.6990294, longitude=7.8420903)
 <!-- VALCHISONE_END -->
 
 
@@ -193,7 +193,8 @@ Campo: PALAZZETTO SPORT PINASCA
 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
-Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
+Location: Pinasca, Torino, Piemonte, Italia
+Geo: Geo(latitude=44.94264, longitude=7.229115)
 <!-- VALCHISONE_END -->
 
 
@@ -210,7 +211,8 @@ Campo: PALAZZETTO SPORT PINASCA
 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
-Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
+Location: Pinasca, Torino, Piemonte, Italia
+Geo: Geo(latitude=44.94264, longitude=7.229115)
 
 
 <!-- VALCHISONE_START -->
@@ -226,7 +228,8 @@ Campo: PALAZZETTO SPORT PINASCA
 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
-Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
+Location: Pinasca, Torino, Piemonte, Italia
+Geo: Geo(latitude=44.94264, longitude=7.229115)
 <!-- VALCHISONE_END -->
 
 
@@ -243,7 +246,8 @@ Campo: PALAZZETTO SPORT PINASCA
 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
-Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
+Location: Pinasca, Torino, Piemonte, Italia
+Geo: Geo(latitude=44.94264, longitude=7.229115)
 
 
 ## Dom 11/01/2026 13.00
@@ -258,7 +262,8 @@ Campo: PALAZZETTO SPORT PINASCA
 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
-Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
+Location: Pinasca, Torino, Piemonte, Italia
+Geo: Geo(latitude=44.94264, longitude=7.229115)
 
 
 
@@ -276,7 +281,8 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
+Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
 <!-- VALCHISONE_START -->
@@ -292,7 +298,8 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
+Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 <!-- VALCHISONE_END -->
 
 
@@ -309,7 +316,8 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
+Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
 ## Dom 18/01/2026 13.30
@@ -324,7 +332,8 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
+Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
 <!-- VALCHISONE_START -->
@@ -340,7 +349,8 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
+Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 <!-- VALCHISONE_END -->
 
 

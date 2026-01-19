@@ -40,7 +40,8 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
+Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
 
@@ -146,7 +147,8 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
+Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
 ## Sab 11/04/2026 15.30
@@ -204,7 +206,8 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
+Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
 ## Sab 18/04/2026 15.00
@@ -293,7 +296,8 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
+Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
 ## Dom 03/05/2026 11.00
@@ -351,7 +355,8 @@ Campo: CENTRO S. COMUNALE
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
+Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
+Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
 

@@ -12,7 +12,8 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
+Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
+Geo: Geo(latitude=45.6135726, longitude=8.1967979)
 
 
 ## -
@@ -25,7 +26,8 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
+Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
+Geo: Geo(latitude=45.6135726, longitude=8.1967979)
 
 
 
@@ -41,7 +43,8 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
+Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
+Geo: Geo(latitude=45.6135726, longitude=8.1967979)
 
 
 ## Dom 10/05/2026 15.00
@@ -54,7 +57,8 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
+Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
+Geo: Geo(latitude=45.6135726, longitude=8.1967979)
 
 
 
@@ -70,7 +74,8 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
+Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
+Geo: Geo(latitude=45.6135726, longitude=8.1967979)
 
 
 ## Dom 17/05/2026 15.00
@@ -83,7 +88,8 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
+Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
+Geo: Geo(latitude=45.6135726, longitude=8.1967979)
 
 
 
@@ -99,7 +105,8 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
+Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
+Geo: Geo(latitude=45.6135726, longitude=8.1967979)
 
 
 ## -
@@ -112,7 +119,8 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
+Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
+Geo: Geo(latitude=45.6135726, longitude=8.1967979)
 
 
 
@@ -128,7 +136,8 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
+Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
+Geo: Geo(latitude=45.6135726, longitude=8.1967979)
 
 
 ## Dom 24/05/2026 15.00
@@ -141,7 +150,8 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
+Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
+Geo: Geo(latitude=45.6135726, longitude=8.1967979)
 
 
 
@@ -157,7 +167,8 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
+Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
+Geo: Geo(latitude=45.6135726, longitude=8.1967979)
 
 
 ## Dom 31/05/2026 15.00
@@ -170,5 +181,6 @@ Campo: DA DEFINIRE
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
+Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
+Geo: Geo(latitude=45.6135726, longitude=8.1967979)
 

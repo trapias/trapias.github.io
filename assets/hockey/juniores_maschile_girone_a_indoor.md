@@ -15,7 +15,7 @@ Campo: PALAZZETTO DELL SPORT
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
+Geo: Geo(latitude=44.6990294, longitude=7.8420903)
 
 
 <!-- VALCHISONE_START -->
@@ -32,7 +32,7 @@ Campo: PALAZZETTO DELL SPORT
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
+Geo: Geo(latitude=44.6990294, longitude=7.8420903)
 <!-- VALCHISONE_END -->
 
 
@@ -51,7 +51,7 @@ Campo: PALAZZETTO DELL SPORT
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
+Geo: Geo(latitude=44.6990294, longitude=7.8420903)
 <!-- VALCHISONE_END -->
 
 
@@ -69,7 +69,7 @@ Campo: PALAZZETTO DELL SPORT
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
+Geo: Geo(latitude=44.6990294, longitude=7.8420903)
 
 
 
@@ -161,7 +161,8 @@ Campo: PALAZZETTO SPORT PINASCA
 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
-Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
+Location: Pinasca, Torino, Piemonte, Italia
+Geo: Geo(latitude=44.94264, longitude=7.229115)
 <!-- VALCHISONE_END -->
 
 
@@ -178,7 +179,8 @@ Campo: PALAZZETTO SPORT PINASCA
 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
-Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
+Location: Pinasca, Torino, Piemonte, Italia
+Geo: Geo(latitude=44.94264, longitude=7.229115)
 
 
 ## Sab 10/01/2026 12.00
@@ -193,7 +195,8 @@ Campo: PALAZZETTO SPORT PINASCA
 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
-Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
+Location: Pinasca, Torino, Piemonte, Italia
+Geo: Geo(latitude=44.94264, longitude=7.229115)
 
 
 <!-- VALCHISONE_START -->
@@ -209,7 +212,8 @@ Campo: PALAZZETTO SPORT PINASCA
 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
-Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
+Location: Pinasca, Torino, Piemonte, Italia
+Geo: Geo(latitude=44.94264, longitude=7.229115)
 <!-- VALCHISONE_END -->
 
 
