@@ -305,6 +305,8 @@ Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HCU RASSEMBLEMENT TORINO RIS</strong>
 
+**Risultato: 5-2**
+
 Giornata: Gara 543
 
 Campo: CENTRO S. COMUNALE 
@@ -319,6 +321,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 ## Dom 18/01/2026 11.30 ⭐
 
 <strong>HP VALCHISONE - HCU RASSEMBLEMENT TORINO</strong>
+
+**Risultato: 0-5**
 
 Giornata: Gara 544
 
@@ -338,6 +342,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>ASD CERNUSCO FIELD HOCKEY - SCUOLA HOCKEY INDER SINGH</strong>
 
+**Risultato: 0-8**
+
 Giornata: Gara 545
 
 Campo: CENTRO S. COMUNALE 
@@ -351,6 +357,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 ## Dom 18/01/2026 13.30
 
 <strong>HCU RASSEMBLEMENT TORINO - HCU RASSEMBLEMENT TORINO RIS</strong>
+
+**Risultato: 8-3**
 
 Giornata: Gara 546
 
@@ -366,6 +374,8 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 ## Dom 18/01/2026 14.30 ⭐
 
 <strong>HP VALCHISONE - SCUOLA HOCKEY INDER SINGH</strong>
+
+**Risultato: 2-3**
 
 Giornata: Gara 547
 

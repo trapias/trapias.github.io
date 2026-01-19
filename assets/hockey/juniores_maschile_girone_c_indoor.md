@@ -264,6 +264,8 @@ Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
 <strong>ASD SUPERBA HC - CUS PISA ASD</strong>
 
+**Risultato: 5-3**
+
 Giornata: Gara 562
 
 Campo: PALACUS Pisa 
@@ -279,6 +281,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Dom 18/01/2026 10.30
 
 <strong>GENOVA H. 1980 - HC PISTOIA FRANJO</strong>
+
+**Risultato: 12-1**
 
 Giornata: Gara 563
 
@@ -296,6 +300,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>GENOVA H. 1980 U18 - HC GENOVA</strong>
 
+**Risultato: 5-6**
+
 Giornata: Gara 564
 
 Campo: PALACUS Pisa 
@@ -311,6 +317,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Dom 18/01/2026 12.30
 
 <strong>HC SAVONA - CUS PISA ASD</strong>
+
+**Risultato: 5-2**
 
 Giornata: Gara 565
 
@@ -328,6 +336,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>GENOVA H. 1980 - ASD SUPERBA HC</strong>
 
+**Risultato: 4-4**
+
 Giornata: Gara 566
 
 Campo: PALACUS Pisa 
@@ -344,6 +354,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>HC GENOVA - HC SAVONA</strong>
 
+**Risultato: 3-8**
+
 Giornata: Gara 567
 
 Campo: PALACUS Pisa 
@@ -359,6 +371,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Dom 18/01/2026 15.30
 
 <strong>HC PISTOIA FRANJO - GENOVA H. 1980 U18</strong>
+
+**Risultato: 2-4**
 
 Giornata: Gara 568
 

@@ -4,23 +4,23 @@
 
 ## Dom 18/01/2026 15.10
 
-<strong>3 CLASSIFICATA - 4 CLASSIFICATA</strong>
+<strong> - 4 CLASSIFICATA</strong>
 
 Giornata: Gara 222
 
-Campo: CENTRO SPORTIVO MILLEVOI 
+Campo: -
 
-Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
+Indirizzo Campo:  - 
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
+Location:  
+Location:  
 
 
 ## Dom 18/01/2026 16.20
 
-<strong>1 CLASSIFICATA - 2 CLASSIFICATA</strong>
+<strong>HOCKEY CLUB EUR - HOCKEY POTENZA PICENA</strong>
+
+**Risultato: 2-10**
 
 Giornata: Gara 223
 

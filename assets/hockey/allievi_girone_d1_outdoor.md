@@ -2,7 +2,7 @@
 
 # Allievi - OUTDOOR  - Girone D1 / Giornata 1
 
-## Sab 24/01/2026 15.00
+## Sab 31/01/2026 10.00
 
 <strong>HOCKEY CLUB ROMA - LAZIO HOCKEY</strong>
 
@@ -109,7 +109,7 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 # Allievi - OUTDOOR  - Girone D1 / Giornata 4
 
-## Sab 14/03/2026 17.00
+## Sab 21/03/2026 10.00
 
 <strong>LAZIO HOCKEY - HOCKEY CLUB ROMA</strong>
 

@@ -411,6 +411,8 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
 <strong>CUS PADOVA ASD - HC VILLAFRANCA</strong>
 
+**Risultato: 5-2**
+
 Giornata: Gara 367
 
 Campo: PALESTRA CUS PADOVA 
@@ -426,6 +428,8 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 ## Dom 18/01/2026 11.00
 
 <strong>HOCKEY CUSCUBE BRESCIA - CSP SAN GIORGIO</strong>
+
+**Risultato: 1-6**
 
 Giornata: Gara 368
 
@@ -443,6 +447,8 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 <strong>ASD HOCKEY CLUB BONDENO - A.R.FINCANTIERI A.S.D.</strong>
 
+**Risultato: 11-0**
+
 Giornata: Gara 369
 
 Campo: PALESTRA CUS PADOVA 
@@ -458,6 +464,8 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 ## Dom 18/01/2026 13.00
 
 <strong>HC VILLAFRANCA - HOCKEY CUSCUBE BRESCIA</strong>
+
+**Risultato: 10-3**
 
 Giornata: Gara 370
 
@@ -475,6 +483,8 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
 
+**Risultato: 2-3**
+
 Giornata: Gara 371
 
 Campo: PALESTRA CUS PADOVA 
@@ -490,6 +500,8 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 ## Dom 18/01/2026 15.00
 
 <strong>HC VILLAFRANCA - A.R.FINCANTIERI A.S.D.</strong>
+
+**Risultato: 15-4**
 
 Giornata: Gara 372
 
@@ -507,6 +519,8 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 <strong>CSP SAN GIORGIO - CUS PADOVA ASD</strong>
 
+**Risultato: 9-4**
+
 Giornata: Gara 373
 
 Campo: PALESTRA CUS PADOVA 
@@ -522,6 +536,8 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 ## Dom 18/01/2026 17.00
 
 <strong>HOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI A.S.D.</strong>
+
+**Risultato: 6-6**
 
 Giornata: Gara 374
 

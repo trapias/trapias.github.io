@@ -63,6 +63,8 @@ Geo: Geo(latitude=44.5131553, longitude=11.3970058)
 
 <strong>ASD HOCKEY CLUB BONDENO - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
 
+**Risultato: 10-1**
+
 Giornata: Gara 312
 
 Campo: Palestra Adriano Bonini 
@@ -79,6 +81,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
 
+**Risultato: 2-4**
+
 Giornata: Gara 313
 
 Campo: Palestra Adriano Bonini 
@@ -94,6 +98,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Dom 18/01/2026 14.00
 
 <strong>CUS PADOVA ASD - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
+
+**Risultato: 5-5**
 
 Giornata: Gara 314
 

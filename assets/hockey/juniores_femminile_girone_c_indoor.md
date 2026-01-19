@@ -117,6 +117,8 @@ Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 
 <strong>ASD HOCKEY CLUB ARGENTIA - MILANO HP</strong>
 
+**Risultato: 7-3**
+
 Giornata: Gara 321
 
 Campo: palacus 
@@ -132,6 +134,8 @@ Geo: Geo(latitude=45.4687897, longitude=9.292811)
 ## Dom 18/01/2026 11.00
 
 <strong>HOCKEY CLUB RIVA 1 - HOCKEY CLUB RIVA 2</strong>
+
+**Risultato: 5-0**
 
 Giornata: Gara 322
 
@@ -149,6 +153,8 @@ Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
 <strong>HOCKEY CLUB RIVA 2 - MILANO HP</strong>
 
+**Risultato: 3-4**
+
 Giornata: Gara 323
 
 Campo: palacus 
@@ -164,6 +170,8 @@ Geo: Geo(latitude=45.4687897, longitude=9.292811)
 ## Dom 18/01/2026 14.00
 
 <strong>HOCKEY CLUB RIVA 1 - MILANO HP</strong>
+
+**Risultato: 6-1**
 
 Giornata: Gara 324
 
@@ -181,6 +189,8 @@ Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
 <strong>ASD HOCKEY CLUB ARGENTIA - HOCKEY CLUB RIVA 2</strong>
 
+**Risultato: 5-2**
+
 Giornata: Gara 325
 
 Campo: palacus 
@@ -196,6 +206,8 @@ Geo: Geo(latitude=45.4687897, longitude=9.292811)
 ## Dom 18/01/2026 17.00
 
 <strong>ASD HOCKEY CLUB ARGENTIA - HOCKEY CLUB RIVA 1</strong>
+
+**Risultato: 4-4**
 
 Giornata: Gara 326
 

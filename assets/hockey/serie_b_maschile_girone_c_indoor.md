@@ -63,6 +63,8 @@ Geo: Geo(latitude=42.0792711, longitude=13.5399331)
 
 <strong>HOCKEY CLUB EUR - AZ HOCKEY TEAM</strong>
 
+**Risultato: 7-1**
+
 Giornata: Gara 235
 
 Campo: CENTRO SPORTIVO MILLEVOI 
@@ -79,6 +81,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 <strong>ASD HOCKEY CAMPAGNANO - HOCKEY POTENZA PICENA</strong>
 
+**Risultato: 1-3**
+
 Giornata: Gara 236
 
 Campo: CENTRO SPORTIVO MILLEVOI 
@@ -94,6 +98,8 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 ## Dom 18/01/2026 14.00
 
 <strong>ASD HOCKEY CAMPAGNANO - AZ HOCKEY TEAM</strong>
+
+**Risultato: 3-2**
 
 Giornata: Gara 238
 

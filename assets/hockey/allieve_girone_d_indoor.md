@@ -45,6 +45,8 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 <strong>HOCKEY POTENZA PICENA - AZ HOCKEY TEAM</strong>
 
+**Risultato: 1-7**
+
 Giornata: Gara 171
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
@@ -60,6 +62,8 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 ## Dom 18/01/2026 14.00
 
 <strong>AZ HOCKEY TEAM - HOCKEY POTENZA PICENA</strong>
+
+**Risultato: 7-3**
 
 Giornata: Gara 172
 

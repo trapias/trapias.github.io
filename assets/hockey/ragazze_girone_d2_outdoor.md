@@ -115,7 +115,7 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 # Ragazze - OUTDOOR  - Girone D2 / Giornata 4
 
-## Sab 14/03/2026 13.00
+## Dom 08/02/2026 12.00
 
 <strong>POL GALATEA - LAZIO HOCKEY</strong>
 

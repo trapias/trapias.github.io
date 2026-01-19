@@ -2,12 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 5\nGara 680\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - USD MONCALVESE HOCKEY\n\nRisultato: 12-1
-GEO:44.703194;7.836697
-LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20251101T130000Z
-SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 5 - HF LORENZONI - USD MONCALVESE HOCKEY
-UID:8e4939f4-10f6-4111-8184-3979f775c2e2@8e49.org
+DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 4\nGara 679\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HC LARIO\n\nRisultato: 6-0
+LOCATION: Via Goria\, 4 Moncalvo
+DTSTART:20251019T130000Z
+SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 4 - USD MONCALVESE HOCKEY - HC LARIO
+UID:4baa4eda-bb3a-45e0-a584-7328f33bf7b4@4baa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 3\nGara 676\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HF LORENZONI\n\nRisultato: 0-14
@@ -15,7 +14,23 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20251005T090000Z
 SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 3 - CUS TORINO - HF LORENZONI
-UID:2ac1c8e2-1832-41d9-b533-4239b4b06ecc@2ac1.org
+UID:507cfc01-e6f2-4ece-a894-db9e22e36197@507c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 2\nGara 697\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - HC LARIO\n\nRisultato: 6-0
+GEO:44.703194;7.836697
+LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20251026T130000Z
+SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 2 - HF LORENZONI - HC LARIO
+UID:24c0eb48-17a8-4557-bbc4-eb4efb883d0d@24c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 2\nGara 697\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - HC LARIO\n\nRisultato: 6-0
+GEO:44.703194;7.836697
+LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20251026T130000Z
+SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 2 - HF LORENZONI - HC LARIO
+UID:a2646ce1-4576-47d7-8e08-64921f2664bf@a264.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 1\nGara 674\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC LARIO - CUS TORINO\n\nRisultato: 8-4
@@ -23,14 +38,7 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20251109T100000Z
 SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 1 - HC LARIO - CUS TORINO
-UID:4429c44b-2a2a-417c-9a5b-1daecce89e7a@4429.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 4\nGara 679\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HC LARIO\n\nRisultato: 6-0
-LOCATION: Via Goria\, 4 Moncalvo
-DTSTART:20251019T130000Z
-SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 4 - USD MONCALVESE HOCKEY - HC LARIO
-UID:a519a770-a3df-4712-a327-eb27a0e5e124@a519.org
+UID:1d299e58-6a04-4076-9070-60abc05c55a4@1d29.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 2\nGara 675\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - USD MONCALVESE HOCKEY\n\nRisultato: 7-4
@@ -38,15 +46,7 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20250928T090000Z
 SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 2 - CUS TORINO - USD MONCALVESE HOCKEY
-UID:d2813dfe-9a47-4d72-a1f5-afeb1a230a5f@d281.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 2\nGara 675\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - USD MONCALVESE HOCKEY\n\nRisultato: 7-4
-GEO:45.033509;7.633384
-LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20250928T090000Z
-SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 2 - CUS TORINO - USD MONCALVESE HOCKEY
-UID:7606585a-5c3f-431a-a9c6-a70f321948af@7606.org
+UID:d39242f7-b6f2-49bb-95ee-53c4034192e5@d392.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 3\nGara 676\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HF LORENZONI\n\nRisultato: 0-14
@@ -54,31 +54,7 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20251005T090000Z
 SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 3 - CUS TORINO - HF LORENZONI
-UID:9e67d710-a49b-4c4e-b1c2-4b52c30e7414@9e67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 2\nGara 697\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - HC LARIO\n\nRisultato: 6-0
-GEO:44.703194;7.836697
-LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20251026T130000Z
-SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 2 - HF LORENZONI - HC LARIO
-UID:65fb5825-650f-4c01-99b1-76dd0291a8dc@65fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 2\nGara 697\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - HC LARIO\n\nRisultato: 6-0
-GEO:44.703194;7.836697
-LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20251026T130000Z
-SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 2 - HF LORENZONI - HC LARIO
-UID:3a64ba2d-e137-46ba-82e5-e352b13c3650@3a64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 1\nGara 674\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC LARIO - CUS TORINO\n\nRisultato: 8-4
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20251109T100000Z
-SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 1 - HC LARIO - CUS TORINO
-UID:0b1eaeeb-c645-45c1-94e9-f1ade15ee151@0b1e.org
+UID:8f50d11a-7ae6-47d0-800a-e5232ee2ef20@8f50.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 5\nGara 680\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - USD MONCALVESE HOCKEY\n\nRisultato: 12-1
@@ -86,13 +62,37 @@ GEO:44.703194;7.836697
 LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20251101T130000Z
 SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 5 - HF LORENZONI - USD MONCALVESE HOCKEY
-UID:5006d508-8940-440b-88b9-90b87f229b60@5006.org
+UID:0611396d-fc4a-4cdb-aeb5-b9f31bf413b5@0611.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 1\nGara 674\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC LARIO - CUS TORINO\n\nRisultato: 8-4
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20251109T100000Z
+SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 1 - HC LARIO - CUS TORINO
+UID:754fabb1-3869-49ef-8d99-acbb35fa6100@754f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 2\nGara 675\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - USD MONCALVESE HOCKEY\n\nRisultato: 7-4
+GEO:45.033509;7.633384
+LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
+DTSTART:20250928T090000Z
+SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 2 - CUS TORINO - USD MONCALVESE HOCKEY
+UID:0ef52f7c-52eb-47c2-b282-78bc7ca1f6ae@0ef5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 4\nGara 679\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HC LARIO\n\nRisultato: 6-0
 LOCATION: Via Goria\, 4 Moncalvo
 DTSTART:20251019T130000Z
 SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 4 - USD MONCALVESE HOCKEY - HC LARIO
-UID:e9852d32-4a35-4b4f-bd4c-313daaf0f5a3@e985.org
+UID:ebc7198c-e246-4a27-a465-c247dd35fe85@ebc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 5\nGara 680\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - USD MONCALVESE HOCKEY\n\nRisultato: 12-1
+GEO:44.703194;7.836697
+LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20251101T130000Z
+SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 5 - HF LORENZONI - USD MONCALVESE HOCKEY
+UID:2e7127cb-39d3-4459-8f5c-d6e48fe55fdf@2e71.org
 END:VEVENT
 END:VCALENDAR
