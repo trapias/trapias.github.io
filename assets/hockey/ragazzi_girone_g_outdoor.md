@@ -8,14 +8,12 @@
 
 **Risultato: 0-5**
 
-Giornata: Gara 1084
+Gara: 1084
 
 Campo: Comunale Uras 
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
-Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
@@ -24,14 +22,12 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 <strong>POLISPORTIVA FERRINI - SG AMSICORA</strong>
 
-Giornata: Gara 1085
+Gara: 1085
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -45,14 +41,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 **Risultato: 4-2**
 
-Giornata: Gara 1086
+Gara: 1086
 
 Campo: CAMPI SPORTIVI 'SA DUCHESSA' 
 
 Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
-Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
-Geo: Geo(latitude=39.2289643, longitude=9.1111611)
 Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
 Geo: Geo(latitude=39.2289643, longitude=9.1111611)
 
@@ -61,14 +55,12 @@ Geo: Geo(latitude=39.2289643, longitude=9.1111611)
 
 <strong>POLISPORTIVA FERRINI - A.S.D. POLISPORTIVA JUVENILIA</strong>
 
-Giornata: Gara 1087
+Gara: 1087
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -82,14 +74,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 **Risultato: 5-1**
 
-Giornata: Gara 1088
+Gara: 1088
 
 Campo: Comunale Uras 
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
-Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
@@ -98,14 +88,12 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 <strong>CUS CAGLIARI - POLISPORTIVA FERRINI</strong>
 
-Giornata: Gara 1089
+Gara: 1089
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 

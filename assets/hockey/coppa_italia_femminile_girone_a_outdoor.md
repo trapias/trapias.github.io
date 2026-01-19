@@ -8,14 +8,12 @@
 
 **Risultato: 1-1**
 
-Giornata: Gara 63
+Gara: 63
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 **Risultato: 2-0**
 
-Giornata: Gara 255
+Gara: 255
 
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
@@ -47,14 +43,12 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 **Risultato: 2-1**
 
-Giornata: Gara 65
+Gara: 65
 
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
@@ -65,13 +59,12 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 **Risultato: 5-0**
 
-Giornata: Gara 66
+Gara: 66
 
 Campo: UMBERTO MICCO 
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location:  Via Goria, 4 Moncalvo
 Location:  Via Goria, 4 Moncalvo
 
 
@@ -84,14 +77,12 @@ Location:  Via Goria, 4 Moncalvo
 
 **Risultato: 0-15**
 
-Giornata: Gara 67
+Gara: 67
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -102,13 +93,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 4-0**
 
-Giornata: Gara 258
+Gara: 258
 
 Campo: UMBERTO MICCO 
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location:  Via Goria, 4 Moncalvo
 Location:  Via Goria, 4 Moncalvo
 
 
@@ -121,13 +111,12 @@ Location:  Via Goria, 4 Moncalvo
 
 **Risultato: 0-6**
 
-Giornata: Gara 69
+Gara: 69
 
 Campo: UMBERTO MICCO 
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location:  Via Goria, 4 Moncalvo
 Location:  Via Goria, 4 Moncalvo
 
 
@@ -137,14 +126,12 @@ Location:  Via Goria, 4 Moncalvo
 
 **Risultato: 0-6**
 
-Giornata: Gara 259
+Gara: 259
 
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
@@ -158,14 +145,12 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 **Risultato: 1-3**
 
-Giornata: Gara 71
+Gara: 71
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -176,14 +161,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 4-0**
 
-Giornata: Gara 257
+Gara: 257
 
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 

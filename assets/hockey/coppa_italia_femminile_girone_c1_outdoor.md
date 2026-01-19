@@ -8,14 +8,12 @@
 
 **Risultato: 9-0**
 
-Giornata: Gara 223
+Gara: 223
 
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -29,14 +27,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 1-0**
 
-Giornata: Gara 224
+Gara: 224
 
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
@@ -50,14 +46,12 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 **Risultato: 0-6**
 
-Giornata: Gara 225
+Gara: 225
 
 Campo: HOCKEY STADIUM ANDREA BRUSCHI 
 
 Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
-Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
 Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
@@ -71,14 +65,12 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 **Risultato: 0-4**
 
-Giornata: Gara 226
+Gara: 226
 
 Campo: HOCKEY STADIUM ANDREA BRUSCHI 
 
 Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
-Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
 Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
@@ -92,14 +84,12 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 **Risultato: 3-0**
 
-Giornata: Gara 227
+Gara: 227
 
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
@@ -113,14 +103,12 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 **Risultato: 1-1**
 
-Giornata: Gara 228
+Gara: 228
 
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 

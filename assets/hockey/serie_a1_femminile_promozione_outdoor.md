@@ -6,13 +6,12 @@
 
 <strong>1 CLASS GIRONE A - 2 CLASS GIRONE A</strong>
 
-Giornata: Gara 880
+Gara: 880
 
 Campo: DA DEFINIRE 
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
 Location:  da definire  roma
 
 
@@ -20,13 +19,12 @@ Location:  da definire  roma
 
 <strong>2 CLASS GIRONE B - 1 CLASS GIRONE B</strong>
 
-Giornata: Gara 881
+Gara: 881
 
 Campo: DA DEFINIRE 
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
 Location:  da definire  roma
 
 
@@ -37,13 +35,12 @@ Location:  da definire  roma
 
 <strong>2 CLASS GIRONE B - 1 CLASS GIRONE A</strong>
 
-Giornata: Gara 882
+Gara: 882
 
 Campo: DA DEFINIRE 
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
 Location:  da definire  roma
 
 
@@ -51,13 +48,12 @@ Location:  da definire  roma
 
 <strong>2 CLASS GIRONE A - 1 CLASS GIRONE B</strong>
 
-Giornata: Gara 883
+Gara: 883
 
 Campo: DA DEFINIRE 
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
 Location:  da definire  roma
 
 
@@ -68,13 +64,12 @@ Location:  da definire  roma
 
 <strong>1 CLASS GIRONE B - 1 CLASS GIRONE A</strong>
 
-Giornata: Gara 884
+Gara: 884
 
 Campo: DA DEFINIRE 
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
 Location:  da definire  roma
 
 
@@ -82,13 +77,12 @@ Location:  da definire  roma
 
 <strong>2 CLASS GIRONE A - 2 CLASS GIRONE B</strong>
 
-Giornata: Gara 885
+Gara: 885
 
 Campo: DA DEFINIRE 
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
 Location:  da definire  roma
 
 
@@ -99,13 +93,12 @@ Location:  da definire  roma
 
 <strong>2 CLASS GIRONE A - 1 CLASS GIRONE A</strong>
 
-Giornata: Gara 886
+Gara: 886
 
 Campo: DA DEFINIRE 
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
 Location:  da definire  roma
 
 
@@ -113,13 +106,12 @@ Location:  da definire  roma
 
 <strong>1 CLASS GIRONE B - 2 CLASS GIRONE B</strong>
 
-Giornata: Gara 887
+Gara: 887
 
 Campo: DA DEFINIRE 
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
 Location:  da definire  roma
 
 
@@ -130,13 +122,12 @@ Location:  da definire  roma
 
 <strong>1 CLASS GIRONE A - 2 CLASS GIRONE B</strong>
 
-Giornata: Gara 888
+Gara: 888
 
 Campo: DA DEFINIRE 
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
 Location:  da definire  roma
 
 
@@ -144,13 +135,12 @@ Location:  da definire  roma
 
 <strong>1 CLASS GIRONE B - 2 CLASS GIRONE A</strong>
 
-Giornata: Gara 889
+Gara: 889
 
 Campo: DA DEFINIRE 
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
 Location:  da definire  roma
 
 
@@ -161,13 +151,12 @@ Location:  da definire  roma
 
 <strong>1 CLASS GIRONE A - 1 CLASS GIRONE B</strong>
 
-Giornata: Gara 890
+Gara: 890
 
 Campo: DA DEFINIRE 
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
 Location:  da definire  roma
 
 
@@ -175,12 +164,11 @@ Location:  da definire  roma
 
 <strong>2 CLASS GIRONE B - 2 CLASS GIRONE A</strong>
 
-Giornata: Gara 891
+Gara: 891
 
 Campo: DA DEFINIRE 
 
 Indirizzo Campo:  da definire  - roma
 
-Location:  da definire  roma
 Location:  da definire  roma
 

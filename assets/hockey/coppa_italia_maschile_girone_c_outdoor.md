@@ -8,14 +8,12 @@
 
 **Risultato: 5-2**
 
-Giornata: Gara 100
+Gara: 100
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 **Risultato: 1-0**
 
-Giornata: Gara 101
+Gara: 101
 
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
@@ -47,14 +43,12 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 **Risultato: 0-5**
 
-Giornata: Gara 102
+Gara: 102
 
 Campo: STADIO HOCKEY POTENZA PICENA 
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
@@ -65,14 +59,12 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 **Risultato: 4-0**
 
-Giornata: Gara 103
+Gara: 103
 
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
@@ -86,14 +78,12 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 **Risultato: 8-1**
 
-Giornata: Gara 104
+Gara: 104
 
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
@@ -104,14 +94,12 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 **Risultato: 2-1**
 
-Giornata: Gara 105
+Gara: 105
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -125,14 +113,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 **Risultato: 0-6**
 
-Giornata: Gara 106
+Gara: 106
 
 Campo: STADIO HOCKEY POTENZA PICENA 
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
@@ -143,14 +129,12 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 **Risultato: 3-2**
 
-Giornata: Gara 107
+Gara: 107
 
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
@@ -164,14 +148,12 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 **Risultato: 7-1**
 
-Giornata: Gara 108
+Gara: 108
 
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
@@ -182,14 +164,12 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 **Risultato: 2-1**
 
-Giornata: Gara 109
+Gara: 109
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -203,14 +183,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 **Risultato: 1-6**
 
-Giornata: Gara 110
+Gara: 110
 
 Campo: STADIO HOCKEY POTENZA PICENA 
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
@@ -221,14 +199,12 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 **Risultato: 5-4**
 
-Giornata: Gara 111
+Gara: 111
 
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 

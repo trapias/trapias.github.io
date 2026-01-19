@@ -8,14 +8,12 @@
 
 **Risultato: 1-0**
 
-Giornata: Gara 380
+Gara: 380
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
@@ -26,13 +24,12 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 **Risultato: 2-3**
 
-Giornata: Gara 381
+Gara: 381
 
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
@@ -45,14 +42,12 @@ Location:  via J. Corrado, 4 Padova
 
 **Risultato: 0-0**
 
-Giornata: Gara 382
+Gara: 382
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
@@ -63,14 +58,12 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 **Risultato: 2-2**
 
-Giornata: Gara 383
+Gara: 383
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -84,14 +77,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 2-2**
 
-Giornata: Gara 384
+Gara: 384
 
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
@@ -102,14 +93,12 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 **Risultato: 1-3**
 
-Giornata: Gara 385
+Gara: 385
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
@@ -123,13 +112,12 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 **Risultato: 1-0**
 
-Giornata: Gara 386
+Gara: 386
 
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
@@ -139,14 +127,12 @@ Location:  via J. Corrado, 4 Padova
 
 **Risultato: 2-6**
 
-Giornata: Gara 387
+Gara: 387
 
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
@@ -160,14 +146,12 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 **Risultato: 2-0**
 
-Giornata: Gara 388
+Gara: 388
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
@@ -176,14 +160,12 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>MILANO HP - CUS PADOVA ASD</strong>
 
-Giornata: Gara 389
+Gara: 389
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
@@ -195,14 +177,12 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>MILANO HP - HOCKEY CLUB ARGENTIA</strong>
 
-Giornata: Gara 390
+Gara: 390
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
@@ -211,14 +191,12 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>HOCKEY CLUB RIVA - CUS PADOVA ASD</strong>
 
-Giornata: Gara 391
+Gara: 391
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -230,14 +208,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - MILANO HP</strong>
 
-Giornata: Gara 392
+Gara: 392
 
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
@@ -246,14 +222,12 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>HOCKEY CLUB ARGENTIA - HOCKEY CLUB RIVA</strong>
 
-Giornata: Gara 393
+Gara: 393
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
@@ -265,13 +239,12 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>CUS PADOVA ASD - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
 
-Giornata: Gara 394
+Gara: 394
 
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
@@ -279,14 +252,12 @@ Location:  via J. Corrado, 4 Padova
 
 <strong>HOCKEY CLUB RIVA - MILANO HP</strong>
 
-Giornata: Gara 395
+Gara: 395
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -298,14 +269,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HOCKEY CLUB ARGENTIA - CUS PADOVA ASD</strong>
 
-Giornata: Gara 396
+Gara: 396
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
@@ -314,14 +283,12 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>HOCKEY CLUB RIVA - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
 
-Giornata: Gara 397
+Gara: 397
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -333,14 +300,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - HOCKEY CLUB ARGENTIA</strong>
 
-Giornata: Gara 398
+Gara: 398
 
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
@@ -349,12 +314,11 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>CUS PADOVA ASD - MILANO HP</strong>
 
-Giornata: Gara 399
+Gara: 399
 
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 

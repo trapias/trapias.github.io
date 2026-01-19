@@ -8,14 +8,12 @@
 
 **Risultato: 0-2**
 
-Giornata: Gara 232
+Gara: 232
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -29,14 +27,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 2-0**
 
-Giornata: Gara 233
+Gara: 233
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 

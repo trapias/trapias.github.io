@@ -8,14 +8,12 @@
 
 **Risultato: 10-0**
 
-Giornata: Gara 504
+Gara: 504
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -27,15 +25,11 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 **Risultato: 5-1**
 
-Giornata: Gara 505
+Gara: 505
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
-
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
-<!-- VALCHISONE_END -->
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
@@ -50,15 +44,11 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 **Risultato: 7-1**
 
-Giornata: Gara 506
+Gara: 506
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
-
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
-<!-- VALCHISONE_END -->
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
@@ -72,14 +62,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 **Risultato: 6-0**
 
-Giornata: Gara 507
+Gara: 507
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -93,14 +81,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 **Risultato: 3-1**
 
-Giornata: Gara 508
+Gara: 508
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -112,15 +98,11 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 4-3**
 
-Giornata: Gara 509
+Gara: 509
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
-
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
-<!-- VALCHISONE_END -->
 
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
@@ -134,14 +116,12 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 0-4**
 
-Giornata: Gara 510
+Gara: 510
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -153,15 +133,11 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 2-4**
 
-Giornata: Gara 511
+Gara: 511
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
-
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
-<!-- VALCHISONE_END -->
 
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
@@ -179,14 +155,11 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 0-4**
 
-Giornata: Gara 512
+Gara: 512
 
 Campo: PALAZZETTO SPORT PINASCA 
 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
-
-Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
-<!-- VALCHISONE_END -->
 
 Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 <!-- VALCHISONE_END -->
@@ -199,13 +172,12 @@ Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 **Risultato: 0-6**
 
-Giornata: Gara 513
+Gara: 513
 
 Campo: PALAZZETTO SPORT PINASCA 
 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
-Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 
@@ -215,13 +187,12 @@ Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 **Risultato: 0-1**
 
-Giornata: Gara 514
+Gara: 514
 
 Campo: PALAZZETTO SPORT PINASCA 
 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
-Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 
@@ -232,14 +203,11 @@ Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 **Risultato: 5-5**
 
-Giornata: Gara 515
+Gara: 515
 
 Campo: PALAZZETTO SPORT PINASCA 
 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
-
-Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
-<!-- VALCHISONE_END -->
 
 Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 <!-- VALCHISONE_END -->

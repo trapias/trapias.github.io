@@ -8,13 +8,12 @@
 
 **Risultato: 0-14**
 
-Giornata: Gara 418
+Gara: 418
 
 Campo: PALESTRA OLOF PALME 
 
 Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
 
-Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 
@@ -24,13 +23,12 @@ Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 **Risultato: 2-5**
 
-Giornata: Gara 419
+Gara: 419
 
 Campo: PALESTRA OLOF PALME 
 
 Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
 
-Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 
@@ -38,13 +36,12 @@ Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 <strong>ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC</strong>
 
-Giornata: Gara 420
+Gara: 420
 
 Campo: PALESTRA OLOF PALME 
 
 Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
 
-Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 
@@ -54,13 +51,12 @@ Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 **Risultato: 0-13**
 
-Giornata: Gara 421
+Gara: 421
 
 Campo: PALESTRA OLOF PALME 
 
 Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
 
-Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 
@@ -68,13 +64,12 @@ Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 <strong>CSP SAN GIORGIO - ASD ADIGE UHC</strong>
 
-Giornata: Gara 422
+Gara: 422
 
 Campo: PALESTRA OLOF PALME 
 
 Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
 
-Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 
@@ -84,13 +79,12 @@ Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 **Risultato: 6-4**
 
-Giornata: Gara 423
+Gara: 423
 
 Campo: PALESTRA OLOF PALME 
 
 Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
 
-Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 
@@ -98,13 +92,12 @@ Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 <strong>ASD ADIGE UHC - POLISPORTIVA CAMELOT</strong>
 
-Giornata: Gara 424
+Gara: 424
 
 Campo: PALESTRA OLOF PALME 
 
 Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
 
-Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 
@@ -117,14 +110,12 @@ Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 **Risultato: 7-0**
 
-Giornata: Gara 425
+Gara: 425
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -135,14 +126,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 1-1**
 
-Giornata: Gara 426
+Gara: 426
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -153,14 +142,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 2-3**
 
-Giornata: Gara 427
+Gara: 427
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -171,14 +158,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 1-18**
 
-Giornata: Gara 428
+Gara: 428
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -189,14 +174,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 10-0**
 
-Giornata: Gara 429
+Gara: 429
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -207,14 +190,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 0-12**
 
-Giornata: Gara 430
+Gara: 430
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -226,14 +207,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>CSP SAN GIORGIO - POLISPORTIVA CAMELOT</strong>
 
-Giornata: Gara 431
+Gara: 431
 
 Campo: palestra tresto di ospedaletto euganeo 
 
 Indirizzo Campo:  via filippi nuova, 1 - Ospedaletto Euganeo
 
-Location: Via Filippi Nuova, Tresto, Ospedaletto Euganeo, Padova, Veneto, 35045, Italia
-Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 Location: Via Filippi Nuova, Tresto, Ospedaletto Euganeo, Padova, Veneto, 35045, Italia
 Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
@@ -242,14 +221,12 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
 <strong>ASD HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA</strong>
 
-Giornata: Gara 432
+Gara: 432
 
 Campo: palestra tresto di ospedaletto euganeo 
 
 Indirizzo Campo:  via filippi nuova, 1 - Ospedaletto Euganeo
 
-Location: Via Filippi Nuova, Tresto, Ospedaletto Euganeo, Padova, Veneto, 35045, Italia
-Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 Location: Via Filippi Nuova, Tresto, Ospedaletto Euganeo, Padova, Veneto, 35045, Italia
 Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
@@ -258,14 +235,12 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
 <strong>ASD ADIGE UHC - CSP SAN GIORGIO</strong>
 
-Giornata: Gara 433
+Gara: 433
 
 Campo: palestra tresto di ospedaletto euganeo 
 
 Indirizzo Campo:  via filippi nuova, 1 - Ospedaletto Euganeo
 
-Location: Via Filippi Nuova, Tresto, Ospedaletto Euganeo, Padova, Veneto, 35045, Italia
-Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 Location: Via Filippi Nuova, Tresto, Ospedaletto Euganeo, Padova, Veneto, 35045, Italia
 Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
@@ -274,14 +249,12 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
 <strong>HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT</strong>
 
-Giornata: Gara 434
+Gara: 434
 
 Campo: palestra tresto di ospedaletto euganeo 
 
 Indirizzo Campo:  via filippi nuova, 1 - Ospedaletto Euganeo
 
-Location: Via Filippi Nuova, Tresto, Ospedaletto Euganeo, Padova, Veneto, 35045, Italia
-Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 Location: Via Filippi Nuova, Tresto, Ospedaletto Euganeo, Padova, Veneto, 35045, Italia
 Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
@@ -290,14 +263,12 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
 <strong>CSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO</strong>
 
-Giornata: Gara 435
+Gara: 435
 
 Campo: palestra tresto di ospedaletto euganeo 
 
 Indirizzo Campo:  via filippi nuova, 1 - Ospedaletto Euganeo
 
-Location: Via Filippi Nuova, Tresto, Ospedaletto Euganeo, Padova, Veneto, 35045, Italia
-Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 Location: Via Filippi Nuova, Tresto, Ospedaletto Euganeo, Padova, Veneto, 35045, Italia
 Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
@@ -306,14 +277,12 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
 <strong>HOCKEY CLUB RIVA - ASD ADIGE UHC</strong>
 
-Giornata: Gara 436
+Gara: 436
 
 Campo: palestra tresto di ospedaletto euganeo 
 
 Indirizzo Campo:  via filippi nuova, 1 - Ospedaletto Euganeo
 
-Location: Via Filippi Nuova, Tresto, Ospedaletto Euganeo, Padova, Veneto, 35045, Italia
-Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 Location: Via Filippi Nuova, Tresto, Ospedaletto Euganeo, Padova, Veneto, 35045, Italia
 Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
@@ -322,14 +291,12 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
 <strong>POLISPORTIVA CAMELOT - ASD HOCKEY CLUB BONDENO</strong>
 
-Giornata: Gara 437
+Gara: 437
 
 Campo: palestra tresto di ospedaletto euganeo 
 
 Indirizzo Campo:  via filippi nuova, 1 - Ospedaletto Euganeo
 
-Location: Via Filippi Nuova, Tresto, Ospedaletto Euganeo, Padova, Veneto, 35045, Italia
-Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 Location: Via Filippi Nuova, Tresto, Ospedaletto Euganeo, Padova, Veneto, 35045, Italia
 Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 

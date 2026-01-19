@@ -8,14 +8,12 @@
 
 **Risultato: 4-0**
 
-Giornata: Gara 293
+Gara: 293
 
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
@@ -24,14 +22,12 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>LAZIO HOCKEY - BUTTERFLY ROMA</strong>
 
-Giornata: Gara 294
+Gara: 294
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -45,14 +41,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 **Risultato: 7-0**
 
-Giornata: Gara 295
+Gara: 295
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -63,14 +57,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 **Risultato: 2-5**
 
-Giornata: Gara 296
+Gara: 296
 
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
@@ -84,14 +76,12 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 **Risultato: 0-9**
 
-Giornata: Gara 297
+Gara: 297
 
 Campo: STADIO HOCKEY POTENZA PICENA 
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
@@ -102,14 +92,12 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 **Risultato: 1-0**
 
-Giornata: Gara 298
+Gara: 298
 
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
@@ -121,14 +109,12 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>H.POTENZA PICENA - UH CAPITOLINA</strong>
 
-Giornata: Gara 299
+Gara: 299
 
 Campo: STADIO HOCKEY POTENZA PICENA 
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
@@ -137,14 +123,12 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>BUTTERFLY ROMA - LAZIO HOCKEY</strong>
 
-Giornata: Gara 300
+Gara: 300
 
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
@@ -156,14 +140,12 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>H.POTENZA PICENA - LAZIO HOCKEY</strong>
 
-Giornata: Gara 301
+Gara: 301
 
 Campo: STADIO HOCKEY POTENZA PICENA 
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
@@ -172,14 +154,12 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>BUTTERFLY ROMA - UH CAPITOLINA</strong>
 
-Giornata: Gara 302
+Gara: 302
 
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
@@ -191,14 +171,12 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>BUTTERFLY ROMA - H.POTENZA PICENA</strong>
 
-Giornata: Gara 303
+Gara: 303
 
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
@@ -207,14 +185,12 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>LAZIO HOCKEY - UH CAPITOLINA</strong>
 
-Giornata: Gara 304
+Gara: 304
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 

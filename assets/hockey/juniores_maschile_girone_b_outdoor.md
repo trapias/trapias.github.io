@@ -8,14 +8,12 @@
 
 **Risultato: 1-8**
 
-Giornata: Gara 263
+Gara: 263
 
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
@@ -29,14 +27,12 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 **Risultato: 2-6**
 
-Giornata: Gara 265
+Gara: 265
 
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
@@ -50,14 +46,12 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 **Risultato: 4-3**
 
-Giornata: Gara 267
+Gara: 267
 
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
-Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -71,13 +65,12 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 **Risultato: 2-2**
 
-Giornata: Gara 269
+Gara: 269
 
 Campo: Impianto comunale Nereo Faccioli 
 
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
 
-Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 
@@ -90,14 +83,12 @@ Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 **Risultato: 3-3**
 
-Giornata: Gara 271
+Gara: 271
 
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
-Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -106,14 +97,12 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PADOVA ASD</strong>
 
-Giornata: Gara 272
+Gara: 272
 
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
@@ -125,13 +114,12 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 <strong>HC VILLAFRANCA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
 
-Giornata: Gara 370
+Gara: 370
 
 Campo: Impianto comunale Nereo Faccioli 
 
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
 
-Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 
@@ -142,14 +130,12 @@ Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 <strong>CSP SAN GIORGIO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
 
-Giornata: Gara 372
+Gara: 372
 
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
-Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -161,13 +147,12 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>CUS PADOVA ASD - CSP SAN GIORGIO</strong>
 
-Giornata: Gara 374
+Gara: 374
 
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
@@ -178,13 +163,12 @@ Location:  via J. Corrado, 4 Padova
 
 <strong>CUS PADOVA ASD - HC VILLAFRANCA</strong>
 
-Giornata: Gara 376
+Gara: 376
 
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
@@ -195,13 +179,12 @@ Location:  via J. Corrado, 4 Padova
 
 <strong>HC VILLAFRANCA - CSP SAN GIORGIO</strong>
 
-Giornata: Gara 378
+Gara: 378
 
 Campo: Impianto comunale Nereo Faccioli 
 
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
 
-Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 
@@ -209,12 +192,11 @@ Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 <strong>CUS PADOVA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
 
-Giornata: Gara 379
+Gara: 379
 
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 

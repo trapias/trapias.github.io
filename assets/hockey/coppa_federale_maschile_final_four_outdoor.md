@@ -8,14 +8,12 @@
 
 **Risultato: 5-3**
 
-Giornata: Gara 1075
+Gara: 1075
 
 Campo: BAGLIANO 
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
-Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
-Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 **Risultato: 2-0**
 
-Giornata: Gara 1076
+Gara: 1076
 
 Campo: BAGLIANO 
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
-Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
-Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
@@ -47,14 +43,12 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 **Risultato: 3-4**
 
-Giornata: Gara 1077
+Gara: 1077
 
 Campo: BAGLIANO 
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
-Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
-Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
@@ -65,14 +59,12 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 **Risultato: 3-0**
 
-Giornata: Gara 1078
+Gara: 1078
 
 Campo: BAGLIANO 
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
-Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
-Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 

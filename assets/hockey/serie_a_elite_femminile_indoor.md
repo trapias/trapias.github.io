@@ -8,14 +8,12 @@
 
 **Risultato: 1-3**
 
-Giornata: Gara 7
+Gara: 7
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 4-4**
 
-Giornata: Gara 8
+Gara: 8
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 8-2**
 
-Giornata: Gara 9
+Gara: 9
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -62,14 +56,12 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 2-5**
 
-Giornata: Gara 10
+Gara: 10
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -80,14 +72,12 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 4-5**
 
-Giornata: Gara 11
+Gara: 11
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -98,14 +88,12 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 1-10**
 
-Giornata: Gara 12
+Gara: 12
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -119,14 +107,12 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 3-1**
 
-Giornata: Gara 13
+Gara: 13
 
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
-Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
@@ -137,14 +123,12 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 **Risultato: 2-2**
 
-Giornata: Gara 14
+Gara: 14
 
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
-Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
@@ -155,14 +139,12 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 **Risultato: 3-3**
 
-Giornata: Gara 15
+Gara: 15
 
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
-Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
@@ -173,14 +155,12 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 **Risultato: 1-1**
 
-Giornata: Gara 16
+Gara: 16
 
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
-Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
@@ -191,14 +171,12 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 **Risultato: 1-1**
 
-Giornata: Gara 17
+Gara: 17
 
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
-Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
@@ -209,14 +187,12 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 **Risultato: 5-4**
 
-Giornata: Gara 18
+Gara: 18
 
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
-Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
@@ -230,13 +206,12 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 **Risultato: 5-1**
 
-Giornata: Gara 1
+Gara: 1
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -246,13 +221,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 5-4**
 
-Giornata: Gara 2
+Gara: 2
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -262,13 +236,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 7-2**
 
-Giornata: Gara 3
+Gara: 3
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -278,13 +251,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 2-7**
 
-Giornata: Gara 4
+Gara: 4
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -294,13 +266,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 2-3**
 
-Giornata: Gara 5
+Gara: 5
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -310,13 +281,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 5-2**
 
-Giornata: Gara 6
+Gara: 6
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -329,14 +299,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 3-1**
 
-Giornata: Gara 19
+Gara: 19
 
 Campo: PALESTRA CUS PADOVA 
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -347,14 +315,12 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 **Risultato: 3-1**
 
-Giornata: Gara 20
+Gara: 20
 
 Campo: PALESTRA CUS PADOVA 
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -365,14 +331,12 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 **Risultato: 2-2**
 
-Giornata: Gara 21
+Gara: 21
 
 Campo: PALESTRA CUS PADOVA 
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -383,14 +347,12 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 **Risultato: 5-3**
 
-Giornata: Gara 22
+Gara: 22
 
 Campo: PALESTRA CUS PADOVA 
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -401,14 +363,12 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 **Risultato: 1-6**
 
-Giornata: Gara 23
+Gara: 23
 
 Campo: PALESTRA CUS PADOVA 
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -419,14 +379,12 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 **Risultato: 3-4**
 
-Giornata: Gara 24
+Gara: 24
 
 Campo: PALESTRA CUS PADOVA 
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -438,14 +396,12 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 <strong>CUS TORINO - ASD HF LORENZONI</strong>
 
-Giornata: Gara 25
+Gara: 25
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -454,14 +410,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>CUS PADOVA ASD - MILANO HP</strong>
 
-Giornata: Gara 26
+Gara: 26
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -470,14 +424,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>S.G. AMSICORA ASD - HOCKEY CLUB RIVA</strong>
 
-Giornata: Gara 27
+Gara: 27
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -486,14 +438,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>ASD HF LORENZONI - CUS PADOVA ASD</strong>
 
-Giornata: Gara 28
+Gara: 28
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -502,14 +452,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>MILANO HP - S.G. AMSICORA ASD</strong>
 
-Giornata: Gara 29
+Gara: 29
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -518,14 +466,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>HOCKEY CLUB RIVA - CUS TORINO</strong>
 
-Giornata: Gara 30
+Gara: 30
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 

@@ -8,14 +8,12 @@
 
 **Risultato: 0-10**
 
-Giornata: Gara 242
+Gara: 242
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 4-4**
 
-Giornata: Gara 243
+Gara: 243
 
 Campo: Campo Giovanni Gondo 
 
 Indirizzo Campo:  viale Kennedy, snc - Novara
 
-Location: Viale Kennedy, San Paolo, Novara, Piemonte, 28100, Italia
-Geo: Geo(latitude=45.4388788, longitude=8.599161)
 Location: Viale Kennedy, San Paolo, Novara, Piemonte, 28100, Italia
 Geo: Geo(latitude=45.4388788, longitude=8.599161)
 
@@ -47,14 +43,12 @@ Geo: Geo(latitude=45.4388788, longitude=8.599161)
 
 **Risultato: 14-0**
 
-Giornata: Gara 244
+Gara: 244
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
@@ -65,14 +59,12 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 **Risultato: 12-0**
 
-Giornata: Gara 245
+Gara: 245
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -86,14 +78,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 8-0**
 
-Giornata: Gara 246
+Gara: 246
 
 Campo: Campo Giovanni Gondo 
 
 Indirizzo Campo:  viale Kennedy, snc - Novara
 
-Location: Viale Kennedy, San Paolo, Novara, Piemonte, 28100, Italia
-Geo: Geo(latitude=45.4388788, longitude=8.599161)
 Location: Viale Kennedy, San Paolo, Novara, Piemonte, 28100, Italia
 Geo: Geo(latitude=45.4388788, longitude=8.599161)
 
@@ -104,14 +94,12 @@ Geo: Geo(latitude=45.4388788, longitude=8.599161)
 
 **Risultato: 1-3**
 
-Giornata: Gara 247
+Gara: 247
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
@@ -125,14 +113,12 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 **Risultato: 17-0**
 
-Giornata: Gara 248
+Gara: 248
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
@@ -143,14 +129,12 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 **Risultato: 7-0**
 
-Giornata: Gara 249
+Gara: 249
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -164,14 +148,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 0-4**
 
-Giornata: Gara 250
+Gara: 250
 
 Campo: Campo Giovanni Gondo 
 
 Indirizzo Campo:  viale Kennedy, snc - Novara
 
-Location: Viale Kennedy, San Paolo, Novara, Piemonte, 28100, Italia
-Geo: Geo(latitude=45.4388788, longitude=8.599161)
 Location: Viale Kennedy, San Paolo, Novara, Piemonte, 28100, Italia
 Geo: Geo(latitude=45.4388788, longitude=8.599161)
 
@@ -182,14 +164,12 @@ Geo: Geo(latitude=45.4388788, longitude=8.599161)
 
 **Risultato: 1-14**
 
-Giornata: Gara 251
+Gara: 251
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -203,14 +183,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 1-2**
 
-Giornata: Gara 252
+Gara: 252
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -221,14 +199,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 3-3**
 
-Giornata: Gara 253
+Gara: 253
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 

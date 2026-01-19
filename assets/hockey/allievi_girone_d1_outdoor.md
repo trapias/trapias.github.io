@@ -6,14 +6,12 @@
 
 <strong>HOCKEY CLUB ROMA - LAZIO HOCKEY</strong>
 
-Giornata: Gara 542
+Gara: 542
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -24,14 +22,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 **Risultato: 3-1**
 
-Giornata: Gara 543
+Gara: 543
 
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
@@ -43,14 +39,12 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>BUTTERFLY ROMA - HOCKEY CLUB ROMA</strong>
 
-Giornata: Gara 544
+Gara: 544
 
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
@@ -59,14 +53,12 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>LAZIO HOCKEY - TEVERE EUR H</strong>
 
-Giornata: Gara 545
+Gara: 545
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -78,14 +70,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>HOCKEY CLUB ROMA - TEVERE EUR H</strong>
 
-Giornata: Gara 546
+Gara: 546
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -94,14 +84,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>LAZIO HOCKEY - BUTTERFLY ROMA</strong>
 
-Giornata: Gara 547
+Gara: 547
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -113,14 +101,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>LAZIO HOCKEY - HOCKEY CLUB ROMA</strong>
 
-Giornata: Gara 548
+Gara: 548
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -129,14 +115,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>TEVERE EUR H - BUTTERFLY ROMA</strong>
 
-Giornata: Gara 549
+Gara: 549
 
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
@@ -148,14 +132,12 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>HOCKEY CLUB ROMA - BUTTERFLY ROMA</strong>
 
-Giornata: Gara 550
+Gara: 550
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -164,14 +146,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>TEVERE EUR H - LAZIO HOCKEY</strong>
 
-Giornata: Gara 551
+Gara: 551
 
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
@@ -183,14 +163,12 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>TEVERE EUR H - HOCKEY CLUB ROMA</strong>
 
-Giornata: Gara 552
+Gara: 552
 
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
@@ -199,14 +177,12 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>BUTTERFLY ROMA - LAZIO HOCKEY</strong>
 
-Giornata: Gara 553
+Gara: 553
 
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 

@@ -6,14 +6,12 @@
 
 <strong>3 CLASSIFICATA - 1 CLASSIFICATA</strong>
 
-Giornata: Gara 127
+Gara: 127
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -25,14 +23,12 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 <strong>2 CLASSIFICATA - 3 CLASSIFICATA</strong>
 
-Giornata: Gara 128
+Gara: 128
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 <strong>1 CLASSIFICATA - 2 CLASSIFICATA</strong>
 
-Giornata: Gara 129
+Gara: 129
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 

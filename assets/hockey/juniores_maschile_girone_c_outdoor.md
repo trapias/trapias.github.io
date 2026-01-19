@@ -6,14 +6,12 @@
 
 <strong>GENOVA H 1980 U18 - HC SAVONA</strong>
 
-Giornata: Gara 305
+Gara: 305
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -24,14 +22,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 0-8**
 
-Giornata: Gara 306
+Gara: 306
 
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -40,14 +36,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>HC GENOVA - GENOVA H 1980</strong>
 
-Giornata: Gara 307
+Gara: 307
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -61,14 +55,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 2-1**
 
-Giornata: Gara 308
+Gara: 308
 
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -79,14 +71,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 3-3**
 
-Giornata: Gara 309
+Gara: 309
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -97,14 +87,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 8-3**
 
-Giornata: Gara 310
+Gara: 310
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -118,14 +106,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 9-2**
 
-Giornata: Gara 311
+Gara: 311
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -136,14 +122,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 5-0**
 
-Giornata: Gara 312
+Gara: 312
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -154,14 +138,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 1-10**
 
-Giornata: Gara 313
+Gara: 313
 
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -175,14 +157,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 1-2**
 
-Giornata: Gara 314
+Gara: 314
 
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -193,14 +173,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 1-2**
 
-Giornata: Gara 315
+Gara: 315
 
 Campo: Campo Sportivo Augusto Briano 
 
 Indirizzo Campo:  Via Santuario, snc - Savona
 
-Location: Via Santuario, Lavagnola, Savona, Liguria, 17100, Italia
-Geo: Geo(latitude=44.3230861, longitude=8.464578)
 Location: Via Santuario, Lavagnola, Savona, Liguria, 17100, Italia
 Geo: Geo(latitude=44.3230861, longitude=8.464578)
 
@@ -211,14 +189,12 @@ Geo: Geo(latitude=44.3230861, longitude=8.464578)
 
 **Risultato: 2-5**
 
-Giornata: Gara 316
+Gara: 316
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -232,14 +208,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 0-5**
 
-Giornata: Gara 317
+Gara: 317
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -248,14 +222,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>CUS PISA ASD - HC SAVONA</strong>
 
-Giornata: Gara 318
+Gara: 318
 
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -266,14 +238,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 7-7**
 
-Giornata: Gara 319
+Gara: 319
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 

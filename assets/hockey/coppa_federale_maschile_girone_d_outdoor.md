@@ -8,14 +8,12 @@
 
 **Risultato: 1-4**
 
-Giornata: Gara 213
+Gara: 213
 
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 **Risultato: 6-0**
 
-Giornata: Gara 214
+Gara: 214
 
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
@@ -47,14 +43,12 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 **Risultato: 0-10**
 
-Giornata: Gara 215
+Gara: 215
 
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
@@ -65,14 +59,12 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 **Risultato: 1-2**
 
-Giornata: Gara 216
+Gara: 216
 
 Campo: Comunale Valverde 
 
 Indirizzo Campo:  Via Seminara, 28 - Valverde
 
-Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
-Geo: Geo(latitude=37.5737465, longitude=15.121129)
 Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
 Geo: Geo(latitude=37.5737465, longitude=15.121129)
 
@@ -86,14 +78,12 @@ Geo: Geo(latitude=37.5737465, longitude=15.121129)
 
 **Risultato: 2-1**
 
-Giornata: Gara 217
+Gara: 217
 
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
@@ -104,14 +94,12 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 **Risultato: 7-1**
 
-Giornata: Gara 218
+Gara: 218
 
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
@@ -125,14 +113,12 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 **Risultato: 1-1**
 
-Giornata: Gara 219
+Gara: 219
 
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
@@ -143,14 +129,12 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 **Risultato: 0-5**
 
-Giornata: Gara 220
+Gara: 220
 
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
@@ -164,14 +148,12 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 **Risultato: 9-0**
 
-Giornata: Gara 221
+Gara: 221
 
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
@@ -182,14 +164,12 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 **Risultato: 1-1**
 
-Giornata: Gara 222
+Gara: 222
 
 Campo: Comunale Valverde 
 
 Indirizzo Campo:  Via Seminara, 28 - Valverde
 
-Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
-Geo: Geo(latitude=37.5737465, longitude=15.121129)
 Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
 Geo: Geo(latitude=37.5737465, longitude=15.121129)
 

@@ -6,14 +6,12 @@
 
 <strong>TEVERE EUR H - BUTTERFLY ROMA</strong>
 
-Giornata: Gara 1
+Gara: 1
 
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
@@ -22,14 +20,12 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>POL FERRINI - HC BRA</strong>
 
-Giornata: Gara 2
+Gara: 2
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -39,15 +35,11 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>HP VALCHISONE - H CITTA' DEL TRICOLORE</strong>
 
-Giornata: Gara 3
+Gara: 3
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 
 
 Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
-
-Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.9206934, longitude=7.2445978)
-<!-- VALCHISONE_END -->
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
 Geo: Geo(latitude=44.9206934, longitude=7.2445978)
@@ -59,14 +51,12 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>LAZIO HOCKEY - SG AMSICORA</strong>
 
-Giornata: Gara 4
+Gara: 4
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -78,14 +68,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>HC BRA - TEVERE EUR H</strong>
 
-Giornata: Gara 5
+Gara: 5
 
 Campo: PINO PALMIERI 
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
@@ -94,14 +82,12 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 <strong>BUTTERFLY ROMA - POL FERRINI</strong>
 
-Giornata: Gara 6
+Gara: 6
 
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
@@ -110,14 +96,12 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>H CITTA' DEL TRICOLORE - LAZIO HOCKEY</strong>
 
-Giornata: Gara 7
+Gara: 7
 
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
@@ -127,15 +111,11 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 <strong>SG AMSICORA - HP VALCHISONE</strong>
 
-Giornata: Gara 8
+Gara: 8
 
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
-
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
-<!-- VALCHISONE_END -->
 
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
@@ -150,14 +130,12 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>TEVERE EUR H - H CITTA' DEL TRICOLORE</strong>
 
-Giornata: Gara 9
+Gara: 9
 
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
@@ -166,14 +144,12 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>POL FERRINI - SG AMSICORA</strong>
 
-Giornata: Gara 10
+Gara: 10
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -182,14 +158,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>LAZIO HOCKEY - BUTTERFLY ROMA</strong>
 
-Giornata: Gara 11
+Gara: 11
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -199,15 +173,11 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>HP VALCHISONE - HC BRA</strong>
 
-Giornata: Gara 12
+Gara: 12
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 
 
 Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
-
-Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.9206934, longitude=7.2445978)
-<!-- VALCHISONE_END -->
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
 Geo: Geo(latitude=44.9206934, longitude=7.2445978)
@@ -222,14 +192,12 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>SG AMSICORA - TEVERE EUR H</strong>
 
-Giornata: Gara 13
+Gara: 13
 
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
@@ -238,14 +206,12 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>H CITTA' DEL TRICOLORE - POL FERRINI</strong>
 
-Giornata: Gara 14
+Gara: 14
 
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
@@ -254,14 +220,12 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 <strong>HC BRA - LAZIO HOCKEY</strong>
 
-Giornata: Gara 15
+Gara: 15
 
 Campo: PINO PALMIERI 
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
@@ -271,15 +235,11 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 <strong>BUTTERFLY ROMA - HP VALCHISONE</strong>
 
-Giornata: Gara 16
+Gara: 16
 
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
-
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
-<!-- VALCHISONE_END -->
 
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
@@ -294,14 +254,12 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>TEVERE EUR H - POL FERRINI</strong>
 
-Giornata: Gara 17
+Gara: 17
 
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
@@ -310,14 +268,12 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>HC BRA - BUTTERFLY ROMA</strong>
 
-Giornata: Gara 18
+Gara: 18
 
 Campo: PINO PALMIERI 
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
@@ -326,14 +282,12 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 <strong>SG AMSICORA - H CITTA' DEL TRICOLORE</strong>
 
-Giornata: Gara 19
+Gara: 19
 
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
@@ -343,15 +297,11 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>LAZIO HOCKEY - HP VALCHISONE</strong>
 
-Giornata: Gara 20
+Gara: 20
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
-
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
-<!-- VALCHISONE_END -->
 
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
@@ -366,14 +316,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>BUTTERFLY ROMA - SG AMSICORA</strong>
 
-Giornata: Gara 21
+Gara: 21
 
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
@@ -383,15 +331,11 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>HP VALCHISONE - TEVERE EUR H</strong>
 
-Giornata: Gara 22
+Gara: 22
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 
 
 Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
-
-Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.9206934, longitude=7.2445978)
-<!-- VALCHISONE_END -->
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
 Geo: Geo(latitude=44.9206934, longitude=7.2445978)
@@ -403,14 +347,12 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>POL FERRINI - LAZIO HOCKEY</strong>
 
-Giornata: Gara 23
+Gara: 23
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -419,14 +361,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>H CITTA' DEL TRICOLORE - HC BRA</strong>
 
-Giornata: Gara 24
+Gara: 24
 
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
@@ -438,14 +378,12 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 <strong>LAZIO HOCKEY - TEVERE EUR H</strong>
 
-Giornata: Gara 25
+Gara: 25
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -455,15 +393,11 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>HP VALCHISONE - POL FERRINI</strong>
 
-Giornata: Gara 26
+Gara: 26
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 
 
 Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
-
-Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.9206934, longitude=7.2445978)
-<!-- VALCHISONE_END -->
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
 Geo: Geo(latitude=44.9206934, longitude=7.2445978)
@@ -475,14 +409,12 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>SG AMSICORA - HC BRA</strong>
 
-Giornata: Gara 27
+Gara: 27
 
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
@@ -491,14 +423,12 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>H CITTA' DEL TRICOLORE - BUTTERFLY ROMA</strong>
 
-Giornata: Gara 28
+Gara: 28
 
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
@@ -510,14 +440,12 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 <strong>BUTTERFLY ROMA - TEVERE EUR H</strong>
 
-Giornata: Gara 29
+Gara: 29
 
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
@@ -526,14 +454,12 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>HC BRA - POL FERRINI</strong>
 
-Giornata: Gara 30
+Gara: 30
 
 Campo: PINO PALMIERI 
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
@@ -542,14 +468,12 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 <strong>SG AMSICORA - LAZIO HOCKEY</strong>
 
-Giornata: Gara 31
+Gara: 31
 
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
@@ -559,15 +483,11 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>H CITTA' DEL TRICOLORE - HP VALCHISONE</strong>
 
-Giornata: Gara 32
+Gara: 32
 
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
-
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
-<!-- VALCHISONE_END -->
 
 Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
@@ -582,14 +502,12 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 <strong>TEVERE EUR H - HC BRA</strong>
 
-Giornata: Gara 33
+Gara: 33
 
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
@@ -598,14 +516,12 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>POL FERRINI - BUTTERFLY ROMA</strong>
 
-Giornata: Gara 34
+Gara: 34
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -614,14 +530,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>LAZIO HOCKEY - H CITTA' DEL TRICOLORE</strong>
 
-Giornata: Gara 35
+Gara: 35
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -631,15 +545,11 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>HP VALCHISONE - SG AMSICORA</strong>
 
-Giornata: Gara 36
+Gara: 36
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 
 
 Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
-
-Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.9206934, longitude=7.2445978)
-<!-- VALCHISONE_END -->
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
 Geo: Geo(latitude=44.9206934, longitude=7.2445978)
@@ -654,14 +564,12 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>H CITTA' DEL TRICOLORE - TEVERE EUR H</strong>
 
-Giornata: Gara 37
+Gara: 37
 
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
@@ -670,14 +578,12 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 <strong>SG AMSICORA - POL FERRINI</strong>
 
-Giornata: Gara 38
+Gara: 38
 
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
@@ -686,14 +592,12 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>BUTTERFLY ROMA - LAZIO HOCKEY</strong>
 
-Giornata: Gara 39
+Gara: 39
 
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
@@ -703,15 +607,11 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>HC BRA - HP VALCHISONE</strong>
 
-Giornata: Gara 40
+Gara: 40
 
 Campo: PINO PALMIERI 
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
-
-Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7046812, longitude=7.8430689)
-<!-- VALCHISONE_END -->
 
 Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7046812, longitude=7.8430689)
@@ -726,14 +626,12 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 <strong>TEVERE EUR H - SG AMSICORA</strong>
 
-Giornata: Gara 41
+Gara: 41
 
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
@@ -742,14 +640,12 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>POL FERRINI - H CITTA' DEL TRICOLORE</strong>
 
-Giornata: Gara 42
+Gara: 42
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -758,14 +654,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>LAZIO HOCKEY - HC BRA</strong>
 
-Giornata: Gara 43
+Gara: 43
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -775,15 +669,11 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>HP VALCHISONE - BUTTERFLY ROMA</strong>
 
-Giornata: Gara 44
+Gara: 44
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 
 
 Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
-
-Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.9206934, longitude=7.2445978)
-<!-- VALCHISONE_END -->
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
 Geo: Geo(latitude=44.9206934, longitude=7.2445978)
@@ -799,15 +689,11 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>HP VALCHISONE - LAZIO HOCKEY</strong>
 
-Giornata: Gara 45
+Gara: 45
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 
 
 Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
-
-Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.9206934, longitude=7.2445978)
-<!-- VALCHISONE_END -->
 
 Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
 Geo: Geo(latitude=44.9206934, longitude=7.2445978)
@@ -819,14 +705,12 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>BUTTERFLY ROMA - HC BRA</strong>
 
-Giornata: Gara 46
+Gara: 46
 
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
@@ -835,14 +719,12 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>H CITTA' DEL TRICOLORE - SG AMSICORA</strong>
 
-Giornata: Gara 47
+Gara: 47
 
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
@@ -851,14 +733,12 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 <strong>POL FERRINI - TEVERE EUR H</strong>
 
-Giornata: Gara 48
+Gara: 48
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -870,14 +750,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>SG AMSICORA - BUTTERFLY ROMA</strong>
 
-Giornata: Gara 49
+Gara: 49
 
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
@@ -886,14 +764,12 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>HC BRA - H CITTA' DEL TRICOLORE</strong>
 
-Giornata: Gara 50
+Gara: 50
 
 Campo: PINO PALMIERI 
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
@@ -902,14 +778,12 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 <strong>LAZIO HOCKEY - POL FERRINI</strong>
 
-Giornata: Gara 51
+Gara: 51
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -919,15 +793,11 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>TEVERE EUR H - HP VALCHISONE</strong>
 
-Giornata: Gara 52
+Gara: 52
 
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
-
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
-<!-- VALCHISONE_END -->
 
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
@@ -942,14 +812,12 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>BUTTERFLY ROMA - H CITTA' DEL TRICOLORE</strong>
 
-Giornata: Gara 53
+Gara: 53
 
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
@@ -959,15 +827,11 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>POL FERRINI - HP VALCHISONE</strong>
 
-Giornata: Gara 54
+Gara: 54
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
-
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
-<!-- VALCHISONE_END -->
 
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
@@ -979,14 +843,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>HC BRA - SG AMSICORA</strong>
 
-Giornata: Gara 55
+Gara: 55
 
 Campo: PINO PALMIERI 
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
@@ -995,14 +857,12 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 <strong>TEVERE EUR H - LAZIO HOCKEY</strong>
 
-Giornata: Gara 56
+Gara: 56
 
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 

@@ -8,14 +8,12 @@
 
 **Risultato: 3-5**
 
-Giornata: Gara 1067
+Gara: 1067
 
 Campo: PINO PALMIERI 
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 **Risultato: 4-3**
 
-Giornata: Gara 1068
+Gara: 1068
 
 Campo: PINO PALMIERI 
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
@@ -47,14 +43,12 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 **Risultato: 3-2**
 
-Giornata: Gara 1069
+Gara: 1069
 
 Campo: PINO PALMIERI 
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
@@ -65,14 +59,12 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 **Risultato: 4-3**
 
-Giornata: Gara 1070
+Gara: 1070
 
 Campo: PINO PALMIERI 
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 

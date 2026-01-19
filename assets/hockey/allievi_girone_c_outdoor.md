@@ -8,14 +8,12 @@
 
 **Risultato: 13-0**
 
-Giornata: Gara 351
+Gara: 351
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 4-3**
 
-Giornata: Gara 352
+Gara: 352
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 4-9**
 
-Giornata: Gara 353
+Gara: 353
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -65,14 +59,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 1-4**
 
-Giornata: Gara 354
+Gara: 354
 
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -83,14 +75,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 7-2**
 
-Giornata: Gara 355
+Gara: 355
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -101,14 +91,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 6-6**
 
-Giornata: Gara 356
+Gara: 356
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -122,14 +110,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 9-9**
 
-Giornata: Gara 357
+Gara: 357
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -140,14 +126,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 3-11**
 
-Giornata: Gara 358
+Gara: 358
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -158,14 +142,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 7-6**
 
-Giornata: Gara 359
+Gara: 359
 
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -179,14 +161,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 2-7**
 
-Giornata: Gara 360
+Gara: 360
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -197,14 +177,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 3-2**
 
-Giornata: Gara 361
+Gara: 361
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -215,14 +193,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 11-1**
 
-Giornata: Gara 362
+Gara: 362
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -236,14 +212,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 15-0**
 
-Giornata: Gara 363
+Gara: 363
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -254,14 +228,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 3-8**
 
-Giornata: Gara 364
+Gara: 364
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -272,14 +244,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 2-9**
 
-Giornata: Gara 365
+Gara: 365
 
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -293,14 +263,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 2-10**
 
-Giornata: Gara 366
+Gara: 366
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -311,14 +279,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 3-2**
 
-Giornata: Gara 367
+Gara: 367
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -329,14 +295,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 2-4**
 
-Giornata: Gara 606
+Gara: 606
 
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -350,14 +314,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 0-15**
 
-Giornata: Gara 368
+Gara: 368
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -368,14 +330,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 1-12**
 
-Giornata: Gara 607
+Gara: 607
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -386,14 +346,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 9-1**
 
-Giornata: Gara 608
+Gara: 608
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 

@@ -8,14 +8,12 @@
 
 **Risultato: 2-2**
 
-Giornata: Gara 406
+Gara: 406
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 2-2**
 
-Giornata: Gara 407
+Gara: 407
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 3-2**
 
-Giornata: Gara 408
+Gara: 408
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -62,14 +56,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 7-3**
 
-Giornata: Gara 409
+Gara: 409
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -80,14 +72,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 2-0**
 
-Giornata: Gara 410
+Gara: 410
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -98,14 +88,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 2-1**
 
-Giornata: Gara 411
+Gara: 411
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -119,14 +107,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 2-4**
 
-Giornata: Gara 412
+Gara: 412
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -137,14 +123,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 1-5**
 
-Giornata: Gara 413
+Gara: 413
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -155,14 +139,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 2-3**
 
-Giornata: Gara 414
+Gara: 414
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -173,14 +155,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 6-4**
 
-Giornata: Gara 415
+Gara: 415
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -191,14 +171,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 2-3**
 
-Giornata: Gara 416
+Gara: 416
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -209,14 +187,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 5-3**
 
-Giornata: Gara 417
+Gara: 417
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 

@@ -8,14 +8,12 @@
 
 **Risultato: 6-0**
 
-Giornata: Gara 588
+Gara: 588
 
 Campo: BAGLIANO 
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
-Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
-Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 **Risultato: 2-13**
 
-Giornata: Gara 589
+Gara: 589
 
 Campo: STADIO HOCKEY POTENZA PICENA 
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
@@ -47,14 +43,12 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 **Risultato: 1-4**
 
-Giornata: Gara 586
+Gara: 586
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
-Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0432315, longitude=13.437583)
 Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
@@ -65,13 +59,12 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 **Risultato: 7-5**
 
-Giornata: Gara 587
+Gara: 587
 
 Campo: Sintetico Comunale 
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
-Location:  Via Marrani, snc Torre Santa Susanna
 Location:  Via Marrani, snc Torre Santa Susanna
 
 
@@ -84,14 +77,12 @@ Location:  Via Marrani, snc Torre Santa Susanna
 
 **Risultato: 0-6**
 
-Giornata: Gara 590
+Gara: 590
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
-Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0432315, longitude=13.437583)
 Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
@@ -102,14 +93,12 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 **Risultato: 13-4**
 
-Giornata: Gara 591
+Gara: 591
 
 Campo: STADIO HOCKEY POTENZA PICENA 
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
@@ -123,13 +112,12 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 **Risultato: 9-7**
 
-Giornata: Gara 592
+Gara: 592
 
 Campo: Sintetico Comunale 
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
-Location:  Via Marrani, snc Torre Santa Susanna
 Location:  Via Marrani, snc Torre Santa Susanna
 
 
@@ -139,14 +127,12 @@ Location:  Via Marrani, snc Torre Santa Susanna
 
 **Risultato: 0-12**
 
-Giornata: Gara 593
+Gara: 593
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
-Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0432315, longitude=13.437583)
 Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
@@ -158,14 +144,12 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>AZ HOCKEY TEAM - ASD HOCKEY AVEZZANO 1969</strong>
 
-Giornata: Gara 594
+Gara: 594
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
-Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0432315, longitude=13.437583)
 Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
@@ -174,14 +158,12 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>ASD HOCKEY CLUB MOGLIANO - HOCKEY CLUB OLIMPIA</strong>
 
-Giornata: Gara 595
+Gara: 595
 
 Campo: BAGLIANO 
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
-Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
-Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
@@ -193,14 +175,12 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 <strong>ASD HOCKEY AVEZZANO 1969 - ASD HOCKEY CLUB MOGLIANO</strong>
 
-Giornata: Gara 598
+Gara: 598
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
-Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0432315, longitude=13.437583)
 Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
@@ -209,14 +189,12 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>AZ HOCKEY TEAM - H.POTENZA PICENA</strong>
 
-Giornata: Gara 599
+Gara: 599
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
-Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0432315, longitude=13.437583)
 Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
@@ -228,14 +206,12 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>ASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM</strong>
 
-Giornata: Gara 596
+Gara: 596
 
 Campo: BAGLIANO 
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
-Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
-Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
@@ -244,14 +220,12 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 <strong>H.POTENZA PICENA - HOCKEY CLUB OLIMPIA</strong>
 
-Giornata: Gara 597
+Gara: 597
 
 Campo: STADIO HOCKEY POTENZA PICENA 
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
@@ -263,13 +237,12 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>HOCKEY CLUB OLIMPIA - ASD HOCKEY AVEZZANO 1969</strong>
 
-Giornata: Gara 600
+Gara: 600
 
 Campo: Sintetico Comunale 
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
-Location:  Via Marrani, snc Torre Santa Susanna
 Location:  Via Marrani, snc Torre Santa Susanna
 
 
@@ -277,14 +250,12 @@ Location:  Via Marrani, snc Torre Santa Susanna
 
 <strong>ASD HOCKEY CLUB MOGLIANO - H.POTENZA PICENA</strong>
 
-Giornata: Gara 601
+Gara: 601
 
 Campo: BAGLIANO 
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
-Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
-Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
@@ -298,14 +269,12 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 **Risultato: 1-6**
 
-Giornata: Gara 602
+Gara: 602
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
-Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0432315, longitude=13.437583)
 Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
@@ -314,14 +283,12 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>H.POTENZA PICENA - ASD HOCKEY AVEZZANO 1969</strong>
 
-Giornata: Gara 603
+Gara: 603
 
 Campo: STADIO HOCKEY POTENZA PICENA 
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
@@ -333,14 +300,12 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>ASD HOCKEY AVEZZANO 1969 - AZ HOCKEY TEAM</strong>
 
-Giornata: Gara 604
+Gara: 604
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
-Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0432315, longitude=13.437583)
 Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
@@ -349,12 +314,11 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>HOCKEY CLUB OLIMPIA - ASD HOCKEY CLUB MOGLIANO</strong>
 
-Giornata: Gara 605
+Gara: 605
 
 Campo: Sintetico Comunale 
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
-Location:  Via Marrani, snc Torre Santa Susanna
 Location:  Via Marrani, snc Torre Santa Susanna
 

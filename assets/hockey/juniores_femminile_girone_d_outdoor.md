@@ -8,14 +8,12 @@
 
 **Risultato: 2-1**
 
-Giornata: Gara 1081
+Gara: 1081
 
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
@@ -29,14 +27,12 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 **Risultato: 2-4**
 
-Giornata: Gara 1082
+Gara: 1082
 
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
@@ -48,14 +44,12 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>CUS CAGLIARI - SG AMSICORA</strong>
 
-Giornata: Gara 1083
+Gara: 1083
 
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 

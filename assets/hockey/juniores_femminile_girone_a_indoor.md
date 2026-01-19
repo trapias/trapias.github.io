@@ -8,14 +8,12 @@
 
 **Risultato: 3-1**
 
-Giornata: Gara 480
+Gara: 480
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 2-1**
 
-Giornata: Gara 481
+Gara: 481
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 5-3**
 
-Giornata: Gara 482
+Gara: 482
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -62,14 +56,12 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 1-3**
 
-Giornata: Gara 483
+Gara: 483
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -83,14 +75,12 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 0-1**
 
-Giornata: Gara 484
+Gara: 484
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -101,14 +91,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 **Risultato: 3-6**
 
-Giornata: Gara 485
+Gara: 485
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -119,14 +107,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 **Risultato: 2-3**
 
-Giornata: Gara 486
+Gara: 486
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -137,14 +123,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 **Risultato: 2-3**
 
-Giornata: Gara 487
+Gara: 487
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -158,14 +142,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 **Risultato: 3-4**
 
-Giornata: Gara 488
+Gara: 488
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -176,14 +158,12 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 4-3**
 
-Giornata: Gara 489
+Gara: 489
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -194,14 +174,12 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 3-1**
 
-Giornata: Gara 490
+Gara: 490
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -212,14 +190,12 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 3-6**
 
-Giornata: Gara 491
+Gara: 491
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 

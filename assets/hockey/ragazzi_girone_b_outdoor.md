@@ -8,14 +8,12 @@
 
 **Risultato: 3-1**
 
-Giornata: Gara 400
+Gara: 400
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 1-16**
 
-Giornata: Gara 401
+Gara: 401
 
 Campo: Grantorto Hockey Stadium 
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
-Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
-Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
 Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 **Risultato: 14-0**
 
-Giornata: Gara 402
+Gara: 402
 
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
-Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -65,13 +59,12 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 **Risultato: 0-1**
 
-Giornata: Gara 403
+Gara: 403
 
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
@@ -81,14 +74,12 @@ Location:  via J. Corrado, 4 Padova
 
 **Risultato: 1-8**
 
-Giornata: Gara 404
+Gara: 404
 
 Campo: Grantorto Hockey Stadium 
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
-Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
-Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
 Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
@@ -99,14 +90,12 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 **Risultato: 1-11**
 
-Giornata: Gara 405
+Gara: 405
 
 Campo: Campo Ass. R. Fincantieri 
 
 Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
 
-Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
-Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
 Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 
@@ -120,14 +109,12 @@ Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 
 **Risultato: 12-0**
 
-Giornata: Gara 406
+Gara: 406
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -138,14 +125,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 2-2**
 
-Giornata: Gara 407
+Gara: 407
 
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
-Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -156,14 +141,12 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 **Risultato: 1-3**
 
-Giornata: Gara 408
+Gara: 408
 
 Campo: Grantorto Hockey Stadium 
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
-Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
-Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
 Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
@@ -177,14 +160,12 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 **Risultato: 4-5**
 
-Giornata: Gara 409
+Gara: 409
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -195,14 +176,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 9-2**
 
-Giornata: Gara 410
+Gara: 410
 
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
-Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -213,14 +192,12 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 **Risultato: 1-4**
 
-Giornata: Gara 411
+Gara: 411
 
 Campo: Campo Ass. R. Fincantieri 
 
 Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
 
-Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
-Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
 Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 
@@ -234,14 +211,12 @@ Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 
 **Risultato: 5-1**
 
-Giornata: Gara 412
+Gara: 412
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -252,13 +227,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 1-3**
 
-Giornata: Gara 413
+Gara: 413
 
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
@@ -268,14 +242,12 @@ Location:  via J. Corrado, 4 Padova
 
 **Risultato: 3-1**
 
-Giornata: Gara 414
+Gara: 414
 
 Campo: Grantorto Hockey Stadium 
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
-Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
-Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
 Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
@@ -287,13 +259,12 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 <strong>CUS PADOVA ASD - HOCKEY CLUB RIVA</strong>
 
-Giornata: Gara 415
+Gara: 415
 
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
@@ -301,14 +272,12 @@ Location:  via J. Corrado, 4 Padova
 
 <strong>ASD ADIGE UHC - POLISPORTIVA CAMELOT</strong>
 
-Giornata: Gara 416
+Gara: 416
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -317,14 +286,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HOCKEY TRIESTE 2012 - CSP SAN GIORGIO</strong>
 
-Giornata: Gara 417
+Gara: 417
 
 Campo: Campo Ass. R. Fincantieri 
 
 Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
 
-Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
-Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
 Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 
@@ -336,14 +303,12 @@ Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 
 <strong>CSP SAN GIORGIO - CUS PADOVA ASD</strong>
 
-Giornata: Gara 418
+Gara: 418
 
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
-Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -352,14 +317,12 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT</strong>
 
-Giornata: Gara 419
+Gara: 419
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -368,14 +331,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>ASD ADIGE UHC - HOCKEY TRIESTE 2012</strong>
 
-Giornata: Gara 420
+Gara: 420
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -387,14 +348,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HOCKEY TRIESTE 2012 - HOCKEY CLUB RIVA</strong>
 
-Giornata: Gara 421
+Gara: 421
 
 Campo: Campo Ass. R. Fincantieri 
 
 Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
 
-Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
-Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
 Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 
@@ -403,14 +362,12 @@ Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 
 <strong>ASD ADIGE UHC - CSP SAN GIORGIO</strong>
 
-Giornata: Gara 422
+Gara: 422
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -419,13 +376,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>CUS PADOVA ASD - POLISPORTIVA CAMELOT</strong>
 
-Giornata: Gara 423
+Gara: 423
 
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
@@ -436,14 +392,12 @@ Location:  via J. Corrado, 4 Padova
 
 <strong>HOCKEY CLUB RIVA - ASD ADIGE UHC</strong>
 
-Giornata: Gara 424
+Gara: 424
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -452,14 +406,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>POLISPORTIVA CAMELOT - CSP SAN GIORGIO</strong>
 
-Giornata: Gara 425
+Gara: 425
 
 Campo: Grantorto Hockey Stadium 
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
-Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
-Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
 Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
@@ -468,13 +420,12 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 <strong>CUS PADOVA ASD - HOCKEY TRIESTE 2012</strong>
 
-Giornata: Gara 426
+Gara: 426
 
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
@@ -485,14 +436,12 @@ Location:  via J. Corrado, 4 Padova
 
 <strong>CSP SAN GIORGIO - HOCKEY CLUB RIVA</strong>
 
-Giornata: Gara 427
+Gara: 427
 
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
-Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -501,14 +450,12 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>ASD ADIGE UHC - CUS PADOVA ASD</strong>
 
-Giornata: Gara 428
+Gara: 428
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -517,14 +464,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HOCKEY TRIESTE 2012 - POLISPORTIVA CAMELOT</strong>
 
-Giornata: Gara 429
+Gara: 429
 
 Campo: Campo Ass. R. Fincantieri 
 
 Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
 
-Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
-Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
 Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 

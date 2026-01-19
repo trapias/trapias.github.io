@@ -8,14 +8,12 @@
 
 **Risultato: 7-3**
 
-Giornata: Gara 450
+Gara: 450
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -27,15 +25,11 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 **Risultato: 0-0**
 
-Giornata: Gara 451
+Gara: 451
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
-
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
-<!-- VALCHISONE_END -->
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
@@ -49,14 +43,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 **Risultato: 18-0**
 
-Giornata: Gara 452
+Gara: 452
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -67,14 +59,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 **Risultato: 4-3**
 
-Giornata: Gara 453
+Gara: 453
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -86,15 +76,11 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 **Risultato: 6-1**
 
-Giornata: Gara 454
+Gara: 454
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
-
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
-<!-- VALCHISONE_END -->
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
@@ -108,14 +94,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 **Risultato: 13-0**
 
-Giornata: Gara 455
+Gara: 455
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -126,14 +110,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 **Risultato: 1-2**
 
-Giornata: Gara 456
+Gara: 456
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -147,14 +129,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 **Risultato: 4-2**
 
-Giornata: Gara 457
+Gara: 457
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -166,15 +146,11 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 **Risultato: 4-5**
 
-Giornata: Gara 458
+Gara: 458
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
-
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
-<!-- VALCHISONE_END -->
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
@@ -188,14 +164,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 **Risultato: 9-0**
 
-Giornata: Gara 459
+Gara: 459
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -207,15 +181,11 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 **Risultato: 2-4**
 
-Giornata: Gara 460
+Gara: 460
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
-
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
-<!-- VALCHISONE_END -->
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
@@ -229,14 +199,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 **Risultato: 1-7**
 
-Giornata: Gara 461
+Gara: 461
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -247,14 +215,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 **Risultato: 0-6**
 
-Giornata: Gara 462
+Gara: 462
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -268,14 +234,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 **Risultato: 6-0**
 
-Giornata: Gara 463
+Gara: 463
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -287,15 +251,11 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 3-1**
 
-Giornata: Gara 464
+Gara: 464
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
-
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
-<!-- VALCHISONE_END -->
 
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
@@ -310,15 +270,11 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 2-2**
 
-Giornata: Gara 465
+Gara: 465
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
-
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
-<!-- VALCHISONE_END -->
 
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
@@ -332,14 +288,12 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 1-4**
 
-Giornata: Gara 466
+Gara: 466
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -351,13 +305,12 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 <strong>ASD CERNUSCO FIELD HOCKEY - A.S.D. S.H. PAOLO BONOMI</strong>
 
-Giornata: Gara 467
+Gara: 467
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -366,14 +319,11 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>HP VALCHISONE - SCUOLA HOCKEY INDER SINGH NEXT GEN</strong>
 
-Giornata: Gara 468
+Gara: 468
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
-
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 <!-- VALCHISONE_END -->
@@ -384,13 +334,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>SCUOLA HOCKEY INDER SINGH - ASD CERNUSCO FIELD HOCKEY</strong>
 
-Giornata: Gara 469
+Gara: 469
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -398,13 +347,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>SCUOLA HOCKEY INDER SINGH NEXT GEN - A.S.D. S.H. PAOLO BONOMI</strong>
 
-Giornata: Gara 470
+Gara: 470
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -412,13 +360,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>SCUOLA HOCKEY INDER SINGH - HCU RASSEMBLEMENT</strong>
 
-Giornata: Gara 471
+Gara: 471
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -427,14 +374,11 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>HP VALCHISONE - A.S.D. S.H. PAOLO BONOMI</strong>
 
-Giornata: Gara 472
+Gara: 472
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
-
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 <!-- VALCHISONE_END -->
@@ -445,13 +389,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HCU RASSEMBLEMENT</strong>
 
-Giornata: Gara 473
+Gara: 473
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -462,13 +405,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>SCUOLA HOCKEY INDER SINGH NEXT GEN - ASD CERNUSCO FIELD HOCKEY</strong>
 
-Giornata: Gara 474
+Gara: 474
 
 Campo: PALAZZETTO SPORT PINASCA 
 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
-Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 
@@ -476,13 +418,12 @@ Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 <strong>HCU RASSEMBLEMENT - A.S.D. S.H. PAOLO BONOMI</strong>
 
-Giornata: Gara 475
+Gara: 475
 
 Campo: PALAZZETTO SPORT PINASCA 
 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
-Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 
@@ -491,14 +432,11 @@ Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HP VALCHISONE</strong>
 
-Giornata: Gara 476
+Gara: 476
 
 Campo: PALAZZETTO SPORT PINASCA 
 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
-
-Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
-<!-- VALCHISONE_END -->
 
 Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 <!-- VALCHISONE_END -->
@@ -509,13 +447,12 @@ Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 <strong>A.S.D. S.H. PAOLO BONOMI - SCUOLA HOCKEY INDER SINGH</strong>
 
-Giornata: Gara 477
+Gara: 477
 
 Campo: PALAZZETTO SPORT PINASCA 
 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
-Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 
@@ -523,13 +460,12 @@ Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 <strong>SCUOLA HOCKEY INDER SINGH NEXT GEN - HCU RASSEMBLEMENT</strong>
 
-Giornata: Gara 478
+Gara: 478
 
 Campo: PALAZZETTO SPORT PINASCA 
 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
 
-Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 
@@ -538,14 +474,11 @@ Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 
 <strong>SCUOLA HOCKEY INDER SINGH - HP VALCHISONE</strong>
 
-Giornata: Gara 479
+Gara: 479
 
 Campo: PALAZZETTO SPORT PINASCA 
 
 Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
-
-Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
-<!-- VALCHISONE_END -->
 
 Location:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 Pinasca
 <!-- VALCHISONE_END -->

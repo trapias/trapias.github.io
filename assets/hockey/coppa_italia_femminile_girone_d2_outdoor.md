@@ -8,14 +8,12 @@
 
 **Risultato: 3-1**
 
-Giornata: Gara 234
+Gara: 234
 
 Campo: STADIO HOCKEY POTENZA PICENA 
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
@@ -29,14 +27,12 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 **Risultato: 2-0**
 
-Giornata: Gara 235
+Gara: 235
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -50,14 +46,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 **Risultato: 0-5**
 
-Giornata: Gara 236
+Gara: 236
 
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
@@ -71,14 +65,12 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 **Risultato: 2-1**
 
-Giornata: Gara 237
+Gara: 237
 
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
@@ -92,14 +84,12 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 **Risultato: 3-1**
 
-Giornata: Gara 238
+Gara: 238
 
 Campo: STADIO HOCKEY POTENZA PICENA 
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
@@ -113,14 +103,12 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 **Risultato: 1-0**
 
-Giornata: Gara 239
+Gara: 239
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 

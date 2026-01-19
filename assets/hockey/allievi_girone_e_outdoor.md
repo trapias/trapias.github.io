@@ -8,13 +8,12 @@
 
 **Risultato: 2-1**
 
-Giornata: Gara 958
+Gara: 958
 
 Campo: Oratorio Salesiano 
 
 Indirizzo Campo:  Via S.G.Bosco, 6 - Barcellona Pozzo di Gotto
 
-Location:  Via S.G.Bosco, 6 Barcellona Pozzo di Gotto
 Location:  Via S.G.Bosco, 6 Barcellona Pozzo di Gotto
 
 
@@ -24,14 +23,12 @@ Location:  Via S.G.Bosco, 6 Barcellona Pozzo di Gotto
 
 **Risultato: 7-0**
 
-Giornata: Gara 959
+Gara: 959
 
 Campo: Cittadella Universitaria 
 
 Indirizzo Campo:  Viale Annunziata, snc - Messina
 
-Location: Viale Giovanni Palatucci, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
-Geo: Geo(latitude=38.2255449, longitude=15.5532721)
 Location: Viale Giovanni Palatucci, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
 Geo: Geo(latitude=38.2255449, longitude=15.5532721)
 
@@ -45,14 +42,12 @@ Geo: Geo(latitude=38.2255449, longitude=15.5532721)
 
 **Risultato: 10-0**
 
-Giornata: Gara 960
+Gara: 960
 
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
@@ -63,14 +58,12 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 **Risultato: 1-13**
 
-Giornata: Gara 963
+Gara: 963
 
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
@@ -84,14 +77,12 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 **Risultato: 0-14**
 
-Giornata: Gara 955
+Gara: 955
 
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
@@ -102,12 +93,11 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 **Risultato: 1-1**
 
-Giornata: Gara 956
+Gara: 956
 
 Campo: Oratorio Salesiano 
 
 Indirizzo Campo:  Via S.G.Bosco, 6 - Barcellona Pozzo di Gotto
 
-Location:  Via S.G.Bosco, 6 Barcellona Pozzo di Gotto
 Location:  Via S.G.Bosco, 6 Barcellona Pozzo di Gotto
 

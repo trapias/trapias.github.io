@@ -8,14 +8,12 @@
 
 **Risultato: 5-2**
 
-Giornata: Gara 163
+Gara: 163
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
 
 Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
 
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 **Risultato: 3-5**
 
-Giornata: Gara 164
+Gara: 164
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
 
 Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
 
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 **Risultato: 2-8**
 
-Giornata: Gara 165
+Gara: 165
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
 
 Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
 
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
@@ -65,14 +59,12 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 **Risultato: 2-3**
 
-Giornata: Gara 168
+Gara: 168
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
 
 Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
 
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
@@ -83,14 +75,12 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 **Risultato: 9-6**
 
-Giornata: Gara 169
+Gara: 169
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
 
 Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
 
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
@@ -101,14 +91,12 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 **Risultato: 6-4**
 
-Giornata: Gara 170
+Gara: 170
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
 
 Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
 
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 

@@ -8,14 +8,12 @@
 
 **Risultato: 8-0**
 
-Giornata: Gara 566
+Gara: 566
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
-Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0432315, longitude=13.437583)
 Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
@@ -29,14 +27,12 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 **Risultato: 2-0**
 
-Giornata: Gara 567
+Gara: 567
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
-Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0432315, longitude=13.437583)
 Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
@@ -50,14 +46,12 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 **Risultato: 2-5**
 
-Giornata: Gara 568
+Gara: 568
 
 Campo: STADIO HOCKEY POTENZA PICENA 
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
@@ -69,14 +63,12 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>H.POTENZA PICENA - AZ HOCKEY TEAM</strong>
 
-Giornata: Gara 569
+Gara: 569
 
 Campo: STADIO HOCKEY POTENZA PICENA 
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
@@ -88,14 +80,12 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>ASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM</strong>
 
-Giornata: Gara 570
+Gara: 570
 
 Campo: BAGLIANO 
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
-Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
-Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
@@ -107,14 +97,12 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 <strong>ASD HOCKEY CLUB MOGLIANO - H.POTENZA PICENA</strong>
 
-Giornata: Gara 571
+Gara: 571
 
 Campo: BAGLIANO 
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
-Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
-Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 

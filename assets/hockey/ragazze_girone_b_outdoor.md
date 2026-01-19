@@ -8,14 +8,12 @@
 
 **Risultato: 8-1**
 
-Giornata: Gara 430
+Gara: 430
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 1-5**
 
-Giornata: Gara 431
+Gara: 431
 
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
@@ -47,14 +43,12 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 **Risultato: 4-3**
 
-Giornata: Gara 432
+Gara: 432
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -65,14 +59,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 1-6**
 
-Giornata: Gara 433
+Gara: 433
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -86,13 +78,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 2-1**
 
-Giornata: Gara 434
+Gara: 434
 
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
@@ -102,14 +93,12 @@ Location:  via J. Corrado, 4 Padova
 
 **Risultato: 1-5**
 
-Giornata: Gara 435
+Gara: 435
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -121,14 +110,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC</strong>
 
-Giornata: Gara 436
+Gara: 436
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -137,13 +124,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>CUS PADOVA ASD - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
 
-Giornata: Gara 437
+Gara: 437
 
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
@@ -154,14 +140,12 @@ Location:  via J. Corrado, 4 Padova
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - ASD ADIGE UHC</strong>
 
-Giornata: Gara 438
+Gara: 438
 
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
@@ -170,13 +154,12 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO</strong>
 
-Giornata: Gara 439
+Gara: 439
 
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
@@ -187,14 +170,12 @@ Location:  via J. Corrado, 4 Padova
 
 <strong>ASD ADIGE UHC - CUS PADOVA ASD</strong>
 
-Giornata: Gara 440
+Gara: 440
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -203,14 +184,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - ASD HOCKEY CLUB BONDENO</strong>
 
-Giornata: Gara 441
+Gara: 441
 
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 

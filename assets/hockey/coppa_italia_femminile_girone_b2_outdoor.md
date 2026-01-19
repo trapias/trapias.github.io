@@ -8,14 +8,12 @@
 
 **Risultato: 15-0**
 
-Giornata: Gara 73
+Gara: 73
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
@@ -29,14 +27,12 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 **Risultato: 0-5**
 
-Giornata: Gara 74
+Gara: 74
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -50,14 +46,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 0-2**
 
-Giornata: Gara 75
+Gara: 75
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
@@ -71,14 +65,12 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 **Risultato: 0-7**
 
-Giornata: Gara 76
+Gara: 76
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -92,14 +84,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 4-0**
 
-Giornata: Gara 77
+Gara: 77
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
@@ -113,14 +103,12 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 **Risultato: 9-1**
 
-Giornata: Gara 78
+Gara: 78
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 

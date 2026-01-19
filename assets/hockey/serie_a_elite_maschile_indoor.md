@@ -9,14 +9,11 @@
 
 **Risultato: 3-3**
 
-Giornata: Gara 97
+Gara: 97
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
-
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 <!-- VALCHISONE_END -->
@@ -29,13 +26,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 3-2**
 
-Giornata: Gara 98
+Gara: 98
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -45,13 +41,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 2-2**
 
-Giornata: Gara 99
+Gara: 99
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -61,13 +56,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 2-5**
 
-Giornata: Gara 100
+Gara: 100
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -78,14 +72,11 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 7-4**
 
-Giornata: Gara 101
+Gara: 101
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
-
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 <!-- VALCHISONE_END -->
@@ -98,13 +89,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 3-2**
 
-Giornata: Gara 102
+Gara: 102
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -117,14 +107,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 8-0**
 
-Giornata: Gara 103
+Gara: 103
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -136,15 +124,11 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 4-8**
 
-Giornata: Gara 104
+Gara: 104
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
-
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-<!-- VALCHISONE_END -->
 
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
@@ -158,14 +142,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 5-5**
 
-Giornata: Gara 105
+Gara: 105
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -176,14 +158,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 5-3**
 
-Giornata: Gara 106
+Gara: 106
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -195,15 +175,11 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 2-2**
 
-Giornata: Gara 107
+Gara: 107
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
-
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
-<!-- VALCHISONE_END -->
 
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
@@ -217,14 +193,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 5-7**
 
-Giornata: Gara 108
+Gara: 108
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -239,15 +213,11 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 2-7**
 
-Giornata: Gara 109
+Gara: 109
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
-
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
-<!-- VALCHISONE_END -->
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
@@ -261,14 +231,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 4-3**
 
-Giornata: Gara 110
+Gara: 110
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -279,14 +247,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 3-3**
 
-Giornata: Gara 111
+Gara: 111
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -298,15 +264,11 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 5-6**
 
-Giornata: Gara 112
+Gara: 112
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
-
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
-<!-- VALCHISONE_END -->
 
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
@@ -320,14 +282,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 7-2**
 
-Giornata: Gara 113
+Gara: 113
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -338,14 +298,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 2-3**
 
-Giornata: Gara 114
+Gara: 114
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -359,14 +317,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 4-9**
 
-Giornata: Gara 115
+Gara: 115
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -377,14 +333,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 4-3**
 
-Giornata: Gara 116
+Gara: 116
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -396,15 +350,11 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 3-2**
 
-Giornata: Gara 117
+Gara: 117
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
-
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-<!-- VALCHISONE_END -->
 
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
@@ -418,14 +368,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 3-3**
 
-Giornata: Gara 118
+Gara: 118
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -436,14 +384,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 3-7**
 
-Giornata: Gara 119
+Gara: 119
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -455,15 +401,11 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 4-4**
 
-Giornata: Gara 120
+Gara: 120
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
-
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-<!-- VALCHISONE_END -->
 
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
@@ -478,14 +420,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>CUS PISA ASD - HC BRA</strong>
 
-Giornata: Gara 91
+Gara: 91
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -495,15 +435,11 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>HP VALCHISONE - CUS PADOVA ASD</strong>
 
-Giornata: Gara 92
+Gara: 92
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
-
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
-<!-- VALCHISONE_END -->
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
@@ -515,14 +451,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>BUTTERFLY ROMA HCC - ASD HOCKEY CLUB BONDENO</strong>
 
-Giornata: Gara 93
+Gara: 93
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -531,14 +465,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>CUS PADOVA ASD - CUS PISA ASD</strong>
 
-Giornata: Gara 94
+Gara: 94
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -547,14 +479,12 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>HC BRA - BUTTERFLY ROMA HCC</strong>
 
-Giornata: Gara 95
+Gara: 95
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
@@ -564,15 +494,11 @@ Geo: Geo(latitude=44.6991506, longitude=7.84197)
 
 <strong>ASD HOCKEY CLUB BONDENO - HP VALCHISONE</strong>
 
-Giornata: Gara 96
+Gara: 96
 
 Campo: PALAZZETTO DELL SPORT 
 
 Indirizzo Campo:  Viale Risorgimento, 31 - BRA
-
-Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.6991506, longitude=7.84197)
-<!-- VALCHISONE_END -->
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6991506, longitude=7.84197)

@@ -8,14 +8,12 @@
 
 **Risultato: 2-7**
 
-Giornata: Gara 548
+Gara: 548
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 5-9**
 
-Giornata: Gara 549
+Gara: 549
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 10-1**
 
-Giornata: Gara 550
+Gara: 550
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -62,14 +56,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 8-1**
 
-Giornata: Gara 551
+Gara: 551
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -80,14 +72,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 14-3**
 
-Giornata: Gara 552
+Gara: 552
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -98,14 +88,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 2-10**
 
-Giornata: Gara 553
+Gara: 553
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -116,14 +104,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 5-5**
 
-Giornata: Gara 554
+Gara: 554
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -134,14 +120,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 1-10**
 
-Giornata: Gara 555
+Gara: 555
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -155,14 +139,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 0-8**
 
-Giornata: Gara 556
+Gara: 556
 
 Campo: PISTA DI PATTINAGGIO E PALESTRA FORNACI  
 
 Indirizzo Campo:  VIA DEL FORNACIONE, 78 - PISTOIA
 
-Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, Italia
-Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, Italia
 Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
@@ -173,14 +155,12 @@ Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
 **Risultato: 11-3**
 
-Giornata: Gara 557
+Gara: 557
 
 Campo: PISTA DI PATTINAGGIO E PALESTRA FORNACI  
 
 Indirizzo Campo:  VIA DEL FORNACIONE, 78 - PISTOIA
 
-Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, Italia
-Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, Italia
 Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
@@ -191,14 +171,12 @@ Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
 **Risultato: 4-4**
 
-Giornata: Gara 558
+Gara: 558
 
 Campo: PISTA DI PATTINAGGIO E PALESTRA FORNACI  
 
 Indirizzo Campo:  VIA DEL FORNACIONE, 78 - PISTOIA
 
-Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, Italia
-Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, Italia
 Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
@@ -209,14 +187,12 @@ Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
 **Risultato: 2-9**
 
-Giornata: Gara 559
+Gara: 559
 
 Campo: PISTA DI PATTINAGGIO E PALESTRA FORNACI  
 
 Indirizzo Campo:  VIA DEL FORNACIONE, 78 - PISTOIA
 
-Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, Italia
-Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, Italia
 Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
@@ -227,14 +203,12 @@ Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
 **Risultato: 1-8**
 
-Giornata: Gara 560
+Gara: 560
 
 Campo: PISTA DI PATTINAGGIO E PALESTRA FORNACI  
 
 Indirizzo Campo:  VIA DEL FORNACIONE, 78 - PISTOIA
 
-Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, Italia
-Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, Italia
 Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
@@ -245,14 +219,12 @@ Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
 **Risultato: 5-4**
 
-Giornata: Gara 561
+Gara: 561
 
 Campo: PISTA DI PATTINAGGIO E PALESTRA FORNACI  
 
 Indirizzo Campo:  VIA DEL FORNACIONE, 78 - PISTOIA
 
-Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, Italia
-Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, Italia
 Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
@@ -266,14 +238,12 @@ Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
 **Risultato: 5-3**
 
-Giornata: Gara 562
+Gara: 562
 
 Campo: PALACUS Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -284,14 +254,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 12-1**
 
-Giornata: Gara 563
+Gara: 563
 
 Campo: PALACUS Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -302,14 +270,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 5-6**
 
-Giornata: Gara 564
+Gara: 564
 
 Campo: PALACUS Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -320,14 +286,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 5-2**
 
-Giornata: Gara 565
+Gara: 565
 
 Campo: PALACUS Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -338,14 +302,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 4-4**
 
-Giornata: Gara 566
+Gara: 566
 
 Campo: PALACUS Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -356,14 +318,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 3-8**
 
-Giornata: Gara 567
+Gara: 567
 
 Campo: PALACUS Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -374,14 +334,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 2-4**
 
-Giornata: Gara 568
+Gara: 568
 
 Campo: PALACUS Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 

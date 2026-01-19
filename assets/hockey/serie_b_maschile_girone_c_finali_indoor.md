@@ -6,13 +6,12 @@
 
 <strong> - 4 CLASSIFICATA</strong>
 
-Giornata: Gara 222
+Gara: 222
 
 Campo: -
 
 Indirizzo Campo:  - 
 
-Location:  
 Location:  
 
 
@@ -22,14 +21,12 @@ Location:
 
 **Risultato: 2-10**
 
-Giornata: Gara 223
+Gara: 223
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 

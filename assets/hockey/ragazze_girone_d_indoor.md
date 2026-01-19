@@ -8,14 +8,12 @@
 
 **Risultato: 0-6**
 
-Giornata: Gara 203
+Gara: 203
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
 
 Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
 
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 **Risultato: 2-1**
 
-Giornata: Gara 204
+Gara: 204
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
 
 Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
 
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 **Risultato: 14-0**
 
-Giornata: Gara 205
+Gara: 205
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
 
 Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
 
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
@@ -62,14 +56,12 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 **Risultato: 0-4**
 
-Giornata: Gara 206
+Gara: 206
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
 
 Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
 
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
@@ -80,14 +72,12 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 **Risultato: 1-3**
 
-Giornata: Gara 207
+Gara: 207
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
 
 Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
 
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
@@ -99,14 +89,12 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 <strong>BUTTERFLY ROMA HCC - LAZIO HOCKEY</strong>
 
-Giornata: Gara 208
+Gara: 208
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
 
 Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
 
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
@@ -115,14 +103,12 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 <strong>HOCKEY POTENZA PICENA - ASD AQUILA</strong>
 
-Giornata: Gara 209
+Gara: 209
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
 
 Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
 
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
@@ -131,14 +117,12 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 <strong>LAZIO HOCKEY - AZ HOCKEY TEAM</strong>
 
-Giornata: Gara 210
+Gara: 210
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
 
 Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
 
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
@@ -147,14 +131,12 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 <strong>ASD AQUILA - BUTTERFLY ROMA HCC</strong>
 
-Giornata: Gara 211
+Gara: 211
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
 
 Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
 
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
@@ -163,14 +145,12 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 <strong>AZ HOCKEY TEAM - HOCKEY POTENZA PICENA</strong>
 
-Giornata: Gara 212
+Gara: 212
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
 
 Indirizzo Campo:  VIA DON LUIGI STURZO, 3 - Avezzano
 
-Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 Location: Via Don Luigi Sturzo, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 

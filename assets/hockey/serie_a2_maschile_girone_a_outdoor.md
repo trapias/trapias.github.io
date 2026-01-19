@@ -6,14 +6,12 @@
 
 <strong>GENOVA H 1980 - HC MOGLIANO</strong>
 
-Giornata: Gara 784
+Gara: 784
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -22,14 +20,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC ROMA - HC SAVONA</strong>
 
-Giornata: Gara 785
+Gara: 785
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -38,14 +34,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>HCU RASSEMBLEMENT - MONCALVESE H</strong>
 
-Giornata: Gara 786
+Gara: 786
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
@@ -57,14 +51,12 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>HC MOGLIANO - HC ROMA</strong>
 
-Giornata: Gara 787
+Gara: 787
 
 Campo: BAGLIANO 
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
-Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
-Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
@@ -73,13 +65,12 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 <strong>MONCALVESE H - GENOVA H 1980</strong>
 
-Giornata: Gara 788
+Gara: 788
 
 Campo: UMBERTO MICCO 
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location:  Via Goria, 4 Moncalvo
 Location:  Via Goria, 4 Moncalvo
 
 
@@ -87,14 +78,12 @@ Location:  Via Goria, 4 Moncalvo
 
 <strong>HC SAVONA - HCU RASSEMBLEMENT</strong>
 
-Giornata: Gara 789
+Gara: 789
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -106,14 +95,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HCU RASSEMBLEMENT - HC MOGLIANO</strong>
 
-Giornata: Gara 790
+Gara: 790
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
@@ -122,14 +109,12 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>HC ROMA - GENOVA H 1980</strong>
 
-Giornata: Gara 791
+Gara: 791
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -138,13 +123,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>MONCALVESE H - HC SAVONA</strong>
 
-Giornata: Gara 792
+Gara: 792
 
 Campo: UMBERTO MICCO 
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location:  Via Goria, 4 Moncalvo
 Location:  Via Goria, 4 Moncalvo
 
 
@@ -155,14 +139,12 @@ Location:  Via Goria, 4 Moncalvo
 
 <strong>HC MOGLIANO - MONCALVESE H</strong>
 
-Giornata: Gara 793
+Gara: 793
 
 Campo: BAGLIANO 
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
-Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
-Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
@@ -171,14 +153,12 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 <strong>HCU RASSEMBLEMENT - HC ROMA</strong>
 
-Giornata: Gara 794
+Gara: 794
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
@@ -187,14 +167,12 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>GENOVA H 1980 - HC SAVONA</strong>
 
-Giornata: Gara 795
+Gara: 795
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -206,14 +184,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC SAVONA - HC MOGLIANO</strong>
 
-Giornata: Gara 796
+Gara: 796
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -222,14 +198,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC ROMA - MONCALVESE H</strong>
 
-Giornata: Gara 797
+Gara: 797
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -238,14 +212,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>GENOVA H 1980 - HCU RASSEMBLEMENT</strong>
 
-Giornata: Gara 798
+Gara: 798
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -257,14 +229,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC MOGLIANO - GENOVA H 1980</strong>
 
-Giornata: Gara 799
+Gara: 799
 
 Campo: BAGLIANO 
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
-Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
-Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
@@ -273,14 +243,12 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 <strong>HC SAVONA - HC ROMA</strong>
 
-Giornata: Gara 800
+Gara: 800
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -289,13 +257,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>MONCALVESE H - HCU RASSEMBLEMENT</strong>
 
-Giornata: Gara 801
+Gara: 801
 
 Campo: UMBERTO MICCO 
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location:  Via Goria, 4 Moncalvo
 Location:  Via Goria, 4 Moncalvo
 
 
@@ -306,14 +273,12 @@ Location:  Via Goria, 4 Moncalvo
 
 <strong>HC ROMA - HC MOGLIANO</strong>
 
-Giornata: Gara 802
+Gara: 802
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -322,14 +287,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>GENOVA H 1980 - MONCALVESE H</strong>
 
-Giornata: Gara 803
+Gara: 803
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -338,14 +301,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HCU RASSEMBLEMENT - HC SAVONA</strong>
 
-Giornata: Gara 804
+Gara: 804
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
@@ -357,14 +318,12 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>HC MOGLIANO - HCU RASSEMBLEMENT</strong>
 
-Giornata: Gara 805
+Gara: 805
 
 Campo: BAGLIANO 
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
-Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
-Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
@@ -373,14 +332,12 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 <strong>GENOVA H 1980 - HC ROMA</strong>
 
-Giornata: Gara 806
+Gara: 806
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -389,14 +346,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC SAVONA - MONCALVESE H</strong>
 
-Giornata: Gara 807
+Gara: 807
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -408,13 +363,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>MONCALVESE H - HC MOGLIANO</strong>
 
-Giornata: Gara 808
+Gara: 808
 
 Campo: UMBERTO MICCO 
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location:  Via Goria, 4 Moncalvo
 Location:  Via Goria, 4 Moncalvo
 
 
@@ -422,14 +376,12 @@ Location:  Via Goria, 4 Moncalvo
 
 <strong>HC ROMA - HCU RASSEMBLEMENT</strong>
 
-Giornata: Gara 809
+Gara: 809
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -438,14 +390,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>HC SAVONA - GENOVA H 1980</strong>
 
-Giornata: Gara 810
+Gara: 810
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -457,14 +407,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC MOGLIANO - HC SAVONA</strong>
 
-Giornata: Gara 811
+Gara: 811
 
 Campo: BAGLIANO 
 
 Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
-Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
-Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
@@ -473,13 +421,12 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 <strong>MONCALVESE H - HC ROMA</strong>
 
-Giornata: Gara 812
+Gara: 812
 
 Campo: UMBERTO MICCO 
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location:  Via Goria, 4 Moncalvo
 Location:  Via Goria, 4 Moncalvo
 
 
@@ -487,14 +434,12 @@ Location:  Via Goria, 4 Moncalvo
 
 <strong>HCU RASSEMBLEMENT - GENOVA H 1980</strong>
 
-Giornata: Gara 813
+Gara: 813
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 

@@ -8,14 +8,12 @@
 
 **Risultato: 1-7**
 
-Giornata: Gara 173
+Gara: 173
 
 Campo: PALAPRINCIPI 
 
 Indirizzo Campo:  Viale Piemonte - PORTO POTENZA PICENA
 
-Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
-Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
 Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
 **Risultato: 6-0**
 
-Giornata: Gara 177
+Gara: 177
 
 Campo: PALAPRINCIPI 
 
 Indirizzo Campo:  Viale Piemonte - PORTO POTENZA PICENA
 
-Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
-Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
 Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 

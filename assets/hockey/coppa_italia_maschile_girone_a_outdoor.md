@@ -9,14 +9,11 @@
 
 **Risultato: 0-2**
 
-Giornata: Gara 140
+Gara: 140
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
-
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 <!-- VALCHISONE_END -->
@@ -29,14 +26,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 6-4**
 
-Giornata: Gara 141
+Gara: 141
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -50,14 +45,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 2-5**
 
-Giornata: Gara 142
+Gara: 142
 
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -69,15 +62,11 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 2-3**
 
-Giornata: Gara 143
+Gara: 143
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
-
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-<!-- VALCHISONE_END -->
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
@@ -94,14 +83,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 1-1**
 
-Giornata: Gara 144
+Gara: 144
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -113,15 +100,11 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 2-2**
 
-Giornata: Gara 145
+Gara: 145
 
 Campo: PINO PALMIERI 
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
-
-Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7046812, longitude=7.8430689)
-<!-- VALCHISONE_END -->
 
 Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7046812, longitude=7.8430689)
@@ -138,13 +121,12 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 **Risultato: 1-3**
 
-Giornata: Gara 146
+Gara: 146
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -155,15 +137,11 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 1-3**
 
-Giornata: Gara 147
+Gara: 147
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
-
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-<!-- VALCHISONE_END -->
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
@@ -180,14 +158,12 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 **Risultato: 1-0**
 
-Giornata: Gara 148
+Gara: 148
 
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -198,14 +174,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 5-3**
 
-Giornata: Gara 149
+Gara: 149
 
 Campo: PINO PALMIERI 
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
@@ -219,13 +193,12 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 **Risultato: 5-2**
 
-Giornata: Gara 150
+Gara: 150
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -236,15 +209,11 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 0-0**
 
-Giornata: Gara 151
+Gara: 151
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
-
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-<!-- VALCHISONE_END -->
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
@@ -262,15 +231,11 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 **Risultato: 2-1**
 
-Giornata: Gara 152
+Gara: 152
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
-
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-<!-- VALCHISONE_END -->
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
@@ -284,14 +249,12 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 **Risultato: 8-2**
 
-Giornata: Gara 153
+Gara: 153
 
 Campo: PINO PALMIERI 
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
@@ -306,15 +269,11 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 **Risultato: 3-1**
 
-Giornata: Gara 154
+Gara: 154
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
-
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-<!-- VALCHISONE_END -->
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
@@ -328,14 +287,12 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 **Risultato: 4-4**
 
-Giornata: Gara 155
+Gara: 155
 
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -349,14 +306,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 3-1**
 
-Giornata: Gara 156
+Gara: 156
 
 Campo: PINO PALMIERI 
 
 Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
@@ -368,15 +323,11 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 **Risultato: 1-2**
 
-Giornata: Gara 157
+Gara: 157
 
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
-
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
-<!-- VALCHISONE_END -->
 
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
@@ -393,13 +344,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 3-2**
 
-Giornata: Gara 158
+Gara: 158
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -409,14 +359,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 1-8**
 
-Giornata: Gara 159
+Gara: 159
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 

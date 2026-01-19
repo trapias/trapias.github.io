@@ -8,14 +8,12 @@
 
 **Risultato: 3-2**
 
-Giornata: Gara 120
+Gara: 120
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 **Risultato: 2-0**
 
-Giornata: Gara 121
+Gara: 121
 
 Campo: Comunale Uras 
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
-Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
@@ -47,14 +43,12 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 **Risultato: 4-3**
 
-Giornata: Gara 122
+Gara: 122
 
 Campo: Comunale Uras 
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
-Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
@@ -65,14 +59,12 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 **Risultato: 8-2**
 
-Giornata: Gara 123
+Gara: 123
 
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
@@ -86,14 +78,12 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 **Risultato: 3-2**
 
-Giornata: Gara 124
+Gara: 124
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -104,14 +94,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 **Risultato: 1-10**
 
-Giornata: Gara 125
+Gara: 125
 
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
@@ -125,14 +113,12 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 **Risultato: 4-1**
 
-Giornata: Gara 126
+Gara: 126
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -143,14 +129,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 **Risultato: 8-1**
 
-Giornata: Gara 127
+Gara: 127
 
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
@@ -164,14 +148,12 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 **Risultato: 3-1**
 
-Giornata: Gara 128
+Gara: 128
 
 Campo: Comunale Uras 
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
-Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
@@ -182,14 +164,12 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 **Risultato: 3-1**
 
-Giornata: Gara 129
+Gara: 129
 
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
@@ -203,14 +183,12 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 **Risultato: 1-0**
 
-Giornata: Gara 130
+Gara: 130
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -221,14 +199,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 **Risultato: 1-5**
 
-Giornata: Gara 131
+Gara: 131
 
 Campo: Comunale Uras 
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
-Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
@@ -242,14 +218,12 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 **Risultato: 1-2**
 
-Giornata: Gara 132
+Gara: 132
 
 Campo: Comunale Uras 
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
-Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
@@ -260,14 +234,12 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 **Risultato: 0-11**
 
-Giornata: Gara 133
+Gara: 133
 
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
@@ -281,14 +253,12 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 **Risultato: 1-2**
 
-Giornata: Gara 134
+Gara: 134
 
 Campo: Comunale Uras 
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
-Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
@@ -299,14 +269,12 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 **Risultato: 12-0**
 
-Giornata: Gara 135
+Gara: 135
 
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
@@ -320,14 +288,12 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 **Risultato: 3-4**
 
-Giornata: Gara 136
+Gara: 136
 
 Campo: Comunale Uras 
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
-Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
@@ -338,14 +304,12 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 **Risultato: 3-5**
 
-Giornata: Gara 137
+Gara: 137
 
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
@@ -359,14 +323,12 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 **Risultato: 2-1**
 
-Giornata: Gara 138
+Gara: 138
 
 Campo: Comunale Uras 
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
-Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
@@ -377,14 +339,12 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 **Risultato: 4-5**
 
-Giornata: Gara 139
+Gara: 139
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 

@@ -8,14 +8,12 @@
 
 **Risultato: 1-2**
 
-Giornata: Gara 466
+Gara: 466
 
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 **Risultato: 2-0**
 
-Giornata: Gara 467
+Gara: 467
 
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 **Risultato: 21-0**
 
-Giornata: Gara 468
+Gara: 468
 
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
@@ -62,14 +56,12 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 **Risultato: 2-0**
 
-Giornata: Gara 469
+Gara: 469
 
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
@@ -83,14 +75,12 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 **Risultato: 0-10**
 
-Giornata: Gara 470
+Gara: 470
 
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
@@ -101,14 +91,12 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 **Risultato: 19-0**
 
-Giornata: Gara 471
+Gara: 471
 
 Campo: Balestri e Gambini 
 
 Indirizzo Campo:  Via Avvenire Paterlini, 2 - Reggio nell'Emilia
 
-Location: 2a, Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082583, longitude=10.6364889)
 Location: 2a, Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082583, longitude=10.6364889)
 
@@ -119,14 +107,12 @@ Geo: Geo(latitude=44.7082583, longitude=10.6364889)
 
 **Risultato: 2-1**
 
-Giornata: Gara 472
+Gara: 472
 
 Campo: Balestri e Gambini 
 
 Indirizzo Campo:  Via Avvenire Paterlini, 2 - Reggio nell'Emilia
 
-Location: 2a, Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082583, longitude=10.6364889)
 Location: 2a, Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082583, longitude=10.6364889)
 
@@ -137,14 +123,12 @@ Geo: Geo(latitude=44.7082583, longitude=10.6364889)
 
 **Risultato: 2-2**
 
-Giornata: Gara 473
+Gara: 473
 
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
@@ -158,14 +142,12 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 **Risultato: 0-7**
 
-Giornata: Gara 474
+Gara: 474
 
 Campo: HOCKEY STADIUM ANDREA BRUSCHI 
 
 Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
-Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
 Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
@@ -176,14 +158,12 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 **Risultato: 0-2**
 
-Giornata: Gara 475
+Gara: 475
 
 Campo: HOCKEY STADIUM ANDREA BRUSCHI 
 
 Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
-Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
 Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
@@ -194,14 +174,12 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 **Risultato: 2-0**
 
-Giornata: Gara 476
+Gara: 476
 
 Campo: HOCKEY STADIUM ANDREA BRUSCHI 
 
 Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
-Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
 Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
@@ -212,14 +190,12 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 **Risultato: 1-19**
 
-Giornata: Gara 477
+Gara: 477
 
 Campo: HOCKEY STADIUM ANDREA BRUSCHI 
 
 Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
-Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
 Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 

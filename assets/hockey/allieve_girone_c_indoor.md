@@ -8,14 +8,12 @@
 
 **Risultato: 8-0**
 
-Giornata: Gara 268
+Gara: 268
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 1-5**
 
-Giornata: Gara 269
+Gara: 269
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 4-1**
 
-Giornata: Gara 270
+Gara: 270
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -62,14 +56,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 5-2**
 
-Giornata: Gara 271
+Gara: 271
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -83,14 +75,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 3-1**
 
-Giornata: Gara 272
+Gara: 272
 
 Campo: PalaRomanzi 
 
 Indirizzo Campo:  viale Gambaro, 66 - Genova
 
-Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
-Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
 Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
@@ -101,14 +91,12 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 **Risultato: 11-0**
 
-Giornata: Gara 273
+Gara: 273
 
 Campo: PalaRomanzi 
 
 Indirizzo Campo:  viale Gambaro, 66 - Genova
 
-Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
-Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
 Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
@@ -119,14 +107,12 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 **Risultato: 0-11**
 
-Giornata: Gara 274
+Gara: 274
 
 Campo: PalaRomanzi 
 
 Indirizzo Campo:  viale Gambaro, 66 - Genova
 
-Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
-Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
 Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
@@ -137,14 +123,12 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 **Risultato: 7-0**
 
-Giornata: Gara 275
+Gara: 275
 
 Campo: PalaRomanzi 
 
 Indirizzo Campo:  viale Gambaro, 66 - Genova
 
-Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
-Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
 Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
@@ -156,14 +140,12 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 <strong>HC RAINBOW SAMPIERDARENA - CUS PISA ASD</strong>
 
-Giornata: Gara 276
+Gara: 276
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -172,14 +154,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>HF GENOVA 1980 - HC SAVONA</strong>
 
-Giornata: Gara 277
+Gara: 277
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -188,14 +168,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>HC RAINBOW SAMPIERDARENA - HF GENOVA 1980</strong>
 
-Giornata: Gara 278
+Gara: 278
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -204,14 +182,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>CUS PISA ASD - HC SAVONA</strong>
 
-Giornata: Gara 279
+Gara: 279
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 

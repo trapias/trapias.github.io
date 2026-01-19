@@ -8,14 +8,12 @@
 
 **Risultato: 0-2**
 
-Giornata: Gara 80
+Gara: 80
 
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 **Risultato: 2-2**
 
-Giornata: Gara 81
+Gara: 81
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 5-1**
 
-Giornata: Gara 160
+Gara: 160
 
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
@@ -65,14 +59,12 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 **Risultato: 0-1**
 
-Giornata: Gara 82
+Gara: 82
 
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
@@ -83,14 +75,12 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 **Risultato: 1-5**
 
-Giornata: Gara 83
+Gara: 83
 
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
-Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -101,14 +91,12 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 **Risultato: 6-5**
 
-Giornata: Gara 161
+Gara: 161
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -122,14 +110,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 5-3**
 
-Giornata: Gara 84
+Gara: 84
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -140,14 +126,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 3-1**
 
-Giornata: Gara 85
+Gara: 85
 
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
@@ -158,14 +142,12 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 **Risultato: 4-0**
 
-Giornata: Gara 162
+Gara: 162
 
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
@@ -179,14 +161,12 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 **Risultato: 2-4**
 
-Giornata: Gara 86
+Gara: 86
 
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
-Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -197,14 +177,12 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 **Risultato: 2-1**
 
-Giornata: Gara 87
+Gara: 87
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -215,13 +193,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 4-0**
 
-Giornata: Gara 163
+Gara: 163
 
 Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO 
 
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
-Location:  VIA J. CORRADO, 24 Padova
 Location:  VIA J. CORRADO, 24 Padova
 
 
@@ -234,14 +211,12 @@ Location:  VIA J. CORRADO, 24 Padova
 
 **Risultato: 4-1**
 
-Giornata: Gara 88
+Gara: 88
 
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
@@ -252,14 +227,12 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 **Risultato: 2-2**
 
-Giornata: Gara 89
+Gara: 89
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -270,14 +243,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 3-3**
 
-Giornata: Gara 164
+Gara: 164
 
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
-Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -291,14 +262,12 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 **Risultato: 1-0**
 
-Giornata: Gara 90
+Gara: 90
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -309,13 +278,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 0-2**
 
-Giornata: Gara 91
+Gara: 91
 
 Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO 
 
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
-Location:  VIA J. CORRADO, 24 Padova
 Location:  VIA J. CORRADO, 24 Padova
 
 
@@ -325,14 +293,12 @@ Location:  VIA J. CORRADO, 24 Padova
 
 **Risultato: 3-4**
 
-Giornata: Gara 165
+Gara: 165
 
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
-Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -346,14 +312,12 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 **Risultato: 3-3**
 
-Giornata: Gara 94
+Gara: 94
 
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
-Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -364,14 +328,12 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 **Risultato: 2-2**
 
-Giornata: Gara 95
+Gara: 95
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -382,13 +344,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 0-1**
 
-Giornata: Gara 166
+Gara: 166
 
 Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO 
 
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
-Location:  VIA J. CORRADO, 24 Padova
 Location:  VIA J. CORRADO, 24 Padova
 
 
@@ -401,14 +362,12 @@ Location:  VIA J. CORRADO, 24 Padova
 
 **Risultato: 7-0**
 
-Giornata: Gara 92
+Gara: 92
 
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
@@ -419,14 +378,12 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 **Risultato: 4-4**
 
-Giornata: Gara 93
+Gara: 93
 
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
@@ -437,14 +394,12 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 **Risultato: 3-3**
 
-Giornata: Gara 167
+Gara: 167
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -458,14 +413,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 1-1**
 
-Giornata: Gara 96
+Gara: 96
 
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
@@ -476,14 +429,12 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 **Risultato: 4-0**
 
-Giornata: Gara 97
+Gara: 97
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -494,13 +445,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 3-2**
 
-Giornata: Gara 168
+Gara: 168
 
 Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO 
 
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
-Location:  VIA J. CORRADO, 24 Padova
 Location:  VIA J. CORRADO, 24 Padova
 
 
@@ -513,14 +463,12 @@ Location:  VIA J. CORRADO, 24 Padova
 
 **Risultato: 2-5**
 
-Giornata: Gara 98
+Gara: 98
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -531,14 +479,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 3-3**
 
-Giornata: Gara 99
+Gara: 99
 
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
@@ -549,12 +495,11 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 **Risultato: 4-0**
 
-Giornata: Gara 169
+Gara: 169
 
 Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO 
 
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
-Location:  VIA J. CORRADO, 24 Padova
 Location:  VIA J. CORRADO, 24 Padova
 

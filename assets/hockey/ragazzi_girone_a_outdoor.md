@@ -7,15 +7,11 @@
 
 <strong>HCU RASSEMBLEMENT TORINO RIS - HP VALCHISONE</strong>
 
-Giornata: Gara 682
+Gara: 682
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
-
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-<!-- VALCHISONE_END -->
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
@@ -30,13 +26,12 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - HCU RASSEMBLEMENT TORINO</strong>
 
-Giornata: Gara 683
+Gara: 683
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -49,14 +44,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 5-1**
 
-Giornata: Gara 684
+Gara: 684
 
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
@@ -69,15 +62,11 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>SCUOLA HOCKEY INDER SINGH - HP VALCHISONE</strong>
 
-Giornata: Gara 685
+Gara: 685
 
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
-
-Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7031944, longitude=7.8366967)
-<!-- VALCHISONE_END -->
 
 Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
@@ -92,13 +81,12 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - ASD CERNUSCO FIELD HOCKEY</strong>
 
-Giornata: Gara 686
+Gara: 686
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -111,14 +99,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 3-3**
 
-Giornata: Gara 687
+Gara: 687
 
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
@@ -132,13 +118,12 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 **Risultato: 1-2**
 
-Giornata: Gara 688
+Gara: 688
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -147,15 +132,11 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HP VALCHISONE</strong>
 
-Giornata: Gara 689
+Gara: 689
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
-
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
-<!-- VALCHISONE_END -->
 
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
@@ -172,14 +153,12 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 **Risultato: 2-11**
 
-Giornata: Gara 690
+Gara: 690
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
@@ -192,15 +171,11 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>HCU RASSEMBLEMENT TORINO RIS - HP VALCHISONE</strong>
 
-Giornata: Gara 691
+Gara: 691
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
-
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-<!-- VALCHISONE_END -->
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
@@ -217,14 +192,12 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 **Risultato: 7-0**
 
-Giornata: Gara 692
+Gara: 692
 
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
@@ -238,14 +211,12 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 **Risultato: 3-3**
 
-Giornata: Gara 693
+Gara: 693
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
@@ -254,13 +225,12 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - SCUOLA HOCKEY INDER SINGH</strong>
 
-Giornata: Gara 694
+Gara: 694
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -272,14 +242,11 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>A.S.D. S.H. PAOLO BONOMI - HP VALCHISONE</strong>
 
-Giornata: Gara 695
+Gara: 695
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
-
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 <!-- VALCHISONE_END -->
@@ -295,14 +262,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 5-0**
 
-Giornata: Gara 696
+Gara: 696
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 

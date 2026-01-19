@@ -6,13 +6,12 @@
 
 <strong>CUS PADOVA - H.POTENZA PICENA</strong>
 
-Giornata: Gara 856
+Gara: 856
 
 Campo: Campo Hockey Mario Steffenel 
 
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
-Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 
@@ -20,14 +19,12 @@ Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 <strong>HC RIVA - HC ARGENTIA</strong>
 
-Giornata: Gara 857
+Gara: 857
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -39,14 +36,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HC ARGENTIA - H.POTENZA PICENA</strong>
 
-Giornata: Gara 858
+Gara: 858
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
@@ -55,14 +50,12 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>HC RIVA - CUS PADOVA</strong>
 
-Giornata: Gara 859
+Gara: 859
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -74,13 +67,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>CUS PADOVA - HC ARGENTIA</strong>
 
-Giornata: Gara 860
+Gara: 860
 
 Campo: Campo Hockey Mario Steffenel 
 
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
-Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 
@@ -88,14 +80,12 @@ Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 <strong>H.POTENZA PICENA - HC RIVA</strong>
 
-Giornata: Gara 861
+Gara: 861
 
 Campo: STADIO HOCKEY POTENZA PICENA 
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
@@ -107,14 +97,12 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>H.POTENZA PICENA - CUS PADOVA</strong>
 
-Giornata: Gara 862
+Gara: 862
 
 Campo: STADIO HOCKEY POTENZA PICENA 
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
@@ -123,14 +111,12 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>HC ARGENTIA - HC RIVA</strong>
 
-Giornata: Gara 863
+Gara: 863
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
@@ -142,14 +128,12 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>H.POTENZA PICENA - HC ARGENTIA</strong>
 
-Giornata: Gara 864
+Gara: 864
 
 Campo: STADIO HOCKEY POTENZA PICENA 
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
@@ -158,13 +142,12 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>CUS PADOVA - HC RIVA</strong>
 
-Giornata: Gara 865
+Gara: 865
 
 Campo: Campo Hockey Mario Steffenel 
 
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
-Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 
@@ -175,14 +158,12 @@ Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 <strong>HC RIVA - H.POTENZA PICENA</strong>
 
-Giornata: Gara 866
+Gara: 866
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -191,14 +172,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HC ARGENTIA - CUS PADOVA</strong>
 
-Giornata: Gara 867
+Gara: 867
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 

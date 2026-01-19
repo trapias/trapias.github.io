@@ -8,14 +8,12 @@
 
 **Risultato: 0-5**
 
-Giornata: Gara 241
+Gara: 241
 
 Campo: PISTA DI PATTINAGGIO E PALESTRA FORNACI  
 
 Indirizzo Campo:  VIA DEL FORNACIONE, 78 - PISTOIA
 
-Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, Italia
-Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, Italia
 Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
 **Risultato: 2-2**
 
-Giornata: Gara 242
+Gara: 242
 
 Campo: PISTA DI PATTINAGGIO E PALESTRA FORNACI  
 
 Indirizzo Campo:  VIA DEL FORNACIONE, 78 - PISTOIA
 
-Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, Italia
-Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, Italia
 Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
 **Risultato: 20-0**
 
-Giornata: Gara 243
+Gara: 243
 
 Campo: PISTA DI PATTINAGGIO E PALESTRA FORNACI  
 
 Indirizzo Campo:  VIA DEL FORNACIONE, 78 - PISTOIA
 
-Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, Italia
-Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, Italia
 Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
@@ -62,14 +56,12 @@ Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
 **Risultato: 11-1**
 
-Giornata: Gara 244
+Gara: 244
 
 Campo: PISTA DI PATTINAGGIO E PALESTRA FORNACI  
 
 Indirizzo Campo:  VIA DEL FORNACIONE, 78 - PISTOIA
 
-Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, Italia
-Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, Italia
 Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
@@ -83,14 +75,12 @@ Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
 **Risultato: 13-0**
 
-Giornata: Gara 245
+Gara: 245
 
 Campo: palestra macoratti 
 
 Indirizzo Campo:  PIAZZALE ATLETI AZZURRI D'ITALIA - GRADISCA D'ISONZO
 
-Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
-Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
 Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
@@ -101,14 +91,12 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
 **Risultato: 3-0**
 
-Giornata: Gara 302
+Gara: 302
 
 Campo: palestra macoratti 
 
 Indirizzo Campo:  PIAZZALE ATLETI AZZURRI D'ITALIA - GRADISCA D'ISONZO
 
-Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
-Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
 Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
@@ -119,14 +107,12 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
 **Risultato: 5-0**
 
-Giornata: Gara 303
+Gara: 303
 
 Campo: palestra macoratti 
 
 Indirizzo Campo:  PIAZZALE ATLETI AZZURRI D'ITALIA - GRADISCA D'ISONZO
 
-Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
-Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
 Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
@@ -137,14 +123,12 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
 **Risultato: 2-13**
 
-Giornata: Gara 304
+Gara: 304
 
 Campo: palestra macoratti 
 
 Indirizzo Campo:  PIAZZALE ATLETI AZZURRI D'ITALIA - GRADISCA D'ISONZO
 
-Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
-Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
 Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
@@ -158,14 +142,12 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
 **Risultato: 13-0**
 
-Giornata: Gara 305
+Gara: 305
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -176,14 +158,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 4-1**
 
-Giornata: Gara 306
+Gara: 306
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -194,14 +174,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 19-0**
 
-Giornata: Gara 307
+Gara: 307
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -212,14 +190,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 9-2**
 
-Giornata: Gara 308
+Gara: 308
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 

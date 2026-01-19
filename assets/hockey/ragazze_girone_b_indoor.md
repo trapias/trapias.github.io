@@ -8,13 +8,12 @@
 
 **Risultato: 0-4**
 
-Giornata: Gara 327
+Gara: 327
 
 Campo: PALESTRA OLOF PALME 
 
 Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
 
-Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 
@@ -24,13 +23,12 @@ Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 **Risultato: 2-3**
 
-Giornata: Gara 328
+Gara: 328
 
 Campo: PALESTRA OLOF PALME 
 
 Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
 
-Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 
@@ -40,13 +38,12 @@ Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 **Risultato: 0-4**
 
-Giornata: Gara 329
+Gara: 329
 
 Campo: PALESTRA OLOF PALME 
 
 Indirizzo Campo:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 - Cadoneghe
 
-Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 
@@ -59,14 +56,12 @@ Location:  Cadoneghe (PD) - VIA IV NOVEMBRE, 22 Cadoneghe
 
 **Risultato: 2-6**
 
-Giornata: Gara 330
+Gara: 330
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -77,14 +72,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 0-8**
 
-Giornata: Gara 331
+Gara: 331
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -95,14 +88,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 3-8**
 
-Giornata: Gara 332
+Gara: 332
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 

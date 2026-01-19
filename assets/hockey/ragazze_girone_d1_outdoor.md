@@ -8,14 +8,12 @@
 
 **Risultato: 2-1**
 
-Giornata: Gara 621
+Gara: 621
 
 Campo: STADIO HOCKEY POTENZA PICENA 
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
@@ -29,14 +27,12 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 **Risultato: 3-0**
 
-Giornata: Gara 622
+Gara: 622
 
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
@@ -50,14 +46,12 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 **Risultato: 1-4**
 
-Giornata: Gara 623
+Gara: 623
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
-Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0432315, longitude=13.437583)
 Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
@@ -69,14 +63,12 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>AZ HOCKEY TEAM - H.POTENZA PICENA</strong>
 
-Giornata: Gara 624
+Gara: 624
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
 
 Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
-Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0432315, longitude=13.437583)
 Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
@@ -88,14 +80,12 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>H.POTENZA PICENA - UH CAPITOLINA</strong>
 
-Giornata: Gara 625
+Gara: 625
 
 Campo: STADIO HOCKEY POTENZA PICENA 
 
 Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
@@ -107,14 +97,12 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>UH CAPITOLINA - AZ HOCKEY TEAM</strong>
 
-Giornata: Gara 626
+Gara: 626
 
 Campo: EUROMA STADIUM 
 
 Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 

@@ -8,13 +8,12 @@
 
 **Risultato: 4-0**
 
-Giornata: Gara 478
+Gara: 478
 
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
@@ -24,13 +23,12 @@ Location:  via J. Corrado, 4 Padova
 
 **Risultato: 2-3**
 
-Giornata: Gara 479
+Gara: 479
 
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
@@ -40,14 +38,12 @@ Location:  via J. Corrado, 4 Padova
 
 **Risultato: 1-9**
 
-Giornata: Gara 480
+Gara: 480
 
 Campo: Campo Hockey Club Riva 
 
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
-Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
-Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
 Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
@@ -58,14 +54,12 @@ Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 **Risultato: 1-12**
 
-Giornata: Gara 481
+Gara: 481
 
 Campo: Campo Hockey Club Riva 
 
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
-Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
-Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
 Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
@@ -79,14 +73,12 @@ Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 **Risultato: 2-7**
 
-Giornata: Gara 482
+Gara: 482
 
 Campo: Campo Hockey Club Riva 
 
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
-Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
-Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
 Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
@@ -97,14 +89,12 @@ Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 **Risultato: 0-7**
 
-Giornata: Gara 483
+Gara: 483
 
 Campo: Campo Hockey Club Riva 
 
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
-Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
-Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
 Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
@@ -115,14 +105,12 @@ Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 **Risultato: 5-5**
 
-Giornata: Gara 484
+Gara: 484
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -133,14 +121,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 4-4**
 
-Giornata: Gara 485
+Gara: 485
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -154,14 +140,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 2-2**
 
-Giornata: Gara 486
+Gara: 486
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -172,14 +156,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 0-4**
 
-Giornata: Gara 487
+Gara: 487
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -190,13 +172,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 15-0**
 
-Giornata: Gara 488
+Gara: 488
 
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
@@ -206,13 +187,12 @@ Location:  via J. Corrado, 4 Padova
 
 **Risultato: 13-1**
 
-Giornata: Gara 489
+Gara: 489
 
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
@@ -223,14 +203,12 @@ Location:  via J. Corrado, 4 Padova
 
 <strong>ASD ADIGE UHC - CUS PADOVA ASD</strong>
 
-Giornata: Gara 490
+Gara: 490
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -239,14 +217,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>ASD ADIGE UHC - CUS PADOVA ASD</strong>
 
-Giornata: Gara 491
+Gara: 491
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -255,14 +231,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>ASD HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA</strong>
 
-Giornata: Gara 492
+Gara: 492
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -271,14 +245,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>ASD HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA</strong>
 
-Giornata: Gara 493
+Gara: 493
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -290,13 +262,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO</strong>
 
-Giornata: Gara 494
+Gara: 494
 
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
@@ -304,13 +275,12 @@ Location:  via J. Corrado, 4 Padova
 
 <strong>CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO</strong>
 
-Giornata: Gara 495
+Gara: 495
 
 Campo: Impianti L. Merigliano 
 
 Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location:  via J. Corrado, 4 Padova
 Location:  via J. Corrado, 4 Padova
 
 
@@ -318,14 +288,12 @@ Location:  via J. Corrado, 4 Padova
 
 <strong>ASD ADIGE UHC - HOCKEY CLUB RIVA</strong>
 
-Giornata: Gara 496
+Gara: 496
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -334,14 +302,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>ASD ADIGE UHC - HOCKEY CLUB RIVA</strong>
 
-Giornata: Gara 497
+Gara: 497
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -353,14 +319,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HOCKEY CLUB RIVA - CUS PADOVA ASD</strong>
 
-Giornata: Gara 498
+Gara: 498
 
 Campo: Campo Hockey Club Riva 
 
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
-Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
-Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
 Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
@@ -369,14 +333,12 @@ Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 <strong>HOCKEY CLUB RIVA - CUS PADOVA ASD</strong>
 
-Giornata: Gara 499
+Gara: 499
 
 Campo: Campo Hockey Club Riva 
 
 Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
-Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
-Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
 Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
@@ -385,14 +347,12 @@ Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 <strong>ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC</strong>
 
-Giornata: Gara 500
+Gara: 500
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -401,14 +361,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC</strong>
 
-Giornata: Gara 501
+Gara: 501
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 

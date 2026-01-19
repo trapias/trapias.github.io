@@ -8,14 +8,12 @@
 
 **Risultato: 1-3**
 
-Giornata: Gara 185
+Gara: 185
 
 Campo: PALAPRINCIPI 
 
 Indirizzo Campo:  Viale Piemonte - PORTO POTENZA PICENA
 
-Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
-Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
 Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
 **Risultato: 5-4**
 
-Giornata: Gara 186
+Gara: 186
 
 Campo: PALAPRINCIPI 
 
 Indirizzo Campo:  Viale Piemonte - PORTO POTENZA PICENA
 
-Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
-Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
 Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
 **Risultato: 6-2**
 
-Giornata: Gara 187
+Gara: 187
 
 Campo: PALAPRINCIPI 
 
 Indirizzo Campo:  Viale Piemonte - PORTO POTENZA PICENA
 
-Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
-Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
 Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
@@ -62,14 +56,12 @@ Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
 **Risultato: 1-4**
 
-Giornata: Gara 188
+Gara: 188
 
 Campo: PALAPRINCIPI 
 
 Indirizzo Campo:  Viale Piemonte - PORTO POTENZA PICENA
 
-Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
-Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
 Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
@@ -83,14 +75,12 @@ Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
 **Risultato: 2-1**
 
-Giornata: Gara 189
+Gara: 189
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -101,14 +91,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 6-2**
 
-Giornata: Gara 190
+Gara: 190
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -119,14 +107,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 2-8**
 
-Giornata: Gara 191
+Gara: 191
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -137,14 +123,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 10-0**
 
-Giornata: Gara 192
+Gara: 192
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -158,14 +142,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 1-1**
 
-Giornata: Gara 193
+Gara: 193
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -176,14 +158,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 0-2**
 
-Giornata: Gara 194
+Gara: 194
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -194,14 +174,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 2-2**
 
-Giornata: Gara 195
+Gara: 195
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -212,14 +190,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 5-2**
 
-Giornata: Gara 196
+Gara: 196
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 

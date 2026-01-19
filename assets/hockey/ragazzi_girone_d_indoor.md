@@ -8,14 +8,12 @@
 
 **Risultato: 2-2**
 
-Giornata: Gara 153
+Gara: 153
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 7-0**
 
-Giornata: Gara 154
+Gara: 154
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 1-8**
 
-Giornata: Gara 155
+Gara: 155
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -62,14 +56,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 4-5**
 
-Giornata: Gara 156
+Gara: 156
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -80,14 +72,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 1-3**
 
-Giornata: Gara 157
+Gara: 157
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -101,14 +91,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 6-2**
 
-Giornata: Gara 158
+Gara: 158
 
 Campo: PALAPRINCIPI 
 
 Indirizzo Campo:  Viale Piemonte - PORTO POTENZA PICENA
 
-Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
-Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
 Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
@@ -119,14 +107,12 @@ Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
 **Risultato: 1-5**
 
-Giornata: Gara 159
+Gara: 159
 
 Campo: PALAPRINCIPI 
 
 Indirizzo Campo:  Viale Piemonte - PORTO POTENZA PICENA
 
-Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
-Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
 Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
@@ -137,14 +123,12 @@ Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
 **Risultato: 10-0**
 
-Giornata: Gara 160
+Gara: 160
 
 Campo: PALAPRINCIPI 
 
 Indirizzo Campo:  Viale Piemonte - PORTO POTENZA PICENA
 
-Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
-Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
 Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
@@ -155,14 +139,12 @@ Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
 **Risultato: 2-2**
 
-Giornata: Gara 161
+Gara: 161
 
 Campo: PALAPRINCIPI 
 
 Indirizzo Campo:  Viale Piemonte - PORTO POTENZA PICENA
 
-Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
-Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
 Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
@@ -173,14 +155,12 @@ Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 
 **Risultato: 1-2**
 
-Giornata: Gara 162
+Gara: 162
 
 Campo: PALAPRINCIPI 
 
 Indirizzo Campo:  Viale Piemonte - PORTO POTENZA PICENA
 
-Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
-Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 Location: Viale Piemonte, Porto Potenza Picena, Potenza Picena, Macerata, Marche, 62018, Italia
 Geo: Geo(latitude=43.3544767, longitude=13.6977743)
 

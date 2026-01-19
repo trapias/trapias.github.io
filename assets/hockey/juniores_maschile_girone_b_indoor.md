@@ -8,14 +8,12 @@
 
 **Risultato: 0-10**
 
-Giornata: Gara 345
+Gara: 345
 
 Campo: Polivalente Verrocchio 
 
 Indirizzo Campo:  Via Verrocchio, 328 - Brescia
 
-Location: Biblioteca San Polo - Parco dei Libri, 328, Via Andrea del Verrocchio, San Polo Cimabue, Zona Est, Brescia, Lombardia, 25124, Italia
-Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 Location: Biblioteca San Polo - Parco dei Libri, 328, Via Andrea del Verrocchio, San Polo Cimabue, Zona Est, Brescia, Lombardia, 25124, Italia
 Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 
 **Risultato: 6-5**
 
-Giornata: Gara 346
+Gara: 346
 
 Campo: Polivalente Verrocchio 
 
 Indirizzo Campo:  Via Verrocchio, 328 - Brescia
 
-Location: Biblioteca San Polo - Parco dei Libri, 328, Via Andrea del Verrocchio, San Polo Cimabue, Zona Est, Brescia, Lombardia, 25124, Italia
-Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 Location: Biblioteca San Polo - Parco dei Libri, 328, Via Andrea del Verrocchio, San Polo Cimabue, Zona Est, Brescia, Lombardia, 25124, Italia
 Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 
 **Risultato: 1-10**
 
-Giornata: Gara 347
+Gara: 347
 
 Campo: Polivalente Verrocchio 
 
 Indirizzo Campo:  Via Verrocchio, 328 - Brescia
 
-Location: Biblioteca San Polo - Parco dei Libri, 328, Via Andrea del Verrocchio, San Polo Cimabue, Zona Est, Brescia, Lombardia, 25124, Italia
-Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 Location: Biblioteca San Polo - Parco dei Libri, 328, Via Andrea del Verrocchio, San Polo Cimabue, Zona Est, Brescia, Lombardia, 25124, Italia
 Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 
@@ -62,14 +56,12 @@ Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 
 **Risultato: 5-5**
 
-Giornata: Gara 348
+Gara: 348
 
 Campo: Polivalente Verrocchio 
 
 Indirizzo Campo:  Via Verrocchio, 328 - Brescia
 
-Location: Biblioteca San Polo - Parco dei Libri, 328, Via Andrea del Verrocchio, San Polo Cimabue, Zona Est, Brescia, Lombardia, 25124, Italia
-Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 Location: Biblioteca San Polo - Parco dei Libri, 328, Via Andrea del Verrocchio, San Polo Cimabue, Zona Est, Brescia, Lombardia, 25124, Italia
 Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 
@@ -80,14 +72,12 @@ Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 
 **Risultato: 2-3**
 
-Giornata: Gara 349
+Gara: 349
 
 Campo: Polivalente Verrocchio 
 
 Indirizzo Campo:  Via Verrocchio, 328 - Brescia
 
-Location: Biblioteca San Polo - Parco dei Libri, 328, Via Andrea del Verrocchio, San Polo Cimabue, Zona Est, Brescia, Lombardia, 25124, Italia
-Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 Location: Biblioteca San Polo - Parco dei Libri, 328, Via Andrea del Verrocchio, San Polo Cimabue, Zona Est, Brescia, Lombardia, 25124, Italia
 Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 
@@ -98,14 +88,12 @@ Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 
 **Risultato: 3-4**
 
-Giornata: Gara 350
+Gara: 350
 
 Campo: Polivalente Verrocchio 
 
 Indirizzo Campo:  Via Verrocchio, 328 - Brescia
 
-Location: Biblioteca San Polo - Parco dei Libri, 328, Via Andrea del Verrocchio, San Polo Cimabue, Zona Est, Brescia, Lombardia, 25124, Italia
-Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 Location: Biblioteca San Polo - Parco dei Libri, 328, Via Andrea del Verrocchio, San Polo Cimabue, Zona Est, Brescia, Lombardia, 25124, Italia
 Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 
@@ -116,14 +104,12 @@ Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 
 **Risultato: 4-3**
 
-Giornata: Gara 351
+Gara: 351
 
 Campo: Polivalente Verrocchio 
 
 Indirizzo Campo:  Via Verrocchio, 328 - Brescia
 
-Location: Biblioteca San Polo - Parco dei Libri, 328, Via Andrea del Verrocchio, San Polo Cimabue, Zona Est, Brescia, Lombardia, 25124, Italia
-Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 Location: Biblioteca San Polo - Parco dei Libri, 328, Via Andrea del Verrocchio, San Polo Cimabue, Zona Est, Brescia, Lombardia, 25124, Italia
 Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 
@@ -137,14 +123,12 @@ Geo: Geo(latitude=45.5196042, longitude=10.2582119)
 
 **Risultato: 7-1**
 
-Giornata: Gara 352
+Gara: 352
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -155,14 +139,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 1-13**
 
-Giornata: Gara 354
+Gara: 354
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -173,14 +155,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 2-1**
 
-Giornata: Gara 355
+Gara: 355
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -191,14 +171,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 10-1**
 
-Giornata: Gara 356
+Gara: 356
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -209,14 +187,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 9-0**
 
-Giornata: Gara 357
+Gara: 357
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -227,14 +203,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 1-13**
 
-Giornata: Gara 358
+Gara: 358
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -245,14 +219,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 5-9**
 
-Giornata: Gara 359
+Gara: 359
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -266,14 +238,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 1-9**
 
-Giornata: Gara 360
+Gara: 360
 
 Campo: palestra macoratti 
 
 Indirizzo Campo:  PIAZZALE ATLETI AZZURRI D'ITALIA - GRADISCA D'ISONZO
 
-Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
-Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
 Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
@@ -284,14 +254,12 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
 **Risultato: 4-7**
 
-Giornata: Gara 361
+Gara: 361
 
 Campo: palestra macoratti 
 
 Indirizzo Campo:  PIAZZALE ATLETI AZZURRI D'ITALIA - GRADISCA D'ISONZO
 
-Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
-Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
 Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
@@ -302,14 +270,12 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
 **Risultato: 11-2**
 
-Giornata: Gara 362
+Gara: 362
 
 Campo: palestra macoratti 
 
 Indirizzo Campo:  PIAZZALE ATLETI AZZURRI D'ITALIA - GRADISCA D'ISONZO
 
-Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
-Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
 Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
@@ -320,14 +286,12 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
 **Risultato: 3-9**
 
-Giornata: Gara 363
+Gara: 363
 
 Campo: palestra macoratti 
 
 Indirizzo Campo:  PIAZZALE ATLETI AZZURRI D'ITALIA - GRADISCA D'ISONZO
 
-Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
-Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
 Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
@@ -338,14 +302,12 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
 **Risultato: 1-4**
 
-Giornata: Gara 364
+Gara: 364
 
 Campo: palestra macoratti 
 
 Indirizzo Campo:  PIAZZALE ATLETI AZZURRI D'ITALIA - GRADISCA D'ISONZO
 
-Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
-Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
 Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
@@ -356,14 +318,12 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
 **Risultato: 0-13**
 
-Giornata: Gara 365
+Gara: 365
 
 Campo: palestra macoratti 
 
 Indirizzo Campo:  PIAZZALE ATLETI AZZURRI D'ITALIA - GRADISCA D'ISONZO
 
-Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
-Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
 Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
@@ -374,14 +334,12 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
 **Risultato: 3-10**
 
-Giornata: Gara 366
+Gara: 366
 
 Campo: palestra macoratti 
 
 Indirizzo Campo:  PIAZZALE ATLETI AZZURRI D'ITALIA - GRADISCA D'ISONZO
 
-Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
-Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
 Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
@@ -392,14 +350,12 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
 **Risultato: 4-6**
 
-Giornata: Gara 569
+Gara: 569
 
 Campo: palestra macoratti 
 
 Indirizzo Campo:  PIAZZALE ATLETI AZZURRI D'ITALIA - GRADISCA D'ISONZO
 
-Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
-Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 Location: Piazzale Atleti Azzurri d'Italia, Gradisca d'Isonzo / Gardiscje, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34072, Italia
 Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
@@ -413,14 +369,12 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
 **Risultato: 5-2**
 
-Giornata: Gara 367
+Gara: 367
 
 Campo: PALESTRA CUS PADOVA 
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -431,14 +385,12 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 **Risultato: 1-6**
 
-Giornata: Gara 368
+Gara: 368
 
 Campo: PALESTRA CUS PADOVA 
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -449,14 +401,12 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 **Risultato: 11-0**
 
-Giornata: Gara 369
+Gara: 369
 
 Campo: PALESTRA CUS PADOVA 
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -467,14 +417,12 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 **Risultato: 10-3**
 
-Giornata: Gara 370
+Gara: 370
 
 Campo: PALESTRA CUS PADOVA 
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -485,14 +433,12 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 **Risultato: 2-3**
 
-Giornata: Gara 371
+Gara: 371
 
 Campo: PALESTRA CUS PADOVA 
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -503,14 +449,12 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 **Risultato: 15-4**
 
-Giornata: Gara 372
+Gara: 372
 
 Campo: PALESTRA CUS PADOVA 
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -521,14 +465,12 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 **Risultato: 9-4**
 
-Giornata: Gara 373
+Gara: 373
 
 Campo: PALESTRA CUS PADOVA 
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -539,14 +481,12 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 **Risultato: 6-6**
 
-Giornata: Gara 374
+Gara: 374
 
 Campo: PALESTRA CUS PADOVA 
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 

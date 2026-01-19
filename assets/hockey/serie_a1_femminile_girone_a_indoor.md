@@ -9,15 +9,11 @@
 
 **Risultato: 0-0**
 
-Giornata: Gara 438
+Gara: 438
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
-
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
-<!-- VALCHISONE_END -->
 
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
@@ -31,14 +27,12 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 1-1**
 
-Giornata: Gara 439
+Gara: 439
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -50,15 +44,11 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 1-6**
 
-Giornata: Gara 440
+Gara: 440
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
-
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
-<!-- VALCHISONE_END -->
 
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
@@ -72,14 +62,12 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 2-5**
 
-Giornata: Gara 441
+Gara: 441
 
 Campo: PALESTRA TORRAZZA 
 
 Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
-Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
@@ -93,13 +81,12 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 **Risultato: 7-7**
 
-Giornata: Gara 442
+Gara: 442
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -110,14 +97,11 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 6-0**
 
-Giornata: Gara 443
+Gara: 443
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
-
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 <!-- VALCHISONE_END -->
@@ -131,14 +115,11 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 4-1**
 
-Giornata: Gara 444
+Gara: 444
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
-
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
-<!-- VALCHISONE_END -->
 
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 <!-- VALCHISONE_END -->
@@ -151,13 +132,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 4-2**
 
-Giornata: Gara 445
+Gara: 445
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -170,14 +150,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 1-5**
 
-Giornata: Gara 446
+Gara: 446
 
 Campo: C.S. SEVENINFINITY 
 
 Indirizzo Campo:  VIA TOSCANA, 7 - GORGONZOLA
 
-Location: 7, Via Toscana, Carcassola, Cascina Mirabello, Gorgonzola, Milano, Lombardia, 20064, Italia
-Geo: Geo(latitude=45.5316303, longitude=9.4158354)
 Location: 7, Via Toscana, Carcassola, Cascina Mirabello, Gorgonzola, Milano, Lombardia, 20064, Italia
 Geo: Geo(latitude=45.5316303, longitude=9.4158354)
 
@@ -189,15 +167,11 @@ Geo: Geo(latitude=45.5316303, longitude=9.4158354)
 
 **Risultato: 3-8**
 
-Giornata: Gara 447
+Gara: 447
 
 Campo: C.S. SEVENINFINITY 
 
 Indirizzo Campo:  VIA TOSCANA, 7 - GORGONZOLA
-
-Location: 7, Via Toscana, Carcassola, Cascina Mirabello, Gorgonzola, Milano, Lombardia, 20064, Italia
-Geo: Geo(latitude=45.5316303, longitude=9.4158354)
-<!-- VALCHISONE_END -->
 
 Location: 7, Via Toscana, Carcassola, Cascina Mirabello, Gorgonzola, Milano, Lombardia, 20064, Italia
 Geo: Geo(latitude=45.5316303, longitude=9.4158354)
@@ -211,14 +185,12 @@ Geo: Geo(latitude=45.5316303, longitude=9.4158354)
 
 **Risultato: 3-1**
 
-Giornata: Gara 448
+Gara: 448
 
 Campo: C.S. SEVENINFINITY 
 
 Indirizzo Campo:  VIA TOSCANA, 7 - GORGONZOLA
 
-Location: 7, Via Toscana, Carcassola, Cascina Mirabello, Gorgonzola, Milano, Lombardia, 20064, Italia
-Geo: Geo(latitude=45.5316303, longitude=9.4158354)
 Location: 7, Via Toscana, Carcassola, Cascina Mirabello, Gorgonzola, Milano, Lombardia, 20064, Italia
 Geo: Geo(latitude=45.5316303, longitude=9.4158354)
 
@@ -230,15 +202,11 @@ Geo: Geo(latitude=45.5316303, longitude=9.4158354)
 
 **Risultato: 3-3**
 
-Giornata: Gara 449
+Gara: 449
 
 Campo: C.S. SEVENINFINITY 
 
 Indirizzo Campo:  VIA TOSCANA, 7 - GORGONZOLA
-
-Location: 7, Via Toscana, Carcassola, Cascina Mirabello, Gorgonzola, Milano, Lombardia, 20064, Italia
-Geo: Geo(latitude=45.5316303, longitude=9.4158354)
-<!-- VALCHISONE_END -->
 
 Location: 7, Via Toscana, Carcassola, Cascina Mirabello, Gorgonzola, Milano, Lombardia, 20064, Italia
 Geo: Geo(latitude=45.5316303, longitude=9.4158354)

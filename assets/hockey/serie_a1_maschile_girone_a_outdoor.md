@@ -6,14 +6,12 @@
 
 <strong>HC BONDENO - CUS CAGLIARI</strong>
 
-Giornata: Gara 754
+Gara: 754
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -22,13 +20,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>CUS PADOVA ASD - CSP SAN GIORGIO</strong>
 
-Giornata: Gara 755
+Gara: 755
 
 Campo: Campo Hockey Mario Steffenel 
 
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
-Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 
@@ -36,14 +33,12 @@ Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 <strong>HT SARDEGNA - ASD ADIGE UHC</strong>
 
-Giornata: Gara 756
+Gara: 756
 
 Campo: Comunale Uras 
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
-Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
@@ -55,14 +50,12 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 <strong>CUS CAGLIARI - CUS PADOVA ASD</strong>
 
-Giornata: Gara 757
+Gara: 757
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -71,14 +64,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>ASD ADIGE UHC - HC BONDENO</strong>
 
-Giornata: Gara 758
+Gara: 758
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -87,14 +78,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>CSP SAN GIORGIO - HT SARDEGNA</strong>
 
-Giornata: Gara 759
+Gara: 759
 
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
-Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -106,14 +95,12 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>HT SARDEGNA - CUS CAGLIARI</strong>
 
-Giornata: Gara 760
+Gara: 760
 
 Campo: Comunale Uras 
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
-Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
@@ -122,13 +109,12 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 <strong>CUS PADOVA ASD - HC BONDENO</strong>
 
-Giornata: Gara 761
+Gara: 761
 
 Campo: Campo Hockey Mario Steffenel 
 
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
-Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 
@@ -136,14 +122,12 @@ Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 <strong>ASD ADIGE UHC - CSP SAN GIORGIO</strong>
 
-Giornata: Gara 762
+Gara: 762
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -155,14 +139,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>CUS CAGLIARI - ASD ADIGE UHC</strong>
 
-Giornata: Gara 763
+Gara: 763
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -171,14 +153,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>HT SARDEGNA - CUS PADOVA ASD</strong>
 
-Giornata: Gara 764
+Gara: 764
 
 Campo: Comunale Uras 
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
-Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
@@ -187,14 +167,12 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 <strong>HC BONDENO - CSP SAN GIORGIO</strong>
 
-Giornata: Gara 765
+Gara: 765
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -206,14 +184,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>CUS CAGLIARI - CSP SAN GIORGIO</strong>
 
-Giornata: Gara 766
+Gara: 766
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -222,14 +198,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>ASD ADIGE UHC - CUS PADOVA ASD</strong>
 
-Giornata: Gara 767
+Gara: 767
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -238,14 +212,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HC BONDENO - HT SARDEGNA</strong>
 
-Giornata: Gara 768
+Gara: 768
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -257,14 +229,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>CUS CAGLIARI - HC BONDENO</strong>
 
-Giornata: Gara 769
+Gara: 769
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -273,14 +243,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>CSP SAN GIORGIO - CUS PADOVA ASD</strong>
 
-Giornata: Gara 770
+Gara: 770
 
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
-Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -289,14 +257,12 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>ASD ADIGE UHC - HT SARDEGNA</strong>
 
-Giornata: Gara 771
+Gara: 771
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -308,13 +274,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>CUS PADOVA ASD - CUS CAGLIARI</strong>
 
-Giornata: Gara 772
+Gara: 772
 
 Campo: Campo Hockey Mario Steffenel 
 
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
-Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 
@@ -322,14 +287,12 @@ Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 <strong>HC BONDENO - ASD ADIGE UHC</strong>
 
-Giornata: Gara 773
+Gara: 773
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -338,14 +301,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>HT SARDEGNA - CSP SAN GIORGIO</strong>
 
-Giornata: Gara 774
+Gara: 774
 
 Campo: Comunale Uras 
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
-Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
@@ -357,14 +318,12 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 <strong>CUS CAGLIARI - HT SARDEGNA</strong>
 
-Giornata: Gara 775
+Gara: 775
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -373,14 +332,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>HC BONDENO - CUS PADOVA ASD</strong>
 
-Giornata: Gara 776
+Gara: 776
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -389,14 +346,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>CSP SAN GIORGIO - ASD ADIGE UHC</strong>
 
-Giornata: Gara 777
+Gara: 777
 
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
-Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -408,14 +363,12 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>ASD ADIGE UHC - CUS CAGLIARI</strong>
 
-Giornata: Gara 778
+Gara: 778
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -424,13 +377,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>CUS PADOVA ASD - HT SARDEGNA</strong>
 
-Giornata: Gara 779
+Gara: 779
 
 Campo: Campo Hockey Mario Steffenel 
 
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
-Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 
@@ -438,14 +390,12 @@ Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 <strong>CSP SAN GIORGIO - HC BONDENO</strong>
 
-Giornata: Gara 780
+Gara: 780
 
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
-Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -457,14 +407,12 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>CSP SAN GIORGIO - CUS CAGLIARI</strong>
 
-Giornata: Gara 781
+Gara: 781
 
 Campo: campo hockey s. farinazzo 
 
 Indirizzo Campo:  VIA CAMPOLONGO, 17 - CASALE DI SCODOSIA
 
-Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
-Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
@@ -473,13 +421,12 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>CUS PADOVA ASD - ASD ADIGE UHC</strong>
 
-Giornata: Gara 782
+Gara: 782
 
 Campo: Campo Hockey Mario Steffenel 
 
 Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
 
-Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 
@@ -487,14 +434,12 @@ Location:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 Rovigo
 
 <strong>HT SARDEGNA - HC BONDENO</strong>
 
-Giornata: Gara 783
+Gara: 783
 
 Campo: Comunale Uras 
 
 Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
-Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 

@@ -8,14 +8,12 @@
 
 **Risultato: 1-5**
 
-Giornata: Gara 315
+Gara: 315
 
 Campo: COMPLESSO POLIVALENTE VIA CISALPINA 
 
 Indirizzo Campo:  VIA CISALPINA, snc - Reggio nell'Emilia
 
-Location: Via Cisalpina, Tribunale, San Paolo Tribunale, Mancasale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42100, Italia
-Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 Location: Via Cisalpina, Tribunale, San Paolo Tribunale, Mancasale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42100, Italia
 Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 
 **Risultato: 0-5**
 
-Giornata: Gara 316
+Gara: 316
 
 Campo: COMPLESSO POLIVALENTE VIA CISALPINA 
 
 Indirizzo Campo:  VIA CISALPINA, snc - Reggio nell'Emilia
 
-Location: Via Cisalpina, Tribunale, San Paolo Tribunale, Mancasale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42100, Italia
-Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 Location: Via Cisalpina, Tribunale, San Paolo Tribunale, Mancasale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42100, Italia
 Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 
 **Risultato: 4-9**
 
-Giornata: Gara 317
+Gara: 317
 
 Campo: COMPLESSO POLIVALENTE VIA CISALPINA 
 
 Indirizzo Campo:  VIA CISALPINA, snc - Reggio nell'Emilia
 
-Location: Via Cisalpina, Tribunale, San Paolo Tribunale, Mancasale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42100, Italia
-Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 Location: Via Cisalpina, Tribunale, San Paolo Tribunale, Mancasale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42100, Italia
 Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 
@@ -62,14 +56,12 @@ Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 
 **Risultato: 0-5**
 
-Giornata: Gara 318
+Gara: 318
 
 Campo: COMPLESSO POLIVALENTE VIA CISALPINA 
 
 Indirizzo Campo:  VIA CISALPINA, snc - Reggio nell'Emilia
 
-Location: Via Cisalpina, Tribunale, San Paolo Tribunale, Mancasale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42100, Italia
-Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 Location: Via Cisalpina, Tribunale, San Paolo Tribunale, Mancasale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42100, Italia
 Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 
@@ -80,14 +72,12 @@ Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 
 **Risultato: 9-0**
 
-Giornata: Gara 319
+Gara: 319
 
 Campo: COMPLESSO POLIVALENTE VIA CISALPINA 
 
 Indirizzo Campo:  VIA CISALPINA, snc - Reggio nell'Emilia
 
-Location: Via Cisalpina, Tribunale, San Paolo Tribunale, Mancasale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42100, Italia
-Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 Location: Via Cisalpina, Tribunale, San Paolo Tribunale, Mancasale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42100, Italia
 Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 
@@ -98,14 +88,12 @@ Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 
 **Risultato: 7-1**
 
-Giornata: Gara 320
+Gara: 320
 
 Campo: COMPLESSO POLIVALENTE VIA CISALPINA 
 
 Indirizzo Campo:  VIA CISALPINA, snc - Reggio nell'Emilia
 
-Location: Via Cisalpina, Tribunale, San Paolo Tribunale, Mancasale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42100, Italia
-Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 Location: Via Cisalpina, Tribunale, San Paolo Tribunale, Mancasale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42100, Italia
 Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 
@@ -119,14 +107,12 @@ Geo: Geo(latitude=44.7099019, longitude=10.6345091)
 
 **Risultato: 7-3**
 
-Giornata: Gara 321
+Gara: 321
 
 Campo: palacus 
 
 Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
 
-Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
-Geo: Geo(latitude=45.4687897, longitude=9.292811)
 Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
 Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
@@ -137,14 +123,12 @@ Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
 **Risultato: 5-0**
 
-Giornata: Gara 322
+Gara: 322
 
 Campo: palacus 
 
 Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
 
-Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
-Geo: Geo(latitude=45.4687897, longitude=9.292811)
 Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
 Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
@@ -155,14 +139,12 @@ Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
 **Risultato: 3-4**
 
-Giornata: Gara 323
+Gara: 323
 
 Campo: palacus 
 
 Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
 
-Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
-Geo: Geo(latitude=45.4687897, longitude=9.292811)
 Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
 Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
@@ -173,14 +155,12 @@ Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
 **Risultato: 6-1**
 
-Giornata: Gara 324
+Gara: 324
 
 Campo: palacus 
 
 Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
 
-Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
-Geo: Geo(latitude=45.4687897, longitude=9.292811)
 Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
 Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
@@ -191,14 +171,12 @@ Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
 **Risultato: 5-2**
 
-Giornata: Gara 325
+Gara: 325
 
 Campo: palacus 
 
 Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
 
-Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
-Geo: Geo(latitude=45.4687897, longitude=9.292811)
 Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
 Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
@@ -209,14 +187,12 @@ Geo: Geo(latitude=45.4687897, longitude=9.292811)
 
 **Risultato: 4-4**
 
-Giornata: Gara 326
+Gara: 326
 
 Campo: palacus 
 
 Indirizzo Campo:  via circonvallazione est idroscalo 11 - segrate
 
-Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
-Geo: Geo(latitude=45.4687897, longitude=9.292811)
 Location: Centro Universitario Sportivo Milano, 11, Via Arnoldo Mondadori, Tregarezzo, San Felice, Segrate, Milano, Lombardia, 20054, Italia
 Geo: Geo(latitude=45.4687897, longitude=9.292811)
 

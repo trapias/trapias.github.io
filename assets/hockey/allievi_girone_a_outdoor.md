@@ -8,14 +8,12 @@
 
 **Risultato: 6-1**
 
-Giornata: Gara 714
+Gara: 714
 
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 **Risultato: 0-5**
 
-Giornata: Gara 715
+Gara: 715
 
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 **Risultato: 1-6**
 
-Giornata: Gara 716
+Gara: 716
 
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
@@ -62,14 +56,12 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 **Risultato: 7-0**
 
-Giornata: Gara 717
+Gara: 717
 
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
@@ -80,14 +72,12 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 **Risultato: 9-3**
 
-Giornata: Gara 718
+Gara: 718
 
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
@@ -101,14 +91,12 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 **Risultato: 3-1**
 
-Giornata: Gara 719
+Gara: 719
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
@@ -119,14 +107,12 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 **Risultato: 0-20**
 
-Giornata: Gara 720
+Gara: 720
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
@@ -137,14 +123,12 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 **Risultato: 0-6**
 
-Giornata: Gara 721
+Gara: 721
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
@@ -155,14 +139,12 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 **Risultato: 0-6**
 
-Giornata: Gara 722
+Gara: 722
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
@@ -173,14 +155,12 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 **Risultato: 12-1**
 
-Giornata: Gara 723
+Gara: 723
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 

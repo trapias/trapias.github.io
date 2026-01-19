@@ -6,14 +6,12 @@
 
 <strong>POL GALATEA - HOCKEY CLUB OLIMPIA</strong>
 
-Giornata: Gara 1063
+Gara: 1063
 
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
@@ -25,12 +23,11 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>HOCKEY CLUB OLIMPIA - POL GALATEA</strong>
 
-Giornata: Gara 1064
+Gara: 1064
 
 Campo: Sintetico Comunale 
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
-Location:  Via Marrani, snc Torre Santa Susanna
 Location:  Via Marrani, snc Torre Santa Susanna
 

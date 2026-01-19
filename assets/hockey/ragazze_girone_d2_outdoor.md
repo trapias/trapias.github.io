@@ -8,14 +8,12 @@
 
 **Risultato: 2-0**
 
-Giornata: Gara 627
+Gara: 627
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 **Risultato: 7-0**
 
-Giornata: Gara 628
+Gara: 628
 
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
@@ -47,14 +43,12 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 **Risultato: 2-3**
 
-Giornata: Gara 629
+Gara: 629
 
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
@@ -65,14 +59,12 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 **Risultato: 0-9**
 
-Giornata: Gara 630
+Gara: 630
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -84,14 +76,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>BUTTERFLY ROMA - LAZIO HOCKEY</strong>
 
-Giornata: Gara 707
+Gara: 707
 
 Campo: CENTRO GIULIO ONESTI 
 
 Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
 Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
@@ -100,14 +90,12 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>POL GALATEA - HOCKEY CLUB ROMA</strong>
 
-Giornata: Gara 708
+Gara: 708
 
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
@@ -119,14 +107,12 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>POL GALATEA - LAZIO HOCKEY</strong>
 
-Giornata: Gara 712
+Gara: 712
 
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
@@ -135,14 +121,12 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>HOCKEY CLUB ROMA - BUTTERFLY ROMA</strong>
 
-Giornata: Gara 713
+Gara: 713
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -156,14 +140,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 **Risultato: 3-1**
 
-Giornata: Gara 706
+Gara: 706
 
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
@@ -174,14 +156,12 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 **Risultato: 13-0**
 
-Giornata: Gara 709
+Gara: 709
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -193,14 +173,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>LAZIO HOCKEY - BUTTERFLY ROMA</strong>
 
-Giornata: Gara 710
+Gara: 710
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
@@ -209,14 +187,12 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>HOCKEY CLUB ROMA - POL GALATEA</strong>
 
-Giornata: Gara 711
+Gara: 711
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
 Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
 Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 

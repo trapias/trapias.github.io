@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B2 / Giornata 1\nGara 469\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 2-0
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20251005T110000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B2 / Giornata 1 - ASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:617e1f47-7190-43e7-8b9e-2d7a4444bb73@617e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B2 / Giornata 3\nGara 477\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nHC PISTOIA - ASD HOCKEY CLUB BONDENO\n\nRisultato: 1-19
+DESCRIPTION:Allievi - OUTDOOR  - Girone B2 / Giornata 3\nGara 475\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO\n\nRisultato: 0-2
 GEO:43.950983;10.829288
 LOCATION:Via per Montagnana\, Montagnana\, Marliana\, Pistoia\, Toscana\, 51130\, Italia
-DTSTART:20251102T120000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B2 / Giornata 3 - HC PISTOIA - ASD HOCKEY CLUB BONDENO
-UID:730cfbc4-9e58-455d-baad-f398e8ccf303@730c.org
+DTSTART:20251102T100000Z
+SUMMARY:Allievi - OUTDOOR  - Girone B2 / Giornata 3 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO
+UID:c318e3e6-8120-4990-82ea-23fd4c9d9a6e@c318.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone B2 / Giornata 1\nGara 469\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 2-0
@@ -23,7 +15,15 @@ GEO:44.494706;11.280302
 LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
 DTSTART:20251005T110000Z
 SUMMARY:Allievi - OUTDOOR  - Girone B2 / Giornata 1 - ASD HOCKEY CLUB BONDENO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:c42e838a-f65c-47d3-992f-9efa5b704d05@c42e.org
+UID:6bf88fea-fbde-4154-9a0f-b37b6bd1b281@6bf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone B2 / Giornata 2\nGara 472\nBalestri e Gambini - Via Avvenire Paterlini\, 2 Reggio nell'Emilia\nASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA\n\nRisultato: 2-1
+GEO:44.708258;10.636489
+LOCATION:2a\, Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20251026T120000Z
+SUMMARY:Allievi - OUTDOOR  - Girone B2 / Giornata 2 - ASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA
+UID:62742295-32fd-4ead-8829-0713b73a3ebb@6274.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone B2 / Giornata 1\nGara 466\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO\n\nRisultato: 1-2
@@ -31,7 +31,7 @@ GEO:44.494706;11.280302
 LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
 DTSTART:20251005T090000Z
 SUMMARY:Allievi - OUTDOOR  - Girone B2 / Giornata 1 - HOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO
-UID:dea40b3c-4166-401d-9ee7-9e69bbcdbf13@dea4.org
+UID:8518fded-07bd-4e45-a45d-298683934e40@8518.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone B2 / Giornata 2\nGara 471\nBalestri e Gambini - Via Avvenire Paterlini\, 2 Reggio nell'Emilia\nASD HOCKEY CLUB BONDENO - HC PISTOIA\n\nRisultato: 19-0
@@ -39,31 +39,7 @@ GEO:44.708258;10.636489
 LOCATION:2a\, Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
 DTSTART:20251026T100000Z
 SUMMARY:Allievi - OUTDOOR  - Girone B2 / Giornata 2 - ASD HOCKEY CLUB BONDENO - HC PISTOIA
-UID:d1d00c5d-4685-4402-b3bc-2d53574734bb@d1d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B2 / Giornata 2\nGara 471\nBalestri e Gambini - Via Avvenire Paterlini\, 2 Reggio nell'Emilia\nASD HOCKEY CLUB BONDENO - HC PISTOIA\n\nRisultato: 19-0
-GEO:44.708258;10.636489
-LOCATION:2a\, Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20251026T100000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B2 / Giornata 2 - ASD HOCKEY CLUB BONDENO - HC PISTOIA
-UID:8444a326-be5a-48e4-a275-95f8ea7a3e4a@8444.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B2 / Giornata 3\nGara 475\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO\n\nRisultato: 0-2
-GEO:43.950983;10.829288
-LOCATION:Via per Montagnana\, Montagnana\, Marliana\, Pistoia\, Toscana\, 51130\, Italia
-DTSTART:20251102T100000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B2 / Giornata 3 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO
-UID:354dd696-28ef-4ab3-8283-55d84dc609a7@354d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B2 / Giornata 3\nGara 475\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO\n\nRisultato: 0-2
-GEO:43.950983;10.829288
-LOCATION:Via per Montagnana\, Montagnana\, Marliana\, Pistoia\, Toscana\, 51130\, Italia
-DTSTART:20251102T100000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B2 / Giornata 3 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO
-UID:44989862-6cf6-4232-8e1e-a810354f858c@4498.org
+UID:3f347489-abbb-475e-9efb-8cc041837300@3f34.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone B2 / Giornata 3\nGara 477\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nHC PISTOIA - ASD HOCKEY CLUB BONDENO\n\nRisultato: 1-19
@@ -71,22 +47,6 @@ GEO:43.950983;10.829288
 LOCATION:Via per Montagnana\, Montagnana\, Marliana\, Pistoia\, Toscana\, 51130\, Italia
 DTSTART:20251102T120000Z
 SUMMARY:Allievi - OUTDOOR  - Girone B2 / Giornata 3 - HC PISTOIA - ASD HOCKEY CLUB BONDENO
-UID:5064207e-b217-4452-b6f6-8491bdc90965@5064.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B2 / Giornata 2\nGara 472\nBalestri e Gambini - Via Avvenire Paterlini\, 2 Reggio nell'Emilia\nASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA\n\nRisultato: 2-1
-GEO:44.708258;10.636489
-LOCATION:2a\, Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20251026T120000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B2 / Giornata 2 - ASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA
-UID:4775f7d9-5c7d-4d12-ad53-b1210b22d4bb@4775.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B2 / Giornata 2\nGara 472\nBalestri e Gambini - Via Avvenire Paterlini\, 2 Reggio nell'Emilia\nASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA\n\nRisultato: 2-1
-GEO:44.708258;10.636489
-LOCATION:2a\, Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20251026T120000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B2 / Giornata 2 - ASD HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA
-UID:05e86db9-8c06-4803-81d4-591fc0d9c4a3@05e8.org
+UID:c41b830f-c394-4e3e-b553-f8719af42c2f@c41b.org
 END:VEVENT
 END:VCALENDAR

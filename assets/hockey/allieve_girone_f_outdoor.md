@@ -6,14 +6,12 @@
 
 <strong>POLISPORTIVA FERRINI - SG AMSICORA</strong>
 
-Giornata: Gara 1090
+Gara: 1090
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -25,14 +23,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>POLISPORTIVA FERRINI - CUS CAGLIARI</strong>
 
-Giornata: Gara 1091
+Gara: 1091
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>CUS CAGLIARI - SG AMSICORA</strong>
 
-Giornata: Gara 1092
+Gara: 1092
 
 Campo: CAMPI SPORTIVI 'SA DUCHESSA' 
 
 Indirizzo Campo:  VIA IS MIRRIONIS, 3, 9 - Cagliari
 
-Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
-Geo: Geo(latitude=39.2289643, longitude=9.1111611)
 Location: 3, Via Is Mirrionis, Tuvixeddu, Is Mirrionis, Casteddu/Cagliari, Sardigna/Sardegna, 09100, Italia
 Geo: Geo(latitude=39.2289643, longitude=9.1111611)
 

@@ -8,14 +8,12 @@
 
 **Risultato: 5-1**
 
-Giornata: Gara 258
+Gara: 258
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 1-10**
 
-Giornata: Gara 259
+Gara: 259
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 0-6**
 
-Giornata: Gara 260
+Gara: 260
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -62,14 +56,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 4-4**
 
-Giornata: Gara 261
+Gara: 261
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -80,14 +72,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 0-12**
 
-Giornata: Gara 262
+Gara: 262
 
 Campo: Palestra Geodetica Cus Pisa 
 
 Indirizzo Campo:  Via Chiarugi, 5 - Via Chiarugi, 5 - Pisa
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -101,14 +91,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 **Risultato: 2-4**
 
-Giornata: Gara 263
+Gara: 263
 
 Campo: Palazinola 
 
 Indirizzo Campo:  Via Antonio Brilla, snc - Savona
 
-Location: Via Antonio Brilla, Zinola, Savona, Liguria, 17047, Italia
-Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 Location: Via Antonio Brilla, Zinola, Savona, Liguria, 17047, Italia
 Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 
@@ -119,14 +107,12 @@ Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 
 **Risultato: 0-6**
 
-Giornata: Gara 264
+Gara: 264
 
 Campo: Palazinola 
 
 Indirizzo Campo:  Via Antonio Brilla, snc - Savona
 
-Location: Via Antonio Brilla, Zinola, Savona, Liguria, 17047, Italia
-Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 Location: Via Antonio Brilla, Zinola, Savona, Liguria, 17047, Italia
 Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 
@@ -137,14 +123,12 @@ Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 
 **Risultato: 2-2**
 
-Giornata: Gara 265
+Gara: 265
 
 Campo: Palazinola 
 
 Indirizzo Campo:  Via Antonio Brilla, snc - Savona
 
-Location: Via Antonio Brilla, Zinola, Savona, Liguria, 17047, Italia
-Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 Location: Via Antonio Brilla, Zinola, Savona, Liguria, 17047, Italia
 Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 
@@ -155,14 +139,12 @@ Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 
 **Risultato: 6-10**
 
-Giornata: Gara 266
+Gara: 266
 
 Campo: Palazinola 
 
 Indirizzo Campo:  Via Antonio Brilla, snc - Savona
 
-Location: Via Antonio Brilla, Zinola, Savona, Liguria, 17047, Italia
-Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 Location: Via Antonio Brilla, Zinola, Savona, Liguria, 17047, Italia
 Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 
@@ -173,14 +155,12 @@ Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 
 **Risultato: 4-0**
 
-Giornata: Gara 267
+Gara: 267
 
 Campo: Palazinola 
 
 Indirizzo Campo:  Via Antonio Brilla, snc - Savona
 
-Location: Via Antonio Brilla, Zinola, Savona, Liguria, 17047, Italia
-Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 Location: Via Antonio Brilla, Zinola, Savona, Liguria, 17047, Italia
 Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 

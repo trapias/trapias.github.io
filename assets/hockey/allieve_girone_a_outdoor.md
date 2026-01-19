@@ -8,14 +8,12 @@
 
 **Risultato: 8-4**
 
-Giornata: Gara 674
+Gara: 674
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
@@ -29,14 +27,12 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 **Risultato: 7-4**
 
-Giornata: Gara 675
+Gara: 675
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
@@ -47,14 +43,12 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 **Risultato: 6-0**
 
-Giornata: Gara 697
+Gara: 697
 
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
@@ -68,14 +62,12 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 **Risultato: 0-14**
 
-Giornata: Gara 676
+Gara: 676
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
@@ -85,15 +77,11 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>HC LARIO - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 
-Giornata: Gara 677
+Gara: 677
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
-
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
-<!-- VALCHISONE_END -->
 
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
@@ -109,15 +97,11 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>CUS TORINO - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 
-Giornata: Gara 678
+Gara: 678
 
 Campo: Tazzoli 
 
 Indirizzo Campo:  Corso Tazzoli, 78 - Torino
-
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-<!-- VALCHISONE_END -->
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
@@ -131,13 +115,12 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 **Risultato: 6-0**
 
-Giornata: Gara 679
+Gara: 679
 
 Campo: UMBERTO MICCO 
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location:  Via Goria, 4 Moncalvo
 Location:  Via Goria, 4 Moncalvo
 
 
@@ -150,14 +133,12 @@ Location:  Via Goria, 4 Moncalvo
 
 **Risultato: 12-1**
 
-Giornata: Gara 680
+Gara: 680
 
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
@@ -170,15 +151,11 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>HF LORENZONI - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 
-Giornata: Gara 681
+Gara: 681
 
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
-
-Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7031944, longitude=7.8366967)
-<!-- VALCHISONE_END -->
 
 Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
@@ -194,14 +171,11 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>USD MONCALVESE HOCKEY - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 
-Giornata: Gara 698
+Gara: 698
 
 Campo: UMBERTO MICCO 
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
-
-Location:  Via Goria, 4 Moncalvo
-<!-- VALCHISONE_END -->
 
 Location:  Via Goria, 4 Moncalvo
 <!-- VALCHISONE_END -->

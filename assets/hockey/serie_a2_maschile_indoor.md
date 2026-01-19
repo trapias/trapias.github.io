@@ -8,14 +8,12 @@
 
 **Risultato: 3-5**
 
-Giornata: Gara 61
+Gara: 61
 
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
-Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 **Risultato: 7-3**
 
-Giornata: Gara 62
+Gara: 62
 
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
-Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 **Risultato: 4-5**
 
-Giornata: Gara 63
+Gara: 63
 
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
-Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
@@ -62,14 +56,12 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 **Risultato: 6-3**
 
-Giornata: Gara 64
+Gara: 64
 
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
-Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
@@ -80,14 +72,12 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 **Risultato: 4-7**
 
-Giornata: Gara 65
+Gara: 65
 
 Campo: IMPIANTO SPORTIVO POLIVALENTE PALESTRA A 
 
 Indirizzo Campo:  VIA DEGLI SPORT - CAGLIARI
 
-Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 Location: Via degli Sport, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
@@ -101,13 +91,12 @@ Geo: Geo(latitude=39.2036883, longitude=9.1344264)
 
 **Risultato: 9-5**
 
-Giornata: Gara 66
+Gara: 66
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -117,13 +106,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 7-2**
 
-Giornata: Gara 67
+Gara: 67
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -133,13 +121,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 6-4**
 
-Giornata: Gara 68
+Gara: 68
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -149,13 +136,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 8-4**
 
-Giornata: Gara 69
+Gara: 69
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -165,13 +151,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 0-7**
 
-Giornata: Gara 70
+Gara: 70
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -184,14 +169,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 5-6**
 
-Giornata: Gara 71
+Gara: 71
 
 Campo: PalaRomanzi 
 
 Indirizzo Campo:  viale Gambaro, 66 - Genova
 
-Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
-Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
 Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
@@ -202,14 +185,12 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 **Risultato: 3-4**
 
-Giornata: Gara 72
+Gara: 72
 
 Campo: PalaRomanzi 
 
 Indirizzo Campo:  viale Gambaro, 66 - Genova
 
-Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
-Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
 Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
@@ -220,14 +201,12 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 **Risultato: 4-5**
 
-Giornata: Gara 73
+Gara: 73
 
 Campo: PalaRomanzi 
 
 Indirizzo Campo:  viale Gambaro, 66 - Genova
 
-Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
-Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
 Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
@@ -238,14 +217,12 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 **Risultato: 3-4**
 
-Giornata: Gara 74
+Gara: 74
 
 Campo: PalaRomanzi 
 
 Indirizzo Campo:  viale Gambaro, 66 - Genova
 
-Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
-Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
 Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
@@ -256,14 +233,12 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 **Risultato: 5-5**
 
-Giornata: Gara 75
+Gara: 75
 
 Campo: PalaRomanzi 
 
 Indirizzo Campo:  viale Gambaro, 66 - Genova
 
-Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
-Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146, Italia
 Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
@@ -275,14 +250,12 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 <strong>S.G. AMSICORA ASD - HOCKEY CLUB ROMA</strong>
 
-Giornata: Gara 76
+Gara: 76
 
 Campo: PALATORRINO ROMA 
 
 Indirizzo Campo:  VIA FIUME GIALLO, 47 - ROMA
 
-Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
@@ -291,14 +264,12 @@ Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
 <strong>GENOVA H. 1980 - HCU RASSEMBLEMENT TORINO</strong>
 
-Giornata: Gara 77
+Gara: 77
 
 Campo: PALATORRINO ROMA 
 
 Indirizzo Campo:  VIA FIUME GIALLO, 47 - ROMA
 
-Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
@@ -307,14 +278,12 @@ Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
 <strong>HC SAVONA - S.G. AMSICORA ASD</strong>
 
-Giornata: Gara 78
+Gara: 78
 
 Campo: PALATORRINO ROMA 
 
 Indirizzo Campo:  VIA FIUME GIALLO, 47 - ROMA
 
-Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
@@ -323,14 +292,12 @@ Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
 <strong>HOCKEY CLUB ROMA - GENOVA H. 1980</strong>
 
-Giornata: Gara 79
+Gara: 79
 
 Campo: PALATORRINO ROMA 
 
 Indirizzo Campo:  VIA FIUME GIALLO, 47 - ROMA
 
-Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
@@ -339,14 +306,12 @@ Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
 <strong>HCU RASSEMBLEMENT TORINO - HC SAVONA</strong>
 
-Giornata: Gara 80
+Gara: 80
 
 Campo: PALATORRINO ROMA 
 
 Indirizzo Campo:  VIA FIUME GIALLO, 47 - ROMA
 
-Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 Location: Palatorrino, 47, Via Fiume Giallo, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
 Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 

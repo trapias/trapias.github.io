@@ -8,13 +8,12 @@
 
 **Risultato: 3-2**
 
-Giornata: Gara 31
+Gara: 31
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -24,13 +23,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 3-2**
 
-Giornata: Gara 32
+Gara: 32
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -40,13 +38,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 3-7**
 
-Giornata: Gara 33
+Gara: 33
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -56,13 +53,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 3-1**
 
-Giornata: Gara 34
+Gara: 34
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -72,13 +68,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 5-7**
 
-Giornata: Gara 35
+Gara: 35
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -88,13 +83,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 3-4**
 
-Giornata: Gara 36
+Gara: 36
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -107,14 +101,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 2-2**
 
-Giornata: Gara 43
+Gara: 43
 
 Campo: PALA NEBIOLO 
 
 Indirizzo Campo:  Via Umberto Fiore,  - Messina
 
-Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
-Geo: Geo(latitude=38.224983, longitude=15.5562633)
 Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
 Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
@@ -125,14 +117,12 @@ Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
 **Risultato: 4-4**
 
-Giornata: Gara 44
+Gara: 44
 
 Campo: PALA NEBIOLO 
 
 Indirizzo Campo:  Via Umberto Fiore,  - Messina
 
-Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
-Geo: Geo(latitude=38.224983, longitude=15.5562633)
 Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
 Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
@@ -143,14 +133,12 @@ Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
 **Risultato: 6-2**
 
-Giornata: Gara 45
+Gara: 45
 
 Campo: PALA NEBIOLO 
 
 Indirizzo Campo:  Via Umberto Fiore,  - Messina
 
-Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
-Geo: Geo(latitude=38.224983, longitude=15.5562633)
 Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
 Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
@@ -161,14 +149,12 @@ Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
 **Risultato: 0-3**
 
-Giornata: Gara 46
+Gara: 46
 
 Campo: PALA NEBIOLO 
 
 Indirizzo Campo:  Via Umberto Fiore,  - Messina
 
-Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
-Geo: Geo(latitude=38.224983, longitude=15.5562633)
 Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
 Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
@@ -179,14 +165,12 @@ Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
 **Risultato: 4-3**
 
-Giornata: Gara 47
+Gara: 47
 
 Campo: PALA NEBIOLO 
 
 Indirizzo Campo:  Via Umberto Fiore,  - Messina
 
-Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
-Geo: Geo(latitude=38.224983, longitude=15.5562633)
 Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
 Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
@@ -197,14 +181,12 @@ Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
 **Risultato: 7-2**
 
-Giornata: Gara 48
+Gara: 48
 
 Campo: PALA NEBIOLO 
 
 Indirizzo Campo:  Via Umberto Fiore,  - Messina
 
-Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
-Geo: Geo(latitude=38.224983, longitude=15.5562633)
 Location: Via Umberto Fiore, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
 Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
@@ -218,14 +200,12 @@ Geo: Geo(latitude=38.224983, longitude=15.5562633)
 
 **Risultato: 3-4**
 
-Giornata: Gara 49
+Gara: 49
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -236,14 +216,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 2-6**
 
-Giornata: Gara 50
+Gara: 50
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -254,14 +232,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 1-2**
 
-Giornata: Gara 51
+Gara: 51
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -272,14 +248,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 6-4**
 
-Giornata: Gara 52
+Gara: 52
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -290,14 +264,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 3-6**
 
-Giornata: Gara 53
+Gara: 53
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -308,14 +280,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 4-2**
 
-Giornata: Gara 54
+Gara: 54
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -329,13 +299,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 8-2**
 
-Giornata: Gara 37
+Gara: 37
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -345,13 +314,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 4-2**
 
-Giornata: Gara 38
+Gara: 38
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -361,13 +329,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 4-3**
 
-Giornata: Gara 39
+Gara: 39
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -377,13 +344,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 4-4**
 
-Giornata: Gara 40
+Gara: 40
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -393,13 +359,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 4-3**
 
-Giornata: Gara 41
+Gara: 41
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -409,13 +374,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 **Risultato: 3-4**
 
-Giornata: Gara 42
+Gara: 42
 
 Campo: CENTRO S. COMUNALE 
 
 Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 
@@ -426,14 +390,12 @@ Location:  Castello D'Agogna - VIA MILANO, 65 Castello d'Agogna
 
 <strong>POLISPORTIVA UNIVERSITARIA MESSINA - CSP SAN GIORGIO</strong>
 
-Giornata: Gara 55
+Gara: 55
 
 Campo: POLO SCOLASTICO DI CLES 
 
 Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
 Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
@@ -442,14 +404,12 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - LAZIO HOCKEY</strong>
 
-Giornata: Gara 56
+Gara: 56
 
 Campo: POLO SCOLASTICO DI CLES 
 
 Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
 Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
@@ -458,14 +418,12 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 <strong>USD MONCALVESE HOCKEY - POLISPORTIVA UNIVERSITARIA MESSINA</strong>
 
-Giornata: Gara 57
+Gara: 57
 
 Campo: POLO SCOLASTICO DI CLES 
 
 Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
 Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
@@ -474,14 +432,12 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 <strong>LAZIO HOCKEY - HOCKEY CLUB RIVA</strong>
 
-Giornata: Gara 58
+Gara: 58
 
 Campo: POLO SCOLASTICO DI CLES 
 
 Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
 Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
@@ -490,14 +446,12 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 <strong>CSP SAN GIORGIO - A.S.D. S.H. PAOLO BONOMI</strong>
 
-Giornata: Gara 59
+Gara: 59
 
 Campo: POLO SCOLASTICO DI CLES 
 
 Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
 Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
@@ -506,14 +460,12 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 <strong>HOCKEY CLUB RIVA - USD MONCALVESE HOCKEY</strong>
 
-Giornata: Gara 60
+Gara: 60
 
 Campo: POLO SCOLASTICO DI CLES 
 
 Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
 Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 

@@ -8,14 +8,12 @@
 
 **Risultato: 1-2**
 
-Giornata: Gara 375
+Gara: 375
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 2-5**
 
-Giornata: Gara 376
+Gara: 376
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 3-4**
 
-Giornata: Gara 377
+Gara: 377
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -62,14 +56,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 7-4**
 
-Giornata: Gara 378
+Gara: 378
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -80,14 +72,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 4-2**
 
-Giornata: Gara 379
+Gara: 379
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -98,14 +88,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 8-4**
 
-Giornata: Gara 380
+Gara: 380
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -116,14 +104,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 1-6**
 
-Giornata: Gara 381
+Gara: 381
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -137,14 +123,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 3-1**
 
-Giornata: Gara 382
+Gara: 382
 
 Campo: PALESTRA CUS PADOVA 
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -155,14 +139,12 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 **Risultato: 6-6**
 
-Giornata: Gara 383
+Gara: 383
 
 Campo: PALESTRA CUS PADOVA 
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -173,14 +155,12 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 **Risultato: 3-1**
 
-Giornata: Gara 384
+Gara: 384
 
 Campo: Impianti CUS Padova via G. Bruno 
 
 Indirizzo Campo:  via G. Bruno, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -191,14 +171,12 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 **Risultato: 0-9**
 
-Giornata: Gara 385
+Gara: 385
 
 Campo: Impianti CUS Padova via G. Bruno 
 
 Indirizzo Campo:  via G. Bruno, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -209,14 +187,12 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 **Risultato: 6-2**
 
-Giornata: Gara 386
+Gara: 386
 
 Campo: PALESTRA CUS PADOVA 
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -227,14 +203,12 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 **Risultato: 2-7**
 
-Giornata: Gara 387
+Gara: 387
 
 Campo: Impianti CUS Padova via G. Bruno 
 
 Indirizzo Campo:  via G. Bruno, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -245,14 +219,12 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 **Risultato: 3-2**
 
-Giornata: Gara 388
+Gara: 388
 
 Campo: PALESTRA CUS PADOVA 
 
 Indirizzo Campo:  VIA GIORDANO BRUNO, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
@@ -263,14 +235,12 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 **Risultato: 4-7**
 
-Giornata: Gara 389
+Gara: 389
 
 Campo: Impianti CUS Padova via G. Bruno 
 
 Indirizzo Campo:  via G. Bruno, 27 - Padova
 
-Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
-Geo: Geo(latitude=45.392067, longitude=11.8760409)
 Location: Via Giordano Bruno, Madonna Pellegrina, Padova, Veneto, 35123, Italia
 Geo: Geo(latitude=45.392067, longitude=11.8760409)
 

@@ -8,14 +8,12 @@
 
 **Risultato: 0-9**
 
-Giornata: Gara 226
+Gara: 226
 
 Campo: PALAZZETTO DELLO SPORT DI CELANO 
 
 Indirizzo Campo:  VIA DELLA TORRE  - CELANO (AQ)
 
-Location: Via della Torre, Celano, L'Aquila, 67043, Italia
-Geo: Geo(latitude=42.0792711, longitude=13.5399331)
 Location: Via della Torre, Celano, L'Aquila, 67043, Italia
 Geo: Geo(latitude=42.0792711, longitude=13.5399331)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=42.0792711, longitude=13.5399331)
 
 **Risultato: 5-4**
 
-Giornata: Gara 228
+Gara: 228
 
 Campo: PALAZZETTO DELLO SPORT DI CELANO 
 
 Indirizzo Campo:  VIA DELLA TORRE  - CELANO (AQ)
 
-Location: Via della Torre, Celano, L'Aquila, 67043, Italia
-Geo: Geo(latitude=42.0792711, longitude=13.5399331)
 Location: Via della Torre, Celano, L'Aquila, 67043, Italia
 Geo: Geo(latitude=42.0792711, longitude=13.5399331)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=42.0792711, longitude=13.5399331)
 
 **Risultato: 9-0**
 
-Giornata: Gara 231
+Gara: 231
 
 Campo: PALAZZETTO DELLO SPORT DI CELANO 
 
 Indirizzo Campo:  VIA DELLA TORRE  - CELANO (AQ)
 
-Location: Via della Torre, Celano, L'Aquila, 67043, Italia
-Geo: Geo(latitude=42.0792711, longitude=13.5399331)
 Location: Via della Torre, Celano, L'Aquila, 67043, Italia
 Geo: Geo(latitude=42.0792711, longitude=13.5399331)
 
@@ -65,14 +59,12 @@ Geo: Geo(latitude=42.0792711, longitude=13.5399331)
 
 **Risultato: 7-1**
 
-Giornata: Gara 235
+Gara: 235
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -83,14 +75,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 1-3**
 
-Giornata: Gara 236
+Gara: 236
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
@@ -101,14 +91,12 @@ Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 
 **Risultato: 3-2**
 
-Giornata: Gara 238
+Gara: 238
 
 Campo: CENTRO SPORTIVO MILLEVOI 
 
 Indirizzo Campo:  VIA TORRI DI CASTEL DI LEVA, 30 - CASTEL DI LEVA, Roma
 
-Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
-Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 Location: Via Torri di Castel di Leva, Divino Amore, Municipio Roma IX, Falcognana, Roma, Roma Capitale, Lazio, 00134, Italia
 Geo: Geo(latitude=41.7764921, longitude=12.5466935)
 

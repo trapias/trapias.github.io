@@ -8,14 +8,12 @@
 
 **Risultato: 4-0**
 
-Giornata: Gara 442
+Gara: 442
 
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 **Risultato: 2-6**
 
-Giornata: Gara 443
+Gara: 443
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -47,14 +43,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 1-1**
 
-Giornata: Gara 444
+Gara: 444
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -65,14 +59,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 7-0**
 
-Giornata: Gara 445
+Gara: 445
 
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
@@ -86,14 +78,12 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 **Risultato: 6-3**
 
-Giornata: Gara 446
+Gara: 446
 
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
@@ -104,14 +94,12 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 **Risultato: 1-15**
 
-Giornata: Gara 447
+Gara: 447
 
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -123,14 +111,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>CUS PISA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
 
-Giornata: Gara 448
+Gara: 448
 
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -139,14 +125,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>HOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO</strong>
 
-Giornata: Gara 449
+Gara: 449
 
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
@@ -158,14 +142,12 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO</strong>
 
-Giornata: Gara 450
+Gara: 450
 
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
@@ -174,14 +156,12 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 <strong>CUS PISA ASD - HOCKEY TEAM BOLOGNA</strong>
 
-Giornata: Gara 451
+Gara: 451
 
 Campo: CAMPO HOCKEY PRATO 
 
 Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
@@ -193,14 +173,12 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA</strong>
 
-Giornata: Gara 452
+Gara: 452
 
 Campo: Sport Arena 
 
 Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
@@ -209,14 +187,12 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PISA ASD</strong>
 
-Giornata: Gara 453
+Gara: 453
 
 Campo: A. GIATTI 
 
 Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 

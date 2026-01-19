@@ -8,14 +8,12 @@
 
 **Risultato: 1-1**
 
-Giornata: Gara 658
+Gara: 658
 
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
@@ -29,14 +27,12 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 **Risultato: 3-3**
 
-Giornata: Gara 659
+Gara: 659
 
 Campo: Augusto Lorenzoni 
 
 Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
@@ -50,14 +46,12 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 **Risultato: 0-0**
 
-Giornata: Gara 661
+Gara: 661
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 

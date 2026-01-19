@@ -8,13 +8,12 @@
 
 **Risultato: 3-0**
 
-Giornata: Gara 170
+Gara: 170
 
 Campo: UMBERTO MICCO 
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location:  Via Goria, 4 Moncalvo
 Location:  Via Goria, 4 Moncalvo
 
 
@@ -24,14 +23,12 @@ Location:  Via Goria, 4 Moncalvo
 
 **Risultato: 3-2**
 
-Giornata: Gara 171
+Gara: 171
 
 Campo: Campo Sportivo Augusto Briano 
 
 Indirizzo Campo:  Via Santuario, snc - Savona
 
-Location: Via Santuario, Lavagnola, Savona, Liguria, 17100, Italia
-Geo: Geo(latitude=44.3230861, longitude=8.464578)
 Location: Via Santuario, Lavagnola, Savona, Liguria, 17100, Italia
 Geo: Geo(latitude=44.3230861, longitude=8.464578)
 
@@ -45,13 +42,12 @@ Geo: Geo(latitude=44.3230861, longitude=8.464578)
 
 **Risultato: 6-0**
 
-Giornata: Gara 172
+Gara: 172
 
 Campo: UMBERTO MICCO 
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location:  Via Goria, 4 Moncalvo
 Location:  Via Goria, 4 Moncalvo
 
 
@@ -61,14 +57,12 @@ Location:  Via Goria, 4 Moncalvo
 
 **Risultato: 5-3**
 
-Giornata: Gara 173
+Gara: 173
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -82,14 +76,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 0-9**
 
-Giornata: Gara 174
+Gara: 174
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -100,14 +92,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 8-3**
 
-Giornata: Gara 175
+Gara: 175
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -121,14 +111,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 3-5**
 
-Giornata: Gara 176
+Gara: 176
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -139,14 +127,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 2-4**
 
-Giornata: Gara 177
+Gara: 177
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -160,14 +146,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 1-3**
 
-Giornata: Gara 178
+Gara: 178
 
 Campo: Campo Sportivo Augusto Briano 
 
 Indirizzo Campo:  Via Santuario, snc - Savona
 
-Location: Via Santuario, Lavagnola, Savona, Liguria, 17100, Italia
-Geo: Geo(latitude=44.3230861, longitude=8.464578)
 Location: Via Santuario, Lavagnola, Savona, Liguria, 17100, Italia
 Geo: Geo(latitude=44.3230861, longitude=8.464578)
 
@@ -178,14 +162,12 @@ Geo: Geo(latitude=44.3230861, longitude=8.464578)
 
 **Risultato: 0-6**
 
-Giornata: Gara 180
+Gara: 180
 
 Campo: CAMPO G.ARNALDI 
 
 Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
@@ -199,13 +181,12 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 **Risultato: 5-4**
 
-Giornata: Gara 181
+Gara: 181
 
 Campo: UMBERTO MICCO 
 
 Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location:  Via Goria, 4 Moncalvo
 Location:  Via Goria, 4 Moncalvo
 
 
@@ -215,14 +196,12 @@ Location:  Via Goria, 4 Moncalvo
 
 **Risultato: 4-2**
 
-Giornata: Gara 182
+Gara: 182
 
 Campo: Campo Sportivo Augusto Briano 
 
 Indirizzo Campo:  Via Santuario, snc - Savona
 
-Location: Via Santuario, Lavagnola, Savona, Liguria, 17100, Italia
-Geo: Geo(latitude=44.3230861, longitude=8.464578)
 Location: Via Santuario, Lavagnola, Savona, Liguria, 17100, Italia
 Geo: Geo(latitude=44.3230861, longitude=8.464578)
 

@@ -6,13 +6,12 @@
 
 <strong>HC OLIMPIA - HC VILLAFRANCA</strong>
 
-Giornata: Gara 814
+Gara: 814
 
 Campo: Sintetico Comunale 
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
-Location:  Via Marrani, snc Torre Santa Susanna
 Location:  Via Marrani, snc Torre Santa Susanna
 
 
@@ -20,14 +19,12 @@ Location:  Via Marrani, snc Torre Santa Susanna
 
 <strong>POL GALATEA - HC RIVA</strong>
 
-Giornata: Gara 815
+Gara: 815
 
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
@@ -36,14 +33,12 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>CERNUSCO FH - HC GRANTORTO</strong>
 
-Giornata: Gara 816
+Gara: 816
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
@@ -55,13 +50,12 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>HC VILLAFRANCA - POL GALATEA</strong>
 
-Giornata: Gara 817
+Gara: 817
 
 Campo: Impianto comunale Nereo Faccioli 
 
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
 
-Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 
@@ -69,13 +63,12 @@ Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 <strong>HC OLIMPIA - CERNUSCO FH</strong>
 
-Giornata: Gara 818
+Gara: 818
 
 Campo: Sintetico Comunale 
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
-Location:  Via Marrani, snc Torre Santa Susanna
 Location:  Via Marrani, snc Torre Santa Susanna
 
 
@@ -83,14 +76,12 @@ Location:  Via Marrani, snc Torre Santa Susanna
 
 <strong>HC RIVA - HC GRANTORTO</strong>
 
-Giornata: Gara 819
+Gara: 819
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -102,14 +93,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HC GRANTORTO - HC VILLAFRANCA</strong>
 
-Giornata: Gara 820
+Gara: 820
 
 Campo: Grantorto Hockey Stadium 
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
-Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
-Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
 Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
@@ -118,14 +107,12 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 <strong>POL GALATEA - HC OLIMPIA</strong>
 
-Giornata: Gara 821
+Gara: 821
 
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
@@ -134,14 +121,12 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>CERNUSCO FH - HC RIVA</strong>
 
-Giornata: Gara 822
+Gara: 822
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
@@ -153,13 +138,12 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>HC VILLAFRANCA - CERNUSCO FH</strong>
 
-Giornata: Gara 823
+Gara: 823
 
 Campo: Impianto comunale Nereo Faccioli 
 
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
 
-Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 
@@ -167,14 +151,12 @@ Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 <strong>HC GRANTORTO - POL GALATEA</strong>
 
-Giornata: Gara 824
+Gara: 824
 
 Campo: Grantorto Hockey Stadium 
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
-Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
-Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
 Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
@@ -183,14 +165,12 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 <strong>HC RIVA - HC OLIMPIA</strong>
 
-Giornata: Gara 825
+Gara: 825
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -202,13 +182,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HC VILLAFRANCA - HC RIVA</strong>
 
-Giornata: Gara 826
+Gara: 826
 
 Campo: Impianto comunale Nereo Faccioli 
 
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
 
-Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 
@@ -216,14 +195,12 @@ Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 <strong>POL GALATEA - CERNUSCO FH</strong>
 
-Giornata: Gara 827
+Gara: 827
 
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
@@ -232,13 +209,12 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>HC OLIMPIA - HC GRANTORTO</strong>
 
-Giornata: Gara 828
+Gara: 828
 
 Campo: Sintetico Comunale 
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
-Location:  Via Marrani, snc Torre Santa Susanna
 Location:  Via Marrani, snc Torre Santa Susanna
 
 
@@ -249,13 +225,12 @@ Location:  Via Marrani, snc Torre Santa Susanna
 
 <strong>HC VILLAFRANCA - HC OLIMPIA</strong>
 
-Giornata: Gara 829
+Gara: 829
 
 Campo: Impianto comunale Nereo Faccioli 
 
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
 
-Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 
@@ -263,14 +238,12 @@ Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 <strong>HC RIVA - POL GALATEA</strong>
 
-Giornata: Gara 830
+Gara: 830
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -279,14 +252,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HC GRANTORTO - CERNUSCO FH</strong>
 
-Giornata: Gara 831
+Gara: 831
 
 Campo: Grantorto Hockey Stadium 
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
-Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
-Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
 Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
@@ -298,14 +269,12 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 <strong>POL GALATEA - HC VILLAFRANCA</strong>
 
-Giornata: Gara 832
+Gara: 832
 
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
@@ -314,14 +283,12 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>CERNUSCO FH - HC OLIMPIA</strong>
 
-Giornata: Gara 833
+Gara: 833
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
@@ -330,14 +297,12 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>HC GRANTORTO - HC RIVA</strong>
 
-Giornata: Gara 834
+Gara: 834
 
 Campo: Grantorto Hockey Stadium 
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
-Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
-Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
 Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
@@ -349,13 +314,12 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 <strong>HC VILLAFRANCA - HC GRANTORTO</strong>
 
-Giornata: Gara 835
+Gara: 835
 
 Campo: Impianto comunale Nereo Faccioli 
 
 Indirizzo Campo:  Lamacchi - Tosoni - Via Porta, snc - Villafranca di Verona
 
-Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 
@@ -363,13 +327,12 @@ Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 <strong>HC OLIMPIA - POL GALATEA</strong>
 
-Giornata: Gara 836
+Gara: 836
 
 Campo: Sintetico Comunale 
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
-Location:  Via Marrani, snc Torre Santa Susanna
 Location:  Via Marrani, snc Torre Santa Susanna
 
 
@@ -377,14 +340,12 @@ Location:  Via Marrani, snc Torre Santa Susanna
 
 <strong>HC RIVA - CERNUSCO FH</strong>
 
-Giornata: Gara 837
+Gara: 837
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -396,14 +357,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>CERNUSCO FH - HC VILLAFRANCA</strong>
 
-Giornata: Gara 838
+Gara: 838
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
@@ -412,14 +371,12 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>POL GALATEA - HC GRANTORTO</strong>
 
-Giornata: Gara 839
+Gara: 839
 
 Campo: DUSMET 
 
 Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
@@ -428,13 +385,12 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>HC OLIMPIA - HC RIVA</strong>
 
-Giornata: Gara 840
+Gara: 840
 
 Campo: Sintetico Comunale 
 
 Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
-Location:  Via Marrani, snc Torre Santa Susanna
 Location:  Via Marrani, snc Torre Santa Susanna
 
 
@@ -445,14 +401,12 @@ Location:  Via Marrani, snc Torre Santa Susanna
 
 <strong>HC RIVA - HC VILLAFRANCA</strong>
 
-Giornata: Gara 841
+Gara: 841
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -461,14 +415,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>CERNUSCO FH - POL GALATEA</strong>
 
-Giornata: Gara 842
+Gara: 842
 
 Campo: Campo Comunale 
 
 Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
@@ -477,14 +429,12 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>HC GRANTORTO - HC OLIMPIA</strong>
 
-Giornata: Gara 843
+Gara: 843
 
 Campo: Grantorto Hockey Stadium 
 
 Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
-Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
-Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
 Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 

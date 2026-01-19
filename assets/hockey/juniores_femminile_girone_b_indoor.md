@@ -8,14 +8,12 @@
 
 **Risultato: 4-1**
 
-Giornata: Gara 309
+Gara: 309
 
 Campo: PALARECORD CUS 
 
 Indirizzo Campo:  via pilastro 8 - BOLOGNA
 
-Location: 8, Via Ada Negri, Pilastro, San Donato-San Vitale, San Sisto, Bologna, Emilia-Romagna, 40127, Italia
-Geo: Geo(latitude=44.5131553, longitude=11.3970058)
 Location: 8, Via Ada Negri, Pilastro, San Donato-San Vitale, San Sisto, Bologna, Emilia-Romagna, 40127, Italia
 Geo: Geo(latitude=44.5131553, longitude=11.3970058)
 
@@ -26,14 +24,12 @@ Geo: Geo(latitude=44.5131553, longitude=11.3970058)
 
 **Risultato: 7-4**
 
-Giornata: Gara 310
+Gara: 310
 
 Campo: PALARECORD CUS 
 
 Indirizzo Campo:  via pilastro 8 - BOLOGNA
 
-Location: 8, Via Ada Negri, Pilastro, San Donato-San Vitale, San Sisto, Bologna, Emilia-Romagna, 40127, Italia
-Geo: Geo(latitude=44.5131553, longitude=11.3970058)
 Location: 8, Via Ada Negri, Pilastro, San Donato-San Vitale, San Sisto, Bologna, Emilia-Romagna, 40127, Italia
 Geo: Geo(latitude=44.5131553, longitude=11.3970058)
 
@@ -44,14 +40,12 @@ Geo: Geo(latitude=44.5131553, longitude=11.3970058)
 
 **Risultato: 6-1**
 
-Giornata: Gara 311
+Gara: 311
 
 Campo: PALARECORD CUS 
 
 Indirizzo Campo:  via pilastro 8 - BOLOGNA
 
-Location: 8, Via Ada Negri, Pilastro, San Donato-San Vitale, San Sisto, Bologna, Emilia-Romagna, 40127, Italia
-Geo: Geo(latitude=44.5131553, longitude=11.3970058)
 Location: 8, Via Ada Negri, Pilastro, San Donato-San Vitale, San Sisto, Bologna, Emilia-Romagna, 40127, Italia
 Geo: Geo(latitude=44.5131553, longitude=11.3970058)
 
@@ -65,14 +59,12 @@ Geo: Geo(latitude=44.5131553, longitude=11.3970058)
 
 **Risultato: 10-1**
 
-Giornata: Gara 312
+Gara: 312
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -83,14 +75,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 2-4**
 
-Giornata: Gara 313
+Gara: 313
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
@@ -101,14 +91,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 **Risultato: 5-5**
 
-Giornata: Gara 314
+Gara: 314
 
 Campo: Palestra Adriano Bonini 
 
 Indirizzo Campo:  Bondeno - Via Napoleonica, snc, snc - Bondeno
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 

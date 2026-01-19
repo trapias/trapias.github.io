@@ -8,14 +8,12 @@
 
 **Risultato: 5-1**
 
-Giornata: Gara 1097
+Gara: 1097
 
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 

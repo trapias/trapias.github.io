@@ -8,14 +8,12 @@
 
 **Risultato: 2-4**
 
-Giornata: Gara 1111
+Gara: 1111
 
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
@@ -24,14 +22,12 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>FORTITUDO HOCKEY CAGLIARI - CUS CAGLIARI</strong>
 
-Giornata: Gara 1112
+Gara: 1112
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -45,14 +41,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 **Risultato: 5-1**
 
-Giornata: Gara 1113
+Gara: 1113
 
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
@@ -63,14 +57,12 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 **Risultato: 4-2**
 
-Giornata: Gara 1114
+Gara: 1114
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -82,14 +74,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>CUS CAGLIARI - POLISPORTIVA FERRINI B</strong>
 
-Giornata: Gara 1115
+Gara: 1115
 
 Campo: A. Maxia 
 
 Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
@@ -98,14 +88,12 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>SG AMSICORA B - FORTITUDO HOCKEY CAGLIARI</strong>
 
-Giornata: Gara 1116
+Gara: 1116
 
 Campo: AMSICORA 
 
 Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 

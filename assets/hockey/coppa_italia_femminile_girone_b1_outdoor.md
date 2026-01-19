@@ -8,14 +8,12 @@
 
 **Risultato: 5-2**
 
-Giornata: Gara 57
+Gara: 57
 
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
@@ -29,14 +27,12 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 **Risultato: 0-4**
 
-Giornata: Gara 59
+Gara: 59
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
@@ -50,13 +46,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 **Risultato: 1-1**
 
-Giornata: Gara 58
+Gara: 58
 
 Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO 
 
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
-Location:  VIA J. CORRADO, 24 Padova
 Location:  VIA J. CORRADO, 24 Padova
 
 
@@ -69,13 +64,12 @@ Location:  VIA J. CORRADO, 24 Padova
 
 **Risultato: 0-3**
 
-Giornata: Gara 60
+Gara: 60
 
 Campo: IMPIANTI SPORTIVI UNIVERSITARI PIOVEGO 
 
 Indirizzo Campo:  VIA J. CORRADO, 24 - Padova
 
-Location:  VIA J. CORRADO, 24 Padova
 Location:  VIA J. CORRADO, 24 Padova
 
 
@@ -88,14 +82,12 @@ Location:  VIA J. CORRADO, 24 Padova
 
 **Risultato: 2-1**
 
-Giornata: Gara 62
+Gara: 62
 
 Campo: CP BARCA 
 
 Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
@@ -109,14 +101,12 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 **Risultato: 3-0**
 
-Giornata: Gara 61
+Gara: 61
 
 Campo: Comunale Mori 
 
 Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
