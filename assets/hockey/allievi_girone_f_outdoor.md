@@ -33,7 +33,7 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 # Allievi - OUTDOOR  - Girone F / Giornata 2
 
-## Dom 08/02/2026 09.30
+## Ven 06/02/2026 17.30
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA - A.S.D. POLISPORTIVA JUVENILIA RIS.</strong>
 
@@ -64,7 +64,7 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 # Allievi - OUTDOOR  - Girone F / Giornata 3
 
-## Dom 15/02/2026 11.00
+## Dom 15/02/2026 10.00
 
 <strong>SG AMSICORA - A.S.D. POLISPORTIVA JUVENILIA</strong>
 
@@ -95,18 +95,18 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 # Allievi - OUTDOOR  - Girone F / Giornata 4
 
-## Dom 22/02/2026 11.00
+## Dom 15/02/2026 11.15
 
-<strong>A.S.D. POLISPORTIVA JUVENILIA RIS. - SG AMSICORA</strong>
+<strong>SG AMSICORA - A.S.D. POLISPORTIVA JUVENILIA RIS.</strong>
 
 Gara: 1106
 
-Campo: Comunale Uras 
+Campo: AMSICORA 
 
-Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
+Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 
-Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
-Geo: Geo(latitude=39.6941171, longitude=8.7021294)
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 ## Dom 15/03/2026 11.00

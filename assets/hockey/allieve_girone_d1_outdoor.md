@@ -86,7 +86,7 @@ Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capital
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
-## -
+## Sab 28/02/2026 11.15
 
 <strong>UH CAPITOLINA - LAZIO HOCKEY</strong>
 
@@ -103,7 +103,7 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 # Allieve - OUTDOOR  - Girone D1 / Giornata 4
 
-## Sab 14/03/2026 17.30
+## Dom 15/03/2026 15.00
 
 <strong>BUTTERFLY ROMA - UH CAPITOLINA</strong>
 

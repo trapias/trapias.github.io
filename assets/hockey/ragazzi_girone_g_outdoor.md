@@ -84,7 +84,7 @@ Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, 
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
-## Mer 14/01/2026 18.00
+## Gio 29/01/2026 18.00
 
 <strong>CUS CAGLIARI - POLISPORTIVA FERRINI</strong>
 

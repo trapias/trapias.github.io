@@ -206,7 +206,7 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 # Juniores Femminile - OUTDOOR  - Girone B / Giornata 7
 
-## Sab 21/03/2026 13.30
+## Dom 01/03/2026 13.00
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - MILANO HP</strong>
 
@@ -237,7 +237,7 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 # Juniores Femminile - OUTDOOR  - Girone B / Giornata 8
 
-## Sab 11/04/2026 16.00
+## Sab 14/03/2026 15.30
 
 <strong>CUS PADOVA ASD - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
 

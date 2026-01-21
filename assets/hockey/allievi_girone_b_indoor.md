@@ -131,8 +131,6 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>ASD ADIGE UHC - POLISPORTIVA CAMELOT</strong>
 
-**Risultato: 1-1**
-
 Gara: 426
 
 Campo: Palestra Adriano Bonini 
@@ -163,8 +161,6 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>ASD ADIGE UHC - ASD HOCKEY CLUB BONDENO</strong>
 
-**Risultato: 1-18**
-
 Gara: 428
 
 Campo: Palestra Adriano Bonini 
@@ -194,8 +190,6 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Dom 04/01/2026 15.00
 
 <strong>ASD ADIGE UHC - HOCKEY CLUB RIVA</strong>
-
-**Risultato: 0-12**
 
 Gara: 430
 
