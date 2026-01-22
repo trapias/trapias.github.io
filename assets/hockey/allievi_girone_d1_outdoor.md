@@ -35,7 +35,7 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 # Allievi - OUTDOOR  - Girone D1 / Giornata 2
 
-## -
+## Dom 15/02/2026 11.00
 
 <strong>BUTTERFLY ROMA - HOCKEY CLUB ROMA</strong>
 

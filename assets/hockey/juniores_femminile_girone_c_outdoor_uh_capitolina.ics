@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 4\nGara 299\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - UH CAPITOLINA
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20260307T140000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 4 - H.POTENZA PICENA - UH CAPITOLINA
-UID:9345d547-1b68-406b-a440-37e9493ad6f4@9345.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 6\nGara 304\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - UH CAPITOLINA
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20260408T170000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 6 - LAZIO HOCKEY - UH CAPITOLINA
-UID:b209a17a-db98-44e0-a11a-e2463e4b5e65@b209.org
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 3\nGara 298\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - LAZIO HOCKEY\n\nRisultato: 1-0
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20251122T140000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 3 - UH CAPITOLINA - LAZIO HOCKEY
+UID:43d72ff3-c6ad-4a25-b696-4692b102796b@43d7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 2\nGara 296\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - BUTTERFLY ROMA\n\nRisultato: 2-5
@@ -23,7 +15,7 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20251114T180000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 2 - UH CAPITOLINA - BUTTERFLY ROMA
-UID:0cb14a46-c617-4672-adae-926596605474@0cb1.org
+UID:e64175d1-8d53-4321-bce8-3e1566b611b0@e641.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 1\nGara 293\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - H.POTENZA PICENA\n\nRisultato: 4-0
@@ -31,7 +23,23 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20251101T130000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 1 - UH CAPITOLINA - H.POTENZA PICENA
-UID:6aa57ab3-032d-49fd-aa48-91b877c3e384@6aa5.org
+UID:6c301aae-46a3-4691-89a7-dfccabe73f67@6c30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 6\nGara 304\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - UH CAPITOLINA
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20260408T170000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 6 - LAZIO HOCKEY - UH CAPITOLINA
+UID:b5634958-63b1-46c1-85d8-f3ab3adaccfd@b563.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 4\nGara 299\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - UH CAPITOLINA
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20260307T140000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 4 - H.POTENZA PICENA - UH CAPITOLINA
+UID:63ac5f9c-e5eb-4e2f-97e5-aeda9908e7f7@63ac.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 5\nGara 302\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - UH CAPITOLINA
@@ -39,14 +47,6 @@ GEO:41.932122;12.486847
 LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
 DTSTART:20260401T170000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 5 - BUTTERFLY ROMA - UH CAPITOLINA
-UID:253f54b2-8737-4d74-a2f0-31f32b07a5dd@253f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 3\nGara 298\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - LAZIO HOCKEY\n\nRisultato: 1-0
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20251122T140000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 3 - UH CAPITOLINA - LAZIO HOCKEY
-UID:84ac8c43-0eff-4cd2-9373-75fb75f2df0e@84ac.org
+UID:73344b19-7a52-4d6f-8fe8-4c4a521a3149@7334.org
 END:VEVENT
 END:VCALENDAR

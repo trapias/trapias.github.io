@@ -126,7 +126,7 @@ Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 7
 
-## Dom 15/03/2026 15.00
+## Dom 12/04/2026 15.00
 
 <strong>CSP SAN GIORGIO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
 
@@ -160,7 +160,7 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 9
 
-## Dom 10/05/2026 11.00
+## Dom 10/05/2026 13.00
 
 <strong>CUS PADOVA ASD - HC VILLAFRANCA</strong>
 

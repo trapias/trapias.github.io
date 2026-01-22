@@ -2,27 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 202\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nA.R.FINCANTIERI A.S.D. - HC GRANTORTO\n\nRisultato: 0-5
-GEO:45.801036;13.542335
-LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
-DTSTART:20251018T130000Z
-SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 4 - A.R.FINCANTIERI A.S.D. - HC GRANTORTO
-UID:658a5997-6af0-422b-b544-8761a80eaed0@658a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 196\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - A.R.FINCANTIERI A.S.D.\n\nRisultato: 10-1
 LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
 DTSTART:20250927T130000Z
 SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 2 - HC VILLAFRANCA - A.R.FINCANTIERI A.S.D.
-UID:08cdc917-c25e-4145-9577-421600f1755c@08cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 198\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nA.R.FINCANTIERI A.S.D. - HOCKEY CUSCUBE BRESCIA\n\nRisultato: 2-3
-GEO:45.801036;13.542335
-LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
-DTSTART:20251011T130000Z
-SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 3 - A.R.FINCANTIERI A.S.D. - HOCKEY CUSCUBE BRESCIA
-UID:76539628-b81f-4b1a-9742-69c6b5774ba3@7653.org
+UID:1024de1b-69ba-4ee7-b098-30407e71e781@1024.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 191\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - A.R.FINCANTIERI A.S.D.\n\nRisultato: 8-0
@@ -30,7 +14,23 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20250920T120000Z
 SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 1 - HOCKEY CLUB RIVA - A.R.FINCANTIERI A.S.D.
-UID:fbc8e07f-dab2-456f-a07a-6020acd53537@fbc8.org
+UID:2f2c634f-7c6b-473e-9d16-3e3f3b3612a0@2f2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 202\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nA.R.FINCANTIERI A.S.D. - HC GRANTORTO\n\nRisultato: 0-5
+GEO:45.801036;13.542335
+LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
+DTSTART:20251018T130000Z
+SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 4 - A.R.FINCANTIERI A.S.D. - HC GRANTORTO
+UID:418d0a4d-8873-4017-8ee4-203d0bd9382a@418d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 198\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nA.R.FINCANTIERI A.S.D. - HOCKEY CUSCUBE BRESCIA\n\nRisultato: 2-3
+GEO:45.801036;13.542335
+LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
+DTSTART:20251011T130000Z
+SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 3 - A.R.FINCANTIERI A.S.D. - HOCKEY CUSCUBE BRESCIA
+UID:54dfb0ec-2e45-4d69-8818-dcf1143a9958@54df.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 204\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nASD CERNUSCO FIELD HOCKEY - A.R.FINCANTIERI A.S.D.\n\nRisultato: 9-1
@@ -38,6 +38,6 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20251025T130000Z
 SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 5 - ASD CERNUSCO FIELD HOCKEY - A.R.FINCANTIERI A.S.D.
-UID:55a76a28-ba23-498e-851a-8338a0342f73@55a7.org
+UID:4819c343-a8e1-4201-b45c-c86d463be844@4819.org
 END:VEVENT
 END:VCALENDAR
