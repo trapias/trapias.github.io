@@ -103,3 +103,96 @@ Indirizzo Campo:  Via S.G.Bosco, 6 - Barcellona Pozzo di Gotto
 Location: Barcellona Pozzo di Gotto, Messina, Sicilia, 98051, Italia
 Geo: Geo(latitude=38.1483059, longitude=15.2175523)
 
+
+
+# Allievi - OUTDOOR  - Girone E / Giornata 4
+
+## -
+
+<strong>ASD SAN PIETRO CLARENZA - SSD UNIME ARL</strong>
+
+Gara: 1150
+
+Campo: DUSMET 
+
+Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+
+
+## -
+
+<strong>POL GALATEA - PGS DON BOSCO 2000 ASD</strong>
+
+Gara: 1151
+
+Campo: DUSMET 
+
+Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+
+
+
+# Allievi - OUTDOOR  - Girone E / Giornata 5
+
+## -
+
+<strong>SSD UNIME ARL - POL GALATEA</strong>
+
+Gara: 1152
+
+Campo: Cittadella Universitaria 
+
+Indirizzo Campo:  Viale Annunziata, snc - Messina
+
+Location: Viale Giovanni Palatucci, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.2255449, longitude=15.5532721)
+
+
+## -
+
+<strong>PGS DON BOSCO 2000 ASD - ASD SAN PIETRO CLARENZA</strong>
+
+Gara: 1153
+
+Campo: Oratorio Salesiano 
+
+Indirizzo Campo:  Via S.G.Bosco, 6 - Barcellona Pozzo di Gotto
+
+Location: Barcellona Pozzo di Gotto, Messina, Sicilia, 98051, Italia
+Geo: Geo(latitude=38.1483059, longitude=15.2175523)
+
+
+
+# Allievi - OUTDOOR  - Girone E / Giornata 6
+
+## -
+
+<strong>POL GALATEA - ASD SAN PIETRO CLARENZA</strong>
+
+Gara: 1154
+
+Campo: DUSMET 
+
+Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+
+
+## -
+
+<strong>SSD UNIME ARL - PGS DON BOSCO 2000 ASD</strong>
+
+Gara: 1155
+
+Campo: Cittadella Universitaria 
+
+Indirizzo Campo:  Viale Annunziata, snc - Messina
+
+Location: Viale Giovanni Palatucci, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
+Geo: Geo(latitude=38.2255449, longitude=15.5532721)
+

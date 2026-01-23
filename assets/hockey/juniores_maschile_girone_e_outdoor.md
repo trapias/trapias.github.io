@@ -55,3 +55,54 @@ Indirizzo Campo:  Via Seminara, 28 - Valverde
 Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
 Geo: Geo(latitude=37.5737465, longitude=15.121129)
 
+
+
+# Juniores Maschile - OUTDOOR  - Girone E / Giornata 4
+
+## -
+
+<strong>SSD UNIME ARL - VALVERDE HOCKETY 2018</strong>
+
+Gara: 1147
+
+Campo: DUSMET 
+
+Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+
+
+
+# Juniores Maschile - OUTDOOR  - Girone E / Giornata 5
+
+## -
+
+<strong>SSD UNIME ARL - POL GALATEA</strong>
+
+Gara: 1148
+
+Campo: DUSMET 
+
+Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+
+
+
+# Juniores Maschile - OUTDOOR  - Girone E / Giornata 6
+
+## -
+
+<strong>POL GALATEA - VALVERDE HOCKETY 2018</strong>
+
+Gara: 1149
+
+Campo: DUSMET 
+
+Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+
