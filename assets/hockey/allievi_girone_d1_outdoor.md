@@ -49,18 +49,18 @@ Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capital
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
-## Sab 07/02/2026 15.00
+## Sab 07/02/2026 11.00
 
-<strong>LAZIO HOCKEY - TEVERE EUR H</strong>
+<strong>TEVERE EUR H - LAZIO HOCKEY</strong>
 
 Gara: 545
 
-Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
+Campo: EUROMA STADIUM 
 
-Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 
 
@@ -142,18 +142,18 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Dom 12/04/2026 10.00
+## Dom 12/04/2026 11.00
 
-<strong>TEVERE EUR H - LAZIO HOCKEY</strong>
+<strong>LAZIO HOCKEY - TEVERE EUR H</strong>
 
 Gara: 551
 
-Campo: EUROMA STADIUM 
+Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
-Indirizzo Campo:  Via Bilbao, 12 - Roma
+Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
 
