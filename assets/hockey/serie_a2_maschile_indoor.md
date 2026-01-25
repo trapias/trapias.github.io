@@ -255,6 +255,8 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 <strong>S.G. AMSICORA ASD - HOCKEY CLUB ROMA</strong>
 
+**Risultato: 0-1**
+
 Gara: 76
 
 Campo: PALATORRINO ROMA 
@@ -268,6 +270,8 @@ Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 ## Sab 24/01/2026 15.30
 
 <strong>GENOVA H. 1980 - HCU RASSEMBLEMENT TORINO</strong>
+
+**Risultato: 1-5**
 
 Gara: 77
 
@@ -283,6 +287,8 @@ Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
 <strong>HC SAVONA - S.G. AMSICORA ASD</strong>
 
+**Risultato: 4-8**
+
 Gara: 78
 
 Campo: PALATORRINO ROMA 
@@ -297,6 +303,8 @@ Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
 <strong>HOCKEY CLUB ROMA - GENOVA H. 1980</strong>
 
+**Risultato: 3-4**
+
 Gara: 79
 
 Campo: PALATORRINO ROMA 
@@ -310,6 +318,8 @@ Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 ## Sab 24/01/2026 14.00
 
 <strong>HCU RASSEMBLEMENT TORINO - HC SAVONA</strong>
+
+**Risultato: 6-2**
 
 Gara: 80
 

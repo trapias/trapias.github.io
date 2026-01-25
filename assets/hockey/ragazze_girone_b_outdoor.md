@@ -152,7 +152,7 @@ Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bol
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
-## Sab 16/05/2026 16.00
+## Ven 08/05/2026 18.00
 
 <strong>CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO</strong>
 

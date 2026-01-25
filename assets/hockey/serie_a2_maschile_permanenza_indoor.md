@@ -4,7 +4,7 @@
 
 ## Dom 01/02/2026 15.00
 
-<strong>4 CLASSIFICATA - 5 CLASSIFICATA</strong>
+<strong>HOCKEY CLUB ROMA - HC SAVONA</strong>
 
 Gara: 132
 

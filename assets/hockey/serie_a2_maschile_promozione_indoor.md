@@ -4,7 +4,7 @@
 
 ## Dom 01/02/2026 12.00
 
-<strong>3 CLASSIFICATA - 1 CLASSIFICATA</strong>
+<strong>GENOVA H. 1980 - HCU RASSEMBLEMENT TORINO</strong>
 
 Gara: 127
 
@@ -21,7 +21,7 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 ## Dom 01/02/2026 14.00
 
-<strong>2 CLASSIFICATA - 3 CLASSIFICATA</strong>
+<strong>S.G. AMSICORA ASD - GENOVA H. 1980</strong>
 
 Gara: 128
 
@@ -38,7 +38,7 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 ## Dom 01/02/2026 16.00
 
-<strong>1 CLASSIFICATA - 2 CLASSIFICATA</strong>
+<strong>HCU RASSEMBLEMENT TORINO - S.G. AMSICORA ASD</strong>
 
 Gara: 129
 
