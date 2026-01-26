@@ -4,7 +4,7 @@
 
 ## Sab 31/01/2026 12.00
 
-<strong>3 CLASSIFICATA - 1 CLASSIFICATA</strong>
+<strong>LAZIO HOCKEY - HOCKEY CLUB RIVA</strong>
 
 Gara: 121
 
@@ -21,7 +21,7 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
 ## Sab 31/01/2026 14.00
 
-<strong>2 CLASSIFICATA - 3 CLASSIFICATA</strong>
+<strong>POLISPORTIVA UNIVERSITARIA MESSINA - LAZIO HOCKEY</strong>
 
 Gara: 122
 
@@ -38,7 +38,7 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
 ## Sab 31/01/2026 16.00
 
-<strong>1 CLASSIFICATA - 2 CLASSIFICATA</strong>
+<strong>HOCKEY CLUB RIVA - POLISPORTIVA UNIVERSITARIA MESSINA</strong>
 
 Gara: 123
 

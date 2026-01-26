@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 248\nPalazinola - Via Antonio Brilla\, snc Savona\nHF GENOVA 1980 - HC GENOVA\n\nRisultato: 3-3
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20251207T130000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - HF GENOVA 1980 - HC GENOVA
-UID:84a68d81-2a2b-46df-a147-48a419764cef@84a6.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 2\nGara 250\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - HC GENOVA\n\nRisultato: 9-2
 GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251220T123000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 2 - CUS PISA ASD - HC GENOVA
-UID:f6700bd8-1521-495f-9039-e2563f2ff6fa@f670.org
+UID:dcb81fc5-c622-4827-8d24-2895415a8fa5@dcb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 248\nPalazinola - Via Antonio Brilla\, snc Savona\nHF GENOVA 1980 - HC GENOVA\n\nRisultato: 3-3
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20251207T130000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - HF GENOVA 1980 - HC GENOVA
+UID:cfe3619b-8fcb-41e5-8eb1-2908a3a292be@cfe3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 255\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC GENOVA - HF GENOVA 1980\n\nRisultato: 2-2
@@ -23,15 +23,7 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260110T133000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - HC GENOVA - HF GENOVA 1980
-UID:b28152dd-837f-4d7b-a04d-cc9f611984ea@b281.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 256\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC GENOVA - CUS PISA ASD\n\nRisultato: 1-5
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260110T150000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - HC GENOVA - CUS PISA ASD
-UID:4255d165-5708-47c9-bdcb-543ca4f2b4e4@4255.org
+UID:8f673379-8788-4ccb-9066-4b7d964f87ed@8f67.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 247\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - HF GENOVA 1980\n\nRisultato: 4-2
@@ -39,7 +31,15 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20251207T110000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - CUS PISA ASD - HF GENOVA 1980
-UID:b5f2fcf8-3570-48c0-875f-08d4b5d3bc71@b5f2.org
+UID:ed7a6c01-85be-4bea-b936-860ad0bdf40a@ed7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 256\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC GENOVA - CUS PISA ASD\n\nRisultato: 1-5
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260110T150000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - HC GENOVA - CUS PISA ASD
+UID:7af1143a-c7c2-4475-9d8a-be52c960a1d0@7af1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 2\nGara 253\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHF GENOVA 1980 - CUS PISA ASD\n\nRisultato: 2-5
@@ -47,6 +47,6 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251220T160000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 2 - HF GENOVA 1980 - CUS PISA ASD
-UID:4ab380c2-9c15-4e81-9fe7-7d7851cebd26@4ab3.org
+UID:019cfa84-31d1-4998-b02e-287ac4138662@019c.org
 END:VEVENT
 END:VCALENDAR

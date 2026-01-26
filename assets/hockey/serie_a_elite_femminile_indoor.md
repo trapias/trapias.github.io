@@ -402,6 +402,8 @@ Geo: Geo(latitude=45.392067, longitude=11.8760409)
 
 <strong>CUS TORINO - ASD HF LORENZONI</strong>
 
+**Risultato: 2-1**
+
 Gara: 25
 
 Campo: PALAZZETTO DELL SPORT 
@@ -415,6 +417,8 @@ Geo: Geo(latitude=44.6990294, longitude=7.8420903)
 ## Dom 25/01/2026 12.00
 
 <strong>CUS PADOVA ASD - MILANO HP</strong>
+
+**Risultato: 3-3**
 
 Gara: 26
 
@@ -430,6 +434,8 @@ Geo: Geo(latitude=44.6990294, longitude=7.8420903)
 
 <strong>S.G. AMSICORA ASD - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 6-2**
+
 Gara: 27
 
 Campo: PALAZZETTO DELL SPORT 
@@ -443,6 +449,8 @@ Geo: Geo(latitude=44.6990294, longitude=7.8420903)
 ## Dom 25/01/2026 14.00
 
 <strong>ASD HF LORENZONI - CUS PADOVA ASD</strong>
+
+**Risultato: 4-2**
 
 Gara: 28
 
@@ -458,6 +466,8 @@ Geo: Geo(latitude=44.6990294, longitude=7.8420903)
 
 <strong>MILANO HP - S.G. AMSICORA ASD</strong>
 
+**Risultato: 3-3**
+
 Gara: 29
 
 Campo: PALAZZETTO DELL SPORT 
@@ -471,6 +481,8 @@ Geo: Geo(latitude=44.6990294, longitude=7.8420903)
 ## Dom 25/01/2026 16.00
 
 <strong>HOCKEY CLUB RIVA - CUS TORINO</strong>
+
+**Risultato: 1-2**
 
 Gara: 30
 

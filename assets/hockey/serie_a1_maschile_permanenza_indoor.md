@@ -4,7 +4,7 @@
 
 ## Sab 31/01/2026 11.00
 
-<strong>6 CLASSIFICATA - 4 CLASSIFICATA</strong>
+<strong>CSP SAN GIORGIO - USD MONCALVESE HOCKEY</strong>
 
 Gara: 124
 
@@ -21,7 +21,7 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
 ## Sab 31/01/2026 13.00
 
-<strong>5 CLASSIFICATA - 6 CLASSIFICATA</strong>
+<strong>A.S.D. S.H. PAOLO BONOMI - CSP SAN GIORGIO</strong>
 
 Gara: 125
 
@@ -38,7 +38,7 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
 ## Sab 31/01/2026 15.00
 
-<strong>4 CLASSIFICATA - 5 CLASSIFICATA</strong>
+<strong>USD MONCALVESE HOCKEY - A.S.D. S.H. PAOLO BONOMI</strong>
 
 Gara: 126
 

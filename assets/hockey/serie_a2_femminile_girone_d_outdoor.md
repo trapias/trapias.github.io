@@ -74,6 +74,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>CUS CAGLIARI - POLISPORTIVA FERRINI B</strong>
 
+**Risultato: 2-4**
+
 Gara: 1115
 
 Campo: A. Maxia 

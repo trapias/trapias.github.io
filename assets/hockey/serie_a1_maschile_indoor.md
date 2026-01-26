@@ -402,6 +402,8 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 <strong>POLISPORTIVA UNIVERSITARIA MESSINA - CSP SAN GIORGIO</strong>
 
+**Risultato: 6-5**
+
 Gara: 55
 
 Campo: POLO SCOLASTICO DI CLES 
@@ -415,6 +417,8 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 ## Dom 25/01/2026 12.00
 
 <strong>A.S.D. S.H. PAOLO BONOMI - LAZIO HOCKEY</strong>
+
+**Risultato: 3-3**
 
 Gara: 56
 
@@ -430,6 +434,8 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 <strong>USD MONCALVESE HOCKEY - POLISPORTIVA UNIVERSITARIA MESSINA</strong>
 
+**Risultato: 2-3**
+
 Gara: 57
 
 Campo: POLO SCOLASTICO DI CLES 
@@ -443,6 +449,8 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 ## Dom 25/01/2026 14.00
 
 <strong>LAZIO HOCKEY - HOCKEY CLUB RIVA</strong>
+
+**Risultato: 5-5**
 
 Gara: 58
 
@@ -458,6 +466,8 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 <strong>CSP SAN GIORGIO - A.S.D. S.H. PAOLO BONOMI</strong>
 
+**Risultato: 7-4**
+
 Gara: 59
 
 Campo: POLO SCOLASTICO DI CLES 
@@ -471,6 +481,8 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 ## Dom 25/01/2026 16.00
 
 <strong>HOCKEY CLUB RIVA - USD MONCALVESE HOCKEY</strong>
+
+**Risultato: 6-2**
 
 Gara: 60
 
