@@ -136,8 +136,40 @@ Back to blog
 <span class="line"><span style="color:#E1E4E8">  }</span></span>
 <span class="line"><span style="color:#E1E4E8">}</span></span></code></pre>
 <p>Qdrant data persists in a Docker volume - your memories survive container restarts.</p>
+<h2 id="update--january-27-2026">Update — January 27, 2026</h2>
+<p>Since the initial release, Memoria has gained two significant features:</p>
+<h3 id="content-chunking">Content Chunking</h3>
+<p>Long memories are now automatically split into overlapping chunks, each with its own embedding. This dramatically improves semantic search quality for large content — instead of a single embedding trying to represent an entire document, each chunk captures a focused semantic region.</p>
+<p>The process is fully transparent: when you store a long memory, Memoria splits it behind the scenes; when you recall or search, results are deduplicated by logical memory, so you always see complete content, never raw chunks. All operations — update, delete, consolidation, export/import — are chunk-aware.</p>
+<p>Two new configuration options control this behavior:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Variable</th><th>Default</th><th>Description</th></tr></thead><tbody><tr><td><code>MEMORIA_CHUNK_SIZE</code></td><td><code>500</code></td><td>Max characters per chunk</td></tr><tr><td><code>MEMORIA_CHUNK_OVERLAP</code></td><td><code>50</code></td><td>Overlap between consecutive chunks</td></tr></tbody></table>
+<h3 id="full-text-match-filtering">Full-Text Match Filtering</h3>
+<p>The <code>memoria_recall</code> and <code>memoria_search</code> tools now accept an optional <code>text_match</code> parameter. While semantic search finds memories by meaning, <code>text_match</code> adds an exact keyword filter — useful when you need a specific term to appear in the content. The two can be combined: semantic similarity narrows by meaning, <code>text_match</code> ensures the keyword is present.</p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0" data-language="plaintext"><code><span class="line"><span># Semantic search + keyword filter</span></span>
+<span class="line"><span>Recall memories about deployment that mention "staging"</span></span></code></pre>
+<p>Both features are available in the latest version on <a href="https://github.com/trapias/memoria">GitHub</a>.</p>
 <h2 id="feedback">Feedback</h2>
-<p>This is the first public release. Your feedback is invaluable! Please open an issue on <a href="https://github.com/trapias/memoria/issues">GitHub</a> for bugs, feature requests, or suggestions.</p>
+<p>This is an open-source project and your feedback is invaluable! Please open an issue on <a href="https://github.com/trapias/memoria/issues">GitHub</a> for bugs, feature requests, or suggestions.</p>
 <h2 id="license">License</h2>
 <p>MCP Memoria is released under the Apache 2.0 license.</p>  </div> <!-- Comments --> <div id="disqus_thread" class="mt-12 pt-8 border-t border-[--color-border]"></div> <script>(function(){const pageUrl = "https://www.trapias.it/blog/2026/01/12/MCP-Memoria/";
 const pageIdentifier = "/blog/2026/01/12/MCP-Memoria/";
