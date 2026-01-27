@@ -47,7 +47,7 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 # Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2
 
-## Sab 21/03/2026 15.00
+## Sab 21/03/2026 16.00
 
 <strong>HC VILLAFRANCA - POL GALATEA</strong>
 

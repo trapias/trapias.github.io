@@ -86,7 +86,7 @@ Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 
-## Dom 08/03/2026 11.30
+## Dom 29/03/2026 11.30
 
 <strong>AZ HOCKEY TEAM - ASD HOCKEY CAMPAGNANO</strong>
 
@@ -150,7 +150,7 @@ Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capital
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
-## Dom 19/04/2026 11.30
+## Dom 17/05/2026 11.30
 
 <strong>AZ HOCKEY TEAM - LAZIO HOCKEY B</strong>
 
@@ -167,7 +167,7 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 6
 
-## Dom 26/04/2026 10.00
+## Dom 22/02/2026 11.00
 
 <strong>LAZIO HOCKEY B - ASD HOCKEY CAMPAGNANO</strong>
 
@@ -274,7 +274,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Dom 31/05/2026 11.30
+## Dom 10/05/2026 11.30
 
 <strong>AZ HOCKEY TEAM - HOCKEY CLUB EUR</strong>
 

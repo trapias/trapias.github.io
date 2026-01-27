@@ -2,7 +2,7 @@
 
 # Serie A2 Maschile - Indoor  - PERMANENZA / Giornata 3
 
-## Dom 01/02/2026 15.00
+## Dom 01/02/2026 14.30
 
 <strong>HOCKEY CLUB ROMA - HC SAVONA</strong>
 

@@ -2,7 +2,7 @@
 
 # Serie A2 Maschile - Indoor  - PROMOZIONE / Giornata 1
 
-## Dom 01/02/2026 12.00
+## Dom 01/02/2026 11.30
 
 <strong>GENOVA H. 1980 - HCU RASSEMBLEMENT TORINO</strong>
 
@@ -19,7 +19,7 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 # Serie A2 Maschile - Indoor  - PROMOZIONE / Giornata 2
 
-## Dom 01/02/2026 14.00
+## Dom 01/02/2026 13.30
 
 <strong>S.G. AMSICORA ASD - GENOVA H. 1980</strong>
 
@@ -36,7 +36,7 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 # Serie A2 Maschile - Indoor  - PROMOZIONE / Giornata 3
 
-## Dom 01/02/2026 16.00
+## Dom 01/02/2026 15.30
 
 <strong>HCU RASSEMBLEMENT TORINO - S.G. AMSICORA ASD</strong>
 
