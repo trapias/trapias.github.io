@@ -53,3 +53,54 @@ Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
+
+
+# Juniores Femminile - OUTDOOR  - Girone D / Giornata 4
+
+## Sab 31/01/2026 15.30
+
+<strong>POL GALATEA - SG AMSICORA</strong>
+
+Gara: 1156
+
+Campo: DUSMET 
+
+Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+
+
+
+# Juniores Femminile - OUTDOOR  - Girone D / Giornata 5
+
+## Sab 21/02/2026 15.30
+
+<strong>POL GALATEA - CUS CAGLIARI</strong>
+
+Gara: 1157
+
+Campo: DUSMET 
+
+Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+
+
+
+# Juniores Femminile - OUTDOOR  - Girone D / Giornata 6
+
+## -
+
+<strong>SG AMSICORA - CUS CAGLIARI</strong>
+
+Gara: 1158
+
+Campo: AMSICORA 
+
+Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
+
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+

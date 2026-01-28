@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 7\nGara 596\nBAGLIANO - STRADA PROVINCIALE 72\, 25 MOGLIANO\nASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM
-GEO:43.172615;13.487342
-LOCATION:Strada Provinciale 72 Mogliano - Fiume\, Piani d'Ete\, Mogliano\, Macerata\, Marche\, 63834\, Italia
-DTSTART:20260329T120000Z
-SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 7 - ASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM
-UID:c5718f3b-f756-490e-9c71-d2461f01f0ff@c571.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 2\nGara 586\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - ASD HOCKEY CLUB MOGLIANO\n\nRisultato: 1-4
 GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20251102T130000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 2 - AZ HOCKEY TEAM - ASD HOCKEY CLUB MOGLIANO
-UID:6e559f80-74d3-4d10-bb40-17e34b06a208@6e55.org
+UID:b3c9bf02-26ef-4a62-8e04-d0d0a85c8c21@b3c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 7\nGara 596\nBAGLIANO - STRADA PROVINCIALE 72\, 25 MOGLIANO\nASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM
+GEO:43.172615;13.487342
+LOCATION:Strada Provinciale 72 Mogliano - Fiume\, Piani d'Ete\, Mogliano\, Macerata\, Marche\, 63834\, Italia
+DTSTART:20260329T120000Z
+SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 7 - ASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM
+UID:0592f130-6c7a-45d0-a8d2-baa3dbdc5762@0592.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 1\nGara 589\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - AZ HOCKEY TEAM\n\nRisultato: 2-13
@@ -23,31 +23,7 @@ GEO:43.386400;13.654670
 LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
 DTSTART:20251019T090000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 1 - H.POTENZA PICENA - AZ HOCKEY TEAM
-UID:53795395-da0f-4a3b-adb6-b9f469be8ab9@5379.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 4\nGara 592\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHOCKEY CLUB OLIMPIA - AZ HOCKEY TEAM\n\nRisultato: 9-7
-GEO:40.465627;17.735612
-LOCATION:Torre Santa Susanna\, Brindisi\, Puglia\, 72028\, Italia
-DTSTART:20251116T140000Z
-SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 4 - HOCKEY CLUB OLIMPIA - AZ HOCKEY TEAM
-UID:3112a558-94da-46a0-84bc-3da3295f2a09@3112.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 6\nGara 599\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - H.POTENZA PICENA
-GEO:42.043231;13.437583
-LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
-DTSTART:20260315T130000Z
-SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 6 - AZ HOCKEY TEAM - H.POTENZA PICENA
-UID:6b203f63-18b4-4bb5-a652-ed3b8ba8de43@6b20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 9\nGara 602\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - HOCKEY CLUB OLIMPIA\n\nRisultato: 1-6
-GEO:42.043231;13.437583
-LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
-DTSTART:20251109T153000Z
-SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 9 - AZ HOCKEY TEAM - HOCKEY CLUB OLIMPIA
-UID:c5b6e416-f5b3-4179-85d3-5eaf4b8a104f@c5b6.org
+UID:2c02119f-91fa-45ff-9c28-9e5a97b5f777@2c02.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 10\nGara 604\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nASD HOCKEY AVEZZANO 1969 - AZ HOCKEY TEAM
@@ -55,7 +31,31 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20260503T090000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 10 - ASD HOCKEY AVEZZANO 1969 - AZ HOCKEY TEAM
-UID:2536d877-bf2f-4423-92b2-11a2cb26b253@2536.org
+UID:8dac130f-ed44-4152-a116-9bca31f8c251@8dac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 9\nGara 602\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - HOCKEY CLUB OLIMPIA\n\nRisultato: 1-6
+GEO:42.043231;13.437583
+LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
+DTSTART:20251109T153000Z
+SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 9 - AZ HOCKEY TEAM - HOCKEY CLUB OLIMPIA
+UID:f40904a1-356e-40f2-a68e-3116fb3a963c@f409.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 6\nGara 599\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - H.POTENZA PICENA
+GEO:42.043231;13.437583
+LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
+DTSTART:20260315T130000Z
+SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 6 - AZ HOCKEY TEAM - H.POTENZA PICENA
+UID:c51c6a56-5d95-4286-a034-75ef21762d04@c51c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 4\nGara 592\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHOCKEY CLUB OLIMPIA - AZ HOCKEY TEAM\n\nRisultato: 9-7
+GEO:40.465627;17.735612
+LOCATION:Torre Santa Susanna\, Brindisi\, Puglia\, 72028\, Italia
+DTSTART:20251116T140000Z
+SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 4 - HOCKEY CLUB OLIMPIA - AZ HOCKEY TEAM
+UID:60fa00b6-bc8a-4963-917a-964708bd26af@60fa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 5\nGara 594\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - ASD HOCKEY AVEZZANO 1969
@@ -63,6 +63,6 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20260301T100000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 5 - AZ HOCKEY TEAM - ASD HOCKEY AVEZZANO 1969
-UID:0a10be77-08d3-4f69-99d5-0fb37bbb0112@0a10.org
+UID:ff7d279c-fdb1-49a5-af8a-748a220d27b9@ff7d.org
 END:VEVENT
 END:VCALENDAR
