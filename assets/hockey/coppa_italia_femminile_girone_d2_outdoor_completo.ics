@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Femminile  - Girone D2 / Giornata 6\nGara 239\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - UH CAPITOLINA\n\nRisultato: 1-0
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20251019T130000Z
-SUMMARY:Coppa Italia Femminile  - Girone D2 / Giornata 6 - LAZIO HOCKEY - UH CAPITOLINA
-UID:6e639d91-1999-477f-b074-95c28b8954e3@6e63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Femminile  - Girone D2 / Giornata 5\nGara 238\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - LAZIO HOCKEY\n\nRisultato: 3-1
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20251012T130000Z
-SUMMARY:Coppa Italia Femminile  - Girone D2 / Giornata 5 - H.POTENZA PICENA - LAZIO HOCKEY
-UID:efbbce98-7e12-48ca-a1bc-29db03e84c33@efbb.org
+DESCRIPTION:Coppa Italia Femminile  - Girone D2 / Giornata 3\nGara 236\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - LAZIO HOCKEY\n\nRisultato: 0-5
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20251003T170000Z
+SUMMARY:Coppa Italia Femminile  - Girone D2 / Giornata 3 - UH CAPITOLINA - LAZIO HOCKEY
+UID:313b486f-f7ac-4d22-82e2-3b76697977ef@313b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Femminile  - Girone D2 / Giornata 1\nGara 234\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - UH CAPITOLINA\n\nRisultato: 3-1
@@ -23,7 +15,7 @@ GEO:43.386400;13.654670
 LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
 DTSTART:20250927T150000Z
 SUMMARY:Coppa Italia Femminile  - Girone D2 / Giornata 1 - H.POTENZA PICENA - UH CAPITOLINA
-UID:a7a0ae6b-542f-4fac-92bb-3d7352587f77@a7a0.org
+UID:cc82234e-169d-4d9d-b91b-03d2037864a1@cc82.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Femminile  - Girone D2 / Giornata 4\nGara 237\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - H.POTENZA PICENA\n\nRisultato: 2-1
@@ -31,7 +23,23 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20251005T130000Z
 SUMMARY:Coppa Italia Femminile  - Girone D2 / Giornata 4 - UH CAPITOLINA - H.POTENZA PICENA
-UID:7f95e354-f647-4497-ba04-4a7e9c6a8603@7f95.org
+UID:2e6b5632-ddac-4a67-b6c3-ec2182885e42@2e6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Femminile  - Girone D2 / Giornata 6\nGara 239\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - UH CAPITOLINA\n\nRisultato: 1-0
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20251019T130000Z
+SUMMARY:Coppa Italia Femminile  - Girone D2 / Giornata 6 - LAZIO HOCKEY - UH CAPITOLINA
+UID:52fffa26-25bd-4f51-90e8-6809e4950551@52ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Femminile  - Girone D2 / Giornata 5\nGara 238\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - LAZIO HOCKEY\n\nRisultato: 3-1
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20251012T130000Z
+SUMMARY:Coppa Italia Femminile  - Girone D2 / Giornata 5 - H.POTENZA PICENA - LAZIO HOCKEY
+UID:a6eb0be7-c91b-4112-ac27-3440f5e1cb38@a6eb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Femminile  - Girone D2 / Giornata 2\nGara 235\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - H.POTENZA PICENA\n\nRisultato: 2-0
@@ -39,14 +47,6 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20250921T130000Z
 SUMMARY:Coppa Italia Femminile  - Girone D2 / Giornata 2 - LAZIO HOCKEY - H.POTENZA PICENA
-UID:78b4a2eb-a25a-4197-8540-db0d5cc42295@78b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Femminile  - Girone D2 / Giornata 3\nGara 236\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - LAZIO HOCKEY\n\nRisultato: 0-5
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20251003T170000Z
-SUMMARY:Coppa Italia Femminile  - Girone D2 / Giornata 3 - UH CAPITOLINA - LAZIO HOCKEY
-UID:8aafa315-c0a5-47a1-9c57-ca29f150447f@8aaf.org
+UID:95a907a4-950b-41aa-b93e-a710c17cbb0e@95a9.org
 END:VEVENT
 END:VCALENDAR
