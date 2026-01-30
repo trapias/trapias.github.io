@@ -90,6 +90,8 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 <strong>CUS CAGLIARI - POLISPORTIVA FERRINI</strong>
 
+**Risultato: 5-0**
+
 Gara: 1089
 
 Campo: A. Maxia 

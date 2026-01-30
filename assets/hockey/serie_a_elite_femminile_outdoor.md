@@ -443,7 +443,7 @@ Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Pie
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 
-## Dom 10/05/2026 15.00
+## Dom 10/05/2026 14.00
 
 <strong>CUS TORINO - UH CAPITOLINA</strong>
 
@@ -488,7 +488,7 @@ Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
-## Dom 17/05/2026 15.00
+## Dom 17/05/2026 14.00
 
 <strong>MILANO HP - UH CAPITOLINA</strong>
 
