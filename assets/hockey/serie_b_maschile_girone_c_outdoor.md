@@ -167,7 +167,7 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 6
 
-## Dom 22/02/2026 11.00
+## Dom 22/02/2026 11.30
 
 <strong>LAZIO HOCKEY B - ASD HOCKEY CAMPAGNANO</strong>
 
