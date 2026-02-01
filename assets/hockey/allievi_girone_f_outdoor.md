@@ -2,7 +2,7 @@
 
 # Allievi - OUTDOOR  - Girone F / Giornata 1
 
-## Dom 01/02/2026 10.00
+## Dom 01/02/2026 16.00
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA RIS. - POLISPORTIVA FERRINI</strong>
 

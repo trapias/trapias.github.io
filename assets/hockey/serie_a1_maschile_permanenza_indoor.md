@@ -6,6 +6,8 @@
 
 <strong>CSP SAN GIORGIO - USD MONCALVESE HOCKEY</strong>
 
+**Risultato: 9-8**
+
 Gara: 124
 
 Campo: palestra tresto di ospedaletto euganeo 
@@ -23,6 +25,8 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - CSP SAN GIORGIO</strong>
 
+**Risultato: 2-6**
+
 Gara: 125
 
 Campo: palestra tresto di ospedaletto euganeo 
@@ -39,6 +43,8 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 ## Sab 31/01/2026 15.00
 
 <strong>USD MONCALVESE HOCKEY - A.S.D. S.H. PAOLO BONOMI</strong>
+
+**Risultato: 5-4**
 
 Gara: 126
 

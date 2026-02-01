@@ -57,7 +57,7 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 # Juniores Femminile - OUTDOOR  - Girone D / Giornata 4
 
-## Sab 31/01/2026 15.30
+## Dom 01/02/2026 09.30
 
 <strong>POL GALATEA - SG AMSICORA</strong>
 

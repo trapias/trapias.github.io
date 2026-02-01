@@ -6,6 +6,8 @@
 
 <strong>POLISPORTIVA UNIVERSITARIA MESSINA - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 3-5**
+
 Gara: 121
 
 Campo: palestra tresto di ospedaletto euganeo 
@@ -23,6 +25,8 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
 <strong>POLISPORTIVA UNIVERSITARIA MESSINA - LAZIO HOCKEY</strong>
 
+**Risultato: 4-8**
+
 Gara: 122
 
 Campo: palestra tresto di ospedaletto euganeo 
@@ -39,6 +43,8 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 ## Sab 31/01/2026 16.00
 
 <strong>HOCKEY CLUB RIVA - LAZIO HOCKEY</strong>
+
+**Risultato: 6-4**
 
 Gara: 123
 

@@ -18,7 +18,7 @@ Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 
-## Dom 01/03/2026 15.00
+## Mer 13/05/2026 18.30
 
 <strong>LAZIO HOCKEY - BUTTERFLY ROMA</strong>
 
@@ -119,7 +119,7 @@ Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
-## Sab 07/03/2026 15.00
+## Mer 25/03/2026 18.30
 
 <strong>BUTTERFLY ROMA - LAZIO HOCKEY</strong>
 
@@ -136,7 +136,7 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 # Juniores Femminile - OUTDOOR  - Girone C / Giornata 5
 
-## Sab 11/04/2026 15.00
+## Sab 02/05/2026 13.00
 
 <strong>H.POTENZA PICENA - LAZIO HOCKEY</strong>
 

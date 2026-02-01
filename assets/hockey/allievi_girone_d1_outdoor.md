@@ -6,6 +6,8 @@
 
 <strong>HOCKEY CLUB ROMA - LAZIO HOCKEY</strong>
 
+**Risultato: 1-3**
+
 Gara: 542
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

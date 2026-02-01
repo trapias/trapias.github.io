@@ -2,27 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 202\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nA.R.FINCANTIERI A.S.D. - HC GRANTORTO\n\nRisultato: 0-5
-GEO:45.801036;13.542335
-LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
-DTSTART:20251018T130000Z
-SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 4 - A.R.FINCANTIERI A.S.D. - HC GRANTORTO
-UID:f6c7fe34-8753-4259-b582-cca6bf1923d9@f6c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 191\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - A.R.FINCANTIERI A.S.D.\n\nRisultato: 8-0
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20250920T120000Z
-SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 1 - HOCKEY CLUB RIVA - A.R.FINCANTIERI A.S.D.
-UID:f13f0ff2-8578-4ad4-87ab-9c76aa76c13f@f13f.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 196\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - A.R.FINCANTIERI A.S.D.\n\nRisultato: 10-1
 LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
 DTSTART:20250927T130000Z
 SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 2 - HC VILLAFRANCA - A.R.FINCANTIERI A.S.D.
-UID:f782766f-e6f1-4a61-b046-8578e540406f@f782.org
+UID:e40e95ac-fd7d-48b2-a595-10f462889b80@e40e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 198\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nA.R.FINCANTIERI A.S.D. - HOCKEY CUSCUBE BRESCIA\n\nRisultato: 2-3
@@ -30,7 +14,23 @@ GEO:45.801036;13.542335
 LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
 DTSTART:20251011T130000Z
 SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 3 - A.R.FINCANTIERI A.S.D. - HOCKEY CUSCUBE BRESCIA
-UID:c8e9a452-63ca-4606-a8e6-3b0fba8dfa63@c8e9.org
+UID:344170c8-b918-4b21-8ef0-fd519c8304c2@3441.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 202\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nA.R.FINCANTIERI A.S.D. - HC GRANTORTO\n\nRisultato: 0-5
+GEO:45.801036;13.542335
+LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
+DTSTART:20251018T130000Z
+SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 4 - A.R.FINCANTIERI A.S.D. - HC GRANTORTO
+UID:3af7d33a-21b1-48c2-aa54-7e7fae1073d5@3af7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 191\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - A.R.FINCANTIERI A.S.D.\n\nRisultato: 8-0
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20250920T120000Z
+SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 1 - HOCKEY CLUB RIVA - A.R.FINCANTIERI A.S.D.
+UID:82d1f29e-4ed3-40af-9557-61810214e04d@82d1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 204\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nASD CERNUSCO FIELD HOCKEY - A.R.FINCANTIERI A.S.D.\n\nRisultato: 9-1
@@ -38,6 +38,6 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20251025T130000Z
 SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 5 - ASD CERNUSCO FIELD HOCKEY - A.R.FINCANTIERI A.S.D.
-UID:b4cc0a86-7d73-41f5-bfd5-b251cad96434@b4cc.org
+UID:b296c227-9fcd-470f-a1d1-f9b00e43611f@b296.org
 END:VEVENT
 END:VCALENDAR
