@@ -105,6 +105,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>ASD ADIGE UHC - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 4-1**
+
 Gara: 339
 
 Campo: Comunale Mori 
@@ -118,6 +120,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 ## Dom 01/02/2026 11.00
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
+
+**Risultato: 5-2**
 
 Gara: 340
 
@@ -133,6 +137,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HOCKEY CLUB RIVA - CUS PADOVA ASD</strong>
 
+**Risultato: 1-4**
+
 Gara: 341
 
 Campo: Comunale Mori 
@@ -146,6 +152,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 ## Dom 01/02/2026 13.30
 
 <strong>ASD ADIGE UHC - ASD HOCKEY CLUB BONDENO</strong>
+
+**Risultato: 1-4**
 
 Gara: 342
 
@@ -161,6 +169,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>ASD ADIGE UHC - CUS PADOVA ASD</strong>
 
+**Risultato: 2-5**
+
 Gara: 343
 
 Campo: Comunale Mori 
@@ -174,6 +184,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 ## Dom 01/02/2026 16.00
 
 <strong>HOCKEY CLUB RIVA - ASD HOCKEY CLUB BONDENO</strong>
+
+**Risultato: 4-8**
 
 Gara: 344
 

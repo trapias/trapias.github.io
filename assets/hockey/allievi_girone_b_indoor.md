@@ -208,6 +208,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>CSP SAN GIORGIO - POLISPORTIVA CAMELOT</strong>
 
+**Risultato: 7-0**
+
 Gara: 431
 
 Campo: palestra tresto di ospedaletto euganeo 
@@ -221,6 +223,8 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 ## Dom 01/02/2026 11.00
 
 <strong>ASD HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA</strong>
+
+**Risultato: 7-1**
 
 Gara: 432
 
@@ -250,6 +254,8 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
 <strong>HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT</strong>
 
+**Risultato: 5-2**
+
 Gara: 434
 
 Campo: palestra tresto di ospedaletto euganeo 
@@ -263,6 +269,8 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 ## Dom 01/02/2026 14.00
 
 <strong>CSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO</strong>
+
+**Risultato: 1-6**
 
 Gara: 435
 
@@ -291,6 +299,8 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 ## Dom 01/02/2026 16.00
 
 <strong>POLISPORTIVA CAMELOT - ASD HOCKEY CLUB BONDENO</strong>
+
+**Risultato: 1-6**
 
 Gara: 437
 

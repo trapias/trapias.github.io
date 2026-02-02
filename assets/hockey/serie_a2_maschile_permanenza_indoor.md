@@ -6,6 +6,8 @@
 
 <strong>HOCKEY CLUB ROMA - HC SAVONA</strong>
 
+**Risultato: 10-9**
+
 Gara: 132
 
 Campo: PALESTRA TORRAZZA 

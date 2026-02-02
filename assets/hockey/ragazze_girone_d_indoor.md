@@ -89,6 +89,8 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 <strong>BUTTERFLY ROMA HCC - LAZIO HOCKEY</strong>
 
+**Risultato: 0-2**
+
 Gara: 208
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
@@ -102,6 +104,8 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 ## Dom 01/02/2026 11.40
 
 <strong>HOCKEY POTENZA PICENA - ASD AQUILA</strong>
+
+**Risultato: 8-0**
 
 Gara: 209
 
@@ -117,6 +121,8 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 <strong>LAZIO HOCKEY - AZ HOCKEY TEAM</strong>
 
+**Risultato: 6-1**
+
 Gara: 210
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
@@ -131,6 +137,8 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 
 <strong>ASD AQUILA - BUTTERFLY ROMA HCC</strong>
 
+**Risultato: 1-12**
+
 Gara: 211
 
 Campo: PALESTRA ISTITUTO COMPRENSIVO VIVENZA 
@@ -144,6 +152,8 @@ Geo: Geo(latitude=42.0431814, longitude=13.4297776)
 ## Dom 01/02/2026 15.10
 
 <strong>AZ HOCKEY TEAM - HOCKEY POTENZA PICENA</strong>
+
+**Risultato: 0-5**
 
 Gara: 212
 

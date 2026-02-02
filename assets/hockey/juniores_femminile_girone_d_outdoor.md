@@ -61,6 +61,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>POL GALATEA - SG AMSICORA</strong>
 
+**Risultato: 1-2**
+
 Gara: 1156
 
 Campo: DUSMET 

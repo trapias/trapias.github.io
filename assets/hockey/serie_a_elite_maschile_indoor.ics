@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 3\nGara 109\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nHP VALCHISONE - ASD HOCKEY CLUB BONDENO\n\nRisultato: 2-7
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251220T100000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 3 - HP VALCHISONE - ASD HOCKEY CLUB BONDENO
+UID:edcf2aad-fa78-4803-832f-43b218520208@edcf.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 2\nGara 104\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHP VALCHISONE - HC BRA\n\nRisultato: 4-8
 GEO:41.776492;12.546693
 LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
 DTSTART:20251214T110000Z
 SUMMARY:Serie A Elite Maschile - Indoor / Giornata 2 - HP VALCHISONE - HC BRA
-UID:ea8c8c39-9e3f-4caa-aa6e-ee6ef3b5d2a3@ea8c.org
+UID:55affb87-900d-49fa-acad-42766fe1c9d2@55af.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 4\nGara 120\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHP VALCHISONE - BUTTERFLY ROMA HCC\n\nRisultato: 4-4
@@ -15,39 +23,7 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260117T150000Z
 SUMMARY:Serie A Elite Maschile - Indoor / Giornata 4 - HP VALCHISONE - BUTTERFLY ROMA HCC
-UID:10eed99f-7bbb-402c-bfef-d44951bfd1c5@10ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 4\nGara 117\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC BRA - HP VALCHISONE\n\nRisultato: 3-2
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260117T120000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 4 - HC BRA - HP VALCHISONE
-UID:36c31b2d-4632-4a03-86e0-379d96800ace@36c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 5\nGara 92\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nHP VALCHISONE - CUS PADOVA ASD\n\nRisultato: 6-5
-GEO:44.699029;7.842090
-LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260124T110000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 5 - HP VALCHISONE - CUS PADOVA ASD
-UID:a1e70d94-0ad5-4def-841f-41600d0e6c94@a1e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 5\nGara 96\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nASD HOCKEY CLUB BONDENO - HP VALCHISONE\n\nRisultato: 4-4
-GEO:44.699029;7.842090
-LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260124T150000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 5 - ASD HOCKEY CLUB BONDENO - HP VALCHISONE
-UID:a7bff338-cc67-4303-b844-d15bb347b2bb@a7bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 3\nGara 109\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nHP VALCHISONE - ASD HOCKEY CLUB BONDENO\n\nRisultato: 2-7
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251220T100000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 3 - HP VALCHISONE - ASD HOCKEY CLUB BONDENO
-UID:6bf38d28-dcb8-46a2-a969-c7909c5581a1@6bf3.org
+UID:b22d17a7-f4ed-4f81-9bc3-8ae2a4498835@b22d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 2\nGara 107\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nCUS PADOVA ASD - HP VALCHISONE\n\nRisultato: 2-2
@@ -55,15 +31,15 @@ GEO:41.776492;12.546693
 LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
 DTSTART:20251214T140000Z
 SUMMARY:Serie A Elite Maschile - Indoor / Giornata 2 - CUS PADOVA ASD - HP VALCHISONE
-UID:18aba0a5-039d-4e03-85bc-ecf7b900e883@18ab.org
+UID:46139ca0-bebe-4ed0-bc9e-08464a29b46b@4613.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 1\nGara 97\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHP VALCHISONE - CUS PISA ASD\n\nRisultato: 3-3
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20251129T100000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 1 - HP VALCHISONE - CUS PISA ASD
-UID:9f67aa3b-9884-4857-b7a0-4870a148f808@9f67.org
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 4\nGara 117\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC BRA - HP VALCHISONE\n\nRisultato: 3-2
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260117T120000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 4 - HC BRA - HP VALCHISONE
+UID:c06920c0-4477-4442-91b6-9e75ba0a3723@c069.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 3\nGara 112\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nCUS PISA ASD - HP VALCHISONE\n\nRisultato: 5-6
@@ -71,7 +47,15 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20251220T130000Z
 SUMMARY:Serie A Elite Maschile - Indoor / Giornata 3 - CUS PISA ASD - HP VALCHISONE
-UID:9efb7297-9804-4a9c-8752-c9d5fbf0f4e9@9efb.org
+UID:09ec0523-3725-49a5-a292-17c461482486@09ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 5\nGara 96\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nASD HOCKEY CLUB BONDENO - HP VALCHISONE\n\nRisultato: 4-4
+GEO:44.699029;7.842090
+LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260124T150000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 5 - ASD HOCKEY CLUB BONDENO - HP VALCHISONE
+UID:9176ab64-6f27-43ce-83f3-0bc4187515bd@9176.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 1\nGara 101\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nBUTTERFLY ROMA HCC - HP VALCHISONE\n\nRisultato: 7-4
@@ -79,6 +63,22 @@ GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
 DTSTART:20251129T140000Z
 SUMMARY:Serie A Elite Maschile - Indoor / Giornata 1 - BUTTERFLY ROMA HCC - HP VALCHISONE
-UID:302866cd-2043-40fd-9b89-7e8856bcd15f@3028.org
+UID:a0020817-2f18-4817-ac9b-50f1b4c424aa@a002.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 1\nGara 97\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHP VALCHISONE - CUS PISA ASD\n\nRisultato: 3-3
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20251129T100000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 1 - HP VALCHISONE - CUS PISA ASD
+UID:859fd80f-f781-475c-b43f-c9293128615b@859f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 5\nGara 92\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nHP VALCHISONE - CUS PADOVA ASD\n\nRisultato: 6-5
+GEO:44.699029;7.842090
+LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260124T110000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 5 - HP VALCHISONE - CUS PADOVA ASD
+UID:4da02d27-9a23-43a7-90eb-f14b657765da@4da0.org
 END:VEVENT
 END:VCALENDAR
