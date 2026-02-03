@@ -1,0 +1,191 @@
+<!DOCTYPE html><html lang="en"> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="icon" type="image/svg+xml" href="/favicon.svg"><meta name="generator" content="Astro v5.16.6"><!-- Primary Meta Tags --><title>MCP Memoria - Web UI &amp; Knowledge Graph | AL's</title><meta name="title" content="MCP Memoria - Web UI &#38; Knowledge Graph | AL's"><meta name="description" content="Introducing the Web UI for MCP Memoria with Knowledge Graph Explorer, Memory Browser, Relation Discovery, and Time Tracking"><link rel="canonical" href="https://www.trapias.it/blog/2026/02/03/mcp-memoria-graph-and-webui/"><!-- Open Graph / Facebook --><meta property="og:type" content="website"><meta property="og:url" content="https://www.trapias.it/blog/2026/02/03/mcp-memoria-graph-and-webui/"><meta property="og:title" content="MCP Memoria - Web UI &#38; Knowledge Graph | AL's"><meta property="og:description" content="Introducing the Web UI for MCP Memoria with Knowledge Graph Explorer, Memory Browser, Relation Discovery, and Time Tracking"><meta property="og:image" content="https://www.trapias.it/images/avatar.png"><!-- Twitter --><meta property="twitter:card" content="summary_large_image"><meta property="twitter:url" content="https://www.trapias.it/blog/2026/02/03/mcp-memoria-graph-and-webui/"><meta property="twitter:title" content="MCP Memoria - Web UI &#38; Knowledge Graph | AL's"><meta property="twitter:description" content="Introducing the Web UI for MCP Memoria with Knowledge Graph Explorer, Memory Browser, Relation Discovery, and Time Tracking"><meta property="twitter:image" content="https://www.trapias.it/images/avatar.png"><!-- Fonts --><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet"><!-- Theme Script (prevents flash) --><script>
+      const theme = localStorage.getItem('theme') ||
+        (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+      document.documentElement.classList.toggle('dark', theme === 'dark');
+    </script><!-- Matomo --><script>
+      var _paq = window._paq = window._paq || [];
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() {
+        var u="//m.trapias.it/";
+        _paq.push(['setTrackerUrl', u+'matomo.php']);
+        _paq.push(['setSiteId', '1']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+      })();
+    </script><!-- End Matomo Code --><link rel="stylesheet" href="/_astro/_slug_.zU8hXanm.css"></head> <body class="min-h-screen flex flex-col"> <header class="sticky top-0 z-50 border-b border-[--color-border] bg-[--color-background]/80 backdrop-blur-md"> <div class="container"> <nav class="flex items-center justify-between h-16"> <!-- Logo --> <a href="/" class="text-xl font-bold text-[--color-foreground] hover:text-[--color-accent] transition-colors">
+AL's
+</a> <!-- Desktop Navigation --> <div class="hidden md:flex items-center gap-8"> <a href="/" class="text-sm font-medium transition-colors text-[--color-muted] hover:text-[--color-foreground]"> Home </a><a href="/about" class="text-sm font-medium transition-colors text-[--color-muted] hover:text-[--color-foreground]"> About </a><a href="/blog" class="text-sm font-medium transition-colors text-[--color-accent]"> Blog </a><a href="https://trelloexport.trapias.it" target="_blank" rel="noopener noreferrer" class="text-sm font-medium transition-colors text-[--color-muted] hover:text-[--color-foreground]"> TrelloExport </a><a href="/dnn" class="text-sm font-medium transition-colors text-[--color-muted] hover:text-[--color-foreground]"> DNN </a><a href="/contact" class="text-sm font-medium transition-colors text-[--color-muted] hover:text-[--color-foreground]"> Contact </a> <button class="theme-toggle p-2 rounded-lg bg-[--color-card] border border-[--color-border] hover:border-[--color-accent] transition-all touch-manipulation" aria-label="Toggle dark mode" type="button"> <svg xmlns="http://www.w3.org/2000/svg" stroke-width="2" width="24" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" fill="none" viewBox="0 0 24 24" class="lucide lucide-sun w-5 h-5 text-[--color-foreground] dark:hidden">  <circle cx="12" cy="12" r="4"></circle> <path d="M12 2v2"></path> <path d="M12 20v2"></path> <path d="m4.93 4.93 1.41 1.41"></path> <path d="m17.66 17.66 1.41 1.41"></path> <path d="M2 12h2"></path> <path d="M20 12h2"></path> <path d="m6.34 17.66-1.41 1.41"></path> <path d="m19.07 4.93-1.41 1.41"></path>  </svg> <svg xmlns="http://www.w3.org/2000/svg" stroke-width="2" width="24" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" fill="none" viewBox="0 0 24 24" class="lucide lucide-moon w-5 h-5 text-[--color-foreground] hidden dark:block">  <path d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401"></path>  </svg> </button> <script type="module">function i(){const t=document.documentElement.classList.toggle("dark");localStorage.setItem("theme",t?"dark":"light")}function a(){document.querySelectorAll(".theme-toggle").forEach(e=>{e.hasAttribute("data-theme-initialized")||(e.setAttribute("data-theme-initialized","true"),e.addEventListener("click",i))})}a();document.addEventListener("astro:after-swap",a);</script> </div> <!-- Mobile Menu Button --> <div class="flex items-center gap-4 md:hidden"> <button class="theme-toggle p-2 rounded-lg bg-[--color-card] border border-[--color-border] hover:border-[--color-accent] transition-all touch-manipulation" aria-label="Toggle dark mode" type="button"> <svg xmlns="http://www.w3.org/2000/svg" stroke-width="2" width="24" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" fill="none" viewBox="0 0 24 24" class="lucide lucide-sun w-5 h-5 text-[--color-foreground] dark:hidden">  <circle cx="12" cy="12" r="4"></circle> <path d="M12 2v2"></path> <path d="M12 20v2"></path> <path d="m4.93 4.93 1.41 1.41"></path> <path d="m17.66 17.66 1.41 1.41"></path> <path d="M2 12h2"></path> <path d="M20 12h2"></path> <path d="m6.34 17.66-1.41 1.41"></path> <path d="m19.07 4.93-1.41 1.41"></path>  </svg> <svg xmlns="http://www.w3.org/2000/svg" stroke-width="2" width="24" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" fill="none" viewBox="0 0 24 24" class="lucide lucide-moon w-5 h-5 text-[--color-foreground] hidden dark:block">  <path d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401"></path>  </svg> </button>  <button id="mobile-menu-btn" class="p-2 text-[--color-foreground] hover:text-[--color-accent] transition-colors" aria-label="Toggle menu"> <svg xmlns="http://www.w3.org/2000/svg" stroke-width="2" width="24" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" fill="none" viewBox="0 0 24 24" class="lucide lucide-menu w-6 h-6 menu-open">  <path d="M4 5h16"></path> <path d="M4 12h16"></path> <path d="M4 19h16"></path>  </svg> <svg xmlns="http://www.w3.org/2000/svg" stroke-width="2" width="24" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" fill="none" viewBox="0 0 24 24" class="lucide lucide-x w-6 h-6 menu-close hidden">  <path d="M18 6 6 18"></path> <path d="m6 6 12 12"></path>  </svg> </button> </div> </nav> <!-- Mobile Navigation --> <div id="mobile-menu" class="hidden md:hidden pb-4"> <div class="flex flex-col gap-4"> <a href="/" class="text-base font-medium py-2 transition-colors text-[--color-muted] hover:text-[--color-foreground]"> Home </a><a href="/about" class="text-base font-medium py-2 transition-colors text-[--color-muted] hover:text-[--color-foreground]"> About </a><a href="/blog" class="text-base font-medium py-2 transition-colors text-[--color-accent]"> Blog </a><a href="https://trelloexport.trapias.it" target="_blank" rel="noopener noreferrer" class="text-base font-medium py-2 transition-colors text-[--color-muted] hover:text-[--color-foreground]"> TrelloExport </a><a href="/dnn" class="text-base font-medium py-2 transition-colors text-[--color-muted] hover:text-[--color-foreground]"> DNN </a><a href="/contact" class="text-base font-medium py-2 transition-colors text-[--color-muted] hover:text-[--color-foreground]"> Contact </a> </div> </div> </div> </header> <script type="module">const e=document.getElementById("mobile-menu-btn"),t=document.getElementById("mobile-menu"),o=e?.querySelector(".menu-open"),s=e?.querySelector(".menu-close");e?.addEventListener("click",()=>{const n=t?.classList.toggle("hidden");o?.classList.toggle("hidden",!n),s?.classList.toggle("hidden",n)});</script> <main class="flex-1">  <article class="container py-12"> <div class="max-w-3xl mx-auto"> <!-- Back link --> <a href="/blog" class="inline-flex items-center gap-2 text-[--color-muted] hover:text-[--color-accent] transition-colors mb-8"> <svg xmlns="http://www.w3.org/2000/svg" stroke-width="2" width="24" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" fill="none" viewBox="0 0 24 24" class="lucide lucide-arrow-left w-4 h-4">  <path d="m12 19-7-7 7-7"></path> <path d="M19 12H5"></path>  </svg>
+Back to blog
+</a> <!-- Header --> <header class="mb-8"> <img src="/images/memoria-dashboard.png" alt="MCP Memoria - Web UI &#38; Knowledge Graph" class="w-full h-64 md:h-80 object-cover rounded-xl mb-8"> <h1 class="text-3xl md:text-4xl font-bold text-[--color-foreground] mb-4"> MCP Memoria - Web UI &amp; Knowledge Graph </h1> <div class="flex flex-wrap items-center gap-4 text-sm text-[--color-muted]"> <span class="flex items-center gap-1.5"> <svg xmlns="http://www.w3.org/2000/svg" stroke-width="2" width="24" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" fill="none" viewBox="0 0 24 24" class="lucide lucide-calendar w-4 h-4">  <path d="M8 2v4"></path> <path d="M16 2v4"></path> <rect width="18" height="18" x="3" y="4" rx="2"></rect> <path d="M3 10h18"></path>  </svg> February 3, 2026 </span> <span class="flex items-center gap-1.5"> <svg xmlns="http://www.w3.org/2000/svg" stroke-width="2" width="24" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" fill="none" viewBox="0 0 24 24" class="lucide lucide-tag w-4 h-4">  <path d="M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"></path> <circle cx="7.5" cy="7.5" r=".5" fill="currentColor"></circle>  </svg> mcp, claude, ai, memory, qdrant, ollama, python, nextjs, knowledge-graph </span> <span class="px-2 py-0.5 bg-[--color-accent]/10 text-[--color-accent] rounded-full text-xs"> ai </span> </div> </header> <!-- Content --> <div class="prose">  <h2 id="memoria-gets-a-web-interface">Memoria Gets a Web Interface</h2>
+<p>Since <a href="/blog/2026/01/12/MCP-Memoria">launching MCP Memoria</a> - my MCP memory server built with Claude Code - in January, I’ve been working on a major enhancement: a <strong>full-featured Web UI</strong> that makes it easy to explore, manage, and visualize your AI memories.</p>
+<p>The new interface transforms Memoria from a command-line MCP server into a more complete knowledge management system.</p>
+<blockquote>
+<p>This is a side project for me, it’s not meant to compete with more sophisticated and powerful systems out there: it’s a tool I built for myself, I’m using it every day, am satisfied by the results I’m getting and thought it might be helpful for somebody else too.</p>
+</blockquote>
+<p><img src="/images/memoria-dashboard.png" alt="Memoria Dashboard"></p>
+<h2 id="whats-new">What’s New</h2>
+<h3 id="knowledge-graph-explorer">Knowledge Graph Explorer</h3>
+<p>The headline feature is the <strong>Knowledge Graph</strong> — a visual representation of how your memories connect to each other. Memories aren’t isolated facts; they form a web of relationships: one memory <em>causes</em> another, <em>supports</em> it, <em>contradicts</em> it, or <em>follows</em> chronologically.</p>
+<p><img src="/images/memoria-graph.png" alt="Knowledge Graph"></p>
+<p>The graph view lets you:</p>
+<ul>
+<li><strong>Explore connections</strong> by clicking on any memory node</li>
+<li><strong>Adjust depth</strong> (1-3 levels) to see more or fewer relationships</li>
+<li><strong>Filter by relation type</strong> (causes, fixes, supports, opposes, follows)</li>
+<li><strong>Create new relations</strong> between memories with an intuitive dialog</li>
+<li><strong>Delete relations</strong> directly from the sidebar</li>
+</ul>
+<p>The graph requires PostgreSQL to store the relation metadata — the vector database handles the memories themselves, while PostgreSQL manages the typed relationships between them.</p>
+<h3 id="memory-browser">Memory Browser</h3>
+<p>The <strong>Memory Browser</strong> provides a comprehensive view of all your stored memories with filtering and editing capabilities.</p>
+<p><img src="/images/memoria-memories.png" alt="Memory Browser"></p>
+<p>Features include:</p>
+<ul>
+<li><strong>Semantic search</strong> — find memories by meaning, not just keywords</li>
+<li><strong>Filter by type</strong> — episodic, semantic, or procedural</li>
+<li><strong>Filter by date range</strong> — with quick presets like “last 7 days” or “last month”</li>
+<li><strong>Filter by tags</strong> — with auto-complete from your existing tags</li>
+<li><strong>Sort options</strong> — by creation date, last access, or importance score</li>
+<li><strong>Markdown rendering</strong> — memories with formatted content display properly</li>
+<li><strong>Inline editing</strong> — update memory content, tags, or importance directly</li>
+</ul>
+<h3 id="discover-relations">Discover Relations</h3>
+<p>Building a knowledge graph manually is tedious. The <strong>Discover Relations</strong> feature automatically scans your memories and suggests potential connections based on semantic similarity and shared context.</p>
+<p><img src="/images/memoria-discover.png" alt="Discover Relations"></p>
+<p>The discovery process:</p>
+<ol>
+<li>Scans pairs of memories across collections</li>
+<li>Analyzes semantic overlap and shared tags</li>
+<li>Suggests a relation type with a confidence score</li>
+<li>Lets you accept, reject, or modify each suggestion</li>
+<li>Supports bulk actions — “Accept all suggestions above 85% confidence”</li>
+</ol>
+<blockquote>
+<p>Discover should help finding connections we missed — a bug fix memory linked to the issue it resolved, a procedure connected to the decision that motivated it.
+In my own usage it’s giving interesting results. Can it be improved? Absolutely yes. How? You tell me!</p>
+</blockquote>
+<h3 id="backup--restore">Backup &#x26; Restore</h3>
+<p>Data safety matters. The new <strong>Backup &#x26; Restore</strong> page makes it easy to export all your memories and graph relations to a JSON file, and import them back when needed.</p>
+<p><img src="/images/memoria-backup.png" alt="Backup &#x26; Restore"></p>
+<p>The backup includes:</p>
+<ul>
+<li>All memories across all collections (episodic, semantic, procedural)</li>
+<li>Graph relations with their types and metadata</li>
+<li>Tags, importance scores, and timestamps</li>
+</ul>
+<p>Import has a “skip existing” option to avoid duplicates when restoring.</p>
+<h3 id="custom-metadata">Custom Metadata</h3>
+<p>Memories now support <strong>arbitrary metadata</strong> — key-value pairs you can attach to any memory. This is useful for tracking things like:</p>
+<ul>
+<li>Project associations</li>
+<li>Source URLs or document references</li>
+<li>Priority levels</li>
+<li>Custom categories</li>
+</ul>
+<p>The metadata flows through all layers: MCP tools, REST API, and Web UI.</p>
+<h3 id="time-tracking-work-module">Time Tracking (Work Module)</h3>
+<p>A new <strong>Work Module</strong> adds time tracking capabilities via MCP tools:</p>
+<ul>
+<li><code>memoria_work_start</code> — Start a work session with category, client, and project</li>
+<li><code>memoria_work_stop</code> — End the session and record duration</li>
+<li><code>memoria_work_pause</code> / <code>memoria_work_resume</code> — Handle breaks</li>
+<li><code>memoria_work_note</code> — Add notes to the current session</li>
+<li><code>memoria_work_report</code> — Generate reports by period, client, or project</li>
+</ul>
+<p>Categories include: coding, review, meeting, support, research, documentation, devops.</p>
+<p>This lets you track how you spend time directly from Claude conversations — “start tracking time for client X on the API project” — without switching tools.</p>
+<h2 id="architecture">Architecture</h2>
+<p>The Web UI is built with:</p>
+<ul>
+<li><strong>Next.js 14</strong> with App Router and React Server Components</li>
+<li><strong>Tailwind CSS</strong> with shadcn/ui components</li>
+<li><strong>D3.js</strong> for the knowledge graph visualization</li>
+<li><strong>FastAPI</strong> backend extending the MCP server with REST endpoints</li>
+</ul>
+<p>The UI communicates with Memoria via a REST API that mirrors the MCP tool interface. This means all operations available via Claude are also available via the web interface.</p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0" data-language="plaintext"><code><span class="line"><span>┌─────────────────────────────────────────────────────────┐</span></span>
+<span class="line"><span>│                    Web UI (Next.js)                      │</span></span>
+<span class="line"><span>│  Dashboard │ Memories │ Graph │ Discover │ Backup       │</span></span>
+<span class="line"><span>└────────────────────────┬────────────────────────────────┘</span></span>
+<span class="line"><span>                         │ REST API</span></span>
+<span class="line"><span>                         ▼</span></span>
+<span class="line"><span>┌─────────────────────────────────────────────────────────┐</span></span>
+<span class="line"><span>│              MCP Memoria Server (FastAPI)               │</span></span>
+<span class="line"><span>├─────────────────────────────────────────────────────────┤</span></span>
+<span class="line"><span>│  Memory Manager │ Graph Manager │ Work Tracker          │</span></span>
+<span class="line"><span>├─────────────────────────────────────────────────────────┤</span></span>
+<span class="line"><span>│  Qdrant (vectors) │ PostgreSQL (graph/work) │ Ollama    │</span></span>
+<span class="line"><span>└─────────────────────────────────────────────────────────┘</span></span></code></pre>
+<h2 id="getting-started">Getting Started</h2>
+<p>Grab source code and see details <a href="https://github.com/trapias/memoria">at GitHub</a>.</p>
+<p>Briefly…</p>
+<h3 id="option-1-docker-recommended">Option 1: Docker (Recommended)</h3>
+<p>The easiest way to run the full stack:</p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0" data-language="bash"><code><span class="line"><span style="color:#B392F0">git</span><span style="color:#9ECBFF"> clone</span><span style="color:#9ECBFF"> https://github.com/trapias/memoria.git</span></span>
+<span class="line"><span style="color:#79B8FF">cd</span><span style="color:#9ECBFF"> memoria/docker</span></span>
+<span class="line"><span style="color:#B392F0">docker-compose</span><span style="color:#79B8FF"> -f</span><span style="color:#9ECBFF"> docker-compose.central.yml</span><span style="color:#9ECBFF"> up</span><span style="color:#79B8FF"> -d</span></span></code></pre>
+<p>This starts:</p>
+<ul>
+<li>Memoria server with REST API on port 8765</li>
+<li>Web UI on port 3000</li>
+<li>Qdrant for vector storage</li>
+<li>PostgreSQL for graph and time tracking</li>
+</ul>
+<p>Open <a href="http://localhost:3000">http://localhost:3000</a> to access the UI.</p>
+<h3 id="option-2-development-setup">Option 2: Development Setup</h3>
+<p>For local development:</p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0" data-language="bash"><code><span class="line"><span style="color:#6A737D"># Backend</span></span>
+<span class="line"><span style="color:#B392F0">pip</span><span style="color:#9ECBFF"> install</span><span style="color:#79B8FF"> -e</span><span style="color:#9ECBFF"> ".[dev]"</span></span>
+<span class="line"><span style="color:#E1E4E8">MEMORIA_HTTP_PORT</span><span style="color:#F97583">=</span><span style="color:#9ECBFF">8765</span><span style="color:#E1E4E8"> MEMORIA_DATABASE_URL</span><span style="color:#F97583">=</span><span style="color:#9ECBFF">postgresql://...</span><span style="color:#B392F0"> python</span><span style="color:#79B8FF"> -m</span><span style="color:#9ECBFF"> mcp_memoria</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># Frontend</span></span>
+<span class="line"><span style="color:#79B8FF">cd</span><span style="color:#9ECBFF"> web</span></span>
+<span class="line"><span style="color:#B392F0">npm</span><span style="color:#9ECBFF"> install</span></span>
+<span class="line"><span style="color:#B392F0">npm</span><span style="color:#9ECBFF"> run</span><span style="color:#9ECBFF"> dev</span></span></code></pre>
+<h2 id="configuration">Configuration</h2>
+<p>New environment variables for the enhanced features:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Variable</th><th>Description</th></tr></thead><tbody><tr><td><code>MEMORIA_HTTP_PORT</code></td><td>Enable HTTP/REST mode (e.g., 8765)</td></tr><tr><td><code>MEMORIA_HTTP_HOST</code></td><td>HTTP bind address (default: 0.0.0.0)</td></tr><tr><td><code>MEMORIA_DATABASE_URL</code></td><td>PostgreSQL URL for graph &#x26; time tracking</td></tr></tbody></table>
+<p>The PostgreSQL database is optional — without it, the core memory features work fine, but Knowledge Graph and Time Tracking are disabled.</p>
+<h2 id="try-it">Try It</h2>
+<p>The complete source code is on GitHub: <a href="https://github.com/trapias/memoria">github.com/trapias/memoria</a></p>
+<p>As always, feedback and contributions are welcome. Open an issue for bugs, feature requests, or questions.</p>  </div> <!-- Comments --> <div id="disqus_thread" class="mt-12 pt-8 border-t border-[--color-border]"></div> <script>(function(){const pageUrl = "https://www.trapias.it/blog/2026/02/03/mcp-memoria-graph-and-webui/";
+const pageIdentifier = "/blog/2026/02/03/mcp-memoria-graph-and-webui/";
+const pageTitle = "MCP Memoria - Web UI & Knowledge Graph";
+
+  var disqus_config = function () {
+    this.page.url = pageUrl;
+    this.page.identifier = pageIdentifier;
+    this.page.title = pageTitle;
+  };
+
+  (function() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://trapias.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+})();</script> <noscript> <p class="text-[--color-muted]">
+Please enable JavaScript to view the
+<a href="https://disqus.com/?ref_noscript" class="text-[--color-accent]">comments powered by Disqus.</a> </p> </noscript> </div> </article>  </main> <footer class="border-t border-[--color-border] bg-[--color-card]/50 mt-16"> <div class="container py-12"> <div class="flex flex-col md:flex-row justify-between items-center gap-8"> <!-- Brand + Social --> <div class="text-center md:text-left"> <p class="text-lg font-bold text-[--color-foreground] mb-2">AL's</p> <div class="flex items-center justify-center md:justify-start gap-3"> <a href="https://github.com/trapias" target="_blank" rel="noopener noreferrer" class="text-[--color-muted] hover:text-[--color-accent] transition-colors" aria-label="GitHub" title="GitHub"> <svg xmlns="http://www.w3.org/2000/svg" stroke-width="2" width="24" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" fill="none" viewBox="0 0 24 24" class="lucide lucide-github w-5 h-5">  <path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"></path> <path d="M9 18c-4.51 2-5-2-7-2"></path>  </svg> </a><a href="https://www.linkedin.com/in/albertovelo" target="_blank" rel="noopener noreferrer" class="text-[--color-muted] hover:text-[--color-accent] transition-colors" aria-label="LinkedIn" title="LinkedIn"> <svg xmlns="http://www.w3.org/2000/svg" stroke-width="2" width="24" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" fill="none" viewBox="0 0 24 24" class="lucide lucide-linkedin w-5 h-5">  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path> <rect width="4" height="12" x="2" y="9"></rect> <circle cx="4" cy="4" r="2"></circle>  </svg> </a><a href="https://twitter.com/trapias" target="_blank" rel="noopener noreferrer" class="text-[--color-muted] hover:text-[--color-accent] transition-colors" aria-label="Twitter" title="Twitter"> <svg xmlns="http://www.w3.org/2000/svg" stroke-width="2" width="24" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" fill="none" viewBox="0 0 24 24" class="lucide lucide-twitter w-5 h-5">  <path d="M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"></path>  </svg> </a> </div> </div> <!-- Links --> <div class="flex flex-wrap justify-center gap-6 text-sm text-[--color-muted]"> <a href="/donate" class="hover:text-[--color-foreground] transition-colors">Donate</a> <a href="/privacy-policy" class="hover:text-[--color-foreground] transition-colors">Privacy Policy</a> <a href="/contact" class="hover:text-[--color-foreground] transition-colors">Contact</a> </div> <!-- Tools I Use (Affiliate) --> <div class="text-center md:text-left"> <p class="text-xs text-[--color-muted] mb-2">Tools I Use</p> <div class="flex items-center gap-4"> <a href="https://referrals.alludo.com/l/PDALBERTOVEL48/" target="_blank" rel="sponsored noopener" class="opacity-70 hover:opacity-100 transition-opacity" title="Parallels">  <img src="/images/parallels-logo-dark.png" alt="Parallels" class="h-5 w-auto logo-for-light"> <img src="/images/parallels-logo-white.png" alt="Parallels" class="h-5 w-auto logo-for-dark">  </a><a href="https://supporthost.com/a617" target="_blank" rel="sponsored noopener" class="opacity-70 hover:opacity-100 transition-opacity" title="SupportHost"> <img src="/images/supporthost-logo.svg" alt="SupportHost" class="h-5 w-auto"> </a> </div> <p class="text-[10px] text-[--color-muted]/60 mt-1">* affiliate links</p> </div> </div> <div class="mt-8 pt-6 border-t border-[--color-border] text-center text-sm text-[--color-muted]"> <p>&copy; 2026 Alberto Velo. All rights reserved.</p> </div> </div> </footer> <!-- Buy Me a Coffee Widget --> <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="trapias" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script> </body> </html>
