@@ -140,7 +140,7 @@ Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 
-## Sab 21/03/2026 15.00
+## Sab 21/03/2026 15.30
 
 <strong>POL FERRINI - SG AMSICORA</strong>
 

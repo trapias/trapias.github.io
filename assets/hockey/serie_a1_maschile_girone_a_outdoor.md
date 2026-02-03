@@ -47,7 +47,7 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2
 
-## Sab 21/03/2026 15.00
+## Sab 21/03/2026 13.00
 
 <strong>CUS CAGLIARI - CUS PADOVA ASD</strong>
 

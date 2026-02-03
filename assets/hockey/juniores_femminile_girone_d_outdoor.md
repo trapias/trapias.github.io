@@ -40,7 +40,7 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 # Juniores Femminile - OUTDOOR  - Girone D / Giornata 3
 
-## -
+## Mer 18/02/2026 19.30
 
 <strong>CUS CAGLIARI - SG AMSICORA</strong>
 

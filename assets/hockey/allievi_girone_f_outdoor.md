@@ -6,6 +6,8 @@
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA RIS. - POLISPORTIVA FERRINI</strong>
 
+**Risultato: 8-0**
+
 Gara: 1100
 
 Campo: Comunale Uras 
