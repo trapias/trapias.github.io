@@ -82,7 +82,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Dom 22/02/2026 10.00
+## Dom 22/02/2026 11.30
 
 <strong>LAZIO HOCKEY - BUTTERFLY ROMA</strong>
 

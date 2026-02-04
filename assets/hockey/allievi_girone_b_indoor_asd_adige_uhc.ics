@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone B / Giornata 1\nGara 424\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD ADIGE UHC - POLISPORTIVA CAMELOT
+DESCRIPTION:Allievi  - Girone B / Giornata 1\nGara 420\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
 GEO:45.458648;11.920175
 LOCATION:Cadoneghe\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20251221T150000Z
-SUMMARY:Allievi  - Girone B / Giornata 1 - ASD ADIGE UHC - POLISPORTIVA CAMELOT
-UID:fe421588-121c-4b94-b425-a0669d223db5@fe42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone B / Giornata 2\nGara 428\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD ADIGE UHC - ASD HOCKEY CLUB BONDENO
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260104T120000Z
-SUMMARY:Allievi  - Girone B / Giornata 2 - ASD ADIGE UHC - ASD HOCKEY CLUB BONDENO
-UID:c71b7621-8a7d-498c-b752-cf72f2cc0f1e@c71b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone B / Giornata 2\nGara 430\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD ADIGE UHC - HOCKEY CLUB RIVA
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260104T140000Z
-SUMMARY:Allievi  - Girone B / Giornata 2 - ASD ADIGE UHC - HOCKEY CLUB RIVA
-UID:21cc751d-bb11-4819-9548-803d96b8d4de@21cc.org
+DTSTART:20251221T110000Z
+SUMMARY:Allievi  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
+UID:48f52295-1e74-436f-85d5-6502568f6cbe@48f5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone B / Giornata 3\nGara 436\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nHOCKEY CLUB RIVA - ASD ADIGE UHC
@@ -31,7 +15,23 @@ GEO:45.215044;11.606644
 LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
 DTSTART:20260201T140000Z
 SUMMARY:Allievi  - Girone B / Giornata 3 - HOCKEY CLUB RIVA - ASD ADIGE UHC
-UID:2a48f19b-2def-4ee8-a500-81d6db5209e6@2a48.org
+UID:403fe7c4-08ae-4f41-aa98-edf2406a523d@403f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone B / Giornata 2\nGara 430\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD ADIGE UHC - HOCKEY CLUB RIVA
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260104T140000Z
+SUMMARY:Allievi  - Girone B / Giornata 2 - ASD ADIGE UHC - HOCKEY CLUB RIVA
+UID:fedfabc7-4e5b-4483-aace-94016574ac34@fedf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone B / Giornata 1\nGara 424\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD ADIGE UHC - POLISPORTIVA CAMELOT
+GEO:45.458648;11.920175
+LOCATION:Cadoneghe\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20251221T150000Z
+SUMMARY:Allievi  - Girone B / Giornata 1 - ASD ADIGE UHC - POLISPORTIVA CAMELOT
+UID:0161fa00-8856-412f-88cd-2c82b12cf4ab@0161.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone B / Giornata 1\nGara 422\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nCSP SAN GIORGIO - ASD ADIGE UHC
@@ -39,23 +39,7 @@ GEO:45.458648;11.920175
 LOCATION:Cadoneghe\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20251221T130000Z
 SUMMARY:Allievi  - Girone B / Giornata 1 - CSP SAN GIORGIO - ASD ADIGE UHC
-UID:270d32bc-04a3-4796-88a9-00c1043fe7c9@270d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone B / Giornata 1\nGara 420\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
-GEO:45.458648;11.920175
-LOCATION:Cadoneghe\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20251221T110000Z
-SUMMARY:Allievi  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
-UID:7a51cbbe-2134-4501-ae5a-2da62a8a1002@7a51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone B / Giornata 2\nGara 426\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD ADIGE UHC - POLISPORTIVA CAMELOT
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260104T100000Z
-SUMMARY:Allievi  - Girone B / Giornata 2 - ASD ADIGE UHC - POLISPORTIVA CAMELOT
-UID:c129cc07-cc33-4fef-93d1-bc4eff211f08@c129.org
+UID:44e2d9b6-72b5-4ae9-828f-b4b49c9fb431@44e2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone B / Giornata 3\nGara 433\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nASD ADIGE UHC - CSP SAN GIORGIO
@@ -63,6 +47,22 @@ GEO:45.215044;11.606644
 LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
 DTSTART:20260201T110000Z
 SUMMARY:Allievi  - Girone B / Giornata 3 - ASD ADIGE UHC - CSP SAN GIORGIO
-UID:8ffa979b-3166-4071-bf06-ab85b6031978@8ffa.org
+UID:6dc2d208-4917-432f-a13c-6d77950ee40a@6dc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone B / Giornata 2\nGara 428\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD ADIGE UHC - ASD HOCKEY CLUB BONDENO
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260104T120000Z
+SUMMARY:Allievi  - Girone B / Giornata 2 - ASD ADIGE UHC - ASD HOCKEY CLUB BONDENO
+UID:67ccf09e-3be2-4626-b131-d6965870cb51@67cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone B / Giornata 2\nGara 426\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD ADIGE UHC - POLISPORTIVA CAMELOT
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260104T100000Z
+SUMMARY:Allievi  - Girone B / Giornata 2 - ASD ADIGE UHC - POLISPORTIVA CAMELOT
+UID:dfeec2a3-28e7-42bb-8613-9bd50fdf3869@dfee.org
 END:VEVENT
 END:VCALENDAR

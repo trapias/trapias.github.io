@@ -2,7 +2,7 @@
 
 # Allieve - OUTDOOR  - Girone F / Giornata 1
 
-## Dom 15/02/2026 11.00
+## Gio 26/02/2026 18.00
 
 <strong>POLISPORTIVA FERRINI - SG AMSICORA</strong>
 
