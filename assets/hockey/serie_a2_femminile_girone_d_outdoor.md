@@ -86,7 +86,7 @@ Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/C
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
-## Dom 08/02/2026 11.00
+## Lun 02/03/2026 18.00
 
 <strong>SG AMSICORA B - FORTITUDO HOCKEY CAGLIARI</strong>
 
