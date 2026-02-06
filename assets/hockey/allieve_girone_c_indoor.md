@@ -136,7 +136,7 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 # Allieve  - Girone C / Giornata 3
 
-## Sab 07/02/2026 10.00
+## Sab 07/02/2026 09.45
 
 <strong>HC RAINBOW SAMPIERDARENA - CUS PISA ASD</strong>
 
@@ -150,7 +150,7 @@ Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 
-## Sab 07/02/2026 11.00
+## Sab 07/02/2026 10.45
 
 <strong>HF GENOVA 1980 - HC SAVONA</strong>
 
@@ -164,7 +164,7 @@ Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 
-## Sab 07/02/2026 13.00
+## Sab 07/02/2026 12.30
 
 <strong>HC RAINBOW SAMPIERDARENA - HF GENOVA 1980</strong>
 
@@ -178,7 +178,7 @@ Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 
-## Sab 07/02/2026 14.00
+## Sab 07/02/2026 13.30
 
 <strong>CUS PISA ASD - HC SAVONA</strong>
 

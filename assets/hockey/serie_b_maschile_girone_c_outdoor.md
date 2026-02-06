@@ -198,7 +198,7 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 7
 
-## Dom 10/05/2026 11.30
+## Ven 03/04/2026 20.00
 
 <strong>HOCKEY CLUB EUR - LAZIO HOCKEY B</strong>
 
@@ -229,7 +229,7 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 8
 
-## Dom 24/05/2026 11.00
+## Dom 17/05/2026 11.00
 
 <strong>H C ROMA  B - HOCKEY CLUB EUR</strong>
 

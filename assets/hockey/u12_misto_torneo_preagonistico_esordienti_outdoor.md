@@ -393,3 +393,17 @@ Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
+
+## Dom 28/06/2026 11.00
+
+<strong>ASD CITTA DI L'AQUILA - SQUADRA JOLLY</strong>
+
+Gara: 1164
+
+Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
+
+Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
+
+Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
+Geo: Geo(latitude=42.0432315, longitude=13.437583)
+

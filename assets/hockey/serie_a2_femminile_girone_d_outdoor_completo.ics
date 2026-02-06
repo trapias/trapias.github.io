@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 2\nGara 1114\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI B - FORTITUDO HOCKEY CAGLIARI\n\nRisultato: 4-2
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20251211T180000Z
-SUMMARY:Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 2 - POLISPORTIVA FERRINI B - FORTITUDO HOCKEY CAGLIARI
-UID:b234a902-0293-4a47-9de4-2dea18c7411c@b234.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 1\nGara 1112\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nFORTITUDO HOCKEY CAGLIARI - CUS CAGLIARI
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20260322T100000Z
-SUMMARY:Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 1 - FORTITUDO HOCKEY CAGLIARI - CUS CAGLIARI
-UID:7bc32dcb-ea31-490b-a4d3-9d706c75a686@7bc3.org
+DESCRIPTION:Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 3\nGara 1116\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA B - FORTITUDO HOCKEY CAGLIARI
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20260302T170000Z
+SUMMARY:Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 3 - SG AMSICORA B - FORTITUDO HOCKEY CAGLIARI
+UID:d3fbb3c3-6690-41f9-ae6a-88d6774bd1e8@d3fb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 3\nGara 1115\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nCUS CAGLIARI - POLISPORTIVA FERRINI B\n\nRisultato: 2-4
@@ -23,7 +15,7 @@ GEO:39.235186;9.139409
 LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
 DTSTART:20260125T110000Z
 SUMMARY:Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 3 - CUS CAGLIARI - POLISPORTIVA FERRINI B
-UID:d3bec4ef-0705-4db7-addc-1070c06cd54c@d3be.org
+UID:c590c37a-9830-4539-9f08-571e9ec42ab1@c590.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 2\nGara 1113\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA B - CUS CAGLIARI\n\nRisultato: 5-1
@@ -31,7 +23,15 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251211T180000Z
 SUMMARY:Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 2 - SG AMSICORA B - CUS CAGLIARI
-UID:7f071904-e468-47ed-adb1-6d61aaf129da@7f07.org
+UID:8ada8aec-653c-4c7d-89d2-2dec21d4a0f0@8ada.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 2\nGara 1114\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI B - FORTITUDO HOCKEY CAGLIARI\n\nRisultato: 4-2
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20251211T180000Z
+SUMMARY:Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 2 - POLISPORTIVA FERRINI B - FORTITUDO HOCKEY CAGLIARI
+UID:918a1af7-e7ad-435e-9da3-1fa8cc4c16f7@918a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 1\nGara 1111\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA B - POLISPORTIVA FERRINI B\n\nRisultato: 2-4
@@ -39,14 +39,14 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251127T190000Z
 SUMMARY:Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 1 - SG AMSICORA B - POLISPORTIVA FERRINI B
-UID:e6370bb2-edb0-48ce-a2b3-ca26d5b74eb6@e637.org
+UID:8df0efb1-f221-449c-9d30-a465490760b9@8df0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 3\nGara 1116\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA B - FORTITUDO HOCKEY CAGLIARI
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260302T170000Z
-SUMMARY:Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 3 - SG AMSICORA B - FORTITUDO HOCKEY CAGLIARI
-UID:5a6ec7ca-a976-4030-8adc-a3c5a7ac7c4d@5a6e.org
+DESCRIPTION:Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 1\nGara 1112\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nFORTITUDO HOCKEY CAGLIARI - CUS CAGLIARI
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20260322T100000Z
+SUMMARY:Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 1 - FORTITUDO HOCKEY CAGLIARI - CUS CAGLIARI
+UID:bdbbf224-a2e3-4d88-bd7d-b86388408e51@bdbb.org
 END:VEVENT
 END:VCALENDAR
