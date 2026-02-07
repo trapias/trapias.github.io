@@ -59,7 +59,7 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 # Allieve - OUTDOOR  - Girone D2 / Giornata 4
 
-## Sab 07/03/2026 17.00
+## Dom 03/05/2026 11.00
 
 <strong>H.POTENZA PICENA - AZ HOCKEY TEAM</strong>
 

@@ -75,7 +75,7 @@ Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
-## Sab 21/03/2026 15.00
+## Sab 21/03/2026 14.00
 
 <strong>CSP SAN GIORGIO - HT SARDEGNA</strong>
 

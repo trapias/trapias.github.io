@@ -90,16 +90,16 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 ## Dom 03/05/2026 13.00
 
-<strong>AZ HOCKEY TEAM - H.POTENZA PICENA</strong>
+<strong>H.POTENZA PICENA - AZ HOCKEY TEAM</strong>
 
 Gara: 614
 
-Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
+Campo: STADIO HOCKEY POTENZA PICENA 
 
-Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
+Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0432315, longitude=13.437583)
+Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
+Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
 
@@ -183,14 +183,14 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 ## Dom 19/04/2026 11.00
 
-<strong>H.POTENZA PICENA - AZ HOCKEY TEAM</strong>
+<strong>AZ HOCKEY TEAM - H.POTENZA PICENA</strong>
 
 Gara: 620
 
-Campo: STADIO HOCKEY POTENZA PICENA 
+Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
 
-Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
+Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
+Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
+Geo: Geo(latitude=42.0432315, longitude=13.437583)
 

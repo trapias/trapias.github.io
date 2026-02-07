@@ -41,6 +41,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA - A.S.D. POLISPORTIVA JUVENILIA RIS.</strong>
 
+**Risultato: 5-1**
+
 Gara: 1102
 
 Campo: Comunale Uras 
