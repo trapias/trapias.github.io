@@ -140,6 +140,8 @@ Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 <strong>HC RAINBOW SAMPIERDARENA - CUS PISA ASD</strong>
 
+**Risultato: 0-8**
+
 Gara: 276
 
 Campo: Palestra Geodetica Cus Pisa 
@@ -153,6 +155,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Sab 07/02/2026 10.45
 
 <strong>HF GENOVA 1980 - HC SAVONA</strong>
+
+**Risultato: 2-10**
 
 Gara: 277
 
@@ -168,6 +172,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>HC RAINBOW SAMPIERDARENA - HF GENOVA 1980</strong>
 
+**Risultato: 1-4**
+
 Gara: 278
 
 Campo: Palestra Geodetica Cus Pisa 
@@ -181,6 +187,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Sab 07/02/2026 13.30
 
 <strong>CUS PISA ASD - HC SAVONA</strong>
+
+**Risultato: 5-1**
 
 Gara: 279
 

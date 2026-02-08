@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4\nGara 863\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC ARGENTIA - HC RIVA
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260412T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4 - HC ARGENTIA - HC RIVA
-UID:ae1077d1-5649-4060-b433-eb4cf5c4409f@ae10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 6\nGara 867\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC ARGENTIA - CUS PADOVA
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260426T140000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 6 - HC ARGENTIA - CUS PADOVA
-UID:30660c66-f1da-4eac-9d26-8ae90f77ed17@3066.org
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 860\nCampo Hockey Mario Steffenel - Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo\nCUS PADOVA - HC ARGENTIA
+GEO:45.085185;7.679001
+LOCATION:Via Rovigo\, Valdocco\, Aurora\, Circoscrizione 7\, Torino\, Piemonte\, 10100\, Italia
+DTSTART:20260329T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3 - CUS PADOVA - HC ARGENTIA
+UID:479bc5a9-13c4-40bc-b385-426cf1a542ad@479b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1\nGara 857\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - HC ARGENTIA
@@ -23,7 +15,15 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260315T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1 - HC RIVA - HC ARGENTIA
-UID:eb5d05bb-4cbb-45b9-9813-9433ced9bf54@eb5d.org
+UID:ac80caf4-99e7-456b-a4b2-c3f79940d301@ac80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4\nGara 863\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC ARGENTIA - HC RIVA
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260412T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4 - HC ARGENTIA - HC RIVA
+UID:aaf5911f-1acd-4ca9-9f14-71d59bc6a14b@aaf5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 2\nGara 858\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC ARGENTIA - H.POTENZA PICENA
@@ -31,7 +31,15 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20260322T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 2 - HC ARGENTIA - H.POTENZA PICENA
-UID:ebdd27b5-9d1f-4aa2-a52d-b8b8aea14634@ebdd.org
+UID:77f69553-da8a-482b-9ff2-8ab56dc6710e@77f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 6\nGara 867\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC ARGENTIA - CUS PADOVA
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260426T140000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 6 - HC ARGENTIA - CUS PADOVA
+UID:b1ceed8f-8088-4ea0-bdfb-ec26206c6c0e@b1ce.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 864\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - HC ARGENTIA
@@ -39,14 +47,6 @@ GEO:43.386400;13.654670
 LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
 DTSTART:20260419T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 5 - H.POTENZA PICENA - HC ARGENTIA
-UID:8967c480-00a5-4930-b794-3d8ee2a6f175@8967.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 860\nCampo Hockey Mario Steffenel - Centro sportivo Gabrielli - Viale Tre Martiri\, 46 Rovigo\nCUS PADOVA - HC ARGENTIA
-GEO:45.085185;7.679001
-LOCATION:Via Rovigo\, Valdocco\, Aurora\, Circoscrizione 7\, Torino\, Piemonte\, 10100\, Italia
-DTSTART:20260329T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3 - CUS PADOVA - HC ARGENTIA
-UID:5cd327cc-813f-4b54-9e4e-ab533febb45d@5cd3.org
+UID:a1aa03ed-1ce0-434d-90f0-fb7aee4df536@a1aa.org
 END:VEVENT
 END:VCALENDAR

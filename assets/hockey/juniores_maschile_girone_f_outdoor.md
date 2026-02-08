@@ -25,6 +25,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>CUS CAGLIARI - HT SARDEGNA</strong>
 
+**Risultato: 10-0**
+
 Gara: 1160
 
 Campo: Comunale Uras 

@@ -55,6 +55,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>TEVERE EUR H - LAZIO HOCKEY</strong>
 
+**Risultato: 4-0**
+
 Gara: 545
 
 Campo: EUROMA STADIUM 
