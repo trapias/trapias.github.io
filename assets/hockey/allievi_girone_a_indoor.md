@@ -426,6 +426,8 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 <strong>SCUOLA HOCKEY INDER SINGH NEXT GEN - ASD CERNUSCO FIELD HOCKEY</strong>
 
+**Risultato: 0-14**
+
 Gara: 474
 
 Campo: PALAZZETTO SPORT PINASCA 
@@ -439,6 +441,8 @@ Geo: Geo(latitude=44.94264, longitude=7.229115)
 ## Dom 08/02/2026 12.00
 
 <strong>HCU RASSEMBLEMENT - A.S.D. S.H. PAOLO BONOMI</strong>
+
+**Risultato: 1-9**
 
 Gara: 475
 
@@ -454,6 +458,8 @@ Geo: Geo(latitude=44.94264, longitude=7.229115)
 ## Dom 08/02/2026 13.00 ⭐
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HP VALCHISONE</strong>
+
+**Risultato: 7-1**
 
 Gara: 476
 
@@ -471,6 +477,8 @@ Geo: Geo(latitude=44.94264, longitude=7.229115)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - SCUOLA HOCKEY INDER SINGH</strong>
 
+**Risultato: 5-1**
+
 Gara: 477
 
 Campo: PALAZZETTO SPORT PINASCA 
@@ -484,6 +492,8 @@ Geo: Geo(latitude=44.94264, longitude=7.229115)
 ## Dom 08/02/2026 15.00
 
 <strong>SCUOLA HOCKEY INDER SINGH NEXT GEN - HCU RASSEMBLEMENT</strong>
+
+**Risultato: 1-5**
 
 Gara: 478
 
@@ -499,6 +509,8 @@ Geo: Geo(latitude=44.94264, longitude=7.229115)
 ## Dom 08/02/2026 16.00 ⭐
 
 <strong>SCUOLA HOCKEY INDER SINGH - HP VALCHISONE</strong>
+
+**Risultato: 1-2**
 
 Gara: 479
 

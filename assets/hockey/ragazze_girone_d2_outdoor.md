@@ -107,6 +107,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>POL GALATEA - LAZIO HOCKEY</strong>
 
+**Risultato: 2-5**
+
 Gara: 712
 
 Campo: DUSMET 
