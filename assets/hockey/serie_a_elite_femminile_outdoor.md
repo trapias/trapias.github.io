@@ -16,7 +16,7 @@ Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
-## Dom 22/03/2026 15.00
+## Dom 22/03/2026 14.30
 
 <strong>LAZIO HOCKEY - HF LORENZONI</strong>
 

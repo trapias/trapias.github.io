@@ -47,7 +47,7 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 
 
-## Sab 07/03/2026 15.00
+## Sab 07/03/2026 15.30
 
 <strong>LAZIO HOCKEY - SG AMSICORA</strong>
 

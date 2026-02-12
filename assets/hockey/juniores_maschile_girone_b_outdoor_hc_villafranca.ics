@@ -2,12 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 376\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HC VILLAFRANCA
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20260510T110000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 9 - CUS PADOVA ASD - HC VILLAFRANCA
-UID:6dd17e24-4680-4f55-b5fd-f25fb1510ad2@6dd1.org
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 370\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
+LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
+DTSTART:20260322T100000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 6 - HC VILLAFRANCA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
+UID:bfe7e2fc-2320-4a02-a4b6-01fc61942748@bfe7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 271\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HC VILLAFRANCA\n\nRisultato: 3-3
@@ -15,21 +14,29 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20251116T100000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 5 - CSP SAN GIORGIO - HC VILLAFRANCA
-UID:cd1c6a1c-31f5-454b-9d32-35a54c680558@cd1c.org
+UID:a4fd56c4-8635-4874-a565-12642b6fe212@a4fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 376\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HC VILLAFRANCA
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20260510T110000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 9 - CUS PADOVA ASD - HC VILLAFRANCA
+UID:44037652-0a01-4491-88e5-8232527bccb0@4403.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 378\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - CSP SAN GIORGIO
+LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
+DTSTART:20260426T090000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 10 - HC VILLAFRANCA - CSP SAN GIORGIO
+UID:b6eee885-1209-464c-8b6e-49e518621bc9@b6ee.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 269\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - CUS PADOVA ASD\n\nRisultato: 2-2
 LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
 DTSTART:20251102T100000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 4 - HC VILLAFRANCA - CUS PADOVA ASD
-UID:53802753-03bb-4db8-88e9-26ff176d0866@5380.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 370\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
-DTSTART:20260322T100000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 6 - HC VILLAFRANCA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:239ce63e-ff57-4956-bba0-d6676eba29ef@239c.org
+UID:83bf79d0-4af8-42a0-8dd8-ee39c02d1e2a@83bf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 263\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HC VILLAFRANCA\n\nRisultato: 1-8
@@ -37,13 +44,6 @@ GEO:44.708262;10.635422
 LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
 DTSTART:20250921T090000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 1 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HC VILLAFRANCA
-UID:591471f4-87d8-4892-9bed-78487e17797b@5914.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 378\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - CSP SAN GIORGIO
-LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
-DTSTART:20260426T090000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 10 - HC VILLAFRANCA - CSP SAN GIORGIO
-UID:a0fac395-baaf-4451-8ec2-c7ad6d90d878@a0fa.org
+UID:d7c8882d-085f-44d2-9aa8-346c46ab821d@d7c8.org
 END:VEVENT
 END:VCALENDAR

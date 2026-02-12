@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 6\nGara 110\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - BUTTERFLY ROMA\n\nRisultato: 1-6
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20251025T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 6 - H.POTENZA PICENA - BUTTERFLY ROMA
-UID:3bc30ee7-202a-4025-b0b5-4ade07947170@3bc3.org
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 5\nGara 108\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - H.POTENZA PICENA\n\nRisultato: 7-1
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20251018T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 5 - TEVERE EUR H - H.POTENZA PICENA
+UID:7140947e-eb91-477d-8838-f1c7387558f9@7140.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 2\nGara 102\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - TEVERE EUR H\n\nRisultato: 0-5
@@ -15,23 +15,7 @@ GEO:43.386400;13.654670
 LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
 DTSTART:20250927T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 2 - H.POTENZA PICENA - TEVERE EUR H
-UID:318cfbac-05f8-4c76-82cc-76ecf1579ac5@318c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 5\nGara 108\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - H.POTENZA PICENA\n\nRisultato: 7-1
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20251018T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 5 - TEVERE EUR H - H.POTENZA PICENA
-UID:81260a0a-8c99-494e-8153-f3e0de15f67e@8126.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 4\nGara 106\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - LAZIO HOCKEY\n\nRisultato: 0-6
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20251011T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 4 - H.POTENZA PICENA - LAZIO HOCKEY
-UID:f478e900-11cb-4c4d-835f-fdfb183ca012@f478.org
+UID:01e84543-5a9c-43e4-8b4c-0481b27fac94@01e8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 3\nGara 104\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - H.POTENZA PICENA\n\nRisultato: 8-1
@@ -39,7 +23,15 @@ GEO:41.932122;12.486847
 LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
 DTSTART:20251004T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 3 - BUTTERFLY ROMA - H.POTENZA PICENA
-UID:3916ac01-72a4-40f9-bfc5-9ea2f2318fad@3916.org
+UID:b95ecb67-0de3-4416-b533-833eb92c0c39@b95e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 6\nGara 110\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - BUTTERFLY ROMA\n\nRisultato: 1-6
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20251025T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 6 - H.POTENZA PICENA - BUTTERFLY ROMA
+UID:0c966683-ac60-4b2f-8ce5-d3d5a27e9b49@0c96.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 1\nGara 100\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - H.POTENZA PICENA\n\nRisultato: 5-2
@@ -47,6 +39,14 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20250920T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 1 - LAZIO HOCKEY - H.POTENZA PICENA
-UID:631c4ddc-edb3-4349-a3b4-3b2d7d3f5595@631c.org
+UID:b2774516-d29e-4366-b139-b85c213d7168@b277.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 4\nGara 106\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - LAZIO HOCKEY\n\nRisultato: 0-6
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20251011T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 4 - H.POTENZA PICENA - LAZIO HOCKEY
+UID:2f68dc57-d96e-4045-82ad-c63a89892bfc@2f68.org
 END:VEVENT
 END:VCALENDAR

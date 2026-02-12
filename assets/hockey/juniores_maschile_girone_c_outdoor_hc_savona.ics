@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 4\nGara 315\nCampo Sportivo Augusto Briano - Via Santuario\, snc Savona\nHC SAVONA - HC GENOVA\n\nRisultato: 1-2
-GEO:44.323086;8.464578
-LOCATION:Via Santuario\, Lavagnola\, Savona\, Liguria\, 17100\, Italia
-DTSTART:20251012T090000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 4 - HC SAVONA - HC GENOVA
-UID:f3b6ae19-3ee4-4343-b193-a250bd651513@f3b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 3\nGara 311\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nASD SUPERBA HC - HC SAVONA\n\nRisultato: 9-2
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 1\nGara 305\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 U18 - HC SAVONA
 GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20251102T100000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 3 - ASD SUPERBA HC - HC SAVONA
-UID:c5801f4a-0c7c-4852-82e4-155779cf72dd@c580.org
+DTSTART:20260228T130000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 1 - GENOVA H 1980 U18 - HC SAVONA
+UID:fac627af-7eca-4861-a919-d80da3400c00@fac6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 2\nGara 310\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 - HC SAVONA\n\nRisultato: 8-3
@@ -23,15 +15,7 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20251005T090000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 2 - GENOVA H 1980 - HC SAVONA
-UID:98fb929c-fc13-4688-96f7-76c41903c944@98fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 1\nGara 305\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 U18 - HC SAVONA
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20260228T130000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 1 - GENOVA H 1980 U18 - HC SAVONA
-UID:4bae47dd-b371-454e-8317-a39b6a11108e@4bae.org
+UID:ff8ae667-b899-4e61-bcfe-35b88c1ad646@ff8a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 5\nGara 318\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - HC SAVONA
@@ -39,6 +23,22 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260301T100000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 5 - CUS PISA ASD - HC SAVONA
-UID:7b4869ed-c7b2-4cbb-b074-394b818cc394@7b48.org
+UID:e7f8ef45-8185-4849-92fc-7db800ce52d4@e7f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 3\nGara 311\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nASD SUPERBA HC - HC SAVONA\n\nRisultato: 9-2
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20251102T100000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 3 - ASD SUPERBA HC - HC SAVONA
+UID:6008aad9-170e-475e-9970-0159e28a9271@6008.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 4\nGara 315\nCampo Sportivo Augusto Briano - Via Santuario\, snc Savona\nHC SAVONA - HC GENOVA\n\nRisultato: 1-2
+GEO:44.323086;8.464578
+LOCATION:Via Santuario\, Lavagnola\, Savona\, Liguria\, 17100\, Italia
+DTSTART:20251012T090000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 4 - HC SAVONA - HC GENOVA
+UID:c062e683-b6cc-44b0-bb87-5fdbe2602645@c062.org
 END:VEVENT
 END:VCALENDAR
