@@ -361,7 +361,7 @@ Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Fr
 Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 
 
-## Dom 19/04/2026 11.00
+## Dom 19/04/2026 16.00
 
 <strong>ASD ADIGE UHC - CSP SAN GIORGIO</strong>
 

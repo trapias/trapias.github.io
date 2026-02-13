@@ -86,7 +86,7 @@ Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capital
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
-## Sab 28/03/2026 13.00
+## Sab 09/05/2026 14.30
 
 <strong>POL GALATEA - HOCKEY CLUB ROMA</strong>
 

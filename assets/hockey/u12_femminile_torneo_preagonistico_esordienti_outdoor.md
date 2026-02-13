@@ -156,7 +156,7 @@ Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerat
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 
-## Dom 28/06/2026 11.00
+## Sab 14/02/2026 11.00
 
 <strong>LAZIO HOCKEY - SQUADRA JOLLY</strong>
 
@@ -170,7 +170,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Dom 28/06/2026 11.00
+## Sab 14/02/2026 11.00
 
 <strong>UH CAPITOLINA - SQUADRA JOLLY</strong>
 
@@ -338,7 +338,7 @@ Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrare
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
-## Dom 28/06/2026 11.00
+## Sab 14/02/2026 11.00
 
 <strong>HOCKEY CLUB ROMA - SQUADRA JOLLY</strong>
 
@@ -352,7 +352,7 @@ Location: Romano, Via Fratelli Cairoli, Romano di Lombardia, Bergamo, Lombardia,
 Geo: Geo(latitude=45.5238156, longitude=9.7535313)
 
 
-## Dom 28/06/2026 11.00
+## Sab 14/02/2026 11.00
 
 <strong>BUTTERFLY ROMA - SQUADRA JOLLY</strong>
 

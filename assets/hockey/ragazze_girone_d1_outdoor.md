@@ -59,7 +59,7 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 # Ragazze - OUTDOOR  - Girone D1 / Giornata 4
 
-## Dom 15/03/2026 13.00
+## Sab 21/03/2026 16.00
 
 <strong>AZ HOCKEY TEAM - H.POTENZA PICENA</strong>
 

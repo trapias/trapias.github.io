@@ -167,7 +167,7 @@ Geo: Geo(latitude=45.5238156, longitude=9.7535313)
 
 # Allieve - OUTDOOR  - Girone D1 / Giornata 6
 
-## Sab 11/04/2026 15.00
+## Dom 12/04/2026 15.00
 
 <strong>HOCKEY CLUB ROMA - BUTTERFLY ROMA</strong>
 

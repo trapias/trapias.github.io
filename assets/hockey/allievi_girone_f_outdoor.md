@@ -117,7 +117,7 @@ Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
-## Dom 15/03/2026 11.00
+## Dom 15/03/2026 16.00
 
 <strong>POLISPORTIVA FERRINI - A.S.D. POLISPORTIVA JUVENILIA</strong>
 

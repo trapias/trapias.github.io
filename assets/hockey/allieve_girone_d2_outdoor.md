@@ -93,7 +93,7 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 # Allieve - OUTDOOR  - Girone D2 / Giornata 6
 
-## Sab 11/04/2026 17.00
+## Mer 08/04/2026 18.00
 
 <strong>ASD HOCKEY CLUB MOGLIANO - H.POTENZA PICENA</strong>
 

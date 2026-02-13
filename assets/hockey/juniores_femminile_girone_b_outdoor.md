@@ -158,18 +158,18 @@ Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
-## Dom 01/03/2026 13.00
+## Sab 21/03/2026 15.30
 
-<strong>MILANO HP - CUS PADOVA ASD</strong>
+<strong>CUS PADOVA ASD - MILANO HP</strong>
 
 Gara: 389
 
-Campo: Campo Comunale 
+Campo: Impianti L. Merigliano 
 
-Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 
@@ -282,7 +282,7 @@ Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
-## Sab 25/04/2026 16.00
+## Sab 25/04/2026 11.00
 
 <strong>HOCKEY CLUB RIVA - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
 
@@ -299,7 +299,7 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 # Juniores Femminile - OUTDOOR  - Girone B / Giornata 10
 
-## Dom 03/05/2026 11.00
+## Ven 01/05/2026 11.00
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - HOCKEY CLUB ARGENTIA</strong>
 
@@ -313,16 +313,16 @@ Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bol
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
-## Dom 03/05/2026 11.00
+## Sab 09/05/2026 17.00
 
-<strong>CUS PADOVA ASD - MILANO HP</strong>
+<strong>MILANO HP - CUS PADOVA ASD</strong>
 
 Gara: 399
 
-Campo: Impianti L. Merigliano 
+Campo: Campo Comunale 
 
-Indirizzo Campo:  via J. Corrado, 4 - Padova
+Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Padova, Veneto, Italia
-Geo: Geo(latitude=45.391408, longitude=11.8058487)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 

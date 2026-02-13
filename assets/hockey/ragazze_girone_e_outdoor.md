@@ -6,6 +6,8 @@
 
 <strong>SG AMSICORA - CUS CAGLIARI</strong>
 
+**Risultato: 8-3**
+
 Gara: 1093
 
 Campo: AMSICORA 

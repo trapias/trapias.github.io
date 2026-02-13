@@ -183,7 +183,7 @@ Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
-## Sab 30/05/2026 16.30
+## Mer 27/05/2026 18.00
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - ASD HOCKEY CLUB BONDENO</strong>
 
