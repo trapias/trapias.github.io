@@ -150,7 +150,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Dom 22/03/2026 11.00
+## Ven 20/03/2026 19.00
 
 <strong>AZ HOCKEY TEAM - BUTTERFLY ROMA</strong>
 
