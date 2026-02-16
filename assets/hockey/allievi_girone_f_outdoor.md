@@ -76,6 +76,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>SG AMSICORA - A.S.D. POLISPORTIVA JUVENILIA</strong>
 
+**Risultato: 0-10**
+
 Gara: 1104
 
 Campo: AMSICORA 
@@ -106,6 +108,8 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 ## Dom 15/02/2026 11.15
 
 <strong>SG AMSICORA - A.S.D. POLISPORTIVA JUVENILIA RIS.</strong>
+
+**Risultato: 1-3**
 
 Gara: 1106
 
