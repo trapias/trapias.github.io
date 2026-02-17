@@ -355,3 +355,318 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
+
+
+# Allievi - OUTDOOR  - Girone C / Giornata 8
+
+## Dom 15/03/2026 09.00
+
+<strong>HC GENOVA RAINBOW - GENOVA H 1980 DRITTO</strong>
+
+Gara: 1195
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Dom 08/03/2026 13.00
+
+<strong>CUS PISA ASD - GENOVA H 1980 ROVESCIO</strong>
+
+Gara: 1196
+
+Campo: CAMPO HOCKEY PRATO 
+
+Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
+
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+
+
+## Sab 14/03/2026 11.00
+
+<strong>HC GENOVA - ASD BAD LAKE HOCKEY B</strong>
+
+Gara: 1197
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+
+# Allievi - OUTDOOR  - Girone C / Giornata 9
+
+## Dom 29/03/2026 12.00
+
+<strong>ASD BAD LAKE HOCKEY - CUS PISA ASD</strong>
+
+Gara: 1198
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Sab 21/03/2026 11.00
+
+<strong>GENOVA H 1980 ROVESCIO - HC GENOVA RAINBOW</strong>
+
+Gara: 1199
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Sab 21/03/2026 09.00
+
+<strong>GENOVA H 1980 DRITTO - HC GENOVA</strong>
+
+Gara: 1200
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+
+# Allievi - OUTDOOR  - Girone C / Giornata 10
+
+## Sab 21/03/2026 17.00
+
+<strong>GENOVA H 1980 DRITTO - GENOVA H 1980 ROVESCIO</strong>
+
+Gara: 1201
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Dom 08/03/2026 15.00
+
+<strong>HC GENOVA RAINBOW - ASD BAD LAKE HOCKEY</strong>
+
+Gara: 1202
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Dom 29/03/2026 17.00
+
+<strong>ASD BAD LAKE HOCKEY B - CUS PISA ASD</strong>
+
+Gara: 1203
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+
+# Allievi - OUTDOOR  - Girone C / Giornata 11
+
+## Sab 18/04/2026 11.00
+
+<strong>ASD BAD LAKE HOCKEY B - HC GENOVA RAINBOW</strong>
+
+Gara: 1204
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Dom 03/05/2026 09.00
+
+<strong>ASD BAD LAKE HOCKEY - GENOVA H 1980 DRITTO</strong>
+
+Gara: 1205
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Sab 25/04/2026 17.00
+
+<strong>GENOVA H 1980 ROVESCIO - HC GENOVA</strong>
+
+Gara: 1206
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+
+# Allievi - OUTDOOR  - Girone C / Giornata 12
+
+## Dom 22/02/2026 09.00
+
+<strong>GENOVA H 1980 DRITTO - ASD BAD LAKE HOCKEY B</strong>
+
+Gara: 1207
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Dom 22/02/2026 10.30
+
+<strong>GENOVA H 1980 ROVESCIO - ASD BAD LAKE HOCKEY</strong>
+
+Gara: 1208
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Sab 02/05/2026 16.30
+
+<strong>HC GENOVA - CUS PISA ASD</strong>
+
+Gara: 1209
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+
+# Allievi - OUTDOOR  - Girone C / Giornata 13
+
+## Dom 26/04/2026 17.00
+
+<strong>ASD BAD LAKE HOCKEY B - GENOVA H 1980 ROVESCIO</strong>
+
+Gara: 1210
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Sab 25/04/2026 11.00
+
+<strong>ASD BAD LAKE HOCKEY - HC GENOVA</strong>
+
+Gara: 1211
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Sab 02/05/2026 18.00
+
+<strong>HC GENOVA RAINBOW - CUS PISA ASD</strong>
+
+Gara: 1212
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+
+# Allievi - OUTDOOR  - Girone C / Giornata 14
+
+## Sab 02/05/2026 11.00
+
+<strong>ASD BAD LAKE HOCKEY - ASD BAD LAKE HOCKEY B</strong>
+
+Gara: 1213
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Gio 05/03/2026 18.00
+
+<strong>HC GENOVA - HC GENOVA RAINBOW</strong>
+
+Gara: 1214
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Dom 08/03/2026 11.00
+
+<strong>CUS PISA ASD - GENOVA H 1980 DRITTO</strong>
+
+Gara: 1215
+
+Campo: CAMPO HOCKEY PRATO 
+
+Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
+
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+

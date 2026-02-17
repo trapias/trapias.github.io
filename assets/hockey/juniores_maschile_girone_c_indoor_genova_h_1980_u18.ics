@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 3\nGara 568\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC PISTOIA FRANJO - GENOVA H. 1980 U18\n\nRisultato: 2-4
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260118T143000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 3 - HC PISTOIA FRANJO - GENOVA H. 1980 U18
-UID:7a4a0d4b-db57-4537-bdc8-07b477ac6984@7a4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 1\nGara 551\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nASD SUPERBA HC - GENOVA H. 1980 U18\n\nRisultato: 8-1
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251208T120000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 1 - ASD SUPERBA HC - GENOVA H. 1980 U18
-UID:44d8b1d4-da6c-4d7f-a11b-4b3098d6bd11@44d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 2\nGara 560\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nGENOVA H. 1980 U18 - GENOVA H. 1980\n\nRisultato: 1-8
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 2\nGara 558\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nCUS PISA ASD - GENOVA H. 1980 U18\n\nRisultato: 4-4
 GEO:43.944387;10.929450
 LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
-DTSTART:20251214T130000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 2 - GENOVA H. 1980 U18 - GENOVA H. 1980
-UID:c674212e-b2c4-480f-9f6a-df9a9ba709c8@c674.org
+DTSTART:20251214T110000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 2 - CUS PISA ASD - GENOVA H. 1980 U18
+UID:b87bfc18-af3d-4882-9df9-bf4861337208@b87b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone C / Giornata 1\nGara 554\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nGENOVA H. 1980 U18 - HC SAVONA\n\nRisultato: 5-5
@@ -31,7 +15,23 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251208T150000Z
 SUMMARY:Juniores Maschile  - Girone C / Giornata 1 - GENOVA H. 1980 U18 - HC SAVONA
-UID:d6679f0a-bac3-472c-825d-09da3bcbf84b@d667.org
+UID:e320227d-5e42-4136-a03c-6dc0d8155028@e320.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 2\nGara 560\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nGENOVA H. 1980 U18 - GENOVA H. 1980\n\nRisultato: 1-8
+GEO:43.944387;10.929450
+LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
+DTSTART:20251214T130000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 2 - GENOVA H. 1980 U18 - GENOVA H. 1980
+UID:8b4d955d-299e-469f-b04f-df772ecbaeb0@8b4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 1\nGara 551\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nASD SUPERBA HC - GENOVA H. 1980 U18\n\nRisultato: 8-1
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251208T120000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 1 - ASD SUPERBA HC - GENOVA H. 1980 U18
+UID:f3b1f146-2768-4580-9e8b-5263f7c2fb04@f3b1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone C / Giornata 3\nGara 564\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nGENOVA H. 1980 U18 - HC GENOVA\n\nRisultato: 5-6
@@ -39,14 +39,14 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260118T103000Z
 SUMMARY:Juniores Maschile  - Girone C / Giornata 3 - GENOVA H. 1980 U18 - HC GENOVA
-UID:955b842e-eba3-46dd-9f4f-92d7f3dbfc04@955b.org
+UID:beb9d70a-2a49-4af6-aa11-da5f9c5a2ce4@beb9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 2\nGara 558\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nCUS PISA ASD - GENOVA H. 1980 U18\n\nRisultato: 4-4
-GEO:43.944387;10.929450
-LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
-DTSTART:20251214T110000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 2 - CUS PISA ASD - GENOVA H. 1980 U18
-UID:400c7324-ee19-49e4-a14b-89c0cd97eb67@400c.org
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 3\nGara 568\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC PISTOIA FRANJO - GENOVA H. 1980 U18\n\nRisultato: 2-4
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260118T143000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 3 - HC PISTOIA FRANJO - GENOVA H. 1980 U18
+UID:a8e7de43-2a6f-4a59-bd02-77bf71d6dbb4@a8e7.org
 END:VEVENT
 END:VCALENDAR

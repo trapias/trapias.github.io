@@ -40,7 +40,7 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 # Juniores Maschile - OUTDOOR  - Girone F / Giornata 3
 
-## Sab 28/02/2026 16.00
+## Dom 08/03/2026 11.30
 
 <strong>HT SARDEGNA - SG AMSICORA</strong>
 
