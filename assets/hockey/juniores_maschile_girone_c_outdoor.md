@@ -247,3 +247,228 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
+
+
+# Juniores Maschile - OUTDOOR  - Girone C / Giornata 6
+
+## Dom 10/05/2026 11.00
+
+<strong>HC SAVONA - GENOVA H 1980 U18</strong>
+
+Gara: 1216
+
+Campo: Campo Sportivo Augusto Briano 
+
+Indirizzo Campo:  Via Santuario, snc - Savona
+
+Location: Via Santuario, Lavagnola, Savona, Liguria, 17100, Italia
+Geo: Geo(latitude=44.3230861, longitude=8.464578)
+
+
+## Dom 08/03/2026 13.00
+
+<strong>ASD SUPERBA HC - CUS PISA ASD</strong>
+
+Gara: 1217
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Dom 08/03/2026 11.00
+
+<strong>GENOVA H 1980 - HC GENOVA</strong>
+
+Gara: 1218
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+
+# Juniores Maschile - OUTDOOR  - Girone C / Giornata 7
+
+## Dom 03/05/2026 11.00
+
+<strong>HC SAVONA - GENOVA H 1980</strong>
+
+Gara: 1219
+
+Campo: Campo Sportivo Augusto Briano 
+
+Indirizzo Campo:  Via Santuario, snc - Savona
+
+Location: Via Santuario, Lavagnola, Savona, Liguria, 17100, Italia
+Geo: Geo(latitude=44.3230861, longitude=8.464578)
+
+
+## Dom 22/03/2026 09.00
+
+<strong>ASD SUPERBA HC - GENOVA H 1980 U18</strong>
+
+Gara: 1220
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Dom 22/03/2026 15.00
+
+<strong>HC GENOVA - CUS PISA ASD</strong>
+
+Gara: 1221
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+
+# Juniores Maschile - OUTDOOR  - Girone C / Giornata 8
+
+## Dom 29/03/2026 09.00
+
+<strong>GENOVA H 1980 U18 - HC GENOVA</strong>
+
+Gara: 1222
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Dom 29/03/2026 10.30
+
+<strong>GENOVA H 1980 - CUS PISA ASD</strong>
+
+Gara: 1223
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Dom 29/03/2026 11.00
+
+<strong>HC SAVONA - ASD SUPERBA HC</strong>
+
+Gara: 1224
+
+Campo: Campo Sportivo Augusto Briano 
+
+Indirizzo Campo:  Via Santuario, snc - Savona
+
+Location: Via Santuario, Lavagnola, Savona, Liguria, 17100, Italia
+Geo: Geo(latitude=44.3230861, longitude=8.464578)
+
+
+
+# Juniores Maschile - OUTDOOR  - Girone C / Giornata 9
+
+## Dom 12/04/2026 09.00
+
+<strong>HC GENOVA - HC SAVONA</strong>
+
+Gara: 1225
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Dom 12/04/2026 11.00
+
+<strong>ASD SUPERBA HC - GENOVA H 1980</strong>
+
+Gara: 1226
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Dom 12/04/2026 13.00
+
+<strong>GENOVA H 1980 U18 - CUS PISA ASD</strong>
+
+Gara: 1227
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+
+# Juniores Maschile - OUTDOOR  - Girone C / Giornata 10
+
+## Dom 26/04/2026 09.00
+
+<strong>ASD SUPERBA HC - HC GENOVA</strong>
+
+Gara: 1228
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Dom 26/04/2026 11.00
+
+<strong>HC SAVONA - CUS PISA ASD</strong>
+
+Gara: 1229
+
+Campo: Campo Sportivo Augusto Briano 
+
+Indirizzo Campo:  Via Santuario, snc - Savona
+
+Location: Via Santuario, Lavagnola, Savona, Liguria, 17100, Italia
+Geo: Geo(latitude=44.3230861, longitude=8.464578)
+
+
+## Dom 26/04/2026 11.00
+
+<strong>GENOVA H 1980 - GENOVA H 1980 U18</strong>
+
+Gara: 1230
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
