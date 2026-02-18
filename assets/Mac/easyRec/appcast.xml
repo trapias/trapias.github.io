@@ -7,24 +7,24 @@
     <description>Aggiornamenti per EasyRec</description>
     <language>it</language>
     <item>
-        <title>EasyRec 1.8</title>
-        <sparkle:version>3</sparkle:version>
-        <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
-        <pubDate>Wed, 11 Feb 2026 10:14:41 +0100</pubDate>
+        <title>EasyRec 1.9</title>
+        <sparkle:version>4</sparkle:version>
+        <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+        <pubDate>Wed, 18 Feb 2026 09:22:31 +0100</pubDate>
         <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
         <description><![CDATA[
-<h2>EasyRec 1.8</h2>
+<h2>EasyRec 1.9</h2>
 <ul>
-<li>Custom HuggingFace model support - add any WhisperKit repo</li>
-<li>Language selection for transcription</li>
-<li>Custom vocabulary prompt</li>
-<li>Model management: delete, cancel, retry</li>
+<li>Menu bar recording control — red dot icon with timer during recording (like QuickTime)</li>
+<li>Switch between floating bar, main window, or hidden mode while recording</li>
+<li>Stop recording from the menu bar dropdown</li>
+<li>Dock click restores main window during recording</li>
 </ul>
-]]></description>
+        ]]></description>
         <enclosure
-            url="https://www.trapias.it/assets/Mac/easyRec/EasyRec-1.8.dmg"
-            sparkle:edSignature="oIsj4eazsnOSjDo72g6wDcMxaDVUQwhYhAvfWWWhmLjqvRJd+jyb19VTbcj8F3yS89AIDFxMqTY1G4f2LLrwBA=="
-            length="6745036"
+            url="https://www.trapias.it/assets/Mac/easyRec/EasyRec-1.9.dmg"
+            sparkle:edSignature="QYfs9bC8XJCncNXjBIJb7MZpRZ4pRmoK7fQ2X3kRwsSyhdvfHefR+luPCoi7/7HQRBqj/rc/Ks7RqxojjsEJCw=="
+            length="6763808"
             type="application/octet-stream" />
     </item>
 </channel>
