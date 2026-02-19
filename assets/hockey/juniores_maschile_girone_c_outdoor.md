@@ -459,7 +459,7 @@ Location: Via Santuario, Lavagnola, Savona, Liguria, 17100, Italia
 Geo: Geo(latitude=44.3230861, longitude=8.464578)
 
 
-## Dom 26/04/2026 11.00
+## Gio 02/04/2026 18.30
 
 <strong>GENOVA H 1980 - GENOVA H 1980 U18</strong>
 

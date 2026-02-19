@@ -88,7 +88,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Dom 08/03/2026 13.00
+## Mer 22/04/2026 18.30
 
 <strong>TEVERE EUR H - HOCKEY CLUB ROMA</strong>
 

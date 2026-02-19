@@ -152,7 +152,7 @@ Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, 
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
-## Dom 01/03/2026 11.00
+## Gio 05/03/2026 18.00
 
 <strong>SG AMSICORA - POLISPORTIVA FERRINI</strong>
 
