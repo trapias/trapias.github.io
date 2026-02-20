@@ -37,7 +37,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 # Ragazzi - OUTDOOR  - Girone D / Giornata 2
 
-## Dom 01/03/2026 09.00
+## Sab 11/04/2026 09.00
 
 <strong>ASD BAD LAKE HOCKEY B - GENOVA H 1980 DRITTO</strong>
 
@@ -163,6 +163,161 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 **Risultato: 2-0**
 
 Gara: 350
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+
+# Ragazzi - OUTDOOR  - Girone D / Giornata 6
+
+## Dom 01/03/2026 09.30
+
+<strong>HC GENOVA - GENOVA H 1980 DRITTO</strong>
+
+Gara: 1231
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Sab 18/04/2026 09.00
+
+<strong>ASD BAD LAKE HOCKEY B - ASD BAD LAKE HOCKEY</strong>
+
+Gara: 1232
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+
+# Ragazzi - OUTDOOR  - Girone D / Giornata 7
+
+## Sab 07/03/2026 09.00
+
+<strong>GENOVA H 1980 DRITTO - ASD BAD LAKE HOCKEY B</strong>
+
+Gara: 1233
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Sab 07/03/2026 10.30
+
+<strong>GENOVA H 1980 ROVESCIO - HC GENOVA</strong>
+
+Gara: 1234
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+
+# Ragazzi - OUTDOOR  - Girone D / Giornata 8
+
+## Sab 28/03/2026 09.00
+
+<strong>GENOVA H 1980 DRITTO - GENOVA H 1980 ROVESCIO</strong>
+
+Gara: 1235
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Sab 28/03/2026 11.00
+
+<strong>HC GENOVA - ASD BAD LAKE HOCKEY</strong>
+
+Gara: 1236
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+
+# Ragazzi - OUTDOOR  - Girone D / Giornata 9
+
+## Ven 01/05/2026 09.00
+
+<strong>GENOVA H 1980 ROVESCIO - ASD BAD LAKE HOCKEY B</strong>
+
+Gara: 1237
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Ven 01/05/2026 11.00
+
+<strong>ASD BAD LAKE HOCKEY - GENOVA H 1980 DRITTO</strong>
+
+Gara: 1238
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+
+# Ragazzi - OUTDOOR  - Girone D / Giornata 10
+
+## Sab 23/05/2026 09.00
+
+<strong>GENOVA H 1980 ROVESCIO - ASD BAD LAKE HOCKEY</strong>
+
+Gara: 1239
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Sab 23/05/2026 11.00
+
+<strong>ASD BAD LAKE HOCKEY B - HC GENOVA</strong>
+
+Gara: 1240
 
 Campo: CAMPO G.ARNALDI 
 

@@ -643,7 +643,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Gio 05/03/2026 18.00
+## Gio 05/03/2026 17.15
 
 <strong>HC GENOVA - HC GENOVA RAINBOW</strong>
 
