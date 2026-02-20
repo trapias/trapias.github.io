@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<title>Val Chisone – Planner Partite 2025/2026</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Segoe UI', sans-serif; background: #f0f4f8; color: #1a202c; }
+  header { background: linear-gradient(135deg, #1a365d, #2b6cb0); color: white; padding: 24px 32px; }
+  header h1 { font-size: 1.6rem; font-weight: 700; }
+  header p { font-size: 0.9rem; opacity: 0.8; margin-top: 4px; }
+  .legend { display: flex; gap: 16px; padding: 16px 32px; background: white; border-bottom: 1px solid #e2e8f0; flex-wrap: wrap; align-items: center; }
+  .legend span { font-size: 0.8rem; font-weight: 600; color: #4a5568; }
+  .badge { display: inline-flex; align-items: center; gap: 6px; padding: 4px 10px; border-radius: 20px; font-size: 0.75rem; font-weight: 600; }
+  .badge::before { content: ''; width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+  .jm::before { background: #3182ce; } .jm { color: #3182ce; background: #ebf8ff; }
+  .rm::before { background: #38a169; } .rm { color: #38a169; background: #f0fff4; }
+  .am::before { background: #d69e2e; } .am { color: #d69e2e; background: #fffff0; }
+  .rf::before { background: #805ad5; } .rf { color: #805ad5; background: #faf5ff; }
+  .af::before { background: #dd6b20; } .af { color: #dd6b20; background: #fffaf0; }
+  .warning::before { background: #e53e3e; } .warning { color: #e53e3e; background: #fff5f5; }
+  .container { padding: 24px 32px; }
+  .alert { background: #fff5f5; border: 2px solid #fc8181; border-radius: 10px; padding: 16px 20px; margin-bottom: 24px; }
+  .alert h3 { color: #c53030; font-size: 1rem; margin-bottom: 8px; }
+  .alert ul { padding-left: 18px; color: #742a2a; font-size: 0.875rem; line-height: 1.8; }
+  .timeline { display: flex; flex-direction: column; gap: 0; }
+  .month-group { margin-bottom: 24px; }
+  .month-label { font-size: 1rem; font-weight: 700; color: #2d3748; padding: 8px 0; border-bottom: 2px solid #cbd5e0; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.05em; }
+  .day-block { background: white; border-radius: 10px; padding: 16px; margin-bottom: 10px; border-left: 4px solid #e2e8f0; box-shadow: 0 1px 3px rgba(0,0,0,0.06); }
+  .day-block.conflict { border-left-color: #e53e3e; background: #fffafa; }
+  .day-header { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
+  .day-date { font-weight: 700; font-size: 1rem; color: #2d3748; min-width: 120px; }
+  .conflict-tag { background: #e53e3e; color: white; font-size: 0.7rem; font-weight: 700; padding: 2px 8px; border-radius: 20px; }
+  .matches { display: flex; flex-direction: column; gap: 6px; }
+  .match-row { display: flex; align-items: center; gap: 10px; padding: 8px 12px; border-radius: 8px; font-size: 0.875rem; }
+  .match-row.home { border: 1px solid #bee3f8; background: #ebf8ff; }
+  .match-row.away { border: 1px solid #e2e8f0; background: #f7fafc; }
+  .match-cat { font-weight: 700; min-width: 80px; font-size: 0.75rem; }
+  .match-teams { flex: 1; }
+  .match-teams .home-team { font-weight: 700; }
+  .match-loc { font-size: 0.75rem; color: #718096; font-style: italic; }
+  .match-type { font-size: 0.7rem; font-weight: 600; padding: 2px 6px; border-radius: 4px; }
+  .type-home { background: #bee3f8; color: #2c5282; }
+  .type-away { background: #e2e8f0; color: #4a5568; }
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 16px; margin-bottom: 24px; }
+  .stat-card { background: white; border-radius: 10px; padding: 16px; text-align: center; box-shadow: 0 1px 3px rgba(0,0,0,0.06); }
+  .stat-num { font-size: 2rem; font-weight: 800; color: #2b6cb0; }
+  .stat-label { font-size: 0.8rem; color: #718096; margin-top: 4px; }
+  .stat-card.red .stat-num { color: #e53e3e; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>🏒 HP Val Chisone – Calendario Partite 2025/2026</h1>
+  <p>Bozza campionati FIH – Area 1 Piemonte &nbsp;|&nbsp; Estratto dal: 13 Febbraio 2026</p>
+</header>
+
+<div class="legend">
+  <span>Categorie:</span>
+  <span class="badge jm">Juniores M (U20)</span>
+  <span class="badge rm">Ragazzi M</span>
+  <span class="badge am">Allievi M</span>
+  <span class="badge rf">Ragazze F</span>
+  <span class="badge af">Allieve F</span>
+  <span class="badge warning">⚠ Giorno con sovrapposizione</span>
+</div>
+
+<div class="container">
+
+  <div class="stats">
+    <div class="stat-card">
+      <div class="stat-num" id="tot-matches">–</div>
+      <div class="stat-label">Partite totali Val Chisone</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-num" id="tot-days">–</div>
+      <div class="stat-label">Giorni di gara</div>
+    </div>
+    <div class="stat-card red">
+      <div class="stat-num" id="tot-conflicts">–</div>
+      <div class="stat-label">Giorni con sovrapposizione</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-num" id="tot-home">–</div>
+      <div class="stat-label">Partite in casa</div>
+    </div>
+  </div>
+
+  <div class="alert" id="conflict-alert"></div>
+
+  <div class="timeline" id="timeline"></div>
+
+</div>
+
+<script>
+const CAT_STYLE = {
+  'Juniores M': { cls: 'jm', color: '#3182ce' },
+  'Ragazzi M':  { cls: 'rm', color: '#38a169' },
+  'Allievi M':  { cls: 'am', color: '#d69e2e' },
+  'Ragazze F':  { cls: 'rf', color: '#805ad5' },
+  'Allieve F':  { cls: 'af', color: '#dd6b20' },
+};
+
+// Tutte le partite di Val Chisone estratte dai file XLS
+// formato: { date, cat, home, away, location, note }
+const matches = [
+  // === JUNIORES M ===
+  { date: '2026-03-22', cat: 'Juniores M', home: 'HP VALCHISONE', away: 'SC. H. INDER SINGH', location: '' },
+  { date: '2026-04-19', cat: 'Juniores M', home: 'HP VALCHISONE', away: 'RASSEMBLEMENT', location: '' },
+  { date: '2026-04-26', cat: 'Juniores M', home: 'HP VALCHISONE', away: 'USD MONCALVESE', location: '' },
+  { date: '2026-05-01', cat: 'Juniores M', home: 'HP VALCHISONE', away: 'CERNUSCO FIELD', location: '' },
+
+  // === RAGAZZI M ===
+  { date: '2026-03-07', cat: 'Ragazzi M', home: 'SC. H. INDER SINGH', away: 'HP VALCHISONE', location: '' },
+  { date: '2026-03-08', cat: 'Ragazzi M', home: 'CERNUSCO FIELD', away: 'HP VALCHISONE', location: '' },
+  { date: '2026-03-14', cat: 'Ragazzi M', home: 'SHP BONOMI', away: 'HP VALCHISONE', location: '' },
+  { date: '2026-03-15', cat: 'Ragazzi M', home: 'RASSEMBLEMENT RIS.', away: 'HP VALCHISONE', location: 'Torino' },
+  { date: '2026-03-15', cat: 'Ragazzi M', home: 'RASSEMBLEMENT A', away: 'HP VALCHISONE', location: 'Torino' },
+  { date: '2026-04-11', cat: 'Ragazzi M', home: 'HP VALCHISONE', away: 'SHP BONOMI', location: '' },
+  { date: '2026-04-26', cat: 'Ragazzi M', home: 'HP VALCHISONE', away: 'RASSEMBLEMENT RIS.', location: 'Torino' },
+  { date: '2026-04-26', cat: 'Ragazzi M', home: 'HP VALCHISONE', away: 'RASSEMBLEMENT A', location: 'Torino' },
+  { date: '2026-05-01', cat: 'Ragazzi M', home: 'SC. H. INDER SINGH', away: 'HP VALCHISONE', location: '' },
+  { date: '2026-05-03', cat: 'Ragazzi M', home: 'HP VALCHISONE', away: 'CERNUSCO FIELD', location: '' },
+
+  // === ALLIEVI M ===
+  // 29.03 giornata a Cernusco
+  { date: '2026-03-29', cat: 'Allievi M', home: 'HP VALCHISONE', away: 'CERNUSCO FIELD', location: 'Cernusco' },
+  { date: '2026-03-29', cat: 'Allievi M', home: 'SC. H. I. SINGH', away: 'HP VALCHISONE', location: 'Cernusco' },
+  { date: '2026-03-29', cat: 'Allievi M', home: 'SCUOLA HOCKEY', away: 'HP VALCHISONE', location: 'Cernusco' },
+  // 12.04 giornata a Villar Perosa
+  { date: '2026-04-12', cat: 'Allievi M', home: 'HP VALCHISONE', away: 'RASSEMBLEMENT', location: 'Villar Perosa' },
+  { date: '2026-04-12', cat: 'Allievi M', home: 'HP VALCHISONE', away: 'SC. H. I. SINGH', location: 'Villar Perosa' },
+  { date: '2026-04-12', cat: 'Allievi M', home: 'HP VALCHISONE', away: 'SC. H. I. SINGH N.G.', location: 'Villar Perosa' },
+  // 25.04 giornata a Castello d'Agogna
+  { date: '2026-04-25', cat: 'Allievi M', home: 'RASSEMBLEMENT', away: 'HP VALCHISONE', location: "Castello d'Agogna" },
+  { date: '2026-04-25', cat: 'Allievi M', home: 'CERNUSCO FIELD', away: 'HP VALCHISONE', location: "Castello d'Agogna" },
+  { date: '2026-04-25', cat: 'Allievi M', home: 'SCUOLA HOCKEY', away: 'HP VALCHISONE', location: "Castello d'Agogna" },
+
+  // === RAGAZZE F ===
+  { date: '2026-03-14', cat: 'Ragazze F', home: 'USD MONCALVESE', away: 'HP VALCHISONE', location: '' },
+  { date: '2026-03-21', cat: 'Ragazze F', home: 'HP MILANO', away: 'HP VALCHISONE', location: '' },
+  { date: '2026-05-02', cat: 'Ragazze F', home: 'HP VALCHISONE', away: 'HF LORENZONI', location: '' },
+  { date: '2026-05-16', cat: 'Ragazze F', home: 'HP MILANO', away: 'HP VALCHISONE', location: '' },
+  { date: '2026-05-23', cat: 'Ragazze F', home: 'HP VALCHISONE', away: 'USD MONCALVESE', location: '' },
+  { date: '2026-05-24', cat: 'Ragazze F', home: 'HP VALCHISONE', away: 'HP MILANO', location: '' },
+  { date: '2026-06-02', cat: 'Ragazze F', home: 'HF LORENZONI', away: 'HP VALCHISONE', location: '' },
+  { date: '2026-06-13', cat: 'Ragazze F', home: 'HP VALCHISONE', away: 'CUS TORINO', location: '' },
+
+  // === ALLIEVE F (andata autunno 2025) ===
+  { date: '2025-10-05', cat: 'Allieve F', home: 'HC LARIO', away: 'HP VALCHISONE', location: 'Cernusco' },
+  { date: '2025-10-19', cat: 'Allieve F', home: 'CUS TORINO', away: 'HP VALCHISONE', location: '' },
+  { date: '2025-11-08', cat: 'Allieve F', home: 'HF LORENZONI', away: 'HP VALCHISONE', location: '' },
+  { date: '2025-11-09', cat: 'Allieve F', home: 'USD MONCALVESE', away: 'HP VALCHISONE', location: '' },
+];
+
+function parseDate(s) {
+  return new Date(s);
+}
+function formatDate(s) {
+  const d = new Date(s);
+  const days = ['Dom','Lun','Mar','Mer','Gio','Ven','Sab'];
+  const months = ['Gen','Feb','Mar','Apr','Mag','Giu','Lug','Ago','Set','Ott','Nov','Dic'];
+  return `${days[d.getDay()]} ${d.getDate()} ${months[d.getMonth()]} ${d.getFullYear()}`;
+}
+function getMonth(s) {
+  const d = new Date(s);
+  const months = ['Gennaio','Febbraio','Marzo','Aprile','Maggio','Giugno','Luglio','Agosto','Settembre','Ottobre','Novembre','Dicembre'];
+  return `${months[d.getMonth()]} ${d.getFullYear()}`;
+}
+
+// Raggruppa per data
+const byDate = {};
+matches.forEach(m => {
+  if (!byDate[m.date]) byDate[m.date] = [];
+  byDate[m.date].push(m);
+});
+
+const today = new Date().toISOString().split('T')[0];
+const sortedDates = Object.keys(byDate).sort().filter(d => d >= today);
+
+const MASCHILE = ['Juniores M', 'Ragazzi M', 'Allievi M'];
+const FEMMINILE = ['Ragazze F', 'Allieve F'];
+
+// Trova conflitti separando M e F
+function getConflictType(date) {
+  const dayMatches = byDate[date];
+  const catsM = [...new Set(dayMatches.filter(m => MASCHILE.includes(m.cat)).map(m => m.cat))];
+  const catsF = [...new Set(dayMatches.filter(m => FEMMINILE.includes(m.cat)).map(m => m.cat))];
+  const conflicts = [];
+  if (catsM.length > 1) conflicts.push({ gender: '♂ Maschile', cats: catsM });
+  if (catsF.length > 1) conflicts.push({ gender: '♀ Femminile', cats: catsF });
+  return conflicts;
+}
+
+const conflictDates = sortedDates.filter(d => getConflictType(d).length > 0);
+
+// Stats
+document.getElementById('tot-matches').textContent = matches.length;
+document.getElementById('tot-days').textContent = sortedDates.length;
+document.getElementById('tot-conflicts').textContent = conflictDates.length;
+document.getElementById('tot-home').textContent = matches.filter(m => m.home === 'HP VALCHISONE').length;
+
+// Alert conflitti
+const alertEl = document.getElementById('conflict-alert');
+if (conflictDates.length === 0) {
+  alertEl.style.display = 'none';
+} else {
+  alertEl.innerHTML = `<h3>⚠️ ${conflictDates.length} giorni con sovrapposizioni nello stesso settore (M o F)</h3><ul>` +
+    conflictDates.map(d => {
+      const conflicts = getConflictType(d);
+      return conflicts.map(c =>
+        `<li><strong>${formatDate(d)}</strong> — ${c.gender}: ${c.cats.join(' + ')}</li>`
+      ).join('');
+    }).join('') + '</ul>';
+}
+
+// Timeline
+const timeline = document.getElementById('timeline');
+let currentMonth = '';
+
+sortedDates.forEach(date => {
+  const month = getMonth(date);
+  if (month !== currentMonth) {
+    currentMonth = month;
+    const mg = document.createElement('div');
+    mg.className = 'month-group';
+    const ml = document.createElement('div');
+    ml.className = 'month-label';
+    ml.textContent = month;
+    mg.appendChild(ml);
+    timeline.appendChild(mg);
+  }
+
+  const dayMatches = byDate[date];
+  const cats = [...new Set(dayMatches.map(m => m.cat))];
+  const dayConflicts = getConflictType(date);
+  const isConflict = dayConflicts.length > 0;
+
+  const block = document.createElement('div');
+  block.className = 'day-block' + (isConflict ? ' conflict' : '');
+
+  const header = document.createElement('div');
+  header.className = 'day-header';
+  const conflictLabels = dayConflicts.map(c => `${c.gender}: ${c.cats.join(' + ')}`).join(' | ');
+  header.innerHTML = `<span class="day-date">📅 ${formatDate(date)}</span>` +
+    (isConflict ? `<span class="conflict-tag">⚠ ${conflictLabels}</span>` : '');
+  block.appendChild(header);
+
+  const matchesDiv = document.createElement('div');
+  matchesDiv.className = 'matches';
+
+  dayMatches.forEach(m => {
+    const isHome = m.home === 'HP VALCHISONE';
+    const style = CAT_STYLE[m.cat];
+    const row = document.createElement('div');
+    row.className = 'match-row ' + (isHome ? 'home' : 'away');
+    row.innerHTML = `
+      <span class="match-cat badge ${style.cls}">${m.cat}</span>
+      <span class="match-teams">
+        <span class="${isHome ? 'home-team' : ''}">${m.home}</span>
+        <span style="color:#718096"> vs </span>
+        <span class="${!isHome ? 'home-team' : ''}">${m.away}</span>
+        ${m.note ? `<span style="font-size:0.7rem;color:#718096"> (${m.note})</span>` : ''}
+      </span>
+      ${m.location ? `<span class="match-loc">📍 ${m.location}</span>` : ''}
+      <span class="match-type ${isHome ? 'type-home' : 'type-away'}">${isHome ? '🏠 Casa' : '✈️ Trasferta'}</span>
+    `;
+    matchesDiv.appendChild(row);
+  });
+
+  block.appendChild(matchesDiv);
+
+  // Aggiungi al mese corrente
+  timeline.lastChild.appendChild(block);
+});
+</script>
+</body>
+</html>
