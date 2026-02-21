@@ -171,3 +171,158 @@ Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
+
+
+# Ragazze - OUTDOOR  - Girone C / Giornata 6
+
+## Sab 14/03/2026 13.00
+
+<strong>HC GENOVA - HC RAINBOW SAMPIERDARENA</strong>
+
+Gara: 1241
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Sab 14/03/2026 11.00
+
+<strong>CUS PISA ASD - HF GENOVA 1980</strong>
+
+Gara: 1242
+
+Campo: CAMPO HOCKEY PRATO 
+
+Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
+
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+
+
+
+# Ragazze - OUTDOOR  - Girone C / Giornata 7
+
+## Dom 19/04/2026 09.00
+
+<strong>HF GENOVA 1980 - HC GENOVA</strong>
+
+Gara: 1243
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Ven 01/05/2026 17.00
+
+<strong>SPORT AND GO - CUS PISA ASD</strong>
+
+Gara: 1244
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+
+# Ragazze - OUTDOOR  - Girone C / Giornata 8
+
+## Sab 25/04/2026 09.00
+
+<strong>HF GENOVA 1980 - SPORT AND GO</strong>
+
+Gara: 1245
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Sab 25/04/2026 11.00
+
+<strong>CUS PISA ASD - HC RAINBOW SAMPIERDARENA</strong>
+
+Gara: 1246
+
+Campo: CAMPO HOCKEY PRATO 
+
+Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
+
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+
+
+
+# Ragazze - OUTDOOR  - Girone C / Giornata 9
+
+## Dom 10/05/2026 09.00
+
+<strong>SPORT AND GO - HC GENOVA</strong>
+
+Gara: 1247
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Dom 10/05/2026 11.00
+
+<strong>HC RAINBOW SAMPIERDARENA - HF GENOVA 1980</strong>
+
+Gara: 1248
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+
+# Ragazze - OUTDOOR  - Girone C / Giornata 10
+
+## Sab 16/05/2026 13.00
+
+<strong>SPORT AND GO - HC RAINBOW SAMPIERDARENA</strong>
+
+Gara: 1249
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+
+
+## Sab 16/05/2026 17.00
+
+<strong>HC GENOVA - CUS PISA ASD</strong>
+
+Gara: 1250
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+

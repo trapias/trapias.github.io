@@ -22,6 +22,8 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 <strong>POLISPORTIVA FERRINI - SG AMSICORA</strong>
 
+**Risultato: 6-2**
+
 Gara: 1085
 
 Campo: A. Maxia 
