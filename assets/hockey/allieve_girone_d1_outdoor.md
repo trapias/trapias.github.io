@@ -150,7 +150,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Sab 21/03/2026 15.00
+## Sab 21/03/2026 11.00
 
 <strong>HOCKEY CLUB ROMA - UH CAPITOLINA</strong>
 

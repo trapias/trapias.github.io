@@ -82,6 +82,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>POL GALATEA - CUS CAGLIARI</strong>
 
+**Risultato: 4-1**
+
 Gara: 1157
 
 Campo: DUSMET 

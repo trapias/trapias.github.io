@@ -324,7 +324,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Dom 22/03/2026 15.00
+## Dom 08/03/2026 16.30
 
 <strong>HC GENOVA - CUS PISA ASD</strong>
 
