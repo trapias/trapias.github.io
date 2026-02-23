@@ -171,6 +171,8 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>LAZIO HOCKEY B - ASD HOCKEY CAMPAGNANO</strong>
 
+**Risultato: 5-0**
+
 Gara: 532
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
