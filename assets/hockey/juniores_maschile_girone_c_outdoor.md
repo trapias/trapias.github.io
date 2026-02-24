@@ -32,7 +32,7 @@ Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 
-## Sab 28/02/2026 10.00
+## Sab 18/04/2026 17.00
 
 <strong>HC GENOVA - GENOVA H 1980</strong>
 
@@ -218,7 +218,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Dom 01/03/2026 11.00
+## Dom 19/04/2026 11.00
 
 <strong>CUS PISA ASD - HC SAVONA</strong>
 

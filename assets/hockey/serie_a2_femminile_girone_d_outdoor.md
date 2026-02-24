@@ -99,3 +99,96 @@ Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
 Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
+
+
+# Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 4
+
+## Mar 10/03/2026 19.45
+
+<strong>POLISPORTIVA FERRINI B - SG AMSICORA B</strong>
+
+Gara: 1283
+
+Campo: A. Maxia 
+
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
+
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+
+
+## Dom 19/04/2026 11.00
+
+<strong>CUS CAGLIARI - FORTITUDO HOCKEY CAGLIARI</strong>
+
+Gara: 1284
+
+Campo: A. Maxia 
+
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
+
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+
+
+
+# Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 5
+
+## Mar 28/04/2026 19.30
+
+<strong>POLISPORTIVA FERRINI B - FORTITUDO HOCKEY CAGLIARI</strong>
+
+Gara: 1285
+
+Campo: A. Maxia 
+
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
+
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+
+
+## Gio 30/04/2026 18.00
+
+<strong>CUS CAGLIARI - SG AMSICORA B</strong>
+
+Gara: 1286
+
+Campo: AMSICORA 
+
+Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
+
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+
+
+
+# Serie A2 Femminile - OUTDOOR  - Girone D / Giornata 6
+
+## Mar 05/05/2026 19.30
+
+<strong>POLISPORTIVA FERRINI B - CUS CAGLIARI</strong>
+
+Gara: 1287
+
+Campo: A. Maxia 
+
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
+
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+
+
+## Gio 14/05/2026 18.00
+
+<strong>FORTITUDO HOCKEY CAGLIARI - SG AMSICORA B</strong>
+
+Gara: 1288
+
+Campo: A. Maxia 
+
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
+
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+

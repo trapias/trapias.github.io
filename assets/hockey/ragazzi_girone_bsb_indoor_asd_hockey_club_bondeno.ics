@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSB / Giornata 1\nGara 407\nComunale Mori - Via Lomba\, 23 Mori\nCUS PADOVA ASD - ASD HOCKEY CLUB BONDENO\n\nRisultato: 2-2
+DESCRIPTION:Ragazzi  - Girone BSB / Giornata 1\nGara 409\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - ASD HOCKEY CLUB BONDENO\n\nRisultato: 7-3
 GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251207T100000Z
-SUMMARY:Ragazzi  - Girone BSB / Giornata 1 - CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO
-UID:2cf677a8-1c3d-4fbd-a134-06c7667ea35b@2cf6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSB / Giornata 1\nGara 411\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - ASD HOCKEY CLUB BONDENO\n\nRisultato: 2-1
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251207T150000Z
-SUMMARY:Ragazzi  - Girone BSB / Giornata 1 - ASD ADIGE UHC - ASD HOCKEY CLUB BONDENO
-UID:c73c7b82-c0e1-4c74-9de7-8465124299ef@c73c.org
+DTSTART:20251207T123000Z
+SUMMARY:Ragazzi  - Girone BSB / Giornata 1 - HOCKEY CLUB RIVA - ASD HOCKEY CLUB BONDENO
+UID:22a9d93d-b716-49c3-928a-2275c6d08e4e@22a9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone BSB / Giornata 2\nGara 413\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - ASD ADIGE UHC\n\nRisultato: 1-5
@@ -23,7 +15,23 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20251214T103000Z
 SUMMARY:Ragazzi  - Girone BSB / Giornata 2 - ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
-UID:4c30f843-91d2-4264-9b36-8b3639710dec@4c30.org
+UID:a5d3f804-0eaf-4b9a-8136-670ac5249588@a5d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone BSB / Giornata 1\nGara 407\nComunale Mori - Via Lomba\, 23 Mori\nCUS PADOVA ASD - ASD HOCKEY CLUB BONDENO\n\nRisultato: 2-2
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251207T100000Z
+SUMMARY:Ragazzi  - Girone BSB / Giornata 1 - CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO
+UID:fe162fa8-92ba-4746-9bc5-e2088c64e3ae@fe16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone BSB / Giornata 1\nGara 411\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - ASD HOCKEY CLUB BONDENO\n\nRisultato: 2-1
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251207T150000Z
+SUMMARY:Ragazzi  - Girone BSB / Giornata 1 - ASD ADIGE UHC - ASD HOCKEY CLUB BONDENO
+UID:a56d677b-ec2a-4b21-b658-8764f02c286f@a56d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone BSB / Giornata 2\nGara 412\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD\n\nRisultato: 2-4
@@ -31,7 +39,7 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20251214T090000Z
 SUMMARY:Ragazzi  - Girone BSB / Giornata 2 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
-UID:221b903e-30ea-4d62-b21e-a201148ee4d5@221b.org
+UID:3bd1039e-cf2c-4555-a7fc-7e9062fa217d@3bd1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone BSB / Giornata 2\nGara 417\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA\n\nRisultato: 5-3
@@ -39,14 +47,6 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20251214T153000Z
 SUMMARY:Ragazzi  - Girone BSB / Giornata 2 - ASD HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA
-UID:ed8cc57e-226d-4824-b446-f2abd3e47fc4@ed8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSB / Giornata 1\nGara 409\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - ASD HOCKEY CLUB BONDENO\n\nRisultato: 7-3
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251207T123000Z
-SUMMARY:Ragazzi  - Girone BSB / Giornata 1 - HOCKEY CLUB RIVA - ASD HOCKEY CLUB BONDENO
-UID:063dcaa5-a95b-4e61-8778-11c9a4e2b417@063d.org
+UID:cb3db3b4-177e-421f-9568-f834c221e64f@cb3d.org
 END:VEVENT
 END:VCALENDAR

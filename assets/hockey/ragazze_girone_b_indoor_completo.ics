@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazze  - Girone B / Giornata 1\nGara 328\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD HOCKEY CLUB BONDENO - ASD ADIGE UHC\n\nRisultato: 2-3
-GEO:45.458648;11.920175
-LOCATION:Cadoneghe\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20251214T113000Z
-SUMMARY:Ragazze  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
-UID:78a88800-a0fb-4c4f-82ff-75c022ad7095@78a8.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ragazze  - Girone B / Giornata 1\nGara 329\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD ADIGE UHC - CUS PADOVA ASD\n\nRisultato: 0-4
 GEO:45.458648;11.920175
 LOCATION:Cadoneghe\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20251214T130000Z
 SUMMARY:Ragazze  - Girone B / Giornata 1 - ASD ADIGE UHC - CUS PADOVA ASD
-UID:08d185b3-915d-414c-b98e-af86e42f0ccc@08d1.org
+UID:b4bdb7bc-3c8c-43d8-a4ab-60bd4107024a@b4bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze  - Girone B / Giornata 1\nGara 328\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD HOCKEY CLUB BONDENO - ASD ADIGE UHC\n\nRisultato: 2-3
+GEO:45.458648;11.920175
+LOCATION:Cadoneghe\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20251214T113000Z
+SUMMARY:Ragazze  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
+UID:26eb5b40-a364-425e-b67c-98bd2767c12b@26eb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze  - Girone B / Giornata 2\nGara 332\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - ASD ADIGE UHC\n\nRisultato: 3-8
@@ -23,15 +23,7 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20260106T130000Z
 SUMMARY:Ragazze  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
-UID:8f00f461-f30e-4164-a57a-36b7a6332589@8f00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazze  - Girone B / Giornata 1\nGara 327\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD\n\nRisultato: 0-4
-GEO:45.458648;11.920175
-LOCATION:Cadoneghe\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20251214T100000Z
-SUMMARY:Ragazze  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
-UID:08814730-114b-41f2-8931-7d919ac497a3@0881.org
+UID:19ad8dec-fed8-45ce-bfa4-61426f614058@19ad.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze  - Girone B / Giornata 2\nGara 331\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD ADIGE UHC - CUS PADOVA ASD\n\nRisultato: 0-8
@@ -39,7 +31,15 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20260106T113000Z
 SUMMARY:Ragazze  - Girone B / Giornata 2 - ASD ADIGE UHC - CUS PADOVA ASD
-UID:0d0e3ac9-2b73-4d8e-8101-ce8e3c264f75@0d0e.org
+UID:1431dc78-6ecd-4378-80ce-4a3d85606dda@1431.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze  - Girone B / Giornata 1\nGara 327\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD\n\nRisultato: 0-4
+GEO:45.458648;11.920175
+LOCATION:Cadoneghe\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20251214T100000Z
+SUMMARY:Ragazze  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
+UID:2094383b-91a5-440a-99cc-fcab2936cfa5@2094.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze  - Girone B / Giornata 2\nGara 330\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD\n\nRisultato: 2-6
@@ -47,6 +47,6 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20260106T100000Z
 SUMMARY:Ragazze  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
-UID:cda8fab0-be41-43bd-8c1b-1e6bbb032551@cda8.org
+UID:1ea38a1d-fa28-43f9-84c8-f92322a84a17@1ea3.org
 END:VEVENT
 END:VCALENDAR

@@ -103,3 +103,96 @@ Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
+
+
+# Ragazzi - OUTDOOR  - Girone G / Giornata 4
+
+## Mer 25/02/2026 18.00
+
+<strong>SG AMSICORA - POLISPORTIVA FERRINI</strong>
+
+Gara: 1257
+
+Campo: AMSICORA 
+
+Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
+
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+
+
+## Dom 10/05/2026 10.30
+
+<strong>CUS CAGLIARI - A.S.D. POLISPORTIVA JUVENILIA</strong>
+
+Gara: 1258
+
+Campo: Comunale Uras 
+
+Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
+
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
+
+
+
+# Ragazzi - OUTDOOR  - Girone G / Giornata 5
+
+## Mer 11/03/2026 18.00
+
+<strong>SG AMSICORA - CUS CAGLIARI</strong>
+
+Gara: 1259
+
+Campo: AMSICORA 
+
+Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
+
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+
+
+## Gio 30/04/2026 18.00
+
+<strong>A.S.D. POLISPORTIVA JUVENILIA - POLISPORTIVA FERRINI</strong>
+
+Gara: 1260
+
+Campo: Comunale Uras 
+
+Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
+
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
+
+
+
+# Ragazzi - OUTDOOR  - Girone G / Giornata 6
+
+## Dom 22/03/2026 11.00
+
+<strong>SG AMSICORA - A.S.D. POLISPORTIVA JUVENILIA</strong>
+
+Gara: 1261
+
+Campo: AMSICORA 
+
+Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
+
+Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
+Geo: Geo(latitude=39.204954, longitude=9.1401682)
+
+
+## Lun 23/03/2026 18.00
+
+<strong>POLISPORTIVA FERRINI - CUS CAGLIARI</strong>
+
+Gara: 1262
+
+Campo: A. Maxia 
+
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
+
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+

@@ -543,6 +543,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>GENOVA H 1980 DRITTO - ASD BAD LAKE HOCKEY B</strong>
 
+**Risultato: 8-2**
+
 Gara: 1207
 
 Campo: CAMPO G.ARNALDI 
