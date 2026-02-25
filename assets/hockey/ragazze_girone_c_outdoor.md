@@ -37,7 +37,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 # Ragazze - OUTDOOR  - Girone C / Giornata 2
 
-## Sab 07/03/2026 12.00
+## Sab 28/03/2026 12.45
 
 <strong>HC GENOVA - HF GENOVA 1980</strong>
 

@@ -237,7 +237,7 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 # Juniores Femminile - OUTDOOR  - Girone B / Giornata 8
 
-## Sab 14/03/2026 15.30
+## Sab 14/03/2026 17.00
 
 <strong>CUS PADOVA ASD - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
 

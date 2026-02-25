@@ -18,7 +18,7 @@ Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
-## Dom 22/03/2026 11.00
+## Ven 27/03/2026 19.00
 
 <strong>FORTITUDO HOCKEY CAGLIARI - CUS CAGLIARI</strong>
 
@@ -117,7 +117,7 @@ Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/C
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
-## Dom 19/04/2026 11.00
+## Ven 24/04/2026 19.00
 
 <strong>CUS CAGLIARI - FORTITUDO HOCKEY CAGLIARI</strong>
 
@@ -179,7 +179,7 @@ Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/C
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
-## Gio 14/05/2026 18.00
+## Mar 12/05/2026 19.00
 
 <strong>FORTITUDO HOCKEY CAGLIARI - SG AMSICORA B</strong>
 

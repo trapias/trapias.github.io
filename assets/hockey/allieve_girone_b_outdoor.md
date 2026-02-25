@@ -290,7 +290,7 @@ Location: Padova, Veneto, Italia
 Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
-## Dom 12/04/2026 11.00
+## Ven 17/04/2026 18.00
 
 <strong>ASD ADIGE UHC - HOCKEY CLUB RIVA</strong>
 
