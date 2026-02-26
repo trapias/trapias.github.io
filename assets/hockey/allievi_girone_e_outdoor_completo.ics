@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 2\nGara 963\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nASD SAN PIETRO CLARENZA - PGS DON BOSCO 2000 ASD\n\nRisultato: 1-13
-GEO:37.529426;15.096557
-LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
-DTSTART:20251026T100000Z
-SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 2 - ASD SAN PIETRO CLARENZA - PGS DON BOSCO 2000 ASD
-UID:dc286e3a-00fc-4d21-9a8a-7aed79aa8536@dc28.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 3\nGara 956\nOratorio Salesiano - Via S.G.Bosco\, 6 Barcellona Pozzo di Gotto\nPGS DON BOSCO 2000 ASD - SSD UNIME ARL\n\nRisultato: 1-1
 GEO:38.148306;15.217552
 LOCATION:Barcellona Pozzo di Gotto\, Messina\, Sicilia\, 98051\, Italia
 DTSTART:20251108T143000Z
 SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 3 - PGS DON BOSCO 2000 ASD - SSD UNIME ARL
-UID:7b393d55-87ee-40fc-b104-d2ed53caa337@7b39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 1\nGara 959\nCittadella Universitaria - Viale Annunziata\, snc Messina\nSSD UNIME ARL - ASD SAN PIETRO CLARENZA\n\nRisultato: 7-0
-GEO:38.225545;15.553272
-LOCATION:Viale Giovanni Palatucci\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
-DTSTART:20251019T090000Z
-SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 1 - SSD UNIME ARL - ASD SAN PIETRO CLARENZA
-UID:c0d407f9-07d0-43be-b6fd-e61b5f292413@c0d4.org
+UID:7516be37-0c9f-468b-a0a8-e46bc1584fab@7516.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 2\nGara 960\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nPOL GALATEA - SSD UNIME ARL\n\nRisultato: 10-0
@@ -31,7 +15,7 @@ GEO:37.529426;15.096557
 LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
 DTSTART:20251026T090000Z
 SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 2 - POL GALATEA - SSD UNIME ARL
-UID:42cff3db-494c-43e5-a868-0f5bc9668c38@42cf.org
+UID:ab4342f1-a835-45f5-ac68-4c8d48b4da25@ab43.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 1\nGara 958\nOratorio Salesiano - Via S.G.Bosco\, 6 Barcellona Pozzo di Gotto\nPGS DON BOSCO 2000 ASD - POL GALATEA\n\nRisultato: 2-1
@@ -39,7 +23,15 @@ GEO:38.148306;15.217552
 LOCATION:Barcellona Pozzo di Gotto\, Messina\, Sicilia\, 98051\, Italia
 DTSTART:20251019T090000Z
 SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 1 - PGS DON BOSCO 2000 ASD - POL GALATEA
-UID:a7d186d4-a031-4b7d-a0f8-e814b0df2f5a@a7d1.org
+UID:ed060cb6-6611-4b1f-9c22-9dbcf57d990a@ed06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 2\nGara 963\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nASD SAN PIETRO CLARENZA - PGS DON BOSCO 2000 ASD\n\nRisultato: 1-13
+GEO:37.529426;15.096557
+LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
+DTSTART:20251026T100000Z
+SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 2 - ASD SAN PIETRO CLARENZA - PGS DON BOSCO 2000 ASD
+UID:d0042042-8571-42df-bb1d-738bac88ac3c@d004.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 3\nGara 955\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nASD SAN PIETRO CLARENZA - POL GALATEA\n\nRisultato: 0-14
@@ -47,6 +39,14 @@ GEO:37.529426;15.096557
 LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
 DTSTART:20251108T143000Z
 SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 3 - ASD SAN PIETRO CLARENZA - POL GALATEA
-UID:36158f4b-f2e9-44cc-b8b0-2e9a2348a1db@3615.org
+UID:1d5ec173-25e8-44f8-9ca9-9ff9865b08d2@1d5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 1\nGara 959\nCittadella Universitaria - Viale Annunziata\, snc Messina\nSSD UNIME ARL - ASD SAN PIETRO CLARENZA\n\nRisultato: 7-0
+GEO:38.225545;15.553272
+LOCATION:Viale Giovanni Palatucci\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
+DTSTART:20251019T090000Z
+SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 1 - SSD UNIME ARL - ASD SAN PIETRO CLARENZA
+UID:b9dd4312-5f70-4e3a-8a55-dceb827f3d07@b9dd.org
 END:VEVENT
 END:VCALENDAR
