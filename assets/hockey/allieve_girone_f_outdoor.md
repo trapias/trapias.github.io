@@ -6,6 +6,8 @@
 
 <strong>POLISPORTIVA FERRINI - SG AMSICORA</strong>
 
+**Risultato: 1-13**
+
 Gara: 1090
 
 Campo: A. Maxia 

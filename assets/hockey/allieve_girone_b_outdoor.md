@@ -304,7 +304,7 @@ Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
-## Dom 12/04/2026 13.00
+## Ven 17/04/2026 19.30
 
 <strong>ASD ADIGE UHC - HOCKEY CLUB RIVA</strong>
 

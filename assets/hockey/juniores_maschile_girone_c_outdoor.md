@@ -279,7 +279,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Dom 08/03/2026 11.00
+## Lun 30/03/2026 20.30
 
 <strong>GENOVA H 1980 - HC GENOVA</strong>
 

@@ -724,7 +724,7 @@ Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemon
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
-## Dom 14/06/2026 15.00
+## Dom 14/06/2026 14.00
 
 <strong>HF LORENZONI - UH CAPITOLINA</strong>
 
