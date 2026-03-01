@@ -6,6 +6,8 @@
 
 <strong>GENOVA H 1980 U18 - HC SAVONA</strong>
 
+**Risultato: 2-3**
+
 Gara: 305
 
 Campo: CAMPO G.ARNALDI 

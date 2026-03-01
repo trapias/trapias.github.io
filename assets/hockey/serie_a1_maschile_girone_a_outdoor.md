@@ -22,12 +22,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 Gara: 755
 
-Campo: Campo Hockey Mario Steffenel 
+Campo: Impianti L. Merigliano 
 
-Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
+Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location: Via Rovigo, Valdocco, Aurora, Circoscrizione 7, Torino, Piemonte, 10100, Italia
-Geo: Geo(latitude=45.0851854, longitude=7.6790006)
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 ## Sab 14/03/2026 15.00
@@ -112,12 +112,12 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 Gara: 761
 
-Campo: Campo Hockey Mario Steffenel 
+Campo: Impianti L. Merigliano 
 
-Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
+Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location: Via Rovigo, Valdocco, Aurora, Circoscrizione 7, Torino, Piemonte, 10100, Italia
-Geo: Geo(latitude=45.0851854, longitude=7.6790006)
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 ## Sab 28/03/2026 14.30
@@ -278,12 +278,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 Gara: 772
 
-Campo: Campo Hockey Mario Steffenel 
+Campo: Impianti L. Merigliano 
 
-Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
+Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location: Via Rovigo, Valdocco, Aurora, Circoscrizione 7, Torino, Piemonte, 10100, Italia
-Geo: Geo(latitude=45.0851854, longitude=7.6790006)
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 ## Sab 02/05/2026 15.00
@@ -382,12 +382,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 Gara: 779
 
-Campo: Campo Hockey Mario Steffenel 
+Campo: Grantorto Hockey Stadium 
 
-Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
+Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
-Location: Via Rovigo, Valdocco, Aurora, Circoscrizione 7, Torino, Piemonte, 10100, Italia
-Geo: Geo(latitude=45.0851854, longitude=7.6790006)
+Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 
 ## Sab 16/05/2026 15.00
@@ -427,12 +427,12 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 Gara: 782
 
-Campo: Campo Hockey Mario Steffenel 
+Campo: Impianti L. Merigliano 
 
-Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
+Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location: Via Rovigo, Valdocco, Aurora, Circoscrizione 7, Torino, Piemonte, 10100, Italia
-Geo: Geo(latitude=45.0851854, longitude=7.6790006)
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 ## Sab 23/05/2026 15.00
