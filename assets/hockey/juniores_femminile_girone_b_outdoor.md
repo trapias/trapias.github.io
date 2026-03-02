@@ -210,6 +210,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - MILANO HP</strong>
 
+**Risultato: 3-2**
+
 Gara: 392
 
 Campo: CP BARCA 

@@ -76,6 +76,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>HOCKEY CLUB ROMA - TEVERE EUR H</strong>
 
+**Risultato: 4-4**
+
 Gara: 546
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

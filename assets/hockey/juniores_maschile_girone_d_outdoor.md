@@ -144,6 +144,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>TEVERE EUR H - LAZIO HOCKEY</strong>
 
+**Risultato: 5-0**
+
 Gara: 281
 
 Campo: EUROMA STADIUM 
@@ -157,6 +159,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 ## Dom 01/03/2026 12.00
 
 <strong>HOCKEY CLUB ROMA - BUTTERFLY ROMA</strong>
+
+**Risultato: 0-7**
 
 Gara: 282
 
