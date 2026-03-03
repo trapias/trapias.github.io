@@ -5,7 +5,7 @@
 <!-- VALCHISONE_START -->
 ## Dom 08/03/2026 13.00 ⭐
 
-<strong>HCU RASSEMBLEMENT TORINO RIS - HP VALCHISONE</strong>
+<strong>HCU RASSEMBLEMENT TORINO - HP VALCHISONE</strong>
 
 Gara: 682
 
@@ -17,6 +17,34 @@ Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemon
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 <!-- VALCHISONE_END -->
 
+
+
+## Dom 08/03/2026 14.30
+
+<strong>HCU RASSEMBLEMENT TORINO RIS - HCU RASSEMBLEMENT TORINO</strong>
+
+Gara: 1320
+
+Campo: Tazzoli 
+
+Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+
+
+## Dom 08/03/2026 16.00
+
+<strong>HCU RASSEMBLEMENT TORINO - HCU RASSEMBLEMENT TORINO RIS</strong>
+
+Gara: 1341
+
+Campo: Tazzoli 
+
+Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
 
@@ -281,7 +309,7 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 # Ragazzi - OUTDOOR  - Girone A / Giornata 14
 
 <!-- VALCHISONE_START -->
-## Dom 22/03/2026 14.00 ⭐
+## Dom 22/03/2026 14.30 ⭐
 
 <strong>HP VALCHISONE - A.S.D. S.H. PAOLO BONOMI</strong>
 
@@ -471,12 +499,12 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 Gara: 1317
 
-Campo: CAMPO HOCKEY SANDRO MICHELLONET 
+Campo: Tazzoli 
 
-Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
+Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
-Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.9206934, longitude=7.2445978)
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 <!-- VALCHISONE_END -->
 
 
@@ -488,12 +516,26 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 Gara: 1318
 
-Campo: CAMPO HOCKEY SANDRO MICHELLONET 
+Campo: Tazzoli 
 
-Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
+Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
-Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.9206934, longitude=7.2445978)
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 <!-- VALCHISONE_END -->
 
+
+
+## Dom 31/05/2026 11.00
+
+<strong>ASD CERNUSCO FIELD HOCKEY - SCUOLA HOCKEY INDER SINGH</strong>
+
+Gara: 1319
+
+Campo: Campo Comunale 
+
+Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 

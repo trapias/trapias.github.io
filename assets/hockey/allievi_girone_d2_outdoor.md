@@ -156,18 +156,18 @@ Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 
-## Dom 01/03/2026 15.00
+## Dom 03/05/2026 12.30
 
 <strong>ASD HOCKEY CLUB MOGLIANO - HOCKEY CLUB OLIMPIA</strong>
 
 Gara: 595
 
-Campo: BAGLIANO 
+Campo: Sintetico Comunale 
 
-Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
+Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
-Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
-Geo: Geo(latitude=43.1726147, longitude=13.4873422)
+Location: Torre Santa Susanna, Brindisi, Puglia, 72028, Italia
+Geo: Geo(latitude=40.465627, longitude=17.735612)
 
 
 
@@ -313,7 +313,7 @@ Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 
-## Dom 03/05/2026 15.00
+## Dom 03/05/2026 10.30
 
 <strong>HOCKEY CLUB OLIMPIA - ASD HOCKEY CLUB MOGLIANO</strong>
 

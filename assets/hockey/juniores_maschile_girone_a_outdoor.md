@@ -231,21 +231,18 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 
 
-<!-- VALCHISONE_START -->
-## Dom 22/03/2026 12.00 ⭐
+## Dom 22/03/2026 11.30
 
-<strong>HP VALCHISONE - HCU RASSEMBLEMENT TORINO</strong>
+<strong>ASD CERNUSCO FIELD HOCKEY - HCU RASSEMBLEMENT TORINO</strong>
 
 Gara: 1298
 
-Campo: CAMPO HOCKEY SANDRO MICHELLONET 
+Campo: Campo Comunale 
 
-Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
+Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.9206934, longitude=7.2445978)
-<!-- VALCHISONE_END -->
-
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 
