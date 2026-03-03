@@ -92,6 +92,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>UH CAPITOLINA - LAZIO HOCKEY</strong>
 
+**Risultato: 9-2**
+
 Gara: 559
 
 Campo: EUROMA STADIUM 

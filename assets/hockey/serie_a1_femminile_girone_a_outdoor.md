@@ -33,7 +33,7 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 # Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2
 
-## Dom 22/03/2026 15.00
+## Dom 22/03/2026 11.00
 
 <strong>CUS PISA ASD - POL FERRINI</strong>
 

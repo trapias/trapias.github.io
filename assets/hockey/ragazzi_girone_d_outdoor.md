@@ -179,7 +179,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC GENOVA - GENOVA H 1980 DRITTO</strong>
 
-**Risultato: 5-0**
+**Risultato: 0-5**
 
 Gara: 1231
 
