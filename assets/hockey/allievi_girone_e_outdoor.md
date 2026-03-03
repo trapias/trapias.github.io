@@ -107,7 +107,7 @@ Geo: Geo(latitude=38.1483059, longitude=15.2175523)
 
 # Allievi - OUTDOOR  - Girone E / Giornata 4
 
-## -
+## Dom 22/03/2026 10.00
 
 <strong>ASD SAN PIETRO CLARENZA - SSD UNIME ARL</strong>
 
@@ -121,7 +121,7 @@ Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicc
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 
-## -
+## Dom 22/03/2026 11.00
 
 <strong>POL GALATEA - PGS DON BOSCO 2000 ASD</strong>
 
@@ -138,7 +138,7 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 # Allievi - OUTDOOR  - Girone E / Giornata 5
 
-## -
+## Dom 12/04/2026 16.00
 
 <strong>SSD UNIME ARL - POL GALATEA</strong>
 
@@ -152,7 +152,7 @@ Location: Viale Giovanni Palatucci, Contrada Battaglia, V Circoscrizione, Messin
 Geo: Geo(latitude=38.2255449, longitude=15.5532721)
 
 
-## -
+## Dom 12/04/2026 11.00
 
 <strong>PGS DON BOSCO 2000 ASD - ASD SAN PIETRO CLARENZA</strong>
 
@@ -169,7 +169,7 @@ Geo: Geo(latitude=38.1483059, longitude=15.2175523)
 
 # Allievi - OUTDOOR  - Girone E / Giornata 6
 
-## -
+## Dom 19/04/2026 10.00
 
 <strong>POL GALATEA - ASD SAN PIETRO CLARENZA</strong>
 
@@ -183,7 +183,7 @@ Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicc
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 
-## -
+## Sab 18/04/2026 15.30
 
 <strong>SSD UNIME ARL - PGS DON BOSCO 2000 ASD</strong>
 

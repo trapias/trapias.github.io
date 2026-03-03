@@ -296,3 +296,204 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 <!-- VALCHISONE_END -->
 
 
+
+
+# Ragazzi - OUTDOOR  - Girone A / Giornata 15
+
+## Dom 19/04/2026 11.00
+
+<strong>SCUOLA HOCKEY INDER SINGH - A.S.D. S.H. PAOLO BONOMI</strong>
+
+Gara: 1307
+
+Campo: Augusto Lorenzoni 
+
+Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
+
+
+
+# Ragazzi - OUTDOOR  - Girone A / Giornata 16
+
+## Dom 26/04/2026 11.00
+
+<strong>ASD CERNUSCO FIELD HOCKEY - A.S.D. S.H. PAOLO BONOMI</strong>
+
+Gara: 1308
+
+Campo: Campo Comunale 
+
+Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+
+
+
+# Ragazzi - OUTDOOR  - Girone A / Giornata 17
+
+## Ven 01/05/2026 10.00
+
+<strong>HCU RASSEMBLEMENT TORINO - SCUOLA HOCKEY INDER SINGH</strong>
+
+Gara: 1309
+
+Campo: Tazzoli 
+
+Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+
+
+## Ven 01/05/2026 12.00
+
+<strong>HCU RASSEMBLEMENT TORINO RIS - SCUOLA HOCKEY INDER SINGH</strong>
+
+Gara: 1310
+
+Campo: Tazzoli 
+
+Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+
+
+
+# Ragazzi - OUTDOOR  - Girone A / Giornata 18
+
+<!-- VALCHISONE_START -->
+## Dom 03/05/2026 12.00 ⭐
+
+<strong>HP VALCHISONE - ASD CERNUSCO FIELD HOCKEY</strong>
+
+Gara: 1311
+
+Campo: CAMPO HOCKEY SANDRO MICHELLONET 
+
+Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
+
+Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
+<!-- VALCHISONE_END -->
+
+
+
+## Dom 03/05/2026 13.00
+
+<strong>HCU RASSEMBLEMENT TORINO - A.S.D. S.H. PAOLO BONOMI</strong>
+
+Gara: 1312
+
+Campo: Tazzoli 
+
+Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+
+
+## Dom 03/05/2026 15.00
+
+<strong>HCU RASSEMBLEMENT TORINO RIS - A.S.D. S.H. PAOLO BONOMI</strong>
+
+Gara: 1313
+
+Campo: Tazzoli 
+
+Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+
+
+
+# Ragazzi - OUTDOOR  - Girone A / Giornata 19
+
+## Dom 10/05/2026 15.30
+
+<strong>HCU RASSEMBLEMENT TORINO - ASD CERNUSCO FIELD HOCKEY</strong>
+
+Gara: 1314
+
+Campo: Tazzoli 
+
+Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+
+
+## Dom 10/05/2026 17.00
+
+<strong>HCU RASSEMBLEMENT TORINO RIS - ASD CERNUSCO FIELD HOCKEY</strong>
+
+Gara: 1315
+
+Campo: Tazzoli 
+
+Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+
+
+
+# Ragazzi - OUTDOOR  - Girone A / Giornata 20
+
+<!-- VALCHISONE_START -->
+## Dom 17/05/2026 10.00 ⭐
+
+<strong>HP VALCHISONE - SCUOLA HOCKEY INDER SINGH</strong>
+
+Gara: 1316
+
+Campo: CAMPO HOCKEY SANDRO MICHELLONET 
+
+Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
+
+Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
+<!-- VALCHISONE_END -->
+
+
+
+
+# Ragazzi - OUTDOOR  - Girone A / Giornata 21
+
+<!-- VALCHISONE_START -->
+## Dom 31/05/2026 10.00 ⭐
+
+<strong>HP VALCHISONE - HCU RASSEMBLEMENT TORINO</strong>
+
+Gara: 1317
+
+Campo: CAMPO HOCKEY SANDRO MICHELLONET 
+
+Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
+
+Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
+<!-- VALCHISONE_END -->
+
+
+
+<!-- VALCHISONE_START -->
+## Dom 31/05/2026 12.00 ⭐
+
+<strong>HP VALCHISONE - HCU RASSEMBLEMENT TORINO RIS</strong>
+
+Gara: 1318
+
+Campo: CAMPO HOCKEY SANDRO MICHELLONET 
+
+Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
+
+Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
+<!-- VALCHISONE_END -->
+
+

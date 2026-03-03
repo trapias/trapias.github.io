@@ -234,7 +234,7 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 <!-- VALCHISONE_START -->
 ## Dom 22/03/2026 12.00 ⭐
 
-<strong>HP VALCHISONE - ASD CERNUSCO FIELD HOCKEY</strong>
+<strong>HP VALCHISONE - HCU RASSEMBLEMENT TORINO</strong>
 
 Gara: 1298
 
