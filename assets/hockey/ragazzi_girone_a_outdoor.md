@@ -3,7 +3,7 @@
 # Ragazzi - OUTDOOR  - Girone A / Giornata 1
 
 <!-- VALCHISONE_START -->
-## - ⭐
+## Dom 08/03/2026 13.00 ⭐
 
 <strong>HCU RASSEMBLEMENT TORINO RIS - HP VALCHISONE</strong>
 
@@ -59,7 +59,7 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 # Ragazzi - OUTDOOR  - Girone A / Giornata 4
 
 <!-- VALCHISONE_START -->
-## - ⭐
+## Ven 27/03/2026 16.00 ⭐
 
 <strong>SCUOLA HOCKEY INDER SINGH - HP VALCHISONE</strong>
 
@@ -131,7 +131,7 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
 <!-- VALCHISONE_START -->
-## - ⭐
+## Dom 15/03/2026 14.30 ⭐
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HP VALCHISONE</strong>
 
@@ -170,9 +170,9 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 # Ragazzi - OUTDOOR  - Girone A / Giornata 9
 
 <!-- VALCHISONE_START -->
-## - ⭐
+## Dom 08/03/2026 11.00 ⭐
 
-<strong>HCU RASSEMBLEMENT TORINO RIS - HP VALCHISONE</strong>
+<strong>HCU RASSEMBLEMENT TORINO - HP VALCHISONE</strong>
 
 Gara: 691
 
@@ -242,7 +242,7 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 # Ragazzi - OUTDOOR  - Girone A / Giornata 12
 
 <!-- VALCHISONE_START -->
-## - ⭐
+## Sab 14/03/2026 17.00 ⭐
 
 <strong>A.S.D. S.H. PAOLO BONOMI - HP VALCHISONE</strong>
 
@@ -275,4 +275,24 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+
+
+
+# Ragazzi - OUTDOOR  - Girone A / Giornata 14
+
+<!-- VALCHISONE_START -->
+## Dom 22/03/2026 14.00 ⭐
+
+<strong>HP VALCHISONE - A.S.D. S.H. PAOLO BONOMI</strong>
+
+Gara: 1306
+
+Campo: CAMPO HOCKEY SANDRO MICHELLONET 
+
+Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
+
+Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
+<!-- VALCHISONE_END -->
+
 

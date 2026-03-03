@@ -282,7 +282,7 @@ Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/C
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
-## Dom 28/06/2026 11.00
+## Sab 07/03/2026 11.00
 
 <strong>POLISPORTIVA L'AQUILA HOCKEY - SQUADRA JOLLY</strong>
 
@@ -394,7 +394,7 @@ Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicc
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 
-## Dom 28/06/2026 11.00
+## Sab 07/03/2026 11.00
 
 <strong>ASD CITTA DI L'AQUILA - SQUADRA JOLLY</strong>
 

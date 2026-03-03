@@ -579,7 +579,7 @@ Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicc
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 
-## Dom 28/06/2026 11.00
+## Sab 07/03/2026 11.00
 
 <strong>POLISPORTIVA L'AQUILA HOCKEY - SQUADRA JOLLY</strong>
 

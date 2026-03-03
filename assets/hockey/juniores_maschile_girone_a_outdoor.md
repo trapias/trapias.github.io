@@ -2,7 +2,7 @@
 
 # Juniores Maschile - OUTDOOR  - Girone A / Giornata 1
 
-## -
+## Dom 15/03/2026 12.00
 
 <strong>ASD CERNUSCO FIELD HOCKEY - SCUOLA HOCKEY INDER SINGH</strong>
 
@@ -137,7 +137,7 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 # Juniores Maschile - OUTDOOR  - Girone A / Giornata 7
 
 <!-- VALCHISONE_START -->
-## - ⭐
+## Dom 10/05/2026 11.00 ⭐
 
 <strong>USD MONCALVESE HOCKEY - HP VALCHISONE</strong>
 
@@ -192,4 +192,180 @@ Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemon
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 <!-- VALCHISONE_END -->
 
+
+
+
+# Juniores Maschile - OUTDOOR  - Girone A / Giornata 10
+
+## Dom 15/03/2026 11.00
+
+<strong>USD MONCALVESE HOCKEY - HCU RASSEMBLEMENT TORINO</strong>
+
+Gara: 1296
+
+Campo: UMBERTO MICCO 
+
+Indirizzo Campo:  Via Goria, 4 - Moncalvo
+
+Location: Moncalvo, Asti, Piemonte, 14036, Italia
+Geo: Geo(latitude=45.050205, longitude=8.2650382)
+
+
+
+# Juniores Maschile - OUTDOOR  - Girone A / Giornata 11
+
+<!-- VALCHISONE_START -->
+## Dom 22/03/2026 13.00 ⭐
+
+<strong>HP VALCHISONE - SCUOLA HOCKEY INDER SINGH</strong>
+
+Gara: 1297
+
+Campo: CAMPO HOCKEY SANDRO MICHELLONET 
+
+Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
+
+Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
+<!-- VALCHISONE_END -->
+
+
+
+<!-- VALCHISONE_START -->
+## Dom 22/03/2026 12.00 ⭐
+
+<strong>HP VALCHISONE - ASD CERNUSCO FIELD HOCKEY</strong>
+
+Gara: 1298
+
+Campo: CAMPO HOCKEY SANDRO MICHELLONET 
+
+Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
+
+Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
+<!-- VALCHISONE_END -->
+
+
+
+
+# Juniores Maschile - OUTDOOR  - Girone A / Giornata 12
+
+## Dom 29/03/2026 11.00
+
+<strong>USD MONCALVESE HOCKEY - ASD CERNUSCO FIELD HOCKEY</strong>
+
+Gara: 1299
+
+Campo: UMBERTO MICCO 
+
+Indirizzo Campo:  Via Goria, 4 - Moncalvo
+
+Location: Moncalvo, Asti, Piemonte, 14036, Italia
+Geo: Geo(latitude=45.050205, longitude=8.2650382)
+
+
+## Dom 29/03/2026 09.00
+
+<strong>HCU RASSEMBLEMENT TORINO - SCUOLA HOCKEY INDER SINGH</strong>
+
+Gara: 1300
+
+Campo: Tazzoli 
+
+Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+
+
+
+# Juniores Maschile - OUTDOOR  - Girone A / Giornata 13
+
+## Dom 12/04/2026 11.00
+
+<strong>SCUOLA HOCKEY INDER SINGH - ASD CERNUSCO FIELD HOCKEY</strong>
+
+Gara: 1301
+
+Campo: Augusto Lorenzoni 
+
+Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
+
+
+
+# Juniores Maschile - OUTDOOR  - Girone A / Giornata 14
+
+<!-- VALCHISONE_START -->
+## Dom 19/04/2026 13.00 ⭐
+
+<strong>HP VALCHISONE - HCU RASSEMBLEMENT TORINO</strong>
+
+Gara: 1302
+
+Campo: CAMPO HOCKEY SANDRO MICHELLONET 
+
+Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
+
+Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
+<!-- VALCHISONE_END -->
+
+
+
+
+# Juniores Maschile - OUTDOOR  - Girone A / Giornata 15
+
+<!-- VALCHISONE_START -->
+## Dom 26/04/2026 11.00 ⭐
+
+<strong>HP VALCHISONE - USD MONCALVESE HOCKEY</strong>
+
+Gara: 1303
+
+Campo: CAMPO HOCKEY SANDRO MICHELLONET 
+
+Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
+
+Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
+<!-- VALCHISONE_END -->
+
+
+
+
+# Juniores Maschile - OUTDOOR  - Girone A / Giornata 16
+
+<!-- VALCHISONE_START -->
+## Dom 03/05/2026 11.00 ⭐
+
+<strong>HP VALCHISONE - ASD CERNUSCO FIELD HOCKEY</strong>
+
+Gara: 1304
+
+Campo: CAMPO HOCKEY SANDRO MICHELLONET 
+
+Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
+
+Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
+<!-- VALCHISONE_END -->
+
+
+
+## Dom 03/05/2026 10.00
+
+<strong>SCUOLA HOCKEY INDER SINGH - USD MONCALVESE HOCKEY</strong>
+
+Gara: 1305
+
+Campo: Augusto Lorenzoni 
+
+Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 

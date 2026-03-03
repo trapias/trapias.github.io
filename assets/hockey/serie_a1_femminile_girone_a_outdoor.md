@@ -126,7 +126,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 # Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5
 
-## Dom 19/04/2026 15.00
+## Dom 19/04/2026 12.00
 
 <strong>POL FERRINI - CUS PISA ASD</strong>
 

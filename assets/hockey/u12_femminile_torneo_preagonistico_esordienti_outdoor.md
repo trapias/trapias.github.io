@@ -435,3 +435,17 @@ Indirizzo Campo:  Via Seminara, 28 - Valverde
 Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
 Geo: Geo(latitude=37.5737465, longitude=15.121129)
 
+
+## Sab 07/03/2026 11.00
+
+<strong>POLISPORTIVA L'AQUILA HOCKEY - SQUADRA JOLLY</strong>
+
+Gara: 1295
+
+Campo: Polisportiva L'Aquila Rugby 
+
+Indirizzo Campo:  LocalitÃ  Centi Colella, snc - L'Aquila
+
+Location: L'Aquila, Abruzzo, Italia
+Geo: Geo(latitude=42.1368853, longitude=13.610341)
+
