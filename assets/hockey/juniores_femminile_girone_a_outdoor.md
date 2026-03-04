@@ -55,3 +55,54 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
+
+
+# Juniores Femminile - OUTDOOR  - Girone A / Giornata 4
+
+## Sab 28/03/2026 16.00
+
+<strong>CUS TORINO - HF LORENZONI</strong>
+
+Gara: 1351
+
+Campo: Tazzoli 
+
+Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+
+
+
+# Juniores Femminile - OUTDOOR  - Girone A / Giornata 5
+
+## Ven 01/05/2026 15.00
+
+<strong>CUS TORINO - HF GENOVA 1980</strong>
+
+Gara: 1352
+
+Campo: Tazzoli 
+
+Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+
+
+
+# Juniores Femminile - OUTDOOR  - Girone A / Giornata 6
+
+## Sab 09/05/2026 16.30
+
+<strong>HF GENOVA 1980 - HF LORENZONI</strong>
+
+Gara: 1353
+
+Campo: CAMPO G.ARNALDI 
+
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+

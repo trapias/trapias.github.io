@@ -49,7 +49,7 @@ Geo: Geo(latitude=45.6135726, longitude=8.1967979)
 
 ## Dom 10/05/2026 15.00
 
-<strong>4 CLASS GIRONE A - 4 CLASS GIRONE B</strong>
+<strong>4 CLASS GIRONE B - 4 CLASS GIRONE A</strong>
 
 Gara: 871
 
@@ -142,7 +142,7 @@ Geo: Geo(latitude=45.6135726, longitude=8.1967979)
 
 ## Dom 24/05/2026 15.00
 
-<strong>4 CLASS GIRONE B - 4 CLASS GIRONE A</strong>
+<strong>4 CLASS GIRONE A - 4 CLASS GIRONE B</strong>
 
 Gara: 877
 

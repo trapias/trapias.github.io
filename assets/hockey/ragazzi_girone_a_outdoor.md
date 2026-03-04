@@ -309,18 +309,18 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 # Ragazzi - OUTDOOR  - Girone A / Giornata 14
 
 <!-- VALCHISONE_START -->
-## Dom 22/03/2026 14.30 ⭐
+## Sab 14/03/2026 12.30 ⭐
 
 <strong>HP VALCHISONE - A.S.D. S.H. PAOLO BONOMI</strong>
 
 Gara: 1306
 
-Campo: CAMPO HOCKEY SANDRO MICHELLONET 
+Campo: CENTRO S. COMUNALE 
 
-Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
+Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.9206934, longitude=7.2445978)
+Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
+Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 <!-- VALCHISONE_END -->
 
 
