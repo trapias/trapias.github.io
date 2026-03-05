@@ -201,6 +201,23 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 
 
+<!-- VALCHISONE_START -->
+## Sab 25/04/2026 11.00 ⭐
+
+<strong>HOCKEY PRATO VALCHISONE FEMMINILE - HF LORENZONI</strong>
+
+Gara: 1360
+
+Campo: CAMPO HOCKEY SANDRO MICHELLONET 
+
+Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
+
+Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
+<!-- VALCHISONE_END -->
+
+
+
 
 # Allieve - OUTDOOR  - Girone A / Giornata 8
 

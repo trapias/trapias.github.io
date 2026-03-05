@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 389\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - MILANO HP
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20260321T143000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5 - CUS PADOVA ASD - MILANO HP
+UID:e883ae09-61ce-4e5d-843a-94858a5266c2@e883.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 6\nGara 391\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - CUS PADOVA ASD
 GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260308T100000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 6 - HOCKEY CLUB RIVA - CUS PADOVA ASD
-UID:871dd586-61c4-4189-ae59-65790b5ca92e@871d.org
+UID:f74d544f-29da-4c9b-bee2-2cc233ac8a3a@f74d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 4\nGara 386\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY CLUB ARGENTIA\n\nRisultato: 1-0
@@ -15,15 +23,7 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20251102T100000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 4 - CUS PADOVA ASD - HOCKEY CLUB ARGENTIA
-UID:4df0215e-dc2c-42d0-bb78-41b0688196bf@4df0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 384\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - CUS PADOVA ASD\n\nRisultato: 2-2
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20251025T143000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3 - HOCKEY TEAM FEMMINILE BOLOGNA - CUS PADOVA ASD
-UID:c45da4c4-d1df-434a-980a-7e2f28609ba1@c45d.org
+UID:e60e7420-3b59-4862-9862-b95fafae475e@e60e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 8\nGara 394\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY TEAM FEMMINILE BOLOGNA
@@ -31,7 +31,7 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20260314T160000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 8 - CUS PADOVA ASD - HOCKEY TEAM FEMMINILE BOLOGNA
-UID:97a6eca2-d951-4cde-84ec-abe6d7f97ddf@97a6.org
+UID:05297c75-c71e-4c3d-93d3-1a4652e6f85a@0529.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 10\nGara 399\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HP - CUS PADOVA ASD
@@ -39,7 +39,7 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20260509T150000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 10 - MILANO HP - CUS PADOVA ASD
-UID:370c0a2a-2dfc-4bb0-963a-cfe9bceba61b@370c.org
+UID:f171a0be-48ef-46aa-82e5-134bd175e4c7@f171.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 1\nGara 381\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY CLUB RIVA\n\nRisultato: 2-3
@@ -47,7 +47,7 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20250927T140000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 1 - CUS PADOVA ASD - HOCKEY CLUB RIVA
-UID:cf9b3512-2271-44f8-802d-86a1c98c98c5@cf9b.org
+UID:283a9507-750d-4a07-aaf8-81edf0eef245@283a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 9\nGara 396\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHOCKEY CLUB ARGENTIA - CUS PADOVA ASD
@@ -55,14 +55,14 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20260425T140000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 9 - HOCKEY CLUB ARGENTIA - CUS PADOVA ASD
-UID:69a788c4-457c-4ae3-a62f-593bc0c731af@69a7.org
+UID:d55c3574-0ce7-4216-b6e7-2642138c454c@d55c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 389\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - MILANO HP
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20260321T143000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5 - CUS PADOVA ASD - MILANO HP
-UID:b0265a48-7b7f-4f0a-8b9f-0b402ff1215c@b026.org
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 384\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - CUS PADOVA ASD\n\nRisultato: 2-2
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20251025T143000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3 - HOCKEY TEAM FEMMINILE BOLOGNA - CUS PADOVA ASD
+UID:391f024d-4f81-4aed-a7ea-279f87fd8786@391f.org
 END:VEVENT
 END:VCALENDAR

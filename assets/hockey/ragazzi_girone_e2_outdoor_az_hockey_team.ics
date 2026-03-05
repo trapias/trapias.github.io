@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 1\nGara 609\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - LAZIO HOCKEY\n\nRisultato: 2-4
-GEO:42.043231;13.437583
-LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
-DTSTART:20251012T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 1 - AZ HOCKEY TEAM - LAZIO HOCKEY
-UID:6ca0000d-93ce-45c8-a708-27a79b50ec55@6ca0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 5\nGara 618\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - BUTTERFLY ROMA
-GEO:42.043231;13.437583
-LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
-DTSTART:20260320T180000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 5 - AZ HOCKEY TEAM - BUTTERFLY ROMA
-UID:9d540b49-70e8-4f29-892b-43c15d52ecd6@9d54.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 2\nGara 612\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - AZ HOCKEY TEAM\n\nRisultato: 4-3
 GEO:41.932122;12.486847
 LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
 DTSTART:20251026T100000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 2 - BUTTERFLY ROMA - AZ HOCKEY TEAM
-UID:e61310f6-1acb-4181-82ef-d8cb818f6322@e613.org
+UID:3a3391b4-c6fb-4f71-a25a-c0819c7beed2@3a33.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 6\nGara 620\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - H.POTENZA PICENA
@@ -31,7 +15,7 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20260419T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 6 - AZ HOCKEY TEAM - H.POTENZA PICENA
-UID:86729d4b-98e6-438c-8be8-c4a6606beb56@8672.org
+UID:a68600de-e7b2-4ce5-a359-4c25570f6373@a686.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 3\nGara 614\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - AZ HOCKEY TEAM
@@ -39,7 +23,23 @@ GEO:43.386400;13.654670
 LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
 DTSTART:20260503T110000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 3 - H.POTENZA PICENA - AZ HOCKEY TEAM
-UID:18a39844-3938-45b2-9a4f-df4bf359a9ab@18a3.org
+UID:5a012d36-1bad-4811-b18d-c476a8faafc0@5a01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 1\nGara 609\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - LAZIO HOCKEY\n\nRisultato: 2-4
+GEO:42.043231;13.437583
+LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
+DTSTART:20251012T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 1 - AZ HOCKEY TEAM - LAZIO HOCKEY
+UID:2dfc632c-5a46-4fc2-9304-c64df69ec504@2dfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 5\nGara 618\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - BUTTERFLY ROMA
+GEO:42.043231;13.437583
+LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
+DTSTART:20260320T180000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 5 - AZ HOCKEY TEAM - BUTTERFLY ROMA
+UID:1c18fac9-b61f-461e-a362-7758b788ec5c@1c18.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 4\nGara 615\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - AZ HOCKEY TEAM
@@ -47,6 +47,6 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20260308T100000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 4 - LAZIO HOCKEY - AZ HOCKEY TEAM
-UID:2c1f4326-b9ed-4937-978d-e957c7336fc5@2c1f.org
+UID:0eb239b5-ec84-4efd-a689-955a99f86fa0@0eb2.org
 END:VEVENT
 END:VCALENDAR

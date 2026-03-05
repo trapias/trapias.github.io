@@ -231,7 +231,7 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 
 
-## Dom 22/03/2026 11.30
+## Dom 22/03/2026 11.00
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HCU RASSEMBLEMENT TORINO</strong>
 

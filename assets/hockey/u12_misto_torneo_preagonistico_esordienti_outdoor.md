@@ -282,7 +282,7 @@ Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/C
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
-## Sab 07/03/2026 11.00
+## Dom 08/03/2026 11.00
 
 <strong>POLISPORTIVA L'AQUILA HOCKEY - SQUADRA JOLLY</strong>
 
