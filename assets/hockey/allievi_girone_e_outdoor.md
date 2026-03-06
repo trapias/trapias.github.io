@@ -138,7 +138,7 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 # Allievi - OUTDOOR  - Girone E / Giornata 5
 
-## Dom 12/04/2026 16.00
+## Dom 29/03/2026 11.00
 
 <strong>SSD UNIME ARL - POL GALATEA</strong>
 

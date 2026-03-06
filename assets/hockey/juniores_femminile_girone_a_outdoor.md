@@ -59,7 +59,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 # Juniores Femminile - OUTDOOR  - Girone A / Giornata 4
 
-## Sab 28/03/2026 16.00
+## Sab 28/03/2026 10.30
 
 <strong>CUS TORINO - HF LORENZONI</strong>
 

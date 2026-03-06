@@ -651,6 +651,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC GENOVA - HC GENOVA RAINBOW</strong>
 
+**Risultato: 2-1**
+
 Gara: 1214
 
 Campo: CAMPO G.ARNALDI 

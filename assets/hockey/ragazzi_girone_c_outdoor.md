@@ -107,18 +107,18 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 # Ragazzi - OUTDOOR  - Girone C / Giornata 4
 
-## Dom 29/03/2026 13.00
+## Dom 24/05/2026 13.00
 
-<strong>CUS PISA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
+<strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PISA ASD</strong>
 
 Gara: 448
 
-Campo: CAMPO HOCKEY PRATO 
+Campo: Sport Arena 
 
-Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
+Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
-Geo: Geo(latitude=43.7267943, longitude=10.4108319)
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 
 ## Dom 29/03/2026 11.00

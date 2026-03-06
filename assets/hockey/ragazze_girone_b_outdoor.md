@@ -138,7 +138,7 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 # Ragazze - OUTDOOR  - Girone B / Giornata 5
 
-## Dom 08/03/2026 11.00
+## Dom 15/03/2026 11.00
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - ASD ADIGE UHC</strong>
 

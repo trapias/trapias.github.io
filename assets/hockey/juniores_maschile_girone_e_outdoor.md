@@ -59,7 +59,7 @@ Geo: Geo(latitude=37.5737465, longitude=15.121129)
 
 # Juniores Maschile - OUTDOOR  - Girone E / Giornata 4
 
-## Dom 29/03/2026 10.30
+## Dom 22/03/2026 12.30
 
 <strong>SSD UNIME ARL - VALVERDE HOCKETY 2018</strong>
 
@@ -76,7 +76,7 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 # Juniores Maschile - OUTDOOR  - Girone E / Giornata 5
 
-## Mer 15/04/2026 19.00
+## Dom 12/04/2026 15.00
 
 <strong>SSD UNIME ARL - POL GALATEA</strong>
 
@@ -93,7 +93,7 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 # Juniores Maschile - OUTDOOR  - Girone E / Giornata 6
 
-## Mer 22/04/2026 19.00
+## Gio 23/04/2026 20.00
 
 <strong>POL GALATEA - VALVERDE HOCKETY 2018</strong>
 

@@ -253,7 +253,7 @@ Location: Padova, Veneto, Italia
 Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
-## Sab 11/04/2026 16.00
+## Sab 16/05/2026 17.30
 
 <strong>HOCKEY CLUB RIVA - MILANO HP</strong>
 

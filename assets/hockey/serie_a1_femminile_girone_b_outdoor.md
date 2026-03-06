@@ -78,7 +78,7 @@ Location: Via Rovigo, Valdocco, Aurora, Circoscrizione 7, Torino, Piemonte, 1010
 Geo: Geo(latitude=45.0851854, longitude=7.6790006)
 
 
-## Dom 29/03/2026 16.00
+## Dom 29/03/2026 15.00
 
 <strong>H.POTENZA PICENA - HC RIVA</strong>
 

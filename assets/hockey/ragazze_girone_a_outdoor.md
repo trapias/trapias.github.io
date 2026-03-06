@@ -168,7 +168,7 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
 <!-- VALCHISONE_START -->
-## Dom 12/04/2026 12.30 ⭐
+## Dom 10/05/2026 11.00 ⭐
 
 <strong>HF LORENZONI - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 

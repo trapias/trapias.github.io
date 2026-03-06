@@ -300,7 +300,7 @@ Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
 Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
-## Dom 03/05/2026 11.00
+## Sab 02/05/2026 15.00
 
 <strong>CUS PISA ASD - A.S.D. POLISPORTIVA JUVENILIA</strong>
 

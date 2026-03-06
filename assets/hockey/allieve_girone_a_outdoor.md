@@ -73,7 +73,7 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
 <!-- VALCHISONE_START -->
-## Dom 19/04/2026 14.00 ⭐
+## Dom 19/04/2026 15.30 ⭐
 
 <strong>HC LARIO - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 
@@ -110,7 +110,7 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 # Allieve - OUTDOOR  - Girone A / Giornata 4
 
 <!-- VALCHISONE_START -->
-## Dom 29/03/2026 16.30 ⭐
+## Sab 14/03/2026 16.30 ⭐
 
 <strong>CUS TORINO - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 
@@ -341,7 +341,7 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 # Allieve - OUTDOOR  - Girone A / Giornata 14
 
 <!-- VALCHISONE_START -->
-## Dom 03/05/2026 14.00 ⭐
+## Sab 09/05/2026 13.00 ⭐
 
 <strong>HOCKEY PRATO VALCHISONE FEMMINILE - CUS TORINO</strong>
 

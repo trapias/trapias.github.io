@@ -262,7 +262,7 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 # Allieve - OUTDOOR  - Girone B / Giornata 5
 
-## Dom 12/04/2026 13.00
+## Ven 01/05/2026 13.00
 
 <strong>CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO</strong>
 
@@ -276,7 +276,7 @@ Location: Padova, Veneto, Italia
 Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
-## Dom 12/04/2026 15.00
+## Ven 01/05/2026 15.00
 
 <strong>CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO</strong>
 
@@ -290,7 +290,7 @@ Location: Padova, Veneto, Italia
 Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
-## Ven 17/04/2026 18.00
+## Ven 10/04/2026 17.30
 
 <strong>ASD ADIGE UHC - HOCKEY CLUB RIVA</strong>
 
@@ -304,7 +304,7 @@ Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
-## Ven 17/04/2026 19.30
+## Ven 10/04/2026 19.00
 
 <strong>ASD ADIGE UHC - HOCKEY CLUB RIVA</strong>
 
