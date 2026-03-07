@@ -106,18 +106,18 @@ Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemon
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
-## Sab 28/03/2026 15.00
+## Sab 28/03/2026 14.00
 
-<strong>HC ROMA - GENOVA H 1980</strong>
+<strong>GENOVA H 1980 - HC ROMA</strong>
 
 Gara: 791
 
-Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
+Campo: CAMPO G.ARNALDI 
 
-Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
 ## Sab 28/03/2026 15.00
@@ -331,18 +331,18 @@ Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerat
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 
-## Sab 09/05/2026 15.00
+## Sab 09/05/2026 14.30
 
-<strong>GENOVA H 1980 - HC ROMA</strong>
+<strong>HC ROMA - GENOVA H 1980</strong>
 
 Gara: 806
 
-Campo: CAMPO G.ARNALDI 
+Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
-Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
 ## Sab 09/05/2026 13.00

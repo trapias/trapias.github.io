@@ -526,7 +526,7 @@ Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/C
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
-## Sab 09/05/2026 15.00
+## Sab 09/05/2026 16.30
 
 <strong>LAZIO HOCKEY - H CITTA' DEL TRICOLORE</strong>
 

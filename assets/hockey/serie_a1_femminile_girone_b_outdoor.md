@@ -8,12 +8,12 @@
 
 Gara: 856
 
-Campo: Campo Hockey Mario Steffenel 
+Campo: Impianti L. Merigliano 
 
-Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
+Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location: Via Rovigo, Valdocco, Aurora, Circoscrizione 7, Torino, Piemonte, 10100, Italia
-Geo: Geo(latitude=45.0851854, longitude=7.6790006)
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 ## Dom 15/03/2026 15.00
@@ -70,12 +70,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 Gara: 860
 
-Campo: Campo Hockey Mario Steffenel 
+Campo: Impianti L. Merigliano 
 
-Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
+Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location: Via Rovigo, Valdocco, Aurora, Circoscrizione 7, Torino, Piemonte, 10100, Italia
-Geo: Geo(latitude=45.0851854, longitude=7.6790006)
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 ## Dom 29/03/2026 15.00
@@ -146,12 +146,12 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 Gara: 865
 
-Campo: Campo Hockey Mario Steffenel 
+Campo: Impianti L. Merigliano 
 
-Indirizzo Campo:  Centro sportivo Gabrielli - Viale Tre Martiri, 46 - Rovigo
+Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location: Via Rovigo, Valdocco, Aurora, Circoscrizione 7, Torino, Piemonte, 10100, Italia
-Geo: Geo(latitude=45.0851854, longitude=7.6790006)
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 

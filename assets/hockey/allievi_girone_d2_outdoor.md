@@ -218,7 +218,7 @@ Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerat
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 
-## Dom 29/03/2026 14.00
+## Dom 29/03/2026 13.00
 
 <strong>H.POTENZA PICENA - HOCKEY CLUB OLIMPIA</strong>
 
