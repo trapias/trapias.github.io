@@ -212,6 +212,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>GENOVA H 1980 DRITTO - ASD BAD LAKE HOCKEY B</strong>
 
+**Risultato: 1-5**
+
 Gara: 1233
 
 Campo: CAMPO G.ARNALDI 
@@ -225,6 +227,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Sab 07/03/2026 10.30
 
 <strong>GENOVA H 1980 ROVESCIO - HC GENOVA</strong>
+
+**Risultato: 1-5**
 
 Gara: 1234
 

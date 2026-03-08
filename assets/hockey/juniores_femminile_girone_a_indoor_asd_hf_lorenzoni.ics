@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile  - Girone A / Giornata 3\nGara 489\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nHF GENOVA 1980 - ASD HF LORENZONI\n\nRisultato: 4-3
+GEO:45.016586;7.656535
+LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
+DTSTART:20260117T140000Z
+SUMMARY:Juniores Femminile  - Girone A / Giornata 3 - HF GENOVA 1980 - ASD HF LORENZONI
+UID:6b56e95b-4ecd-489b-8d95-54fbd6d139ba@6b56.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone A / Giornata 2\nGara 485\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nUSD MONCALVESE HOCKEY - ASD HF LORENZONI\n\nRisultato: 3-6
 GEO:44.699029;7.842090
 LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260104T120000Z
 SUMMARY:Juniores Femminile  - Girone A / Giornata 2 - USD MONCALVESE HOCKEY - ASD HF LORENZONI
-UID:cd56bf23-8c16-4ec4-88e3-c634010a1d84@cd56.org
+UID:7e8463b1-0e68-4965-ad43-1ffaea03df04@7e84.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone A / Giornata 1\nGara 480\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nASD HF LORENZONI - CUS TORINO\n\nRisultato: 3-1
@@ -15,15 +23,7 @@ GEO:45.016586;7.656535
 LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
 DTSTART:20251213T100000Z
 SUMMARY:Juniores Femminile  - Girone A / Giornata 1 - ASD HF LORENZONI - CUS TORINO
-UID:27594fe2-a211-4d15-aa67-44bf4b33d4e7@2759.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile  - Girone A / Giornata 3\nGara 491\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nASD HF LORENZONI - USD MONCALVESE HOCKEY\n\nRisultato: 3-6
-GEO:45.016586;7.656535
-LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
-DTSTART:20260117T163000Z
-SUMMARY:Juniores Femminile  - Girone A / Giornata 3 - ASD HF LORENZONI - USD MONCALVESE HOCKEY
-UID:2f969601-009c-44b4-a434-72269e8ee76a@2f96.org
+UID:dd9626c6-b89b-4398-ab85-525895d79fad@dd96.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone A / Giornata 2\nGara 487\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nCUS TORINO - ASD HF LORENZONI\n\nRisultato: 2-3
@@ -31,15 +31,7 @@ GEO:44.699029;7.842090
 LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260104T160000Z
 SUMMARY:Juniores Femminile  - Girone A / Giornata 2 - CUS TORINO - ASD HF LORENZONI
-UID:3f074eca-25ad-45b1-b028-9cac43276acf@3f07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile  - Girone A / Giornata 3\nGara 489\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nHF GENOVA 1980 - ASD HF LORENZONI\n\nRisultato: 4-3
-GEO:45.016586;7.656535
-LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
-DTSTART:20260117T140000Z
-SUMMARY:Juniores Femminile  - Girone A / Giornata 3 - HF GENOVA 1980 - ASD HF LORENZONI
-UID:27f18c9a-3d80-4140-b594-d47d7e852e49@27f1.org
+UID:becde58c-455e-4a78-83c1-fc9ca33c0821@becd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone A / Giornata 1\nGara 482\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nASD HF LORENZONI - HF GENOVA 1980\n\nRisultato: 5-3
@@ -47,6 +39,14 @@ GEO:45.016586;7.656535
 LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
 DTSTART:20251213T123000Z
 SUMMARY:Juniores Femminile  - Girone A / Giornata 1 - ASD HF LORENZONI - HF GENOVA 1980
-UID:64098e79-5a1a-4257-b381-27249931162f@6409.org
+UID:63e5af16-c482-4a1c-8fcd-8fbacf4621af@63e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile  - Girone A / Giornata 3\nGara 491\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nASD HF LORENZONI - USD MONCALVESE HOCKEY\n\nRisultato: 3-6
+GEO:45.016586;7.656535
+LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
+DTSTART:20260117T163000Z
+SUMMARY:Juniores Femminile  - Girone A / Giornata 3 - ASD HF LORENZONI - USD MONCALVESE HOCKEY
+UID:e232bd6d-18c0-4565-9971-6f1eb0ceee4e@e232.org
 END:VEVENT
 END:VCALENDAR

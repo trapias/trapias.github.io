@@ -3,7 +3,7 @@
 # Ragazzi - OUTDOOR  - Girone A / Giornata 1
 
 <!-- VALCHISONE_START -->
-## Dom 08/03/2026 13.00 ⭐
+## Dom 08/03/2026 11.00 ⭐
 
 <strong>HCU RASSEMBLEMENT TORINO - HP VALCHISONE</strong>
 

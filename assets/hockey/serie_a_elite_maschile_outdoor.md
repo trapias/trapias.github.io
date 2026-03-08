@@ -6,6 +6,8 @@
 
 <strong>TEVERE EUR H - BUTTERFLY ROMA</strong>
 
+**Risultato: 4-3**
+
 Gara: 1
 
 Campo: EUROMA STADIUM 
@@ -19,6 +21,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 ## Sab 07/03/2026 15.00
 
 <strong>POL FERRINI - HC BRA</strong>
+
+**Risultato: 4-5**
 
 Gara: 2
 
@@ -35,6 +39,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>HP VALCHISONE - H CITTA' DEL TRICOLORE</strong>
 
+**Risultato: 1-0**
+
 Gara: 3
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 
@@ -50,6 +56,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 ## Sab 07/03/2026 15.30
 
 <strong>LAZIO HOCKEY - SG AMSICORA</strong>
+
+**Risultato: 5-2**
 
 Gara: 4
 

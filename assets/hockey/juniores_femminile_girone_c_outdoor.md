@@ -109,6 +109,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>H.POTENZA PICENA - UH CAPITOLINA</strong>
 
+**Risultato: 0-6**
+
 Gara: 299
 
 Campo: STADIO HOCKEY POTENZA PICENA 
