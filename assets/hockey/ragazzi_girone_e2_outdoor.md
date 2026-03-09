@@ -123,6 +123,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>BUTTERFLY ROMA - H.POTENZA PICENA</strong>
 
+**Risultato: 1-5**
+
 Gara: 616
 
 Campo: CENTRO GIULIO ONESTI 

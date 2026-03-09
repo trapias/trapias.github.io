@@ -125,6 +125,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>HOCKEY CLUB ROMA - LAZIO HOCKEY</strong>
 
+**Risultato: 6-1**
+
 Gara: 561
 
 Campo: Campo Comunale Oriolo Romano 

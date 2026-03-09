@@ -275,6 +275,8 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 <strong>ASD ADIGE UHC - POLISPORTIVA CAMELOT</strong>
 
+**Risultato: 5-1**
+
 Gara: 416
 
 Campo: Comunale Mori 

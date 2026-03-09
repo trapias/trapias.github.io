@@ -179,6 +179,8 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 <strong>MILANO HP - HOCKEY CLUB ARGENTIA</strong>
 
+**Risultato: 0-3**
+
 Gara: 390
 
 Campo: Campo Comunale 
@@ -192,6 +194,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 ## Dom 08/03/2026 11.00
 
 <strong>HOCKEY CLUB RIVA - CUS PADOVA ASD</strong>
+
+**Risultato: 1-0**
 
 Gara: 391
 

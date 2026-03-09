@@ -7,6 +7,8 @@
 
 <strong>HCU RASSEMBLEMENT TORINO - HP VALCHISONE</strong>
 
+**Risultato: 7-1**
+
 Gara: 682
 
 Campo: Tazzoli 
@@ -19,9 +21,12 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
 
-## Dom 08/03/2026 14.30
+<!-- VALCHISONE_START -->
+## Dom 08/03/2026 14.30 ⭐
 
-<strong>HCU RASSEMBLEMENT TORINO RIS - HCU RASSEMBLEMENT TORINO</strong>
+<strong>HCU RASSEMBLEMENT TORINO RIS - HP VALCHISONE</strong>
+
+**Risultato: 1-2**
 
 Gara: 1320
 
@@ -31,11 +36,15 @@ Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
 Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 08/03/2026 16.00
 
 <strong>HCU RASSEMBLEMENT TORINO - HCU RASSEMBLEMENT TORINO RIS</strong>
+
+**Risultato: 7-4**
 
 Gara: 1341
 

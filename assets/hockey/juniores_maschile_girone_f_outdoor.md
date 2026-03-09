@@ -44,6 +44,8 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 <strong>HT SARDEGNA - SG AMSICORA</strong>
 
+**Risultato: 0-14**
+
 Gara: 1159
 
 Campo: Comunale Uras 

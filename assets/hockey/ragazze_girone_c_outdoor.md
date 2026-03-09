@@ -37,7 +37,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 # Ragazze - OUTDOOR  - Girone C / Giornata 2
 
-## Sab 28/03/2026 12.45
+## Sab 28/03/2026 12.30
 
 <strong>HC GENOVA - HF GENOVA 1980</strong>
 
@@ -189,7 +189,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Sab 14/03/2026 11.00
+## Sab 21/03/2026 15.00
 
 <strong>CUS PISA ASD - HF GENOVA 1980</strong>
 

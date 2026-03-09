@@ -92,6 +92,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA RIS. - HT SARDEGNA</strong>
 
+**Risultato: 5-1**
+
 Gara: 1105
 
 Campo: Comunale Uras 

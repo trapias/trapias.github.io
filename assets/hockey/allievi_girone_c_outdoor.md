@@ -377,6 +377,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>CUS PISA ASD - GENOVA H 1980 ROVESCIO</strong>
 
+**Risultato: 6-4**
+
 Gara: 1196
 
 Campo: CAMPO HOCKEY PRATO 
@@ -466,6 +468,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Dom 08/03/2026 15.00
 
 <strong>HC GENOVA RAINBOW - ASD BAD LAKE HOCKEY</strong>
+
+**Risultato: 2-3**
 
 Gara: 1202
 
@@ -666,6 +670,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Dom 08/03/2026 11.00
 
 <strong>CUS PISA ASD - GENOVA H 1980 DRITTO</strong>
+
+**Risultato: 1-6**
 
 Gara: 1215
 

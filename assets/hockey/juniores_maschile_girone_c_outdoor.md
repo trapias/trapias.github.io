@@ -271,6 +271,8 @@ Geo: Geo(latitude=44.3230861, longitude=8.464578)
 
 <strong>ASD SUPERBA HC - CUS PISA ASD</strong>
 
+**Risultato: 7-1**
+
 Gara: 1217
 
 Campo: CAMPO G.ARNALDI 
@@ -329,6 +331,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Dom 08/03/2026 16.30
 
 <strong>HC GENOVA - CUS PISA ASD</strong>
+
+**Risultato: 5-0**
 
 Gara: 1221
 
