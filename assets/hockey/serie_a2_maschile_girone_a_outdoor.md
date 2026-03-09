@@ -47,7 +47,7 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 # Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2
 
-## Sab 21/03/2026 15.00
+## Sab 21/03/2026 14.00
 
 <strong>HC MOGLIANO - HC ROMA</strong>
 

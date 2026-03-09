@@ -204,26 +204,6 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 
-# Ragazzi - OUTDOOR  - Girone A / Giornata 9
-
-<!-- VALCHISONE_START -->
-## Dom 08/03/2026 11.00 ⭐
-
-<strong>HCU RASSEMBLEMENT TORINO - HP VALCHISONE</strong>
-
-Gara: 691
-
-Campo: Tazzoli 
-
-Indirizzo Campo:  Corso Tazzoli, 78 - Torino
-
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-<!-- VALCHISONE_END -->
-
-
-
-
 # Ragazzi - OUTDOOR  - Girone A / Giornata 10
 
 ## Dom 16/11/2025 14.00
@@ -403,7 +383,7 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 # Ragazzi - OUTDOOR  - Girone A / Giornata 18
 
 <!-- VALCHISONE_START -->
-## Dom 03/05/2026 12.00 ⭐
+## Dom 03/05/2026 13.30 ⭐
 
 <strong>HP VALCHISONE - ASD CERNUSCO FIELD HOCKEY</strong>
 

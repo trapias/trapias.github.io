@@ -197,7 +197,7 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 # Juniores Maschile - OUTDOOR  - Girone A / Giornata 10
 
-## Dom 15/03/2026 11.00
+## Dom 15/03/2026 15.30
 
 <strong>USD MONCALVESE HOCKEY - HCU RASSEMBLEMENT TORINO</strong>
 
