@@ -262,32 +262,32 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 # Allieve - OUTDOOR  - Girone B / Giornata 5
 
-## Ven 01/05/2026 13.00
+## Ven 01/05/2026 10.30
 
-<strong>CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO</strong>
+<strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
 
 Gara: 494
 
-Campo: Impianti L. Merigliano 
+Campo: A. GIATTI 
 
-Indirizzo Campo:  via J. Corrado, 4 - Padova
+Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: Padova, Veneto, Italia
-Geo: Geo(latitude=45.391408, longitude=11.8058487)
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
-## Ven 01/05/2026 15.00
+## Ven 01/05/2026 12.30
 
-<strong>CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO</strong>
+<strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
 
 Gara: 495
 
-Campo: Impianti L. Merigliano 
+Campo: A. GIATTI 
 
-Indirizzo Campo:  via J. Corrado, 4 - Padova
+Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
 
-Location: Padova, Veneto, Italia
-Geo: Geo(latitude=45.391408, longitude=11.8058487)
+Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
+Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
 ## Ven 10/04/2026 17.30

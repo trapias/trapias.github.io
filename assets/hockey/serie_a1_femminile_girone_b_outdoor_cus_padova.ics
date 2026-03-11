@@ -2,36 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 860\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - HC ARGENTIA
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20260329T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3 - CUS PADOVA - HC ARGENTIA
-UID:163b6460-9d10-486d-ae49-b789b4782765@163b.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4\nGara 862\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - CUS PADOVA
 GEO:43.386400;13.654670
 LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
 DTSTART:20260412T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4 - H.POTENZA PICENA - CUS PADOVA
-UID:609420e0-4299-420e-a6af-662cdf36ea0d@6094.org
+UID:b1bb56d1-6752-46db-bf98-69963899d8ef@b1bb.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1\nGara 856\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - H.POTENZA PICENA
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 860\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - HC ARGENTIA
 GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
-DTSTART:20260315T140000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1 - CUS PADOVA - H.POTENZA PICENA
-UID:c365872f-6f9b-4f96-bed4-30fda5f53ca5@c365.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 865\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - HC RIVA
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20260419T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 5 - CUS PADOVA - HC RIVA
-UID:524a3b9b-410c-49e7-b9ed-65aeb590f144@524a.org
+DTSTART:20260329T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3 - CUS PADOVA - HC ARGENTIA
+UID:631a9989-600f-4329-b5f4-9b15559c09de@631a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 2\nGara 859\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - CUS PADOVA
@@ -39,7 +23,23 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260322T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 2 - HC RIVA - CUS PADOVA
-UID:87e77428-9cb0-4052-8dad-ef7b030b83a7@87e7.org
+UID:f00728a7-78fc-459e-93e1-00ba2af32e4f@f007.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1\nGara 856\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - H.POTENZA PICENA
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20260315T140000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1 - CUS PADOVA - H.POTENZA PICENA
+UID:24db68fc-913d-4120-a4af-4b4809998dcd@24db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 865\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - HC RIVA
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20260419T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 5 - CUS PADOVA - HC RIVA
+UID:73f25556-6c13-4f1d-be7c-ab9020083072@73f2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 6\nGara 867\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC ARGENTIA - CUS PADOVA
@@ -47,6 +47,6 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20260426T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 6 - HC ARGENTIA - CUS PADOVA
-UID:3bd75662-b664-4ab3-80ea-4197ef5ef915@3bd7.org
+UID:18176ac9-fea5-4775-8806-28b321e34b6f@1817.org
 END:VEVENT
 END:VCALENDAR

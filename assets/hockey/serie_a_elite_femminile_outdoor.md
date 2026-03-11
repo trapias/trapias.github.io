@@ -61,7 +61,7 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 2
 
-## Dom 29/03/2026 15.00
+## Dom 29/03/2026 15.30
 
 <strong>HT FEMM BOLOGNA - SG AMSICORA</strong>
 

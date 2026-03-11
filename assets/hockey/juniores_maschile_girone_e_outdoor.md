@@ -59,7 +59,7 @@ Geo: Geo(latitude=37.5737465, longitude=15.121129)
 
 # Juniores Maschile - OUTDOOR  - Girone E / Giornata 4
 
-## Dom 15/03/2026 11.00
+## -
 
 <strong>SSD UNIME ARL - VALVERDE HOCKETY 2018</strong>
 

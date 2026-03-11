@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 1\nGara 551\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nASD SUPERBA HC - GENOVA H. 1980 U18\n\nRisultato: 8-1
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 1\nGara 549\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC GENOVA - ASD SUPERBA HC\n\nRisultato: 5-9
 GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251208T120000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 1 - ASD SUPERBA HC - GENOVA H. 1980 U18
-UID:94909dcc-dc72-4207-839b-f9265b03f205@9490.org
+DTSTART:20251208T100000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 1 - HC GENOVA - ASD SUPERBA HC
+UID:888548de-e9a9-471e-b81f-34f84bf3a91b@8885.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone C / Giornata 2\nGara 559\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nHC SAVONA - ASD SUPERBA HC\n\nRisultato: 2-9
@@ -15,23 +15,7 @@ GEO:43.944387;10.929450
 LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
 DTSTART:20251214T120000Z
 SUMMARY:Juniores Maschile  - Girone C / Giornata 2 - HC SAVONA - ASD SUPERBA HC
-UID:60868202-6b86-4dfe-87e6-69af4bd69abc@6086.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 1\nGara 549\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC GENOVA - ASD SUPERBA HC\n\nRisultato: 5-9
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251208T100000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 1 - HC GENOVA - ASD SUPERBA HC
-UID:a2a385ab-6362-4457-a132-5386f0cb63d5@a2a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 3\nGara 566\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nGENOVA H. 1980 - ASD SUPERBA HC\n\nRisultato: 4-4
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260118T123000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 3 - GENOVA H. 1980 - ASD SUPERBA HC
-UID:658ab082-93a8-4ff6-ba14-670853c88f93@658a.org
+UID:599ddbd1-b30c-4732-bdb5-9fd8048b5e7d@599d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone C / Giornata 2\nGara 556\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nHC PISTOIA FRANJO - ASD SUPERBA HC\n\nRisultato: 0-8
@@ -39,7 +23,23 @@ GEO:43.944387;10.929450
 LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
 DTSTART:20251214T090000Z
 SUMMARY:Juniores Maschile  - Girone C / Giornata 2 - HC PISTOIA FRANJO - ASD SUPERBA HC
-UID:ecd49f17-62fa-4487-9250-30044d4679b1@ecd4.org
+UID:d6aa1d67-51a3-4f45-8b10-5734fa224a75@d6aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 3\nGara 566\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nGENOVA H. 1980 - ASD SUPERBA HC\n\nRisultato: 4-4
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260118T123000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 3 - GENOVA H. 1980 - ASD SUPERBA HC
+UID:a5490f7a-8eaf-45d3-9367-a7ef04546c17@a549.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 1\nGara 551\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nASD SUPERBA HC - GENOVA H. 1980 U18\n\nRisultato: 8-1
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251208T120000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 1 - ASD SUPERBA HC - GENOVA H. 1980 U18
+UID:f789a004-1831-4345-92b0-11442c5b16a7@f789.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone C / Giornata 3\nGara 562\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nASD SUPERBA HC - CUS PISA ASD\n\nRisultato: 5-3
@@ -47,6 +47,6 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260118T083000Z
 SUMMARY:Juniores Maschile  - Girone C / Giornata 3 - ASD SUPERBA HC - CUS PISA ASD
-UID:80481209-bc17-4d39-ad4a-558725430759@8048.org
+UID:b12bb39e-7904-42d1-8cb6-fb14796db716@b12b.org
 END:VEVENT
 END:VCALENDAR
