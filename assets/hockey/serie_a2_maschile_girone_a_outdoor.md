@@ -120,18 +120,18 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Sab 28/03/2026 15.00
+## Sab 28/03/2026 12.00
 
-<strong>MONCALVESE H - HC SAVONA</strong>
+<strong>HC SAVONA - MONCALVESE H</strong>
 
 Gara: 792
 
-Campo: UMBERTO MICCO 
+Campo: CAMPO G.ARNALDI 
 
-Indirizzo Campo:  Via Goria, 4 - Moncalvo
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: Moncalvo, Asti, Piemonte, 14036, Italia
-Geo: Geo(latitude=45.050205, longitude=8.2650382)
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
 
@@ -345,18 +345,18 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Sab 09/05/2026 13.00
+## Sab 09/05/2026 15.00
 
-<strong>HC SAVONA - MONCALVESE H</strong>
+<strong>MONCALVESE H - HC SAVONA</strong>
 
 Gara: 807
 
-Campo: CAMPO G.ARNALDI 
+Campo: UMBERTO MICCO 
 
-Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+Location: Moncalvo, Asti, Piemonte, 14036, Italia
+Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 
 

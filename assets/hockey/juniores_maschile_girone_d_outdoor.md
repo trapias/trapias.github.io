@@ -220,7 +220,7 @@ Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capital
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
-## Dom 29/03/2026 11.00
+## Gio 02/04/2026 20.30
 
 <strong>LAZIO HOCKEY - HOCKEY CLUB ROMA</strong>
 
