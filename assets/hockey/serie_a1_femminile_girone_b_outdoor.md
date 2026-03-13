@@ -16,7 +16,7 @@ Location: Padova, Veneto, Italia
 Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
-## Dom 15/03/2026 15.00
+## Sab 11/04/2026 16.00
 
 <strong>HC RIVA - HC ARGENTIA</strong>
 

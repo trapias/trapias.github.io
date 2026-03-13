@@ -311,7 +311,7 @@ Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
-## Dom 26/04/2026 15.00
+## Dom 26/04/2026 14.00
 
 <strong>UH CAPITOLINA - HF LORENZONI</strong>
 
@@ -516,7 +516,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Dom 17/05/2026 15.00
+## Dom 17/05/2026 14.00
 
 <strong>BUTTERFLY ROMA - HF LORENZONI</strong>
 

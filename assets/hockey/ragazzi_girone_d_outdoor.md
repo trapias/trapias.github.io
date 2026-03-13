@@ -243,7 +243,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 # Ragazzi - OUTDOOR  - Girone D / Giornata 8
 
-## Sab 28/03/2026 09.00
+## Sab 28/03/2026 10.30
 
 <strong>GENOVA H 1980 DRITTO - GENOVA H 1980 ROVESCIO</strong>
 
