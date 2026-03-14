@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 6\nGara 1154\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nPOL GALATEA - ASD SAN PIETRO CLARENZA
-GEO:37.529426;15.096557
-LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
-DTSTART:20260419T080000Z
-SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 6 - POL GALATEA - ASD SAN PIETRO CLARENZA
-UID:57e9d405-6343-4ed6-8501-c5164c76b9df@57e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 5\nGara 1152\nCittadella Universitaria - Viale Annunziata\, snc Messina\nSSD UNIME ARL - POL GALATEA
-GEO:38.225545;15.553272
-LOCATION:Viale Giovanni Palatucci\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
-DTSTART:20260329T090000Z
-SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 5 - SSD UNIME ARL - POL GALATEA
-UID:8b36ef01-b555-4fee-8f1b-05db17745be5@8b36.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 3\nGara 955\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nASD SAN PIETRO CLARENZA - POL GALATEA\n\nRisultato: 0-14
 GEO:37.529426;15.096557
 LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
 DTSTART:20251108T143000Z
 SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 3 - ASD SAN PIETRO CLARENZA - POL GALATEA
-UID:6867c2aa-c707-4c80-a6d3-c89df83a7b4b@6867.org
+UID:596d42a4-a9b4-4e2e-bf34-726dea25499f@596d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 4\nGara 1151\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nPOL GALATEA - PGS DON BOSCO 2000 ASD
@@ -31,7 +15,7 @@ GEO:37.529426;15.096557
 LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
 DTSTART:20260322T100000Z
 SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 4 - POL GALATEA - PGS DON BOSCO 2000 ASD
-UID:b36c16d0-9155-4c2b-8f00-3da085831639@b36c.org
+UID:70df16c7-d165-4340-8ebd-e57447cd0359@70df.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 1\nGara 958\nOratorio Salesiano - Via S.G.Bosco\, 6 Barcellona Pozzo di Gotto\nPGS DON BOSCO 2000 ASD - POL GALATEA\n\nRisultato: 2-1
@@ -39,7 +23,23 @@ GEO:38.148306;15.217552
 LOCATION:Barcellona Pozzo di Gotto\, Messina\, Sicilia\, 98051\, Italia
 DTSTART:20251019T090000Z
 SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 1 - PGS DON BOSCO 2000 ASD - POL GALATEA
-UID:d0e93a81-1c1d-4ee1-9913-80272699d7e6@d0e9.org
+UID:0b1d316a-ecc2-4484-9173-893251f5b0fb@0b1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 5\nGara 1152\nCittadella Universitaria - Viale Annunziata\, snc Messina\nSSD UNIME ARL - POL GALATEA
+GEO:38.225545;15.553272
+LOCATION:Viale Giovanni Palatucci\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
+DTSTART:20260329T090000Z
+SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 5 - SSD UNIME ARL - POL GALATEA
+UID:41dcc821-5348-42a5-9b7d-a61a296d0091@41dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 6\nGara 1154\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nPOL GALATEA - ASD SAN PIETRO CLARENZA
+GEO:37.529426;15.096557
+LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
+DTSTART:20260419T080000Z
+SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 6 - POL GALATEA - ASD SAN PIETRO CLARENZA
+UID:2d24a9d8-f343-4d2c-8205-91c5d5c36823@2d24.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone E / Giornata 2\nGara 960\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nPOL GALATEA - SSD UNIME ARL\n\nRisultato: 10-0
@@ -47,6 +47,6 @@ GEO:37.529426;15.096557
 LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
 DTSTART:20251026T090000Z
 SUMMARY:Allievi - OUTDOOR  - Girone E / Giornata 2 - POL GALATEA - SSD UNIME ARL
-UID:1a59ac7f-4954-47c1-ae19-a277f2f8bdb7@1a59.org
+UID:1c03e582-5a53-40d0-979d-5b8730574ba0@1c03.org
 END:VEVENT
 END:VCALENDAR

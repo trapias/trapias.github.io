@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 155\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - ASD SUPERBA HC\n\nRisultato: 4-4
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 148\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - A.S.D. S.H. PAOLO BONOMI\n\nRisultato: 1-0
 GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251018T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 8 - CUS PISA ASD - ASD SUPERBA HC
-UID:183055ad-cd9b-4f97-8f29-4d1081786260@1830.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 1\nGara 141\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nASD SUPERBA HC - CUS PISA ASD\n\nRisultato: 6-4
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20251026T150000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 1 - ASD SUPERBA HC - CUS PISA ASD
-UID:47b69cca-b21a-480f-ae17-06f2fee2d9db@47b6.org
+DTSTART:20251004T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 5 - CUS PISA ASD - A.S.D. S.H. PAOLO BONOMI
+UID:f5b03fd4-5501-4927-b8ec-18f41fa28fa6@f5b0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 158\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nA.S.D. S.H. PAOLO BONOMI - CUS PISA ASD\n\nRisultato: 3-2
@@ -23,7 +15,7 @@ GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
 DTSTART:20251101T140000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 10 - A.S.D. S.H. PAOLO BONOMI - CUS PISA ASD
-UID:e88a6429-3c7b-483c-b4f1-9c22c5600ce4@e88a.org
+UID:a07c638f-31b8-4f66-91c8-2a6342305400@a07c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 142\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - HC BRA\n\nRisultato: 2-5
@@ -31,7 +23,15 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20250920T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 2 - CUS PISA ASD - HC BRA
-UID:74235011-4ea0-479c-8fe5-e975cdeb5946@7423.org
+UID:b704d013-04c5-496c-a6b8-8e0e67163c12@b704.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 155\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - ASD SUPERBA HC\n\nRisultato: 4-4
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251018T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 8 - CUS PISA ASD - ASD SUPERBA HC
+UID:2fba62fd-aa85-40e1-8a39-9bd25384b7f7@2fba.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 157\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - HP VALCHISONE\n\nRisultato: 1-2
@@ -39,7 +39,7 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251025T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 9 - CUS PISA ASD - HP VALCHISONE
-UID:5ae516c3-b3c4-434b-8a4e-7e4b9be74578@5ae5.org
+UID:2996214b-e1e8-48b1-adca-7941ca80238b@2996.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 4\nGara 147\nTazzoli - Corso Tazzoli\, 78 Torino\nHP VALCHISONE - CUS PISA ASD\n\nRisultato: 1-3
@@ -47,15 +47,15 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20250928T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 4 - HP VALCHISONE - CUS PISA ASD
-UID:82b71a47-bcfc-48c3-a47e-9308ca3f8725@82b7.org
+UID:8e749644-37b8-45ad-b11e-374f529bd83b@8e74.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 148\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - A.S.D. S.H. PAOLO BONOMI\n\nRisultato: 1-0
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251004T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 5 - CUS PISA ASD - A.S.D. S.H. PAOLO BONOMI
-UID:1d9f8882-723a-44ce-b8f6-29015e22307c@1d9f.org
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 1\nGara 141\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nASD SUPERBA HC - CUS PISA ASD\n\nRisultato: 6-4
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20251026T150000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 1 - ASD SUPERBA HC - CUS PISA ASD
+UID:72fe5394-398b-465d-a081-6b4ed7bf0210@72fe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 7\nGara 153\nPINO PALMIERI - Viale madonna dei fiori\, n. 49\, 12042 bra\, cn\, italia BRA  CN\nHC BRA - CUS PISA ASD\n\nRisultato: 8-2
@@ -63,6 +63,6 @@ GEO:44.704681;7.843069
 LOCATION:Viale Madonna dei Fiori\, Madonna dei Fiori\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20251012T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone A / Giornata 7 - HC BRA - CUS PISA ASD
-UID:2cf94754-f6e9-49dc-a460-6a230c9e23a0@2cf9.org
+UID:625ea794-e3bc-4d51-b47f-c3c3c306b916@625e.org
 END:VEVENT
 END:VCALENDAR
