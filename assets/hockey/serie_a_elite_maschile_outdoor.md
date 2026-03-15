@@ -76,6 +76,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>HC BRA - TEVERE EUR H</strong>
 
+**Risultato: 2-2**
+
 Gara: 5
 
 Campo: PINO PALMIERI 
@@ -89,6 +91,8 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 ## Sab 14/03/2026 15.00
 
 <strong>BUTTERFLY ROMA - POL FERRINI</strong>
+
+**Risultato: 4-5**
 
 Gara: 6
 
@@ -104,6 +108,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>H CITTA' DEL TRICOLORE - LAZIO HOCKEY</strong>
 
+**Risultato: 1-4**
+
 Gara: 7
 
 Campo: Sport Arena 
@@ -118,6 +124,8 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 ## Sab 14/03/2026 15.00 ⭐
 
 <strong>SG AMSICORA - HP VALCHISONE</strong>
+
+**Risultato: 3-1**
 
 Gara: 8
 

@@ -179,6 +179,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>HC GENOVA - HC RAINBOW SAMPIERDARENA</strong>
 
+**Risultato: 10-0**
+
 Gara: 1241
 
 Campo: CAMPO G.ARNALDI 

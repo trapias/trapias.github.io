@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 4\nGara 176\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - USD MONCALVESE HOCKEY\n\nRisultato: 3-5
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20251004T120000Z
-SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 4 - HC GENOVA - USD MONCALVESE HOCKEY
-UID:7a0ee313-c862-4714-87a4-9d7003ba7c49@7a0e.org
+DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 6\nGara 181\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - GENOVA H 1980 RIS.\n\nRisultato: 5-4
+GEO:45.050205;8.265038
+LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
+DTSTART:20251019T093000Z
+SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 6 - USD MONCALVESE HOCKEY - GENOVA H 1980 RIS.
+UID:60db1290-006c-4be6-aac6-35a09bc0eb73@60db.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 1\nGara 170\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HC GENOVA\n\nRisultato: 3-0
@@ -15,15 +15,15 @@ GEO:45.050205;8.265038
 LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
 DTSTART:20250913T140000Z
 SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 1 - USD MONCALVESE HOCKEY - HC GENOVA
-UID:202cffe4-356a-46aa-9369-1e259158ba3e@202c.org
+UID:4b812ddd-e855-4e74-8ebb-ae10390d2dcf@4b81.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 2\nGara 172\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HC SAVONA\n\nRisultato: 6-0
-GEO:45.050205;8.265038
-LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
-DTSTART:20250921T140000Z
-SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 2 - USD MONCALVESE HOCKEY - HC SAVONA
-UID:4016543d-0103-418d-a4c9-9d818f642849@4016.org
+DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 4\nGara 176\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC GENOVA - USD MONCALVESE HOCKEY\n\nRisultato: 3-5
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20251004T120000Z
+SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 4 - HC GENOVA - USD MONCALVESE HOCKEY
+UID:09d59455-33c4-4dca-8196-cb2f38f57663@09d5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 5\nGara 178\nCampo Sportivo Augusto Briano - Via Santuario\, snc Savona\nHC SAVONA - USD MONCALVESE HOCKEY\n\nRisultato: 1-3
@@ -31,7 +31,15 @@ GEO:44.323086;8.464578
 LOCATION:Via Santuario\, Lavagnola\, Savona\, Liguria\, 17100\, Italia
 DTSTART:20251011T130000Z
 SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 5 - HC SAVONA - USD MONCALVESE HOCKEY
-UID:344e1346-9a39-4151-8188-4babbf9ab05c@344e.org
+UID:91e53c6f-bd06-4e34-b5c2-05cfb3c08d8c@91e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 2\nGara 172\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HC SAVONA\n\nRisultato: 6-0
+GEO:45.050205;8.265038
+LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
+DTSTART:20250921T140000Z
+SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 2 - USD MONCALVESE HOCKEY - HC SAVONA
+UID:07d75e01-b9a0-45b3-9972-a0339d386029@07d7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 3\nGara 174\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 RIS. - USD MONCALVESE HOCKEY\n\nRisultato: 0-9
@@ -39,14 +47,6 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20250928T093000Z
 SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 3 - GENOVA H 1980 RIS. - USD MONCALVESE HOCKEY
-UID:be879df0-e374-4a86-ba21-da53b60a5312@be87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 6\nGara 181\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - GENOVA H 1980 RIS.\n\nRisultato: 5-4
-GEO:45.050205;8.265038
-LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
-DTSTART:20251019T093000Z
-SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A1 / Giornata 6 - USD MONCALVESE HOCKEY - GENOVA H 1980 RIS.
-UID:87edc96a-c87b-4c00-9d9f-dabd0b098023@87ed.org
+UID:08e81d05-1fed-4f4b-a6cf-0a950f56d2f2@08e8.org
 END:VEVENT
 END:VCALENDAR

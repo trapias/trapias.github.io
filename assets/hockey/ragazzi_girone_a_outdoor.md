@@ -263,6 +263,8 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - HP VALCHISONE</strong>
 
+**Risultato: 1-1**
+
 Gara: 695
 
 Campo: CENTRO S. COMUNALE 
@@ -301,6 +303,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 ## Sab 14/03/2026 12.30 ⭐
 
 <strong>HP VALCHISONE - A.S.D. S.H. PAOLO BONOMI</strong>
+
+**Risultato: 0-3**
 
 Gara: 1306
 

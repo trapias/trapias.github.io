@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 6\nGara 440\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CUS PADOVA ASD
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260531T090000Z
-SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 6 - ASD ADIGE UHC - CUS PADOVA ASD
-UID:f1f4bbcd-c3a1-4b67-b8be-91f432b97bbc@f1f4.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 5\nGara 439\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - ASD HOCKEY CLUB BONDENO
 GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20260508T160000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 5 - CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO
-UID:1439c0b0-3724-4a33-b5ed-d9140ef2f2fd@1439.org
+UID:ece1ab77-9a72-4e73-b939-a1949305f11d@ece1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 1\nGara 431\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - CUS PADOVA ASD\n\nRisultato: 1-5
@@ -23,15 +15,7 @@ GEO:44.494706;11.280302
 LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
 DTSTART:20251004T143000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 1 - HOCKEY TEAM FEMMINILE BOLOGNA - CUS PADOVA ASD
-UID:2e28ffa8-645d-45f2-8b28-3772b1f36463@2e28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 2\nGara 433\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD\n\nRisultato: 1-6
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251018T160000Z
-SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
-UID:8b31b78f-9b1c-4116-b055-29d68bb4b255@8b31.org
+UID:878d618a-a651-43a2-9e89-b849bec3cc0a@878d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 4\nGara 437\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY TEAM FEMMINILE BOLOGNA
@@ -39,7 +23,23 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20260418T140000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 4 - CUS PADOVA ASD - HOCKEY TEAM FEMMINILE BOLOGNA
-UID:2a4818a4-0528-427a-b787-6cf9fa716716@2a48.org
+UID:a9ec970d-80d4-4bbe-8bbc-840e9ce7f908@a9ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 2\nGara 433\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD\n\nRisultato: 1-6
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251018T160000Z
+SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
+UID:756a2103-0756-40e3-95d3-39ba8d06550b@756a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 6\nGara 440\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CUS PADOVA ASD
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260531T090000Z
+SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 6 - ASD ADIGE UHC - CUS PADOVA ASD
+UID:94d599cb-3ff5-458b-9545-3a00d36e848f@94d5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 3\nGara 434\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - ASD ADIGE UHC\n\nRisultato: 2-1
@@ -47,6 +47,6 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20251031T163000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 3 - CUS PADOVA ASD - ASD ADIGE UHC
-UID:ecc35ad9-2b01-4438-a592-aa6010e5da3f@ecc3.org
+UID:0acc2670-3853-4290-89af-a45c5d43693e@0acc.org
 END:VEVENT
 END:VCALENDAR

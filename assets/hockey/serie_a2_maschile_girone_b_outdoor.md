@@ -6,6 +6,8 @@
 
 <strong>HC OLIMPIA - HC VILLAFRANCA</strong>
 
+**Risultato: 2-4**
+
 Gara: 814
 
 Campo: Sintetico Comunale 
@@ -20,6 +22,8 @@ Geo: Geo(latitude=40.465627, longitude=17.735612)
 
 <strong>POL GALATEA - HC RIVA</strong>
 
+**Risultato: 3-3**
+
 Gara: 815
 
 Campo: DUSMET 
@@ -33,6 +37,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 ## Sab 14/03/2026 15.00
 
 <strong>CERNUSCO FH - HC GRANTORTO</strong>
+
+**Risultato: 2-3**
 
 Gara: 816
 

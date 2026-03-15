@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 2\nGara 461\nComunale Mori - Via Lomba\, 23 Mori\nPOLISPORTIVA CAMELOT - HOCKEY CLUB RIVA\n\nRisultato: 0-23
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251026T120000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 2 - POLISPORTIVA CAMELOT - HOCKEY CLUB RIVA
-UID:ccf25c90-db08-45a2-808e-6c295359c155@ccf2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 3\nGara 465\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nASD ADIGE UHC - POLISPORTIVA CAMELOT\n\nRisultato: 3-5
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20251102T120000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 3 - ASD ADIGE UHC - POLISPORTIVA CAMELOT
-UID:79301b5f-c155-4818-aa86-c94339940174@7930.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 2\nGara 459\nComunale Mori - Via Lomba\, 23 Mori\nPOLISPORTIVA CAMELOT - ASD ADIGE UHC\n\nRisultato: 1-10
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251026T100000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 2 - POLISPORTIVA CAMELOT - ASD ADIGE UHC
-UID:fdf12d42-ef40-4968-86ac-344c009eb727@fdf1.org
+DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 1\nGara 455\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHOCKEY CLUB RIVA - POLISPORTIVA CAMELOT\n\nRisultato: 12-0
+GEO:45.601581;11.733989
+LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20251005T090000Z
+SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 1 - HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT
+UID:f72eae4f-550d-43e5-a13f-e9bff1e15c26@f72e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 1\nGara 456\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nCSP SAN GIORGIO - POLISPORTIVA CAMELOT\n\nRisultato: 10-0
@@ -31,7 +15,23 @@ GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20251005T110000Z
 SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 1 - CSP SAN GIORGIO - POLISPORTIVA CAMELOT
-UID:6c4d09ad-dd76-41e5-bd9b-7b3a05acae9b@6c4d.org
+UID:ab065972-b112-4bb8-bd51-c77424e01671@ab06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 2\nGara 459\nComunale Mori - Via Lomba\, 23 Mori\nPOLISPORTIVA CAMELOT - ASD ADIGE UHC\n\nRisultato: 1-10
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251026T100000Z
+SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 2 - POLISPORTIVA CAMELOT - ASD ADIGE UHC
+UID:dddddcfa-3215-4cf7-ae4a-f6be5b7922c8@dddd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 2\nGara 461\nComunale Mori - Via Lomba\, 23 Mori\nPOLISPORTIVA CAMELOT - HOCKEY CLUB RIVA\n\nRisultato: 0-23
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251026T120000Z
+SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 2 - POLISPORTIVA CAMELOT - HOCKEY CLUB RIVA
+UID:b902ee65-38d7-48b3-a38c-ede4b3878c29@b902.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 3\nGara 462\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nPOLISPORTIVA CAMELOT - CSP SAN GIORGIO\n\nRisultato: 1-9
@@ -39,14 +39,14 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20251102T100000Z
 SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 3 - POLISPORTIVA CAMELOT - CSP SAN GIORGIO
-UID:e479ea8e-a51e-4f4e-aa0e-6ba00b5203ee@e479.org
+UID:46fd03b4-43d7-411d-b481-ef485a637704@46fd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 1\nGara 455\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHOCKEY CLUB RIVA - POLISPORTIVA CAMELOT\n\nRisultato: 12-0
-GEO:45.601581;11.733989
-LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20251005T090000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 1 - HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT
-UID:f2fb3b09-cccf-4729-8b8f-209280206eb2@f2fb.org
+DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 3\nGara 465\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nASD ADIGE UHC - POLISPORTIVA CAMELOT\n\nRisultato: 3-5
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20251102T120000Z
+SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 3 - ASD ADIGE UHC - POLISPORTIVA CAMELOT
+UID:c70cee12-f75e-4e30-9f72-32f063d64c72@c70c.org
 END:VEVENT
 END:VCALENDAR
