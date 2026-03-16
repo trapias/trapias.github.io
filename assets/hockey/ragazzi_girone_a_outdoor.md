@@ -172,6 +172,8 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HP VALCHISONE</strong>
 
+**Risultato: 1-4**
+
 Gara: 689
 
 Campo: Campo Comunale 

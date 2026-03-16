@@ -111,6 +111,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>BUTTERFLY ROMA - UH CAPITOLINA</strong>
 
+**Risultato: 4-1**
+
 Gara: 560
 
 Campo: CENTRO GIULIO ONESTI 

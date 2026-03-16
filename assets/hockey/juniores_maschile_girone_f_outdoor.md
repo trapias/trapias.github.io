@@ -101,6 +101,8 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 <strong>SG AMSICORA - HT SARDEGNA</strong>
 
+**Risultato: 2-0**
+
 Gara: 1163
 
 Campo: AMSICORA 

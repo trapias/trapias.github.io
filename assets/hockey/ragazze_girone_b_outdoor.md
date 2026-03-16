@@ -142,6 +142,8 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - ASD ADIGE UHC</strong>
 
+**Risultato: 2-5**
+
 Gara: 438
 
 Campo: CP BARCA 

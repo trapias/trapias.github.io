@@ -125,6 +125,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>TEVERE EUR H - BUTTERFLY ROMA</strong>
 
+**Risultato: 1-6**
+
 Gara: 549
 
 Campo: EUROMA STADIUM 

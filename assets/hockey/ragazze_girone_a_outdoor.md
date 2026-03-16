@@ -191,6 +191,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>HF LORENZONI - CUS TORINO</strong>
 
+**Risultato: 1-0**
+
 Gara: 1361
 
 Campo: Augusto Lorenzoni 

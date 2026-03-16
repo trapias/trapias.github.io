@@ -6,6 +6,8 @@
 
 <strong>ASD CERNUSCO FIELD HOCKEY - SCUOLA HOCKEY INDER SINGH</strong>
 
+**Risultato: 2-1**
+
 Gara: 633
 
 Campo: Campo Comunale 
@@ -200,6 +202,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 ## Dom 15/03/2026 15.30
 
 <strong>USD MONCALVESE HOCKEY - HCU RASSEMBLEMENT TORINO</strong>
+
+**Risultato: 1-5**
 
 Gara: 1296
 

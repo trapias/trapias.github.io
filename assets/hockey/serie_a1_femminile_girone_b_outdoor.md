@@ -6,6 +6,8 @@
 
 <strong>CUS PADOVA - H.POTENZA PICENA</strong>
 
+**Risultato: 1-3**
+
 Gara: 856
 
 Campo: Impianti L. Merigliano 

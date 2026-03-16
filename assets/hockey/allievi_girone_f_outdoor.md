@@ -127,6 +127,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>POLISPORTIVA FERRINI - A.S.D. POLISPORTIVA JUVENILIA</strong>
 
+**Risultato: 0-12**
+
 Gara: 1107
 
 Campo: A. Maxia 

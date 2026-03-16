@@ -6,6 +6,8 @@
 
 <strong>CUS PISA ASD - MONCALVESE H</strong>
 
+**Risultato: 1-0**
+
 Gara: 844
 
 Campo: CAMPO HOCKEY PRATO 
@@ -19,6 +21,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 ## Dom 15/03/2026 11.00
 
 <strong>POL FERRINI - HF GENOVA 80</strong>
+
+**Risultato: 2-0**
 
 Gara: 845
 
