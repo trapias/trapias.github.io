@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazze - OUTDOOR  - Girone D1 / Giornata 2\nGara 622\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - H.POTENZA PICENA\n\nRisultato: 3-0
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20251026T120000Z
-SUMMARY:Ragazze - OUTDOOR  - Girone D1 / Giornata 2 - UH CAPITOLINA - H.POTENZA PICENA
-UID:007e2efd-5bf6-4203-b362-1fa52eb7ed1f@007e.org
+DESCRIPTION:Ragazze - OUTDOOR  - Girone D1 / Giornata 5\nGara 625\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - UH CAPITOLINA
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20260328T110000Z
+SUMMARY:Ragazze - OUTDOOR  - Girone D1 / Giornata 5 - H.POTENZA PICENA - UH CAPITOLINA
+UID:19c28e25-3599-475f-a7c2-ccfef151fe3a@19c2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone D1 / Giornata 3\nGara 623\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - UH CAPITOLINA\n\nRisultato: 1-4
@@ -15,7 +15,7 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20251108T150000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone D1 / Giornata 3 - AZ HOCKEY TEAM - UH CAPITOLINA
-UID:a79ba0d6-5c47-4972-8816-72dd366cefe9@a79b.org
+UID:7b30aa6c-c60a-4c57-b2d6-098aa5b99f6a@7b30.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone D1 / Giornata 6\nGara 626\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - AZ HOCKEY TEAM
@@ -23,15 +23,7 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20260418T150000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone D1 / Giornata 6 - UH CAPITOLINA - AZ HOCKEY TEAM
-UID:712812db-b42a-47af-98b8-4d93ca78e0e2@7128.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazze - OUTDOOR  - Girone D1 / Giornata 5\nGara 625\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - UH CAPITOLINA
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20260328T110000Z
-SUMMARY:Ragazze - OUTDOOR  - Girone D1 / Giornata 5 - H.POTENZA PICENA - UH CAPITOLINA
-UID:39e4ed1f-b2f7-4139-b654-c368ddf45cdc@39e4.org
+UID:5c4eee64-cb62-444d-b31c-c89486a254e8@5c4e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone D1 / Giornata 4\nGara 624\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - H.POTENZA PICENA
@@ -39,7 +31,15 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20260321T150000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone D1 / Giornata 4 - AZ HOCKEY TEAM - H.POTENZA PICENA
-UID:32575f3b-deed-4a5f-9626-8ef8ec27292c@3257.org
+UID:ebfa4747-fe6a-410c-91fc-1bca057bc33d@ebfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze - OUTDOOR  - Girone D1 / Giornata 2\nGara 622\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - H.POTENZA PICENA\n\nRisultato: 3-0
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20251026T120000Z
+SUMMARY:Ragazze - OUTDOOR  - Girone D1 / Giornata 2 - UH CAPITOLINA - H.POTENZA PICENA
+UID:e4c36573-ef2a-42c2-9e8e-654caaa30c87@e4c3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone D1 / Giornata 1\nGara 621\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - AZ HOCKEY TEAM\n\nRisultato: 2-1
@@ -47,6 +47,6 @@ GEO:43.386400;13.654670
 LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
 DTSTART:20251019T130000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone D1 / Giornata 1 - H.POTENZA PICENA - AZ HOCKEY TEAM
-UID:1d3f8a83-244c-49f9-b38c-f45c0c014e88@1d3f.org
+UID:04d22a89-8e83-4eb6-bea3-d1ed2d0b581a@04d2.org
 END:VEVENT
 END:VCALENDAR

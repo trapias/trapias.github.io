@@ -455,7 +455,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 # Allievi - OUTDOOR  - Girone C / Giornata 10
 
-## Sab 21/03/2026 17.00
+## Dom 03/05/2026 13.00
 
 <strong>GENOVA H 1980 DRITTO - GENOVA H 1980 ROVESCIO</strong>
 

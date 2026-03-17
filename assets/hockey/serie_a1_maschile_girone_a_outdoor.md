@@ -6,7 +6,7 @@
 
 <strong>HC BONDENO - CUS CAGLIARI</strong>
 
-**Risultato: 5-2**
+**Risultato: 5-3**
 
 Gara: 754
 

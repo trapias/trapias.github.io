@@ -177,6 +177,8 @@ Geo: Geo(latitude=40.465627, longitude=17.735612)
 
 <strong>ASD HOCKEY AVEZZANO 1969 - ASD HOCKEY CLUB MOGLIANO</strong>
 
+**Risultato: 1-1**
+
 Gara: 598
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
@@ -190,6 +192,8 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 ## Dom 15/03/2026 14.00
 
 <strong>AZ HOCKEY TEAM - H.POTENZA PICENA</strong>
+
+**Risultato: 10-7**
 
 Gara: 599
 

@@ -187,6 +187,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>AZ HOCKEY TEAM - H C ROMA  B</strong>
 
+**Risultato: 7-5**
+
 Gara: 533
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 

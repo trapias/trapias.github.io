@@ -261,11 +261,11 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 # Ragazzi - OUTDOOR  - Girone A / Giornata 12
 
 <!-- VALCHISONE_START -->
-## Sab 14/03/2026 17.00 ⭐
+## - ⭐
 
 <strong>A.S.D. S.H. PAOLO BONOMI - HP VALCHISONE</strong>
 
-**Risultato: 1-1**
+**Risultato: 0-0**
 
 Gara: 695
 
@@ -494,12 +494,12 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 Gara: 1317
 
-Campo: Tazzoli 
+Campo: CAMPO HOCKEY SANDRO MICHELLONET 
 
-Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
 
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 <!-- VALCHISONE_END -->
 
 
@@ -511,12 +511,12 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 Gara: 1318
 
-Campo: Tazzoli 
+Campo: CAMPO HOCKEY SANDRO MICHELLONET 
 
-Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
 
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 <!-- VALCHISONE_END -->
 
 

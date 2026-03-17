@@ -38,8 +38,6 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>S.H.P. BONOMI - A.S.D. POLISPORTIVA JUVENILIA</strong>
 
-**Risultato: 1-1**
-
 Gara: 726
 
 Campo: CENTRO S. COMUNALE 

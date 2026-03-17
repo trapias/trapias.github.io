@@ -195,6 +195,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>TEVERE EUR H - H.POTENZA PICENA</strong>
 
+**Risultato: 1-2**
+
 Gara: 284
 
 Campo: EUROMA STADIUM 
