@@ -97,7 +97,7 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 # Juniores Femminile - OUTDOOR  - Girone D / Giornata 6
 
-## -
+## Lun 20/04/2026 18.00
 
 <strong>SG AMSICORA - CUS CAGLIARI</strong>
 

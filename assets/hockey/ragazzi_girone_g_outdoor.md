@@ -173,7 +173,7 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 # Ragazzi - OUTDOOR  - Girone G / Giornata 6
 
-## Dom 22/03/2026 11.00
+## Gio 26/03/2026 18.15
 
 <strong>SG AMSICORA - A.S.D. POLISPORTIVA JUVENILIA</strong>
 

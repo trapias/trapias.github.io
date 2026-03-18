@@ -243,7 +243,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 # Ragazzi - OUTDOOR  - Girone D / Giornata 8
 
-## Sab 28/03/2026 10.30
+## Sab 11/04/2026 11.00
 
 <strong>GENOVA H 1980 DRITTO - GENOVA H 1980 ROVESCIO</strong>
 
@@ -257,7 +257,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Sab 28/03/2026 11.00
+## Sab 28/03/2026 10.30
 
 <strong>HC GENOVA - ASD BAD LAKE HOCKEY</strong>
 
