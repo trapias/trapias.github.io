@@ -119,7 +119,7 @@ Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicc
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 
-## Dom 22/03/2026 17.00
+## Sab 11/04/2026 10.00
 
 <strong>HOCKEY CLUB ROMA - BUTTERFLY ROMA</strong>
 

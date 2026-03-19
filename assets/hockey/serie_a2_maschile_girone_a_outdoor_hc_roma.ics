@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6\nGara 800\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC SAVONA - HC ROMA
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20260425T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6 - HC SAVONA - HC ROMA
+UID:6273703b-fc37-4ec1-b4a1-8c231be66b9d@6273.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 1\nGara 785\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nHC ROMA - HC SAVONA\n\nRisultato: 5-3
 GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20260314T140000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 1 - HC ROMA - HC SAVONA
-UID:bbfec529-6519-4881-868d-cfe3f035e8f6@bbfe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 787\nBAGLIANO - STRADA PROVINCIALE 72\, 25 MOGLIANO\nHC MOGLIANO - HC ROMA
-GEO:43.172615;13.487342
-LOCATION:Strada Provinciale 72 Mogliano - Fiume\, Piani d'Ete\, Mogliano\, Macerata\, Marche\, 63834\, Italia
-DTSTART:20260321T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2 - HC MOGLIANO - HC ROMA
-UID:f15af29c-4524-4ce5-b2cf-a0d0afa4644a@f15a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 806\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nHC ROMA - GENOVA H 1980
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20260509T123000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8 - HC ROMA - GENOVA H 1980
-UID:73f1f341-6490-4631-bab5-d6a38774a6c8@73f1.org
+UID:3e2c22a8-7f4a-43a4-9a9f-dc7d8879d090@3e2c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 812\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - HC ROMA
@@ -31,7 +23,7 @@ GEO:45.050205;8.265038
 LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
 DTSTART:20260523T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10 - MONCALVESE H - HC ROMA
-UID:1bd74449-9759-4ffc-832a-ab8ca292ea30@1bd7.org
+UID:fe4b0310-5a6d-4508-aaea-63d52426ddfd@fe4b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 809\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nHC ROMA - HCU RASSEMBLEMENT
@@ -39,7 +31,15 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20260516T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9 - HC ROMA - HCU RASSEMBLEMENT
-UID:b6a22e5c-6cfb-4bd9-acfc-bb4aec5df80e@b6a2.org
+UID:b100158c-5d7c-462a-9b4c-54d784501b5d@b100.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 806\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nHC ROMA - GENOVA H 1980
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20260509T123000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8 - HC ROMA - GENOVA H 1980
+UID:9d5d184e-7c12-42ad-97fc-d9c861bf81bd@9d5d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 4\nGara 794\nTazzoli - Corso Tazzoli\, 78 Torino\nHCU RASSEMBLEMENT - HC ROMA
@@ -47,15 +47,7 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20260411T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 4 - HCU RASSEMBLEMENT - HC ROMA
-UID:01aa1984-d69b-4d71-8ceb-5303bef0548e@01aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6\nGara 800\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC SAVONA - HC ROMA
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20260425T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6 - HC SAVONA - HC ROMA
-UID:85740edc-a9f6-485d-8229-6e8c69fd6dfe@8574.org
+UID:0c7b7a8a-57a0-4df3-b226-4f02970dc9e4@0c7b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7\nGara 802\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nHC ROMA - HC MOGLIANO
@@ -63,15 +55,7 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20260502T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7 - HC ROMA - HC MOGLIANO
-UID:645c05e0-0c4e-4051-beb8-f5f8c2b05085@645c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 797\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nHC ROMA - MONCALVESE H
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20260418T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5 - HC ROMA - MONCALVESE H
-UID:f05319b0-72c1-4f44-9489-fe975fadf091@f053.org
+UID:a0ef38c4-9d68-47cb-af4c-2c1be8139d0d@a0ef.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3\nGara 791\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 - HC ROMA
@@ -79,6 +63,22 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20260328T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3 - GENOVA H 1980 - HC ROMA
-UID:b47a1a47-23fe-4263-9050-e2fb96587866@b47a.org
+UID:2bd3c2de-2ab4-4dc9-bbbc-0000136fab32@2bd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 797\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nHC ROMA - MONCALVESE H
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20260418T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5 - HC ROMA - MONCALVESE H
+UID:b0cfa5f8-60b4-4479-9d2a-eb0251891fb5@b0cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 787\nBAGLIANO - STRADA PROVINCIALE 72\, 25 MOGLIANO\nHC MOGLIANO - HC ROMA
+GEO:43.172615;13.487342
+LOCATION:Strada Provinciale 72 Mogliano - Fiume\, Piani d'Ete\, Mogliano\, Macerata\, Marche\, 63834\, Italia
+DTSTART:20260321T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2 - HC MOGLIANO - HC ROMA
+UID:14c02aa8-7aaf-43fd-b138-a741973eb61e@14c0.org
 END:VEVENT
 END:VCALENDAR

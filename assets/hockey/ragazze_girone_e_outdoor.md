@@ -76,7 +76,7 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 # Ragazze - OUTDOOR  - Girone E / Giornata 5
 
-## Gio 19/03/2026 18.00
+## Lun 30/03/2026 18.00
 
 <strong>SG AMSICORA - POLISPORTIVA FERRINI</strong>
 

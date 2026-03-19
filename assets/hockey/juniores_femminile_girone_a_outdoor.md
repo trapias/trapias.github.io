@@ -93,7 +93,7 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 # Juniores Femminile - OUTDOOR  - Girone A / Giornata 6
 
-## Sab 09/05/2026 16.30
+## Sab 16/05/2026 18.30
 
 <strong>HF GENOVA 1980 - HF LORENZONI</strong>
 

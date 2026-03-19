@@ -277,7 +277,7 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 # Ragazze - OUTDOOR  - Girone A / Giornata 13
 
-## Sab 16/05/2026 10.30
+## Sab 02/05/2026 15.00
 
 <strong>HF LORENZONI - USD MONCALVESE HOCKEY</strong>
 

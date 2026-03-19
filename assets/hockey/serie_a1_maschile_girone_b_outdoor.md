@@ -34,7 +34,7 @@ Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 
-## Sab 14/03/2026 15.00
+## Dom 12/04/2026 11.00
 
 <strong>S.H.P. BONOMI - A.S.D. POLISPORTIVA JUVENILIA</strong>
 
@@ -304,7 +304,7 @@ Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
 Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
-## Sab 02/05/2026 15.00
+## Sab 02/05/2026 14.00
 
 <strong>CUS PISA ASD - A.S.D. POLISPORTIVA JUVENILIA</strong>
 
