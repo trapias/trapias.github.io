@@ -2,19 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 379\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20260426T090000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 10 - CUS PADOVA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:e520ea1d-4fa9-40ad-b29c-b05674e37b2e@e520.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 370\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
 LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
 DTSTART:20260322T100000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 6 - HC VILLAFRANCA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:2f9de0d1-9ad6-4718-8d41-ee38131f7eeb@2f9d.org
+UID:2d94c2e0-d34e-4d97-8d69-b6c80132850d@2d94.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 265\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CSP SAN GIORGIO\n\nRisultato: 2-6
@@ -22,7 +14,7 @@ GEO:44.708262;10.635422
 LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
 DTSTART:20251005T090000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 2 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CSP SAN GIORGIO
-UID:e8fb2710-6275-4321-b98f-c1defc9daf39@e8fb.org
+UID:a06b1216-b97b-47f4-b393-11f7cc7b04c9@a06b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 263\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HC VILLAFRANCA\n\nRisultato: 1-8
@@ -30,7 +22,15 @@ GEO:44.708262;10.635422
 LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
 DTSTART:20250921T090000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 1 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HC VILLAFRANCA
-UID:f930ded3-8eb2-46c7-8733-cd40e899e73c@f930.org
+UID:132f7fd2-9bd0-4122-b62e-65e6e9002524@132f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 379\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20260426T090000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 10 - CUS PADOVA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
+UID:2ac16445-b684-467f-962c-03d614454039@2ac1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 272\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PADOVA ASD
@@ -38,7 +38,7 @@ GEO:44.708262;10.635422
 LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
 DTSTART:20260308T100000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 5 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PADOVA ASD
-UID:f03e0e12-76fa-4906-b4c1-4fec813cdea5@f03e.org
+UID:6d80f645-71cc-4ddf-b960-0f360dda0f89@6d80.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 372\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
@@ -46,6 +46,6 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20260412T130000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 7 - CSP SAN GIORGIO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:3eaeca07-b775-44e3-86c1-48a6d56b521f@3eae.org
+UID:ea9e4eab-34b8-454b-9306-a479787dca06@ea9e.org
 END:VEVENT
 END:VCALENDAR

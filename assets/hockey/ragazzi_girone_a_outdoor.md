@@ -96,7 +96,7 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 # Ragazzi - OUTDOOR  - Girone A / Giornata 4
 
 <!-- VALCHISONE_START -->
-## Ven 27/03/2026 16.00 ⭐
+## Ven 27/03/2026 18.00 ⭐
 
 <strong>SCUOLA HOCKEY INDER SINGH - HP VALCHISONE</strong>
 

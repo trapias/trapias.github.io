@@ -2,44 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 2\nGara 106\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHC BRA - CUS PISA ASD\n\nRisultato: 5-3
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20251214T130000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 2 - HC BRA - CUS PISA ASD
-UID:a617e0b1-a688-4ee1-88ca-aca9cc52ec59@a617.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 1\nGara 102\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHC BRA - CUS PADOVA ASD\n\nRisultato: 3-2
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20251129T150000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 1 - HC BRA - CUS PADOVA ASD
-UID:85512ec5-6551-4c93-857c-0c8b03460c14@8551.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 5\nGara 91\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nCUS PISA ASD - HC BRA\n\nRisultato: 3-5
 GEO:44.699029;7.842090
 LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
 DTSTART:20260124T100000Z
 SUMMARY:Serie A Elite Maschile - Indoor / Giornata 5 - CUS PISA ASD - HC BRA
-UID:5be81d05-0e34-449e-bb17-5f53d2eceda8@5be8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 4\nGara 117\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC BRA - HP VALCHISONE\n\nRisultato: 3-2
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260117T120000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 4 - HC BRA - HP VALCHISONE
-UID:74260085-3dd6-4f1e-a341-a47eb3a7a1ce@7426.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 1\nGara 98\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD HOCKEY CLUB BONDENO - HC BRA\n\nRisultato: 3-2
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20251129T110000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 1 - ASD HOCKEY CLUB BONDENO - HC BRA
-UID:d1c93b71-9116-4d68-89ce-81a59c59531e@d1c9.org
+UID:092bae7a-217d-4f13-8e0b-33c7833804ba@092b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 3\nGara 111\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nBUTTERFLY ROMA HCC - HC BRA\n\nRisultato: 3-3
@@ -47,7 +15,15 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20251220T120000Z
 SUMMARY:Serie A Elite Maschile - Indoor / Giornata 3 - BUTTERFLY ROMA HCC - HC BRA
-UID:be8fb676-a22b-463d-87e6-57b11505c903@be8f.org
+UID:2e20033f-8d7b-4595-8047-31f5b89376c9@2e20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 2\nGara 106\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHC BRA - CUS PISA ASD\n\nRisultato: 5-3
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20251214T130000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 2 - HC BRA - CUS PISA ASD
+UID:3aacd5e4-4f4c-45a4-ae2c-5b9ac51690e4@3aac.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 4\nGara 119\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PADOVA ASD - HC BRA\n\nRisultato: 3-7
@@ -55,23 +31,7 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260117T140000Z
 SUMMARY:Serie A Elite Maschile - Indoor / Giornata 4 - CUS PADOVA ASD - HC BRA
-UID:4c04f99b-46c5-4db6-a677-fcdc8168aa4d@4c04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 2\nGara 104\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHP VALCHISONE - HC BRA\n\nRisultato: 4-8
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20251214T110000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 2 - HP VALCHISONE - HC BRA
-UID:dffe0dca-d243-4d77-b6c4-f97f8b1643c3@dffe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 5\nGara 95\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nHC BRA - BUTTERFLY ROMA HCC\n\nRisultato: 8-3
-GEO:44.699029;7.842090
-LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20260124T140000Z
-SUMMARY:Serie A Elite Maschile - Indoor / Giornata 5 - HC BRA - BUTTERFLY ROMA HCC
-UID:fa4bfe20-0dc6-4b69-883b-4b9f45f60a0a@fa4b.org
+UID:6dd88a9e-de8e-4610-aa29-ca247e39dce5@6dd8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 3\nGara 114\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nHC BRA - ASD HOCKEY CLUB BONDENO\n\nRisultato: 2-3
@@ -79,6 +39,46 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20251220T150000Z
 SUMMARY:Serie A Elite Maschile - Indoor / Giornata 3 - HC BRA - ASD HOCKEY CLUB BONDENO
-UID:47ce5ab4-8645-4b11-b0d7-c51b74c78c48@47ce.org
+UID:d1e2d66a-9ea6-48d6-8c5d-54a1c86432ea@d1e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 4\nGara 117\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC BRA - HP VALCHISONE\n\nRisultato: 3-2
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260117T120000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 4 - HC BRA - HP VALCHISONE
+UID:384fb260-e670-42e0-879a-f0cb0babab86@384f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 5\nGara 95\nPALAZZETTO DELL SPORT - Viale Risorgimento\, 31 BRA\nHC BRA - BUTTERFLY ROMA HCC\n\nRisultato: 8-3
+GEO:44.699029;7.842090
+LOCATION:Viale Risorgimento\, Bescurone\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20260124T140000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 5 - HC BRA - BUTTERFLY ROMA HCC
+UID:8b5ccb0b-3f5f-4ea4-b1f4-9a7152bb6b7d@8b5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 1\nGara 102\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHC BRA - CUS PADOVA ASD\n\nRisultato: 3-2
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20251129T150000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 1 - HC BRA - CUS PADOVA ASD
+UID:2d51744d-9b8d-411a-9a1d-ba730bf8a01c@2d51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 2\nGara 104\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHP VALCHISONE - HC BRA\n\nRisultato: 4-8
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20251214T110000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 2 - HP VALCHISONE - HC BRA
+UID:dea06fc4-3032-4531-8945-6bb5da1eabc5@dea0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - Indoor / Giornata 1\nGara 98\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD HOCKEY CLUB BONDENO - HC BRA\n\nRisultato: 3-2
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20251129T110000Z
+SUMMARY:Serie A Elite Maschile - Indoor / Giornata 1 - ASD HOCKEY CLUB BONDENO - HC BRA
+UID:5c7b5a28-65de-4474-b82f-be4e19412a98@5c7b.org
 END:VEVENT
 END:VCALENDAR
