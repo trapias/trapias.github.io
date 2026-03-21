@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone B / Giornata 1\nGara 418\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nPOLISPORTIVA CAMELOT - ASD HOCKEY CLUB BONDENO\n\nRisultato: 0-14
+GEO:45.458648;11.920175
+LOCATION:Cadoneghe\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20251221T090000Z
+SUMMARY:Allievi  - Girone B / Giornata 1 - POLISPORTIVA CAMELOT - ASD HOCKEY CLUB BONDENO
+UID:a25e90e6-ad66-4402-8304-4b72f4b83a33@a25e.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone B / Giornata 1\nGara 423\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA\n\nRisultato: 6-4
 GEO:45.458648;11.920175
 LOCATION:Cadoneghe\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20251221T140000Z
 SUMMARY:Allievi  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA
-UID:950394d4-76b4-4306-8322-f8ee230c1f8b@9503.org
+UID:4fccad50-71c7-4ae8-9874-38293f2e5645@4fcc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone B / Giornata 3\nGara 435\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nCSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO\n\nRisultato: 1-6
@@ -15,39 +23,7 @@ GEO:45.215044;11.606644
 LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
 DTSTART:20260201T130000Z
 SUMMARY:Allievi  - Girone B / Giornata 3 - CSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO
-UID:93ef4b63-b15e-4d0e-810b-3d015fd7820b@93ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone B / Giornata 3\nGara 437\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nPOLISPORTIVA CAMELOT - ASD HOCKEY CLUB BONDENO\n\nRisultato: 1-6
-GEO:45.215044;11.606644
-LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
-DTSTART:20260201T150000Z
-SUMMARY:Allievi  - Girone B / Giornata 3 - POLISPORTIVA CAMELOT - ASD HOCKEY CLUB BONDENO
-UID:5845fc0f-7074-499c-a6f5-2b1c31bd7a1a@5845.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone B / Giornata 1\nGara 420\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
-GEO:45.458648;11.920175
-LOCATION:Cadoneghe\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20251221T110000Z
-SUMMARY:Allievi  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
-UID:289a4f63-80b5-482f-bfe4-c51ad6e7f2b9@289a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone B / Giornata 1\nGara 418\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nPOLISPORTIVA CAMELOT - ASD HOCKEY CLUB BONDENO\n\nRisultato: 0-14
-GEO:45.458648;11.920175
-LOCATION:Cadoneghe\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20251221T090000Z
-SUMMARY:Allievi  - Girone B / Giornata 1 - POLISPORTIVA CAMELOT - ASD HOCKEY CLUB BONDENO
-UID:3346238c-823f-4230-a2d3-38fe58c3d9f1@3346.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone B / Giornata 2\nGara 425\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - CSP SAN GIORGIO\n\nRisultato: 7-0
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260104T090000Z
-SUMMARY:Allievi  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - CSP SAN GIORGIO
-UID:2348a98c-adca-4c98-b342-1a97b44a8d2f@2348.org
+UID:cc0143b1-890f-46bd-9d2f-66af9e287320@cc01.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone B / Giornata 2\nGara 428\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD ADIGE UHC - ASD HOCKEY CLUB BONDENO
@@ -55,7 +31,15 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20260104T120000Z
 SUMMARY:Allievi  - Girone B / Giornata 2 - ASD ADIGE UHC - ASD HOCKEY CLUB BONDENO
-UID:cefe23bc-cd96-4744-9810-bc500d79093b@cefe.org
+UID:f07996be-d34c-4b22-941d-da9b9ffaf68c@f079.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone B / Giornata 3\nGara 437\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nPOLISPORTIVA CAMELOT - ASD HOCKEY CLUB BONDENO\n\nRisultato: 1-6
+GEO:45.215044;11.606644
+LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
+DTSTART:20260201T150000Z
+SUMMARY:Allievi  - Girone B / Giornata 3 - POLISPORTIVA CAMELOT - ASD HOCKEY CLUB BONDENO
+UID:509c6ce4-4ba9-4f7f-8aaa-16e1eb5d21de@509c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone B / Giornata 3\nGara 432\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nASD HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA\n\nRisultato: 7-1
@@ -63,6 +47,22 @@ GEO:45.215044;11.606644
 LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
 DTSTART:20260201T100000Z
 SUMMARY:Allievi  - Girone B / Giornata 3 - ASD HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA
-UID:e0ff2489-8a5f-4a15-8fc5-650f3329750f@e0ff.org
+UID:938506b8-96bd-4428-99e4-a5ee7de22ebd@9385.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone B / Giornata 1\nGara 420\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
+GEO:45.458648;11.920175
+LOCATION:Cadoneghe\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20251221T110000Z
+SUMMARY:Allievi  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
+UID:98959413-d550-40b8-8be0-bc6090b24b97@9895.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone B / Giornata 2\nGara 425\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - CSP SAN GIORGIO\n\nRisultato: 7-0
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260104T090000Z
+SUMMARY:Allievi  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - CSP SAN GIORGIO
+UID:47f2267a-2caf-486e-bd06-4c58c131d871@47f2.org
 END:VEVENT
 END:VCALENDAR
