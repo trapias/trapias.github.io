@@ -428,6 +428,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>GENOVA H 1980 ROVESCIO - HC GENOVA RAINBOW</strong>
 
+**Risultato: 1-7**
+
 Gara: 1199
 
 Campo: CAMPO G.ARNALDI 
@@ -441,6 +443,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Sab 21/03/2026 09.00
 
 <strong>GENOVA H 1980 DRITTO - HC GENOVA</strong>
+
+**Risultato: 3-3**
 
 Gara: 1200
 

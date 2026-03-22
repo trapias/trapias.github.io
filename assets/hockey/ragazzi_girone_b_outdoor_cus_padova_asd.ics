@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 1\nGara 400\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - CUS PADOVA ASD\n\nRisultato: 3-1
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20250928T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 1 - HOCKEY CLUB RIVA - CUS PADOVA ASD
-UID:d6d4b35b-a200-49b3-acea-42ec57eadba4@d6d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 3\nGara 408\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - CUS PADOVA ASD\n\nRisultato: 1-3
-GEO:45.601581;11.733989
-LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20251019T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 3 - POLISPORTIVA CAMELOT - CUS PADOVA ASD
-UID:29f3ab95-508e-4ad8-a720-7661d4815b73@29f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 4\nGara 411\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - CUS PADOVA ASD\n\nRisultato: 1-4
-GEO:45.801036;13.542335
-LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
-DTSTART:20251101T120000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 4 - HOCKEY TRIESTE 2012 - CUS PADOVA ASD
-UID:0bc73cde-a725-4013-8440-8a44533ae270@0bc7.org
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 5\nGara 413\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - ASD ADIGE UHC\n\nRisultato: 1-3
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20251109T120000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 5 - CUS PADOVA ASD - ASD ADIGE UHC
+UID:ffe65156-a8e8-4082-b76c-64c24a0a174b@ffe6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 10\nGara 428\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CUS PADOVA ASD
@@ -31,7 +15,23 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260517T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 10 - ASD ADIGE UHC - CUS PADOVA ASD
-UID:809d7162-8ae6-42b0-8d73-2a3b05dab810@809d.org
+UID:5cb150de-d16f-4350-bb54-da6467345c33@5cb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 1\nGara 400\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - CUS PADOVA ASD\n\nRisultato: 3-1
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20250928T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 1 - HOCKEY CLUB RIVA - CUS PADOVA ASD
+UID:872ff45d-70c1-4e36-905c-75407ec180de@872f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 4\nGara 411\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nHOCKEY TRIESTE 2012 - CUS PADOVA ASD\n\nRisultato: 1-4
+GEO:45.801036;13.542335
+LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
+DTSTART:20251101T120000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 4 - HOCKEY TRIESTE 2012 - CUS PADOVA ASD
+UID:88387c88-5cc6-4a8c-9d9c-f22300b20900@8838.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 7\nGara 418\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - CUS PADOVA ASD
@@ -39,31 +39,7 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20260329T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 7 - CSP SAN GIORGIO - CUS PADOVA ASD
-UID:39ac9102-87cf-423f-86c2-b87ad48f5d1d@39ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 8\nGara 423\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - POLISPORTIVA CAMELOT
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20260419T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 8 - CUS PADOVA ASD - POLISPORTIVA CAMELOT
-UID:d2c88c15-4e57-46dd-9a44-ac35f1b2624e@d2c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 2\nGara 403\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - CSP SAN GIORGIO\n\nRisultato: 0-1
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20251012T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 2 - CUS PADOVA ASD - CSP SAN GIORGIO
-UID:a4e65952-205c-4c61-96d8-51fe17a0f435@a4e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 5\nGara 413\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - ASD ADIGE UHC\n\nRisultato: 1-3
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20251109T120000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 5 - CUS PADOVA ASD - ASD ADIGE UHC
-UID:708135e9-d9aa-41fd-8096-2806d5f25e83@7081.org
+UID:edb9c4d6-6086-4b3f-a2ed-3f08149e4909@edb9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 9\nGara 426\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY TRIESTE 2012
@@ -71,7 +47,23 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20260503T103000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 9 - CUS PADOVA ASD - HOCKEY TRIESTE 2012
-UID:8180f323-846a-429c-a898-4a0f6c2bf1d2@8180.org
+UID:6879d6ba-4a02-4cf9-b0be-1b9c07ea6575@6879.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 2\nGara 403\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - CSP SAN GIORGIO\n\nRisultato: 0-1
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20251012T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 2 - CUS PADOVA ASD - CSP SAN GIORGIO
+UID:85c8cc7d-2835-422c-910c-fdeedbc232a5@85c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 3\nGara 408\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - CUS PADOVA ASD\n\nRisultato: 1-3
+GEO:45.601581;11.733989
+LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20251019T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 3 - POLISPORTIVA CAMELOT - CUS PADOVA ASD
+UID:98d3f94e-b001-4832-b740-8595af73db05@98d3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 6\nGara 415\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY CLUB RIVA\n\nRisultato: 1-3
@@ -79,6 +71,14 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20260315T100000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 6 - CUS PADOVA ASD - HOCKEY CLUB RIVA
-UID:357b58cb-8811-4616-98c6-64e813c2fc25@357b.org
+UID:b83ce625-14f9-4fad-aac4-41c36cfec258@b83c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 8\nGara 423\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - POLISPORTIVA CAMELOT
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20260419T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 8 - CUS PADOVA ASD - POLISPORTIVA CAMELOT
+UID:99064969-2dce-4d5c-9c2e-3dd0d0b401b1@9906.org
 END:VEVENT
 END:VCALENDAR

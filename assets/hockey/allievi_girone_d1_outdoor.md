@@ -111,6 +111,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>LAZIO HOCKEY - HOCKEY CLUB ROMA</strong>
 
+**Risultato: 5-2**
+
 Gara: 548
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

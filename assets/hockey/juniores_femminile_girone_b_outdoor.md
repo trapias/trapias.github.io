@@ -230,6 +230,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>HOCKEY CLUB ARGENTIA - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 1-1**
+
 Gara: 393
 
 Campo: Campo Comunale 

@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 61\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHOCKEY CLUB ROMA - S.G. AMSICORA ASD\n\nRisultato: 3-5
-GEO:39.203688;9.134426
-LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251206T100000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HOCKEY CLUB ROMA - S.G. AMSICORA ASD
-UID:ff4be65e-af50-4526-b32a-3491659ca3dd@ff4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 78\nPALATORRINO ROMA - VIA FIUME GIALLO\, 47 ROMA\nHC SAVONA - S.G. AMSICORA ASD\n\nRisultato: 4-8
-GEO:41.809885;12.428105
-LOCATION:Palatorrino\, 47\, Via Fiume Giallo\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260124T110000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - HC SAVONA - S.G. AMSICORA ASD
-UID:8013b515-8f31-4f0c-970d-394277d71509@8013.org
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 67\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHCU RASSEMBLEMENT TORINO - S.G. AMSICORA ASD\n\nRisultato: 7-2
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20251213T110000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - HCU RASSEMBLEMENT TORINO - S.G. AMSICORA ASD
+UID:84f360a5-374e-4364-b559-9f5dfc976e1b@84f3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 64\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nS.G. AMSICORA ASD - GENOVA H. 1980\n\nRisultato: 6-3
@@ -23,15 +15,7 @@ GEO:39.203688;9.134426
 LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251206T130000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - S.G. AMSICORA ASD - GENOVA H. 1980
-UID:23055da9-cf3c-46a4-8662-1026d1895c8e@2305.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 76\nPALATORRINO ROMA - VIA FIUME GIALLO\, 47 ROMA\nS.G. AMSICORA ASD - HOCKEY CLUB ROMA\n\nRisultato: 0-1
-GEO:41.809885;12.428105
-LOCATION:Palatorrino\, 47\, Via Fiume Giallo\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260124T093000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - S.G. AMSICORA ASD - HOCKEY CLUB ROMA
-UID:59609590-39c1-452f-af94-d5a845b804da@5960.org
+UID:cb87944f-50d5-4a08-bcdb-60f6d15493ba@cb87.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 74\nPalaRomanzi - viale Gambaro\, 66 Genova\nGENOVA H. 1980 - S.G. AMSICORA ASD\n\nRisultato: 3-4
@@ -39,15 +23,7 @@ GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20260104T130000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - GENOVA H. 1980 - S.G. AMSICORA ASD
-UID:d6e216b2-147f-49fc-b7c2-555067931767@d6e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 67\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHCU RASSEMBLEMENT TORINO - S.G. AMSICORA ASD\n\nRisultato: 7-2
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20251213T110000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - HCU RASSEMBLEMENT TORINO - S.G. AMSICORA ASD
-UID:59f8659b-b58a-4637-82fd-6f665f9b3241@59f8.org
+UID:a4b886c5-2a80-4466-ab3e-1d5dec26fe50@a4b8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 72\nPalaRomanzi - viale Gambaro\, 66 Genova\nS.G. AMSICORA ASD - HCU RASSEMBLEMENT TORINO\n\nRisultato: 3-4
@@ -55,7 +31,31 @@ GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20260104T110000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - S.G. AMSICORA ASD - HCU RASSEMBLEMENT TORINO
-UID:0b0626d6-73d4-48ad-b3d7-d7a82538645e@0b06.org
+UID:fcaab356-90f5-4d22-aee8-5dbc9ba2972e@fcaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 76\nPALATORRINO ROMA - VIA FIUME GIALLO\, 47 ROMA\nS.G. AMSICORA ASD - HOCKEY CLUB ROMA\n\nRisultato: 0-1
+GEO:41.809885;12.428105
+LOCATION:Palatorrino\, 47\, Via Fiume Giallo\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260124T093000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - S.G. AMSICORA ASD - HOCKEY CLUB ROMA
+UID:c9a7fffa-42c5-4033-91a7-ed51c0344a1d@c9a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 61\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHOCKEY CLUB ROMA - S.G. AMSICORA ASD\n\nRisultato: 3-5
+GEO:39.203688;9.134426
+LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20251206T100000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HOCKEY CLUB ROMA - S.G. AMSICORA ASD
+UID:55b746f2-d6ec-4163-8c99-23075215692f@55b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 78\nPALATORRINO ROMA - VIA FIUME GIALLO\, 47 ROMA\nHC SAVONA - S.G. AMSICORA ASD\n\nRisultato: 4-8
+GEO:41.809885;12.428105
+LOCATION:Palatorrino\, 47\, Via Fiume Giallo\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260124T110000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - HC SAVONA - S.G. AMSICORA ASD
+UID:cac073a3-21cf-4dbf-9285-5d77c940ba3f@cac0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 69\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.G. AMSICORA ASD - HC SAVONA\n\nRisultato: 8-4
@@ -63,6 +63,6 @@ GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
 DTSTART:20251213T130000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - S.G. AMSICORA ASD - HC SAVONA
-UID:81bb74f9-cf37-42fc-a4a5-233bac8557ec@81bb.org
+UID:795ce3df-4626-4ad9-a7c1-c149b297444d@795c.org
 END:VEVENT
 END:VCALENDAR

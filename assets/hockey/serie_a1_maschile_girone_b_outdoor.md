@@ -55,6 +55,8 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 <strong>SUPERBA HC - H.POTENZA PICENA</strong>
 
+**Risultato: 4-3**
+
 Gara: 727
 
 Campo: CAMPO G.ARNALDI 
@@ -68,6 +70,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Sab 21/03/2026 15.30
 
 <strong>HT BOLOGNA - S.H.P. BONOMI</strong>
+
+**Risultato: 1-0**
 
 Gara: 728
 

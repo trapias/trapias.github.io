@@ -34,6 +34,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>UH CAPITOLINA - CUS TORINO</strong>
 
+**Risultato: 3-0**
+
 Gara: 894
 
 Campo: EUROMA STADIUM 
