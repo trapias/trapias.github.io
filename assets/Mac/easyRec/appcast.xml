@@ -2,10 +2,28 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
-    <title>EasyRec Updates</title>
+    <title>easyRec Updates</title>
     <link>https://www.trapias.it/assets/Mac/easyRec/</link>
-    <description>Aggiornamenti per EasyRec</description>
+    <description>Aggiornamenti per easyRec</description>
     <language>it</language>
+    <item>
+        <title>easyRec 1.12</title>
+        <sparkle:version>7</sparkle:version>
+        <sparkle:shortVersionString>1.12</sparkle:shortVersionString>
+        <pubDate>Sat, 22 Mar 2026 17:08:00 +0100</pubDate>
+        <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+        <description><![CDATA[
+<h2>easyRec 1.12</h2>
+<ul>
+<li>Renamed app display name to easyRec</li>
+</ul>
+        ]]></description>
+        <enclosure
+            url="https://www.trapias.it/assets/Mac/easyRec/EasyRec-1.12.dmg"
+            sparkle:edSignature="4PZv8VdSdJY4KL+9c1IHOwxt72udXNpgHNSgg2FjbQDZDW265AcvtDeJGP5Z2CLlq1r3+Akyhuf9yR0qnAWHAw=="
+            length="6791865"
+            type="application/octet-stream" />
+    </item>
     <item>
         <title>EasyRec 1.11</title>
         <sparkle:version>6</sparkle:version>
