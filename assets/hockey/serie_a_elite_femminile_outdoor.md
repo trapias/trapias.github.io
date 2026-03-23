@@ -6,6 +6,8 @@
 
 <strong>SG AMSICORA - BUTTERFLY ROMA</strong>
 
+**Risultato: 1-0**
+
 Gara: 892
 
 Campo: AMSICORA 
@@ -19,6 +21,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 ## Dom 22/03/2026 14.30
 
 <strong>LAZIO HOCKEY - HF LORENZONI</strong>
+
+**Risultato: 1-0**
 
 Gara: 893
 
@@ -49,6 +53,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 ## Dom 22/03/2026 13.00
 
 <strong>MILANO HP - HT FEMM BOLOGNA</strong>
+
+**Risultato: 3-1**
 
 Gara: 895
 

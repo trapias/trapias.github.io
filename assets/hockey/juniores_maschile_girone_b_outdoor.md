@@ -114,6 +114,8 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 <strong>HC VILLAFRANCA - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
 
+**Risultato: 7-1**
+
 Gara: 370
 
 Campo: Impianto comunale Nereo Faccioli 
@@ -146,6 +148,8 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 ## Dom 22/03/2026 11.00
 
 <strong>CUS PADOVA ASD - CSP SAN GIORGIO</strong>
+
+**Risultato: 4-5**
 
 Gara: 374
 

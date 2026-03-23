@@ -57,6 +57,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>ASD HOCKEY CAMPAGNANO - H C ROMA  B</strong>
 
+**Risultato: 3-2**
+
 Gara: 531
 
 Campo: CENTRO GIULIO ONESTI 
@@ -122,6 +124,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 ## Dom 22/03/2026 11.30
 
 <strong>HOCKEY CLUB EUR - AZ HOCKEY TEAM</strong>
+
+**Risultato: 0-4**
 
 Gara: 529
 

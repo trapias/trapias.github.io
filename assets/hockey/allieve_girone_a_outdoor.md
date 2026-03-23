@@ -171,6 +171,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>HF LORENZONI - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 
+**Risultato: 2-1**
+
 Gara: 681
 
 Campo: Augusto Lorenzoni 

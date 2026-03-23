@@ -39,6 +39,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HC ARGENTIA - H.POTENZA PICENA</strong>
 
+**Risultato: 0-3**
+
 Gara: 858
 
 Campo: Campo Comunale 
@@ -52,6 +54,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 ## Dom 22/03/2026 15.00
 
 <strong>HC RIVA - CUS PADOVA</strong>
+
+**Risultato: 1-1**
 
 Gara: 859
 

@@ -87,6 +87,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA - CUS PISA ASD</strong>
 
+**Risultato: 1-1**
+
 Gara: 729
 
 Campo: Comunale Uras 

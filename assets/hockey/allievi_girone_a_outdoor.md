@@ -173,6 +173,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>SCUOLA HOCKEY INDER SINGH - HP VALCHISONE</strong>
 
+**Risultato: 2-2**
+
 Gara: 1321
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 
@@ -189,6 +191,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 ## Dom 22/03/2026 11.30 ⭐
 
 <strong>SCUOLA HOCKEY INDER SINGH NEXT GEN - HP VALCHISONE</strong>
+
+**Risultato: 2-5**
 
 Gara: 1322
 

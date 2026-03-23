@@ -146,6 +146,8 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>AZ HOCKEY TEAM - ASD HOCKEY AVEZZANO 1969</strong>
 
+**Risultato: 13-4**
+
 Gara: 594
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 

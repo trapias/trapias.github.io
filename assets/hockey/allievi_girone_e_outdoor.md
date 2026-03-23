@@ -111,6 +111,8 @@ Geo: Geo(latitude=38.1483059, longitude=15.2175523)
 
 <strong>ASD SAN PIETRO CLARENZA - SSD UNIME ARL</strong>
 
+**Risultato: 2-5**
+
 Gara: 1150
 
 Campo: DUSMET 
@@ -124,6 +126,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 ## Dom 22/03/2026 11.00
 
 <strong>POL GALATEA - PGS DON BOSCO 2000 ASD</strong>
+
+**Risultato: 8-1**
 
 Gara: 1151
 

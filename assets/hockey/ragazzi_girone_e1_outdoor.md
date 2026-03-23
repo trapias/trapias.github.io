@@ -82,6 +82,8 @@ Geo: Geo(latitude=40.2397458, longitude=16.0530431)
 
 <strong>TEVERE EUR H - POLISPORTIVA VALDAGRI</strong>
 
+**Risultato: 7-2**
+
 Gara: 703
 
 Campo: EUROMA STADIUM 

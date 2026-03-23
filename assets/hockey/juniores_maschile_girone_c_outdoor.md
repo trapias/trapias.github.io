@@ -318,6 +318,8 @@ Geo: Geo(latitude=44.3230861, longitude=8.464578)
 
 <strong>ASD SUPERBA HC - GENOVA H 1980 U18</strong>
 
+**Risultato: 6-5**
+
 Gara: 1220
 
 Campo: CAMPO G.ARNALDI 

@@ -144,6 +144,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>LAZIO HOCKEY - H.POTENZA PICENA</strong>
 
+**Risultato: 2-5**
+
 Gara: 617
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
@@ -157,6 +159,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 ## Ven 20/03/2026 19.00
 
 <strong>AZ HOCKEY TEAM - BUTTERFLY ROMA</strong>
+
+**Risultato: 1-9**
 
 Gara: 618
 

@@ -63,6 +63,8 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>AZ HOCKEY TEAM - H.POTENZA PICENA</strong>
 
+**Risultato: 1-6**
+
 Gara: 624
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
