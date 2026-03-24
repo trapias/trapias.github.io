@@ -251,6 +251,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>USD MONCALVESE HOCKEY - CUS TORINO</strong>
 
+**Risultato: 6-3**
+
 Gara: 1344
 
 Campo: UMBERTO MICCO 

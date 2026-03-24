@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 62\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHCU RASSEMBLEMENT TORINO - GENOVA H. 1980\n\nRisultato: 7-3
-GEO:39.203688;9.134426
-LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251206T110000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HCU RASSEMBLEMENT TORINO - GENOVA H. 1980
-UID:b415c8da-682f-4938-bde7-e8e3f9cc5dfb@b415.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 67\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHCU RASSEMBLEMENT TORINO - S.G. AMSICORA ASD\n\nRisultato: 7-2
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20251213T110000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - HCU RASSEMBLEMENT TORINO - S.G. AMSICORA ASD
-UID:78e4476f-eb82-49b9-9d65-18919e22b8db@78e4.org
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 72\nPalaRomanzi - viale Gambaro\, 66 Genova\nS.G. AMSICORA ASD - HCU RASSEMBLEMENT TORINO\n\nRisultato: 3-4
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20260104T110000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - S.G. AMSICORA ASD - HCU RASSEMBLEMENT TORINO
+UID:9674f0be-a335-409e-8e0f-5c2dd134aac7@9674.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 70\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHOCKEY CLUB ROMA - HCU RASSEMBLEMENT TORINO\n\nRisultato: 0-7
@@ -23,23 +15,7 @@ GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
 DTSTART:20251213T140000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - HOCKEY CLUB ROMA - HCU RASSEMBLEMENT TORINO
-UID:2415c977-5ad5-4f12-883c-644c05acf9f9@2415.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 72\nPalaRomanzi - viale Gambaro\, 66 Genova\nS.G. AMSICORA ASD - HCU RASSEMBLEMENT TORINO\n\nRisultato: 3-4
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260104T110000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - S.G. AMSICORA ASD - HCU RASSEMBLEMENT TORINO
-UID:5aa3f869-d184-44ea-854d-5ef20ddb393c@5aa3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 77\nPALATORRINO ROMA - VIA FIUME GIALLO\, 47 ROMA\nGENOVA H. 1980 - HCU RASSEMBLEMENT TORINO\n\nRisultato: 1-5
-GEO:41.809885;12.428105
-LOCATION:Palatorrino\, 47\, Via Fiume Giallo\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260124T143000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - GENOVA H. 1980 - HCU RASSEMBLEMENT TORINO
-UID:1f285c1a-766b-46a3-ba94-e497e9ccedec@1f28.org
+UID:6109c17a-2ef0-4d7b-b372-83fb2ace6348@6109.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 65\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHC SAVONA - HCU RASSEMBLEMENT TORINO\n\nRisultato: 4-7
@@ -47,7 +23,7 @@ GEO:39.203688;9.134426
 LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251206T140000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HC SAVONA - HCU RASSEMBLEMENT TORINO
-UID:219b78dc-1f7d-402c-a582-ac57b54a0b7c@219b.org
+UID:ce0b538e-1532-40a4-a1d7-ac9f5facae85@ce0b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 75\nPalaRomanzi - viale Gambaro\, 66 Genova\nHCU RASSEMBLEMENT TORINO - HOCKEY CLUB ROMA\n\nRisultato: 5-5
@@ -55,7 +31,15 @@ GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20260104T140000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - HCU RASSEMBLEMENT TORINO - HOCKEY CLUB ROMA
-UID:47243b7c-4f55-4f71-8910-6aa903046972@4724.org
+UID:a90f4885-40bd-41b2-a026-cc463da0689b@a90f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 77\nPALATORRINO ROMA - VIA FIUME GIALLO\, 47 ROMA\nGENOVA H. 1980 - HCU RASSEMBLEMENT TORINO\n\nRisultato: 1-5
+GEO:41.809885;12.428105
+LOCATION:Palatorrino\, 47\, Via Fiume Giallo\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260124T143000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - GENOVA H. 1980 - HCU RASSEMBLEMENT TORINO
+UID:a360f2db-5961-4902-b632-4c037c7fd9fd@a360.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 80\nPALATORRINO ROMA - VIA FIUME GIALLO\, 47 ROMA\nHCU RASSEMBLEMENT TORINO - HC SAVONA\n\nRisultato: 6-2
@@ -63,6 +47,22 @@ GEO:41.809885;12.428105
 LOCATION:Palatorrino\, 47\, Via Fiume Giallo\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20260124T130000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - HCU RASSEMBLEMENT TORINO - HC SAVONA
-UID:4a3c8bb3-0cef-4306-bf17-95bf8a55691c@4a3c.org
+UID:cb9dc7ce-f5dd-4915-828b-024ca8953f5a@cb9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 62\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHCU RASSEMBLEMENT TORINO - GENOVA H. 1980\n\nRisultato: 7-3
+GEO:39.203688;9.134426
+LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20251206T110000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HCU RASSEMBLEMENT TORINO - GENOVA H. 1980
+UID:b0a2512b-de3a-443f-8bb7-70aa4c6d4d6c@b0a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 67\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHCU RASSEMBLEMENT TORINO - S.G. AMSICORA ASD\n\nRisultato: 7-2
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20251213T110000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - HCU RASSEMBLEMENT TORINO - S.G. AMSICORA ASD
+UID:901153a2-0d20-4792-8e41-6a66fa968ae1@9011.org
 END:VEVENT
 END:VCALENDAR
