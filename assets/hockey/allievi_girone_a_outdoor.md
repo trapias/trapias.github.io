@@ -240,18 +240,18 @@ Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
-## Dom 29/03/2026 12.30
+## Mar 31/03/2026 18.00
 
 <strong>SCUOLA HOCKEY INDER SINGH NEXT GEN - SCUOLA HOCKEY INDER SINGH</strong>
 
 Gara: 1326
 
-Campo: Campo Comunale 
+Campo: Augusto Lorenzoni 
 
-Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 
 ## Dom 29/03/2026 13.45
