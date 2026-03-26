@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone A / Giornata 3\nGara 446\nC.S. SEVENINFINITY - VIA TOSCANA\, 7 GORGONZOLA\nCUS TORINO - ASD HOCKEY CLUB ARGENTIA\n\nRisultato: 1-5
-GEO:45.531630;9.415835
-LOCATION:7\, Via Toscana\, Carcassola\, Cascina Mirabello\, Gorgonzola\, Milano\, Lombardia\, 20064\, Italia
-DTSTART:20251221T083000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone A / Giornata 3 - CUS TORINO - ASD HOCKEY CLUB ARGENTIA
-UID:1dad0d80-4de4-425f-82cc-a0ba33305a49@1dad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone A / Giornata 1\nGara 441\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nCUS TORINO - USD MONCALVESE HOCKEY\n\nRisultato: 2-5
-GEO:45.016586;7.656535
-LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
-DTSTART:20251129T163000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone A / Giornata 1 - CUS TORINO - USD MONCALVESE HOCKEY
-UID:8db6f923-2513-496e-b0ea-130a0017c4e5@8db6.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone A / Giornata 3\nGara 448\nC.S. SEVENINFINITY - VIA TOSCANA\, 7 GORGONZOLA\nUSD MONCALVESE HOCKEY - CUS TORINO\n\nRisultato: 3-1
 GEO:45.531630;9.415835
 LOCATION:7\, Via Toscana\, Carcassola\, Cascina Mirabello\, Gorgonzola\, Milano\, Lombardia\, 20064\, Italia
 DTSTART:20251221T110000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone A / Giornata 3 - USD MONCALVESE HOCKEY - CUS TORINO
-UID:196774ca-8ef7-4aba-99c8-a34a4f94e915@1967.org
+UID:b7c6c185-9bc9-4d96-9040-86a4a531c490@b7c6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone A / Giornata 2\nGara 442\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD HOCKEY CLUB ARGENTIA - CUS TORINO\n\nRisultato: 7-7
@@ -31,7 +15,15 @@ GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
 DTSTART:20251207T100000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone A / Giornata 2 - ASD HOCKEY CLUB ARGENTIA - CUS TORINO
-UID:a4865b16-6fde-4ad1-be02-f51ab17437b8@a486.org
+UID:32f774b0-408c-4c71-9b32-4c476d3d263b@32f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone A / Giornata 1\nGara 441\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nCUS TORINO - USD MONCALVESE HOCKEY\n\nRisultato: 2-5
+GEO:45.016586;7.656535
+LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
+DTSTART:20251129T163000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone A / Giornata 1 - CUS TORINO - USD MONCALVESE HOCKEY
+UID:570c273e-01bd-406c-842b-7f68363e1380@570c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone A / Giornata 2\nGara 444\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHOCKEY PRATO VALCHISONE FEMMINILE - CUS TORINO\n\nRisultato: 4-1
@@ -39,7 +31,7 @@ GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
 DTSTART:20251207T123000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone A / Giornata 2 - HOCKEY PRATO VALCHISONE FEMMINILE - CUS TORINO
-UID:3c63ed52-b107-4a40-a4a8-c65938ab9676@3c63.org
+UID:ed3d88ab-406d-45cf-bf5a-d02fc3813101@ed3d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone A / Giornata 1\nGara 438\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nCUS TORINO - HOCKEY PRATO VALCHISONE FEMMINILE\n\nRisultato: 0-0
@@ -47,6 +39,14 @@ GEO:45.016586;7.656535
 LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
 DTSTART:20251129T130000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone A / Giornata 1 - CUS TORINO - HOCKEY PRATO VALCHISONE FEMMINILE
-UID:5830aecd-c17c-440c-a217-5bddadeb8493@5830.org
+UID:5dea5857-3829-4725-81ae-78165a25aa2c@5dea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone A / Giornata 3\nGara 446\nC.S. SEVENINFINITY - VIA TOSCANA\, 7 GORGONZOLA\nCUS TORINO - ASD HOCKEY CLUB ARGENTIA\n\nRisultato: 1-5
+GEO:45.531630;9.415835
+LOCATION:7\, Via Toscana\, Carcassola\, Cascina Mirabello\, Gorgonzola\, Milano\, Lombardia\, 20064\, Italia
+DTSTART:20251221T083000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone A / Giornata 3 - CUS TORINO - ASD HOCKEY CLUB ARGENTIA
+UID:34777d2b-5f42-49e5-baf8-ba3d8f657558@3477.org
 END:VEVENT
 END:VCALENDAR

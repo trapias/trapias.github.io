@@ -121,7 +121,7 @@ Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
-## Mer 25/03/2026 18.30
+## -
 
 <strong>BUTTERFLY ROMA - LAZIO HOCKEY</strong>
 
