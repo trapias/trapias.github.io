@@ -177,6 +177,8 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 <strong>SG AMSICORA - A.S.D. POLISPORTIVA JUVENILIA</strong>
 
+**Risultato: 1-4**
+
 Gara: 1261
 
 Campo: AMSICORA 
