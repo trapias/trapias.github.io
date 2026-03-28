@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2\nGara 847\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - HF GENOVA 80\n\nRisultato: 3-3
-GEO:45.050205;8.265038
-LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
-DTSTART:20260322T140000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2 - MONCALVESE H - HF GENOVA 80
-UID:851b3985-5a42-46a0-b103-f897cdddf9db@851b.org
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5\nGara 853\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 80 - MONCALVESE H
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20260419T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5 - HF GENOVA 80 - MONCALVESE H
+UID:05e329b5-fdbe-4937-ad23-cb2a038b66c1@05e3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4\nGara 850\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - CUS PISA ASD
@@ -15,7 +15,15 @@ GEO:45.050205;8.265038
 LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
 DTSTART:20260412T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4 - MONCALVESE H - CUS PISA ASD
-UID:062c043a-9322-408b-8766-f06a3a462dd0@062c.org
+UID:c733c759-e255-4da1-a686-d2adfbec8590@c733.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2\nGara 847\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - HF GENOVA 80\n\nRisultato: 3-3
+GEO:45.050205;8.265038
+LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
+DTSTART:20260322T140000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2 - MONCALVESE H - HF GENOVA 80
+UID:e61f3f9e-7640-46a4-862c-3775a061ef4f@e61f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1\nGara 844\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - MONCALVESE H\n\nRisultato: 1-0
@@ -23,23 +31,7 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260315T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1 - CUS PISA ASD - MONCALVESE H
-UID:ea12bcf1-2e20-4c15-9de3-bf5051331721@ea12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5\nGara 853\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 80 - MONCALVESE H
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20260419T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5 - HF GENOVA 80 - MONCALVESE H
-UID:ed02bdd8-e01f-41e4-a779-37afc4f4e290@ed02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3\nGara 848\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOL FERRINI - MONCALVESE H
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20260329T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3 - POL FERRINI - MONCALVESE H
-UID:a4609d91-083d-4c9a-b776-4aadf3752be1@a460.org
+UID:083b4ef2-81e2-4e50-a896-4768bd01d7a6@083b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6\nGara 854\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - POL FERRINI
@@ -47,6 +39,14 @@ GEO:45.050205;8.265038
 LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
 DTSTART:20260426T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6 - MONCALVESE H - POL FERRINI
-UID:4867125c-fb93-4f71-84e4-52449c46de43@4867.org
+UID:9d1667dc-fad5-467b-8fd5-4155d0d36bf7@9d16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3\nGara 848\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOL FERRINI - MONCALVESE H
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20260329T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3 - POL FERRINI - MONCALVESE H
+UID:280bae91-7433-4601-9466-27c9c45426d4@280b.org
 END:VEVENT
 END:VCALENDAR

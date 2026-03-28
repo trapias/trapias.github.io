@@ -212,7 +212,7 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 4
 
-## Sab 28/03/2026 15.30
+## Sab 28/03/2026 15.00
 
 <strong>SG AMSICORA - TEVERE EUR H</strong>
 

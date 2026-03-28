@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 273\nPalaRomanzi - viale Gambaro\, 66 Genova\nCUS PISA ASD - HC RAINBOW SAMPIERDARENA\n\nRisultato: 11-0
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20260105T110000Z
+SUMMARY:Allieve  - Girone C / Giornata 2 - CUS PISA ASD - HC RAINBOW SAMPIERDARENA
+UID:8d3d4ed6-7546-408f-9461-8838e9db94e2@8d3d.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 1\nGara 269\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC RAINBOW SAMPIERDARENA - HC SAVONA\n\nRisultato: 1-5
 GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251214T110000Z
 SUMMARY:Allieve  - Girone C / Giornata 1 - HC RAINBOW SAMPIERDARENA - HC SAVONA
-UID:45c89f5a-b267-4556-8fc7-783588a2765f@45c8.org
+UID:a01dfeb5-3055-469c-8390-d48abdb05609@a01d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 3\nGara 278\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC RAINBOW SAMPIERDARENA - HF GENOVA 1980\n\nRisultato: 1-4
@@ -15,23 +23,7 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260207T113000Z
 SUMMARY:Allieve  - Girone C / Giornata 3 - HC RAINBOW SAMPIERDARENA - HF GENOVA 1980
-UID:e3a9fefc-869d-48e0-aab4-a9d37b111dd4@e3a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 275\nPalaRomanzi - viale Gambaro\, 66 Genova\nHC SAVONA - HC RAINBOW SAMPIERDARENA\n\nRisultato: 7-0
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260105T150000Z
-SUMMARY:Allieve  - Girone C / Giornata 2 - HC SAVONA - HC RAINBOW SAMPIERDARENA
-UID:7a1ac35e-b211-43e9-8abe-6944cf17ec91@7a1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone C / Giornata 1\nGara 270\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHF GENOVA 1980 - HC RAINBOW SAMPIERDARENA\n\nRisultato: 4-1
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251214T130000Z
-SUMMARY:Allieve  - Girone C / Giornata 1 - HF GENOVA 1980 - HC RAINBOW SAMPIERDARENA
-UID:81d543d9-09c9-4606-aa2b-fe8b37673a19@81d5.org
+UID:a1699c39-5963-46fb-92ad-acf62f2f82af@a169.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 3\nGara 276\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC RAINBOW SAMPIERDARENA - CUS PISA ASD\n\nRisultato: 0-8
@@ -39,14 +31,22 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260207T084500Z
 SUMMARY:Allieve  - Girone C / Giornata 3 - HC RAINBOW SAMPIERDARENA - CUS PISA ASD
-UID:4be819d2-c67c-4e74-82f9-13ef326197bb@4be8.org
+UID:7a3a5dda-a4bc-4160-a141-42b42b4dae90@7a3a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 273\nPalaRomanzi - viale Gambaro\, 66 Genova\nCUS PISA ASD - HC RAINBOW SAMPIERDARENA\n\nRisultato: 11-0
+DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 275\nPalaRomanzi - viale Gambaro\, 66 Genova\nHC SAVONA - HC RAINBOW SAMPIERDARENA\n\nRisultato: 7-0
 GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260105T110000Z
-SUMMARY:Allieve  - Girone C / Giornata 2 - CUS PISA ASD - HC RAINBOW SAMPIERDARENA
-UID:935e592c-678a-40de-a379-a3ef838082af@935e.org
+DTSTART:20260105T150000Z
+SUMMARY:Allieve  - Girone C / Giornata 2 - HC SAVONA - HC RAINBOW SAMPIERDARENA
+UID:20cc40e6-1dfe-433f-8877-41377f34f98a@20cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve  - Girone C / Giornata 1\nGara 270\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHF GENOVA 1980 - HC RAINBOW SAMPIERDARENA\n\nRisultato: 4-1
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251214T130000Z
+SUMMARY:Allieve  - Girone C / Giornata 1 - HF GENOVA 1980 - HC RAINBOW SAMPIERDARENA
+UID:8ae59b3a-ae4c-44a2-ad0d-907adb97ffc0@8ae5.org
 END:VEVENT
 END:VCALENDAR
