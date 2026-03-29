@@ -107,6 +107,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HC GRANTORTO - HC VILLAFRANCA</strong>
 
+**Risultato: 1-1**
+
 Gara: 820
 
 Campo: Grantorto Hockey Stadium 
@@ -134,6 +136,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 ## Sab 28/03/2026 15.00
 
 <strong>CERNUSCO FH - HC RIVA</strong>
+
+**Risultato: 1-2**
 
 Gara: 822
 

@@ -108,6 +108,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HCU RASSEMBLEMENT - HC MOGLIANO</strong>
 
+**Risultato: 3-0**
+
 Gara: 790
 
 Campo: Tazzoli 
@@ -135,6 +137,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Sab 28/03/2026 12.00
 
 <strong>HC SAVONA - MONCALVESE H</strong>
+
+**Risultato: 0-4**
 
 Gara: 792
 

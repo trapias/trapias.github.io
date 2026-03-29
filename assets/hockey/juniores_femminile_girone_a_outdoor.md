@@ -63,6 +63,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>CUS TORINO - HF LORENZONI</strong>
 
+**Risultato: 1-0**
+
 Gara: 1351
 
 Campo: Tazzoli 

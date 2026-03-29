@@ -177,7 +177,7 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 # Allievi - OUTDOOR  - Girone F / Giornata 6
 
-## Dom 29/03/2026 11.00
+## Lun 20/04/2026 17.30
 
 <strong>HT SARDEGNA - SG AMSICORA</strong>
 

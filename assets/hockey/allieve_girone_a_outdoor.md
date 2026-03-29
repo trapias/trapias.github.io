@@ -270,6 +270,8 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 <strong>HC LARIO - HF LORENZONI</strong>
 
+**Risultato: 1-8**
+
 Gara: 1345
 
 Campo: Campo Comunale 

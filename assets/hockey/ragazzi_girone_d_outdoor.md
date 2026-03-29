@@ -261,6 +261,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC GENOVA - ASD BAD LAKE HOCKEY</strong>
 
+**Risultato: 0-13**
+
 Gara: 1236
 
 Campo: CAMPO G.ARNALDI 

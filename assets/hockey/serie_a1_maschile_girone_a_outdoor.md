@@ -108,6 +108,8 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>HT SARDEGNA - CUS CAGLIARI</strong>
 
+**Risultato: 2-2**
+
 Gara: 760
 
 Campo: Comunale Uras 
@@ -122,6 +124,8 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 <strong>CUS PADOVA ASD - HC BONDENO</strong>
 
+**Risultato: 1-6**
+
 Gara: 761
 
 Campo: Impianti L. Merigliano 
@@ -135,6 +139,8 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 ## Sab 28/03/2026 14.30
 
 <strong>ASD ADIGE UHC - CSP SAN GIORGIO</strong>
+
+**Risultato: 2-1**
 
 Gara: 762
 

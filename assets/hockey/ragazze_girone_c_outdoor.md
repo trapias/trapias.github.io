@@ -41,6 +41,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC GENOVA - HF GENOVA 1980</strong>
 
+**Risultato: 2-1**
+
 Gara: 323
 
 Campo: CAMPO G.ARNALDI 

@@ -210,7 +210,7 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 # Allievi - OUTDOOR  - Girone D2 / Giornata 7
 
-## Dom 29/03/2026 14.00
+## Sab 09/05/2026 17.00
 
 <strong>ASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM</strong>
 
