@@ -146,6 +146,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>SSD UNIME ARL - POL GALATEA</strong>
 
+**Risultato: 10-4**
+
 Gara: 1152
 
 Campo: Cittadella Universitaria 

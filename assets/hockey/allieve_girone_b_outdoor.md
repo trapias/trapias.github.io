@@ -207,6 +207,8 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 <strong>ASD ADIGE UHC - CUS PADOVA ASD</strong>
 
+**Risultato: 5-3**
+
 Gara: 490
 
 Campo: Comunale Mori 
@@ -220,6 +222,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 ## Dom 29/03/2026 16.00
 
 <strong>ASD ADIGE UHC - CUS PADOVA ASD</strong>
+
+**Risultato: 2-1**
 
 Gara: 491
 

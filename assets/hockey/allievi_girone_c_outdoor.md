@@ -414,6 +414,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>ASD BAD LAKE HOCKEY - CUS PISA ASD</strong>
 
+**Risultato: 5-0**
+
 Gara: 1198
 
 Campo: CAMPO G.ARNALDI 
@@ -492,6 +494,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Dom 29/03/2026 17.00
 
 <strong>ASD BAD LAKE HOCKEY B - CUS PISA ASD</strong>
+
+**Risultato: 0-4**
 
 Gara: 1203
 

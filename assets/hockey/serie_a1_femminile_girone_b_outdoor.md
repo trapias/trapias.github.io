@@ -74,6 +74,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>CUS PADOVA - HC ARGENTIA</strong>
 
+**Risultato: 1-1**
+
 Gara: 860
 
 Campo: Impianti L. Merigliano 
@@ -87,6 +89,8 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 ## Dom 29/03/2026 15.00
 
 <strong>H.POTENZA PICENA - HC RIVA</strong>
+
+**Risultato: 0-2**
 
 Gara: 861
 

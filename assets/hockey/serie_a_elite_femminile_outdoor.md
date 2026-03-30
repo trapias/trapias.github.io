@@ -73,6 +73,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>HT FEMM BOLOGNA - SG AMSICORA</strong>
 
+**Risultato: 1-3**
+
 Gara: 896
 
 Campo: CP BARCA 
@@ -86,6 +88,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 ## Dom 29/03/2026 15.00
 
 <strong>UH CAPITOLINA - MILANO HP</strong>
+
+**Risultato: 2-4**
 
 Gara: 897
 
@@ -101,6 +105,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>CUS TORINO - LAZIO HOCKEY</strong>
 
+**Risultato: 1-4**
+
 Gara: 898
 
 Campo: Tazzoli 
@@ -114,6 +120,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 ## Dom 29/03/2026 15.00
 
 <strong>HF LORENZONI - BUTTERFLY ROMA</strong>
+
+**Risultato: 0-0**
 
 Gara: 899
 

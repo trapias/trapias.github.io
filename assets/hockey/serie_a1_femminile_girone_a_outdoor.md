@@ -76,6 +76,8 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 <strong>POL FERRINI - MONCALVESE H</strong>
 
+**Risultato: 2-3**
+
 Gara: 848
 
 Campo: A. Maxia 
@@ -89,6 +91,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 ## Dom 29/03/2026 15.00
 
 <strong>HF GENOVA 80 - CUS PISA ASD</strong>
+
+**Risultato: 10-10**
 
 Gara: 849
 

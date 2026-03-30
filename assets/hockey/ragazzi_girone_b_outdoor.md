@@ -310,6 +310,8 @@ Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 
 <strong>CSP SAN GIORGIO - CUS PADOVA ASD</strong>
 
+**Risultato: 5-0**
+
 Gara: 418
 
 Campo: campo hockey s. farinazzo 
@@ -324,6 +326,8 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT</strong>
 
+**Risultato: 9-0**
+
 Gara: 419
 
 Campo: Comunale Mori 
@@ -337,6 +341,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 ## Dom 29/03/2026 13.00
 
 <strong>ASD ADIGE UHC - HOCKEY TRIESTE 2012</strong>
+
+**Risultato: 19-1**
 
 Gara: 420
 

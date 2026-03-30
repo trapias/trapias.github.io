@@ -228,6 +228,8 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 <strong>H.POTENZA PICENA - HOCKEY CLUB OLIMPIA</strong>
 
+**Risultato: 8-8**
+
 Gara: 597
 
 Campo: STADIO HOCKEY POTENZA PICENA 

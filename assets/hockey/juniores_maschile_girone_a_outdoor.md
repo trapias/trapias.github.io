@@ -260,6 +260,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>USD MONCALVESE HOCKEY - ASD CERNUSCO FIELD HOCKEY</strong>
 
+**Risultato: 5-2**
+
 Gara: 1299
 
 Campo: UMBERTO MICCO 
@@ -273,6 +275,8 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 ## Dom 29/03/2026 09.00
 
 <strong>HCU RASSEMBLEMENT TORINO - SCUOLA HOCKEY INDER SINGH</strong>
+
+**Risultato: 12-1**
 
 Gara: 1300
 
