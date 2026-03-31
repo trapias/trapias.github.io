@@ -80,6 +80,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>SG AMSICORA - POLISPORTIVA FERRINI</strong>
 
+**Risultato: 13-0**
+
 Gara: 1275
 
 Campo: AMSICORA 

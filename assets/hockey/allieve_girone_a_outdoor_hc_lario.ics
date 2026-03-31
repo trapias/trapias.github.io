@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 13\nGara 1349\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HC LARIO
-GEO:45.033509;7.633384
-LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20260510T093000Z
-SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 13 - CUS TORINO - HC LARIO
-UID:f0a6b5fd-eaff-4987-8be9-54234e06ac06@f0a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 3\nGara 677\nCAMPO HOCKEY SANDRO MICHELLONET - VIA DANTE ALIGHIERI\, 9 Villar Perosa\nHC LARIO - HOCKEY PRATO VALCHISONE FEMMINILE
+DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 3\nGara 1342\nCAMPO HOCKEY SANDRO MICHELLONET - VIA DANTE ALIGHIERI\, 9 Villar Perosa\nHOCKEY PRATO VALCHISONE FEMMINILE - HC LARIO
 GEO:44.920693;7.244598
 LOCATION:Via Dante Alighieri\, Villaggio Operaio Giovanni Agnelli\, Saretto\, Villar Perosa\, Torino\, Piemonte\, 10069\, Italia
-DTSTART:20260419T133000Z
-SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 3 - HC LARIO - HOCKEY PRATO VALCHISONE FEMMINILE
-UID:e0c78228-2a57-470b-9d96-9811d28b76a4@e0c7.org
+DTSTART:20260419T093000Z
+SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 3 - HOCKEY PRATO VALCHISONE FEMMINILE - HC LARIO
+UID:ce877066-5b59-44db-a744-09e0c05afbf2@ce87.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 1\nGara 674\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC LARIO - CUS TORINO\n\nRisultato: 8-4
@@ -23,7 +15,15 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20251109T100000Z
 SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 1 - HC LARIO - CUS TORINO
-UID:5c8e81f9-1470-47d5-92ed-6b9f029a4b00@5c8e.org
+UID:8584e9c2-22e8-40bf-a772-bc5270049099@8584.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 3\nGara 677\nCAMPO HOCKEY SANDRO MICHELLONET - VIA DANTE ALIGHIERI\, 9 Villar Perosa\nHC LARIO - HOCKEY PRATO VALCHISONE FEMMINILE
+GEO:44.920693;7.244598
+LOCATION:Via Dante Alighieri\, Villaggio Operaio Giovanni Agnelli\, Saretto\, Villar Perosa\, Torino\, Piemonte\, 10069\, Italia
+DTSTART:20260419T133000Z
+SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 3 - HC LARIO - HOCKEY PRATO VALCHISONE FEMMINILE
+UID:396f1527-efe8-4e42-8e08-212dfca681fe@396f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 4\nGara 679\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HC LARIO\n\nRisultato: 6-0
@@ -31,31 +31,15 @@ GEO:45.050205;8.265038
 LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
 DTSTART:20251019T130000Z
 SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 4 - USD MONCALVESE HOCKEY - HC LARIO
-UID:65845de9-abef-495a-905f-1a5cf2cd6e86@6584.org
+UID:4a56534b-ef3d-4386-a1bb-5d93163cb7a4@4a56.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 10\nGara 1345\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC LARIO - HF LORENZONI\n\nRisultato: 1-8
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260328T110000Z
-SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 10 - HC LARIO - HF LORENZONI
-UID:effe89f7-ed0e-4383-a55c-866f04340bc3@effe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 2\nGara 697\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - HC LARIO\n\nRisultato: 6-0
-GEO:44.703194;7.836697
-LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20251026T130000Z
-SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 2 - HF LORENZONI - HC LARIO
-UID:67d3b444-cb28-48de-baba-a0d952d6206b@67d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 3\nGara 1342\nCAMPO HOCKEY SANDRO MICHELLONET - VIA DANTE ALIGHIERI\, 9 Villar Perosa\nHOCKEY PRATO VALCHISONE FEMMINILE - HC LARIO
-GEO:44.920693;7.244598
-LOCATION:Via Dante Alighieri\, Villaggio Operaio Giovanni Agnelli\, Saretto\, Villar Perosa\, Torino\, Piemonte\, 10069\, Italia
-DTSTART:20260419T093000Z
-SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 3 - HOCKEY PRATO VALCHISONE FEMMINILE - HC LARIO
-UID:eaf8feb6-2873-4d2e-9a66-a58d57429a07@eaf8.org
+DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 13\nGara 1349\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HC LARIO
+GEO:45.033509;7.633384
+LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
+DTSTART:20260510T093000Z
+SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 13 - CUS TORINO - HC LARIO
+UID:9a1656e7-6566-4403-9ccd-179a7c3f30a2@9a16.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 11\nGara 1347\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC LARIO - USD MONCALVESE HOCKEY
@@ -63,6 +47,22 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20260412T090000Z
 SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 11 - HC LARIO - USD MONCALVESE HOCKEY
-UID:ff3bccdb-7039-4ebb-a9dd-8cb8bb077f4e@ff3b.org
+UID:b1288aa0-c0bb-4ecc-a586-31a5392ab5bf@b128.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 2\nGara 697\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - HC LARIO\n\nRisultato: 6-0
+GEO:44.703194;7.836697
+LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20251026T130000Z
+SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 2 - HF LORENZONI - HC LARIO
+UID:8f14965f-0e58-4a18-9e40-0752643cb925@8f14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 10\nGara 1345\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC LARIO - HF LORENZONI\n\nRisultato: 1-8
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260328T110000Z
+SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 10 - HC LARIO - HF LORENZONI
+UID:fdc1c8d9-1984-42f5-b52a-7db5a7501ece@fdc1.org
 END:VEVENT
 END:VCALENDAR

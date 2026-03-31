@@ -124,6 +124,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>GENOVA H 1980 - HC ROMA</strong>
 
+**Risultato: 2-1**
+
 Gara: 791
 
 Campo: CAMPO G.ARNALDI 

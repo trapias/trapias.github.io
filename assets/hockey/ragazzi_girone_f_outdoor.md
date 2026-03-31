@@ -2,7 +2,7 @@
 
 # Ragazzi - OUTDOOR  - Girone F / Giornata 1
 
-## Sab 28/03/2026 13.00
+## -
 
 <strong>POL GALATEA - HOCKEY CLUB OLIMPIA</strong>
 

@@ -214,6 +214,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>HP VALCHISONE - ASD CERNUSCO FIELD HOCKEY</strong>
 
+**Risultato: 2-11**
+
 Gara: 1323
 
 Campo: Campo Comunale 
@@ -229,6 +231,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 ## Dom 29/03/2026 11.15
 
 <strong>A.S.D. S.H. PAOLO BONOMI - HCU RASSEMBLEMENT TORINO</strong>
+
+**Risultato: 9-0**
 
 Gara: 1325
 
@@ -258,6 +262,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>ASD CERNUSCO FIELD HOCKEY - A.S.D. S.H. PAOLO BONOMI</strong>
 
+**Risultato: 5-5**
+
 Gara: 1327
 
 Campo: Campo Comunale 
@@ -271,6 +277,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 ## Dom 29/03/2026 15.00
 
 <strong>SCUOLA HOCKEY INDER SINGH NEXT GEN - HCU RASSEMBLEMENT TORINO</strong>
+
+**Risultato: 0-4**
 
 Gara: 1328
 
@@ -286,6 +294,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 ## Dom 29/03/2026 16.15 ⭐
 
 <strong>A.S.D. S.H. PAOLO BONOMI - HP VALCHISONE</strong>
+
+**Risultato: 9-1**
 
 Gara: 1329
 
