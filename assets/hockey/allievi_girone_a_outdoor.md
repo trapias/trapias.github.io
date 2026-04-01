@@ -248,6 +248,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>SCUOLA HOCKEY INDER SINGH NEXT GEN - SCUOLA HOCKEY INDER SINGH</strong>
 
+**Risultato: 5-5**
+
 Gara: 1326
 
 Campo: Augusto Lorenzoni 

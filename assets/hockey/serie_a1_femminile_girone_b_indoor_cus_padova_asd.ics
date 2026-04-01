@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 3\nGara 305\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD\n\nRisultato: 13-0
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260111T100000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 3 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
+UID:ef78983d-7bf3-477c-bb36-c3bc2b2dafef@ef78.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 1\nGara 242\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nDEL PINTO & ASSOCIATI H. PISTOIA - CUS PADOVA ASD\n\nRisultato: 2-2
 GEO:43.944387;10.929450
 LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
 DTSTART:20251207T113000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 1 - DEL PINTO & ASSOCIATI H. PISTOIA - CUS PADOVA ASD
-UID:ecd9e5ad-b68c-4a10-8b7c-29fa6b9998b1@ecd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 2\nGara 245\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nCUS PADOVA ASD - A.R.FINCANTIERI A.S.D.\n\nRisultato: 13-0
-GEO:45.896716;13.491104
-LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
-DTSTART:20251221T100000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 2 - CUS PADOVA ASD - A.R.FINCANTIERI A.S.D.
-UID:83fa2579-1974-4ae2-bd89-f9487e927fcc@83fa.org
+UID:65c261f7-5f30-4f03-8ad0-6eb11c52ae90@65c2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 3\nGara 306\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nDEL PINTO & ASSOCIATI H. PISTOIA - CUS PADOVA ASD\n\nRisultato: 4-1
@@ -23,7 +23,15 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20260111T113000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 3 - DEL PINTO & ASSOCIATI H. PISTOIA - CUS PADOVA ASD
-UID:627cd025-0a93-4948-9160-6c30861fa63c@627c.org
+UID:a74b5911-52eb-4ab6-9941-1ac1d9e59a68@a74b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 2\nGara 245\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nCUS PADOVA ASD - A.R.FINCANTIERI A.S.D.\n\nRisultato: 13-0
+GEO:45.896716;13.491104
+LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
+DTSTART:20251221T100000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 2 - CUS PADOVA ASD - A.R.FINCANTIERI A.S.D.
+UID:424f6203-1bb5-4362-bf37-94ba6a40c281@424f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 1\nGara 244\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nCUS PADOVA ASD - A.R.FINCANTIERI A.S.D.\n\nRisultato: 11-1
@@ -31,7 +39,7 @@ GEO:43.944387;10.929450
 LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
 DTSTART:20251207T140000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 1 - CUS PADOVA ASD - A.R.FINCANTIERI A.S.D.
-UID:8e341e98-94a5-4373-91cf-8b25445b5b65@8e34.org
+UID:05b01509-d543-4477-94fa-0e017749e3c0@05b0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 2\nGara 303\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD\n\nRisultato: 5-0
@@ -39,14 +47,6 @@ GEO:45.896716;13.491104
 LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
 DTSTART:20251221T123000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
-UID:ccbd1df7-1af3-4243-92c7-dca25d949e10@ccbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 3\nGara 305\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD\n\nRisultato: 13-0
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260111T100000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 3 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
-UID:dbbf8b16-bd6a-4397-a5dd-b15f2e3ceee4@dbbf.org
+UID:bd472a77-4b3d-491e-a611-968725fa2e57@bd47.org
 END:VEVENT
 END:VCALENDAR

@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 798\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 - HCU RASSEMBLEMENT
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20260418T110000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5 - GENOVA H 1980 - HCU RASSEMBLEMENT
+UID:7f1b89d6-b722-4f67-95f3-8e952c2cbbf6@7f1b.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 4\nGara 794\nTazzoli - Corso Tazzoli\, 78 Torino\nHCU RASSEMBLEMENT - HC ROMA
 GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20260411T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 4 - HCU RASSEMBLEMENT - HC ROMA
-UID:63779959-cd04-4523-8f49-d727f86f60fb@6377.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7\nGara 804\nTazzoli - Corso Tazzoli\, 78 Torino\nHCU RASSEMBLEMENT - HC SAVONA
-GEO:45.033509;7.633384
-LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20260502T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7 - HCU RASSEMBLEMENT - HC SAVONA
-UID:dd35f66c-6f91-413e-a024-6a2fa6ef0f8d@dd35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6\nGara 801\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - HCU RASSEMBLEMENT
-GEO:45.050205;8.265038
-LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
-DTSTART:20260425T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6 - MONCALVESE H - HCU RASSEMBLEMENT
-UID:9a438e3b-5f69-4f12-9a16-b80ab4602cfc@9a43.org
+UID:a1330d68-a2ee-4d50-bf66-195009d95651@a133.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 1\nGara 786\nTazzoli - Corso Tazzoli\, 78 Torino\nHCU RASSEMBLEMENT - MONCALVESE H\n\nRisultato: 0-3
@@ -31,7 +23,23 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20260314T140000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 1 - HCU RASSEMBLEMENT - MONCALVESE H
-UID:2f23d921-116f-45ca-a9b1-e643287c0d62@2f23.org
+UID:133b87ab-753d-4635-ae3c-201e2b2127d9@133b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6\nGara 801\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - HCU RASSEMBLEMENT
+GEO:45.050205;8.265038
+LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
+DTSTART:20260425T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6 - MONCALVESE H - HCU RASSEMBLEMENT
+UID:68c2b763-459e-49ff-8755-88291d7af594@68c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7\nGara 804\nTazzoli - Corso Tazzoli\, 78 Torino\nHCU RASSEMBLEMENT - HC SAVONA
+GEO:45.033509;7.633384
+LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
+DTSTART:20260502T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7 - HCU RASSEMBLEMENT - HC SAVONA
+UID:283c1666-ca03-4968-94fc-ffa225e3371e@283c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 789\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC SAVONA - HCU RASSEMBLEMENT\n\nRisultato: 1-2
@@ -39,39 +47,7 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20260321T120000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2 - HC SAVONA - HCU RASSEMBLEMENT
-UID:3ecdda22-f18f-476a-99f6-a5b1a6ca26fc@3ecd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 798\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 - HCU RASSEMBLEMENT
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20260418T110000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5 - GENOVA H 1980 - HCU RASSEMBLEMENT
-UID:361d62b0-8204-42c0-8ae6-e624b28955a2@361d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 805\nBAGLIANO - STRADA PROVINCIALE 72\, 25 MOGLIANO\nHC MOGLIANO - HCU RASSEMBLEMENT
-GEO:43.172615;13.487342
-LOCATION:Strada Provinciale 72 Mogliano - Fiume\, Piani d'Ete\, Mogliano\, Macerata\, Marche\, 63834\, Italia
-DTSTART:20260509T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8 - HC MOGLIANO - HCU RASSEMBLEMENT
-UID:d9fe20c3-af47-44a9-9929-50669e6240c7@d9fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 813\nTazzoli - Corso Tazzoli\, 78 Torino\nHCU RASSEMBLEMENT - GENOVA H 1980
-GEO:45.033509;7.633384
-LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20260523T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10 - HCU RASSEMBLEMENT - GENOVA H 1980
-UID:caa077c4-80be-45f6-8966-d04e80986c2e@caa0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 809\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nHC ROMA - HCU RASSEMBLEMENT
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20260516T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9 - HC ROMA - HCU RASSEMBLEMENT
-UID:0f2e0a57-67cf-40db-aba0-510824fa8761@0f2e.org
+UID:70ae43df-7d05-4a7b-9dcd-e66095837a33@70ae.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3\nGara 790\nTazzoli - Corso Tazzoli\, 78 Torino\nHCU RASSEMBLEMENT - HC MOGLIANO\n\nRisultato: 3-0
@@ -79,6 +55,30 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20260328T123000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3 - HCU RASSEMBLEMENT - HC MOGLIANO
-UID:2351af85-812c-457c-85c9-539d0428873d@2351.org
+UID:b0d25516-7b03-4299-9d9d-8d386e975a6b@b0d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 809\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nHC ROMA - HCU RASSEMBLEMENT
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20260516T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9 - HC ROMA - HCU RASSEMBLEMENT
+UID:70aa0c48-a184-4a70-92cc-b04ea40f1198@70aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 813\nTazzoli - Corso Tazzoli\, 78 Torino\nHCU RASSEMBLEMENT - GENOVA H 1980
+GEO:45.033509;7.633384
+LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
+DTSTART:20260523T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10 - HCU RASSEMBLEMENT - GENOVA H 1980
+UID:b16c5a78-1d1a-4776-bdef-fbf2eca544c2@b16c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 805\nBAGLIANO - STRADA PROVINCIALE 72\, 25 MOGLIANO\nHC MOGLIANO - HCU RASSEMBLEMENT
+GEO:43.172615;13.487342
+LOCATION:Strada Provinciale 72 Mogliano - Fiume\, Piani d'Ete\, Mogliano\, Macerata\, Marche\, 63834\, Italia
+DTSTART:20260509T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8 - HC MOGLIANO - HCU RASSEMBLEMENT
+UID:fbe040d0-5cbc-415a-be06-4b9d70db4b9d@fbe0.org
 END:VEVENT
 END:VCALENDAR
