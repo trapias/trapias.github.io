@@ -7,6 +7,26 @@
     <description>Updates for easyCal</description>
     <language>en</language>
     <item>
+        <title>easyCal 0.3.1</title>
+        <sparkle:version>4</sparkle:version>
+        <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+        <pubDate>Thu, 02 Apr 2026 08:08:03 +0200</pubDate>
+        <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[
+<h2>easyCal 0.3.1</h2>
+<ul>
+<li>Favicon icons for reminder URLs — links now show the website's favicon instead of a generic icon</li>
+<li>Automatic favicon caching with privacy-friendly DuckDuckGo API</li>
+<li>Fallback to generic link icon when favicon is unavailable</li>
+</ul>
+        ]]></description>
+        <enclosure
+            url="https://www.trapias.it/assets/Mac/easyCal/easyCal-0.3.1.dmg"
+            sparkle:edSignature="YFa20Jzdw9HJP5bgflBF0SrV/EWwuVqv+hKhtWrmgyCORLqSDXiZ1JmuuZiQ+aksJseFaeYI4qV9ugqEgZTFCg=="
+            length="5238289"
+            type="application/octet-stream" />
+    </item>
+    <item>
         <title>easyCal 0.3.0</title>
         <sparkle:version>3</sparkle:version>
         <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
