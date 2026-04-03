@@ -92,6 +92,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>AZ HOCKEY TEAM - ASD HOCKEY CAMPAGNANO</strong>
 
+**Risultato: 3-2**
+
 Gara: 527
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 

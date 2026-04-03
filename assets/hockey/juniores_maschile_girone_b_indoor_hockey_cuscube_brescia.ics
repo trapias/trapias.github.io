@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 370\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHC VILLAFRANCA - HOCKEY CUSCUBE BRESCIA\n\nRisultato: 10-3
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20260118T120000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HC VILLAFRANCA - HOCKEY CUSCUBE BRESCIA
-UID:69f6ecc9-8283-4fd7-9349-5819f7e0a5f4@69f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 366\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nHOCKEY CUSCUBE BRESCIA - ASD HOCKEY CLUB BONDENO\n\nRisultato: 3-10
-GEO:45.896716;13.491104
-LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
-DTSTART:20260106T150000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - HOCKEY CUSCUBE BRESCIA - ASD HOCKEY CLUB BONDENO
-UID:5e665976-a99f-4852-87ae-b8b3cac8dd1b@5e66.org
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 352\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - HOCKEY CUSCUBE BRESCIA\n\nRisultato: 7-1
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251228T090000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - HOCKEY CUSCUBE BRESCIA
+UID:06fd9a15-e56f-4f48-937d-f182519ee7f0@06fd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 350\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nHOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI A.S.D.\n\nRisultato: 3-4
@@ -23,7 +15,7 @@ GEO:45.519604;10.258212
 LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
 DTSTART:20251208T140000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - HOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI A.S.D.
-UID:cebca287-a1ed-413f-81ab-16af2459f4b4@cebc.org
+UID:df6cee0d-b9c9-4f6f-93cc-4cfb943b0458@df6c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 358\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nHOCKEY CUSCUBE BRESCIA - CUS PADOVA ASD\n\nRisultato: 1-13
@@ -31,7 +23,15 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20251228T140000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - HOCKEY CUSCUBE BRESCIA - CUS PADOVA ASD
-UID:02898cb2-5575-4e85-a6ed-f4b3fa8f7708@0289.org
+UID:3280268d-cbfc-43ed-a2ab-6c0ac1ae5198@3280.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 366\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nHOCKEY CUSCUBE BRESCIA - ASD HOCKEY CLUB BONDENO\n\nRisultato: 3-10
+GEO:45.896716;13.491104
+LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
+DTSTART:20260106T150000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - HOCKEY CUSCUBE BRESCIA - ASD HOCKEY CLUB BONDENO
+UID:c608da89-197a-4eec-b40c-30808f14970b@c608.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 345\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nHOCKEY CUSCUBE BRESCIA - HC VILLAFRANCA\n\nRisultato: 0-10
@@ -39,31 +39,7 @@ GEO:45.519604;10.258212
 LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
 DTSTART:20251208T090000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - HOCKEY CUSCUBE BRESCIA - HC VILLAFRANCA
-UID:b61931f1-8882-40d4-a802-c63bb2fcc3af@b619.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 352\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - HOCKEY CUSCUBE BRESCIA\n\nRisultato: 7-1
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251228T090000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - ASD HOCKEY CLUB BONDENO - HOCKEY CUSCUBE BRESCIA
-UID:84ab5303-8506-4728-b0a9-60a475931885@84ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 362\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nCUS PADOVA ASD - HOCKEY CUSCUBE BRESCIA\n\nRisultato: 11-2
-GEO:45.896716;13.491104
-LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
-DTSTART:20260106T110000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - CUS PADOVA ASD - HOCKEY CUSCUBE BRESCIA
-UID:6c4ec5e9-0431-4601-a739-e729be6e9cf0@6c4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 374\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI A.S.D.\n\nRisultato: 6-6
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20260118T160000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI A.S.D.
-UID:f966e51d-1bd5-4000-82da-90bb9314c207@f966.org
+UID:8fa92363-8891-434d-8591-16340eb5f03c@8fa9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 356\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nCSP SAN GIORGIO - HOCKEY CUSCUBE BRESCIA\n\nRisultato: 10-1
@@ -71,7 +47,23 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20251228T120000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - CSP SAN GIORGIO - HOCKEY CUSCUBE BRESCIA
-UID:8598235f-22fb-4a71-8825-81c57bcb6ce6@8598.org
+UID:45862bc5-e168-45e1-8149-f65f30fddde7@4586.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 362\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nCUS PADOVA ASD - HOCKEY CUSCUBE BRESCIA\n\nRisultato: 11-2
+GEO:45.896716;13.491104
+LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
+DTSTART:20260106T110000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - CUS PADOVA ASD - HOCKEY CUSCUBE BRESCIA
+UID:3cf54d94-3568-4a03-b3c8-30b14a6abc8a@3cf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 370\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHC VILLAFRANCA - HOCKEY CUSCUBE BRESCIA\n\nRisultato: 10-3
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20260118T120000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HC VILLAFRANCA - HOCKEY CUSCUBE BRESCIA
+UID:e9aa258d-d3dd-4635-a9c0-63023196bcb2@e9aa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 368\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHOCKEY CUSCUBE BRESCIA - CSP SAN GIORGIO\n\nRisultato: 1-6
@@ -79,6 +71,14 @@ GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
 DTSTART:20260118T100000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HOCKEY CUSCUBE BRESCIA - CSP SAN GIORGIO
-UID:42909145-85af-4d77-86f9-47e47de92305@4290.org
+UID:8dac9007-a697-4b8a-9f37-345a74352075@8dac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 374\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI A.S.D.\n\nRisultato: 6-6
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20260118T160000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI A.S.D.
+UID:c5daae31-24ec-4958-b035-4c2f4af354de@c5da.org
 END:VEVENT
 END:VCALENDAR
