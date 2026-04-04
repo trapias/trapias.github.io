@@ -212,6 +212,8 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>HOCKEY CLUB EUR - LAZIO HOCKEY B</strong>
 
+**Risultato: 1-5**
+
 Gara: 540
 
 Campo: EUROMA STADIUM 

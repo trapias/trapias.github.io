@@ -171,7 +171,7 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 # Ragazze - OUTDOOR  - Girone B / Giornata 6
 
-## Dom 31/05/2026 11.00
+## Sab 16/05/2026 11.00
 
 <strong>ASD ADIGE UHC - CUS PADOVA ASD</strong>
 

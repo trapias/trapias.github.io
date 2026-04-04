@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone A / Giornata 1\nGara 658\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - CUS TORINO\n\nRisultato: 1-1
-GEO:44.703194;7.836697
-LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20251004T090000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone A / Giornata 1 - HF LORENZONI - CUS TORINO
-UID:b49972f3-f03f-48f6-8b7e-0421659345f2@b499.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone A / Giornata 3\nGara 661\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 1980 - CUS TORINO\n\nRisultato: 0-0
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone A / Giornata 6\nGara 1353\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 1980 - HF LORENZONI
 GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20251018T153000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone A / Giornata 3 - HF GENOVA 1980 - CUS TORINO
-UID:b5afb13f-bc01-48f5-97fa-fb6f790e1a6a@b5af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone A / Giornata 2\nGara 659\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - HF GENOVA 1980\n\nRisultato: 3-3
-GEO:44.703194;7.836697
-LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20251116T110000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone A / Giornata 2 - HF LORENZONI - HF GENOVA 1980
-UID:4133f561-1382-4ba2-af7c-9bbefe88ca82@4133.org
+DTSTART:20260516T163000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone A / Giornata 6 - HF GENOVA 1980 - HF LORENZONI
+UID:4950f685-c633-4604-bcb5-5e6c240d0ef2@4950.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone A / Giornata 4\nGara 1351\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HF LORENZONI\n\nRisultato: 1-0
@@ -31,7 +15,23 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20260328T093000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone A / Giornata 4 - CUS TORINO - HF LORENZONI
-UID:6d0bcc47-2898-4a39-bac7-8f56e9e061cd@6d0b.org
+UID:31266377-ab8f-426d-8447-16475784edfd@3126.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone A / Giornata 2\nGara 659\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - HF GENOVA 1980\n\nRisultato: 3-3
+GEO:44.703194;7.836697
+LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20251116T110000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone A / Giornata 2 - HF LORENZONI - HF GENOVA 1980
+UID:1afe0bdb-2908-41e7-9e1c-8c298a464e0d@1afe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone A / Giornata 3\nGara 661\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 1980 - CUS TORINO\n\nRisultato: 0-0
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20251018T153000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone A / Giornata 3 - HF GENOVA 1980 - CUS TORINO
+UID:8a381091-2366-404f-b624-74cb61515648@8a38.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone A / Giornata 5\nGara 1352\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HF GENOVA 1980
@@ -39,14 +39,14 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20260501T130000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone A / Giornata 5 - CUS TORINO - HF GENOVA 1980
-UID:ab26b3ca-3849-42de-8bf1-4212ee11ad8b@ab26.org
+UID:859b7aeb-64d3-4719-bbf6-c9029d38517a@859b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone A / Giornata 6\nGara 1353\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 1980 - HF LORENZONI
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20260516T163000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone A / Giornata 6 - HF GENOVA 1980 - HF LORENZONI
-UID:771a2ba6-68cb-4638-b155-d4e154c765b3@771a.org
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone A / Giornata 1\nGara 658\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - CUS TORINO\n\nRisultato: 1-1
+GEO:44.703194;7.836697
+LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20251004T090000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone A / Giornata 1 - HF LORENZONI - CUS TORINO
+UID:9923fa2c-a512-4dbc-93b2-c50941ba1479@9923.org
 END:VEVENT
 END:VCALENDAR

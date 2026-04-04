@@ -144,7 +144,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 # Allieve - OUTDOOR  - Girone C / Giornata 7
 
-## Sab 11/04/2026 17.30
+## Dom 24/05/2026 13.00
 
 <strong>HF GENOVA 1980 - CUS PISA ASD</strong>
 
