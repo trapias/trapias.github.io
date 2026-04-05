@@ -2,36 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 746\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT BOLOGNA - SUPERBA HC
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20260509T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8 - HT BOLOGNA - SUPERBA HC
-UID:cf1845b8-1316-4cbe-b4f9-da251213223b@cf18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 753\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT BOLOGNA - A.S.D. POLISPORTIVA JUVENILIA
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20260523T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 10 - HT BOLOGNA - A.S.D. POLISPORTIVA JUVENILIA
-UID:3795f17e-57b6-45fb-b586-ed420e0b4121@3795.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 735\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - HT BOLOGNA
 GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260411T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 4 - CUS PISA ASD - HT BOLOGNA
-UID:06404878-0b32-4b99-b545-d36b77225970@0640.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 743\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.H.P. BONOMI - HT BOLOGNA
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20260502T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 7 - S.H.P. BONOMI - HT BOLOGNA
-UID:1d712ea2-28b8-4a04-b958-eb08b3161a36@1d71.org
+UID:1fdee66b-8f26-45bd-859d-56fc12e6d617@1fde.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 731\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA HC - HT BOLOGNA\n\nRisultato: 2-2
@@ -39,7 +15,23 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20260328T150000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3 - SUPERBA HC - HT BOLOGNA
-UID:b1e62097-da2b-47b9-99fa-3722bff4b6d8@b1e6.org
+UID:92dd8f6c-d451-46e8-ae60-aebf2db8f801@92dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 746\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT BOLOGNA - SUPERBA HC
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20260509T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8 - HT BOLOGNA - SUPERBA HC
+UID:3942c60c-6c6c-44fc-8e9b-e5ae69f0ebc6@3942.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 743\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.H.P. BONOMI - HT BOLOGNA
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20260502T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 7 - S.H.P. BONOMI - HT BOLOGNA
+UID:4ddd84aa-3450-4cfd-9402-4f1c820d4db5@4ddd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 738\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA JUVENILIA - HT BOLOGNA
@@ -47,23 +39,7 @@ GEO:39.694117;8.702129
 LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
 DTSTART:20260418T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 5 - A.S.D. POLISPORTIVA JUVENILIA - HT BOLOGNA
-UID:aa10b6c5-73a9-42c0-a52c-68a1b0148006@aa10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 728\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT BOLOGNA - S.H.P. BONOMI\n\nRisultato: 1-0
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20260321T143000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 2 - HT BOLOGNA - S.H.P. BONOMI
-UID:1751b085-f7a6-4a6a-a0e3-8a6345691827@1751.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 750\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT BOLOGNA - CUS PISA ASD
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20260516T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9 - HT BOLOGNA - CUS PISA ASD
-UID:3a2de6f7-a0ef-4e29-bfa7-9d7894309ee4@3a2d.org
+UID:e03fd134-444b-44e2-9527-32e0703c6bee@e03f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 724\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - HT BOLOGNA\n\nRisultato: 1-6
@@ -71,7 +47,7 @@ GEO:43.386400;13.654670
 LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
 DTSTART:20260314T140000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1 - H.POTENZA PICENA - HT BOLOGNA
-UID:51829b53-2720-4cf6-9aed-fed531b39f21@5182.org
+UID:51be4008-c651-46d0-ab21-36e8fcaf050e@51be.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 739\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT BOLOGNA - H.POTENZA PICENA
@@ -79,6 +55,30 @@ GEO:44.494706;11.280302
 LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
 DTSTART:20260425T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6 - HT BOLOGNA - H.POTENZA PICENA
-UID:12f57c8f-40f6-4bcc-a9d6-ec7909927564@12f5.org
+UID:14008450-6d6d-4360-8444-6f9f7b9d8dba@1400.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 728\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT BOLOGNA - S.H.P. BONOMI\n\nRisultato: 1-0
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20260321T143000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 2 - HT BOLOGNA - S.H.P. BONOMI
+UID:caf3f449-d3e7-4fa0-b758-4e32ab622d74@caf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 753\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT BOLOGNA - A.S.D. POLISPORTIVA JUVENILIA
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20260523T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 10 - HT BOLOGNA - A.S.D. POLISPORTIVA JUVENILIA
+UID:6edc6b0d-7193-4481-8c60-2e4f9ac9cc1d@6edc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 750\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHT BOLOGNA - CUS PISA ASD
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20260516T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9 - HT BOLOGNA - CUS PISA ASD
+UID:b7aaaf65-7e09-4d49-b705-41fba6822aca@b7aa.org
 END:VEVENT
 END:VCALENDAR
