@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 826\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - HC RIVA
+LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
+DTSTART:20260418T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 5 - HC VILLAFRANCA - HC RIVA
+UID:7f9eb284-bd08-4176-b3c2-32032bae9c3f@7f9e.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 834\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - HC RIVA
 GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20260502T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 7 - HC GRANTORTO - HC RIVA
-UID:c74ae090-b820-4ad0-b840-84f496de0bf6@c74a.org
+UID:926b80e6-6787-426a-b169-24fce30e7c87@926b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 819\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - HC GRANTORTO\n\nRisultato: 3-3
@@ -15,31 +22,7 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260321T150000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2 - HC RIVA - HC GRANTORTO
-UID:a61148fb-c47d-4511-b480-3500e1308f21@a611.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 840\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - HC RIVA
-GEO:40.465627;17.735612
-LOCATION:Torre Santa Susanna\, Brindisi\, Puglia\, 72028\, Italia
-DTSTART:20260516T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9 - HC OLIMPIA - HC RIVA
-UID:7da153b2-2e9e-48ec-8fb5-e4bf9fb623d7@7da1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 822\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nCERNUSCO FH - HC RIVA\n\nRisultato: 1-2
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260328T140000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 3 - CERNUSCO FH - HC RIVA
-UID:c2edc8e9-2466-465c-a3ad-f6e423e410b0@c2ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 825\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - HC OLIMPIA
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260411T120000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4 - HC RIVA - HC OLIMPIA
-UID:d4eee2b6-5ca0-4ddf-bb4c-1fd353340f22@d4ee.org
+UID:1ef70a6f-2093-4788-b10f-ba4c42869ee2@1ef7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 841\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - HC VILLAFRANCA
@@ -47,7 +30,15 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260523T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 10 - HC RIVA - HC VILLAFRANCA
-UID:eb372ae1-f58a-4390-b214-d4e8e4fc2224@eb37.org
+UID:39202fa6-3e49-4a51-b4c5-59c80a04fdc1@3920.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 822\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nCERNUSCO FH - HC RIVA\n\nRisultato: 1-2
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260328T140000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 3 - CERNUSCO FH - HC RIVA
+UID:47fabd6a-40b2-4d8b-ad89-2b403f7139a7@47fa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 830\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - POL GALATEA
@@ -55,14 +46,23 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260425T113000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 6 - HC RIVA - POL GALATEA
-UID:d5cd6b85-75e4-4c02-afb4-34a847ab3d6d@d5cd.org
+UID:ac8f0f4d-e542-4eef-bdb4-81a017e57171@ac8f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 826\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - HC RIVA
-LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
-DTSTART:20260418T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 5 - HC VILLAFRANCA - HC RIVA
-UID:18dd30d6-9565-409c-bfdb-286f35868d8d@18dd.org
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 840\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - HC RIVA
+GEO:40.465627;17.735612
+LOCATION:Torre Santa Susanna\, Brindisi\, Puglia\, 72028\, Italia
+DTSTART:20260516T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9 - HC OLIMPIA - HC RIVA
+UID:162e0ac4-b3f3-4437-8148-083cd7828174@162e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 825\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - HC OLIMPIA
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260411T120000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4 - HC RIVA - HC OLIMPIA
+UID:4a776747-ea05-4f5b-b8d7-a44eb077eb32@4a77.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 837\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - CERNUSCO FH
@@ -70,7 +70,7 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260509T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 8 - HC RIVA - CERNUSCO FH
-UID:877619ce-c17e-4067-bfd0-dd811c9ea49f@8776.org
+UID:eaee8d08-c23e-46ae-91f8-82744b742a08@eaee.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 815\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nPOL GALATEA - HC RIVA\n\nRisultato: 3-3
@@ -78,6 +78,6 @@ GEO:37.529426;15.096557
 LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
 DTSTART:20260314T140000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 1 - POL GALATEA - HC RIVA
-UID:b778c735-ce6f-4629-9a52-23e76ec2d7c3@b778.org
+UID:b3eb2557-3f94-4c50-9a00-af5bf3ffe969@b3eb.org
 END:VEVENT
 END:VCALENDAR
