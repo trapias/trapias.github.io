@@ -97,6 +97,8 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 <strong>ASD HOCKEY CLUB MOGLIANO - H.POTENZA PICENA</strong>
 
+**Risultato: 3-0**
+
 Gara: 571
 
 Campo: BAGLIANO 

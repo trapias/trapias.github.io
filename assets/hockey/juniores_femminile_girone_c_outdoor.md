@@ -189,6 +189,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>LAZIO HOCKEY - UH CAPITOLINA</strong>
 
+**Risultato: 4-0**
+
 Gara: 304
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
