@@ -333,7 +333,7 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8
 
-## Sab 09/05/2026 15.00
+## Sab 09/05/2026 14.00
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA - H.POTENZA PICENA</strong>
 

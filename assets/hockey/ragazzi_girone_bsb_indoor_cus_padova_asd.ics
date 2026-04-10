@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSB / Giornata 1\nGara 408\nComunale Mori - Via Lomba\, 23 Mori\nCUS PADOVA ASD - ASD ADIGE UHC\n\nRisultato: 3-2
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251207T113000Z
-SUMMARY:Ragazzi  - Girone BSB / Giornata 1 - CUS PADOVA ASD - ASD ADIGE UHC
-UID:548f9832-99f7-4a35-95e9-185b3869fdb1@548f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSB / Giornata 2\nGara 412\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD\n\nRisultato: 2-4
+DESCRIPTION:Ragazzi  - Girone BSB / Giornata 2\nGara 416\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nCUS PADOVA ASD - ASD ADIGE UHC\n\nRisultato: 2-3
 GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251214T090000Z
-SUMMARY:Ragazzi  - Girone BSB / Giornata 2 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
-UID:55235efa-a9c2-419f-8955-75f5454ea549@5523.org
+DTSTART:20251214T143000Z
+SUMMARY:Ragazzi  - Girone BSB / Giornata 2 - CUS PADOVA ASD - ASD ADIGE UHC
+UID:76924430-f254-4e96-8047-3b4362ce26ba@7692.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone BSB / Giornata 1\nGara 407\nComunale Mori - Via Lomba\, 23 Mori\nCUS PADOVA ASD - ASD HOCKEY CLUB BONDENO\n\nRisultato: 2-2
@@ -23,7 +15,15 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20251207T100000Z
 SUMMARY:Ragazzi  - Girone BSB / Giornata 1 - CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO
-UID:827dc236-e043-44e1-8f4c-0a1ac782fb4a@827d.org
+UID:11ba2cfd-1221-4bd1-b220-86529b0457fb@11ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone BSB / Giornata 2\nGara 412\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - CUS PADOVA ASD\n\nRisultato: 2-4
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251214T090000Z
+SUMMARY:Ragazzi  - Girone BSB / Giornata 2 - ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD
+UID:c5bd09d8-9911-453b-95a4-7d75319489ae@c5bd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone BSB / Giornata 2\nGara 414\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nCUS PADOVA ASD - HOCKEY CLUB RIVA\n\nRisultato: 2-3
@@ -31,15 +31,7 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20251214T113000Z
 SUMMARY:Ragazzi  - Girone BSB / Giornata 2 - CUS PADOVA ASD - HOCKEY CLUB RIVA
-UID:ad85ebde-ab00-423d-bd62-f0ff8657e470@ad85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSB / Giornata 2\nGara 416\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nCUS PADOVA ASD - ASD ADIGE UHC\n\nRisultato: 2-3
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251214T143000Z
-SUMMARY:Ragazzi  - Girone BSB / Giornata 2 - CUS PADOVA ASD - ASD ADIGE UHC
-UID:c3df3423-f5bd-45cf-b1ea-6442fcf4a69d@c3df.org
+UID:5df4642e-e37a-49d5-a350-5e8815847ab8@5df4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone BSB / Giornata 1\nGara 410\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - CUS PADOVA ASD\n\nRisultato: 2-0
@@ -47,6 +39,14 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20251207T140000Z
 SUMMARY:Ragazzi  - Girone BSB / Giornata 1 - HOCKEY CLUB RIVA - CUS PADOVA ASD
-UID:a1bf919f-cc03-48d3-84bd-f5ae26a29d12@a1bf.org
+UID:72cb76cf-aa65-4d47-8ac7-5fa01f0f195f@72cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone BSB / Giornata 1\nGara 408\nComunale Mori - Via Lomba\, 23 Mori\nCUS PADOVA ASD - ASD ADIGE UHC\n\nRisultato: 3-2
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251207T113000Z
+SUMMARY:Ragazzi  - Girone BSB / Giornata 1 - CUS PADOVA ASD - ASD ADIGE UHC
+UID:de29cf65-40ef-4acb-8c2d-185b944da939@de29.org
 END:VEVENT
 END:VCALENDAR

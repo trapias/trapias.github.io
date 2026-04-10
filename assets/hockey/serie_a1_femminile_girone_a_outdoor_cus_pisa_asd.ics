@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5\nGara 852\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOL FERRINI - CUS PISA ASD
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20260419T100000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5 - POL FERRINI - CUS PISA ASD
-UID:f0ba9dff-97fe-4d5b-8df3-59aa206c69c2@f0ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2\nGara 846\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - POL FERRINI\n\nRisultato: 0-0
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260322T100000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2 - CUS PISA ASD - POL FERRINI
-UID:a3e2b0fe-3b2e-45d2-89a3-373d54309ed1@a3e2.org
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3\nGara 849\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 80 - CUS PISA ASD\n\nRisultato: 0-0
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20260329T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3 - HF GENOVA 80 - CUS PISA ASD
+UID:8fd61479-16cc-425b-80f5-2394002df767@8fd6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1\nGara 844\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - MONCALVESE H\n\nRisultato: 1-0
@@ -23,7 +15,15 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260315T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1 - CUS PISA ASD - MONCALVESE H
-UID:39a2a8ee-59f7-4912-9c30-5ee6db5abd92@39a2.org
+UID:d686a02d-d3ee-442a-b44c-190a422e20ac@d686.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5\nGara 852\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOL FERRINI - CUS PISA ASD
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20260419T100000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5 - POL FERRINI - CUS PISA ASD
+UID:2d0f36fc-2e46-4b99-8897-2956fca0e1a5@2d0f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4\nGara 850\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - CUS PISA ASD
@@ -31,7 +31,7 @@ GEO:45.050205;8.265038
 LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
 DTSTART:20260412T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4 - MONCALVESE H - CUS PISA ASD
-UID:e33c9bfb-941c-4c64-a5ec-40601054b4a9@e33c.org
+UID:c6913b28-d0d9-41b9-b132-df23fb078517@c691.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6\nGara 855\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - HF GENOVA 80
@@ -39,14 +39,14 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260426T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6 - CUS PISA ASD - HF GENOVA 80
-UID:9d18f40e-b42c-47f5-a916-a4baa9da8269@9d18.org
+UID:dcfe7f26-17bc-45ce-87dc-4b1b8eb44628@dcfe.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3\nGara 849\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 80 - CUS PISA ASD\n\nRisultato: 0-0
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20260329T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3 - HF GENOVA 80 - CUS PISA ASD
-UID:4b142552-a538-470c-9518-6a3b98de7f51@4b14.org
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2\nGara 846\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - POL FERRINI\n\nRisultato: 0-0
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260322T100000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2 - CUS PISA ASD - POL FERRINI
+UID:1b8084ac-6411-40e0-856c-711d06690448@1b80.org
 END:VEVENT
 END:VCALENDAR

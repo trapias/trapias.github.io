@@ -654,7 +654,7 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 # Serie A Elite Maschile - OUTDOOR / Giornata 11
 
-## Sab 30/05/2026 15.00
+## Sab 30/05/2026 15.30
 
 <strong>TEVERE EUR H - SG AMSICORA</strong>
 

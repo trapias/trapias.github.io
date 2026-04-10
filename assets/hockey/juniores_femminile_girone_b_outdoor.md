@@ -249,6 +249,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>CUS PADOVA ASD - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
 
+**Risultato: 6-0**
+
 Gara: 394
 
 Campo: Impianti L. Merigliano 

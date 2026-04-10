@@ -97,6 +97,8 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PADOVA ASD</strong>
 
+**Risultato: 1-5**
+
 Gara: 272
 
 Campo: Sport Arena 
