@@ -307,7 +307,7 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 10
 
-## Dom 03/05/2026 11.00
+## Mer 06/05/2026 17.30
 
 <strong>LAZIO HOCKEY - TEVERE EUR H</strong>
 

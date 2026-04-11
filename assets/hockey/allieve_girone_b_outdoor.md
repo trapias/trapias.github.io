@@ -298,6 +298,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>ASD ADIGE UHC - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 3-0**
+
 Gara: 496
 
 Campo: Comunale Mori 
@@ -311,6 +313,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 ## Ven 10/04/2026 19.00
 
 <strong>ASD ADIGE UHC - HOCKEY CLUB RIVA</strong>
+
+**Risultato: 15-0**
 
 Gara: 497
 
