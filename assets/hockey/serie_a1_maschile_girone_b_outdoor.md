@@ -157,6 +157,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>S.H.P. BONOMI - H.POTENZA PICENA</strong>
 
+**Risultato: 2-2**
+
 Gara: 733
 
 Campo: CENTRO S. COMUNALE 
@@ -170,6 +172,8 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 ## Sab 11/04/2026 15.30
 
 <strong>SUPERBA HC - A.S.D. POLISPORTIVA JUVENILIA</strong>
+
+**Risultato: 3-1**
 
 Gara: 734
 

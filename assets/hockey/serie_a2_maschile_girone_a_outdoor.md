@@ -173,6 +173,8 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 <strong>HCU RASSEMBLEMENT - HC ROMA</strong>
 
+**Risultato: 3-1**
+
 Gara: 794
 
 Campo: Tazzoli 
@@ -186,6 +188,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 ## Sab 11/04/2026 13.30
 
 <strong>GENOVA H 1980 - HC SAVONA</strong>
+
+**Risultato: 6-2**
 
 Gara: 795
 

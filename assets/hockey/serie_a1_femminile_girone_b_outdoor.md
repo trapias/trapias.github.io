@@ -22,6 +22,8 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 <strong>HC RIVA - HC ARGENTIA</strong>
 
+**Risultato: 2-1**
+
 Gara: 857
 
 Campo: Comunale Mori 

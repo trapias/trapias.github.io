@@ -289,6 +289,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>HF LORENZONI - CUS TORINO</strong>
 
+**Risultato: 6-1**
+
 Gara: 1346
 
 Campo: Augusto Lorenzoni 

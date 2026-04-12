@@ -286,6 +286,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>TEVERE EUR H - POL FERRINI</strong>
 
+**Risultato: 7-3**
+
 Gara: 17
 
 Campo: EUROMA STADIUM 
@@ -299,6 +301,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 ## Sab 11/04/2026 15.00
 
 <strong>HC BRA - BUTTERFLY ROMA</strong>
+
+**Risultato: 3-2**
 
 Gara: 18
 
@@ -314,6 +318,8 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 <strong>SG AMSICORA - H CITTA' DEL TRICOLORE</strong>
 
+**Risultato: 6-1**
+
 Gara: 19
 
 Campo: AMSICORA 
@@ -328,6 +334,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 ## Sab 11/04/2026 15.00 ⭐
 
 <strong>LAZIO HOCKEY - HP VALCHISONE</strong>
+
+**Risultato: 3-2**
 
 Gara: 20
 

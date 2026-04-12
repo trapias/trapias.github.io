@@ -245,7 +245,7 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 8
 
-## Dom 12/04/2026 12.00
+## -
 
 <strong>H.POTENZA PICENA - LAZIO HOCKEY</strong>
 

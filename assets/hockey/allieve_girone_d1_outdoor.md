@@ -195,6 +195,8 @@ Geo: Geo(latitude=45.5238156, longitude=9.7535313)
 
 <strong>LAZIO HOCKEY - UH CAPITOLINA</strong>
 
+**Risultato: 1-11**
+
 Gara: 565
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

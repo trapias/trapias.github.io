@@ -173,6 +173,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>HT SARDEGNA - CUS PADOVA ASD</strong>
 
+**Risultato: 7-5**
+
 Gara: 764
 
 Campo: Comunale Uras 
@@ -186,6 +188,8 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 ## Sab 11/04/2026 15.00
 
 <strong>HC BONDENO - CSP SAN GIORGIO</strong>
+
+**Risultato: 5-0**
 
 Gara: 765
 
