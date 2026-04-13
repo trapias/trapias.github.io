@@ -2,35 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 267\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - CUS PADOVA ASD\n\nRisultato: 4-3
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20251026T100000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 3 - CSP SAN GIORGIO - CUS PADOVA ASD
-UID:2231a9ac-566d-4e74-b649-d7301e95086c@2231.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 379\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20260426T090000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 10 - CUS PADOVA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:c3d08f6e-0b71-4e24-a482-047b9b2d54f6@c3d0.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 376\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HC VILLAFRANCA
 GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20260510T110000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 9 - CUS PADOVA ASD - HC VILLAFRANCA
-UID:5c6f0bec-d0e2-42a6-bb44-e225f70f3ae2@5c6f.org
+UID:d117d4de-7d66-417a-bdfd-becee8aeb327@d117.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 267\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - CUS PADOVA ASD\n\nRisultato: 4-3
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20251026T100000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 3 - CSP SAN GIORGIO - CUS PADOVA ASD
+UID:23419f7d-e478-450e-aa73-ad6768f35ebe@2341.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 269\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - CUS PADOVA ASD\n\nRisultato: 2-2
 LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
 DTSTART:20251102T100000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 4 - HC VILLAFRANCA - CUS PADOVA ASD
-UID:d5229107-bb30-4d22-9dc5-e5c0c5605278@d522.org
+UID:32fb66e1-567e-445a-b4a2-5c972d5c5d27@32fb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 374\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - CSP SAN GIORGIO\n\nRisultato: 4-5
@@ -38,7 +30,15 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20260322T100000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 8 - CUS PADOVA ASD - CSP SAN GIORGIO
-UID:45100ab6-e84d-4f4e-9936-7de23d39f5f2@4510.org
+UID:ff6fe486-7063-4379-b79e-b81b0ceeab6a@ff6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 379\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20260426T090000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 10 - CUS PADOVA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
+UID:f40aeef5-bf58-47e7-9414-d79414baa209@f40a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 272\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PADOVA ASD\n\nRisultato: 1-5
@@ -46,6 +46,6 @@ GEO:44.708262;10.635422
 LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
 DTSTART:20260308T100000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 5 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PADOVA ASD
-UID:a0b3bd99-8b88-420a-901f-33c515e7855c@a0b3.org
+UID:881d47dd-10f2-4f77-b9c3-4f7f08aa168b@881d.org
 END:VEVENT
 END:VCALENDAR

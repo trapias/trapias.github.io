@@ -134,6 +134,8 @@ Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 <strong>CSP SAN GIORGIO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
 
+**Risultato: 4-0**
+
 Gara: 372
 
 Campo: campo hockey s. farinazzo 

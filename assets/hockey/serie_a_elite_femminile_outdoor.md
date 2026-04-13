@@ -207,6 +207,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>HT FEMM BOLOGNA - HF LORENZONI</strong>
 
+**Risultato: 1-1**
+
 Gara: 904
 
 Campo: CP BARCA 
@@ -220,6 +222,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 ## Dom 12/04/2026 13.00
 
 <strong>MILANO HP - CUS TORINO</strong>
+
+**Risultato: 1-1**
 
 Gara: 905
 
@@ -235,6 +239,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>SG AMSICORA - UH CAPITOLINA</strong>
 
+**Risultato: 2-1**
+
 Gara: 906
 
 Campo: AMSICORA 
@@ -248,6 +254,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 ## Dom 12/04/2026 15.00
 
 <strong>BUTTERFLY ROMA - LAZIO HOCKEY</strong>
+
+**Risultato: 2-2**
 
 Gara: 907
 

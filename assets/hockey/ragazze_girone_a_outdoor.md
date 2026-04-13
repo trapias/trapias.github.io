@@ -213,6 +213,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>HOCKEY PRATO VALCHISONE FEMMINILE - HF LORENZONI</strong>
 
+**Risultato: 1-1**
+
 Gara: 1362
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 

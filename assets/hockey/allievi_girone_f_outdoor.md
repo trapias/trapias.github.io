@@ -255,7 +255,7 @@ Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, 
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
-## Dom 12/04/2026 11.00
+## -
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA - SG AMSICORA</strong>
 

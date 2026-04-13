@@ -146,6 +146,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>HOCKEY CLUB ROMA - BUTTERFLY ROMA</strong>
 
+**Risultato: 3-8**
+
 Gara: 550
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
@@ -159,6 +161,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 ## Dom 12/04/2026 11.00
 
 <strong>LAZIO HOCKEY - TEVERE EUR H</strong>
+
+**Risultato: 1-3**
 
 Gara: 551
 

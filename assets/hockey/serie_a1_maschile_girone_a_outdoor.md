@@ -159,6 +159,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>CUS CAGLIARI - ASD ADIGE UHC</strong>
 
+**Risultato: 6-4**
+
 Gara: 763
 
 Campo: A. Maxia 

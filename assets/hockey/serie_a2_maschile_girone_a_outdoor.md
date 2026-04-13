@@ -159,6 +159,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC MOGLIANO - MONCALVESE H</strong>
 
+**Risultato: 2-6**
+
 Gara: 793
 
 Campo: BAGLIANO 

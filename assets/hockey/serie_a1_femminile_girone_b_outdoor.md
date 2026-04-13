@@ -111,6 +111,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>H.POTENZA PICENA - CUS PADOVA</strong>
 
+**Risultato: 3-1**
+
 Gara: 862
 
 Campo: STADIO HOCKEY POTENZA PICENA 
@@ -124,6 +126,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 ## Dom 12/04/2026 15.00
 
 <strong>HC ARGENTIA - HC RIVA</strong>
+
+**Risultato: 1-0**
 
 Gara: 863
 

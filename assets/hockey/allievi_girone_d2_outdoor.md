@@ -247,6 +247,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>HOCKEY CLUB OLIMPIA - ASD HOCKEY AVEZZANO 1969</strong>
 
+**Risultato: 21-2**
+
 Gara: 600
 
 Campo: Sintetico Comunale 
@@ -260,6 +262,8 @@ Geo: Geo(latitude=40.465627, longitude=17.735612)
 ## Dom 12/04/2026 12.00
 
 <strong>ASD HOCKEY CLUB MOGLIANO - H.POTENZA PICENA</strong>
+
+**Risultato: 1-3**
 
 Gara: 601
 

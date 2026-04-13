@@ -406,6 +406,8 @@ Geo: Geo(latitude=44.3230861, longitude=8.464578)
 
 <strong>HC GENOVA - HC SAVONA</strong>
 
+**Risultato: 2-3**
+
 Gara: 1225
 
 Campo: CAMPO G.ARNALDI 
@@ -420,6 +422,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>ASD SUPERBA HC - GENOVA H 1980</strong>
 
+**Risultato: 2-2**
+
 Gara: 1226
 
 Campo: CAMPO G.ARNALDI 
@@ -433,6 +437,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Dom 12/04/2026 13.00
 
 <strong>GENOVA H 1980 U18 - CUS PISA ASD</strong>
+
+**Risultato: 2-3**
 
 Gara: 1227
 

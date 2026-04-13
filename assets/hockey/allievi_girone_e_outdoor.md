@@ -162,6 +162,8 @@ Geo: Geo(latitude=38.2255449, longitude=15.5532721)
 
 <strong>PGS DON BOSCO 2000 ASD - ASD SAN PIETRO CLARENZA</strong>
 
+**Risultato: 5-4**
+
 Gara: 1153
 
 Campo: Oratorio Salesiano 

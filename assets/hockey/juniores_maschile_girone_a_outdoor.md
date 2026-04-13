@@ -295,6 +295,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>SCUOLA HOCKEY INDER SINGH - ASD CERNUSCO FIELD HOCKEY</strong>
 
+**Risultato: 3-1**
+
 Gara: 1301
 
 Campo: Augusto Lorenzoni 

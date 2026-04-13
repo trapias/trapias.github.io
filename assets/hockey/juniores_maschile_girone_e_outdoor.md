@@ -80,6 +80,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>SSD UNIME ARL - POL GALATEA</strong>
 
+**Risultato: 2-6**
+
 Gara: 1148
 
 Campo: DUSMET 

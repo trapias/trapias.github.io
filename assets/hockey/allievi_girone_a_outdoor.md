@@ -319,6 +319,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>SCUOLA HOCKEY INDER SINGH - HP VALCHISONE</strong>
 
+**Risultato: 5-2**
+
 Gara: 1324
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 
@@ -335,6 +337,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HCU RASSEMBLEMENT TORINO</strong>
 
+**Risultato: 9-0**
+
 Gara: 1330
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 
@@ -349,6 +353,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 ## Dom 12/04/2026 12.30 ⭐
 
 <strong>HP VALCHISONE - SCUOLA HOCKEY INDER SINGH NEXT GEN</strong>
+
+**Risultato: 5-2**
 
 Gara: 1331
 
@@ -365,6 +371,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 ## Dom 12/04/2026 14.00
 
 <strong>ASD CERNUSCO FIELD HOCKEY - SCUOLA HOCKEY INDER SINGH</strong>
+
+**Risultato: 9-0**
 
 Gara: 1332
 

@@ -305,6 +305,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>HC LARIO - USD MONCALVESE HOCKEY</strong>
 
+**Risultato: 4-1**
+
 Gara: 1347
 
 Campo: Campo Comunale 
