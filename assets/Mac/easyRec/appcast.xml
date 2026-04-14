@@ -7,24 +7,23 @@
     <description>Aggiornamenti per EasyRec</description>
     <language>it</language>
     <item>
-        <title>EasyRec 1.9</title>
-        <sparkle:version>4</sparkle:version>
-        <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
-        <pubDate>Wed, 18 Feb 2026 09:22:31 +0100</pubDate>
+        <title>EasyRec 1.15</title>
+        <sparkle:version>10</sparkle:version>
+        <sparkle:shortVersionString>1.15</sparkle:shortVersionString>
+        <pubDate>Tue, 14 Apr 2026 18:00:31 +0200</pubDate>
         <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
         <description><![CDATA[
-<h2>EasyRec 1.9</h2>
+<h2>easyRec 1.15</h2>
 <ul>
-<li>Menu bar recording control — red dot icon with timer during recording (like QuickTime)</li>
-<li>Switch between floating bar, main window, or hidden mode while recording</li>
-<li>Stop recording from the menu bar dropdown</li>
-<li>Dock click restores main window during recording</li>
+<li>Silence watchdog: alert banner shown in-app if the audio capture pipeline stops delivering buffers or records only digital silence</li>
+<li>Persistent diagnostic log: events are now written incrementally to <code>~/Library/Application Support/EasyRec/Logs/latest.log</code> — no more lost diagnostics if you forget to export</li>
+<li>Detailed audio-capture events logged (stream start/stop, first buffer, periodic buffer rate and RMS levels, digital-silence streaks)</li>
 </ul>
         ]]></description>
         <enclosure
-            url="https://www.trapias.it/assets/Mac/easyRec/EasyRec-1.9.dmg"
-            sparkle:edSignature="QYfs9bC8XJCncNXjBIJb7MZpRZ4pRmoK7fQ2X3kRwsSyhdvfHefR+luPCoi7/7HQRBqj/rc/Ks7RqxojjsEJCw=="
-            length="6763808"
+            url="https://www.trapias.it/assets/Mac/easyRec/EasyRec-1.15.dmg"
+            sparkle:edSignature="1jm+TMze2XrNoeGl9GaX75m50jfw6P++rNCIi/k7iJwyt+bqwRajYz7cuZtbQUiIUpWXw7BXykc0bsUohNbbBg=="
+            length="7171515"
             type="application/octet-stream" />
     </item>
 </channel>
