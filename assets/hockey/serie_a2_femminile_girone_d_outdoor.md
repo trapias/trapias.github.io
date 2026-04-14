@@ -92,6 +92,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>SG AMSICORA B - FORTITUDO HOCKEY CAGLIARI</strong>
 
+**Risultato: 4-0**
+
 Gara: 1116
 
 Campo: AMSICORA 

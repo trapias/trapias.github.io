@@ -59,7 +59,7 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 # Ragazze - OUTDOOR  - Girone E / Giornata 4
 
-## Gio 16/04/2026 18.00
+## -
 
 <strong>CUS CAGLIARI - SG AMSICORA</strong>
 

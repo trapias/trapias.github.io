@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 1\nGara 554\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nGENOVA H. 1980 U18 - HC SAVONA\n\nRisultato: 5-5
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251208T150000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 1 - GENOVA H. 1980 U18 - HC SAVONA
-UID:6aa286f6-d4b7-4955-aa43-9f2b99555adc@6aa2.org
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 2\nGara 559\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nHC SAVONA - ASD SUPERBA HC\n\nRisultato: 2-9
+GEO:43.944387;10.929450
+LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
+DTSTART:20251214T120000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 2 - HC SAVONA - ASD SUPERBA HC
+UID:178e96f0-37b1-4b51-87b0-76c154cbface@178e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone C / Giornata 3\nGara 567\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC GENOVA - HC SAVONA\n\nRisultato: 3-8
@@ -15,7 +15,15 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260118T133000Z
 SUMMARY:Juniores Maschile  - Girone C / Giornata 3 - HC GENOVA - HC SAVONA
-UID:9f4c27dd-c8cd-4e28-a594-aaa836f5b0fe@9f4c.org
+UID:f6deaecd-2918-48cc-9c48-93b7e9010193@f6de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 1\nGara 554\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nGENOVA H. 1980 U18 - HC SAVONA\n\nRisultato: 5-5
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251208T150000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 1 - GENOVA H. 1980 U18 - HC SAVONA
+UID:e15ce888-88e8-4e7d-9a60-ee832715315e@e15c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone C / Giornata 1\nGara 550\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC SAVONA - HC PISTOIA FRANJO\n\nRisultato: 10-1
@@ -23,23 +31,7 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251208T110000Z
 SUMMARY:Juniores Maschile  - Girone C / Giornata 1 - HC SAVONA - HC PISTOIA FRANJO
-UID:ebafa777-7264-4e4f-bc9a-59aec210e6fb@ebaf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 2\nGara 559\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nHC SAVONA - ASD SUPERBA HC\n\nRisultato: 2-9
-GEO:43.944387;10.929450
-LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
-DTSTART:20251214T120000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 2 - HC SAVONA - ASD SUPERBA HC
-UID:5ae9c51a-8529-4ac6-b8f9-398b5edd484c@5ae9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 3\nGara 565\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC SAVONA - CUS PISA ASD\n\nRisultato: 5-2
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260118T113000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 3 - HC SAVONA - CUS PISA ASD
-UID:7b9dc562-8338-4226-b218-82cd3827f34d@7b9d.org
+UID:78a711fe-5488-435f-b885-3aff3b4aa7f9@78a7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone C / Giornata 2\nGara 557\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nGENOVA H. 1980 - HC SAVONA\n\nRisultato: 11-3
@@ -47,6 +39,14 @@ GEO:43.944387;10.929450
 LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
 DTSTART:20251214T100000Z
 SUMMARY:Juniores Maschile  - Girone C / Giornata 2 - GENOVA H. 1980 - HC SAVONA
-UID:31398e7a-bb26-4117-8e48-51a04c89ea2f@3139.org
+UID:8ad52057-b701-42a2-91f6-cefc22dcae5a@8ad5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 3\nGara 565\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC SAVONA - CUS PISA ASD\n\nRisultato: 5-2
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260118T113000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 3 - HC SAVONA - CUS PISA ASD
+UID:2fc9499c-7e3e-42cb-a8b5-d0839049a9a4@2fc9.org
 END:VEVENT
 END:VCALENDAR

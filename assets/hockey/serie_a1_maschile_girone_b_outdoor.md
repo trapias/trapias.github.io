@@ -191,6 +191,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>CUS PISA ASD - HT BOLOGNA</strong>
 
+**Risultato: 1-2**
+
 Gara: 735
 
 Campo: CAMPO HOCKEY PRATO 
@@ -232,7 +234,7 @@ Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
 Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
-## Sab 18/04/2026 15.00
+## Sab 18/04/2026 14.30
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA - HT BOLOGNA</strong>
 

@@ -181,6 +181,8 @@ Geo: Geo(latitude=45.5238156, longitude=9.7535313)
 
 <strong>HOCKEY CLUB ROMA - BUTTERFLY ROMA</strong>
 
+**Risultato: 1-3**
+
 Gara: 564
 
 Campo: Campo Comunale Oriolo Romano 
