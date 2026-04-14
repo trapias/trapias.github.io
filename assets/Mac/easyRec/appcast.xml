@@ -7,23 +7,23 @@
     <description>Aggiornamenti per EasyRec</description>
     <language>it</language>
     <item>
-        <title>EasyRec 1.15</title>
-        <sparkle:version>10</sparkle:version>
-        <sparkle:shortVersionString>1.15</sparkle:shortVersionString>
-        <pubDate>Tue, 14 Apr 2026 18:00:31 +0200</pubDate>
+        <title>EasyRec 1.16</title>
+        <sparkle:version>11</sparkle:version>
+        <sparkle:shortVersionString>1.16</sparkle:shortVersionString>
+        <pubDate>Tue, 14 Apr 2026 18:38:49 +0200</pubDate>
         <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
         <description><![CDATA[
-<h2>easyRec 1.15</h2>
+<h2>easyRec 1.16</h2>
 <ul>
-<li>Silence watchdog: alert banner shown in-app if the audio capture pipeline stops delivering buffers or records only digital silence</li>
-<li>Persistent diagnostic log: events are now written incrementally to <code>~/Library/Application Support/EasyRec/Logs/latest.log</code> — no more lost diagnostics if you forget to export</li>
-<li>Detailed audio-capture events logged (stream start/stop, first buffer, periodic buffer rate and RMS levels, digital-silence streaks)</li>
+<li><strong>Important:</strong> if you are on 1.15 or earlier, please download this update manually from the website — the Sparkle signing key was rotated and in-app update will report "improperly signed". After installing 1.16 manually, automatic updates will resume.</li>
+<li>Re-signed Sparkle updates with a new EdDSA key pair bundled in the app</li>
+<li>Added a pre-flight sanity check in the release script to prevent key/plist drift</li>
 </ul>
         ]]></description>
         <enclosure
-            url="https://www.trapias.it/assets/Mac/easyRec/EasyRec-1.15.dmg"
-            sparkle:edSignature="1jm+TMze2XrNoeGl9GaX75m50jfw6P++rNCIi/k7iJwyt+bqwRajYz7cuZtbQUiIUpWXw7BXykc0bsUohNbbBg=="
-            length="7171515"
+            url="https://www.trapias.it/assets/Mac/easyRec/EasyRec-1.16.dmg"
+            sparkle:edSignature="zeR8m8zlykj+1PwZItWHFBqZonFY1piNli1V1Vjsc/Y4jcdZsEBv6GfiMJHtOO8fAESmEIDr8EgdVJoPydjLCA=="
+            length="7171666"
             type="application/octet-stream" />
     </item>
 </channel>
