@@ -329,7 +329,7 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 6
 
-## Dom 26/04/2026 15.00
+## Dom 26/04/2026 12.00
 
 <strong>SG AMSICORA - CUS TORINO</strong>
 
