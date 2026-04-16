@@ -324,7 +324,7 @@ Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrare
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
-## Sab 02/05/2026 15.00
+## Sab 02/05/2026 13.30
 
 <strong>HT SARDEGNA - CSP SAN GIORGIO</strong>
 
