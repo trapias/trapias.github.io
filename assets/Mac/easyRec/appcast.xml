@@ -7,23 +7,23 @@
     <description>Aggiornamenti per EasyRec</description>
     <language>it</language>
     <item>
-        <title>EasyRec 1.16</title>
-        <sparkle:version>11</sparkle:version>
-        <sparkle:shortVersionString>1.16</sparkle:shortVersionString>
-        <pubDate>Tue, 14 Apr 2026 18:38:49 +0200</pubDate>
+        <title>EasyRec 1.17</title>
+        <sparkle:version>12</sparkle:version>
+        <sparkle:shortVersionString>1.17</sparkle:shortVersionString>
+        <pubDate>Thu, 16 Apr 2026 16:12:39 +0200</pubDate>
         <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
         <description><![CDATA[
-<h2>easyRec 1.16</h2>
+<h2>easyRec 1.17</h2>
 <ul>
-<li><strong>Important:</strong> if you are on 1.15 or earlier, please download this update manually from the website — the Sparkle signing key was rotated and in-app update will report "improperly signed". After installing 1.16 manually, automatic updates will resume.</li>
-<li>Re-signed Sparkle updates with a new EdDSA key pair bundled in the app</li>
-<li>Added a pre-flight sanity check in the release script to prevent key/plist drift</li>
+<li>Default audio source is now System Audio; last selected source is persisted across launches</li>
+<li>Fixed AI report language detection: now detects language from transcription when set to auto</li>
+<li>Fixed dock click opening duplicate windows</li>
 </ul>
         ]]></description>
         <enclosure
-            url="https://www.trapias.it/assets/Mac/easyRec/EasyRec-1.16.dmg"
-            sparkle:edSignature="zeR8m8zlykj+1PwZItWHFBqZonFY1piNli1V1Vjsc/Y4jcdZsEBv6GfiMJHtOO8fAESmEIDr8EgdVJoPydjLCA=="
-            length="7171666"
+            url="https://www.trapias.it/assets/Mac/easyRec/EasyRec-1.17.dmg"
+            sparkle:edSignature="3IBNMT5PTuQpjFLsJKv7FAORkB4VqSCGhiVflUUZke/jMLHQWQDF0pxtd2GMonWlQ2JIrQsxc8e41m7Csk+MBg=="
+            length="7175560"
             type="application/octet-stream" />
     </item>
 </channel>
