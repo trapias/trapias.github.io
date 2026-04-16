@@ -7,6 +7,25 @@
     <description>Updates for easyCal</description>
     <language>en</language>
     <item>
+        <title>easyCal 0.3.2</title>
+        <sparkle:version>5</sparkle:version>
+        <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+        <pubDate>Thu, 16 Apr 2026 12:47:39 +0200</pubDate>
+        <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[
+<h2>easyCal 0.3.2</h2>
+<ul>
+<li>Fix Teams meeting icon not showing for new-format Teams URLs (teams.microsoft.com/meet/...)</li>
+<li>Fix event editor (Cmd+N) closing immediately when clicking inside it</li>
+</ul>
+        ]]></description>
+        <enclosure
+            url="https://www.trapias.it/assets/Mac/easyCal/easyCal-0.3.2.dmg"
+            sparkle:edSignature="jsslNStAVhUDCeJIYyObPx5fbLPadgfkHwieOCeP11kEj4bt0g8IpgwTmH3IdICe4i65kdXW/yRmwjTihms2Cw=="
+            length="5239667"
+            type="application/octet-stream" />
+    </item>
+    <item>
         <title>easyCal 0.3.1</title>
         <sparkle:version>4</sparkle:version>
         <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
