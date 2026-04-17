@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone D / Giornata 3\nGara 1083\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nCUS CAGLIARI - SG AMSICORA\n\nRisultato: 0-4
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260218T183000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone D / Giornata 3 - CUS CAGLIARI - SG AMSICORA
-UID:89130063-fdf3-4489-b3e1-b8e33de00cc0@8913.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone D / Giornata 4\nGara 1156\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nPOL GALATEA - SG AMSICORA\n\nRisultato: 1-2
 GEO:37.529426;15.096557
 LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
 DTSTART:20260201T083000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone D / Giornata 4 - POL GALATEA - SG AMSICORA
-UID:52c56369-e9fa-4efd-b1a6-4260db95e742@52c5.org
+UID:94af854d-d2c5-4419-b497-ab7aa537648c@94af.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone D / Giornata 6\nGara 1158\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - CUS CAGLIARI
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone D / Giornata 3\nGara 1083\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nCUS CAGLIARI - SG AMSICORA\n\nRisultato: 0-4
 GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260420T160000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone D / Giornata 6 - SG AMSICORA - CUS CAGLIARI
-UID:918eff5d-1b3e-446e-8f56-cc87a3c19cb3@918e.org
+DTSTART:20260218T183000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone D / Giornata 3 - CUS CAGLIARI - SG AMSICORA
+UID:9ba5d80c-1997-4408-aa34-f11d164ac2d8@9ba5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone D / Giornata 5\nGara 1157\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nPOL GALATEA - CUS CAGLIARI\n\nRisultato: 4-1
@@ -31,7 +23,15 @@ GEO:37.529426;15.096557
 LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
 DTSTART:20260221T143000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone D / Giornata 5 - POL GALATEA - CUS CAGLIARI
-UID:b46fcd95-3c3f-4408-a927-1477ccd9ac5b@b46f.org
+UID:d4941172-65e6-4b85-a77e-ffdfb0e2828f@d494.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone D / Giornata 6\nGara 1158\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - CUS CAGLIARI
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20260420T160000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone D / Giornata 6 - SG AMSICORA - CUS CAGLIARI
+UID:0cc6350f-3686-445c-bcf4-8fe7641f667a@0cc6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone D / Giornata 2\nGara 1082\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nCUS CAGLIARI - POL GALATEA\n\nRisultato: 2-4
@@ -39,7 +39,7 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251130T100000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone D / Giornata 2 - CUS CAGLIARI - POL GALATEA
-UID:79cefa27-8bea-46ba-aa68-4cbffe774290@79ce.org
+UID:b2adcc6b-e81d-4083-9b10-e4a7998e9e9a@b2ad.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone D / Giornata 1\nGara 1081\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - POL GALATEA\n\nRisultato: 2-1
@@ -47,6 +47,6 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251129T150000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone D / Giornata 1 - SG AMSICORA - POL GALATEA
-UID:f2c1027f-b89b-4750-9ea2-37aab3ce9356@f2c1.org
+UID:05f2bd10-34af-4145-bef0-96b887cb7c91@05f2.org
 END:VEVENT
 END:VCALENDAR

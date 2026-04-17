@@ -224,7 +224,7 @@ Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, 
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
-## Mar 05/05/2026 17.30
+## Gio 16/04/2026 16.30
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA RIS. - A.S.D. POLISPORTIVA JUVENILIA</strong>
 
@@ -255,7 +255,7 @@ Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, 
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
-## -
+## Dom 19/04/2026 10.00
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA - SG AMSICORA</strong>
 
@@ -272,7 +272,7 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 # Allievi - OUTDOOR  - Girone F / Giornata 9
 
-## Gio 16/04/2026 18.00
+## Mar 05/05/2026 17.30
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA - POLISPORTIVA FERRINI</strong>
 
@@ -286,7 +286,7 @@ Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, 
 Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
-## Dom 19/04/2026 10.30
+## Dom 19/04/2026 11.30
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA RIS. - SG AMSICORA</strong>
 
