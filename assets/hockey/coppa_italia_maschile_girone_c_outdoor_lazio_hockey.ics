@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 5\nGara 109\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - BUTTERFLY ROMA\n\nRisultato: 2-1
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20251018T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 5 - LAZIO HOCKEY - BUTTERFLY ROMA
-UID:184ada0c-ea45-46dd-8abf-b6f7dbba38c1@184a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 3\nGara 105\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - TEVERE EUR H\n\nRisultato: 2-1
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20251004T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 3 - LAZIO HOCKEY - TEVERE EUR H
-UID:674d6779-a072-4597-8bc9-12196b898232@674d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 2\nGara 103\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - LAZIO HOCKEY\n\nRisultato: 4-0
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20250927T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 2 - BUTTERFLY ROMA - LAZIO HOCKEY
-UID:fbf99df1-c3cf-4b98-91ea-8a91a83cdb6b@fbf9.org
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 4\nGara 106\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - LAZIO HOCKEY\n\nRisultato: 0-6
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20251011T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 4 - H.POTENZA PICENA - LAZIO HOCKEY
+UID:1cc8a83e-6537-4df4-97d1-cdb91471ee59@1cc8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 1\nGara 100\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - H.POTENZA PICENA\n\nRisultato: 5-2
@@ -31,7 +15,23 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20250920T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 1 - LAZIO HOCKEY - H.POTENZA PICENA
-UID:c3587196-8155-447d-80a7-556116e2d64c@c358.org
+UID:295ab6e0-caf2-4afe-b382-c09e074a5da9@295a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 5\nGara 109\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - BUTTERFLY ROMA\n\nRisultato: 2-1
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20251018T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 5 - LAZIO HOCKEY - BUTTERFLY ROMA
+UID:beaf7fb3-0bb3-4b3a-95af-33e6bba1590b@beaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 3\nGara 105\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - TEVERE EUR H\n\nRisultato: 2-1
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20251004T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 3 - LAZIO HOCKEY - TEVERE EUR H
+UID:4333df06-ea24-4c43-a9ef-8bb441a147c5@4333.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 6\nGara 111\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - LAZIO HOCKEY\n\nRisultato: 5-4
@@ -39,14 +39,14 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20251025T130000Z
 SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 6 - TEVERE EUR H - LAZIO HOCKEY
-UID:b17f43cd-b253-4ea3-88eb-c8d1ab3ed74a@b17f.org
+UID:ecae65b4-3c97-4a97-832a-f74b8d9c430a@ecae.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 4\nGara 106\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - LAZIO HOCKEY\n\nRisultato: 0-6
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20251011T130000Z
-SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 4 - H.POTENZA PICENA - LAZIO HOCKEY
-UID:4eba3c98-165f-4847-952f-84090bb3f80e@4eba.org
+DESCRIPTION:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 2\nGara 103\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - LAZIO HOCKEY\n\nRisultato: 4-0
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20250927T130000Z
+SUMMARY:Coppa Italia Maschile - OUTDOOR  - Girone C / Giornata 2 - BUTTERFLY ROMA - LAZIO HOCKEY
+UID:0bdc4638-edae-45ea-9257-34e45d9c4649@0bdc.org
 END:VEVENT
 END:VCALENDAR
