@@ -101,6 +101,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>UH CAPITOLINA - AZ HOCKEY TEAM</strong>
 
+**Risultato: 5-1**
+
 Gara: 626
 
 Campo: EUROMA STADIUM 

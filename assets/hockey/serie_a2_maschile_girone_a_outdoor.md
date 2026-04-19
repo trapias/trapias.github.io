@@ -210,6 +210,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC SAVONA - HC MOGLIANO</strong>
 
+**Risultato: 3-4**
+
 Gara: 796
 
 Campo: CAMPO G.ARNALDI 
@@ -224,6 +226,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC ROMA - MONCALVESE H</strong>
 
+**Risultato: 2-2**
+
 Gara: 797
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
@@ -237,6 +241,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 ## Sab 18/04/2026 13.00
 
 <strong>GENOVA H 1980 - HCU RASSEMBLEMENT</strong>
+
+**Risultato: 3-4**
 
 Gara: 798
 

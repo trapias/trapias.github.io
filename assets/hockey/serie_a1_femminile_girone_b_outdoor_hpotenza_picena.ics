@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4\nGara 862\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - CUS PADOVA\n\nRisultato: 3-1
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20260412T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4 - H.POTENZA PICENA - CUS PADOVA
-UID:5aba9ea9-23c7-42e1-adf5-da927ddf9fb9@5aba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 861\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - HC RIVA\n\nRisultato: 0-2
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20260329T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3 - H.POTENZA PICENA - HC RIVA
-UID:e0405fb0-9545-4abf-8ddd-179770a2e977@e040.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 6\nGara 866\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - H.POTENZA PICENA
 GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260426T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 6 - HC RIVA - H.POTENZA PICENA
-UID:d1df18ff-9bf3-43c1-903e-f8263d53f9d9@d1df.org
+UID:3a5f1f52-3c98-42bb-b597-07eaadd292ac@3a5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4\nGara 862\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - CUS PADOVA\n\nRisultato: 3-1
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20260412T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4 - H.POTENZA PICENA - CUS PADOVA
+UID:1795595d-4d56-4aee-84de-0f4a437bfc84@1795.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1\nGara 856\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - H.POTENZA PICENA\n\nRisultato: 1-3
@@ -31,7 +23,7 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20260315T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1 - CUS PADOVA - H.POTENZA PICENA
-UID:c5f73516-7562-43d4-aebd-ce652d6d809f@c5f7.org
+UID:dd57b0d8-422c-4f6c-b0cc-fc8ad189ccf9@dd57.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 864\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - HC ARGENTIA
@@ -39,7 +31,15 @@ GEO:43.386400;13.654670
 LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
 DTSTART:20260419T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 5 - H.POTENZA PICENA - HC ARGENTIA
-UID:04cf0b36-35ef-4270-81c3-208088f268f5@04cf.org
+UID:0b8a1ec9-f56b-4ec4-a73d-d07d03ab9ee9@0b8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 861\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - HC RIVA\n\nRisultato: 0-2
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20260329T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3 - H.POTENZA PICENA - HC RIVA
+UID:d957e036-293e-434d-b094-dc3799a875b5@d957.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 2\nGara 858\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC ARGENTIA - H.POTENZA PICENA\n\nRisultato: 0-3
@@ -47,6 +47,6 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20260322T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 2 - HC ARGENTIA - H.POTENZA PICENA
-UID:53da7c25-b975-429a-9ebb-27a7a5875c7f@53da.org
+UID:696b33f6-a0e1-46b1-aebc-9a7bc46611fe@696b.org
 END:VEVENT
 END:VCALENDAR

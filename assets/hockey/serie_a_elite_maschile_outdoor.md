@@ -356,6 +356,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>BUTTERFLY ROMA - SG AMSICORA</strong>
 
+**Risultato: 1-1**
+
 Gara: 21
 
 Campo: CENTRO GIULIO ONESTI 
@@ -370,6 +372,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 ## Sab 18/04/2026 15.00 ⭐
 
 <strong>HP VALCHISONE - TEVERE EUR H</strong>
+
+**Risultato: 2-1**
 
 Gara: 22
 
@@ -387,6 +391,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>POL FERRINI - LAZIO HOCKEY</strong>
 
+**Risultato: 2-3**
+
 Gara: 23
 
 Campo: A. Maxia 
@@ -400,6 +406,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 ## Sab 18/04/2026 15.00
 
 <strong>H CITTA' DEL TRICOLORE - HC BRA</strong>
+
+**Risultato: 5-6**
 
 Gara: 24
 

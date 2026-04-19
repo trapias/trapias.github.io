@@ -234,6 +234,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>MILANO HP - HF LORENZONI</strong>
 
+**Risultato: 0-9**
+
 Gara: 1363
 
 Campo: Campo Comunale 

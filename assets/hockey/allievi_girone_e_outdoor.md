@@ -195,6 +195,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>SSD UNIME ARL - PGS DON BOSCO 2000 ASD</strong>
 
+**Risultato: 7-8**
+
 Gara: 1155
 
 Campo: Cittadella Universitaria 

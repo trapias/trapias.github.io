@@ -514,6 +514,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>ASD BAD LAKE HOCKEY B - HC GENOVA RAINBOW</strong>
 
+**Risultato: 1-6**
+
 Gara: 1204
 
 Campo: CAMPO G.ARNALDI 
