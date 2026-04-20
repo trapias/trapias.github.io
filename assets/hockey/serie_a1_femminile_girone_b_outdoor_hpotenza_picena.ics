@@ -2,12 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1\nGara 856\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - H.POTENZA PICENA\n\nRisultato: 1-3
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20260315T140000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1 - CUS PADOVA - H.POTENZA PICENA
+UID:0051a0f2-447b-4d98-8eea-42eec89ed7db@0051.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 6\nGara 866\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - H.POTENZA PICENA
 GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260426T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 6 - HC RIVA - H.POTENZA PICENA
-UID:3a5f1f52-3c98-42bb-b597-07eaadd292ac@3a5f.org
+UID:40244d55-7255-43b2-a052-f7147ef950e4@4024.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 864\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - HC ARGENTIA\n\nRisultato: 1-0
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20260419T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 5 - H.POTENZA PICENA - HC ARGENTIA
+UID:a2575d64-877e-44c5-bd2e-397c5e5014cb@a257.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4\nGara 862\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - CUS PADOVA\n\nRisultato: 3-1
@@ -15,23 +31,7 @@ GEO:43.386400;13.654670
 LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
 DTSTART:20260412T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4 - H.POTENZA PICENA - CUS PADOVA
-UID:1795595d-4d56-4aee-84de-0f4a437bfc84@1795.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1\nGara 856\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - H.POTENZA PICENA\n\nRisultato: 1-3
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20260315T140000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1 - CUS PADOVA - H.POTENZA PICENA
-UID:dd57b0d8-422c-4f6c-b0cc-fc8ad189ccf9@dd57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 864\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - HC ARGENTIA
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20260419T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 5 - H.POTENZA PICENA - HC ARGENTIA
-UID:0b8a1ec9-f56b-4ec4-a73d-d07d03ab9ee9@0b8a.org
+UID:91b9c094-e03e-4a31-9cfc-e12cc764c0f8@91b9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 861\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - HC RIVA\n\nRisultato: 0-2
@@ -39,7 +39,7 @@ GEO:43.386400;13.654670
 LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
 DTSTART:20260329T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3 - H.POTENZA PICENA - HC RIVA
-UID:d957e036-293e-434d-b094-dc3799a875b5@d957.org
+UID:c3f1b1a8-a47c-4903-8c39-52104f741501@c3f1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 2\nGara 858\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC ARGENTIA - H.POTENZA PICENA\n\nRisultato: 0-3
@@ -47,6 +47,6 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20260322T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 2 - HC ARGENTIA - H.POTENZA PICENA
-UID:696b33f6-a0e1-46b1-aebc-9a7bc46611fe@696b.org
+UID:9f3c21e7-3584-4b27-abb0-b274a64ec775@9f3c.org
 END:VEVENT
 END:VCALENDAR

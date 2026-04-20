@@ -214,6 +214,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>HF GENOVA 1980 - HC GENOVA</strong>
 
+**Risultato: 0-9**
+
 Gara: 1243
 
 Campo: CAMPO G.ARNALDI 
@@ -286,7 +288,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Dom 10/05/2026 11.00
+## Sab 23/05/2026 17.00
 
 <strong>HC RAINBOW SAMPIERDARENA - HF GENOVA 1980</strong>
 

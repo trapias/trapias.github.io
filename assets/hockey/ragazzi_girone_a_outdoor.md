@@ -329,6 +329,8 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 <strong>SCUOLA HOCKEY INDER SINGH - A.S.D. S.H. PAOLO BONOMI</strong>
 
+**Risultato: 9-0**
+
 Gara: 1307
 
 Campo: Augusto Lorenzoni 

@@ -195,6 +195,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>HOCKEY CLUB ROMA - POL GALATEA</strong>
 
+**Risultato: 0-6**
+
 Gara: 711
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

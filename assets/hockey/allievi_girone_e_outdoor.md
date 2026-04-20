@@ -181,6 +181,8 @@ Geo: Geo(latitude=38.1483059, longitude=15.2175523)
 
 <strong>POL GALATEA - ASD SAN PIETRO CLARENZA</strong>
 
+**Risultato: 13-0**
+
 Gara: 1154
 
 Campo: DUSMET 

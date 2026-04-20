@@ -226,6 +226,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>CUS PISA ASD - HC SAVONA</strong>
 
+**Risultato: 0-0**
+
 Gara: 318
 
 Campo: CAMPO HOCKEY PRATO 

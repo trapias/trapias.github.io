@@ -146,6 +146,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>ASD HOCKEY CAMPAGNANO - HOCKEY CLUB EUR</strong>
 
+**Risultato: 6-3**
+
 Gara: 524
 
 Campo: CENTRO GIULIO ONESTI 

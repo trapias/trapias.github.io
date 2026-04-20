@@ -77,6 +77,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>HC LARIO - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 
+**Risultato: 0-9**
+
 Gara: 677
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 
@@ -93,6 +95,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 ## Dom 19/04/2026 11.30 ⭐
 
 <strong>HOCKEY PRATO VALCHISONE FEMMINILE - HC LARIO</strong>
+
+**Risultato: 6-1**
 
 Gara: 1342
 
@@ -323,6 +327,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 ## Dom 19/04/2026 11.00
 
 <strong>USD MONCALVESE HOCKEY - HF LORENZONI</strong>
+
+**Risultato: 2-10**
 
 Gara: 1348
 

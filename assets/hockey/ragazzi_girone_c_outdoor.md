@@ -156,6 +156,8 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 <strong>CUS PISA ASD - HOCKEY TEAM BOLOGNA</strong>
 
+**Risultato: 2-6**
+
 Gara: 451
 
 Campo: CAMPO HOCKEY PRATO 

@@ -274,6 +274,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>HF LORENZONI - SG AMSICORA</strong>
 
+**Risultato: 1-3**
+
 Gara: 908
 
 Campo: Augusto Lorenzoni 
@@ -287,6 +289,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 ## Dom 19/04/2026 15.00
 
 <strong>CUS TORINO - BUTTERFLY ROMA</strong>
+
+**Risultato: 1-3**
 
 Gara: 909
 
@@ -302,6 +306,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>LAZIO HOCKEY - MILANO HP</strong>
 
+**Risultato: 3-0**
+
 Gara: 910
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
@@ -315,6 +321,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 ## Dom 19/04/2026 15.00
 
 <strong>HT FEMM BOLOGNA - UH CAPITOLINA</strong>
+
+**Risultato: 0-2**
 
 Gara: 911
 

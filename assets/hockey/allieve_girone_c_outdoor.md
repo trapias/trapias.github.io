@@ -117,6 +117,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>SPORT AND GO - CUS PISA ASD</strong>
 
+**Risultato: 2-8**
+
 Gara: 1251
 
 Campo: CAMPO G.ARNALDI 
@@ -180,6 +182,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Dom 19/04/2026 13.00
 
 <strong>HC RAINBOW SAMPIERDARENA - CUS PISA ASD</strong>
+
+**Risultato: 1-6**
 
 Gara: 1255
 

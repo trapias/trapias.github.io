@@ -179,6 +179,8 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>BUTTERFLY ROMA - LAZIO HOCKEY</strong>
 
+**Risultato: 0-3**
+
 Gara: 619
 
 Campo: CENTRO GIULIO ONESTI 
@@ -192,6 +194,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 ## Dom 19/04/2026 11.00
 
 <strong>AZ HOCKEY TEAM - H.POTENZA PICENA</strong>
+
+**Risultato: 2-9**
 
 Gara: 620
 
