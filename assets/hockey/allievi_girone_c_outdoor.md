@@ -461,7 +461,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 # Allievi - OUTDOOR  - Girone C / Giornata 10
 
-## Dom 03/05/2026 13.00
+## Sab 16/05/2026 11.00
 
 <strong>GENOVA H 1980 DRITTO - GENOVA H 1980 ROVESCIO</strong>
 
@@ -526,7 +526,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Dom 03/05/2026 09.00
+## Sab 02/05/2026 11.00
 
 <strong>ASD BAD LAKE HOCKEY - GENOVA H 1980 DRITTO</strong>
 
@@ -651,7 +651,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 # Allievi - OUTDOOR  - Girone C / Giornata 14
 
-## Sab 02/05/2026 11.00
+## Sab 02/05/2026 12.30
 
 <strong>ASD BAD LAKE HOCKEY - ASD BAD LAKE HOCKEY B</strong>
 

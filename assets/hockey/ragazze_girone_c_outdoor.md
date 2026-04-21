@@ -305,7 +305,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 # Ragazze - OUTDOOR  - Girone C / Giornata 10
 
-## Sab 16/05/2026 13.00
+## Sab 16/05/2026 18.30
 
 <strong>SPORT AND GO - HC RAINBOW SAMPIERDARENA</strong>
 

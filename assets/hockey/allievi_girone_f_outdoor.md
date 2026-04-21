@@ -214,6 +214,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>HT SARDEGNA - POLISPORTIVA FERRINI</strong>
 
+**Risultato: 6-2**
+
 Gara: 1266
 
 Campo: Comunale Uras 
@@ -227,6 +229,8 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 ## Gio 16/04/2026 16.30
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA RIS. - A.S.D. POLISPORTIVA JUVENILIA</strong>
+
+**Risultato: 3-9**
 
 Gara: 1267
 
@@ -245,6 +249,8 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 <strong>HT SARDEGNA - A.S.D. POLISPORTIVA JUVENILIA RIS.</strong>
 
+**Risultato: 0-6**
+
 Gara: 1268
 
 Campo: Comunale Uras 
@@ -258,6 +264,8 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 ## Dom 19/04/2026 10.00
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA - SG AMSICORA</strong>
+
+**Risultato: 12-0**
 
 Gara: 1269
 
@@ -289,6 +297,8 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 ## Dom 19/04/2026 11.30
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA RIS. - SG AMSICORA</strong>
+
+**Risultato: 0-1**
 
 Gara: 1271
 
