@@ -293,6 +293,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HOCKEY TRIESTE 2012 - CSP SAN GIORGIO</strong>
 
+**Risultato: 0-15**
+
 Gara: 417
 
 Campo: Campo Ass. R. Fincantieri 

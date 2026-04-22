@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 256\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC GENOVA - CUS PISA ASD\n\nRisultato: 1-5
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260110T150000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - HC GENOVA - CUS PISA ASD
+UID:452db405-ded8-45b1-aafd-7ac31ba1192a@452d.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 2\nGara 253\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHF GENOVA 1980 - CUS PISA ASD\n\nRisultato: 2-5
 GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251220T160000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 2 - HF GENOVA 1980 - CUS PISA ASD
-UID:c5f8105e-6003-409d-b545-ee620baa0587@c5f8.org
+UID:e340ac85-f7b0-42cb-a91b-3247c33a78a0@e340.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 248\nPalazinola - Via Antonio Brilla\, snc Savona\nHF GENOVA 1980 - HC GENOVA\n\nRisultato: 3-3
@@ -15,23 +23,7 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20251207T130000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - HF GENOVA 1980 - HC GENOVA
-UID:70c61a75-7341-4bba-829d-8e0e9a324c4f@70c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 247\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - HF GENOVA 1980\n\nRisultato: 4-2
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20251207T110000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - CUS PISA ASD - HF GENOVA 1980
-UID:3ac643bb-88cb-46a3-b245-721486aa1c02@3ac6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 255\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC GENOVA - HF GENOVA 1980\n\nRisultato: 2-2
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260110T133000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - HC GENOVA - HF GENOVA 1980
-UID:12dd0ef6-b93b-45d5-9413-e9c69d2603dc@12dd.org
+UID:94ec8758-681f-4b0d-9929-b378ad2538ec@94ec.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 2\nGara 250\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - HC GENOVA\n\nRisultato: 9-2
@@ -39,14 +31,22 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251220T123000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 2 - CUS PISA ASD - HC GENOVA
-UID:4fc831b9-be43-4c2d-8b54-57acf4b1e16c@4fc8.org
+UID:eea7eddb-3268-4830-921f-947d809dc7d1@eea7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 256\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC GENOVA - CUS PISA ASD\n\nRisultato: 1-5
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 247\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - HF GENOVA 1980\n\nRisultato: 4-2
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20251207T110000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - CUS PISA ASD - HF GENOVA 1980
+UID:63d25490-08cc-4e4e-bc54-48a4571b0cb7@63d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 255\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC GENOVA - HF GENOVA 1980\n\nRisultato: 2-2
 GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260110T150000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - HC GENOVA - CUS PISA ASD
-UID:935ab5ad-730b-418c-a958-c047dac180b3@935a.org
+DTSTART:20260110T133000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - HC GENOVA - HF GENOVA 1980
+UID:8dea92ea-5665-4043-9dea-b7144f88ca2c@8dea.org
 END:VEVENT
 END:VCALENDAR

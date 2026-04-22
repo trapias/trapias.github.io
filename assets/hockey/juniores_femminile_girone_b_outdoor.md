@@ -162,6 +162,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>CUS PADOVA ASD - MILANO HP</strong>
 
+**Risultato: 2-1**
+
 Gara: 389
 
 Campo: Impianti L. Merigliano 
@@ -214,7 +216,7 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - MILANO HP</strong>
 
-**Risultato: 3-2**
+**Risultato: 3-1**
 
 Gara: 392
 

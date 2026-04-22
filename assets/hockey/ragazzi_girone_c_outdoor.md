@@ -125,6 +125,8 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 <strong>HOCKEY TEAM BOLOGNA - ASD HOCKEY CLUB BONDENO</strong>
 
+**Risultato: 5-3**
+
 Gara: 449
 
 Campo: CP BARCA 
@@ -141,6 +143,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 ## Dom 19/04/2026 11.00
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - ASD HOCKEY CLUB BONDENO</strong>
+
+**Risultato: 0-6**
 
 Gara: 450
 

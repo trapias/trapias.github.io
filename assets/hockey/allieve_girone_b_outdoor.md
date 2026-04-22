@@ -239,6 +239,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>ASD HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 12-0**
+
 Gara: 492
 
 Campo: A. GIATTI 
@@ -252,6 +254,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Dom 29/03/2026 13.00
 
 <strong>ASD HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA</strong>
+
+**Risultato: 14-1**
 
 Gara: 493
 

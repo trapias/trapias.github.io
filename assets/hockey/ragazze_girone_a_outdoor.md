@@ -249,7 +249,7 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 # Ragazze - OUTDOOR  - Girone A / Giornata 11
 
-## Sab 25/04/2026 11.00
+## Dom 24/05/2026 12.00
 
 <strong>USD MONCALVESE HOCKEY - MILANO HP</strong>
 
