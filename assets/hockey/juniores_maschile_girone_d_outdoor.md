@@ -92,6 +92,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>TEVERE EUR H - HOCKEY CLUB ROMA</strong>
 
+**Risultato: 8-0**
+
 Gara: 278
 
 Campo: EUROMA STADIUM 

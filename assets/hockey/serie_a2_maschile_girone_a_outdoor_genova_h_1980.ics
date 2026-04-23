@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 806\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nHC ROMA - GENOVA H 1980
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20260509T123000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8 - HC ROMA - GENOVA H 1980
-UID:40426206-ff1d-41a1-a30b-ff0da1089c98@4042.org
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 4\nGara 795\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 - HC SAVONA\n\nRisultato: 6-2
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20260411T113000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 4 - GENOVA H 1980 - HC SAVONA
+UID:e7995eba-abeb-4f1c-b70d-6010263a03f6@e799.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6\nGara 799\nBAGLIANO - STRADA PROVINCIALE 72\, 25 MOGLIANO\nHC MOGLIANO - GENOVA H 1980
@@ -15,7 +15,15 @@ GEO:43.172615;13.487342
 LOCATION:Strada Provinciale 72 Mogliano - Fiume\, Piani d'Ete\, Mogliano\, Macerata\, Marche\, 63834\, Italia
 DTSTART:20260425T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6 - HC MOGLIANO - GENOVA H 1980
-UID:79661f06-a192-42b5-91a7-57734d2c8f3b@7966.org
+UID:3cb4b382-a69f-4518-affd-b0acf15c8661@3cb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 806\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nHC ROMA - GENOVA H 1980
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20260509T123000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8 - HC ROMA - GENOVA H 1980
+UID:2563ae0e-1ef2-4c35-a27f-d1beb2d117b2@2563.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 810\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHC SAVONA - GENOVA H 1980
@@ -23,7 +31,7 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20260516T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9 - HC SAVONA - GENOVA H 1980
-UID:bc821206-01bb-4306-8e86-5e2ed93e84ed@bc82.org
+UID:78806747-d5a3-4b75-bbce-222a10d31af4@7880.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3\nGara 791\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 - HC ROMA\n\nRisultato: 2-1
@@ -31,47 +39,7 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20260328T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3 - GENOVA H 1980 - HC ROMA
-UID:df5da29b-57f8-49e0-8727-082e342c42ed@df5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 1\nGara 784\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 - HC MOGLIANO\n\nRisultato: 6-2
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20260314T140000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 1 - GENOVA H 1980 - HC MOGLIANO
-UID:594a6187-3870-491a-997b-8655eb00c9cc@594a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 798\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 - HCU RASSEMBLEMENT\n\nRisultato: 3-4
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20260418T110000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5 - GENOVA H 1980 - HCU RASSEMBLEMENT
-UID:4e78388f-cdd7-43fe-96ba-9d811ecef381@4e78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 788\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - GENOVA H 1980\n\nRisultato: 4-1
-GEO:45.050205;8.265038
-LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
-DTSTART:20260321T140000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2 - MONCALVESE H - GENOVA H 1980
-UID:1de204f7-589e-4576-afb4-ecbed241a22f@1de2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 4\nGara 795\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 - HC SAVONA\n\nRisultato: 6-2
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20260411T113000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 4 - GENOVA H 1980 - HC SAVONA
-UID:b0ef39b3-70ac-47be-a38a-038ca30e74d0@b0ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 813\nTazzoli - Corso Tazzoli\, 78 Torino\nHCU RASSEMBLEMENT - GENOVA H 1980
-GEO:45.033509;7.633384
-LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20260523T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10 - HCU RASSEMBLEMENT - GENOVA H 1980
-UID:6530d90d-2887-4f7d-a91d-324da3c6b866@6530.org
+UID:c56bc60e-6400-4592-b761-ff1b32779660@c56b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7\nGara 803\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 - MONCALVESE H
@@ -79,6 +47,38 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20260502T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7 - GENOVA H 1980 - MONCALVESE H
-UID:3b58b0fc-92aa-4cb9-946c-082ed8324e87@3b58.org
+UID:6f4d4cb5-0565-47b9-837b-478bed058200@6f4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 1\nGara 784\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 - HC MOGLIANO\n\nRisultato: 6-2
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20260314T140000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 1 - GENOVA H 1980 - HC MOGLIANO
+UID:65500457-1ab0-406e-9bfe-e066da97af17@6550.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 798\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 - HCU RASSEMBLEMENT\n\nRisultato: 3-4
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20260418T110000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5 - GENOVA H 1980 - HCU RASSEMBLEMENT
+UID:5d623594-55b7-4d17-9e41-002a7f1c488d@5d62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 813\nTazzoli - Corso Tazzoli\, 78 Torino\nHCU RASSEMBLEMENT - GENOVA H 1980
+GEO:45.033509;7.633384
+LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
+DTSTART:20260523T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10 - HCU RASSEMBLEMENT - GENOVA H 1980
+UID:99a5b1c8-7c23-46f4-9350-72d2dee49d91@99a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 788\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - GENOVA H 1980\n\nRisultato: 4-1
+GEO:45.050205;8.265038
+LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
+DTSTART:20260321T140000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2 - MONCALVESE H - GENOVA H 1980
+UID:0b64f877-93aa-483b-aa52-a52c93a5345c@0b64.org
 END:VEVENT
 END:VCALENDAR
