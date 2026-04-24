@@ -99,6 +99,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>POL GALATEA - VALVERDE HOCKETY 2018</strong>
 
+**Risultato: 2-1**
+
 Gara: 1149
 
 Campo: DUSMET 

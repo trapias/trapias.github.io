@@ -271,7 +271,7 @@ Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/C
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
-## Sab 25/04/2026 14.30
+## Sab 25/04/2026 15.00
 
 <strong>CSP SAN GIORGIO - CUS PADOVA ASD</strong>
 
