@@ -127,6 +127,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>CUS CAGLIARI - FORTITUDO HOCKEY CAGLIARI</strong>
 
+**Risultato: 7-0**
+
 Gara: 1284
 
 Campo: A. Maxia 

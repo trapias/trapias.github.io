@@ -396,7 +396,7 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 7
 
-## Dom 03/05/2026 15.00
+## Dom 03/05/2026 12.00
 
 <strong>MILANO HP - SG AMSICORA</strong>
 

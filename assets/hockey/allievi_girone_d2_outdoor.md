@@ -311,7 +311,7 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 # Allievi - OUTDOOR  - Girone D2 / Giornata 10
 
-## Dom 03/05/2026 11.00
+## Mer 13/05/2026 17.00
 
 <strong>ASD HOCKEY AVEZZANO 1969 - AZ HOCKEY TEAM</strong>
 
