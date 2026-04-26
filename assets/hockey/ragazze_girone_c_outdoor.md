@@ -247,6 +247,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HF GENOVA 1980 - SPORT AND GO</strong>
 
+**Risultato: 3-2**
+
 Gara: 1245
 
 Campo: CAMPO G.ARNALDI 
@@ -260,6 +262,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Sab 25/04/2026 11.00
 
 <strong>CUS PISA ASD - HC RAINBOW SAMPIERDARENA</strong>
+
+**Risultato: 12-0**
 
 Gara: 1246
 

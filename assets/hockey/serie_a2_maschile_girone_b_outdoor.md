@@ -271,6 +271,8 @@ Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 
 <strong>HC RIVA - POL GALATEA</strong>
 
+**Risultato: 5-2**
+
 Gara: 830
 
 Campo: Comunale Mori 
@@ -284,6 +286,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 ## Sab 25/04/2026 15.00
 
 <strong>HC GRANTORTO - CERNUSCO FH</strong>
+
+**Risultato: 3-2**
 
 Gara: 831
 

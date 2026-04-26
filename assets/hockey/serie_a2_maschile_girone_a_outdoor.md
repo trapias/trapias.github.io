@@ -275,6 +275,8 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 <strong>HC SAVONA - HC ROMA</strong>
 
+**Risultato: 2-2**
+
 Gara: 800
 
 Campo: CAMPO G.ARNALDI 
@@ -288,6 +290,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Sab 25/04/2026 15.00
 
 <strong>MONCALVESE H - HCU RASSEMBLEMENT</strong>
+
+**Risultato: 3-1**
 
 Gara: 801
 

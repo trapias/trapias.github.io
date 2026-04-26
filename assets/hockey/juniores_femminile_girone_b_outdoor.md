@@ -298,6 +298,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>HOCKEY CLUB RIVA - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
 
+**Risultato: 3-0**
+
 Gara: 397
 
 Campo: Comunale Mori 

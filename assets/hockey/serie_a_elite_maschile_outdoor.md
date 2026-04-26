@@ -426,6 +426,8 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 <strong>LAZIO HOCKEY - TEVERE EUR H</strong>
 
+**Risultato: 3-2**
+
 Gara: 25
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
@@ -440,6 +442,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 ## Sab 25/04/2026 15.00 ⭐
 
 <strong>HP VALCHISONE - POL FERRINI</strong>
+
+**Risultato: 2-2**
 
 Gara: 26
 
@@ -457,6 +461,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>SG AMSICORA - HC BRA</strong>
 
+**Risultato: 2-1**
+
 Gara: 27
 
 Campo: AMSICORA 
@@ -470,6 +476,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 ## Sab 25/04/2026 15.00
 
 <strong>H CITTA' DEL TRICOLORE - BUTTERFLY ROMA</strong>
+
+**Risultato: 2-2**
 
 Gara: 28
 
