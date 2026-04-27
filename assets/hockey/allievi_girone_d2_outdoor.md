@@ -298,6 +298,8 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>H.POTENZA PICENA - ASD HOCKEY AVEZZANO 1969</strong>
 
+**Risultato: 10-3**
+
 Gara: 603
 
 Campo: STADIO HOCKEY POTENZA PICENA 

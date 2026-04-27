@@ -181,6 +181,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>MONCALVESE H - POL FERRINI</strong>
 
+**Risultato: 2-2**
+
 Gara: 854
 
 Campo: UMBERTO MICCO 
@@ -194,6 +196,8 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 ## Dom 26/04/2026 15.00
 
 <strong>CUS PISA ASD - HF GENOVA 80</strong>
+
+**Risultato: 10-10**
 
 Gara: 855
 

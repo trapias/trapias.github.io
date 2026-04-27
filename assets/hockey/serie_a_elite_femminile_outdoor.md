@@ -341,6 +341,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>SG AMSICORA - CUS TORINO</strong>
 
+**Risultato: 3-0**
+
 Gara: 912
 
 Campo: AMSICORA 
@@ -354,6 +356,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 ## Dom 26/04/2026 14.30
 
 <strong>UH CAPITOLINA - HF LORENZONI</strong>
+
+**Risultato: 2-4**
 
 Gara: 913
 
@@ -369,6 +373,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>BUTTERFLY ROMA - MILANO HP</strong>
 
+**Risultato: 0-1**
+
 Gara: 914
 
 Campo: CENTRO GIULIO ONESTI 
@@ -382,6 +388,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 ## Dom 26/04/2026 15.00
 
 <strong>LAZIO HOCKEY - HT FEMM BOLOGNA</strong>
+
+**Risultato: 5-0**
 
 Gara: 915
 

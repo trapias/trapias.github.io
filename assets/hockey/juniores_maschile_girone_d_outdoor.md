@@ -284,6 +284,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>TEVERE EUR H - BUTTERFLY ROMA</strong>
 
+**Risultato: 2-1**
+
 Gara: 289
 
 Campo: EUROMA STADIUM 
@@ -297,6 +299,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 ## Dom 26/04/2026 12.00
 
 <strong>HOCKEY CLUB ROMA - H.POTENZA PICENA</strong>
+
+**Risultato: 0-8**
 
 Gara: 290
 

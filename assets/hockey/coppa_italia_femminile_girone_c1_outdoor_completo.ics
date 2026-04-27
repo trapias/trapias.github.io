@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Femminile  - Girone C1 / Giornata 3\nGara 225\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nDEL PINTO & ASSOCIATI H. PISTOIA - BUTTERFLY ROMA\n\nRisultato: 0-6
+GEO:43.950983;10.829288
+LOCATION:Via per Montagnana\, Montagnana\, Marliana\, Pistoia\, Toscana\, 51130\, Italia
+DTSTART:20250928T130000Z
+SUMMARY:Coppa Italia Femminile  - Girone C1 / Giornata 3 - DEL PINTO & ASSOCIATI H. PISTOIA - BUTTERFLY ROMA
+UID:6e15a6f5-276f-4cfb-9427-37bd8ebcd92b@6e15.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Femminile  - Girone C1 / Giornata 1\nGara 223\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - DEL PINTO & ASSOCIATI H. PISTOIA\n\nRisultato: 9-0
 GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251004T150000Z
 SUMMARY:Coppa Italia Femminile  - Girone C1 / Giornata 1 - CUS PISA ASD - DEL PINTO & ASSOCIATI H. PISTOIA
-UID:c78eec29-7ba0-4bd4-9e5c-b1464efc3f46@c78e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Femminile  - Girone C1 / Giornata 2\nGara 224\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - CUS PISA ASD\n\nRisultato: 1-0
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20250921T130000Z
-SUMMARY:Coppa Italia Femminile  - Girone C1 / Giornata 2 - BUTTERFLY ROMA - CUS PISA ASD
-UID:7fef3099-9e46-4c29-93c5-3ed2b2a069eb@7fef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Femminile  - Girone C1 / Giornata 5\nGara 227\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - DEL PINTO & ASSOCIATI H. PISTOIA\n\nRisultato: 3-0
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20251012T130000Z
-SUMMARY:Coppa Italia Femminile  - Girone C1 / Giornata 5 - BUTTERFLY ROMA - DEL PINTO & ASSOCIATI H. PISTOIA
-UID:a4c214d0-55bd-4164-829b-15b832ccaf2a@a4c2.org
+UID:5a6b16b6-4ab8-4050-afab-c576bd367ecb@5a6b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Femminile  - Girone C1 / Giornata 6\nGara 228\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - BUTTERFLY ROMA\n\nRisultato: 1-1
@@ -31,7 +23,15 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251019T133000Z
 SUMMARY:Coppa Italia Femminile  - Girone C1 / Giornata 6 - CUS PISA ASD - BUTTERFLY ROMA
-UID:44bbbca5-4ed1-42fb-b53e-4fe37a169d0f@44bb.org
+UID:fd0f0619-3ae9-4d57-acf4-f1a8cc03ae59@fd0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Italia Femminile  - Girone C1 / Giornata 2\nGara 224\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - CUS PISA ASD\n\nRisultato: 1-0
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20250921T130000Z
+SUMMARY:Coppa Italia Femminile  - Girone C1 / Giornata 2 - BUTTERFLY ROMA - CUS PISA ASD
+UID:50e5644f-a942-496a-b072-48c572a171bd@50e5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Italia Femminile  - Girone C1 / Giornata 4\nGara 226\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nDEL PINTO & ASSOCIATI H. PISTOIA - CUS PISA ASD\n\nRisultato: 0-4
@@ -39,14 +39,14 @@ GEO:43.950983;10.829288
 LOCATION:Via per Montagnana\, Montagnana\, Marliana\, Pistoia\, Toscana\, 51130\, Italia
 DTSTART:20251005T130000Z
 SUMMARY:Coppa Italia Femminile  - Girone C1 / Giornata 4 - DEL PINTO & ASSOCIATI H. PISTOIA - CUS PISA ASD
-UID:7f26365e-8191-4fee-ad50-177f16a14aee@7f26.org
+UID:bfc36096-0f03-444b-ae8b-fc20fbf38f18@bfc3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Coppa Italia Femminile  - Girone C1 / Giornata 3\nGara 225\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nDEL PINTO & ASSOCIATI H. PISTOIA - BUTTERFLY ROMA\n\nRisultato: 0-6
-GEO:43.950983;10.829288
-LOCATION:Via per Montagnana\, Montagnana\, Marliana\, Pistoia\, Toscana\, 51130\, Italia
-DTSTART:20250928T130000Z
-SUMMARY:Coppa Italia Femminile  - Girone C1 / Giornata 3 - DEL PINTO & ASSOCIATI H. PISTOIA - BUTTERFLY ROMA
-UID:b6dec788-80a9-4fd0-96cb-a212d5ca2b38@b6de.org
+DESCRIPTION:Coppa Italia Femminile  - Girone C1 / Giornata 5\nGara 227\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - DEL PINTO & ASSOCIATI H. PISTOIA\n\nRisultato: 3-0
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20251012T130000Z
+SUMMARY:Coppa Italia Femminile  - Girone C1 / Giornata 5 - BUTTERFLY ROMA - DEL PINTO & ASSOCIATI H. PISTOIA
+UID:6cb0c920-7885-4d32-abf6-1f9f9cb7e02e@6cb0.org
 END:VEVENT
 END:VCALENDAR

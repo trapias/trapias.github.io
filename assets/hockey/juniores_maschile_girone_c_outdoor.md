@@ -461,6 +461,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>ASD SUPERBA HC - HC GENOVA</strong>
 
+**Risultato: 3-0**
+
 Gara: 1228
 
 Campo: CAMPO G.ARNALDI 
@@ -474,6 +476,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Dom 26/04/2026 11.00
 
 <strong>HC SAVONA - CUS PISA ASD</strong>
+
+**Risultato: 4-3**
 
 Gara: 1229
 

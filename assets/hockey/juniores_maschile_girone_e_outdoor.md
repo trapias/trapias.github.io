@@ -63,6 +63,8 @@ Geo: Geo(latitude=37.5737465, longitude=15.121129)
 
 <strong>SSD UNIME ARL - VALVERDE HOCKETY 2018</strong>
 
+**Risultato: 3-1**
+
 Gara: 1147
 
 Campo: DUSMET 

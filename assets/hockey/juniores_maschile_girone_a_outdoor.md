@@ -337,6 +337,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>HP VALCHISONE - USD MONCALVESE HOCKEY</strong>
 
+**Risultato: 3-2**
+
 Gara: 1303
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 

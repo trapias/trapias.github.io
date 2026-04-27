@@ -189,6 +189,8 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 <strong>HC VILLAFRANCA - CSP SAN GIORGIO</strong>
 
+**Risultato: 1-2**
+
 Gara: 378
 
 Campo: Impianto comunale Nereo Faccioli 
@@ -201,6 +203,8 @@ Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 ## Dom 26/04/2026 11.00
 
 <strong>CUS PADOVA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE</strong>
+
+**Risultato: 8-1**
 
 Gara: 379
 
