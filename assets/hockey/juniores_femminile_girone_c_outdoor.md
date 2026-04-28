@@ -125,6 +125,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>BUTTERFLY ROMA - LAZIO HOCKEY</strong>
 
+**Risultato: 1-1**
+
 Gara: 300
 
 Campo: CENTRO GIULIO ONESTI 

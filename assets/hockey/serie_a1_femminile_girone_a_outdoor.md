@@ -197,7 +197,7 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 <strong>CUS PISA ASD - HF GENOVA 80</strong>
 
-**Risultato: 10-10**
+**Risultato: 0-0**
 
 Gara: 855
 

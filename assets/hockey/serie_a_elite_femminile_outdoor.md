@@ -522,7 +522,7 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 9
 
-## Dom 17/05/2026 15.00
+## Dom 17/05/2026 12.00
 
 <strong>SG AMSICORA - HT FEMM BOLOGNA</strong>
 
@@ -595,7 +595,7 @@ Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bol
 Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
-## Sab 30/05/2026 15.00
+## Sab 30/05/2026 14.00
 
 <strong>MILANO HP - HF LORENZONI</strong>
 

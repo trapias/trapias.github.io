@@ -280,7 +280,7 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 # Ragazze - OUTDOOR  - Girone C / Giornata 9
 
-## Dom 10/05/2026 09.00
+## Dom 03/05/2026 19.30
 
 <strong>SPORT AND GO - HC GENOVA</strong>
 

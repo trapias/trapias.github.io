@@ -181,6 +181,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>HT SARDEGNA - SG AMSICORA</strong>
 
+**Risultato: 0-10**
+
 Gara: 1264
 
 Campo: Comunale Uras 
@@ -317,6 +319,8 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA - HT SARDEGNA</strong>
 
+**Risultato: 30-0**
+
 Gara: 1272
 
 Campo: Comunale Uras 
@@ -329,14 +333,14 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 ## Lun 27/04/2026 18.00
 
-<strong>SG AMSICORA - POLISPORTIVA FERRINI</strong>
+<strong>POLISPORTIVA FERRINI - SG AMSICORA</strong>
 
 Gara: 1273
 
-Campo: AMSICORA 
+Campo: A. Maxia 
 
-Indirizzo Campo:  VIA DEI SALINIERI, 1, 23 - CAGLIARI
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna, 09126, Italia
-Geo: Geo(latitude=39.204954, longitude=9.1401682)
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 

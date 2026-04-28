@@ -283,7 +283,7 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 # Ragazze - OUTDOOR  - Girone A / Giornata 13
 
-## Sab 02/05/2026 15.00
+## Sab 02/05/2026 13.00
 
 <strong>HF LORENZONI - USD MONCALVESE HOCKEY</strong>
 
@@ -301,7 +301,7 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 # Ragazze - OUTDOOR  - Girone A / Giornata 14
 
 <!-- VALCHISONE_START -->
-## Sab 23/05/2026 10.30 ⭐
+## Sab 23/05/2026 11.00 ⭐
 
 <strong>HOCKEY PRATO VALCHISONE FEMMINILE - USD MONCALVESE HOCKEY</strong>
 
