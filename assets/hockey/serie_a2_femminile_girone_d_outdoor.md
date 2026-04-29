@@ -146,6 +146,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>POLISPORTIVA FERRINI B - FORTITUDO HOCKEY CAGLIARI</strong>
 
+**Risultato: 5-1**
+
 Gara: 1285
 
 Campo: A. Maxia 

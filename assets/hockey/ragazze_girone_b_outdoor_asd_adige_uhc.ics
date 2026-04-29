@@ -2,36 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 6\nGara 440\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CUS PADOVA ASD
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260516T090000Z
-SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 6 - ASD ADIGE UHC - CUS PADOVA ASD
-UID:718e28c4-951f-4d78-94fe-88af5820afea@718e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 3\nGara 434\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - ASD ADIGE UHC\n\nRisultato: 2-1
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20251031T163000Z
-SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 3 - CUS PADOVA ASD - ASD ADIGE UHC
-UID:23aebffa-8b42-4068-bdb1-0ce3248579e3@23ae.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 4\nGara 436\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
 GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20260426T090000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 4 - ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
-UID:86338723-fcb4-4044-8d15-ddf86d2f71cb@8633.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 5\nGara 438\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - ASD ADIGE UHC\n\nRisultato: 2-5
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20260315T100000Z
-SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 5 - HOCKEY TEAM FEMMINILE BOLOGNA - ASD ADIGE UHC
-UID:3704b2e4-8b8b-42ff-90ac-69f26d50309d@3704.org
+UID:425e583e-ce6e-4674-8b9d-b2ad9bb96856@425e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 2\nGara 432\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY TEAM FEMMINILE BOLOGNA\n\nRisultato: 4-3
@@ -39,7 +15,23 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20251018T143000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 2 - ASD ADIGE UHC - HOCKEY TEAM FEMMINILE BOLOGNA
-UID:b8194c80-f147-4a09-a4e6-a45ffa088d88@b819.org
+UID:2b32b2dd-4947-4365-bb2f-dd847d2ed169@2b32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 5\nGara 438\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - ASD ADIGE UHC\n\nRisultato: 2-5
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20260315T100000Z
+SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 5 - HOCKEY TEAM FEMMINILE BOLOGNA - ASD ADIGE UHC
+UID:621e3d1b-a1da-4466-b3f2-5921284735fd@621e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 6\nGara 440\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CUS PADOVA ASD
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260516T090000Z
+SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 6 - ASD ADIGE UHC - CUS PADOVA ASD
+UID:c2bcdeff-5dec-402e-ac7c-bb00a3513eaf@c2bc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 1\nGara 430\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - ASD HOCKEY CLUB BONDENO\n\nRisultato: 8-1
@@ -47,6 +39,14 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20251012T083000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 1 - ASD ADIGE UHC - ASD HOCKEY CLUB BONDENO
-UID:b1129f08-2eb7-417b-8357-f72ca2a1e45a@b112.org
+UID:18515b13-e38d-4f19-883c-6469418d7471@1851.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 3\nGara 434\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - ASD ADIGE UHC\n\nRisultato: 2-1
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20251031T163000Z
+SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 3 - CUS PADOVA ASD - ASD ADIGE UHC
+UID:dca369bc-3328-4c54-876e-65680392f974@dca3.org
 END:VEVENT
 END:VCALENDAR
