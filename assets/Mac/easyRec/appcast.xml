@@ -7,23 +7,29 @@
     <description>Aggiornamenti per EasyRec</description>
     <language>it</language>
     <item>
-        <title>EasyRec 1.17</title>
-        <sparkle:version>12</sparkle:version>
-        <sparkle:shortVersionString>1.17</sparkle:shortVersionString>
-        <pubDate>Thu, 16 Apr 2026 16:12:39 +0200</pubDate>
+        <title>EasyRec 1.18</title>
+        <sparkle:version>13</sparkle:version>
+        <sparkle:shortVersionString>1.18</sparkle:shortVersionString>
+        <pubDate>Wed, 29 Apr 2026 12:21:28 +0200</pubDate>
         <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
         <description><![CDATA[
-<h2>easyRec 1.17</h2>
+<h2>easyRec 1.18</h2>
+<p><strong>MLX backend re-enabled</strong> — local LLMs now run on Apple Silicon GPU again, after the upstream <code>mlx-swift-lm</code> / <code>swift-transformers</code> conflict was resolved.</p>
 <ul>
-<li>Default audio source is now System Audio; last selected source is persisted across launches</li>
-<li>Fixed AI report language detection: now detects language from transcription when set to auto</li>
-<li>Fixed dock click opening duplicate windows</li>
+<li>WhisperKit bumped to 0.18.0 with backward-compatible API usage</li>
+<li>MLX models (Qwen 2.5 7B, Mistral 7B, Llama 3.1 8B, Gemma 2 9B) selectable from Settings → AI</li>
+<li>Auto-summary now auto-loads the MLX model on demand instead of silently failing</li>
+<li>New post-recording status banner with spinner: distinguishes downloading model (one-time ~4GB) from loading from cache (~30s) from generating</li>
+<li>Settings → AI model picker redesigned: tap-row to select, "Loaded in RAM" indicator, decoupled Download from active selection</li>
+<li>Long MLX loads now print a 10-second heartbeat to the log and cap at a 5-minute timeout instead of appearing frozen</li>
+<li>Fixed cache path mismatch that caused HuggingFace weights to be re-downloaded on every run</li>
 </ul>
+<p><em>Requires Apple's Metal Toolchain (auto-prompted on macOS 26 if missing).</em></p>
         ]]></description>
         <enclosure
-            url="https://www.trapias.it/assets/Mac/easyRec/EasyRec-1.17.dmg"
-            sparkle:edSignature="3IBNMT5PTuQpjFLsJKv7FAORkB4VqSCGhiVflUUZke/jMLHQWQDF0pxtd2GMonWlQ2JIrQsxc8e41m7Csk+MBg=="
-            length="7175560"
+            url="https://www.trapias.it/assets/Mac/easyRec/EasyRec-1.18.dmg"
+            sparkle:edSignature="W1iGxoEcd3bDCdNYDQaCE+rWOEGInKkT7GguVrwqkY02pCCSdnch23Y7/GaEmMHNnV5jMxpr1Colscg3YnjfBw=="
+            length="14766806"
             type="application/octet-stream" />
     </item>
 </channel>
