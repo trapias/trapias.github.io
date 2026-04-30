@@ -371,7 +371,7 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 
 
-## Dom 03/05/2026 10.00
+## Dom 03/05/2026 11.00
 
 <strong>SCUOLA HOCKEY INDER SINGH - USD MONCALVESE HOCKEY</strong>
 

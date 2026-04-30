@@ -80,6 +80,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>ASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM</strong>
 
+**Risultato: 2-1**
+
 Gara: 570
 
 Campo: BAGLIANO 

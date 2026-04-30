@@ -2,32 +2,36 @@
 
 # Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 1
 
-## -
+## Dom 22/03/2026 15.00
 
-<strong>3 CLASS GIRONE A - 4 CLASS GIRONE A</strong>
+<strong>MONCALVESE H - HF GENOVA 80</strong>
+
+**Risultato: 3-3**
 
 Gara: 868
 
-Campo: DA DEFINIRE 
+Campo: UMBERTO MICCO 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: Moncalvo, Asti, Piemonte, 14036, Italia
+Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 
-## -
+## Dom 29/03/2026 15.00
 
-<strong>3 CLASS GIRONE B - 4 CLASS GIRONE B</strong>
+<strong>CUS PADOVA - HC ARGENTIA</strong>
+
+**Risultato: 1-1**
 
 Gara: 869
 
-Campo: DA DEFINIRE 
+Campo: Impianti L. Merigliano 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 
@@ -35,92 +39,96 @@ Geo: Geo(latitude=45.6135726, longitude=8.1967979)
 
 ## Dom 10/05/2026 15.00
 
-<strong>3 CLASS GIRONE B - 3 CLASS GIRONE A</strong>
+<strong>CUS PADOVA - MONCALVESE H</strong>
 
 Gara: 870
 
-Campo: DA DEFINIRE 
+Campo: Impianti L. Merigliano 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 ## Dom 10/05/2026 15.00
 
-<strong>4 CLASS GIRONE B - 4 CLASS GIRONE A</strong>
+<strong>HC ARGENTIA - HF GENOVA 80</strong>
 
 Gara: 871
 
-Campo: DA DEFINIRE 
+Campo: Campo Comunale 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 
 # Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 3
 
-## Dom 17/05/2026 15.00
+## Dom 17/05/2026 16.00
 
-<strong>4 CLASS GIRONE B - 3 CLASS GIRONE A</strong>
+<strong>HC ARGENTIA - MONCALVESE H</strong>
 
 Gara: 872
 
-Campo: DA DEFINIRE 
+Campo: Campo Comunale 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 ## Dom 17/05/2026 15.00
 
-<strong>4 CLASS GIRONE A - 3 CLASS GIRONE B</strong>
+<strong>HF GENOVA 80 - CUS PADOVA</strong>
 
 Gara: 873
 
-Campo: DA DEFINIRE 
+Campo: CAMPO G.ARNALDI 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
 
 # Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 4
 
-## -
+## Dom 19/04/2026 15.00
 
-<strong>4 CLASS GIRONE A - 3 CLASS GIRONE A</strong>
+<strong>HF GENOVA 80 - MONCALVESE H</strong>
+
+**Risultato: 1-4**
 
 Gara: 874
 
-Campo: DA DEFINIRE 
+Campo: CAMPO G.ARNALDI 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## -
+## Dom 26/04/2026 16.00
 
-<strong>4 CLASS GIRONE B - 3 CLASS GIRONE B</strong>
+<strong>HC ARGENTIA - CUS PADOVA</strong>
+
+**Risultato: 3-3**
 
 Gara: 875
 
-Campo: DA DEFINIRE 
+Campo: Campo Comunale 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
+Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 
@@ -128,30 +136,30 @@ Geo: Geo(latitude=45.6135726, longitude=8.1967979)
 
 ## Dom 24/05/2026 15.00
 
-<strong>3 CLASS GIRONE A - 3 CLASS GIRONE B</strong>
+<strong>MONCALVESE H - CUS PADOVA</strong>
 
 Gara: 876
 
-Campo: DA DEFINIRE 
+Campo: UMBERTO MICCO 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: Moncalvo, Asti, Piemonte, 14036, Italia
+Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 
 ## Dom 24/05/2026 15.00
 
-<strong>4 CLASS GIRONE A - 4 CLASS GIRONE B</strong>
+<strong>HF GENOVA 80 - HC ARGENTIA</strong>
 
 Gara: 877
 
-Campo: DA DEFINIRE 
+Campo: CAMPO G.ARNALDI 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
 
@@ -159,28 +167,28 @@ Geo: Geo(latitude=45.6135726, longitude=8.1967979)
 
 ## Dom 31/05/2026 15.00
 
-<strong>3 CLASS GIRONE A - 4 CLASS GIRONE B</strong>
+<strong>MONCALVESE H - HC ARGENTIA</strong>
 
 Gara: 878
 
-Campo: DA DEFINIRE 
+Campo: UMBERTO MICCO 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: Moncalvo, Asti, Piemonte, 14036, Italia
+Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 
 ## Dom 31/05/2026 15.00
 
-<strong>3 CLASS GIRONE B - 4 CLASS GIRONE A</strong>
+<strong>CUS PADOVA - HF GENOVA 80</strong>
 
 Gara: 879
 
-Campo: DA DEFINIRE 
+Campo: Impianti L. Merigliano 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 

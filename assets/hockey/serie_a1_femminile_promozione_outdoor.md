@@ -2,32 +2,36 @@
 
 # Serie A1 Femminile - OUTDOOR  - PROMOZIONE / Giornata 1
 
-## -
+## Dom 19/04/2026 12.00
 
-<strong>1 CLASS GIRONE A - 2 CLASS GIRONE A</strong>
+<strong>POL FERRINI - CUS PISA ASD</strong>
+
+**Risultato: 1-0**
 
 Gara: 880
 
-Campo: DA DEFINIRE 
+Campo: A. Maxia 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
-## -
+## Dom 26/04/2026 15.00
 
-<strong>2 CLASS GIRONE B - 1 CLASS GIRONE B</strong>
+<strong>HC RIVA - H.POTENZA PICENA</strong>
+
+**Risultato: 0-1**
 
 Gara: 881
 
-Campo: DA DEFINIRE 
+Campo: Comunale Mori 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 
@@ -35,30 +39,30 @@ Geo: Geo(latitude=45.6135726, longitude=8.1967979)
 
 ## Dom 10/05/2026 15.00
 
-<strong>2 CLASS GIRONE B - 1 CLASS GIRONE A</strong>
+<strong>HC RIVA - POL FERRINI</strong>
 
 Gara: 882
 
-Campo: DA DEFINIRE 
+Campo: Comunale Mori 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 ## Dom 10/05/2026 15.00
 
-<strong>1 CLASS GIRONE B - 2 CLASS GIRONE A</strong>
+<strong>H.POTENZA PICENA - CUS PISA ASD</strong>
 
 Gara: 883
 
-Campo: DA DEFINIRE 
+Campo: STADIO HOCKEY POTENZA PICENA 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
+Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
 
@@ -66,61 +70,65 @@ Geo: Geo(latitude=45.6135726, longitude=8.1967979)
 
 ## Dom 17/05/2026 15.00
 
-<strong>1 CLASS GIRONE B - 1 CLASS GIRONE A</strong>
+<strong>H.POTENZA PICENA - POL FERRINI</strong>
 
 Gara: 884
 
-Campo: DA DEFINIRE 
+Campo: STADIO HOCKEY POTENZA PICENA 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
+Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
-## Dom 17/05/2026 15.00
+## Dom 17/05/2026 16.00
 
-<strong>2 CLASS GIRONE A - 2 CLASS GIRONE B</strong>
+<strong>CUS PISA ASD - HC RIVA</strong>
 
 Gara: 885
 
-Campo: DA DEFINIRE 
+Campo: CAMPO HOCKEY PRATO 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 
 
 # Serie A1 Femminile - OUTDOOR  - PROMOZIONE / Giornata 4
 
-## -
+## Dom 22/03/2026 11.00
 
-<strong>2 CLASS GIRONE A - 1 CLASS GIRONE A</strong>
+<strong>CUS PISA ASD - POL FERRINI</strong>
+
+**Risultato: 0-0**
 
 Gara: 886
 
-Campo: DA DEFINIRE 
+Campo: CAMPO HOCKEY PRATO 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 
-## -
+## Dom 29/03/2026 15.00
 
-<strong>1 CLASS GIRONE B - 2 CLASS GIRONE B</strong>
+<strong>H.POTENZA PICENA - HC RIVA</strong>
+
+**Risultato: 0-2**
 
 Gara: 887
 
-Campo: DA DEFINIRE 
+Campo: STADIO HOCKEY POTENZA PICENA 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
+Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
 
@@ -128,30 +136,30 @@ Geo: Geo(latitude=45.6135726, longitude=8.1967979)
 
 ## Dom 24/05/2026 15.00
 
-<strong>1 CLASS GIRONE A - 2 CLASS GIRONE B</strong>
+<strong>POL FERRINI - HC RIVA</strong>
 
 Gara: 888
 
-Campo: DA DEFINIRE 
+Campo: A. Maxia 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
 ## Dom 24/05/2026 15.00
 
-<strong>2 CLASS GIRONE A - 1 CLASS GIRONE B</strong>
+<strong>CUS PISA ASD - H.POTENZA PICENA</strong>
 
 Gara: 889
 
-Campo: DA DEFINIRE 
+Campo: CAMPO HOCKEY PRATO 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  VIA FEDERICO CHIARUGI - PISA
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
+Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 
 
@@ -159,28 +167,28 @@ Geo: Geo(latitude=45.6135726, longitude=8.1967979)
 
 ## Dom 31/05/2026 15.00
 
-<strong>1 CLASS GIRONE A - 1 CLASS GIRONE B</strong>
+<strong>POL FERRINI - H.POTENZA PICENA</strong>
 
 Gara: 890
 
-Campo: DA DEFINIRE 
+Campo: A. Maxia 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
+Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
 ## Dom 31/05/2026 15.00
 
-<strong>2 CLASS GIRONE B - 2 CLASS GIRONE A</strong>
+<strong>HC RIVA - CUS PISA ASD</strong>
 
 Gara: 891
 
-Campo: DA DEFINIRE 
+Campo: Comunale Mori 
 
-Indirizzo Campo:  da definire  - roma
+Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: Roma, Casapinta, Biella, Piemonte, 13853, Italia
-Geo: Geo(latitude=45.6135726, longitude=8.1967979)
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
