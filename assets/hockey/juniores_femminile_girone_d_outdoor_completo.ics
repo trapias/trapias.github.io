@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone D / Giornata 5\nGara 1157\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nPOL GALATEA - CUS CAGLIARI\n\nRisultato: 4-1
-GEO:37.529426;15.096557
-LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
-DTSTART:20260221T143000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone D / Giornata 5 - POL GALATEA - CUS CAGLIARI
-UID:b09f2faa-e812-46f8-b71f-39abd71c1aa5@b09f.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone D / Giornata 4\nGara 1156\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nPOL GALATEA - SG AMSICORA\n\nRisultato: 1-2
 GEO:37.529426;15.096557
 LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
 DTSTART:20260201T083000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone D / Giornata 4 - POL GALATEA - SG AMSICORA
-UID:0a4288a1-3aaa-4ffe-af7f-05632dd9e4b4@0a42.org
+UID:6e95c22e-f10b-47cb-863e-98d61d9ef2e7@6e95.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone D / Giornata 2\nGara 1082\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nCUS CAGLIARI - POL GALATEA\n\nRisultato: 2-4
@@ -23,7 +15,15 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251130T100000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone D / Giornata 2 - CUS CAGLIARI - POL GALATEA
-UID:89a39998-f7b3-4fc5-9783-2deee7eaeaa5@89a3.org
+UID:cb0bb0ff-721c-4718-8aa1-242672cf3cf2@cb0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone D / Giornata 5\nGara 1157\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nPOL GALATEA - CUS CAGLIARI\n\nRisultato: 4-1
+GEO:37.529426;15.096557
+LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
+DTSTART:20260221T143000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone D / Giornata 5 - POL GALATEA - CUS CAGLIARI
+UID:192a6589-5882-49a9-9b9f-1c3ed48fbff6@192a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone D / Giornata 6\nGara 1158\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - CUS CAGLIARI\n\nRisultato: 4-0
@@ -31,15 +31,7 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20260420T160000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone D / Giornata 6 - SG AMSICORA - CUS CAGLIARI
-UID:579e6050-0abd-43dd-a370-23c3ad02ba95@579e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone D / Giornata 3\nGara 1083\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nCUS CAGLIARI - SG AMSICORA\n\nRisultato: 0-4
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260218T183000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone D / Giornata 3 - CUS CAGLIARI - SG AMSICORA
-UID:0ddfc01c-08dc-4d7d-8b09-d4d1622a5f69@0ddf.org
+UID:18d6450c-ed21-4aa7-81ae-7b55947c2376@18d6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone D / Giornata 1\nGara 1081\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - POL GALATEA\n\nRisultato: 2-1
@@ -47,6 +39,14 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251129T150000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone D / Giornata 1 - SG AMSICORA - POL GALATEA
-UID:f7b4d591-412a-42d3-94f8-672679bc892e@f7b4.org
+UID:e2d03a07-2449-4a47-9736-4652c5dcf15c@e2d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone D / Giornata 3\nGara 1083\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nCUS CAGLIARI - SG AMSICORA\n\nRisultato: 0-4
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20260218T183000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone D / Giornata 3 - CUS CAGLIARI - SG AMSICORA
+UID:ae5be8e2-986a-4dff-bf6d-74f85488a243@ae5b.org
 END:VEVENT
 END:VCALENDAR

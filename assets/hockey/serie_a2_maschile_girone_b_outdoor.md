@@ -254,7 +254,7 @@ Geo: Geo(latitude=40.465627, longitude=17.735612)
 
 # Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 6
 
-## Dom 10/05/2026 15.00
+## Dom 17/05/2026 15.00
 
 <strong>HC VILLAFRANCA - HC OLIMPIA</strong>
 

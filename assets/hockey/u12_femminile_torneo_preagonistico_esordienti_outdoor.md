@@ -2,7 +2,7 @@
 
 # U12 Femminile - Torneo Preagonistico Esordienti / Giornata 1
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>CUS TORINO - SQUADRA JOLLY</strong>
 
@@ -16,7 +16,7 @@ Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemon
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>HF LORENZONI - SQUADRA JOLLY</strong>
 
@@ -30,7 +30,7 @@ Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Pie
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>HOCKEY CLUB ARGENTIA - SQUADRA JOLLY</strong>
 
@@ -44,7 +44,7 @@ Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>HOCKEY CLUB RIVA - SQUADRA JOLLY</strong>
 
@@ -58,7 +58,7 @@ Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Ga
 Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>CSP SAN GIORGIO - SQUADRA JOLLY</strong>
 
@@ -72,7 +72,7 @@ Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>HF GENOVA 1980 - SQUADRA JOLLY</strong>
 
@@ -86,7 +86,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Sab 22/11/2025 11.00
+## Dom 14/06/2026 11.00
 
 <strong>HC GENOVA - SQUADRA JOLLY</strong>
 
@@ -100,7 +100,7 @@ Location: 20 rosso, Via Fieschi, Sant'Andrea, Portoria, Centro Est, Genova, Ligu
 Geo: Geo(latitude=44.4058513, longitude=8.9372219)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>ASD SUPERBA HC - SQUADRA JOLLY</strong>
 
@@ -114,7 +114,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>CUS PISA ASD - SQUADRA JOLLY</strong>
 
@@ -128,7 +128,7 @@ Location: Via Federico Chiarugi, Pratale, Pisa, Toscana, 56127, Italia
 Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>H.POTENZA PICENA - SQUADRA JOLLY</strong>
 
@@ -142,7 +142,7 @@ Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>ASD HOCKEY CLUB MOGLIANO - SQUADRA JOLLY</strong>
 
@@ -156,7 +156,7 @@ Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerat
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 
-## Sab 14/02/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>LAZIO HOCKEY - SQUADRA JOLLY</strong>
 
@@ -184,7 +184,7 @@ Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>HOCKEY CLUB OLIMPIA - SQUADRA JOLLY</strong>
 
@@ -198,7 +198,7 @@ Location: Torre Santa Susanna, Brindisi, Puglia, 72028, Italia
 Geo: Geo(latitude=40.465627, longitude=17.735612)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>SG AMSICORA - SQUADRA JOLLY</strong>
 
@@ -212,7 +212,7 @@ Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>SPORT AND GO - SQUADRA JOLLY</strong>
 
@@ -226,7 +226,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>AZ HOCKEY TEAM - SQUADRA JOLLY</strong>
 
@@ -240,7 +240,7 @@ Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>ASD SPORT LIFE - SQUADRA JOLLY</strong>
 
@@ -254,7 +254,7 @@ Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicc
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>ASD HOCKEY CLUB ERCHIE SANTA LUCIA - SQUADRA JOLLY</strong>
 
@@ -268,7 +268,7 @@ Location: Torre Santa Susanna, Brindisi, Puglia, 72028, Italia
 Geo: Geo(latitude=40.465627, longitude=17.735612)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>HC LARIO - SQUADRA JOLLY</strong>
 
@@ -282,7 +282,7 @@ Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>ASD ADIGE UHC - SQUADRA JOLLY</strong>
 
@@ -296,7 +296,7 @@ Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>CUS PADOVA - SQUADRA JOLLY</strong>
 
@@ -310,7 +310,7 @@ Location: Padova, Veneto, Italia
 Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>HC RAINBOW - SQUADRA JOLLY</strong>
 
@@ -324,7 +324,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>ASD HOCKEY CLUB BONDENO - SQUADRA JOLLY</strong>
 
@@ -338,7 +338,7 @@ Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrare
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
-## Sab 14/02/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>HOCKEY CLUB ROMA - SQUADRA JOLLY</strong>
 
@@ -352,7 +352,7 @@ Location: Romano, Via Fratelli Cairoli, Romano di Lombardia, Bergamo, Lombardia,
 Geo: Geo(latitude=45.5238156, longitude=9.7535313)
 
 
-## Sab 14/02/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>BUTTERFLY ROMA - SQUADRA JOLLY</strong>
 
@@ -366,7 +366,7 @@ Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capital
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>CIRCOLO POLICORO MAGNA GRECIA - SQUADRA JOLLY</strong>
 
@@ -380,7 +380,7 @@ Location: Via del Lido, Policoro, Matera, Basilicata, 75025, Italia
 Geo: Geo(latitude=40.2074524, longitude=16.6862181)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>POLISPORTIVA VALDAGRI - SQUADRA JOLLY</strong>
 
@@ -394,7 +394,7 @@ Location: San Martino d'Agri, Potenza, Basilicata, Italia
 Geo: Geo(latitude=40.2397458, longitude=16.0530431)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>POL GALATEA - SQUADRA JOLLY</strong>
 
@@ -408,7 +408,7 @@ Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicc
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>HF LORENZONI 2 - SQUADRA JOLLY</strong>
 
@@ -422,7 +422,7 @@ Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Pie
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 
-## Dom 28/06/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>POL. VALVERDE INDOOR - SQUADRA JOLLY</strong>
 
@@ -436,7 +436,7 @@ Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catani
 Geo: Geo(latitude=37.5737465, longitude=15.121129)
 
 
-## Sab 07/03/2026 11.00
+## Dom 14/06/2026 11.00
 
 <strong>POLISPORTIVA L'AQUILA HOCKEY - SQUADRA JOLLY</strong>
 
