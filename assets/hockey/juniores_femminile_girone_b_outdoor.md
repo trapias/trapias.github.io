@@ -317,6 +317,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - HOCKEY CLUB ARGENTIA</strong>
 
+**Risultato: 2-0**
+
 Gara: 398
 
 Campo: CP BARCA 

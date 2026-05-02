@@ -82,6 +82,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>CUS TORINO - HF GENOVA 1980</strong>
 
+**Risultato: 2-0**
+
 Gara: 1352
 
 Campo: Tazzoli 

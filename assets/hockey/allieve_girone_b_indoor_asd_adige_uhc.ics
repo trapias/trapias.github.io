@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone B / Giornata 1\nGara 334\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nHOCKEY CLUB RIVA - ASD ADIGE UHC\n\nRisultato: 0-2
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251221T100000Z
-SUMMARY:Allieve  - Girone B / Giornata 1 - HOCKEY CLUB RIVA - ASD ADIGE UHC
-UID:51a024d6-07a2-4c4b-9ab7-02dd1e074c63@51a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone B / Giornata 1\nGara 338\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - ASD ADIGE UHC\n\nRisultato: 1-0
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251221T150000Z
-SUMMARY:Allieve  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
-UID:87690369-c89a-43ce-a27d-b18ef07d2f67@8769.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone B / Giornata 2\nGara 343\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CUS PADOVA ASD\n\nRisultato: 2-5
+DESCRIPTION:Allieve  - Girone B / Giornata 2\nGara 339\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY CLUB RIVA\n\nRisultato: 4-1
 GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260201T140000Z
-SUMMARY:Allieve  - Girone B / Giornata 2 - ASD ADIGE UHC - CUS PADOVA ASD
-UID:b97a52c2-c944-4fef-b36b-2942c6099d54@b97a.org
+DTSTART:20260201T090000Z
+SUMMARY:Allieve  - Girone B / Giornata 2 - ASD ADIGE UHC - HOCKEY CLUB RIVA
+UID:11925447-fa89-479c-9b24-76801ac8c89c@1192.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone B / Giornata 2\nGara 342\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - ASD HOCKEY CLUB BONDENO\n\nRisultato: 1-4
@@ -31,7 +15,23 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260201T123000Z
 SUMMARY:Allieve  - Girone B / Giornata 2 - ASD ADIGE UHC - ASD HOCKEY CLUB BONDENO
-UID:5951c40e-aab2-4e25-a2da-e2618fb5f5a5@5951.org
+UID:61aa9b85-d483-4038-b7a8-8638578363cf@61aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve  - Girone B / Giornata 1\nGara 334\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nHOCKEY CLUB RIVA - ASD ADIGE UHC\n\nRisultato: 0-2
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251221T100000Z
+SUMMARY:Allieve  - Girone B / Giornata 1 - HOCKEY CLUB RIVA - ASD ADIGE UHC
+UID:a969700e-1957-42e8-82f2-5e6a9c87aad3@a969.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve  - Girone B / Giornata 1\nGara 338\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD HOCKEY CLUB BONDENO - ASD ADIGE UHC\n\nRisultato: 1-0
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251221T150000Z
+SUMMARY:Allieve  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC
+UID:084f81e6-16b4-4b77-a8ba-a46189bbe86b@084f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone B / Giornata 1\nGara 336\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD ADIGE UHC - CUS PADOVA ASD\n\nRisultato: 0-3
@@ -39,14 +39,14 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20251221T130000Z
 SUMMARY:Allieve  - Girone B / Giornata 1 - ASD ADIGE UHC - CUS PADOVA ASD
-UID:16eb293c-dad2-454d-8d0f-c5481640eeea@16eb.org
+UID:6ffe4cbb-8898-45b9-b65d-e98e99e847a9@6ffe.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone B / Giornata 2\nGara 339\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY CLUB RIVA\n\nRisultato: 4-1
+DESCRIPTION:Allieve  - Girone B / Giornata 2\nGara 343\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CUS PADOVA ASD\n\nRisultato: 2-5
 GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260201T090000Z
-SUMMARY:Allieve  - Girone B / Giornata 2 - ASD ADIGE UHC - HOCKEY CLUB RIVA
-UID:b06e0797-b975-4fa9-9c13-f8ba4b13b482@b06e.org
+DTSTART:20260201T140000Z
+SUMMARY:Allieve  - Girone B / Giornata 2 - ASD ADIGE UHC - CUS PADOVA ASD
+UID:694ae265-2c56-4eb0-a448-95fda160afc0@694a.org
 END:VEVENT
 END:VCALENDAR

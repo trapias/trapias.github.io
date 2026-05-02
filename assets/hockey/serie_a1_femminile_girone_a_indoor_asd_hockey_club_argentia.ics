@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone A / Giornata 2\nGara 445\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nUSD MONCALVESE HOCKEY - ASD HOCKEY CLUB ARGENTIA\n\nRisultato: 4-2
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone A / Giornata 2\nGara 442\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD HOCKEY CLUB ARGENTIA - CUS TORINO\n\nRisultato: 7-7
 GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20251207T133000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone A / Giornata 2 - USD MONCALVESE HOCKEY - ASD HOCKEY CLUB ARGENTIA
-UID:ca3053eb-663c-4096-b01c-588cfd5aaf1e@ca30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone A / Giornata 1\nGara 440\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nHOCKEY PRATO VALCHISONE FEMMINILE - ASD HOCKEY CLUB ARGENTIA\n\nRisultato: 1-6
-GEO:45.016586;7.656535
-LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
-DTSTART:20251129T153000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone A / Giornata 1 - HOCKEY PRATO VALCHISONE FEMMINILE - ASD HOCKEY CLUB ARGENTIA
-UID:404edec7-f4a1-482c-8ae2-297cc4f95a8c@404e.org
+DTSTART:20251207T100000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone A / Giornata 2 - ASD HOCKEY CLUB ARGENTIA - CUS TORINO
+UID:70f3cacb-2ea6-4a63-8090-06b5d71db924@70f3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone A / Giornata 3\nGara 446\nC.S. SEVENINFINITY - VIA TOSCANA\, 7 GORGONZOLA\nCUS TORINO - ASD HOCKEY CLUB ARGENTIA\n\nRisultato: 1-5
@@ -23,7 +15,15 @@ GEO:45.531630;9.415835
 LOCATION:7\, Via Toscana\, Carcassola\, Cascina Mirabello\, Gorgonzola\, Milano\, Lombardia\, 20064\, Italia
 DTSTART:20251221T083000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone A / Giornata 3 - CUS TORINO - ASD HOCKEY CLUB ARGENTIA
-UID:e3375c5c-2a18-4e15-91f2-3c0f15f06c30@e337.org
+UID:ab50d63f-a22b-4186-a6fd-72a963474ffe@ab50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone A / Giornata 1\nGara 440\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nHOCKEY PRATO VALCHISONE FEMMINILE - ASD HOCKEY CLUB ARGENTIA\n\nRisultato: 1-6
+GEO:45.016586;7.656535
+LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
+DTSTART:20251129T153000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone A / Giornata 1 - HOCKEY PRATO VALCHISONE FEMMINILE - ASD HOCKEY CLUB ARGENTIA
+UID:35700b3f-f6ef-4954-a3ec-594ce816ac3f@3570.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone A / Giornata 3\nGara 449\nC.S. SEVENINFINITY - VIA TOSCANA\, 7 GORGONZOLA\nASD HOCKEY CLUB ARGENTIA - HOCKEY PRATO VALCHISONE FEMMINILE\n\nRisultato: 3-3
@@ -31,7 +31,7 @@ GEO:45.531630;9.415835
 LOCATION:7\, Via Toscana\, Carcassola\, Cascina Mirabello\, Gorgonzola\, Milano\, Lombardia\, 20064\, Italia
 DTSTART:20251221T120000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone A / Giornata 3 - ASD HOCKEY CLUB ARGENTIA - HOCKEY PRATO VALCHISONE FEMMINILE
-UID:45c98043-e213-4713-8b76-174329fe969e@45c9.org
+UID:e3cf594e-d506-47ff-a595-0d3b649f634d@e3cf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone A / Giornata 1\nGara 439\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nASD HOCKEY CLUB ARGENTIA - USD MONCALVESE HOCKEY\n\nRisultato: 1-1
@@ -39,14 +39,14 @@ GEO:45.016586;7.656535
 LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
 DTSTART:20251129T140000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone A / Giornata 1 - ASD HOCKEY CLUB ARGENTIA - USD MONCALVESE HOCKEY
-UID:054b75a6-3a5a-42d8-99e7-f2e6a1420bd5@054b.org
+UID:e0c3d060-71f4-4c47-846d-c6454b611735@e0c3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone A / Giornata 2\nGara 442\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD HOCKEY CLUB ARGENTIA - CUS TORINO\n\nRisultato: 7-7
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone A / Giornata 2\nGara 445\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nUSD MONCALVESE HOCKEY - ASD HOCKEY CLUB ARGENTIA\n\nRisultato: 4-2
 GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20251207T100000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone A / Giornata 2 - ASD HOCKEY CLUB ARGENTIA - CUS TORINO
-UID:3805efa8-9bc7-40cc-a4e7-4d10d98668d9@3805.org
+DTSTART:20251207T133000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone A / Giornata 2 - USD MONCALVESE HOCKEY - ASD HOCKEY CLUB ARGENTIA
+UID:54c2c261-3854-4e8d-b62d-9098f3abb218@54c2.org
 END:VEVENT
 END:VCALENDAR

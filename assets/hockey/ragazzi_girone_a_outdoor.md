@@ -367,6 +367,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>HCU RASSEMBLEMENT TORINO - SCUOLA HOCKEY INDER SINGH</strong>
 
+**Risultato: 2-1**
+
 Gara: 1309
 
 Campo: Tazzoli 
@@ -380,6 +382,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 ## Ven 01/05/2026 12.00
 
 <strong>HCU RASSEMBLEMENT TORINO RIS - SCUOLA HOCKEY INDER SINGH</strong>
+
+**Risultato: 0-2**
 
 Gara: 1310
 

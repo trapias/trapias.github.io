@@ -232,6 +232,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>SPORT AND GO - CUS PISA ASD</strong>
 
+**Risultato: 3-1**
+
 Gara: 1244
 
 Campo: CAMPO G.ARNALDI 
