@@ -496,6 +496,8 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 <strong>BUTTERFLY ROMA - TEVERE EUR H</strong>
 
+**Risultato: 3-2**
+
 Gara: 29
 
 Campo: CENTRO GIULIO ONESTI 
@@ -509,6 +511,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 ## Sab 02/05/2026 15.00
 
 <strong>HC BRA - POL FERRINI</strong>
+
+**Risultato: 5-4**
 
 Gara: 30
 
@@ -524,6 +528,8 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 <strong>SG AMSICORA - LAZIO HOCKEY</strong>
 
+**Risultato: 3-5**
+
 Gara: 31
 
 Campo: AMSICORA 
@@ -538,6 +544,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 ## Sab 02/05/2026 15.00 ⭐
 
 <strong>H CITTA' DEL TRICOLORE - HP VALCHISONE</strong>
+
+**Risultato: 1-1**
 
 Gara: 32
 

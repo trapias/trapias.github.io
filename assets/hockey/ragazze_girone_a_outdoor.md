@@ -287,6 +287,8 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 <strong>HF LORENZONI - USD MONCALVESE HOCKEY</strong>
 
+**Risultato: 13-0**
+
 Gara: 1366
 
 Campo: Augusto Lorenzoni 

@@ -418,7 +418,7 @@ Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
-## Dom 03/05/2026 15.00
+## Dom 03/05/2026 14.30
 
 <strong>HF LORENZONI - CUS TORINO</strong>
 

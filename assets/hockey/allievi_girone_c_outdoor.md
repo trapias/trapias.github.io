@@ -530,6 +530,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>ASD BAD LAKE HOCKEY - GENOVA H 1980 DRITTO</strong>
 
+**Risultato: 2-4**
+
 Gara: 1205
 
 Campo: CAMPO G.ARNALDI 
@@ -595,6 +597,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC GENOVA - CUS PISA ASD</strong>
 
+**Risultato: 9-1**
+
 Gara: 1209
 
 Campo: CAMPO G.ARNALDI 
@@ -643,6 +647,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Sab 02/05/2026 18.00
 
 <strong>HC GENOVA RAINBOW - CUS PISA ASD</strong>
+
+**Risultato: 3-5**
 
 Gara: 1212
 
