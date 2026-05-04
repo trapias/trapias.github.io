@@ -419,6 +419,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>HCU RASSEMBLEMENT TORINO - A.S.D. S.H. PAOLO BONOMI</strong>
 
+**Risultato: 9-0**
+
 Gara: 1312
 
 Campo: Tazzoli 
@@ -432,6 +434,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 ## Dom 03/05/2026 15.00
 
 <strong>HCU RASSEMBLEMENT TORINO RIS - A.S.D. S.H. PAOLO BONOMI</strong>
+
+**Risultato: 1-2**
 
 Gara: 1313
 

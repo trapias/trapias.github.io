@@ -359,6 +359,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>HP VALCHISONE - ASD CERNUSCO FIELD HOCKEY</strong>
 
+**Risultato: 3-0**
+
 Gara: 1304
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 
@@ -374,6 +376,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 ## Dom 03/05/2026 11.00
 
 <strong>SCUOLA HOCKEY INDER SINGH - USD MONCALVESE HOCKEY</strong>
+
+**Risultato: 3-4**
 
 Gara: 1305
 

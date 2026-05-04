@@ -310,6 +310,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC SAVONA - GENOVA H 1980</strong>
 
+**Risultato: 0-2**
+
 Gara: 1219
 
 Campo: Campo Sportivo Augusto Briano 

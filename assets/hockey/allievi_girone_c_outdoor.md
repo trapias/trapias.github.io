@@ -667,6 +667,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>ASD BAD LAKE HOCKEY - ASD BAD LAKE HOCKEY B</strong>
 
+**Risultato: 6-10**
+
 Gara: 1213
 
 Campo: CAMPO G.ARNALDI 

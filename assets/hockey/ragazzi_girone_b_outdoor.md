@@ -442,6 +442,8 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 <strong>CUS PADOVA ASD - HOCKEY TRIESTE 2012</strong>
 
+**Risultato: 5-0**
+
 Gara: 426
 
 Campo: Impianti L. Merigliano 

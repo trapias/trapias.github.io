@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone C / Giornata 1\nGara 269\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC RAINBOW SAMPIERDARENA - HC SAVONA\n\nRisultato: 1-5
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251214T110000Z
-SUMMARY:Allieve  - Girone C / Giornata 1 - HC RAINBOW SAMPIERDARENA - HC SAVONA
-UID:3fad81ba-4daa-4cbe-bea1-e7bc606eaa14@3fad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 273\nPalaRomanzi - viale Gambaro\, 66 Genova\nCUS PISA ASD - HC RAINBOW SAMPIERDARENA\n\nRisultato: 11-0
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260105T110000Z
-SUMMARY:Allieve  - Girone C / Giornata 2 - CUS PISA ASD - HC RAINBOW SAMPIERDARENA
-UID:a4bd5412-fc1e-44e7-b963-5b7d507cf9d4@a4bd.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 275\nPalaRomanzi - viale Gambaro\, 66 Genova\nHC SAVONA - HC RAINBOW SAMPIERDARENA\n\nRisultato: 7-0
 GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20260105T150000Z
 SUMMARY:Allieve  - Girone C / Giornata 2 - HC SAVONA - HC RAINBOW SAMPIERDARENA
-UID:76f2d452-9b4e-44d5-b139-a21905c976c3@76f2.org
+UID:488e2ad5-2be0-445f-ba3b-3041bd8a0177@488e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve  - Girone C / Giornata 1\nGara 269\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC RAINBOW SAMPIERDARENA - HC SAVONA\n\nRisultato: 1-5
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251214T110000Z
+SUMMARY:Allieve  - Girone C / Giornata 1 - HC RAINBOW SAMPIERDARENA - HC SAVONA
+UID:46edb3a8-010c-4dd5-b9cb-551da8d16c12@46ed.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 1\nGara 270\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHF GENOVA 1980 - HC RAINBOW SAMPIERDARENA\n\nRisultato: 4-1
@@ -31,7 +23,7 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251214T130000Z
 SUMMARY:Allieve  - Girone C / Giornata 1 - HF GENOVA 1980 - HC RAINBOW SAMPIERDARENA
-UID:6d5da748-1833-44f9-9f6b-863ca72549f8@6d5d.org
+UID:ed2fa78e-c44a-418b-9584-00323c0810d8@ed2f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 3\nGara 276\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC RAINBOW SAMPIERDARENA - CUS PISA ASD\n\nRisultato: 0-8
@@ -39,7 +31,15 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260207T084500Z
 SUMMARY:Allieve  - Girone C / Giornata 3 - HC RAINBOW SAMPIERDARENA - CUS PISA ASD
-UID:24198791-bcaf-4214-8ebe-873751817e7a@2419.org
+UID:4e2c792e-f1b9-42ff-a602-8ea759c87306@4e2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 273\nPalaRomanzi - viale Gambaro\, 66 Genova\nCUS PISA ASD - HC RAINBOW SAMPIERDARENA\n\nRisultato: 11-0
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20260105T110000Z
+SUMMARY:Allieve  - Girone C / Giornata 2 - CUS PISA ASD - HC RAINBOW SAMPIERDARENA
+UID:70a5cd96-2426-4d5d-9ed3-bae46edaa29f@70a5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 3\nGara 278\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC RAINBOW SAMPIERDARENA - HF GENOVA 1980\n\nRisultato: 1-4
@@ -47,6 +47,6 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260207T113000Z
 SUMMARY:Allieve  - Girone C / Giornata 3 - HC RAINBOW SAMPIERDARENA - HF GENOVA 1980
-UID:602e411b-3ad7-4647-8612-c0600333bf48@602e.org
+UID:8a6cb854-3133-417c-9d11-56385e4d7b07@8a6c.org
 END:VEVENT
 END:VCALENDAR

@@ -333,6 +333,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>BUTTERFLY ROMA - HOCKEY CLUB ROMA</strong>
 
+**Risultato: 10-0**
+
 Gara: 292
 
 Campo: CENTRO GIULIO ONESTI 

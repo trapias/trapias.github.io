@@ -408,6 +408,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>MILANO HP - SG AMSICORA</strong>
 
+**Risultato: 0-1**
+
 Gara: 916
 
 Campo: Campo Comunale 
@@ -421,6 +423,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 ## Dom 03/05/2026 14.30
 
 <strong>HF LORENZONI - CUS TORINO</strong>
+
+**Risultato: 3-0**
 
 Gara: 917
 
@@ -436,6 +440,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>UH CAPITOLINA - LAZIO HOCKEY</strong>
 
+**Risultato: 1-1**
+
 Gara: 918
 
 Campo: EUROMA STADIUM 
@@ -449,6 +455,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 ## Dom 03/05/2026 15.00
 
 <strong>HT FEMM BOLOGNA - BUTTERFLY ROMA</strong>
+
+**Risultato: 1-2**
 
 Gara: 919
 
