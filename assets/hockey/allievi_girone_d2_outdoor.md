@@ -162,6 +162,8 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>ASD HOCKEY CLUB MOGLIANO - HOCKEY CLUB OLIMPIA</strong>
 
+**Risultato: 3-3**
+
 Gara: 595
 
 Campo: Sintetico Comunale 
@@ -330,6 +332,8 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 ## Dom 03/05/2026 10.30
 
 <strong>HOCKEY CLUB OLIMPIA - ASD HOCKEY CLUB MOGLIANO</strong>
+
+**Risultato: 5-5**
 
 Gara: 605
 

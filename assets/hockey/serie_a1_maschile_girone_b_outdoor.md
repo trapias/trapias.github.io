@@ -418,7 +418,7 @@ Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
-## Sab 16/05/2026 15.00
+## Sab 16/05/2026 13.00
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA - SUPERBA HC</strong>
 

@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 272\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PADOVA ASD\n\nRisultato: 1-5
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20260308T100000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 5 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PADOVA ASD
-UID:9c1d390d-67c7-44f9-b362-9ce610f00580@9c1d.org
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 376\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HC VILLAFRANCA
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20260510T110000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 9 - CUS PADOVA ASD - HC VILLAFRANCA
+UID:9b6b736f-c40e-4a74-a44c-413a427c1996@9b6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 269\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - CUS PADOVA ASD\n\nRisultato: 2-2
+LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
+DTSTART:20251102T100000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 4 - HC VILLAFRANCA - CUS PADOVA ASD
+UID:01e60fe3-f329-47a5-bb99-2ed0abe0d3df@01e6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 267\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - CUS PADOVA ASD\n\nRisultato: 4-3
@@ -15,22 +22,7 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20251026T100000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 3 - CSP SAN GIORGIO - CUS PADOVA ASD
-UID:bb8b9d5c-41a0-411c-8078-c0b606d5a2ca@bb8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 376\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HC VILLAFRANCA
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20260510T110000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 9 - CUS PADOVA ASD - HC VILLAFRANCA
-UID:95536ae7-8522-410a-97d4-6fe2041aa085@9553.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 269\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - CUS PADOVA ASD\n\nRisultato: 2-2
-LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
-DTSTART:20251102T100000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 4 - HC VILLAFRANCA - CUS PADOVA ASD
-UID:81fbaef6-0f34-48da-a9fe-81a45ca584f9@81fb.org
+UID:0be5031b-e949-4dc6-be0a-7834a731a3e8@0be5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 379\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 8-1
@@ -38,7 +30,15 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20260426T090000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 10 - CUS PADOVA ASD - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:5025e86b-ae64-4374-bd4c-d0be360fe554@5025.org
+UID:74b1404b-85e6-4ba2-91e4-384d97ba47f5@74b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 272\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PADOVA ASD\n\nRisultato: 1-5
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20260308T100000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 5 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PADOVA ASD
+UID:22be447d-e6d2-4a86-a1ad-f36e7df9f72d@22be.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 374\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - CSP SAN GIORGIO\n\nRisultato: 4-5
@@ -46,6 +46,6 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20260322T100000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 8 - CUS PADOVA ASD - CSP SAN GIORGIO
-UID:5fe1f02d-cd88-4b51-945d-95f4b340c02c@5fe1.org
+UID:483f4d48-6e30-42eb-9501-f7acb9978959@483f.org
 END:VEVENT
 END:VCALENDAR

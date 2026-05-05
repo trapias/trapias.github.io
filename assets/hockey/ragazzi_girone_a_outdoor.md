@@ -63,6 +63,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - HCU RASSEMBLEMENT TORINO</strong>
 
+**Risultato: 1-13**
+
 Gara: 683
 
 Campo: CENTRO S. COMUNALE 
@@ -249,6 +251,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - SCUOLA HOCKEY INDER SINGH</strong>
 
+**Risultato: 0-9**
+
 Gara: 694
 
 Campo: CENTRO S. COMUNALE 
@@ -266,8 +270,6 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 ## - ⭐
 
 <strong>A.S.D. S.H. PAOLO BONOMI - HP VALCHISONE</strong>
-
-**Risultato: 0-0**
 
 Gara: 695
 
@@ -402,6 +404,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 ## Dom 03/05/2026 13.30 ⭐
 
 <strong>HP VALCHISONE - ASD CERNUSCO FIELD HOCKEY</strong>
+
+**Risultato: 3-0**
 
 Gara: 1311
 
