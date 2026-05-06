@@ -825,7 +825,7 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 14
 
-## Dom 21/06/2026 15.00
+## Dom 21/06/2026 12.00
 
 <strong>SG AMSICORA - MILANO HP</strong>
 

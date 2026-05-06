@@ -2,7 +2,7 @@
 
 # Ragazzi - OUTDOOR  - Girone F / Giornata 1
 
-## -
+## Dom 10/05/2026 11.00
 
 <strong>POL GALATEA - HOCKEY CLUB OLIMPIA</strong>
 
