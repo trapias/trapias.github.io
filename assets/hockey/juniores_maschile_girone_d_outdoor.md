@@ -319,6 +319,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>LAZIO HOCKEY - TEVERE EUR H</strong>
 
+**Risultato: 0-4**
+
 Gara: 291
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

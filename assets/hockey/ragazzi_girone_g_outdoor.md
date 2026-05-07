@@ -160,6 +160,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA - POLISPORTIVA FERRINI</strong>
 
+**Risultato: 3-5**
+
 Gara: 1260
 
 Campo: Comunale Uras 

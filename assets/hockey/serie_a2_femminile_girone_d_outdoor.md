@@ -162,6 +162,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>CUS CAGLIARI - SG AMSICORA B</strong>
 
+**Risultato: 1-1**
+
 Gara: 1286
 
 Campo: AMSICORA 
