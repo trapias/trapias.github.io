@@ -7,13 +7,13 @@
     <description>Aggiornamenti per EasyRec</description>
     <language>it</language>
     <item>
-        <title>EasyRec 1.18</title>
-        <sparkle:version>13</sparkle:version>
-        <sparkle:shortVersionString>1.18</sparkle:shortVersionString>
-        <pubDate>Wed, 29 Apr 2026 12:21:28 +0200</pubDate>
+        <title>EasyRec 1.19</title>
+        <sparkle:version>14</sparkle:version>
+        <sparkle:shortVersionString>1.19</sparkle:shortVersionString>
+        <pubDate>Thu, 07 May 2026 12:39:40 +0200</pubDate>
         <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
         <description><![CDATA[
-<h2>easyRec 1.18</h2>
+<h2>easyRec 1.19</h2>
 <p><strong>MLX backend re-enabled</strong> — local LLMs now run on Apple Silicon GPU again, after the upstream <code>mlx-swift-lm</code> / <code>swift-transformers</code> conflict was resolved.</p>
 <ul>
 <li>WhisperKit bumped to 0.18.0 with backward-compatible API usage</li>
@@ -27,9 +27,9 @@
 <p><em>Requires Apple's Metal Toolchain (auto-prompted on macOS 26 if missing).</em></p>
         ]]></description>
         <enclosure
-            url="https://www.trapias.it/assets/Mac/easyRec/EasyRec-1.18.dmg"
-            sparkle:edSignature="W1iGxoEcd3bDCdNYDQaCE+rWOEGInKkT7GguVrwqkY02pCCSdnch23Y7/GaEmMHNnV5jMxpr1Colscg3YnjfBw=="
-            length="14766806"
+            url="https://www.trapias.it/assets/Mac/easyRec/EasyRec-1.19.dmg"
+            sparkle:edSignature="Bvr5q6KdK39Y4PbjJnmjA/yq9un8XGNzvExcHYjfIKCMoCaJREMBwTs9R6Vq4HD2sANbzBDDI6eruG773DNmCg=="
+            length="14813711"
             type="application/octet-stream" />
     </item>
 </channel>
