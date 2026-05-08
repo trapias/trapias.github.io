@@ -8,12 +8,12 @@
 
 Gara: 1063
 
-Campo: DUSMET 
+Campo: Sintetico Comunale 
 
-Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
+Indirizzo Campo:  Via Marrani, snc - Torre Santa Susanna
 
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
+Location: Torre Santa Susanna, Brindisi, Puglia, 72028, Italia
+Geo: Geo(latitude=40.465627, longitude=17.735612)
 
 
 

@@ -139,7 +139,7 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 # Juniores Maschile - OUTDOOR  - Girone A / Giornata 7
 
 <!-- VALCHISONE_START -->
-## Dom 10/05/2026 11.00 ⭐
+## Dom 10/05/2026 17.30 ⭐
 
 <strong>USD MONCALVESE HOCKEY - HP VALCHISONE</strong>
 
