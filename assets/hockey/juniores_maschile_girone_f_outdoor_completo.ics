@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone F / Giornata 4\nGara 1161\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nCUS CAGLIARI - SG AMSICORA\n\nRisultato: 1-1
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone F / Giornata 6\nGara 1163\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HT SARDEGNA\n\nRisultato: 2-0
 GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260211T183000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone F / Giornata 4 - CUS CAGLIARI - SG AMSICORA
-UID:cc0a6f7c-7fb6-49e8-8ec3-4861d5e08ad5@cc0a.org
+DTSTART:20260315T100000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone F / Giornata 6 - SG AMSICORA - HT SARDEGNA
+UID:3a0d2305-7ad6-4ba9-88ad-4a3eb08dfa01@3a0d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone F / Giornata 2\nGara 1160\nComunale Uras - VIA S. EMILIANO\, snc Uras\nCUS CAGLIARI - HT SARDEGNA\n\nRisultato: 10-0
@@ -15,23 +15,7 @@ GEO:39.694117;8.702129
 LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
 DTSTART:20260207T150000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone F / Giornata 2 - CUS CAGLIARI - HT SARDEGNA
-UID:7ee02ee0-3c78-4cf3-9bab-fcace7be23ff@7ee0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone F / Giornata 6\nGara 1163\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - HT SARDEGNA\n\nRisultato: 2-0
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20260315T100000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone F / Giornata 6 - SG AMSICORA - HT SARDEGNA
-UID:b097092a-3195-4e1d-bb92-0c2c32e38d37@b097.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone F / Giornata 1\nGara 1097\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - CUS CAGLIARI\n\nRisultato: 5-1
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20251115T140000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone F / Giornata 1 - SG AMSICORA - CUS CAGLIARI
-UID:32c422d0-f8af-40f0-a434-682ae51c8d75@32c4.org
+UID:121e2c86-21d2-4eb8-94d3-c48d7aac0f91@121e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone F / Giornata 3\nGara 1159\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - SG AMSICORA\n\nRisultato: 0-14
@@ -39,7 +23,15 @@ GEO:39.694117;8.702129
 LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
 DTSTART:20260308T103000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone F / Giornata 3 - HT SARDEGNA - SG AMSICORA
-UID:f0a839a6-0eba-4e7c-9f3a-c7324d65f9b0@f0a8.org
+UID:c5759e62-651b-4bee-9769-d80474083fe1@c575.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone F / Giornata 4\nGara 1161\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nCUS CAGLIARI - SG AMSICORA\n\nRisultato: 1-1
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20260211T183000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone F / Giornata 4 - CUS CAGLIARI - SG AMSICORA
+UID:d2c1fc0d-9d1f-48ce-bfcc-6d9e49fe812a@d2c1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone F / Giornata 5\nGara 1162\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - CUS CAGLIARI\n\nRisultato: 0-9
@@ -47,6 +39,14 @@ GEO:39.694117;8.702129
 LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
 DTSTART:20260307T150000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone F / Giornata 5 - HT SARDEGNA - CUS CAGLIARI
-UID:d0e8f87c-937a-4e51-8c99-87f41c9bbd41@d0e8.org
+UID:48bf5ad3-1388-4929-8430-2d481323916c@48bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone F / Giornata 1\nGara 1097\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - CUS CAGLIARI\n\nRisultato: 5-1
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20251115T140000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone F / Giornata 1 - SG AMSICORA - CUS CAGLIARI
+UID:80ec8533-4c70-4f0a-9de1-d13d68c20a7a@80ec.org
 END:VEVENT
 END:VCALENDAR

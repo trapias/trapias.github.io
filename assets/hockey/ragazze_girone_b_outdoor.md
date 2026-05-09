@@ -160,6 +160,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>CUS PADOVA ASD - ASD HOCKEY CLUB BONDENO</strong>
 
+**Risultato: 8-0**
+
 Gara: 439
 
 Campo: Impianti L. Merigliano 
