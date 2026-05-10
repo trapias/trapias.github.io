@@ -357,6 +357,8 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 <strong>HC VILLAFRANCA - HC GRANTORTO</strong>
 
+**Risultato: 4-0**
+
 Gara: 835
 
 Campo: Impianto comunale Nereo Faccioli 
@@ -369,6 +371,8 @@ Location:  Lamacchi - Tosoni - Via Porta, snc Villafranca di Verona
 ## Sab 09/05/2026 15.00
 
 <strong>HC OLIMPIA - POL GALATEA</strong>
+
+**Risultato: 2-10**
 
 Gara: 836
 
@@ -383,6 +387,8 @@ Geo: Geo(latitude=40.465627, longitude=17.735612)
 ## Sab 09/05/2026 15.00
 
 <strong>HC RIVA - CERNUSCO FH</strong>
+
+**Risultato: 4-0**
 
 Gara: 837
 

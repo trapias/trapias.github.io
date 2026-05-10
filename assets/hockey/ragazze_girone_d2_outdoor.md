@@ -92,6 +92,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>POL GALATEA - HOCKEY CLUB ROMA</strong>
 
+**Risultato: 7-1**
+
 Gara: 708
 
 Campo: DUSMET 

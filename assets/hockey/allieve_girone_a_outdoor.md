@@ -369,6 +369,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>HOCKEY PRATO VALCHISONE FEMMINILE - CUS TORINO</strong>
 
+**Risultato: 5-2**
+
 Gara: 1350
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 

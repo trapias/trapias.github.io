@@ -23,6 +23,8 @@ Geo: Geo(latitude=40.465627, longitude=17.735612)
 
 <strong>HOCKEY CLUB OLIMPIA - POL GALATEA</strong>
 
+**Risultato: 0-17**
+
 Gara: 1064
 
 Campo: Sintetico Comunale 

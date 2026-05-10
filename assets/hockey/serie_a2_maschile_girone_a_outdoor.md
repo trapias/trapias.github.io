@@ -363,6 +363,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>HC MOGLIANO - HCU RASSEMBLEMENT</strong>
 
+**Risultato: 2-0**
+
 Gara: 805
 
 Campo: BAGLIANO 
@@ -390,6 +392,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 ## Sab 09/05/2026 15.00
 
 <strong>MONCALVESE H - HC SAVONA</strong>
+
+**Risultato: 6-1**
 
 Gara: 807
 
