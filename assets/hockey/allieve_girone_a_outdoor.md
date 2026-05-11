@@ -351,6 +351,8 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 <strong>CUS TORINO - HC LARIO</strong>
 
+**Risultato: 1-6**
+
 Gara: 1349
 
 Campo: Tazzoli 

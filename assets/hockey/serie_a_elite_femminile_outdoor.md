@@ -475,6 +475,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>BUTTERFLY ROMA - SG AMSICORA</strong>
 
+**Risultato: 0-2**
+
 Gara: 920
 
 Campo: CENTRO GIULIO ONESTI 
@@ -488,6 +490,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 ## Dom 10/05/2026 15.00
 
 <strong>HF LORENZONI - LAZIO HOCKEY</strong>
+
+**Risultato: 3-2**
 
 Gara: 921
 
@@ -503,6 +507,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>CUS TORINO - UH CAPITOLINA</strong>
 
+**Risultato: 2-1**
+
 Gara: 922
 
 Campo: Tazzoli 
@@ -516,6 +522,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 ## Dom 10/05/2026 15.00
 
 <strong>HT FEMM BOLOGNA - MILANO HP</strong>
+
+**Risultato: 1-4**
 
 Gara: 923
 

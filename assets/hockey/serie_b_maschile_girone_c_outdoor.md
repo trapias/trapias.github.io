@@ -292,6 +292,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>AZ HOCKEY TEAM - HOCKEY CLUB EUR</strong>
 
+**Risultato: 6-1**
+
 Gara: 539
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 

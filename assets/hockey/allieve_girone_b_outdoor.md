@@ -274,6 +274,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
 
+**Risultato: 12-4**
+
 Gara: 494
 
 Campo: A. GIATTI 
@@ -287,6 +289,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Ven 01/05/2026 12.30
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
+
+**Risultato: 9-2**
 
 Gara: 495
 
@@ -365,6 +369,8 @@ Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 <strong>ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC</strong>
 
+**Risultato: 3-2**
+
 Gara: 500
 
 Campo: A. GIATTI 
@@ -378,6 +384,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Dom 03/05/2026 13.00
 
 <strong>ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC</strong>
+
+**Risultato: 3-11**
 
 Gara: 501
 

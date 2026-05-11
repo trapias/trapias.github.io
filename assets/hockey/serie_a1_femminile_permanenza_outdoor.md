@@ -41,6 +41,8 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 <strong>CUS PADOVA - MONCALVESE H</strong>
 
+**Risultato: 0-2**
+
 Gara: 870
 
 Campo: Impianti L. Merigliano 
@@ -54,6 +56,8 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 ## Dom 10/05/2026 15.00
 
 <strong>HC ARGENTIA - HF GENOVA 80</strong>
+
+**Risultato: 3-2**
 
 Gara: 871
 

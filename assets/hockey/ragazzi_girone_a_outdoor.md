@@ -458,6 +458,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>HCU RASSEMBLEMENT TORINO - ASD CERNUSCO FIELD HOCKEY</strong>
 
+**Risultato: 8-1**
+
 Gara: 1314
 
 Campo: Tazzoli 
@@ -471,6 +473,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 ## Dom 10/05/2026 17.00
 
 <strong>HCU RASSEMBLEMENT TORINO RIS - ASD CERNUSCO FIELD HOCKEY</strong>
+
+**Risultato: 2-3**
 
 Gara: 1315
 

@@ -41,6 +41,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HC RIVA - POL FERRINI</strong>
 
+**Risultato: 0-3**
+
 Gara: 882
 
 Campo: Comunale Mori 
@@ -54,6 +56,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 ## Dom 10/05/2026 15.00
 
 <strong>H.POTENZA PICENA - CUS PISA ASD</strong>
+
+**Risultato: 1-0**
 
 Gara: 883
 

@@ -284,6 +284,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HOCKEY CLUB ARGENTIA - CUS PADOVA ASD</strong>
 
+**Risultato: 0-1**
+
 Gara: 396
 
 Campo: Campo Comunale 

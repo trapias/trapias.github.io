@@ -143,6 +143,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>USD MONCALVESE HOCKEY - HP VALCHISONE</strong>
 
+**Risultato: 2-2**
+
 Gara: 640
 
 Campo: UMBERTO MICCO 

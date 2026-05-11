@@ -172,6 +172,8 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 <strong>CUS PADOVA ASD - HC VILLAFRANCA</strong>
 
+**Risultato: 8-2**
+
 Gara: 376
 
 Campo: Impianti L. Merigliano 

@@ -414,6 +414,8 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 <strong>HOCKEY CLUB RIVA - ASD ADIGE UHC</strong>
 
+**Risultato: 6-2**
+
 Gara: 424
 
 Campo: Comunale Mori 
@@ -427,6 +429,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 ## Dom 03/05/2026 11.00
 
 <strong>POLISPORTIVA CAMELOT - CSP SAN GIORGIO</strong>
+
+**Risultato: 0-6**
 
 Gara: 425
 
@@ -460,6 +464,8 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 ## Dom 10/05/2026 11.00
 
 <strong>CSP SAN GIORGIO - HOCKEY CLUB RIVA</strong>
+
+**Risultato: 3-1**
 
 Gara: 427
 

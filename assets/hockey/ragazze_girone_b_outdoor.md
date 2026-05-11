@@ -111,6 +111,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>ASD HOCKEY CLUB BONDENO - ASD ADIGE UHC</strong>
 
+**Risultato: 1-10**
+
 Gara: 436
 
 Campo: A. GIATTI 

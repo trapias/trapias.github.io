@@ -6,6 +6,8 @@
 
 <strong>POL GALATEA - HOCKEY CLUB OLIMPIA</strong>
 
+**Risultato: 9-2**
+
 Gara: 1063
 
 Campo: Sintetico Comunale 

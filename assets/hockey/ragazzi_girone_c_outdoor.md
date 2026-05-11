@@ -179,6 +179,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - HOCKEY TEAM BOLOGNA</strong>
 
+**Risultato: 2-3**
+
 Gara: 452
 
 Campo: Sport Arena 

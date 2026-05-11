@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 2\nGara 870\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - MONCALVESE H
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 5\nGara 876\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - CUS PADOVA
+GEO:45.050205;8.265038
+LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
+DTSTART:20260524T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 5 - MONCALVESE H - CUS PADOVA
+UID:38f603db-db7b-4b69-b446-b72b83dc7c01@38f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 2\nGara 870\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - MONCALVESE H\n\nRisultato: 0-2
 GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20260510T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 2 - CUS PADOVA - MONCALVESE H
-UID:4b4f5608-c76c-43d8-86ba-60ad322a4855@4b4f.org
+UID:5513bc15-d2f6-471e-bfe1-fc1aa8d11722@5513.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 1\nGara 869\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - HC ARGENTIA\n\nRisultato: 1-1
@@ -15,23 +23,7 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20260329T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 1 - CUS PADOVA - HC ARGENTIA
-UID:e9e2d9e1-7175-41b1-8ba4-44f2e7e0f363@e9e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 3\nGara 873\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 80 - CUS PADOVA
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20260517T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 3 - HF GENOVA 80 - CUS PADOVA
-UID:dc2f3936-1ab5-487c-ba97-26d35eb5928e@dc2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 4\nGara 875\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC ARGENTIA - CUS PADOVA\n\nRisultato: 3-3
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260426T140000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 4 - HC ARGENTIA - CUS PADOVA
-UID:7e2a7206-bee9-4ad1-ad58-3d6dffec5784@7e2a.org
+UID:12bda201-2681-4520-99d0-398269714100@12bd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 6\nGara 879\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - HF GENOVA 80
@@ -39,14 +31,22 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20260531T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 6 - CUS PADOVA - HF GENOVA 80
-UID:041e62ee-3acc-47b1-867e-9d73b89939df@041e.org
+UID:485e0da9-4005-42b2-b19b-9197dd67c4a2@485e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 5\nGara 876\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - CUS PADOVA
-GEO:45.050205;8.265038
-LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
-DTSTART:20260524T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 5 - MONCALVESE H - CUS PADOVA
-UID:c73efd6b-e333-4829-b158-c8b429704fa4@c73e.org
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 3\nGara 873\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 80 - CUS PADOVA
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20260517T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 3 - HF GENOVA 80 - CUS PADOVA
+UID:54e17cfa-1e3f-4210-b6b4-2eccd71280e7@54e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 4\nGara 875\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC ARGENTIA - CUS PADOVA\n\nRisultato: 3-3
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260426T140000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 4 - HC ARGENTIA - CUS PADOVA
+UID:58aa2670-bd8f-419d-88a7-9af8807b8436@58aa.org
 END:VEVENT
 END:VCALENDAR

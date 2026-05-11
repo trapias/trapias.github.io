@@ -261,6 +261,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC SAVONA - GENOVA H 1980 U18</strong>
 
+**Risultato: 4-1**
+
 Gara: 1216
 
 Campo: Campo Sportivo Augusto Briano 
