@@ -230,6 +230,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>H C ROMA  B - ASD HOCKEY CAMPAGNANO</strong>
 
+**Risultato: 5-1**
+
 Gara: 541
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

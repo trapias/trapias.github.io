@@ -127,6 +127,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>CUS CAGLIARI - A.S.D. POLISPORTIVA JUVENILIA</strong>
 
+**Risultato: 6-1**
+
 Gara: 1258
 
 Campo: Comunale Uras 

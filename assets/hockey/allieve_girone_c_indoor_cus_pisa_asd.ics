@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Allieve  - Girone C / Giornata 3\nGara 279\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - HC SAVONA\n\nRisultato: 5-1
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260207T123000Z
+SUMMARY:Allieve  - Girone C / Giornata 3 - CUS PISA ASD - HC SAVONA
+UID:da30f22d-858a-49b8-b8dd-94ebfe60ac7b@da30.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 273\nPalaRomanzi - viale Gambaro\, 66 Genova\nCUS PISA ASD - HC RAINBOW SAMPIERDARENA\n\nRisultato: 11-0
 GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20260105T110000Z
 SUMMARY:Allieve  - Girone C / Giornata 2 - CUS PISA ASD - HC RAINBOW SAMPIERDARENA
-UID:e334b419-4645-4793-aae8-c356b25d83fe@e334.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone C / Giornata 3\nGara 276\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC RAINBOW SAMPIERDARENA - CUS PISA ASD\n\nRisultato: 0-8
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260207T084500Z
-SUMMARY:Allieve  - Girone C / Giornata 3 - HC RAINBOW SAMPIERDARENA - CUS PISA ASD
-UID:3195ed12-a9e9-40b6-8ee4-064c2a9c6f4e@3195.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone C / Giornata 1\nGara 271\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC SAVONA - CUS PISA ASD\n\nRisultato: 5-2
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251214T140000Z
-SUMMARY:Allieve  - Girone C / Giornata 1 - HC SAVONA - CUS PISA ASD
-UID:65917d1e-2aea-499a-9544-6c0a69ee2da4@6591.org
+UID:55d14b37-3b3b-44b3-9396-0ad4cc1ce3b1@55d1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 1\nGara 268\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - HF GENOVA 1980\n\nRisultato: 8-0
@@ -31,7 +23,23 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251214T090000Z
 SUMMARY:Allieve  - Girone C / Giornata 1 - CUS PISA ASD - HF GENOVA 1980
-UID:5ed21cd1-b7e2-49a1-9220-bcafbf42b9c2@5ed2.org
+UID:79fac472-1fbf-4426-9060-d6c7652f8ed4@79fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve  - Girone C / Giornata 1\nGara 271\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC SAVONA - CUS PISA ASD\n\nRisultato: 5-2
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251214T140000Z
+SUMMARY:Allieve  - Girone C / Giornata 1 - HC SAVONA - CUS PISA ASD
+UID:ec4cba57-2708-49c4-8e0f-04469c82411a@ec4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve  - Girone C / Giornata 3\nGara 276\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC RAINBOW SAMPIERDARENA - CUS PISA ASD\n\nRisultato: 0-8
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260207T084500Z
+SUMMARY:Allieve  - Girone C / Giornata 3 - HC RAINBOW SAMPIERDARENA - CUS PISA ASD
+UID:1f10329c-0b71-494d-9f34-68248749ab86@1f10.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 274\nPalaRomanzi - viale Gambaro\, 66 Genova\nHF GENOVA 1980 - CUS PISA ASD\n\nRisultato: 0-11
@@ -39,14 +47,6 @@ GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20260105T130000Z
 SUMMARY:Allieve  - Girone C / Giornata 2 - HF GENOVA 1980 - CUS PISA ASD
-UID:b73d4597-6f89-44ab-af58-05b81a51cd15@b73d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone C / Giornata 3\nGara 279\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - HC SAVONA\n\nRisultato: 5-1
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260207T123000Z
-SUMMARY:Allieve  - Girone C / Giornata 3 - CUS PISA ASD - HC SAVONA
-UID:c60098a3-3977-41d0-993d-359591e60d42@c600.org
+UID:d2c61688-fce9-48a9-b679-2ccacd598119@d2c6.org
 END:VEVENT
 END:VCALENDAR

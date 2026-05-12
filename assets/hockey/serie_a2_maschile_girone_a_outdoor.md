@@ -379,6 +379,8 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 <strong>HC ROMA - GENOVA H 1980</strong>
 
+**Risultato: 1-1**
+
 Gara: 806
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
