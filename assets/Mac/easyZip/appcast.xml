@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>easyZip Updates</title>
+        <link>https://www.trapias.it/assets/Mac/easyZip/appcast.xml</link>
+        <description>Updates for easyZip — a modern macOS archive browser.</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.1.0</title>
+            <pubDate>Tue, 12 May 2026 11:30:00 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>First public release</h3>
+                <ul>
+                    <li>Open ~20 archive formats (zip, 7z, tar.*, rar (read), gzip, bz2, xz, zstd, cpio, iso, ar, xar, lzh, deb, rpm, …)</li>
+                    <li>Browse contents in a Liquid-Glass-styled split view</li>
+                    <li>Extract everything or just the entries you select</li>
+                    <li>Drag entries out to the Finder; preview with Quick Look (Space)</li>
+                    <li>Create new archives (ZIP incl. AES-256, 7z, tar.*, gzip, bz2, xz, zstd)</li>
+                    <li>Search inside an archive, diff two archives, test integrity</li>
+                    <li>Shortcuts intents: Extract Archive, Compress Files, Test Archive</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://www.trapias.it/assets/Mac/easyZip/easyZip-0.1.0.dmg"
+                sparkle:edSignature="f914ep54VXpTCodmeKlMh1cB0kEd7r3rs7qY0z3+8xATLsypXGo4ImPovDZ5nk4bC3A/wIanFZyQPX5bHInoCw=="
+                length="2504360"
+                type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
