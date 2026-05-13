@@ -6,6 +6,26 @@
         <description>Updates for easyZip — a modern macOS archive browser.</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.1</title>
+            <pubDate>Wed, 13 May 2026 10:00:00 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>Bug fixes</h3>
+                <ul>
+                    <li>Fix: clicking on an entry in the archive browser now reliably selects it (previously the row-level drag handler intercepted mouse-down, so single clicks were silently swallowed and Quick Look via Space wouldn't trigger).</li>
+                    <li>Drag-out migrated from the legacy <code>.onDrag</code> API to the modern <code>Transferable</code> / <code>.draggable</code> API, which coexists cleanly with list selection — drag only begins after a small movement, leaving clicks free for selection.</li>
+                    <li>Selection is now cleared when a new archive is opened, so stale IDs from the previous archive don't shadow fresh rows.</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://www.trapias.it/assets/Mac/easyZip/easyZip-0.1.1.dmg"
+                sparkle:edSignature="MKtTtKRcB2zjb07T76fpTgIrKQjEZZomQidKfRHOcP2NQ1c4sZBOXu1qDyByXy0spYyPTiqLHoD4apSW9078CA=="
+                length="2529249"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.0</title>
             <pubDate>Tue, 12 May 2026 11:30:00 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
