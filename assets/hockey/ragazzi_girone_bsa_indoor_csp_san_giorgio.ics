@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSA / Giornata 1\nGara 396\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nCSP SAN GIORGIO - HOCKEY TEAM BOLOGNA\n\nRisultato: 3-2
-GEO:45.215044;11.606644
-LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
-DTSTART:20251207T113000Z
-SUMMARY:Ragazzi  - Girone BSA / Giornata 1 - CSP SAN GIORGIO - HOCKEY TEAM BOLOGNA
-UID:c09ef6e6-da01-43ed-a88b-345525e0ceb6@c09e.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 403\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nPOLISPORTIVA CAMELOT - CSP SAN GIORGIO\n\nRisultato: 1-5
 GEO:44.708262;10.635422
 LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
 DTSTART:20251214T123000Z
 SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - POLISPORTIVA CAMELOT - CSP SAN GIORGIO
-UID:ad433ead-101b-4603-b96b-e3908a1ba829@ad43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 404\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - CSP SAN GIORGIO\n\nRisultato: 1-8
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20251214T140000Z
-SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - CSP SAN GIORGIO
-UID:e0ae6ac2-7ba5-41eb-908b-e3e9a9376f0b@e0ae.org
+UID:debc56cb-d993-4306-b3ee-830414cac6c8@debc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 400\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nHOCKEY TEAM BOLOGNA - CSP SAN GIORGIO\n\nRisultato: 3-2
@@ -31,15 +15,23 @@ GEO:44.708262;10.635422
 LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
 DTSTART:20251214T090000Z
 SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - HOCKEY TEAM BOLOGNA - CSP SAN GIORGIO
-UID:f94c4de2-43b4-48e9-ba90-335ae1c83655@f94c.org
+UID:0f2272fd-1039-4a78-b24c-6939fb77aaeb@0f22.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone BSA / Giornata 1\nGara 399\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nCSP SAN GIORGIO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE\n\nRisultato: 9-1
+DESCRIPTION:Ragazzi  - Girone BSA / Giornata 1\nGara 396\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nCSP SAN GIORGIO - HOCKEY TEAM BOLOGNA\n\nRisultato: 3-2
 GEO:45.215044;11.606644
 LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
-DTSTART:20251207T150000Z
-SUMMARY:Ragazzi  - Girone BSA / Giornata 1 - CSP SAN GIORGIO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
-UID:02534d92-4106-48b7-bde3-6a94513450a1@0253.org
+DTSTART:20251207T113000Z
+SUMMARY:Ragazzi  - Girone BSA / Giornata 1 - CSP SAN GIORGIO - HOCKEY TEAM BOLOGNA
+UID:199c175d-0f53-4fa6-80a4-268ddadae36c@199c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone BSA / Giornata 2\nGara 404\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - CSP SAN GIORGIO\n\nRisultato: 1-8
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20251214T140000Z
+SUMMARY:Ragazzi  - Girone BSA / Giornata 2 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - CSP SAN GIORGIO
+UID:caecb876-e923-4cb8-af58-f943568eebf6@caec.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone BSA / Giornata 1\nGara 394\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nCSP SAN GIORGIO - POLISPORTIVA CAMELOT\n\nRisultato: 9-0
@@ -47,6 +39,14 @@ GEO:45.215044;11.606644
 LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
 DTSTART:20251207T090000Z
 SUMMARY:Ragazzi  - Girone BSA / Giornata 1 - CSP SAN GIORGIO - POLISPORTIVA CAMELOT
-UID:a19f4ab2-6c53-4caf-bac4-acb10f5cfa09@a19f.org
+UID:e033c5e6-b7c9-46ab-b4f3-a27ed2b7a52b@e033.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone BSA / Giornata 1\nGara 399\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nCSP SAN GIORGIO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE\n\nRisultato: 9-1
+GEO:45.215044;11.606644
+LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
+DTSTART:20251207T150000Z
+SUMMARY:Ragazzi  - Girone BSA / Giornata 1 - CSP SAN GIORGIO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
+UID:78be2708-0f4d-4668-a984-639878509f65@78be.org
 END:VEVENT
 END:VCALENDAR

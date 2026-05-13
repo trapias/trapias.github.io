@@ -251,6 +251,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>H.POTENZA PICENA - LAZIO HOCKEY</strong>
 
+**Risultato: 2-0**
+
 Gara: 287
 
 Campo: STADIO HOCKEY POTENZA PICENA 

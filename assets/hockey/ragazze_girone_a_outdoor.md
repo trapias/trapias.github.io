@@ -99,7 +99,7 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 # Ragazze - OUTDOOR  - Girone A / Giornata 5
 
 <!-- VALCHISONE_START -->
-## Sab 16/05/2026 15.00 ⭐
+## Ven 15/05/2026 18.15 ⭐
 
 <strong>CUS TORINO - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 

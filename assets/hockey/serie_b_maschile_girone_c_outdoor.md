@@ -245,7 +245,7 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 8
 
-## Dom 17/05/2026 11.00
+## Dom 17/05/2026 10.00
 
 <strong>H C ROMA  B - HOCKEY CLUB EUR</strong>
 
