@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 6\nGara 619\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - LAZIO HOCKEY\n\nRisultato: 0-3
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260419T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 6 - BUTTERFLY ROMA - LAZIO HOCKEY
-UID:1a7a352e-97f8-47c9-9d37-4e845af320cc@1a7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 2\nGara 612\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - AZ HOCKEY TEAM\n\nRisultato: 4-3
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20251026T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 2 - BUTTERFLY ROMA - AZ HOCKEY TEAM
-UID:22cbfdb4-9eef-4bfa-adc2-3cf52aba9575@22cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 5\nGara 618\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - BUTTERFLY ROMA\n\nRisultato: 1-9
-GEO:42.043231;13.437583
-LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
-DTSTART:20260320T180000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 5 - AZ HOCKEY TEAM - BUTTERFLY ROMA
-UID:59993987-d92b-40c7-a79a-f808eddfafd2@5999.org
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 1\nGara 610\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - BUTTERFLY ROMA\n\nRisultato: 16-1
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20251012T093000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 1 - H.POTENZA PICENA - BUTTERFLY ROMA
+UID:12a6047f-4d4d-4726-8b0a-de588e9c77e4@12a6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 3\nGara 613\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - BUTTERFLY ROMA\n\nRisultato: 1-2
@@ -31,7 +15,23 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20251123T100000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 3 - LAZIO HOCKEY - BUTTERFLY ROMA
-UID:b0ba6ac7-14b7-4d37-b780-15542e5828fd@b0ba.org
+UID:79465534-2f2c-470a-9965-2cd2c5e248cb@7946.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 5\nGara 618\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - BUTTERFLY ROMA\n\nRisultato: 1-9
+GEO:42.043231;13.437583
+LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
+DTSTART:20260320T180000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 5 - AZ HOCKEY TEAM - BUTTERFLY ROMA
+UID:6b48a950-30aa-42fe-8079-ade8cc93d521@6b48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 2\nGara 612\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - AZ HOCKEY TEAM\n\nRisultato: 4-3
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20251026T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 2 - BUTTERFLY ROMA - AZ HOCKEY TEAM
+UID:fed72390-2621-4e9d-a6db-061242da3445@fed7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 4\nGara 616\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - H.POTENZA PICENA\n\nRisultato: 1-5
@@ -39,14 +39,14 @@ GEO:41.932122;12.486847
 LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
 DTSTART:20260308T100000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 4 - BUTTERFLY ROMA - H.POTENZA PICENA
-UID:22d1688e-0919-4fd5-920d-df464539aa0e@22d1.org
+UID:2524867f-66fc-482f-8377-e624f7084223@2524.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 1\nGara 610\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - BUTTERFLY ROMA\n\nRisultato: 16-1
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20251012T093000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 1 - H.POTENZA PICENA - BUTTERFLY ROMA
-UID:3bbd15a0-8cdf-4e82-8d5c-a70ddc08bd97@3bbd.org
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 6\nGara 619\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - LAZIO HOCKEY\n\nRisultato: 0-3
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260419T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 6 - BUTTERFLY ROMA - LAZIO HOCKEY
+UID:1c60dde3-38d3-4e1a-bc94-fdfb87900fdc@1c60.org
 END:VEVENT
 END:VCALENDAR

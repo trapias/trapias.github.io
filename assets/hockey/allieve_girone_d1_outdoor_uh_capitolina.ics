@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 3\nGara 559\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - LAZIO HOCKEY\n\nRisultato: 9-2
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260302T163000Z
+SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 3 - UH CAPITOLINA - LAZIO HOCKEY
+UID:0b98c9c9-eb97-4dea-9299-a081ba1b078d@0b98.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 2\nGara 557\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - HOCKEY CLUB ROMA\n\nRisultato: 11-0
 GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20251101T150000Z
 SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 2 - UH CAPITOLINA - HOCKEY CLUB ROMA
-UID:50928c3c-ad62-4c3f-ae47-b859d31cdb96@5092.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 5\nGara 563\nCampo Comunale Oriolo Romano - Via G. Rodari\, 5 Oriolo Romano\nHOCKEY CLUB ROMA - UH CAPITOLINA\n\nRisultato: 2-5
-GEO:45.523816;9.753531
-LOCATION:Romano\, Via Fratelli Cairoli\, Romano di Lombardia\, Bergamo\, Lombardia\, 24058\, Italia
-DTSTART:20260321T100000Z
-SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 5 - HOCKEY CLUB ROMA - UH CAPITOLINA
-UID:780c6e3f-39cd-496e-ae0a-d7742a4860ed@780c.org
+UID:13940017-d96b-4841-852f-88c2e36ccf4e@1394.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 1\nGara 554\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - BUTTERFLY ROMA\n\nRisultato: 0-3
@@ -23,7 +23,15 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20251025T150000Z
 SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 1 - UH CAPITOLINA - BUTTERFLY ROMA
-UID:a499040e-f94e-427f-ba3b-eb3264741b6b@a499.org
+UID:ee65b36e-e7b3-4e41-ac7c-96c980ccac5f@ee65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 5\nGara 563\nCampo Comunale Oriolo Romano - Via G. Rodari\, 5 Oriolo Romano\nHOCKEY CLUB ROMA - UH CAPITOLINA\n\nRisultato: 2-5
+GEO:45.523816;9.753531
+LOCATION:Romano\, Via Fratelli Cairoli\, Romano di Lombardia\, Bergamo\, Lombardia\, 24058\, Italia
+DTSTART:20260321T100000Z
+SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 5 - HOCKEY CLUB ROMA - UH CAPITOLINA
+UID:013f4d6b-635e-4324-966f-aec2a363cec4@013f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 4\nGara 560\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - UH CAPITOLINA\n\nRisultato: 4-1
@@ -31,15 +39,7 @@ GEO:41.932122;12.486847
 LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
 DTSTART:20260315T140000Z
 SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 4 - BUTTERFLY ROMA - UH CAPITOLINA
-UID:1a01b44b-3914-45a2-bd08-7a1661d2fc8f@1a01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 3\nGara 559\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - LAZIO HOCKEY\n\nRisultato: 9-2
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260302T163000Z
-SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 3 - UH CAPITOLINA - LAZIO HOCKEY
-UID:5dd4b717-fdf1-4904-a1b5-20e2a4641435@5dd4.org
+UID:2baf48e4-2c0e-4ec8-a52c-51f5025b2687@2baf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 6\nGara 565\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - UH CAPITOLINA\n\nRisultato: 1-11
@@ -47,6 +47,6 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20260411T160000Z
 SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 6 - LAZIO HOCKEY - UH CAPITOLINA
-UID:940c492d-cdc1-4894-8fcc-bfe0b513d414@940c.org
+UID:c2694883-8df5-43d3-9375-0cec2bacb14c@c269.org
 END:VEVENT
 END:VCALENDAR
