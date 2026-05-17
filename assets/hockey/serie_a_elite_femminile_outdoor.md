@@ -580,7 +580,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Dom 17/05/2026 14.30
+## Dom 17/05/2026 15.00
 
 <strong>BUTTERFLY ROMA - HF LORENZONI</strong>
 

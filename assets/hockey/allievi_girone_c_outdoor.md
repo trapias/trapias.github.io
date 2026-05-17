@@ -465,6 +465,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>GENOVA H 1980 DRITTO - GENOVA H 1980 ROVESCIO</strong>
 
+**Risultato: 7-7**
+
 Gara: 1201
 
 Campo: CAMPO G.ARNALDI 

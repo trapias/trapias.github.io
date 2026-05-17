@@ -407,6 +407,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>CERNUSCO FH - HC VILLAFRANCA</strong>
 
+**Risultato: 2-1**
+
 Gara: 838
 
 Campo: Campo Comunale 
@@ -421,6 +423,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>POL GALATEA - HC GRANTORTO</strong>
 
+**Risultato: 2-1**
+
 Gara: 839
 
 Campo: DUSMET 
@@ -434,6 +438,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 ## Sab 16/05/2026 15.00
 
 <strong>HC OLIMPIA - HC RIVA</strong>
+
+**Risultato: 2-4**
 
 Gara: 840
 

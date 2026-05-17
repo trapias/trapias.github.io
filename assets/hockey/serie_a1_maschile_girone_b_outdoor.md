@@ -414,6 +414,8 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 <strong>H.POTENZA PICENA - S.H.P. BONOMI</strong>
 
+**Risultato: 3-2**
+
 Gara: 748
 
 Campo: STADIO HOCKEY POTENZA PICENA 
@@ -428,6 +430,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>A.S.D. POLISPORTIVA JUVENILIA - SUPERBA HC</strong>
 
+**Risultato: 3-1**
+
 Gara: 749
 
 Campo: Comunale Uras 
@@ -441,6 +445,8 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 ## Sab 16/05/2026 15.00
 
 <strong>HT BOLOGNA - CUS PISA ASD</strong>
+
+**Risultato: 5-1**
 
 Gara: 750
 

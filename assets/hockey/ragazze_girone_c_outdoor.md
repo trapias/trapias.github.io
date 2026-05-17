@@ -317,6 +317,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>SPORT AND GO - HC RAINBOW SAMPIERDARENA</strong>
 
+**Risultato: 8-1**
+
 Gara: 1249
 
 Campo: CAMPO G.ARNALDI 
@@ -330,6 +332,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Sab 16/05/2026 17.00
 
 <strong>HC GENOVA - CUS PISA ASD</strong>
+
+**Risultato: 3-1**
 
 Gara: 1250
 

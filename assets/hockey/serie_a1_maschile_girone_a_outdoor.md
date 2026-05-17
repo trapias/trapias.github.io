@@ -414,6 +414,8 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>ASD ADIGE UHC - CUS CAGLIARI</strong>
 
+**Risultato: 2-1**
+
 Gara: 778
 
 Campo: Comunale Mori 
@@ -428,6 +430,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>CUS PADOVA ASD - HT SARDEGNA</strong>
 
+**Risultato: 1-2**
+
 Gara: 779
 
 Campo: Grantorto Hockey Stadium 
@@ -441,6 +445,8 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 ## Sab 16/05/2026 15.00
 
 <strong>CSP SAN GIORGIO - HC BONDENO</strong>
+
+**Risultato: 2-5**
 
 Gara: 780
 

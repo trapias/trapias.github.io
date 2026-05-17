@@ -181,6 +181,8 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 <strong>ASD ADIGE UHC - CUS PADOVA ASD</strong>
 
+**Risultato: 0-4**
+
 Gara: 440
 
 Campo: Comunale Mori 

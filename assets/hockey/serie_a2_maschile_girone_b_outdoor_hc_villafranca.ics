@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 841\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - HC VILLAFRANCA
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20260523T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 10 - HC RIVA - HC VILLAFRANCA
-UID:8e2e4248-037a-47ab-b93f-929b04a1b479@8e2e.org
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 814\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - HC VILLAFRANCA\n\nRisultato: 2-4
+GEO:40.465627;17.735612
+LOCATION:Torre Santa Susanna\, Brindisi\, Puglia\, 72028\, Italia
+DTSTART:20260314T140000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 1 - HC OLIMPIA - HC VILLAFRANCA
+UID:f400014a-e863-4944-abc6-a10b38dea0cd@f400.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 823\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - CERNUSCO FH\n\nRisultato: 3-2
+LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
+DTSTART:20260411T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4 - HC VILLAFRANCA - CERNUSCO FH
+UID:b5da251b-a086-4841-aa78-354dc18024c7@b5da.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 820\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - HC VILLAFRANCA\n\nRisultato: 1-1
@@ -15,22 +22,7 @@ GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20260328T140000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 3 - HC GRANTORTO - HC VILLAFRANCA
-UID:067d03c4-f6f8-4154-99f6-1fc08da49806@067d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 823\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - CERNUSCO FH\n\nRisultato: 3-2
-LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
-DTSTART:20260411T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 4 - HC VILLAFRANCA - CERNUSCO FH
-UID:7e89751b-ed4d-4d71-828d-f570aab59cd8@7e89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 814\nSintetico Comunale - Via Marrani\, snc Torre Santa Susanna\nHC OLIMPIA - HC VILLAFRANCA\n\nRisultato: 2-4
-GEO:40.465627;17.735612
-LOCATION:Torre Santa Susanna\, Brindisi\, Puglia\, 72028\, Italia
-DTSTART:20260314T140000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 1 - HC OLIMPIA - HC VILLAFRANCA
-UID:1212d850-9a2b-4c3c-ae7b-50d7e69f6326@1212.org
+UID:78f20cfd-30d0-41c6-abfa-d2f24ffdc09d@78f2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 832\nDUSMET - VIA NUOVALUCELLO\, 132 Catania\nPOL GALATEA - HC VILLAFRANCA\n\nRisultato: 0-1
@@ -38,42 +30,50 @@ GEO:37.529426;15.096557
 LOCATION:Via Nuovalucello\, Villaggio Dusmet\, Picanello-Ognina-Barriera-Canalicchio\, Catania\, Sicilia\, 95126\, Italia
 DTSTART:20260502T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 7 - POL GALATEA - HC VILLAFRANCA
-UID:852dfcf6-9502-48dc-9089-6659d329c413@852d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 817\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - POL GALATEA\n\nRisultato: 1-2
-LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
-DTSTART:20260321T150000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2 - HC VILLAFRANCA - POL GALATEA
-UID:7e7905ba-4e4c-4fa4-bd3a-0b16e1847891@7e79.org
+UID:630709a1-398d-4e2a-881a-373de81b3acc@6307.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 826\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - HC RIVA\n\nRisultato: 4-3
 LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
 DTSTART:20260418T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 5 - HC VILLAFRANCA - HC RIVA
-UID:845e6dc9-a69d-44b0-8893-3e8278e6f4b1@845e.org
+UID:558942e7-5097-466b-8454-fbaf74ee5134@5589.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 838\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nCERNUSCO FH - HC VILLAFRANCA
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 841\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - HC VILLAFRANCA
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20260523T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 10 - HC RIVA - HC VILLAFRANCA
+UID:0cffacf8-f541-4455-8429-01a438f87b4b@0cff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 838\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nCERNUSCO FH - HC VILLAFRANCA\n\nRisultato: 2-1
 GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20260516T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 9 - CERNUSCO FH - HC VILLAFRANCA
-UID:fd7f2431-f8d5-4f0f-95d1-16a8eda20072@fd7f.org
+UID:a649093c-4787-4812-8a0d-0d887302bb9f@a649.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 829\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - HC OLIMPIA
 LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
 DTSTART:20260517T120000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 6 - HC VILLAFRANCA - HC OLIMPIA
-UID:66a4882b-c4ce-418e-b996-9645d30dc6f9@66a4.org
+UID:38f89587-14e8-45ba-9c76-e6da52a0a587@38f8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 835\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - HC GRANTORTO\n\nRisultato: 5-0
 LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
 DTSTART:20260509T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 8 - HC VILLAFRANCA - HC GRANTORTO
-UID:78448c81-6c4a-4991-a119-c9a89cf39187@7844.org
+UID:22001f69-78e9-41ad-a929-59a9f6f25f12@2200.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 817\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - POL GALATEA\n\nRisultato: 1-2
+LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
+DTSTART:20260321T150000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone B / Giornata 2 - HC VILLAFRANCA - POL GALATEA
+UID:d870f34c-e43f-400e-93fc-f73797d8ef32@d870.org
 END:VEVENT
 END:VCALENDAR

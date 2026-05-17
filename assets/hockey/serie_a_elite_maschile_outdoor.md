@@ -636,6 +636,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>H CITTA' DEL TRICOLORE - TEVERE EUR H</strong>
 
+**Risultato: 2-4**
+
 Gara: 37
 
 Campo: Sport Arena 
@@ -649,6 +651,8 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 ## Sab 16/05/2026 15.00
 
 <strong>SG AMSICORA - POL FERRINI</strong>
+
+**Risultato: 2-5**
 
 Gara: 38
 
@@ -664,6 +668,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>BUTTERFLY ROMA - LAZIO HOCKEY</strong>
 
+**Risultato: 2-1**
+
 Gara: 39
 
 Campo: CENTRO GIULIO ONESTI 
@@ -678,6 +684,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 ## Sab 16/05/2026 15.00 ⭐
 
 <strong>HC BRA - HP VALCHISONE</strong>
+
+**Risultato: 2-1**
 
 Gara: 40
 
