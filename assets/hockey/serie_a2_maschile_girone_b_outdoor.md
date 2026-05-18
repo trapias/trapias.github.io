@@ -258,6 +258,8 @@ Geo: Geo(latitude=40.465627, longitude=17.735612)
 
 <strong>HC VILLAFRANCA - HC OLIMPIA</strong>
 
+**Risultato: 9-0**
+
 Gara: 829
 
 Campo: Impianto comunale Nereo Faccioli 

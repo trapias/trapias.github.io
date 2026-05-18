@@ -76,6 +76,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>H.POTENZA PICENA - POL FERRINI</strong>
 
+**Risultato: 0-0**
+
 Gara: 884
 
 Campo: STADIO HOCKEY POTENZA PICENA 
@@ -89,6 +91,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 ## Dom 17/05/2026 16.00
 
 <strong>CUS PISA ASD - HC RIVA</strong>
+
+**Risultato: 1-0**
 
 Gara: 885
 

@@ -542,6 +542,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>SG AMSICORA - HT FEMM BOLOGNA</strong>
 
+**Risultato: 3-0**
+
 Gara: 924
 
 Campo: AMSICORA 
@@ -555,6 +557,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 ## Dom 17/05/2026 14.00
 
 <strong>MILANO HP - UH CAPITOLINA</strong>
+
+**Risultato: 1-2**
 
 Gara: 925
 
@@ -570,6 +574,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>LAZIO HOCKEY - CUS TORINO</strong>
 
+**Risultato: 2-0**
+
 Gara: 926
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
@@ -583,6 +589,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 ## Dom 17/05/2026 15.00
 
 <strong>BUTTERFLY ROMA - HF LORENZONI</strong>
+
+**Risultato: 2-1**
 
 Gara: 927
 

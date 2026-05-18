@@ -494,6 +494,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>HP VALCHISONE - SCUOLA HOCKEY INDER SINGH</strong>
 
+**Risultato: 2-6**
+
 Gara: 1316
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 

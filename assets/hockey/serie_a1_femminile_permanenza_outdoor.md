@@ -76,6 +76,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>HC ARGENTIA - MONCALVESE H</strong>
 
+**Risultato: 2-3**
+
 Gara: 872
 
 Campo: Campo Comunale 
@@ -89,6 +91,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 ## Dom 17/05/2026 15.00
 
 <strong>HF GENOVA 80 - CUS PADOVA</strong>
+
+**Risultato: 2-1**
 
 Gara: 873
 

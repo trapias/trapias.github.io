@@ -249,6 +249,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>H C ROMA  B - HOCKEY CLUB EUR</strong>
 
+**Risultato: 8-0**
+
 Gara: 536
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
