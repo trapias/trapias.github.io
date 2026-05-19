@@ -162,6 +162,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>AZ HOCKEY TEAM - LAZIO HOCKEY B</strong>
 
+**Risultato: 3-1**
+
 Gara: 525
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
