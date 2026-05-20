@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 4\nGara 874\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 80 - MONCALVESE H\n\nRisultato: 1-4
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20260419T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 4 - HF GENOVA 80 - MONCALVESE H
-UID:61263117-3c32-4b43-bfad-12308c321822@6126.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 1\nGara 868\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - HF GENOVA 80\n\nRisultato: 3-3
 GEO:45.050205;8.265038
 LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
 DTSTART:20260322T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 1 - MONCALVESE H - HF GENOVA 80
-UID:4877ba8e-66d4-4c3a-bafb-818a4b889ffd@4877.org
+UID:d2b3d105-9f09-4d00-b72f-cc5f12d8dd10@d2b3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 2\nGara 870\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - MONCALVESE H\n\nRisultato: 0-2
@@ -23,15 +15,7 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20260510T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 2 - CUS PADOVA - MONCALVESE H
-UID:1bf29e90-2618-4e29-886a-62d37a195ca8@1bf2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 3\nGara 872\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC ARGENTIA - MONCALVESE H\n\nRisultato: 2-3
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260517T140000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 3 - HC ARGENTIA - MONCALVESE H
-UID:03248ce3-bc48-469e-a258-fbef83eb9f21@0324.org
+UID:d559cf9f-81e1-4552-b503-c6f95683d4a6@d559.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 5\nGara 876\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - CUS PADOVA
@@ -39,7 +23,23 @@ GEO:45.050205;8.265038
 LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
 DTSTART:20260524T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 5 - MONCALVESE H - CUS PADOVA
-UID:bbbbd807-0874-4b01-b305-bf6de69efe67@bbbb.org
+UID:ce25e255-c458-4d2c-abf9-a2ee7bbe37dc@ce25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 4\nGara 874\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 80 - MONCALVESE H\n\nRisultato: 1-4
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20260419T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 4 - HF GENOVA 80 - MONCALVESE H
+UID:aa21a05f-82a5-492d-8923-584d3a9c8610@aa21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 3\nGara 872\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC ARGENTIA - MONCALVESE H\n\nRisultato: 2-3
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260517T140000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 3 - HC ARGENTIA - MONCALVESE H
+UID:521e409e-2930-4771-bee3-e9d6ed07254b@521e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 6\nGara 878\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - HC ARGENTIA
@@ -47,6 +47,6 @@ GEO:45.050205;8.265038
 LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
 DTSTART:20260531T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 6 - MONCALVESE H - HC ARGENTIA
-UID:6d4eeb78-610e-43d5-888a-eea5f2c95082@6d4e.org
+UID:ba91279f-d252-4fb6-bd97-b085f741ce70@ba91.org
 END:VEVENT
 END:VCALENDAR
