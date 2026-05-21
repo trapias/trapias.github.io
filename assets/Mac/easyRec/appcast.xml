@@ -7,29 +7,33 @@
     <description>Aggiornamenti per EasyRec</description>
     <language>it</language>
     <item>
-        <title>EasyRec 1.19</title>
-        <sparkle:version>14</sparkle:version>
-        <sparkle:shortVersionString>1.19</sparkle:shortVersionString>
-        <pubDate>Thu, 07 May 2026 12:39:40 +0200</pubDate>
+        <title>EasyRec 1.20</title>
+        <sparkle:version>15</sparkle:version>
+        <sparkle:shortVersionString>1.20</sparkle:shortVersionString>
+        <pubDate>Thu, 21 May 2026 08:25:56 +0200</pubDate>
         <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
         <description><![CDATA[
-<h2>easyRec 1.19</h2>
-<p><strong>MLX backend re-enabled</strong> — local LLMs now run on Apple Silicon GPU again, after the upstream <code>mlx-swift-lm</code> / <code>swift-transformers</code> conflict was resolved.</p>
+<h2>easyRec 1.20 — Voice Profiles</h2>
+<p><strong>Riconosci automaticamente le voci conosciute nei tuoi meeting.</strong> Da questa versione puoi enrollare le voci di colleghi, clienti o partecipanti ricorrenti: nei meeting successivi gli speaker rilevati dalla diarization verranno rinominati col nome reale invece di "Speaker 1", "Speaker 2"…</p>
 <ul>
-<li>WhisperKit bumped to 0.18.0 with backward-compatible API usage</li>
-<li>MLX models (Qwen 2.5 7B, Mistral 7B, Llama 3.1 8B, Gemma 2 9B) selectable from Settings → AI</li>
-<li>Auto-summary now auto-loads the MLX model on demand instead of silently failing</li>
-<li>New post-recording status banner with spinner: distinguishes downloading model (one-time ~4GB) from loading from cache (~30s) from generating</li>
-<li>Settings → AI model picker redesigned: tap-row to select, "Loaded in RAM" indicator, decoupled Download from active selection</li>
-<li>Long MLX loads now print a 10-second heartbeat to the log and cap at a 5-minute timeout instead of appearing frozen</li>
-<li>Fixed cache path mismatch that caused HuggingFace weights to be re-downloaded on every run</li>
+<li><strong>Nuovo tab "Voice Profiles" in Settings</strong> — lista profili, slider di "strictness" del riconoscimento (0.40↔0.60), gestione completa</li>
+<li><strong>Due modalità di enrollment:</strong>
+  <ul>
+    <li>Da registrazione esistente: scegli un file audio e, se contiene più voci, seleziona quale speaker enrollare</li>
+    <li>Registrazione live dal microfono: indicatore livello, contatore durata, guida adattiva sulla qualità</li>
+  </ul>
+</li>
+<li><strong>Multi-sample enrichment</strong> — i profili migliorano nel tempo aggiungendo nuovi sample (media pesata sugli embedding, L2-renormalizzata)</li>
+<li><strong>Riconoscimento automatico post-diarization</strong> — cosine distance contro i profili enrollati, assegnazione greedy mutually-exclusive (no doppia attribuzione)</li>
+<li><strong>Privacy by design</strong> — solo il centroide vocale (~1 KB per profilo) è memorizzato sul Mac. Né audio originale né file sorgente vengono salvati. Tutto on-device, nessun dato su Internet</li>
+<li>Settings UI allargata per ospitare il nuovo tab</li>
 </ul>
-<p><em>Requires Apple's Metal Toolchain (auto-prompted on macOS 26 if missing).</em></p>
+<p><em>Tecnicamente: 256-dim embeddings da FluidAudio, persistiti in SwiftData con storage esterno. Cosine threshold default 0.50, configurabile.</em></p>
         ]]></description>
         <enclosure
-            url="https://www.trapias.it/assets/Mac/easyRec/EasyRec-1.19.dmg"
-            sparkle:edSignature="Bvr5q6KdK39Y4PbjJnmjA/yq9un8XGNzvExcHYjfIKCMoCaJREMBwTs9R6Vq4HD2sANbzBDDI6eruG773DNmCg=="
-            length="14813711"
+            url="https://www.trapias.it/assets/Mac/easyRec/EasyRec-1.20.dmg"
+            sparkle:edSignature="g08zHvoCdICYPpoRPNCzr/AwotJt85doUi+IZgeA5v2Th9Yb8QinDcvCZjE6FB3c2rGDgEtYGfLBFIDqhF5HAQ=="
+            length="15001164"
             type="application/octet-stream" />
     </item>
 </channel>
