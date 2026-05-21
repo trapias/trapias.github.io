@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 768\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - HT SARDEGNA\n\nRisultato: 2-2
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260418T123000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5 - HC BONDENO - HT SARDEGNA
-UID:66cc9662-ab49-4b45-b866-9f1d6e010bf2@66cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 775\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nCUS CAGLIARI - HT SARDEGNA\n\nRisultato: 2-2
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20260509T150000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8 - CUS CAGLIARI - HT SARDEGNA
-UID:ae4f50ee-887f-481b-801a-1c877273b26a@ae4f.org
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 783\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - HC BONDENO
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20260523T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10 - HT SARDEGNA - HC BONDENO
+UID:06fbf78e-4da1-465f-9084-166716eea42b@06fb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 6\nGara 771\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HT SARDEGNA\n\nRisultato: 3-0
@@ -23,7 +15,15 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260425T133000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 6 - ASD ADIGE UHC - HT SARDEGNA
-UID:c7692cda-874e-4298-a866-348460c609d4@c769.org
+UID:3b2caa4a-c917-4356-ae3a-781af5e8dd15@3b2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 768\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHC BONDENO - HT SARDEGNA\n\nRisultato: 2-2
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260418T123000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 5 - HC BONDENO - HT SARDEGNA
+UID:885c5964-9116-483e-a172-c8aa97ae513e@885c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 759\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HT SARDEGNA\n\nRisultato: 1-2
@@ -31,47 +31,7 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20260321T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2 - CSP SAN GIORGIO - HT SARDEGNA
-UID:7778b15a-c4d1-4f03-bbc9-2d37a984b11c@7778.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4\nGara 764\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - CUS PADOVA ASD\n\nRisultato: 7-5
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20260411T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4 - HT SARDEGNA - CUS PADOVA ASD
-UID:175d829c-6897-43a5-a5b1-f8286c3c5b0e@175d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 1\nGara 756\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - ASD ADIGE UHC\n\nRisultato: 4-2
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20260314T140000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 1 - HT SARDEGNA - ASD ADIGE UHC
-UID:9b10cf02-c152-43b3-9faa-0909635c6025@9b10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 779\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nCUS PADOVA ASD - HT SARDEGNA\n\nRisultato: 1-2
-GEO:45.601581;11.733989
-LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20260516T123000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9 - CUS PADOVA ASD - HT SARDEGNA
-UID:e34825a8-24f9-4b37-ab11-5abbb41cb790@e348.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 783\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - HC BONDENO
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20260523T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 10 - HT SARDEGNA - HC BONDENO
-UID:38bc557f-c48d-4558-8af5-c4bb332ca16a@38bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3\nGara 760\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - CUS CAGLIARI\n\nRisultato: 2-2
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20260328T140000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3 - HT SARDEGNA - CUS CAGLIARI
-UID:e75e1b8f-5bdb-4424-aaa2-9b03c4e8c255@e75e.org
+UID:1c026288-4464-41b8-a945-8ce61cd2857c@1c02.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 7\nGara 774\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - CSP SAN GIORGIO\n\nRisultato: 8-3
@@ -79,6 +39,46 @@ GEO:39.694117;8.702129
 LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
 DTSTART:20260502T113000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 7 - HT SARDEGNA - CSP SAN GIORGIO
-UID:e50a5764-bafa-409d-a1ec-491e83891c43@e50a.org
+UID:9f0efd19-5005-4b6d-8ad7-d2763ce09711@9f0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 775\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nCUS CAGLIARI - HT SARDEGNA\n\nRisultato: 2-2
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20260509T150000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 8 - CUS CAGLIARI - HT SARDEGNA
+UID:19439c0e-1401-4cf5-8ef2-bf5bb94b0567@1943.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4\nGara 764\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - CUS PADOVA ASD\n\nRisultato: 7-5
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20260411T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 4 - HT SARDEGNA - CUS PADOVA ASD
+UID:ad182afe-eda2-421c-8d1a-fd7bd0329564@ad18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3\nGara 760\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - CUS CAGLIARI\n\nRisultato: 2-2
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20260328T140000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 3 - HT SARDEGNA - CUS CAGLIARI
+UID:ac2d7601-790a-43cd-8bed-8b3490b040aa@ac2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 779\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nCUS PADOVA ASD - HT SARDEGNA\n\nRisultato: 1-2
+GEO:45.601581;11.733989
+LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20260516T123000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 9 - CUS PADOVA ASD - HT SARDEGNA
+UID:88a1eab4-ec1a-4a6a-9bc7-463527e7a1a3@88a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 1\nGara 756\nComunale Uras - VIA S. EMILIANO\, snc Uras\nHT SARDEGNA - ASD ADIGE UHC\n\nRisultato: 4-2
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20260314T140000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 1 - HT SARDEGNA - ASD ADIGE UHC
+UID:c155bfe4-828f-407d-b41e-a7527c30dda6@c155.org
 END:VEVENT
 END:VCALENDAR

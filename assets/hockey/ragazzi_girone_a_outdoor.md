@@ -512,7 +512,7 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 # Ragazzi - OUTDOOR  - Girone A / Giornata 21
 
 <!-- VALCHISONE_START -->
-## Dom 31/05/2026 10.00 ⭐
+## Sab 06/06/2026 17.00 ⭐
 
 <strong>HP VALCHISONE - HCU RASSEMBLEMENT TORINO</strong>
 
