@@ -280,7 +280,7 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 9
 
-## Dom 31/05/2026 11.00
+## Mar 09/06/2026 20.30
 
 <strong>LAZIO HOCKEY B - H C ROMA  B</strong>
 

@@ -296,7 +296,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Sab 23/05/2026 17.00
+## Dom 07/06/2026 11.45
 
 <strong>HC RAINBOW SAMPIERDARENA - HF GENOVA 1980</strong>
 
