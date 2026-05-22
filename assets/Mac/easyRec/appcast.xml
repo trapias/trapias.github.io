@@ -7,33 +7,27 @@
     <description>Aggiornamenti per EasyRec</description>
     <language>it</language>
     <item>
-        <title>EasyRec 1.20</title>
-        <sparkle:version>15</sparkle:version>
-        <sparkle:shortVersionString>1.20</sparkle:shortVersionString>
-        <pubDate>Thu, 21 May 2026 08:25:56 +0200</pubDate>
+        <title>EasyRec 1.21</title>
+        <sparkle:version>16</sparkle:version>
+        <sparkle:shortVersionString>1.21</sparkle:shortVersionString>
+        <pubDate>Fri, 22 May 2026 08:23:08 +0200</pubDate>
         <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
         <description><![CDATA[
-<h2>easyRec 1.20 — Voice Profiles</h2>
-<p><strong>Riconosci automaticamente le voci conosciute nei tuoi meeting.</strong> Da questa versione puoi enrollare le voci di colleghi, clienti o partecipanti ricorrenti: nei meeting successivi gli speaker rilevati dalla diarization verranno rinominati col nome reale invece di "Speaker 1", "Speaker 2"…</p>
+<h2>easyRec 1.21 — Preview vocale nell'enrollment</h2>
+<p><strong>Disambigua "Speaker S1" da "Speaker S2" prima di salvare un Voice Profile.</strong> Quando crei un nuovo profilo da una registrazione con più voci, ora puoi premere ▶ accanto a ogni speaker per ascoltare un campione del suo parlato e capire al volo chi è chi, prima di scegliere quale enrollare.</p>
 <ul>
-<li><strong>Nuovo tab "Voice Profiles" in Settings</strong> — lista profili, slider di "strictness" del riconoscimento (0.40↔0.60), gestione completa</li>
-<li><strong>Due modalità di enrollment:</strong>
-  <ul>
-    <li>Da registrazione esistente: scegli un file audio e, se contiene più voci, seleziona quale speaker enrollare</li>
-    <li>Registrazione live dal microfono: indicatore livello, contatore durata, guida adattiva sulla qualità</li>
-  </ul>
-</li>
-<li><strong>Multi-sample enrichment</strong> — i profili migliorano nel tempo aggiungendo nuovi sample (media pesata sugli embedding, L2-renormalizzata)</li>
-<li><strong>Riconoscimento automatico post-diarization</strong> — cosine distance contro i profili enrollati, assegnazione greedy mutually-exclusive (no doppia attribuzione)</li>
-<li><strong>Privacy by design</strong> — solo il centroide vocale (~1 KB per profilo) è memorizzato sul Mac. Né audio originale né file sorgente vengono salvati. Tutto on-device, nessun dato su Internet</li>
-<li>Settings UI allargata per ospitare il nuovo tab</li>
+<li>Bottone play/stop inline in ogni riga di selezione speaker</li>
+<li>Riproduce il segmento più lungo di quello speaker, cappato a 6 secondi per non far aspettare</li>
+<li>Un solo audio attivo alla volta — premere play su un altro speaker ferma il precedente</li>
+<li>Auto-stop quando esci dallo step o chiudi il pannello</li>
 </ul>
-<p><em>Tecnicamente: 256-dim embeddings da FluidAudio, persistiti in SwiftData con storage esterno. Cosine threshold default 0.50, configurabile.</em></p>
+<p><em>Disponibile solo nel flusso "Da registrazione esistente" (nel live enrollment lo speaker è già unico). La preview legge il file sorgente che hai scelto: nessun audio viene copiato o conservato.</em></p>
+<p>Inoltre: rimossi due warning di build orfani nel package FluidAudio vendored.</p>
         ]]></description>
         <enclosure
-            url="https://www.trapias.it/assets/Mac/easyRec/EasyRec-1.20.dmg"
-            sparkle:edSignature="g08zHvoCdICYPpoRPNCzr/AwotJt85doUi+IZgeA5v2Th9Yb8QinDcvCZjE6FB3c2rGDgEtYGfLBFIDqhF5HAQ=="
-            length="15001164"
+            url="https://www.trapias.it/assets/Mac/easyRec/EasyRec-1.21.dmg"
+            sparkle:edSignature="GqSNSiQyhEx1joDqXQpcZoWE3GeZ6PmynxZ2eQzvd6Yz3gFUFxtQkdL/ZXYqX+PJI+hDx6PB3+vzVqXdyN89AQ=="
+            length="15010738"
             type="application/octet-stream" />
     </item>
 </channel>
