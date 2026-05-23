@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 2\nGara 612\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - AZ HOCKEY TEAM\n\nRisultato: 4-3
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20251026T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 2 - BUTTERFLY ROMA - AZ HOCKEY TEAM
-UID:52b13413-12df-484b-80e8-81585a972738@52b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 3\nGara 614\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - AZ HOCKEY TEAM\n\nRisultato: 10-1
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20260503T110000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 3 - H.POTENZA PICENA - AZ HOCKEY TEAM
-UID:263a6068-d805-4912-b1b3-8939739dbe75@263a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 4\nGara 615\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - AZ HOCKEY TEAM\n\nRisultato: 2-1
 GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20260308T100000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 4 - LAZIO HOCKEY - AZ HOCKEY TEAM
-UID:704a6184-d951-42d0-a4e7-521c554df62e@704a.org
+UID:a6c90d42-5cf3-42b3-9714-3388c90aa510@a6c9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 5\nGara 618\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - BUTTERFLY ROMA\n\nRisultato: 1-9
@@ -31,7 +15,23 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20260320T180000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 5 - AZ HOCKEY TEAM - BUTTERFLY ROMA
-UID:a64ae59b-5903-4495-95b2-8dda1f1b78b4@a64a.org
+UID:43a337b7-53ad-4287-b9ad-9f31eaa8e8ed@43a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 3\nGara 614\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - AZ HOCKEY TEAM\n\nRisultato: 10-1
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20260503T110000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 3 - H.POTENZA PICENA - AZ HOCKEY TEAM
+UID:1a289ce4-ccbf-450b-9236-fd54e59fe97a@1a28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 2\nGara 612\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - AZ HOCKEY TEAM\n\nRisultato: 4-3
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20251026T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 2 - BUTTERFLY ROMA - AZ HOCKEY TEAM
+UID:13dbde09-b2cb-4ff6-9b2b-8adf2f78570d@13db.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 1\nGara 609\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - LAZIO HOCKEY\n\nRisultato: 2-4
@@ -39,7 +39,7 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20251012T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 1 - AZ HOCKEY TEAM - LAZIO HOCKEY
-UID:2e64136e-8129-4178-9556-70e830772192@2e64.org
+UID:ab667e27-50bb-4509-8ff0-1ec375761c96@ab66.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 6\nGara 620\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - H.POTENZA PICENA\n\nRisultato: 2-9
@@ -47,6 +47,6 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20260419T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 6 - AZ HOCKEY TEAM - H.POTENZA PICENA
-UID:f1390013-32c7-4afd-a0fa-d315e5762473@f139.org
+UID:42a52384-0bca-4ecb-8b28-49d5d337bfdf@42a5.org
 END:VEVENT
 END:VCALENDAR

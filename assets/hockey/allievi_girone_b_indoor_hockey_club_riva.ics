@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone B / Giornata 1\nGara 419\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nCSP SAN GIORGIO - HOCKEY CLUB RIVA\n\nRisultato: 2-5
-GEO:45.458648;11.920175
-LOCATION:Cadoneghe\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20251221T100000Z
-SUMMARY:Allievi  - Girone B / Giornata 1 - CSP SAN GIORGIO - HOCKEY CLUB RIVA
-UID:4f40c5a3-77dc-4966-bbd2-6feb912b29b0@4f40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone B / Giornata 2\nGara 430\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD ADIGE UHC - HOCKEY CLUB RIVA
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260104T140000Z
-SUMMARY:Allievi  - Girone B / Giornata 2 - ASD ADIGE UHC - HOCKEY CLUB RIVA
-UID:6c4b3d86-b120-4379-810b-4a3901f1a266@6c4b.org
+DESCRIPTION:Allievi  - Girone B / Giornata 3\nGara 434\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nHOCKEY CLUB RIVA - POLISPORTIVA CAMELOT\n\nRisultato: 5-2
+GEO:45.215044;11.606644
+LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
+DTSTART:20260201T120000Z
+SUMMARY:Allievi  - Girone B / Giornata 3 - HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT
+UID:1a8e584e-d42c-4f4f-a39b-d47ce29f9f0e@1a8e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone B / Giornata 1\nGara 421\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nPOLISPORTIVA CAMELOT - HOCKEY CLUB RIVA\n\nRisultato: 0-13
@@ -23,39 +15,15 @@ GEO:45.458648;11.920175
 LOCATION:Cadoneghe\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20251221T120000Z
 SUMMARY:Allievi  - Girone B / Giornata 1 - POLISPORTIVA CAMELOT - HOCKEY CLUB RIVA
-UID:bedd2f94-cb52-4eaf-add1-8c3d67e93e13@bedd.org
+UID:4f7a8718-bcfd-4e18-a6c6-08466fa123eb@4f7a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone B / Giornata 2\nGara 427\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nCSP SAN GIORGIO - HOCKEY CLUB RIVA\n\nRisultato: 2-3
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20260104T110000Z
-SUMMARY:Allievi  - Girone B / Giornata 2 - CSP SAN GIORGIO - HOCKEY CLUB RIVA
-UID:8b9d34e7-60d0-493d-ae61-1e5b32114f31@8b9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone B / Giornata 3\nGara 432\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nASD HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA\n\nRisultato: 7-1
-GEO:45.215044;11.606644
-LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
-DTSTART:20260201T100000Z
-SUMMARY:Allievi  - Girone B / Giornata 3 - ASD HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA
-UID:6bb6a122-2881-4d9d-ac33-24fff4c52a32@6bb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone B / Giornata 3\nGara 434\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nHOCKEY CLUB RIVA - POLISPORTIVA CAMELOT\n\nRisultato: 5-2
-GEO:45.215044;11.606644
-LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
-DTSTART:20260201T120000Z
-SUMMARY:Allievi  - Girone B / Giornata 3 - HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT
-UID:b096d0a1-27a4-4d39-bc97-ce7cbee6a428@b096.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone B / Giornata 3\nGara 436\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nHOCKEY CLUB RIVA - ASD ADIGE UHC
-GEO:45.215044;11.606644
-LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
-DTSTART:20260201T140000Z
-SUMMARY:Allievi  - Girone B / Giornata 3 - HOCKEY CLUB RIVA - ASD ADIGE UHC
-UID:62c304c1-4548-40c5-9c3d-b3c85e1824cc@62c3.org
+DESCRIPTION:Allievi  - Girone B / Giornata 1\nGara 419\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nCSP SAN GIORGIO - HOCKEY CLUB RIVA\n\nRisultato: 2-5
+GEO:45.458648;11.920175
+LOCATION:Cadoneghe\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20251221T100000Z
+SUMMARY:Allievi  - Girone B / Giornata 1 - CSP SAN GIORGIO - HOCKEY CLUB RIVA
+UID:d5e46ebe-ac84-4458-bfba-2e362e1a0fbc@d5e4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone B / Giornata 1\nGara 423\nPALESTRA OLOF PALME - Cadoneghe (PD) - VIA IV NOVEMBRE\, 22 Cadoneghe\nASD HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA\n\nRisultato: 6-4
@@ -63,6 +31,38 @@ GEO:45.458648;11.920175
 LOCATION:Cadoneghe\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20251221T140000Z
 SUMMARY:Allievi  - Girone B / Giornata 1 - ASD HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA
-UID:84314294-19f1-408c-ba3f-91ddb1e3010d@8431.org
+UID:aec82c88-914b-49cf-b50a-f55247edfebb@aec8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone B / Giornata 3\nGara 436\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nHOCKEY CLUB RIVA - ASD ADIGE UHC
+GEO:45.215044;11.606644
+LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
+DTSTART:20260201T140000Z
+SUMMARY:Allievi  - Girone B / Giornata 3 - HOCKEY CLUB RIVA - ASD ADIGE UHC
+UID:9b512951-fe96-4c2e-9c49-6432dc37496e@9b51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone B / Giornata 2\nGara 430\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD ADIGE UHC - HOCKEY CLUB RIVA
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260104T140000Z
+SUMMARY:Allievi  - Girone B / Giornata 2 - ASD ADIGE UHC - HOCKEY CLUB RIVA
+UID:9b7e9699-c46f-410b-8be5-36b0e1386091@9b7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone B / Giornata 2\nGara 427\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nCSP SAN GIORGIO - HOCKEY CLUB RIVA\n\nRisultato: 2-3
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20260104T110000Z
+SUMMARY:Allievi  - Girone B / Giornata 2 - CSP SAN GIORGIO - HOCKEY CLUB RIVA
+UID:0599d912-be40-46f0-8613-ad3452a17c97@0599.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone B / Giornata 3\nGara 432\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nASD HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA\n\nRisultato: 7-1
+GEO:45.215044;11.606644
+LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
+DTSTART:20260201T100000Z
+SUMMARY:Allievi  - Girone B / Giornata 3 - ASD HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA
+UID:5f74feb3-c5cf-44c4-bacd-1a33834af5b6@5f74.org
 END:VEVENT
 END:VCALENDAR
