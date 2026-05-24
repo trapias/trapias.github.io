@@ -465,6 +465,8 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>CSP SAN GIORGIO - CUS CAGLIARI</strong>
 
+**Risultato: 4-2**
+
 Gara: 781
 
 Campo: campo hockey s. farinazzo 
@@ -479,6 +481,8 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>CUS PADOVA ASD - ASD ADIGE UHC</strong>
 
+**Risultato: 4-2**
+
 Gara: 782
 
 Campo: Impianti L. Merigliano 
@@ -492,6 +496,8 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 ## Sab 23/05/2026 15.00
 
 <strong>HT SARDEGNA - HC BONDENO</strong>
+
+**Risultato: 4-4**
 
 Gara: 783
 

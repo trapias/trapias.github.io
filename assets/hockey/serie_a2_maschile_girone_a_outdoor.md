@@ -465,6 +465,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC MOGLIANO - HC SAVONA</strong>
 
+**Risultato: 6-4**
+
 Gara: 811
 
 Campo: BAGLIANO 
@@ -479,6 +481,8 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 <strong>MONCALVESE H - HC ROMA</strong>
 
+**Risultato: 4-2**
+
 Gara: 812
 
 Campo: UMBERTO MICCO 
@@ -492,6 +496,8 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 ## Sab 23/05/2026 15.00
 
 <strong>HCU RASSEMBLEMENT - GENOVA H 1980</strong>
+
+**Risultato: 4-1**
 
 Gara: 813
 

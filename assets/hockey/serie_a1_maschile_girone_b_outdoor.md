@@ -465,6 +465,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>CUS PISA ASD - H.POTENZA PICENA</strong>
 
+**Risultato: 3-3**
+
 Gara: 751
 
 Campo: CAMPO HOCKEY PRATO 
@@ -479,6 +481,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>SUPERBA HC - S.H.P. BONOMI</strong>
 
+**Risultato: 5-3**
+
 Gara: 752
 
 Campo: CAMPO G.ARNALDI 
@@ -492,6 +496,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Sab 23/05/2026 15.00
 
 <strong>HT BOLOGNA - A.S.D. POLISPORTIVA JUVENILIA</strong>
+
+**Risultato: 1-1**
 
 Gara: 753
 
