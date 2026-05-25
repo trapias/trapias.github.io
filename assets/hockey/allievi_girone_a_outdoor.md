@@ -391,6 +391,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - SCUOLA HOCKEY INDER SINGH</strong>
 
+**Risultato: 4-1**
+
 Gara: 1333
 
 Campo: CENTRO S. COMUNALE 
@@ -405,6 +407,8 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 ## Dom 24/05/2026 11.15 ⭐
 
 <strong>HCU RASSEMBLEMENT TORINO - HP VALCHISONE</strong>
+
+**Risultato: 3-0**
 
 Gara: 1334
 
@@ -422,6 +426,8 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - SCUOLA HOCKEY INDER SINGH NEXT GEN</strong>
 
+**Risultato: 6-0**
+
 Gara: 1335
 
 Campo: CENTRO S. COMUNALE 
@@ -436,6 +442,8 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 ## Dom 24/05/2026 13.45 ⭐
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HP VALCHISONE</strong>
+
+**Risultato: 1-5**
 
 Gara: 1336
 
@@ -453,6 +461,8 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 <strong>SCUOLA HOCKEY INDER SINGH - HCU RASSEMBLEMENT TORINO</strong>
 
+**Risultato: 2-1**
+
 Gara: 1337
 
 Campo: CENTRO S. COMUNALE 
@@ -467,6 +477,8 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 ## Dom 24/05/2026 16.15 ⭐
 
 <strong>HP VALCHISONE - A.S.D. S.H. PAOLO BONOMI</strong>
+
+**Risultato: 1-5**
 
 Gara: 1338
 
@@ -483,6 +495,8 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 ## Dom 24/05/2026 17.30
 
 <strong>SCUOLA HOCKEY INDER SINGH NEXT GEN - ASD CERNUSCO FIELD HOCKEY</strong>
+
+**Risultato: 1-9**
 
 Gara: 1339
 

@@ -146,6 +146,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>MONCALVESE H - CUS PADOVA</strong>
 
+**Risultato: 1-0**
+
 Gara: 876
 
 Campo: UMBERTO MICCO 
@@ -159,6 +161,8 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 ## Dom 24/05/2026 15.00
 
 <strong>HF GENOVA 80 - HC ARGENTIA</strong>
+
+**Risultato: 2-0**
 
 Gara: 877
 

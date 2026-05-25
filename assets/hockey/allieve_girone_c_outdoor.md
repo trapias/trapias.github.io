@@ -152,6 +152,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HF GENOVA 1980 - CUS PISA ASD</strong>
 
+**Risultato: 1-12**
+
 Gara: 1253
 
 Campo: CAMPO G.ARNALDI 

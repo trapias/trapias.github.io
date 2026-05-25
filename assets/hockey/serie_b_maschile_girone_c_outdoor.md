@@ -267,6 +267,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>ASD HOCKEY CAMPAGNANO - AZ HOCKEY TEAM</strong>
 
+**Risultato: 2-5**
+
 Gara: 537
 
 Campo: CENTRO GIULIO ONESTI 

@@ -257,6 +257,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>USD MONCALVESE HOCKEY - MILANO HP</strong>
 
+**Risultato: 0-2**
+
 Gara: 1364
 
 Campo: UMBERTO MICCO 
