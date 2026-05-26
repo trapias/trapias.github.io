@@ -723,7 +723,7 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 12
 
-## Dom 07/06/2026 15.00
+## Dom 07/06/2026 11.30
 
 <strong>SG AMSICORA - HF LORENZONI</strong>
 

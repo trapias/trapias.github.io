@@ -492,8 +492,6 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>HC GRANTORTO - HC OLIMPIA</strong>
 
-**Risultato: 3-0**
-
 Gara: 843
 
 Campo: Grantorto Hockey Stadium 

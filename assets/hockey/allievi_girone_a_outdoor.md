@@ -319,7 +319,7 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>SCUOLA HOCKEY INDER SINGH - HP VALCHISONE</strong>
 
-**Risultato: 5-2**
+**Risultato: 5-3**
 
 Gara: 1324
 
@@ -372,7 +372,7 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>ASD CERNUSCO FIELD HOCKEY - SCUOLA HOCKEY INDER SINGH</strong>
 
-**Risultato: 9-0**
+**Risultato: 11-0**
 
 Gara: 1332
 
@@ -408,7 +408,7 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 <strong>HCU RASSEMBLEMENT TORINO - HP VALCHISONE</strong>
 
-**Risultato: 3-0**
+**Risultato: 9-0**
 
 Gara: 1334
 
@@ -443,7 +443,7 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HP VALCHISONE</strong>
 
-**Risultato: 1-5**
+**Risultato: 4-2**
 
 Gara: 1336
 
