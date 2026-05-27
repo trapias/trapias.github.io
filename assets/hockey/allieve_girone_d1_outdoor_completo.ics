@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 5\nGara 563\nCampo Comunale Oriolo Romano - Via G. Rodari\, 5 Oriolo Romano\nHOCKEY CLUB ROMA - UH CAPITOLINA\n\nRisultato: 2-5
-GEO:45.523816;9.753531
-LOCATION:Romano\, Via Fratelli Cairoli\, Romano di Lombardia\, Bergamo\, Lombardia\, 24058\, Italia
-DTSTART:20260321T100000Z
-SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 5 - HOCKEY CLUB ROMA - UH CAPITOLINA
-UID:9ab8498f-9ddf-4546-b3c0-69f12fc57b8a@9ab8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 3\nGara 558\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - HOCKEY CLUB ROMA\n\nRisultato: 7-0
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20251115T120000Z
-SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 3 - BUTTERFLY ROMA - HOCKEY CLUB ROMA
-UID:de600cb0-ca38-4044-a90f-e81cda5395d9@de60.org
+DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 1\nGara 555\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - HOCKEY CLUB ROMA\n\nRisultato: 1-7
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20251213T140000Z
+SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 1 - LAZIO HOCKEY - HOCKEY CLUB ROMA
+UID:3e3afb00-2622-4945-97a1-b17a2d64e3a8@3e3a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 4\nGara 561\nCampo Comunale Oriolo Romano - Via G. Rodari\, 5 Oriolo Romano\nHOCKEY CLUB ROMA - LAZIO HOCKEY\n\nRisultato: 6-1
@@ -23,15 +15,23 @@ GEO:45.523816;9.753531
 LOCATION:Romano\, Via Fratelli Cairoli\, Romano di Lombardia\, Bergamo\, Lombardia\, 24058\, Italia
 DTSTART:20260308T140000Z
 SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 4 - HOCKEY CLUB ROMA - LAZIO HOCKEY
-UID:88e8a829-ec30-4a0f-9824-d1d0135db0ba@88e8.org
+UID:a7ae3c11-0ceb-4beb-80ea-d6862a68b986@a7ae.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 2\nGara 557\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - HOCKEY CLUB ROMA\n\nRisultato: 11-0
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20251101T150000Z
-SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 2 - UH CAPITOLINA - HOCKEY CLUB ROMA
-UID:b837907e-7432-472a-9e15-30257d1934ce@b837.org
+DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 3\nGara 558\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - HOCKEY CLUB ROMA\n\nRisultato: 7-0
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20251115T120000Z
+SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 3 - BUTTERFLY ROMA - HOCKEY CLUB ROMA
+UID:bda68d41-facb-4638-80e8-9bfe708a0ba2@bda6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 5\nGara 563\nCampo Comunale Oriolo Romano - Via G. Rodari\, 5 Oriolo Romano\nHOCKEY CLUB ROMA - UH CAPITOLINA\n\nRisultato: 2-5
+GEO:45.523816;9.753531
+LOCATION:Romano\, Via Fratelli Cairoli\, Romano di Lombardia\, Bergamo\, Lombardia\, 24058\, Italia
+DTSTART:20260321T100000Z
+SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 5 - HOCKEY CLUB ROMA - UH CAPITOLINA
+UID:f2579d41-0395-4064-b8fa-96129632145e@f257.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 6\nGara 565\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - UH CAPITOLINA\n\nRisultato: 1-11
@@ -39,39 +39,7 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20260411T160000Z
 SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 6 - LAZIO HOCKEY - UH CAPITOLINA
-UID:d6b57331-793f-4163-8e0d-cd2dd8762d84@d6b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 4\nGara 560\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - UH CAPITOLINA\n\nRisultato: 4-1
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260315T140000Z
-SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 4 - BUTTERFLY ROMA - UH CAPITOLINA
-UID:5542cece-4099-4d25-a698-c7370fa52300@5542.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 2\nGara 556\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - LAZIO HOCKEY\n\nRisultato: 2-0
-GEO:41.932122;12.486847
-LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
-DTSTART:20260131T140000Z
-SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 2 - BUTTERFLY ROMA - LAZIO HOCKEY
-UID:c8ec749f-db16-4c8d-bf03-7595fdcc63c2@c8ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 5\nGara 562\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - BUTTERFLY ROMA\n\nRisultato: 0-8
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20260321T160000Z
-SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 5 - LAZIO HOCKEY - BUTTERFLY ROMA
-UID:535fd7ab-b2d7-4933-85fc-9e9688ca9537@535f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 6\nGara 564\nCampo Comunale Oriolo Romano - Via G. Rodari\, 5 Oriolo Romano\nHOCKEY CLUB ROMA - BUTTERFLY ROMA\n\nRisultato: 1-3
-GEO:45.523816;9.753531
-LOCATION:Romano\, Via Fratelli Cairoli\, Romano di Lombardia\, Bergamo\, Lombardia\, 24058\, Italia
-DTSTART:20260412T130000Z
-SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 6 - HOCKEY CLUB ROMA - BUTTERFLY ROMA
-UID:ad2cb53f-3af2-4613-be45-db3d29cd391a@ad2c.org
+UID:19868592-eaff-4fec-b53d-13a1fe5aba01@1986.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 1\nGara 554\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - BUTTERFLY ROMA\n\nRisultato: 0-3
@@ -79,7 +47,31 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20251025T150000Z
 SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 1 - UH CAPITOLINA - BUTTERFLY ROMA
-UID:d6b5cbd9-46f8-4f51-a573-3adb0fe0f89d@d6b5.org
+UID:c0e01544-8669-4e1b-80f7-fd085d7b030e@c0e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 5\nGara 562\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - BUTTERFLY ROMA\n\nRisultato: 0-8
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20260321T160000Z
+SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 5 - LAZIO HOCKEY - BUTTERFLY ROMA
+UID:88cbc21e-912c-4866-b1ff-ee5f846d5407@88cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 4\nGara 560\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - UH CAPITOLINA\n\nRisultato: 4-1
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260315T140000Z
+SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 4 - BUTTERFLY ROMA - UH CAPITOLINA
+UID:83dd71cd-5d9d-453b-92c1-afd1040b3deb@83dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 2\nGara 556\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - LAZIO HOCKEY\n\nRisultato: 2-0
+GEO:41.932122;12.486847
+LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
+DTSTART:20260131T140000Z
+SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 2 - BUTTERFLY ROMA - LAZIO HOCKEY
+UID:48fde10c-3399-47f4-8176-bac04a5d8105@48fd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 3\nGara 559\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - LAZIO HOCKEY\n\nRisultato: 9-2
@@ -87,14 +79,22 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20260302T163000Z
 SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 3 - UH CAPITOLINA - LAZIO HOCKEY
-UID:d6ea30b0-df33-458c-b629-d595baa87914@d6ea.org
+UID:2d744c6c-df29-4ea6-b200-3964a724f3e6@2d74.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 1\nGara 555\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - HOCKEY CLUB ROMA\n\nRisultato: 1-7
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20251213T140000Z
-SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 1 - LAZIO HOCKEY - HOCKEY CLUB ROMA
-UID:c8a17acd-9f14-4cc0-9ea5-1ac9d2624a6b@c8a1.org
+DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 2\nGara 557\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nUH CAPITOLINA - HOCKEY CLUB ROMA\n\nRisultato: 11-0
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20251101T150000Z
+SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 2 - UH CAPITOLINA - HOCKEY CLUB ROMA
+UID:5dc6ab1d-82ab-4b90-90dd-522fbbc5b8ad@5dc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone D1 / Giornata 6\nGara 564\nCampo Comunale Oriolo Romano - Via G. Rodari\, 5 Oriolo Romano\nHOCKEY CLUB ROMA - BUTTERFLY ROMA\n\nRisultato: 1-3
+GEO:45.523816;9.753531
+LOCATION:Romano\, Via Fratelli Cairoli\, Romano di Lombardia\, Bergamo\, Lombardia\, 24058\, Italia
+DTSTART:20260412T130000Z
+SUMMARY:Allieve - OUTDOOR  - Girone D1 / Giornata 6 - HOCKEY CLUB ROMA - BUTTERFLY ROMA
+UID:01d2d1ef-bb17-40a1-8d03-2fd14496fd62@01d2.org
 END:VEVENT
 END:VCALENDAR
