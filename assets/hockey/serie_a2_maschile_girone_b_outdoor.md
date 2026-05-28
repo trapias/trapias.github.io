@@ -488,7 +488,7 @@ Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
-## Sab 23/05/2026 15.00
+## Sab 06/06/2026 15.00
 
 <strong>HC GRANTORTO - HC OLIMPIA</strong>
 

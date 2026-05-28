@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone D2 / Giornata 3\nGara 568\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - ASD HOCKEY CLUB MOGLIANO\n\nRisultato: 2-5
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20251113T160000Z
-SUMMARY:Allieve - OUTDOOR  - Girone D2 / Giornata 3 - H.POTENZA PICENA - ASD HOCKEY CLUB MOGLIANO
-UID:6934c756-2672-44e5-905f-5c85699d7d0c@6934.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone D2 / Giornata 2\nGara 567\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - ASD HOCKEY CLUB MOGLIANO\n\nRisultato: 2-0
+DESCRIPTION:Allieve - OUTDOOR  - Girone D2 / Giornata 1\nGara 566\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - H.POTENZA PICENA\n\nRisultato: 8-0
 GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
-DTSTART:20251102T110000Z
-SUMMARY:Allieve - OUTDOOR  - Girone D2 / Giornata 2 - AZ HOCKEY TEAM - ASD HOCKEY CLUB MOGLIANO
-UID:d2bde62b-dc02-4069-b87e-ee4b438c92e3@d2bd.org
+DTSTART:20251123T120000Z
+SUMMARY:Allieve - OUTDOOR  - Girone D2 / Giornata 1 - AZ HOCKEY TEAM - H.POTENZA PICENA
+UID:3ffebf3b-a65f-4d85-a22b-393378eab5b5@3ffe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone D2 / Giornata 4\nGara 569\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - AZ HOCKEY TEAM\n\nRisultato: 2-4
@@ -23,7 +15,7 @@ GEO:43.386400;13.654670
 LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
 DTSTART:20260503T090000Z
 SUMMARY:Allieve - OUTDOOR  - Girone D2 / Giornata 4 - H.POTENZA PICENA - AZ HOCKEY TEAM
-UID:d1a51497-2bbf-409b-988f-fb9d1122c403@d1a5.org
+UID:8968f746-b81c-4841-bb71-6d49b8b9839b@8968.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone D2 / Giornata 5\nGara 570\nBAGLIANO - STRADA PROVINCIALE 72\, 25 MOGLIANO\nASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM\n\nRisultato: 2-1
@@ -31,7 +23,23 @@ GEO:43.172615;13.487342
 LOCATION:Strada Provinciale 72 Mogliano - Fiume\, Piani d'Ete\, Mogliano\, Macerata\, Marche\, 63834\, Italia
 DTSTART:20260429T160000Z
 SUMMARY:Allieve - OUTDOOR  - Girone D2 / Giornata 5 - ASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM
-UID:9a416735-1133-449d-83ad-beaf360c4f5c@9a41.org
+UID:3f8b5d62-8c96-4e99-8a3c-0391da075363@3f8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone D2 / Giornata 2\nGara 567\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - ASD HOCKEY CLUB MOGLIANO\n\nRisultato: 2-0
+GEO:42.043231;13.437583
+LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
+DTSTART:20251102T110000Z
+SUMMARY:Allieve - OUTDOOR  - Girone D2 / Giornata 2 - AZ HOCKEY TEAM - ASD HOCKEY CLUB MOGLIANO
+UID:05417699-6cf1-458d-8575-5636178f1129@0541.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone D2 / Giornata 3\nGara 568\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - ASD HOCKEY CLUB MOGLIANO\n\nRisultato: 2-5
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20251113T160000Z
+SUMMARY:Allieve - OUTDOOR  - Girone D2 / Giornata 3 - H.POTENZA PICENA - ASD HOCKEY CLUB MOGLIANO
+UID:65bf6d68-63ca-419c-baa6-9bd8c84815b6@65bf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone D2 / Giornata 6\nGara 571\nBAGLIANO - STRADA PROVINCIALE 72\, 25 MOGLIANO\nASD HOCKEY CLUB MOGLIANO - H.POTENZA PICENA\n\nRisultato: 3-0
@@ -39,14 +47,6 @@ GEO:43.172615;13.487342
 LOCATION:Strada Provinciale 72 Mogliano - Fiume\, Piani d'Ete\, Mogliano\, Macerata\, Marche\, 63834\, Italia
 DTSTART:20260408T160000Z
 SUMMARY:Allieve - OUTDOOR  - Girone D2 / Giornata 6 - ASD HOCKEY CLUB MOGLIANO - H.POTENZA PICENA
-UID:7e6cff05-20f5-43cc-a596-9b157cd0f623@7e6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone D2 / Giornata 1\nGara 566\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - H.POTENZA PICENA\n\nRisultato: 8-0
-GEO:42.043231;13.437583
-LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
-DTSTART:20251123T120000Z
-SUMMARY:Allieve - OUTDOOR  - Girone D2 / Giornata 1 - AZ HOCKEY TEAM - H.POTENZA PICENA
-UID:0669011d-cde0-44c3-a127-991cffea7cca@0669.org
+UID:aeb7039a-61d9-4ce5-8746-bdb323b43742@aeb7.org
 END:VEVENT
 END:VCALENDAR
