@@ -315,7 +315,7 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 10
 
-## Dom 07/06/2026 11.30
+## Dom 07/06/2026 10.30
 
 <strong>HOCKEY CLUB EUR - ASD HOCKEY CAMPAGNANO</strong>
 
