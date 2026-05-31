@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 3\nGara 677\nCAMPO HOCKEY SANDRO MICHELLONET - VIA DANTE ALIGHIERI\, 9 Villar Perosa\nHC LARIO - HOCKEY PRATO VALCHISONE FEMMINILE\n\nRisultato: 0-9
-GEO:44.920693;7.244598
-LOCATION:Via Dante Alighieri\, Villaggio Operaio Giovanni Agnelli\, Saretto\, Villar Perosa\, Torino\, Piemonte\, 10069\, Italia
-DTSTART:20260419T133000Z
-SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 3 - HC LARIO - HOCKEY PRATO VALCHISONE FEMMINILE
-UID:37b27039-d7a8-4972-b284-74b9f564c5e8@37b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 2\nGara 697\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - HC LARIO\n\nRisultato: 6-0
-GEO:44.703194;7.836697
-LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
-DTSTART:20251026T130000Z
-SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 2 - HF LORENZONI - HC LARIO
-UID:8f369f17-0932-43a9-b34c-2fcff4d34c51@8f36.org
+DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 1\nGara 674\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC LARIO - CUS TORINO\n\nRisultato: 8-4
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20251109T100000Z
+SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 1 - HC LARIO - CUS TORINO
+UID:90cd30e5-42e8-49f2-8609-dbcdab26e7ec@90cd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 13\nGara 1349\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HC LARIO\n\nRisultato: 1-6
@@ -23,7 +15,15 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20260510T093000Z
 SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 13 - CUS TORINO - HC LARIO
-UID:62b3fae4-b22b-4d14-971a-4eb58957a787@62b3.org
+UID:5f924ce9-8db1-4080-a10e-15519ba9875b@5f92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 2\nGara 697\nAugusto Lorenzoni - VIA MADONNA DEI FIORI\, 49 Bra\nHF LORENZONI - HC LARIO\n\nRisultato: 6-0
+GEO:44.703194;7.836697
+LOCATION:Via Alcide De Gasperi\, Madonna dei Fiori\, Sant'Agnese\, Bra\, Cuneo\, Piemonte\, 12042\, Italia
+DTSTART:20251026T130000Z
+SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 2 - HF LORENZONI - HC LARIO
+UID:13548ba5-e614-4a17-abf0-2c8d6bd5c088@1354.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 10\nGara 1345\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC LARIO - HF LORENZONI\n\nRisultato: 1-8
@@ -31,7 +31,15 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20260328T110000Z
 SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 10 - HC LARIO - HF LORENZONI
-UID:63974569-7480-41ef-b872-6a9bf581dd64@6397.org
+UID:8b6485a8-3abe-40ba-896f-b9cf90e84ed7@8b64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 3\nGara 677\nCAMPO HOCKEY SANDRO MICHELLONET - VIA DANTE ALIGHIERI\, 9 Villar Perosa\nHC LARIO - HOCKEY PRATO VALCHISONE FEMMINILE\n\nRisultato: 0-9
+GEO:44.920693;7.244598
+LOCATION:Via Dante Alighieri\, Villaggio Operaio Giovanni Agnelli\, Saretto\, Villar Perosa\, Torino\, Piemonte\, 10069\, Italia
+DTSTART:20260419T133000Z
+SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 3 - HC LARIO - HOCKEY PRATO VALCHISONE FEMMINILE
+UID:c57b8a9e-9e02-41cc-b0bb-c62d69097547@c57b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 4\nGara 679\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HC LARIO\n\nRisultato: 6-0
@@ -39,15 +47,7 @@ GEO:45.050205;8.265038
 LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
 DTSTART:20251019T130000Z
 SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 4 - USD MONCALVESE HOCKEY - HC LARIO
-UID:1a9bb0c5-557f-4b06-ac78-669076fe4ade@1a9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 11\nGara 1347\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC LARIO - USD MONCALVESE HOCKEY\n\nRisultato: 4-1
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260412T090000Z
-SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 11 - HC LARIO - USD MONCALVESE HOCKEY
-UID:7ea68931-cd91-4085-8091-ce7988e41331@7ea6.org
+UID:43a82062-e10d-4650-bee3-98e2dadb95ef@43a8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 3\nGara 1342\nCAMPO HOCKEY SANDRO MICHELLONET - VIA DANTE ALIGHIERI\, 9 Villar Perosa\nHOCKEY PRATO VALCHISONE FEMMINILE - HC LARIO\n\nRisultato: 6-1
@@ -55,14 +55,14 @@ GEO:44.920693;7.244598
 LOCATION:Via Dante Alighieri\, Villaggio Operaio Giovanni Agnelli\, Saretto\, Villar Perosa\, Torino\, Piemonte\, 10069\, Italia
 DTSTART:20260419T093000Z
 SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 3 - HOCKEY PRATO VALCHISONE FEMMINILE - HC LARIO
-UID:aaf4ab03-ad02-41bb-a60b-4e71761310c5@aaf4.org
+UID:f37dc7ad-8e54-4c2d-9980-a3bccf0bdd59@f37d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 1\nGara 674\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC LARIO - CUS TORINO\n\nRisultato: 8-4
+DESCRIPTION:Allieve - OUTDOOR  - Girone A / Giornata 11\nGara 1347\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC LARIO - USD MONCALVESE HOCKEY\n\nRisultato: 4-1
 GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20251109T100000Z
-SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 1 - HC LARIO - CUS TORINO
-UID:ea6cc805-93f4-4c40-907d-3766d8c9207e@ea6c.org
+DTSTART:20260412T090000Z
+SUMMARY:Allieve - OUTDOOR  - Girone A / Giornata 11 - HC LARIO - USD MONCALVESE HOCKEY
+UID:e8eb9280-de42-498f-adae-ccbe031af07d@e8eb.org
 END:VEVENT
 END:VCALENDAR

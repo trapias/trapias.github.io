@@ -706,6 +706,8 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 <strong>TEVERE EUR H - SG AMSICORA</strong>
 
+**Risultato: 3-5**
+
 Gara: 41
 
 Campo: EUROMA STADIUM 
@@ -719,6 +721,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 ## Sab 30/05/2026 17.00
 
 <strong>POL FERRINI - H CITTA' DEL TRICOLORE</strong>
+
+**Risultato: 3-3**
 
 Gara: 42
 
@@ -734,6 +738,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>LAZIO HOCKEY - HC BRA</strong>
 
+**Risultato: 1-4**
+
 Gara: 43
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
@@ -748,6 +754,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 ## Sab 30/05/2026 15.00 ⭐
 
 <strong>HP VALCHISONE - BUTTERFLY ROMA</strong>
+
+**Risultato: 0-4**
 
 Gara: 44
 

@@ -609,6 +609,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>HT FEMM BOLOGNA - CUS TORINO</strong>
 
+**Risultato: 4-1**
+
 Gara: 928
 
 Campo: CP BARCA 
@@ -622,6 +624,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 ## Sab 30/05/2026 15.00
 
 <strong>MILANO HP - HF LORENZONI</strong>
+
+**Risultato: 3-3**
 
 Gara: 929
 
@@ -637,6 +641,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>LAZIO HOCKEY - SG AMSICORA</strong>
 
+**Risultato: 0-1**
+
 Gara: 930
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
@@ -650,6 +656,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 ## Sab 30/05/2026 13.00
 
 <strong>UH CAPITOLINA - BUTTERFLY ROMA</strong>
+
+**Risultato: 3-1**
 
 Gara: 931
 
