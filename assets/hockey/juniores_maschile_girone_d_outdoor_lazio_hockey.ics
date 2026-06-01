@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone D / Giornata 5\nGara 281\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - LAZIO HOCKEY\n\nRisultato: 5-0
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260301T110000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone D / Giornata 5 - TEVERE EUR H - LAZIO HOCKEY
-UID:60aa6821-4fa2-4cda-b4e9-ea8c42637e5e@60aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone D / Giornata 7\nGara 286\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - HOCKEY CLUB ROMA\n\nRisultato: 2-3
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone D / Giornata 10\nGara 291\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - TEVERE EUR H\n\nRisultato: 0-4
 GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20260402T183000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone D / Giornata 7 - LAZIO HOCKEY - HOCKEY CLUB ROMA
-UID:32370a9e-bedd-4e13-9112-d8ebf805f74c@3237.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone D / Giornata 8\nGara 287\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - LAZIO HOCKEY\n\nRisultato: 2-0
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20260512T130000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone D / Giornata 8 - H.POTENZA PICENA - LAZIO HOCKEY
-UID:5dc31704-4076-4848-a363-0cfe7425c704@5dc3.org
+DTSTART:20260506T153000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone D / Giornata 10 - LAZIO HOCKEY - TEVERE EUR H
+UID:a6aa9c2c-1da0-4d37-b5b9-0b9a778e4a1a@a6aa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone D / Giornata 6\nGara 283\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA - LAZIO HOCKEY\n\nRisultato: 9-1
@@ -31,7 +15,23 @@ GEO:41.932122;12.486847
 LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
 DTSTART:20260315T100000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone D / Giornata 6 - BUTTERFLY ROMA - LAZIO HOCKEY
-UID:1e37b802-d6db-4c72-a851-f7b52aa2be7c@1e37.org
+UID:c2b5c34d-1ff5-4648-b244-80d9c5df388b@c2b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone D / Giornata 5\nGara 281\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR H - LAZIO HOCKEY\n\nRisultato: 5-0
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260301T110000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone D / Giornata 5 - TEVERE EUR H - LAZIO HOCKEY
+UID:53d8d964-df6a-493b-8cd7-5d801b6b2007@53d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone D / Giornata 8\nGara 287\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - LAZIO HOCKEY\n\nRisultato: 2-0
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20260512T130000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone D / Giornata 8 - H.POTENZA PICENA - LAZIO HOCKEY
+UID:00fca048-c9a7-4cd2-a4a5-456ed3fd24a6@00fc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone D / Giornata 3\nGara 277\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - H.POTENZA PICENA\n\nRisultato: 1-3
@@ -39,23 +39,7 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20251102T110000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone D / Giornata 3 - LAZIO HOCKEY - H.POTENZA PICENA
-UID:b6b52726-3f54-429b-9bce-3c764874e107@b6b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone D / Giornata 2\nGara 276\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nHOCKEY CLUB ROMA - LAZIO HOCKEY\n\nRisultato: 1-3
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20251019T100000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone D / Giornata 2 - HOCKEY CLUB ROMA - LAZIO HOCKEY
-UID:1bdd7737-745c-43e0-91fd-6ed64e6bebc8@1bdd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone D / Giornata 10\nGara 291\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - TEVERE EUR H\n\nRisultato: 0-4
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20260506T153000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone D / Giornata 10 - LAZIO HOCKEY - TEVERE EUR H
-UID:d76ab2e1-f0ee-4756-85da-f654f5f1ae8c@d76a.org
+UID:1be4e308-db19-41f7-9717-6b56c079a318@1be4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone D / Giornata 1\nGara 273\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - BUTTERFLY ROMA\n\nRisultato: 0-6
@@ -63,6 +47,22 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20251005T090000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone D / Giornata 1 - LAZIO HOCKEY - BUTTERFLY ROMA
-UID:c4a61b39-f36f-4383-9614-116f94b8e449@c4a6.org
+UID:8ac25ce8-c608-4995-be0b-4b44eb54fb20@8ac2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone D / Giornata 2\nGara 276\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nHOCKEY CLUB ROMA - LAZIO HOCKEY\n\nRisultato: 1-3
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20251019T100000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone D / Giornata 2 - HOCKEY CLUB ROMA - LAZIO HOCKEY
+UID:c7ef21a8-4a3e-42e9-84ef-3bbceab920af@c7ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone D / Giornata 7\nGara 286\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - HOCKEY CLUB ROMA\n\nRisultato: 2-3
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20260402T183000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone D / Giornata 7 - LAZIO HOCKEY - HOCKEY CLUB ROMA
+UID:1f44a763-7b49-4bb4-ac53-36d4175b038d@1f44.org
 END:VEVENT
 END:VCALENDAR

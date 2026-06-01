@@ -181,6 +181,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>POL FERRINI - H.POTENZA PICENA</strong>
 
+**Risultato: 1-1**
+
 Gara: 890
 
 Campo: A. Maxia 
@@ -194,6 +196,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 ## Dom 31/05/2026 15.00
 
 <strong>HC RIVA - CUS PISA ASD</strong>
+
+**Risultato: 3-1**
 
 Gara: 891
 

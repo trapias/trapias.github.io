@@ -676,6 +676,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>HF LORENZONI - HT FEMM BOLOGNA</strong>
 
+**Risultato: 2-0**
+
 Gara: 932
 
 Campo: Augusto Lorenzoni 
@@ -689,6 +691,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 ## Dom 31/05/2026 15.00
 
 <strong>CUS TORINO - MILANO HP</strong>
+
+**Risultato: 0-2**
 
 Gara: 933
 
@@ -704,6 +708,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>UH CAPITOLINA - SG AMSICORA</strong>
 
+**Risultato: 0-3**
+
 Gara: 934
 
 Campo: EUROMA STADIUM 
@@ -717,6 +723,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 ## Dom 31/05/2026 15.00
 
 <strong>LAZIO HOCKEY - BUTTERFLY ROMA</strong>
+
+**Risultato: 1-0**
 
 Gara: 935
 

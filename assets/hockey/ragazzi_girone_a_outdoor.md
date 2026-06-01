@@ -533,6 +533,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>HP VALCHISONE - HCU RASSEMBLEMENT TORINO RIS</strong>
 
+**Risultato: 4-2**
+
 Gara: 1318
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 
@@ -548,6 +550,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 ## Dom 31/05/2026 11.00
 
 <strong>ASD CERNUSCO FIELD HOCKEY - SCUOLA HOCKEY INDER SINGH</strong>
+
+**Risultato: 4-4**
 
 Gara: 1319
 

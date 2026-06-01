@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 860\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - HC ARGENTIA\n\nRisultato: 1-1
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20260329T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3 - CUS PADOVA - HC ARGENTIA
-UID:26fcb372-690c-4d98-8cfd-58972d571cb8@26fc.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4\nGara 862\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - CUS PADOVA\n\nRisultato: 3-1
 GEO:43.386400;13.654670
 LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
 DTSTART:20260412T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 4 - H.POTENZA PICENA - CUS PADOVA
-UID:b588dfdd-2014-4121-b195-37babfac3302@b588.org
+UID:e5838a0e-ca30-406c-91c1-48743ae145c0@e583.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1\nGara 856\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - H.POTENZA PICENA\n\nRisultato: 1-3
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 860\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - HC ARGENTIA\n\nRisultato: 1-1
 GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
-DTSTART:20260315T140000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1 - CUS PADOVA - H.POTENZA PICENA
-UID:cbdc261a-3a24-4a3c-9d71-280888042192@cbdc.org
+DTSTART:20260329T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 3 - CUS PADOVA - HC ARGENTIA
+UID:1ec98a33-d0b3-4f4e-b6c9-e71ef38a0431@1ec9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 6\nGara 867\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC ARGENTIA - CUS PADOVA\n\nRisultato: 3-3
@@ -31,7 +23,15 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20260426T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 6 - HC ARGENTIA - CUS PADOVA
-UID:e982e4bc-3d1c-459c-9960-4729b244f930@e982.org
+UID:6817b5f7-e467-4f8a-ada5-081b330133db@6817.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1\nGara 856\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - H.POTENZA PICENA\n\nRisultato: 1-3
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20260315T140000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 1 - CUS PADOVA - H.POTENZA PICENA
+UID:58755b4c-9641-491e-ac2e-72c662e6973d@5875.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 865\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - HC RIVA\n\nRisultato: 2-0
@@ -39,7 +39,7 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20260419T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 5 - CUS PADOVA - HC RIVA
-UID:d1547e06-5bca-438e-b7b2-f553ee8555b7@d154.org
+UID:a2cfb68a-9af5-42b0-8d8e-efddd800a5ac@a2cf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 2\nGara 859\nComunale Mori - Via Lomba\, 23 Mori\nHC RIVA - CUS PADOVA\n\nRisultato: 1-1
@@ -47,6 +47,6 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260322T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone B / Giornata 2 - HC RIVA - CUS PADOVA
-UID:a129f0b5-4be0-4030-816b-24636e42a88c@a129.org
+UID:972d145e-62b8-42a9-9b29-1c54923e16b3@972d.org
 END:VEVENT
 END:VCALENDAR
