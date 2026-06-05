@@ -329,7 +329,7 @@ Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 
-## -
+## Dom 07/06/2026 17.00
 
 <strong>LAZIO HOCKEY B - AZ HOCKEY TEAM</strong>
 
