@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 388\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nCUS PADOVA ASD - A.R.FINCANTIERI A.S.D.\n\nRisultato: 3-2
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20251221T150000Z
-SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - CUS PADOVA ASD - A.R.FINCANTIERI A.S.D.
-UID:e0fd0a05-2563-4a81-adb5-dfc6c5e8f4bb@e0fd.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 382\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHC GRANTORTO - A.R.FINCANTIERI A.S.D.\n\nRisultato: 3-1
 GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
 DTSTART:20251221T090000Z
 SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - HC GRANTORTO - A.R.FINCANTIERI A.S.D.
-UID:b32ac675-9e22-46cd-afa9-a3ed16821df2@b32a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 385\nImpianti CUS Padova via G. Bruno - via G. Bruno\, 27 Padova\nA.R.FINCANTIERI A.S.D. - ASD ADIGE UHC\n\nRisultato: 0-9
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20251221T120000Z
-SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - A.R.FINCANTIERI A.S.D. - ASD ADIGE UHC
-UID:3f29429d-35b6-4864-893e-6973976ee70f@3f29.org
+UID:f34b3105-709f-4768-b346-45c2bba7983e@f34b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 1\nGara 379\nComunale Mori - Via Lomba\, 23 Mori\nHC PISTOIA FRANJO - A.R.FINCANTIERI A.S.D.\n\nRisultato: 4-2
@@ -31,7 +15,23 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20251214T130000Z
 SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 1 - HC PISTOIA FRANJO - A.R.FINCANTIERI A.S.D.
-UID:d16e145c-aa9d-4c5b-97b8-f2e7b1ebd2d5@d16e.org
+UID:2ff54626-c43e-4a57-bebb-f6fb48f4cf6f@2ff5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 385\nImpianti CUS Padova via G. Bruno - via G. Bruno\, 27 Padova\nA.R.FINCANTIERI A.S.D. - ASD ADIGE UHC\n\nRisultato: 0-9
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20251221T120000Z
+SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - A.R.FINCANTIERI A.S.D. - ASD ADIGE UHC
+UID:5b1eb5e3-dcde-4ba2-9414-62193ba4178a@5b1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 388\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nCUS PADOVA ASD - A.R.FINCANTIERI A.S.D.\n\nRisultato: 3-2
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20251221T150000Z
+SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - CUS PADOVA ASD - A.R.FINCANTIERI A.S.D.
+UID:c278ec28-61dc-4c84-8e50-9cec406c97d9@c278.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 1\nGara 377\nComunale Mori - Via Lomba\, 23 Mori\nA.R.FINCANTIERI A.S.D. - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE\n\nRisultato: 3-4
@@ -39,6 +39,6 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20251214T110000Z
 SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 1 - A.R.FINCANTIERI A.S.D. - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
-UID:03fe9d83-68aa-4887-bd9a-31adc487bf62@03fe.org
+UID:0a278bcc-2f80-4c9c-a9c1-7a101993b4f3@0a27.org
 END:VEVENT
 END:VCALENDAR
