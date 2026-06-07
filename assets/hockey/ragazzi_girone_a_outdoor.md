@@ -516,6 +516,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>HP VALCHISONE - HCU RASSEMBLEMENT TORINO</strong>
 
+**Risultato: 0-7**
+
 Gara: 1317
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 

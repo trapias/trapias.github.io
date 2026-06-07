@@ -336,6 +336,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>MILANO HP - CUS TORINO</strong>
 
+**Risultato: 3-4**
+
 Gara: 1368
 
 Campo: Campo Comunale 

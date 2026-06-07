@@ -777,6 +777,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>HP VALCHISONE - LAZIO HOCKEY</strong>
 
+**Risultato: 3-9**
+
 Gara: 45
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 
@@ -793,6 +795,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>BUTTERFLY ROMA - HC BRA</strong>
 
+**Risultato: 3-4**
+
 Gara: 46
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
@@ -807,6 +811,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>H CITTA' DEL TRICOLORE - SG AMSICORA</strong>
 
+**Risultato: 1-3**
+
 Gara: 47
 
 Campo: Sport Arena 
@@ -820,6 +826,8 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 ## Sab 06/06/2026 15.00
 
 <strong>POL FERRINI - TEVERE EUR H</strong>
+
+**Risultato: 4-2**
 
 Gara: 48
 
