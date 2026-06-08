@@ -319,6 +319,8 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>HOCKEY CLUB EUR - ASD HOCKEY CAMPAGNANO</strong>
 
+**Risultato: 1-4**
+
 Gara: 534
 
 Campo: EUROMA STADIUM 
@@ -332,6 +334,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 ## Dom 07/06/2026 17.00
 
 <strong>LAZIO HOCKEY B - AZ HOCKEY TEAM</strong>
+
+**Risultato: 3-1**
 
 Gara: 535
 

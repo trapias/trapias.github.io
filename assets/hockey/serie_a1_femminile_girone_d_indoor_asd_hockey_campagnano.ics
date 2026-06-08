@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone D / Giornata 1\nGara 187\nPALAPRINCIPI - Viale Piemonte PORTO POTENZA PICENA\nASD HOCKEY CAMPAGNANO - HOCKEY POTENZA PICENA\n\nRisultato: 6-2
-GEO:43.354477;13.697774
-LOCATION:Viale Piemonte\, Porto Potenza Picena\, Potenza Picena\, Macerata\, Marche\, 62018\, Italia
-DTSTART:20251207T140000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone D / Giornata 1 - ASD HOCKEY CAMPAGNANO - HOCKEY POTENZA PICENA
-UID:0c6fbbb0-43a7-4ec5-b5e2-3b68bcd6205b@0c6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone D / Giornata 2\nGara 191\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nASD HOCKEY CAMPAGNANO - BUTTERFLY ROMA HCC\n\nRisultato: 2-8
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20251228T124000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone D / Giornata 2 - ASD HOCKEY CAMPAGNANO - BUTTERFLY ROMA HCC
-UID:24f47b76-d3a7-4d92-946d-34f12cb48361@24f4.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone D / Giornata 1\nGara 186\nPALAPRINCIPI - Viale Piemonte PORTO POTENZA PICENA\nBUTTERFLY ROMA HCC - ASD HOCKEY CAMPAGNANO\n\nRisultato: 5-4
 GEO:43.354477;13.697774
 LOCATION:Viale Piemonte\, Porto Potenza Picena\, Potenza Picena\, Macerata\, Marche\, 62018\, Italia
 DTSTART:20251207T120000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone D / Giornata 1 - BUTTERFLY ROMA HCC - ASD HOCKEY CAMPAGNANO
-UID:7c70701b-72d5-4d3c-a2ae-96c5279a432a@7c70.org
+UID:bea87079-7326-49c7-80f6-bf6b663cdbf7@bea8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone D / Giornata 2\nGara 189\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nASD UNIONE CAPITOLINA HOCKEY - ASD HOCKEY CAMPAGNANO\n\nRisultato: 2-1
@@ -31,7 +15,23 @@ GEO:41.776492;12.546693
 LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
 DTSTART:20251228T091000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone D / Giornata 2 - ASD UNIONE CAPITOLINA HOCKEY - ASD HOCKEY CAMPAGNANO
-UID:942b6a2f-d735-4c96-9162-5e3f23ac48b4@942b.org
+UID:5af103ec-e131-499c-adc9-1aeaa0a5c1ff@5af1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone D / Giornata 1\nGara 187\nPALAPRINCIPI - Viale Piemonte PORTO POTENZA PICENA\nASD HOCKEY CAMPAGNANO - HOCKEY POTENZA PICENA\n\nRisultato: 6-2
+GEO:43.354477;13.697774
+LOCATION:Viale Piemonte\, Porto Potenza Picena\, Potenza Picena\, Macerata\, Marche\, 62018\, Italia
+DTSTART:20251207T140000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone D / Giornata 1 - ASD HOCKEY CAMPAGNANO - HOCKEY POTENZA PICENA
+UID:6502a563-e59b-4783-b6fe-80a39053504e@6502.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone D / Giornata 2\nGara 191\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nASD HOCKEY CAMPAGNANO - BUTTERFLY ROMA HCC\n\nRisultato: 2-8
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20251228T124000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone D / Giornata 2 - ASD HOCKEY CAMPAGNANO - BUTTERFLY ROMA HCC
+UID:a04a350e-752c-4a4d-a623-acb513f3e91d@a04a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone D / Giornata 3\nGara 194\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nHOCKEY POTENZA PICENA - ASD HOCKEY CAMPAGNANO\n\nRisultato: 0-2
@@ -39,7 +39,7 @@ GEO:41.776492;12.546693
 LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
 DTSTART:20260111T112000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone D / Giornata 3 - HOCKEY POTENZA PICENA - ASD HOCKEY CAMPAGNANO
-UID:c091fff1-996c-454f-bf24-dfb8ce3d432a@c091.org
+UID:7b822527-93a4-4cdf-8162-e815b8963949@7b82.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone D / Giornata 3\nGara 196\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nASD HOCKEY CAMPAGNANO - ASD UNIONE CAPITOLINA HOCKEY\n\nRisultato: 5-2
@@ -47,6 +47,6 @@ GEO:41.776492;12.546693
 LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
 DTSTART:20260111T145000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone D / Giornata 3 - ASD HOCKEY CAMPAGNANO - ASD UNIONE CAPITOLINA HOCKEY
-UID:a55706db-a9f2-41c6-8c6c-1045272ea517@a557.org
+UID:e005a31f-9a30-4c70-a857-975c79583a9f@e005.org
 END:VEVENT
 END:VCALENDAR
