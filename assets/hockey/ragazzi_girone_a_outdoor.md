@@ -123,6 +123,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - ASD CERNUSCO FIELD HOCKEY</strong>
 
+**Risultato: 1-1**
+
 Gara: 686
 
 Campo: CENTRO S. COMUNALE 
@@ -267,7 +269,7 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 # Ragazzi - OUTDOOR  - Girone A / Giornata 12
 
 <!-- VALCHISONE_START -->
-## - ⭐
+## Dom 14/06/2026 15.00 ⭐
 
 <strong>A.S.D. S.H. PAOLO BONOMI - HP VALCHISONE</strong>
 

@@ -913,10 +913,10 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 Gara: 947
 
-Campo: CENTRO GIULIO ONESTI 
+Campo: EUROMA STADIUM 
 
-Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
+Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
