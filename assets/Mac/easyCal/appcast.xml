@@ -7,6 +7,25 @@
     <description>Updates for easyCal</description>
     <language>en</language>
     <item>
+        <title>easyCal 0.3.3</title>
+        <sparkle:version>6</sparkle:version>
+        <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+        <pubDate>Thu, 11 Jun 2026 18:21:01 +0200</pubDate>
+        <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[
+<h2>easyCal 0.3.3</h2>
+<ul>
+<li>Fix deleting an event: clicking "Delete" closed the menu bar popover without removing the event</li>
+<li>Delete confirmation now uses a native dialog, independent of the popover, for both single and repeating events</li>
+</ul>
+        ]]></description>
+        <enclosure
+            url="https://www.trapias.it/assets/Mac/easyCal/easyCal-0.3.3.dmg"
+            sparkle:edSignature="qWL0j6ZWbkDV1/Z83QW6MecVVEGLX8DE/yq+H7AwMKxFCCQmKUd+FQ7pTs4rgkEZGCatstibMaMLtI4rv8xpBA=="
+            length="5202494"
+            type="application/octet-stream" />
+    </item>
+    <item>
         <title>easyCal 0.3.2</title>
         <sparkle:version>5</sparkle:version>
         <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
