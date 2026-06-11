@@ -286,6 +286,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>LAZIO HOCKEY B - H C ROMA  B</strong>
 
+**Risultato: 2-1**
+
 Gara: 538
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

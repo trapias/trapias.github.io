@@ -2,36 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 5\nGara 55\nPOLO SCOLASTICO DI CLES - VIA IV NOVEMBRE\, 35 CLES\nPOLISPORTIVA UNIVERSITARIA MESSINA - CSP SAN GIORGIO\n\nRisultato: 6-5
-GEO:46.369305;11.032689
-LOCATION:Istituto Tecnico Economico e Tecnologico "C.A. Pilati"\, 35\, Via Quattro Novembre\, Pez\, Dres\, Cles\, Comunità della Val di Non\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38023\, Italia
-DTSTART:20260125T100000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 5 - POLISPORTIVA UNIVERSITARIA MESSINA - CSP SAN GIORGIO
-UID:4ad3a1fe-ca37-4037-83f3-1f9279bc205f@4ad3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 48\nPALA NEBIOLO - Via Umberto Fiore\,  Messina\nPOLISPORTIVA UNIVERSITARIA MESSINA - USD MONCALVESE HOCKEY\n\nRisultato: 7-2
-GEO:38.224983;15.556263
-LOCATION:Via Umberto Fiore\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
-DTSTART:20251213T150000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - POLISPORTIVA UNIVERSITARIA MESSINA - USD MONCALVESE HOCKEY
-UID:1f556b11-0f5d-43d4-9317-548911d8d07f@1f55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 52\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nCSP SAN GIORGIO - POLISPORTIVA UNIVERSITARIA MESSINA\n\nRisultato: 6-4
-GEO:41.776492;12.546693
-LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
-DTSTART:20251221T130000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - CSP SAN GIORGIO - POLISPORTIVA UNIVERSITARIA MESSINA
-UID:5e3f4d49-41b1-4abb-87e2-1d79942d47c0@5e3f.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 4\nGara 38\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nPOLISPORTIVA UNIVERSITARIA MESSINA - HOCKEY CLUB RIVA\n\nRisultato: 4-2
 GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
 DTSTART:20260117T110000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 4 - POLISPORTIVA UNIVERSITARIA MESSINA - HOCKEY CLUB RIVA
-UID:de88480f-427b-4f50-93dd-66693d795e8c@de88.org
+UID:44a0a8ae-ca71-4b54-85b2-c0eaa14c05d2@44a0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 1\nGara 31\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nA.S.D. S.H. PAOLO BONOMI - POLISPORTIVA UNIVERSITARIA MESSINA\n\nRisultato: 3-2
@@ -39,7 +15,15 @@ GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
 DTSTART:20251130T100000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 1 - A.S.D. S.H. PAOLO BONOMI - POLISPORTIVA UNIVERSITARIA MESSINA
-UID:2d55658c-9f0c-418a-a485-c0bfb54f0e4e@2d55.org
+UID:b9bea10f-94bc-4022-a46e-14ceeefbabdd@b9be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 5\nGara 55\nPOLO SCOLASTICO DI CLES - VIA IV NOVEMBRE\, 35 CLES\nPOLISPORTIVA UNIVERSITARIA MESSINA - CSP SAN GIORGIO\n\nRisultato: 6-5
+GEO:46.369305;11.032689
+LOCATION:Istituto Tecnico Economico e Tecnologico "C.A. Pilati"\, 35\, Via Quattro Novembre\, Pez\, Dres\, Cles\, Comunità della Val di Non\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38023\, Italia
+DTSTART:20260125T100000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 5 - POLISPORTIVA UNIVERSITARIA MESSINA - CSP SAN GIORGIO
+UID:b53acf9b-8136-406b-b94b-3e81b985766f@b53a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 43\nPALA NEBIOLO - Via Umberto Fiore\,  Messina\nHOCKEY CLUB RIVA - POLISPORTIVA UNIVERSITARIA MESSINA\n\nRisultato: 2-2
@@ -47,23 +31,7 @@ GEO:38.224983;15.556263
 LOCATION:Via Umberto Fiore\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
 DTSTART:20251213T100000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - HOCKEY CLUB RIVA - POLISPORTIVA UNIVERSITARIA MESSINA
-UID:e072a96b-4f89-453b-ad03-9261f3808cd5@e072.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 5\nGara 57\nPOLO SCOLASTICO DI CLES - VIA IV NOVEMBRE\, 35 CLES\nUSD MONCALVESE HOCKEY - POLISPORTIVA UNIVERSITARIA MESSINA\n\nRisultato: 2-3
-GEO:46.369305;11.032689
-LOCATION:Istituto Tecnico Economico e Tecnologico "C.A. Pilati"\, 35\, Via Quattro Novembre\, Pez\, Dres\, Cles\, Comunità della Val di Non\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38023\, Italia
-DTSTART:20260125T120000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 5 - USD MONCALVESE HOCKEY - POLISPORTIVA UNIVERSITARIA MESSINA
-UID:329a4c51-c32e-4adf-bf87-d46ef99a86eb@329a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 4\nGara 40\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nPOLISPORTIVA UNIVERSITARIA MESSINA - A.S.D. S.H. PAOLO BONOMI\n\nRisultato: 4-4
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20260117T130000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 4 - POLISPORTIVA UNIVERSITARIA MESSINA - A.S.D. S.H. PAOLO BONOMI
-UID:21c92aeb-5ab0-4348-9dc7-976dcd686358@21c9.org
+UID:79d0fbe1-ec6f-49df-b86c-c0b7ef6d63d9@79d0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 49\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nLAZIO HOCKEY - POLISPORTIVA UNIVERSITARIA MESSINA\n\nRisultato: 3-4
@@ -71,7 +39,31 @@ GEO:41.776492;12.546693
 LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
 DTSTART:20251221T100000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - LAZIO HOCKEY - POLISPORTIVA UNIVERSITARIA MESSINA
-UID:0626fd7f-61ce-4799-a8bf-34937a8da646@0626.org
+UID:879196ae-7f47-4bd2-b57f-dff853ece6a4@8791.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 52\nCENTRO SPORTIVO MILLEVOI - VIA TORRI DI CASTEL DI LEVA\, 30 CASTEL DI LEVA\, Roma\nCSP SAN GIORGIO - POLISPORTIVA UNIVERSITARIA MESSINA\n\nRisultato: 6-4
+GEO:41.776492;12.546693
+LOCATION:Via Torri di Castel di Leva\, Divino Amore\, Municipio Roma IX\, Falcognana\, Roma\, Roma Capitale\, Lazio\, 00134\, Italia
+DTSTART:20251221T130000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - CSP SAN GIORGIO - POLISPORTIVA UNIVERSITARIA MESSINA
+UID:9990b482-821a-4251-80c0-6e1f8eee8599@9990.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 4\nGara 40\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nPOLISPORTIVA UNIVERSITARIA MESSINA - A.S.D. S.H. PAOLO BONOMI\n\nRisultato: 4-4
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20260117T130000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 4 - POLISPORTIVA UNIVERSITARIA MESSINA - A.S.D. S.H. PAOLO BONOMI
+UID:0e23c8f4-070e-4229-874a-2e684c4ea2e9@0e23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 5\nGara 57\nPOLO SCOLASTICO DI CLES - VIA IV NOVEMBRE\, 35 CLES\nUSD MONCALVESE HOCKEY - POLISPORTIVA UNIVERSITARIA MESSINA\n\nRisultato: 2-3
+GEO:46.369305;11.032689
+LOCATION:Istituto Tecnico Economico e Tecnologico "C.A. Pilati"\, 35\, Via Quattro Novembre\, Pez\, Dres\, Cles\, Comunità della Val di Non\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38023\, Italia
+DTSTART:20260125T120000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 5 - USD MONCALVESE HOCKEY - POLISPORTIVA UNIVERSITARIA MESSINA
+UID:dad85a09-9b1b-480d-bd61-8fabcb0f66bf@dad8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 1\nGara 33\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nPOLISPORTIVA UNIVERSITARIA MESSINA - LAZIO HOCKEY\n\nRisultato: 3-7
@@ -79,6 +71,14 @@ GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
 DTSTART:20251130T120000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 1 - POLISPORTIVA UNIVERSITARIA MESSINA - LAZIO HOCKEY
-UID:8d15b7dd-4aa4-45f6-b18c-5740e27b21bb@8d15.org
+UID:59d3aaad-5af0-43aa-9765-66433d92c788@59d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 48\nPALA NEBIOLO - Via Umberto Fiore\,  Messina\nPOLISPORTIVA UNIVERSITARIA MESSINA - USD MONCALVESE HOCKEY\n\nRisultato: 7-2
+GEO:38.224983;15.556263
+LOCATION:Via Umberto Fiore\, Contrada Battaglia\, V Circoscrizione\, Messina\, Sicilia\, 98168\, Italia
+DTSTART:20251213T150000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - POLISPORTIVA UNIVERSITARIA MESSINA - USD MONCALVESE HOCKEY
+UID:a884fc49-b351-49d7-a63b-c6c7b2f08e1c@a884.org
 END:VEVENT
 END:VCALENDAR

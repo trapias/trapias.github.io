@@ -269,7 +269,7 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 # Ragazzi - OUTDOOR  - Girone A / Giornata 12
 
 <!-- VALCHISONE_START -->
-## Dom 14/06/2026 15.00 ⭐
+## - ⭐
 
 <strong>A.S.D. S.H. PAOLO BONOMI - HP VALCHISONE</strong>
 
