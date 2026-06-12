@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone G / Giornata 3\nGara 1088\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA JUVENILIA - SG AMSICORA\n\nRisultato: 5-1
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20251214T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone G / Giornata 3 - A.S.D. POLISPORTIVA JUVENILIA - SG AMSICORA
-UID:73b55f49-6dd5-4542-b1a0-47ea9bc9d746@73b5.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone G / Giornata 2\nGara 1087\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI - A.S.D. POLISPORTIVA JUVENILIA\n\nRisultato: 2-1
 GEO:39.235186;9.139409
 LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
 DTSTART:20260125T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone G / Giornata 2 - POLISPORTIVA FERRINI - A.S.D. POLISPORTIVA JUVENILIA
-UID:b8cf3eaa-9bae-44c0-8c3d-1b59289e5628@b8cf.org
+UID:5feb9db5-6323-44f5-ac7a-b22b3c8afd8b@5feb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone G / Giornata 6\nGara 1261\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nSG AMSICORA - A.S.D. POLISPORTIVA JUVENILIA\n\nRisultato: 1-4
@@ -23,7 +15,7 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20260326T171500Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone G / Giornata 6 - SG AMSICORA - A.S.D. POLISPORTIVA JUVENILIA
-UID:68fa9b5c-dd0c-4d07-ab37-681751c9ab4b@68fa.org
+UID:76f9ca1d-732d-4bc1-9c17-a6210581bf9d@76f9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone G / Giornata 5\nGara 1260\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA JUVENILIA - POLISPORTIVA FERRINI\n\nRisultato: 3-5
@@ -31,7 +23,15 @@ GEO:39.694117;8.702129
 LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
 DTSTART:20260430T160000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone G / Giornata 5 - A.S.D. POLISPORTIVA JUVENILIA - POLISPORTIVA FERRINI
-UID:df72ac6c-2c52-4813-b81c-67af0a940f41@df72.org
+UID:00cd80d2-6e84-44a2-8f64-315f6d044beb@00cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone G / Giornata 3\nGara 1088\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA JUVENILIA - SG AMSICORA\n\nRisultato: 5-1
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20251214T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone G / Giornata 3 - A.S.D. POLISPORTIVA JUVENILIA - SG AMSICORA
+UID:f83f3ea2-2600-4c6c-b6f9-6d3066fb0be3@f83f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone G / Giornata 4\nGara 1258\nComunale Uras - VIA S. EMILIANO\, snc Uras\nCUS CAGLIARI - A.S.D. POLISPORTIVA JUVENILIA\n\nRisultato: 6-1
@@ -39,7 +39,7 @@ GEO:39.694117;8.702129
 LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
 DTSTART:20260510T083000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone G / Giornata 4 - CUS CAGLIARI - A.S.D. POLISPORTIVA JUVENILIA
-UID:69551e04-9913-4053-8ed7-378da94987b4@6955.org
+UID:2361ed73-0cbd-4134-b14f-0e91992b7924@2361.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone G / Giornata 1\nGara 1084\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA JUVENILIA - CUS CAGLIARI\n\nRisultato: 0-5
@@ -47,6 +47,6 @@ GEO:39.694117;8.702129
 LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
 DTSTART:20251109T100000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone G / Giornata 1 - A.S.D. POLISPORTIVA JUVENILIA - CUS CAGLIARI
-UID:117069d8-e6a6-48ff-b2f4-e7279cd36400@1170.org
+UID:699a50f6-e9d8-473e-9eb0-d9db0ade79fc@699a.org
 END:VEVENT
 END:VCALENDAR
