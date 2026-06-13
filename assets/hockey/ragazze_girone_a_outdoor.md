@@ -41,18 +41,18 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 # Ragazze - OUTDOOR  - Girone A / Giornata 2
 
 <!-- VALCHISONE_START -->
-## Dom 14/06/2026 11.00 ⭐
+## Dom 21/06/2026 11.00 ⭐
 
 <strong>MILANO HP - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 
 Gara: 666
 
-Campo: Campo Comunale 
+Campo: CAMPO HOCKEY SANDRO MICHELLONET 
 
-Indirizzo Campo:  Via Boccaccio, snc - Cernusco sul Naviglio
+Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
 
-Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio, Milano, Lombardia, 20063, Italia
-Geo: Geo(latitude=45.5311332, longitude=9.3433455)
+Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 <!-- VALCHISONE_END -->
 
 
@@ -369,7 +369,7 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 
 <!-- VALCHISONE_START -->
-## Sab 13/06/2026 16.00 ⭐
+## Dom 21/06/2026 09.00 ⭐
 
 <strong>HOCKEY PRATO VALCHISONE FEMMINILE - MILANO HP</strong>
 
