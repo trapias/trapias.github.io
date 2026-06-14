@@ -846,6 +846,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>SG AMSICORA - BUTTERFLY ROMA</strong>
 
+**Risultato: 1-3**
+
 Gara: 49
 
 Campo: AMSICORA 
@@ -859,6 +861,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 ## Sab 13/06/2026 15.00
 
 <strong>HC BRA - H CITTA' DEL TRICOLORE</strong>
+
+**Risultato: 4-3**
 
 Gara: 50
 
@@ -874,6 +878,8 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 <strong>LAZIO HOCKEY - POL FERRINI</strong>
 
+**Risultato: 4-1**
+
 Gara: 51
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
@@ -888,6 +894,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 ## Sab 13/06/2026 15.00 ⭐
 
 <strong>TEVERE EUR H - HP VALCHISONE</strong>
+
+**Risultato: 1-1**
 
 Gara: 52
 

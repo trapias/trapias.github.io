@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 1\nGara 242\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nASD CUS GENOVA HOCKEY - HCU RASSEMBLEMENT\n\nRisultato: 0-10
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20250913T160000Z
+SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 1 - ASD CUS GENOVA HOCKEY - HCU RASSEMBLEMENT
+UID:dde48629-bbcc-4b1d-8374-9da36bb89b2a@dde4.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 5\nGara 251\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nASD CUS GENOVA HOCKEY - GENOVA H 1980\n\nRisultato: 1-14
 GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20251011T120000Z
 SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 5 - ASD CUS GENOVA HOCKEY - GENOVA H 1980
-UID:8b54087c-d9cc-415d-81b6-d28d9a372164@8b54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 2\nGara 245\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 - ASD CUS GENOVA HOCKEY\n\nRisultato: 12-0
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20250920T090000Z
-SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 2 - GENOVA H 1980 - ASD CUS GENOVA HOCKEY
-UID:9f6827c6-d348-4a75-9e9b-0f969c69ba8b@9f68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 6\nGara 252\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nASD CUS GENOVA HOCKEY - A.S.D. HOCKEY CLUB NOVARA OLD BLACK\n\nRisultato: 1-2
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20251018T120000Z
-SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 6 - ASD CUS GENOVA HOCKEY - A.S.D. HOCKEY CLUB NOVARA OLD BLACK
-UID:37848894-19bf-443d-a67f-c68e92db5de9@3784.org
+UID:34decd6b-3945-48d1-9dc1-d6ef6c58703b@34de.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 4\nGara 248\nTazzoli - Corso Tazzoli\, 78 Torino\nHCU RASSEMBLEMENT - ASD CUS GENOVA HOCKEY\n\nRisultato: 17-0
@@ -31,7 +23,15 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20251004T130000Z
 SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 4 - HCU RASSEMBLEMENT - ASD CUS GENOVA HOCKEY
-UID:932df809-cefd-4153-afef-0607c4d2939e@932d.org
+UID:98b895a2-69f0-4bd9-ae18-e6a1079422a9@98b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 6\nGara 252\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nASD CUS GENOVA HOCKEY - A.S.D. HOCKEY CLUB NOVARA OLD BLACK\n\nRisultato: 1-2
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20251018T120000Z
+SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 6 - ASD CUS GENOVA HOCKEY - A.S.D. HOCKEY CLUB NOVARA OLD BLACK
+UID:504b1589-1b0d-4739-9745-56d504aaf8ff@504b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 3\nGara 246\nCampo Giovanni Gondo - viale Kennedy\, snc Novara\nA.S.D. HOCKEY CLUB NOVARA OLD BLACK - ASD CUS GENOVA HOCKEY\n\nRisultato: 8-0
@@ -39,14 +39,14 @@ GEO:45.438879;8.599161
 LOCATION:Viale Kennedy\, San Paolo\, Novara\, Piemonte\, 28100\, Italia
 DTSTART:20250927T130000Z
 SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 3 - A.S.D. HOCKEY CLUB NOVARA OLD BLACK - ASD CUS GENOVA HOCKEY
-UID:304b7cfa-44b7-4aba-af3a-4d173481ab1c@304b.org
+UID:24b8ea91-3738-44ba-b044-7aae5057e350@24b8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 1\nGara 242\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nASD CUS GENOVA HOCKEY - HCU RASSEMBLEMENT\n\nRisultato: 0-10
+DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 2\nGara 245\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA H 1980 - ASD CUS GENOVA HOCKEY\n\nRisultato: 12-0
 GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20250913T160000Z
-SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 1 - ASD CUS GENOVA HOCKEY - HCU RASSEMBLEMENT
-UID:84cc64e9-a281-44f0-86ac-362b595c776c@84cc.org
+DTSTART:20250920T090000Z
+SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 2 - GENOVA H 1980 - ASD CUS GENOVA HOCKEY
+UID:863fb3f0-d93c-4d95-ae8f-9b57f91b866e@863f.org
 END:VEVENT
 END:VCALENDAR
