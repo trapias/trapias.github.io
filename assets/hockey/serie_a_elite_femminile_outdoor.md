@@ -810,6 +810,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>CUS TORINO - SG AMSICORA</strong>
 
+**Risultato: 0-1**
+
 Gara: 940
 
 Campo: Tazzoli 
@@ -823,6 +825,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 ## Dom 14/06/2026 14.00
 
 <strong>HF LORENZONI - UH CAPITOLINA</strong>
+
+**Risultato: 2-1**
 
 Gara: 941
 
@@ -838,6 +842,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>MILANO HP - BUTTERFLY ROMA</strong>
 
+**Risultato: 2-3**
+
 Gara: 942
 
 Campo: Campo Comunale 
@@ -851,6 +857,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 ## Dom 14/06/2026 15.00
 
 <strong>HT FEMM BOLOGNA - LAZIO HOCKEY</strong>
+
+**Risultato: 1-3**
 
 Gara: 943
 
