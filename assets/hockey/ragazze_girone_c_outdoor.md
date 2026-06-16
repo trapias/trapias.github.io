@@ -286,6 +286,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>SPORT AND GO - HC GENOVA</strong>
 
+**Risultato: 0-1**
+
 Gara: 1247
 
 Campo: CAMPO G.ARNALDI 
