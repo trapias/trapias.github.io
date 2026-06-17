@@ -41,7 +41,7 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 # Ragazze - OUTDOOR  - Girone A / Giornata 2
 
 <!-- VALCHISONE_START -->
-## Dom 21/06/2026 11.00 ⭐
+## - ⭐
 
 <strong>MILANO HP - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 
@@ -371,7 +371,7 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 
 <!-- VALCHISONE_START -->
-## Dom 21/06/2026 09.00 ⭐
+## - ⭐
 
 <strong>HOCKEY PRATO VALCHISONE FEMMINILE - MILANO HP</strong>
 
