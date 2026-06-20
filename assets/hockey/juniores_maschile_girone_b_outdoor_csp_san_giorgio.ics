@@ -2,11 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 378\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - CSP SAN GIORGIO\n\nRisultato: 1-2
-LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
-DTSTART:20260426T090000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 10 - HC VILLAFRANCA - CSP SAN GIORGIO
-UID:d1b0d4c6-cdf7-431b-a7bc-748893432d79@d1b0.org
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 267\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - CUS PADOVA ASD\n\nRisultato: 4-3
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20251026T100000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 3 - CSP SAN GIORGIO - CUS PADOVA ASD
+UID:38323858-dca9-4c34-96cf-6ac3b7eef5a6@3832.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 265\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CSP SAN GIORGIO\n\nRisultato: 2-6
@@ -14,23 +15,7 @@ GEO:44.708262;10.635422
 LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
 DTSTART:20251005T090000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 2 - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CSP SAN GIORGIO
-UID:9683e21e-c440-463f-b2aa-36bb5c7a31e2@9683.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 267\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - CUS PADOVA ASD\n\nRisultato: 4-3
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20251026T100000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 3 - CSP SAN GIORGIO - CUS PADOVA ASD
-UID:2136c5fc-ce37-4620-869f-d0975418b5ce@2136.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 374\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - CSP SAN GIORGIO\n\nRisultato: 4-5
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20260322T100000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 8 - CUS PADOVA ASD - CSP SAN GIORGIO
-UID:e19ef781-7dfe-4c22-8037-a9712825797e@e19e.org
+UID:c63359a5-d4f0-4714-9cad-2038fb427297@c633.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 271\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HC VILLAFRANCA\n\nRisultato: 3-3
@@ -38,7 +23,15 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20251116T100000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 5 - CSP SAN GIORGIO - HC VILLAFRANCA
-UID:51a57694-cc65-4ddf-b581-dc971d0a2118@51a5.org
+UID:b7c68286-9b33-41c8-a74d-5328d8df216c@b7c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 374\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - CSP SAN GIORGIO\n\nRisultato: 4-5
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20260322T100000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 8 - CUS PADOVA ASD - CSP SAN GIORGIO
+UID:009d2aa5-f6ff-4145-9e06-d9ed7c5c85b4@009d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 372\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE\n\nRisultato: 4-0
@@ -46,6 +39,13 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20260412T130000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 7 - CSP SAN GIORGIO - ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE
-UID:7f87c3d7-a4c2-49f2-a373-050dec962e83@7f87.org
+UID:355388a0-4026-418b-94cf-ac04a44f3746@3553.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 378\nImpianto comunale Nereo Faccioli - Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona\nHC VILLAFRANCA - CSP SAN GIORGIO\n\nRisultato: 1-2
+LOCATION: Lamacchi - Tosoni - Via Porta\, snc Villafranca di Verona
+DTSTART:20260426T090000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone B / Giornata 10 - HC VILLAFRANCA - CSP SAN GIORGIO
+UID:43069603-82de-40ed-bb1f-9405730d2f16@4306.org
 END:VEVENT
 END:VCALENDAR
