@@ -481,6 +481,8 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>ASD ADIGE UHC - CUS PADOVA ASD</strong>
 
+**Risultato: 4-3**
+
 Gara: 428
 
 Campo: Comunale Mori 
@@ -494,6 +496,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 ## Dom 10/05/2026 12.30
 
 <strong>HOCKEY TRIESTE 2012 - POLISPORTIVA CAMELOT</strong>
+
+**Risultato: 0-2**
 
 Gara: 429
 
