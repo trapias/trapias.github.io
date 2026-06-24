@@ -337,6 +337,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>MILANO HP - CUS PADOVA ASD</strong>
 
+**Risultato: 1-3**
+
 Gara: 399
 
 Campo: Campo Comunale 

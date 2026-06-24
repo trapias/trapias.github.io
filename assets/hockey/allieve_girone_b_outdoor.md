@@ -341,6 +341,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HOCKEY CLUB RIVA - CUS PADOVA ASD</strong>
 
+**Risultato: 1-7**
+
 Gara: 498
 
 Campo: Campo Hockey Club Riva 
@@ -354,6 +356,8 @@ Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 ## Dom 10/05/2026 12.30
 
 <strong>HOCKEY CLUB RIVA - CUS PADOVA ASD</strong>
+
+**Risultato: 2-5**
 
 Gara: 499
 
