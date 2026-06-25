@@ -7,27 +7,24 @@
     <description>Aggiornamenti per EasyRec</description>
     <language>it</language>
     <item>
-        <title>EasyRec 1.22</title>
-        <sparkle:version>17</sparkle:version>
-        <sparkle:shortVersionString>1.22</sparkle:shortVersionString>
-        <pubDate>Sun, 07 Jun 2026 18:46:23 +0200</pubDate>
+        <title>EasyRec 1.9</title>
+        <sparkle:version>4</sparkle:version>
+        <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+        <pubDate>Wed, 18 Feb 2026 09:22:31 +0100</pubDate>
         <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
         <description><![CDATA[
-<h2>easyRec 1.22</h2>
-<p><strong>Meeting reports overhauled</strong> — far higher quality, plus a new cloud/local Claude backend.</p>
+<h2>EasyRec 1.9</h2>
 <ul>
-<li><strong>New "Claude (cloud)" AI backend</strong>: use the Anthropic API for top-quality reports, or point it at a local Anthropic-compatible server (e.g. omlx). API key stored securely in the Keychain.</li>
-<li><strong>New rolling "refine" pipeline</strong> for long transcriptions: keeps decisions and action items from the <em>whole</em> meeting instead of just the final minutes (the old map-reduce was lossy).</li>
-<li><strong>Speaker-attributed action items</strong>: when diarization is on, the report knows who agreed to do what.</li>
-<li><strong>Ollama</strong>: configurable context window (num_ctx) so long transcriptions are no longer silently truncated to 2048 tokens.</li>
-<li>Larger output budget for meeting reports (4096 tokens) and safer token estimation for non-English transcripts.</li>
-<li>Qwen 2.5 32B added as an MLX option for machines with 32GB+ unified memory.</li>
+<li>Menu bar recording control — red dot icon with timer during recording (like QuickTime)</li>
+<li>Switch between floating bar, main window, or hidden mode while recording</li>
+<li>Stop recording from the menu bar dropdown</li>
+<li>Dock click restores main window during recording</li>
 </ul>
         ]]></description>
         <enclosure
-            url="https://www.trapias.it/assets/Mac/easyRec/EasyRec-1.22.dmg"
-            sparkle:edSignature="atMHzkoYtre82dBwjxkYculf5sfMtbbpvDeKR00/i6CDo9r9A3Szi01YIMAJg40k87+iuWJEt0H/euJvLd2rAA=="
-            length="15101373"
+            url="https://www.trapias.it/assets/Mac/easyRec/EasyRec-1.9.dmg"
+            sparkle:edSignature="QYfs9bC8XJCncNXjBIJb7MZpRZ4pRmoK7fQ2X3kRwsSyhdvfHefR+luPCoi7/7HQRBqj/rc/Ks7RqxojjsEJCw=="
+            length="6763808"
             type="application/octet-stream" />
     </item>
 </channel>
