@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 373\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nCSP SAN GIORGIO - CUS PADOVA ASD\n\nRisultato: 9-4
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20260118T150000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - CSP SAN GIORGIO - CUS PADOVA ASD
-UID:af990a11-4531-4127-9e95-74f8ef6dc853@af99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 359\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nHC VILLAFRANCA - CSP SAN GIORGIO\n\nRisultato: 5-9
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251228T150000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - HC VILLAFRANCA - CSP SAN GIORGIO
-UID:98cefb19-4fa9-415b-a22b-2a2ddf4e0bbe@98ce.org
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 363\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO\n\nRisultato: 3-9
+GEO:45.896716;13.491104
+LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
+DTSTART:20260106T120000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - A.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO
+UID:64922979-09ed-485d-b1da-13977c46a34c@6492.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 348\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nCSP SAN GIORGIO - HC VILLAFRANCA\n\nRisultato: 5-5
@@ -23,7 +15,15 @@ GEO:45.519604;10.258212
 LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
 DTSTART:20251208T120000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - CSP SAN GIORGIO - HC VILLAFRANCA
-UID:89e6b698-7da6-4f9a-b332-10f54434fd91@89e6.org
+UID:ce33f9af-b284-4a3d-b5eb-14d84fdf1e09@ce33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 359\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nHC VILLAFRANCA - CSP SAN GIORGIO\n\nRisultato: 5-9
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251228T150000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - HC VILLAFRANCA - CSP SAN GIORGIO
+UID:0f00a625-6ede-4c43-a4d3-d533be053d89@0f00.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 346\nPolivalente Verrocchio - Via Verrocchio\, 328 Brescia\nCSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO\n\nRisultato: 6-5
@@ -31,47 +31,7 @@ GEO:45.519604;10.258212
 LOCATION:Biblioteca San Polo - Parco dei Libri\, 328\, Via Andrea del Verrocchio\, San Polo Cimabue\, Zona Est\, Brescia\, Lombardia\, 25124\, Italia
 DTSTART:20251208T100000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - CSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO
-UID:6d6ff88b-3c3e-4ee8-9da5-4e6d5e321c22@6d6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 368\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHOCKEY CUSCUBE BRESCIA - CSP SAN GIORGIO\n\nRisultato: 1-6
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20260118T100000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HOCKEY CUSCUBE BRESCIA - CSP SAN GIORGIO
-UID:44e1238b-20e0-4f76-b755-ae132b8ff541@44e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 356\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nCSP SAN GIORGIO - HOCKEY CUSCUBE BRESCIA\n\nRisultato: 10-1
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251228T120000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - CSP SAN GIORGIO - HOCKEY CUSCUBE BRESCIA
-UID:507be10c-2241-4f5e-9ca1-c157319fe2d7@507b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 361\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nCSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO\n\nRisultato: 4-7
-GEO:45.896716;13.491104
-LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
-DTSTART:20260106T100000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - CSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO
-UID:39ced069-5a24-486c-b226-6931198ce15d@39ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 363\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO\n\nRisultato: 3-9
-GEO:45.896716;13.491104
-LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
-DTSTART:20260106T120000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - A.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO
-UID:bbd5ff0a-9172-48ff-b989-10f2224c21da@bbd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 354\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nA.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO\n\nRisultato: 1-13
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20251228T100000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - A.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO
-UID:79ec93d0-9e5d-4bb8-86c9-554d404a79c6@79ec.org
+UID:5de8b7e0-0a62-4013-b918-ac3028a95c2e@5de8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 569\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nCSP SAN GIORGIO - CUS PADOVA ASD\n\nRisultato: 4-6
@@ -79,6 +39,46 @@ GEO:45.896716;13.491104
 LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
 DTSTART:20260106T160000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - CSP SAN GIORGIO - CUS PADOVA ASD
-UID:b2e55ff5-38d9-4b0e-a2a9-98c097a17aaa@b2e5.org
+UID:903acb4c-01a9-49f1-b5f8-e5157a332c82@903a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 354\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nA.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO\n\nRisultato: 1-13
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251228T100000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - A.R.FINCANTIERI A.S.D. - CSP SAN GIORGIO
+UID:769838f3-e197-4a3c-8db5-d3bbc9dfca5a@7698.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 373\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nCSP SAN GIORGIO - CUS PADOVA ASD\n\nRisultato: 9-4
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20260118T150000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - CSP SAN GIORGIO - CUS PADOVA ASD
+UID:d382508d-6d85-46e6-be40-b302b8f5f7ac@d382.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 361\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nCSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO\n\nRisultato: 4-7
+GEO:45.896716;13.491104
+LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
+DTSTART:20260106T100000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - CSP SAN GIORGIO - ASD HOCKEY CLUB BONDENO
+UID:0ec69e55-3573-42e8-9954-cf87d688f96f@0ec6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 356\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nCSP SAN GIORGIO - HOCKEY CUSCUBE BRESCIA\n\nRisultato: 10-1
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20251228T120000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - CSP SAN GIORGIO - HOCKEY CUSCUBE BRESCIA
+UID:18926963-d782-4d56-9af3-06a297c916a7@1892.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 4\nGara 368\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHOCKEY CUSCUBE BRESCIA - CSP SAN GIORGIO\n\nRisultato: 1-6
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20260118T100000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 4 - HOCKEY CUSCUBE BRESCIA - CSP SAN GIORGIO
+UID:1dd29114-c027-425f-a642-dae06fb8977b@1dd2.org
 END:VEVENT
 END:VCALENDAR

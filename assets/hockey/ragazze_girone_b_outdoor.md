@@ -197,6 +197,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - ASD HOCKEY CLUB BONDENO</strong>
 
+**Risultato: 4-4**
+
 Gara: 441
 
 Campo: CP BARCA 
