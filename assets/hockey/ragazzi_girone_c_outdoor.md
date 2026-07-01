@@ -111,6 +111,8 @@ Geo: Geo(latitude=43.7267943, longitude=10.4108319)
 
 <strong>ASD HOCKEY SU PRATO CITTA' DEL TRICOLORE - CUS PISA ASD</strong>
 
+**Risultato: 2-3**
+
 Gara: 448
 
 Campo: Sport Arena 
@@ -194,6 +196,8 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 ## Dom 17/05/2026 13.00
 
 <strong>ASD HOCKEY CLUB BONDENO - CUS PISA ASD</strong>
+
+**Risultato: 7-0**
 
 Gara: 453
 
