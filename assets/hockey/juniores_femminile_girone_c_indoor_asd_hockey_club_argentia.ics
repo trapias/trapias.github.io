@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile  - Girone C / Giornata 1\nGara 317\nCOMPLESSO POLIVALENTE VIA CISALPINA - VIA CISALPINA\, snc Reggio nell'Emilia\nASD HOCKEY CLUB ARGENTIA - HOCKEY CLUB RIVA 1\n\nRisultato: 4-9
+GEO:44.709902;10.634509
+LOCATION:Via Cisalpina\, Tribunale\, San Paolo Tribunale\, Mancasale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42100\, Italia
+DTSTART:20260106T123000Z
+SUMMARY:Juniores Femminile  - Girone C / Giornata 1 - ASD HOCKEY CLUB ARGENTIA - HOCKEY CLUB RIVA 1
+UID:470ec72a-3ca7-48e4-90a3-aa3369e4a5a0@470e.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone C / Giornata 1\nGara 315\nCOMPLESSO POLIVALENTE VIA CISALPINA - VIA CISALPINA\, snc Reggio nell'Emilia\nMILANO HP - ASD HOCKEY CLUB ARGENTIA\n\nRisultato: 1-5
 GEO:44.709902;10.634509
 LOCATION:Via Cisalpina\, Tribunale\, San Paolo Tribunale\, Mancasale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42100\, Italia
 DTSTART:20260106T100000Z
 SUMMARY:Juniores Femminile  - Girone C / Giornata 1 - MILANO HP - ASD HOCKEY CLUB ARGENTIA
-UID:f2917c4a-6605-4e17-be1f-599644c8f30e@f291.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile  - Girone C / Giornata 2\nGara 325\npalacus - via circonvallazione est idroscalo 11 segrate\nASD HOCKEY CLUB ARGENTIA - HOCKEY CLUB RIVA 2\n\nRisultato: 5-2
-GEO:45.468790;9.292811
-LOCATION:Centro Universitario Sportivo Milano\, 11\, Via Arnoldo Mondadori\, Tregarezzo\, San Felice\, Segrate\, Milano\, Lombardia\, 20054\, Italia
-DTSTART:20260118T143000Z
-SUMMARY:Juniores Femminile  - Girone C / Giornata 2 - ASD HOCKEY CLUB ARGENTIA - HOCKEY CLUB RIVA 2
-UID:4892f282-7460-4ad5-bb5d-cee87bec8401@4892.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile  - Girone C / Giornata 2\nGara 326\npalacus - via circonvallazione est idroscalo 11 segrate\nASD HOCKEY CLUB ARGENTIA - HOCKEY CLUB RIVA 1\n\nRisultato: 4-4
-GEO:45.468790;9.292811
-LOCATION:Centro Universitario Sportivo Milano\, 11\, Via Arnoldo Mondadori\, Tregarezzo\, San Felice\, Segrate\, Milano\, Lombardia\, 20054\, Italia
-DTSTART:20260118T160000Z
-SUMMARY:Juniores Femminile  - Girone C / Giornata 2 - ASD HOCKEY CLUB ARGENTIA - HOCKEY CLUB RIVA 1
-UID:84b33277-238d-408b-8de6-8419372b51c1@84b3.org
+UID:a5d3261c-a1c3-42b6-83ca-381ea06b7d5b@a5d3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone C / Giornata 1\nGara 319\nCOMPLESSO POLIVALENTE VIA CISALPINA - VIA CISALPINA\, snc Reggio nell'Emilia\nASD HOCKEY CLUB ARGENTIA - HOCKEY CLUB RIVA 2\n\nRisultato: 9-0
@@ -31,7 +23,15 @@ GEO:44.709902;10.634509
 LOCATION:Via Cisalpina\, Tribunale\, San Paolo Tribunale\, Mancasale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42100\, Italia
 DTSTART:20260106T143000Z
 SUMMARY:Juniores Femminile  - Girone C / Giornata 1 - ASD HOCKEY CLUB ARGENTIA - HOCKEY CLUB RIVA 2
-UID:ef53c253-ca2b-4460-95a6-2b3c08304a5a@ef53.org
+UID:b387a4ef-ea93-4ffd-8ba0-3c7efce4106e@b387.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile  - Girone C / Giornata 2\nGara 325\npalacus - via circonvallazione est idroscalo 11 segrate\nASD HOCKEY CLUB ARGENTIA - HOCKEY CLUB RIVA 2\n\nRisultato: 5-2
+GEO:45.468790;9.292811
+LOCATION:Centro Universitario Sportivo Milano\, 11\, Via Arnoldo Mondadori\, Tregarezzo\, San Felice\, Segrate\, Milano\, Lombardia\, 20054\, Italia
+DTSTART:20260118T143000Z
+SUMMARY:Juniores Femminile  - Girone C / Giornata 2 - ASD HOCKEY CLUB ARGENTIA - HOCKEY CLUB RIVA 2
+UID:364cade0-ee62-4aba-a972-eef83c0f333f@364c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone C / Giornata 2\nGara 321\npalacus - via circonvallazione est idroscalo 11 segrate\nASD HOCKEY CLUB ARGENTIA - MILANO HP\n\nRisultato: 7-3
@@ -39,14 +39,14 @@ GEO:45.468790;9.292811
 LOCATION:Centro Universitario Sportivo Milano\, 11\, Via Arnoldo Mondadori\, Tregarezzo\, San Felice\, Segrate\, Milano\, Lombardia\, 20054\, Italia
 DTSTART:20260118T090000Z
 SUMMARY:Juniores Femminile  - Girone C / Giornata 2 - ASD HOCKEY CLUB ARGENTIA - MILANO HP
-UID:f4f2f132-663a-42d9-b85b-babea659533e@f4f2.org
+UID:856e2c6e-daca-4b24-8139-341a0f3bccd6@856e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile  - Girone C / Giornata 1\nGara 317\nCOMPLESSO POLIVALENTE VIA CISALPINA - VIA CISALPINA\, snc Reggio nell'Emilia\nASD HOCKEY CLUB ARGENTIA - HOCKEY CLUB RIVA 1\n\nRisultato: 4-9
-GEO:44.709902;10.634509
-LOCATION:Via Cisalpina\, Tribunale\, San Paolo Tribunale\, Mancasale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42100\, Italia
-DTSTART:20260106T123000Z
-SUMMARY:Juniores Femminile  - Girone C / Giornata 1 - ASD HOCKEY CLUB ARGENTIA - HOCKEY CLUB RIVA 1
-UID:7473c86f-276c-4ab7-bda9-3f4d16f4340d@7473.org
+DESCRIPTION:Juniores Femminile  - Girone C / Giornata 2\nGara 326\npalacus - via circonvallazione est idroscalo 11 segrate\nASD HOCKEY CLUB ARGENTIA - HOCKEY CLUB RIVA 1\n\nRisultato: 4-4
+GEO:45.468790;9.292811
+LOCATION:Centro Universitario Sportivo Milano\, 11\, Via Arnoldo Mondadori\, Tregarezzo\, San Felice\, Segrate\, Milano\, Lombardia\, 20054\, Italia
+DTSTART:20260118T160000Z
+SUMMARY:Juniores Femminile  - Girone C / Giornata 2 - ASD HOCKEY CLUB ARGENTIA - HOCKEY CLUB RIVA 1
+UID:f8881dd4-bb72-450d-857c-b341135d5a7b@f888.org
 END:VEVENT
 END:VCALENDAR
