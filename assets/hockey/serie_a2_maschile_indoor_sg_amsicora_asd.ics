@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 76\nPALATORRINO ROMA - VIA FIUME GIALLO\, 47 ROMA\nS.G. AMSICORA ASD - HOCKEY CLUB ROMA\n\nRisultato: 0-1
+GEO:41.809885;12.428105
+LOCATION:Palatorrino\, 47\, Via Fiume Giallo\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20260124T093000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - S.G. AMSICORA ASD - HOCKEY CLUB ROMA
+UID:021ae699-8051-408c-bd2c-a1fd11a01623@021a.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 74\nPalaRomanzi - viale Gambaro\, 66 Genova\nGENOVA H. 1980 - S.G. AMSICORA ASD\n\nRisultato: 3-4
 GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20260104T130000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - GENOVA H. 1980 - S.G. AMSICORA ASD
-UID:e8555a2c-b463-4f65-98d0-934b9ef7a160@e855.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 72\nPalaRomanzi - viale Gambaro\, 66 Genova\nS.G. AMSICORA ASD - HCU RASSEMBLEMENT TORINO\n\nRisultato: 3-4
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260104T110000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - S.G. AMSICORA ASD - HCU RASSEMBLEMENT TORINO
-UID:6145963a-f535-49ce-af23-c3741ba2a491@6145.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 69\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.G. AMSICORA ASD - HC SAVONA\n\nRisultato: 8-4
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20251213T130000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - S.G. AMSICORA ASD - HC SAVONA
-UID:b7b64151-5daa-4e00-af7a-e87e13c497eb@b7b6.org
+UID:558942c0-9b19-46fc-a0d6-d4e0974b66f7@5589.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 61\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nHOCKEY CLUB ROMA - S.G. AMSICORA ASD\n\nRisultato: 3-5
@@ -31,15 +23,15 @@ GEO:39.203688;9.134426
 LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251206T100000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - HOCKEY CLUB ROMA - S.G. AMSICORA ASD
-UID:28eb3eaf-c55b-481d-9bfb-f07e1456bba3@28eb.org
+UID:80adf92b-be77-4690-9580-160fc8703fc2@80ad.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 78\nPALATORRINO ROMA - VIA FIUME GIALLO\, 47 ROMA\nHC SAVONA - S.G. AMSICORA ASD\n\nRisultato: 4-8
-GEO:41.809885;12.428105
-LOCATION:Palatorrino\, 47\, Via Fiume Giallo\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260124T110000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - HC SAVONA - S.G. AMSICORA ASD
-UID:8a402f2c-b20a-41f1-a8bf-5704fccf0804@8a40.org
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 69\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nS.G. AMSICORA ASD - HC SAVONA\n\nRisultato: 8-4
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20251213T130000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - S.G. AMSICORA ASD - HC SAVONA
+UID:3df5e582-9088-43af-87bd-81a5fdcf72f4@3df5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 2\nGara 67\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHCU RASSEMBLEMENT TORINO - S.G. AMSICORA ASD\n\nRisultato: 7-2
@@ -47,15 +39,23 @@ GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
 DTSTART:20251213T110000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 2 - HCU RASSEMBLEMENT TORINO - S.G. AMSICORA ASD
-UID:3ab39510-5c8f-46bf-a308-c9e7c7cf4705@3ab3.org
+UID:a66f206c-0a34-426b-a520-93be555ba2a5@a66f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 76\nPALATORRINO ROMA - VIA FIUME GIALLO\, 47 ROMA\nS.G. AMSICORA ASD - HOCKEY CLUB ROMA\n\nRisultato: 0-1
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 4\nGara 78\nPALATORRINO ROMA - VIA FIUME GIALLO\, 47 ROMA\nHC SAVONA - S.G. AMSICORA ASD\n\nRisultato: 4-8
 GEO:41.809885;12.428105
 LOCATION:Palatorrino\, 47\, Via Fiume Giallo\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20260124T093000Z
-SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - S.G. AMSICORA ASD - HOCKEY CLUB ROMA
-UID:a5ff91cc-9de8-4ccb-b521-983445de9d65@a5ff.org
+DTSTART:20260124T110000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 4 - HC SAVONA - S.G. AMSICORA ASD
+UID:ee2e2289-5ca2-4061-8337-42536bdd2305@ee2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 3\nGara 72\nPalaRomanzi - viale Gambaro\, 66 Genova\nS.G. AMSICORA ASD - HCU RASSEMBLEMENT TORINO\n\nRisultato: 3-4
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20260104T110000Z
+SUMMARY:Serie A2 Maschile - Indoor / Giornata 3 - S.G. AMSICORA ASD - HCU RASSEMBLEMENT TORINO
+UID:303ca3db-4a10-45f9-9d66-3ae1847a77c7@303c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - Indoor / Giornata 1\nGara 64\nIMPIANTO SPORTIVO POLIVALENTE PALESTRA A - VIA DEGLI SPORT CAGLIARI\nS.G. AMSICORA ASD - GENOVA H. 1980\n\nRisultato: 6-3
@@ -63,6 +63,6 @@ GEO:39.203688;9.134426
 LOCATION:Via degli Sport\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20251206T130000Z
 SUMMARY:Serie A2 Maschile - Indoor / Giornata 1 - S.G. AMSICORA ASD - GENOVA H. 1980
-UID:2c124034-818c-4da2-8227-91c1766f965f@2c12.org
+UID:50fb466a-6142-43b5-9257-f5777d412c65@50fb.org
 END:VEVENT
 END:VCALENDAR

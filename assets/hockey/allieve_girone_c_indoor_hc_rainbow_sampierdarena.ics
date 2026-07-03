@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Allieve  - Girone C / Giornata 1\nGara 269\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC RAINBOW SAMPIERDARENA - HC SAVONA\n\nRisultato: 1-5
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251214T110000Z
+SUMMARY:Allieve  - Girone C / Giornata 1 - HC RAINBOW SAMPIERDARENA - HC SAVONA
+UID:0de51ef1-f77a-45f9-a2fa-24ceeb870311@0de5.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 273\nPalaRomanzi - viale Gambaro\, 66 Genova\nCUS PISA ASD - HC RAINBOW SAMPIERDARENA\n\nRisultato: 11-0
 GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20260105T110000Z
 SUMMARY:Allieve  - Girone C / Giornata 2 - CUS PISA ASD - HC RAINBOW SAMPIERDARENA
-UID:4752e503-7bb0-4dd6-acf3-7e7eab989b3d@4752.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 275\nPalaRomanzi - viale Gambaro\, 66 Genova\nHC SAVONA - HC RAINBOW SAMPIERDARENA\n\nRisultato: 7-0
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260105T150000Z
-SUMMARY:Allieve  - Girone C / Giornata 2 - HC SAVONA - HC RAINBOW SAMPIERDARENA
-UID:5ff71146-0986-45a4-b204-4be7865d4287@5ff7.org
+UID:a9859837-7e7f-4c00-9c5f-6364a945665a@a985.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 1\nGara 270\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHF GENOVA 1980 - HC RAINBOW SAMPIERDARENA\n\nRisultato: 4-1
@@ -23,7 +23,15 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251214T130000Z
 SUMMARY:Allieve  - Girone C / Giornata 1 - HF GENOVA 1980 - HC RAINBOW SAMPIERDARENA
-UID:26a66273-f633-4e29-8157-88b55dda2531@26a6.org
+UID:961214c9-18eb-44ad-b326-b28fd90eda4a@9612.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 275\nPalaRomanzi - viale Gambaro\, 66 Genova\nHC SAVONA - HC RAINBOW SAMPIERDARENA\n\nRisultato: 7-0
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20260105T150000Z
+SUMMARY:Allieve  - Girone C / Giornata 2 - HC SAVONA - HC RAINBOW SAMPIERDARENA
+UID:7619d44e-ff4b-4e5f-bc31-9bf781c52f2e@7619.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 3\nGara 276\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC RAINBOW SAMPIERDARENA - CUS PISA ASD\n\nRisultato: 0-8
@@ -31,7 +39,7 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260207T084500Z
 SUMMARY:Allieve  - Girone C / Giornata 3 - HC RAINBOW SAMPIERDARENA - CUS PISA ASD
-UID:f44ddce1-92f5-4d2b-be9c-03018b2be966@f44d.org
+UID:3070d470-e5e8-401a-848b-09dd282c72c7@3070.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 3\nGara 278\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC RAINBOW SAMPIERDARENA - HF GENOVA 1980\n\nRisultato: 1-4
@@ -39,14 +47,6 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260207T113000Z
 SUMMARY:Allieve  - Girone C / Giornata 3 - HC RAINBOW SAMPIERDARENA - HF GENOVA 1980
-UID:e64d8bd2-39e8-4885-9f77-99f9f1995b40@e64d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone C / Giornata 1\nGara 269\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC RAINBOW SAMPIERDARENA - HC SAVONA\n\nRisultato: 1-5
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251214T110000Z
-SUMMARY:Allieve  - Girone C / Giornata 1 - HC RAINBOW SAMPIERDARENA - HC SAVONA
-UID:e0ae2685-b595-47d5-b7e3-ee352530e816@e0ae.org
+UID:236c07cf-5ca9-47ad-831b-c1149ebabd9d@236c.org
 END:VEVENT
 END:VCALENDAR

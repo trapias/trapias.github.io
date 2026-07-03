@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 274\nPalaRomanzi - viale Gambaro\, 66 Genova\nHF GENOVA 1980 - CUS PISA ASD\n\nRisultato: 0-11
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260105T130000Z
-SUMMARY:Allieve  - Girone C / Giornata 2 - HF GENOVA 1980 - CUS PISA ASD
-UID:851f9d63-0caa-4d11-87d7-8c197e314301@851f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone C / Giornata 1\nGara 268\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - HF GENOVA 1980\n\nRisultato: 8-0
+DESCRIPTION:Allieve  - Girone C / Giornata 1\nGara 270\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHF GENOVA 1980 - HC RAINBOW SAMPIERDARENA\n\nRisultato: 4-1
 GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251214T090000Z
-SUMMARY:Allieve  - Girone C / Giornata 1 - CUS PISA ASD - HF GENOVA 1980
-UID:47121598-f6f1-408f-9a68-aad8d8b9c966@4712.org
+DTSTART:20251214T130000Z
+SUMMARY:Allieve  - Girone C / Giornata 1 - HF GENOVA 1980 - HC RAINBOW SAMPIERDARENA
+UID:ff0db93a-51e4-4da4-9d1d-45e495b5dca1@ff0d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 3\nGara 278\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC RAINBOW SAMPIERDARENA - HF GENOVA 1980\n\nRisultato: 1-4
@@ -23,15 +15,23 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260207T113000Z
 SUMMARY:Allieve  - Girone C / Giornata 3 - HC RAINBOW SAMPIERDARENA - HF GENOVA 1980
-UID:40dbc731-6a3b-4d67-85d3-3a855e89ce34@40db.org
+UID:aeda2b61-d9c3-4a6b-8be1-2466461952f2@aeda.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 272\nPalaRomanzi - viale Gambaro\, 66 Genova\nHC SAVONA - HF GENOVA 1980\n\nRisultato: 3-1
+DESCRIPTION:Allieve  - Girone C / Giornata 1\nGara 268\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - HF GENOVA 1980\n\nRisultato: 8-0
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251214T090000Z
+SUMMARY:Allieve  - Girone C / Giornata 1 - CUS PISA ASD - HF GENOVA 1980
+UID:84f0f941-94d4-412b-a45e-c231b8991192@84f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 274\nPalaRomanzi - viale Gambaro\, 66 Genova\nHF GENOVA 1980 - CUS PISA ASD\n\nRisultato: 0-11
 GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260105T090000Z
-SUMMARY:Allieve  - Girone C / Giornata 2 - HC SAVONA - HF GENOVA 1980
-UID:f5c96ade-049e-4a87-967e-2078e26e193d@f5c9.org
+DTSTART:20260105T130000Z
+SUMMARY:Allieve  - Girone C / Giornata 2 - HF GENOVA 1980 - CUS PISA ASD
+UID:86d1cdae-433e-4f68-8159-eae86168d00e@86d1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 3\nGara 277\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHF GENOVA 1980 - HC SAVONA\n\nRisultato: 2-10
@@ -39,14 +39,14 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260207T094500Z
 SUMMARY:Allieve  - Girone C / Giornata 3 - HF GENOVA 1980 - HC SAVONA
-UID:a816d7bc-8603-40bc-aa1f-94c7f828c1f2@a816.org
+UID:0eb12865-d6b5-4164-a23b-80b276c29c5e@0eb1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone C / Giornata 1\nGara 270\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHF GENOVA 1980 - HC RAINBOW SAMPIERDARENA\n\nRisultato: 4-1
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251214T130000Z
-SUMMARY:Allieve  - Girone C / Giornata 1 - HF GENOVA 1980 - HC RAINBOW SAMPIERDARENA
-UID:5ad95182-fd15-46c8-a36f-0728b6148cf3@5ad9.org
+DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 272\nPalaRomanzi - viale Gambaro\, 66 Genova\nHC SAVONA - HF GENOVA 1980\n\nRisultato: 3-1
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20260105T090000Z
+SUMMARY:Allieve  - Girone C / Giornata 2 - HC SAVONA - HF GENOVA 1980
+UID:342d60eb-f4d0-42f6-bd57-6936e66d0023@342d.org
 END:VEVENT
 END:VCALENDAR
