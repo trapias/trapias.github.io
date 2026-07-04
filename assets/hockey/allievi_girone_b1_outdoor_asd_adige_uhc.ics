@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 2\nGara 460\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CSP SAN GIORGIO\n\nRisultato: 3-20
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251026T120000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 2 - ASD ADIGE UHC - CSP SAN GIORGIO
-UID:ad4c0535-92ac-49e7-a27e-2042766d7041@ad4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 2\nGara 459\nComunale Mori - Via Lomba\, 23 Mori\nPOLISPORTIVA CAMELOT - ASD ADIGE UHC\n\nRisultato: 1-10
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251026T100000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 2 - POLISPORTIVA CAMELOT - ASD ADIGE UHC
-UID:ecb91be7-d123-4116-8ba7-dd52cb7c111c@ecb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 3\nGara 465\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nASD ADIGE UHC - POLISPORTIVA CAMELOT\n\nRisultato: 3-5
+DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 3\nGara 463\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nASD ADIGE UHC - HOCKEY CLUB RIVA\n\nRisultato: 0-26
 GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20251102T120000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 3 - ASD ADIGE UHC - POLISPORTIVA CAMELOT
-UID:90156e6e-6684-4493-b4da-af19c3e4ba32@9015.org
+DTSTART:20251102T100000Z
+SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 3 - ASD ADIGE UHC - HOCKEY CLUB RIVA
+UID:a38c87be-637d-4787-8f4d-6124eebda958@a38c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 1\nGara 457\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHOCKEY CLUB RIVA - ASD ADIGE UHC\n\nRisultato: 11-0
@@ -31,7 +15,23 @@ GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20251005T110000Z
 SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 1 - HOCKEY CLUB RIVA - ASD ADIGE UHC
-UID:68d22546-51b8-4e0b-8fc6-1cd8b77bd3e2@68d2.org
+UID:71adc83a-a1df-44f6-914c-f83e27372af0@71ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 2\nGara 459\nComunale Mori - Via Lomba\, 23 Mori\nPOLISPORTIVA CAMELOT - ASD ADIGE UHC\n\nRisultato: 1-10
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251026T100000Z
+SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 2 - POLISPORTIVA CAMELOT - ASD ADIGE UHC
+UID:a1ec3932-d690-4878-8ccb-ae16358384b3@a1ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 2\nGara 460\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CSP SAN GIORGIO\n\nRisultato: 3-20
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251026T120000Z
+SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 2 - ASD ADIGE UHC - CSP SAN GIORGIO
+UID:a1498586-a184-4cc9-abd4-bd6495c332de@a149.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 1\nGara 454\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nCSP SAN GIORGIO - ASD ADIGE UHC\n\nRisultato: 9-2
@@ -39,14 +39,14 @@ GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20251005T090000Z
 SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 1 - CSP SAN GIORGIO - ASD ADIGE UHC
-UID:54a1fcaf-65bc-4b59-8d00-382532a3a5a7@54a1.org
+UID:b8d27c1f-8a9a-45e7-8733-f3e0fcbae313@b8d2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 3\nGara 463\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nASD ADIGE UHC - HOCKEY CLUB RIVA\n\nRisultato: 0-26
+DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 3\nGara 465\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nASD ADIGE UHC - POLISPORTIVA CAMELOT\n\nRisultato: 3-5
 GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20251102T100000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 3 - ASD ADIGE UHC - HOCKEY CLUB RIVA
-UID:c5781ccd-8585-4df4-8503-25014d623fb0@c578.org
+DTSTART:20251102T120000Z
+SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 3 - ASD ADIGE UHC - POLISPORTIVA CAMELOT
+UID:b5a9f691-72c1-401c-8bd3-663a36d2dc54@b5a9.org
 END:VEVENT
 END:VCALENDAR
