@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 2\nGara 870\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - MONCALVESE H\n\nRisultato: 0-2
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20260510T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 2 - CUS PADOVA - MONCALVESE H
+UID:92732318-791a-4909-ae6e-f13c46b65639@9273.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 1\nGara 868\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - HF GENOVA 80\n\nRisultato: 3-3
 GEO:45.050205;8.265038
 LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
 DTSTART:20260322T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 1 - MONCALVESE H - HF GENOVA 80
-UID:70b9f9c7-4765-4cc1-9083-2ceafa6c04b8@70b9.org
+UID:6275e4c8-2885-4e61-9532-85d6eebc9605@6275.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 5\nGara 876\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - CUS PADOVA\n\nRisultato: 1-0
@@ -15,15 +23,7 @@ GEO:45.050205;8.265038
 LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
 DTSTART:20260524T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 5 - MONCALVESE H - CUS PADOVA
-UID:82c90ce0-3a52-4b94-aed0-4a8bc4c855d6@82c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 3\nGara 872\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC ARGENTIA - MONCALVESE H\n\nRisultato: 2-3
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260517T140000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 3 - HC ARGENTIA - MONCALVESE H
-UID:8f6418e8-5ec0-4498-93ba-d5eb2b253ed6@8f64.org
+UID:e508a035-83ad-42aa-8df4-12c94f19ef35@e508.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 6\nGara 878\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - HC ARGENTIA\n\nRisultato: 3-1
@@ -31,15 +31,15 @@ GEO:45.050205;8.265038
 LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
 DTSTART:20260531T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 6 - MONCALVESE H - HC ARGENTIA
-UID:e2ce3700-7e38-4c47-b43c-fcdd8d6d2da6@e2ce.org
+UID:b3361ee6-db63-45c5-b462-5190db250f6b@b336.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 2\nGara 870\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - MONCALVESE H\n\nRisultato: 0-2
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20260510T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 2 - CUS PADOVA - MONCALVESE H
-UID:56fbff1d-327f-4caf-9162-b76212be8011@56fb.org
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 3\nGara 872\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC ARGENTIA - MONCALVESE H\n\nRisultato: 2-3
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260517T140000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 3 - HC ARGENTIA - MONCALVESE H
+UID:d9673933-e075-4265-948b-62f2ad7618d6@d967.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 4\nGara 874\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 80 - MONCALVESE H\n\nRisultato: 1-4
@@ -47,6 +47,6 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20260419T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 4 - HF GENOVA 80 - MONCALVESE H
-UID:6c603c66-8268-49a3-90c6-d19b5ab9e35b@6c60.org
+UID:2fe659c4-e20e-4848-aaa6-acf58930ca5d@2fe6.org
 END:VEVENT
 END:VCALENDAR
