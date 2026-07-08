@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6\nGara 854\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - POL FERRINI\n\nRisultato: 2-2
-GEO:45.050205;8.265038
-LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
-DTSTART:20260426T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6 - MONCALVESE H - POL FERRINI
-UID:42ad52f4-3b33-43ff-b7d4-cfd0e53e1922@42ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4\nGara 850\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - CUS PISA ASD\n\nRisultato: 1-2
-GEO:45.050205;8.265038
-LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
-DTSTART:20260412T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4 - MONCALVESE H - CUS PISA ASD
-UID:a551bf4b-a0f0-4c2b-8ddf-549de4748fa1@a551.org
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1\nGara 844\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - MONCALVESE H\n\nRisultato: 1-0
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260315T140000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1 - CUS PISA ASD - MONCALVESE H
+UID:bb0f3c6b-d876-4a32-a02f-5598190a2292@bb0f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5\nGara 853\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 80 - MONCALVESE H\n\nRisultato: 1-4
@@ -23,15 +15,7 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20260419T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5 - HF GENOVA 80 - MONCALVESE H
-UID:b6e626c5-5411-4041-a542-afcbc41699b2@b6e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1\nGara 844\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - MONCALVESE H\n\nRisultato: 1-0
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260315T140000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1 - CUS PISA ASD - MONCALVESE H
-UID:61eb612f-b263-46dd-8bfe-167e7ff45757@61eb.org
+UID:17d286bb-e45e-4d78-af4a-7e95853d574b@17d2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3\nGara 848\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOL FERRINI - MONCALVESE H\n\nRisultato: 2-3
@@ -39,7 +23,23 @@ GEO:39.235186;9.139409
 LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
 DTSTART:20260329T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3 - POL FERRINI - MONCALVESE H
-UID:4881a703-8d1c-4e2d-ab38-1de0f08dae31@4881.org
+UID:7a8f231d-caeb-4a03-bd98-0550674f8cd6@7a8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4\nGara 850\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - CUS PISA ASD\n\nRisultato: 1-2
+GEO:45.050205;8.265038
+LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
+DTSTART:20260412T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4 - MONCALVESE H - CUS PISA ASD
+UID:f2d6bd8e-c577-4991-99b9-4ca3fd880844@f2d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6\nGara 854\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - POL FERRINI\n\nRisultato: 2-2
+GEO:45.050205;8.265038
+LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
+DTSTART:20260426T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6 - MONCALVESE H - POL FERRINI
+UID:ebadca39-e308-4eaf-a130-b71a24867f86@ebad.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2\nGara 847\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - HF GENOVA 80\n\nRisultato: 3-3
@@ -47,6 +47,6 @@ GEO:45.050205;8.265038
 LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
 DTSTART:20260322T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2 - MONCALVESE H - HF GENOVA 80
-UID:24911fef-145e-48d6-88b8-637a91149add@2491.org
+UID:f9c3a53e-b461-499b-b6cb-67f555dad620@f9c3.org
 END:VEVENT
 END:VCALENDAR
