@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 1\nGara 456\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nCSP SAN GIORGIO - POLISPORTIVA CAMELOT\n\nRisultato: 10-0
-GEO:45.601581;11.733989
-LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20251005T110000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 1 - CSP SAN GIORGIO - POLISPORTIVA CAMELOT
-UID:30573748-f7bf-4963-9f76-90e6dc505110@3057.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 2\nGara 458\nComunale Mori - Via Lomba\, 23 Mori\nCSP SAN GIORGIO - HOCKEY CLUB RIVA\n\nRisultato: 1-9
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251026T100000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 2 - CSP SAN GIORGIO - HOCKEY CLUB RIVA
-UID:069d9867-f4a7-4dfb-9918-c2cc7942ae82@069d.org
+DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 3\nGara 464\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nHOCKEY CLUB RIVA - CSP SAN GIORGIO\n\nRisultato: 6-4
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20251102T120000Z
+SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 3 - HOCKEY CLUB RIVA - CSP SAN GIORGIO
+UID:e0a4b678-345a-4c13-b5b6-0712c058279a@e0a4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 1\nGara 454\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nCSP SAN GIORGIO - ASD ADIGE UHC\n\nRisultato: 9-2
@@ -23,7 +15,15 @@ GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20251005T090000Z
 SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 1 - CSP SAN GIORGIO - ASD ADIGE UHC
-UID:493d4118-462d-4568-8be0-4049ea00e071@493d.org
+UID:3268bad8-db8c-4633-a062-7777116d5c46@3268.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 2\nGara 458\nComunale Mori - Via Lomba\, 23 Mori\nCSP SAN GIORGIO - HOCKEY CLUB RIVA\n\nRisultato: 1-9
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251026T100000Z
+SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 2 - CSP SAN GIORGIO - HOCKEY CLUB RIVA
+UID:15fab93f-4ca6-44d8-92a6-695261131330@15fa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 3\nGara 462\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nPOLISPORTIVA CAMELOT - CSP SAN GIORGIO\n\nRisultato: 1-9
@@ -31,7 +31,15 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20251102T100000Z
 SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 3 - POLISPORTIVA CAMELOT - CSP SAN GIORGIO
-UID:0050db82-689d-4b1d-819d-767f94779b86@0050.org
+UID:66a7ed4e-9e32-4e1b-a41a-12a1fe7539a6@66a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 1\nGara 456\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nCSP SAN GIORGIO - POLISPORTIVA CAMELOT\n\nRisultato: 10-0
+GEO:45.601581;11.733989
+LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20251005T110000Z
+SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 1 - CSP SAN GIORGIO - POLISPORTIVA CAMELOT
+UID:a8413660-7b6b-4869-aa9b-fbdb65b54bee@a841.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 2\nGara 460\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CSP SAN GIORGIO\n\nRisultato: 3-20
@@ -39,14 +47,6 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20251026T120000Z
 SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 2 - ASD ADIGE UHC - CSP SAN GIORGIO
-UID:e6bd0fef-c5b9-49ba-b925-30e5b5e0ea0b@e6bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 3\nGara 464\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nHOCKEY CLUB RIVA - CSP SAN GIORGIO\n\nRisultato: 6-4
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20251102T120000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 3 - HOCKEY CLUB RIVA - CSP SAN GIORGIO
-UID:6c88d544-bfe2-4031-90b1-3cbc8f4dcb29@6c88.org
+UID:c50fbb26-fdb8-4ce5-8181-5bfac1e29d29@c50f.org
 END:VEVENT
 END:VCALENDAR

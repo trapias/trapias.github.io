@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 202\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nA.R.FINCANTIERI A.S.D. - HC GRANTORTO\n\nRisultato: 0-5
-GEO:45.801036;13.542335
-LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
-DTSTART:20251018T130000Z
-SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 4 - A.R.FINCANTIERI A.S.D. - HC GRANTORTO
-UID:71093bd8-8674-4ccb-a378-407285a04fb0@7109.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 195\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nASD CERNUSCO FIELD HOCKEY - HC GRANTORTO\n\nRisultato: 3-4
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20250927T130000Z
-SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 2 - ASD CERNUSCO FIELD HOCKEY - HC GRANTORTO
-UID:f1826b21-d12e-47fb-b83b-30cda422cfad@f182.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 197\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - HOCKEY CLUB RIVA\n\nRisultato: 0-2
 GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20251011T130000Z
 SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 3 - HC GRANTORTO - HOCKEY CLUB RIVA
-UID:69ab8a0d-b486-40b5-9cdf-27af3cb6173f@69ab.org
+UID:3acbb883-94d7-46b8-b359-043a019f59f0@3acb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 202\nCampo Ass. R. Fincantieri - Via Atleti Azzurri  d'Italia\, snc Monfalcone\nA.R.FINCANTIERI A.S.D. - HC GRANTORTO\n\nRisultato: 0-5
+GEO:45.801036;13.542335
+LOCATION:Via Atleti Azzurri d'Italia\, Monfalcone\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34074\, Italia
+DTSTART:20251018T130000Z
+SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 4 - A.R.FINCANTIERI A.S.D. - HC GRANTORTO
+UID:9a6218be-1904-451a-89e6-d8265149cb28@9a62.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 205\nComunale San Polo - Via Giotto\, 1 Brescia\nHOCKEY CUSCUBE BRESCIA - HC GRANTORTO\n\nRisultato: 0-3
@@ -31,7 +23,15 @@ GEO:45.449027;10.227648
 LOCATION:1\, Via Giotto\, Montirone\, Brescia\, Lombardia\, 25010\, Italia
 DTSTART:20251025T130000Z
 SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 5 - HOCKEY CUSCUBE BRESCIA - HC GRANTORTO
-UID:be82ea84-e637-48ae-870e-dd15059f2a36@be82.org
+UID:ca288e5e-0e54-480d-863f-77a47e22ee7c@ca28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 195\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nASD CERNUSCO FIELD HOCKEY - HC GRANTORTO\n\nRisultato: 3-4
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20250927T130000Z
+SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 2 - ASD CERNUSCO FIELD HOCKEY - HC GRANTORTO
+UID:536a2b14-b612-42ed-bd98-00d55fb61f3b@536a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 192\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - HC VILLAFRANCA\n\nRisultato: 0-2
@@ -39,6 +39,6 @@ GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20250920T130000Z
 SUMMARY:Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 1 - HC GRANTORTO - HC VILLAFRANCA
-UID:12bc55d6-b1cc-4231-8285-0991f2997c90@12bc.org
+UID:0d11d091-9e77-467f-9b47-7b1ce9357c65@0d11.org
 END:VEVENT
 END:VCALENDAR
