@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5\nGara 853\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 80 - MONCALVESE H\n\nRisultato: 1-4
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20260419T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5 - HF GENOVA 80 - MONCALVESE H
+UID:9464bb93-23ad-4354-90cd-c793632adf63@9464.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4\nGara 851\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 80 - POL FERRINI\n\nRisultato: 0-1
 GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20260412T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4 - HF GENOVA 80 - POL FERRINI
-UID:8b9ab2fb-521e-4a1d-a60b-9aabf057c042@8b9a.org
+UID:2984d83f-0b6a-4440-8195-ee23fe88d3ae@2984.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3\nGara 849\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 80 - CUS PISA ASD\n\nRisultato: 0-0
@@ -15,7 +23,7 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20260329T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3 - HF GENOVA 80 - CUS PISA ASD
-UID:707073bb-b195-43b4-a815-5a93f1fe9746@7070.org
+UID:28802f01-5eb9-4ee0-a4c4-c01144e2a68d@2880.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6\nGara 855\nCAMPO HOCKEY PRATO - VIA FEDERICO CHIARUGI PISA\nCUS PISA ASD - HF GENOVA 80\n\nRisultato: 0-0
@@ -23,7 +31,7 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260426T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6 - CUS PISA ASD - HF GENOVA 80
-UID:d9fe7870-d958-497c-a69e-d894830d8d90@d9fe.org
+UID:c229a1f6-6559-4fc9-a3a9-8f964d45d601@c229.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2\nGara 847\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - HF GENOVA 80\n\nRisultato: 3-3
@@ -31,15 +39,7 @@ GEO:45.050205;8.265038
 LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
 DTSTART:20260322T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2 - MONCALVESE H - HF GENOVA 80
-UID:d068cf65-eb4f-4f1b-9322-308db678fdf9@d068.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5\nGara 853\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 80 - MONCALVESE H\n\nRisultato: 1-4
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20260419T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5 - HF GENOVA 80 - MONCALVESE H
-UID:5d46517a-d642-4220-a8f9-e951502a714d@5d46.org
+UID:14c074bb-5f6c-4d8e-9d7d-ae9131f2d281@14c0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1\nGara 845\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOL FERRINI - HF GENOVA 80\n\nRisultato: 2-0
@@ -47,6 +47,6 @@ GEO:39.235186;9.139409
 LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
 DTSTART:20260315T100000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1 - POL FERRINI - HF GENOVA 80
-UID:3df519f1-7445-49d9-8bbd-bbd5b5ed9861@3df5.org
+UID:d5c6f6e1-c017-44ca-9cec-5a120ad698f2@d5c6.org
 END:VEVENT
 END:VCALENDAR

@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 5\nGara 877\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 80 - HC ARGENTIA\n\nRisultato: 2-0
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20260524T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 5 - HF GENOVA 80 - HC ARGENTIA
-UID:cd113ef2-362d-4dbe-803c-e8ef0141a6c9@cd11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 2\nGara 871\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC ARGENTIA - HF GENOVA 80\n\nRisultato: 3-2
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20260510T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 2 - HC ARGENTIA - HF GENOVA 80
-UID:b1c1cb51-a700-45b2-bd1f-4ea1ece9f851@b1c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 4\nGara 874\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 80 - MONCALVESE H\n\nRisultato: 1-4
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20260419T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 4 - HF GENOVA 80 - MONCALVESE H
-UID:6ef27d8e-df1c-4bdd-950b-55ec06cb7c1e@6ef2.org
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 1\nGara 868\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - HF GENOVA 80\n\nRisultato: 3-3
+GEO:45.050205;8.265038
+LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
+DTSTART:20260322T140000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 1 - MONCALVESE H - HF GENOVA 80
+UID:241780dc-9900-4dce-860e-1ee4aa504e3d@2417.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 6\nGara 879\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA - HF GENOVA 80\n\nRisultato: 0-0
@@ -31,7 +15,23 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20260531T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 6 - CUS PADOVA - HF GENOVA 80
-UID:d3917929-4f7c-4cb3-9812-4f6a3ff0f689@d391.org
+UID:eaf5cf26-7115-40f4-8316-b5361727270d@eaf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 4\nGara 874\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 80 - MONCALVESE H\n\nRisultato: 1-4
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20260419T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 4 - HF GENOVA 80 - MONCALVESE H
+UID:0bcfaf54-b850-4fae-ae74-646f2764714a@0bcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 5\nGara 877\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 80 - HC ARGENTIA\n\nRisultato: 2-0
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20260524T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 5 - HF GENOVA 80 - HC ARGENTIA
+UID:8a596247-89c5-4446-a3d2-19c1ee69128d@8a59.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 3\nGara 873\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 80 - CUS PADOVA\n\nRisultato: 2-1
@@ -39,14 +39,14 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20260517T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 3 - HF GENOVA 80 - CUS PADOVA
-UID:26da075b-38f6-4442-8014-c3a61ef30072@26da.org
+UID:e75f27ac-a743-484c-8ab1-94b0536cdf1b@e75f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 1\nGara 868\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nMONCALVESE H - HF GENOVA 80\n\nRisultato: 3-3
-GEO:45.050205;8.265038
-LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
-DTSTART:20260322T140000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 1 - MONCALVESE H - HF GENOVA 80
-UID:15880b88-3260-4d03-a2dc-018af611e16b@1588.org
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 2\nGara 871\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nHC ARGENTIA - HF GENOVA 80\n\nRisultato: 3-2
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20260510T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - PERMANENZA / Giornata 2 - HC ARGENTIA - HF GENOVA 80
+UID:b99a582c-13be-4a79-8897-12200f17cbb3@b99a.org
 END:VEVENT
 END:VCALENDAR
