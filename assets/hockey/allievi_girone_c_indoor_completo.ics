@@ -2,36 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone C / Giornata 2\nGara 299\nPalaRomanzi - viale Gambaro\, 66 Genova\nGENOVA H. 1980 DRITTO - CUS PISA ASD\n\nRisultato: 4-5
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260105T140000Z
-SUMMARY:Allievi  - Girone C / Giornata 2 - GENOVA H. 1980 DRITTO - CUS PISA ASD
-UID:a986f40a-e17e-4be6-80cf-ef59181259ee@a986.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone C / Giornata 1\nGara 290\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - GENOVA H. 1980 DRITTO\n\nRisultato: 2-8
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251214T100000Z
-SUMMARY:Allievi  - Girone C / Giornata 1 - CUS PISA ASD - GENOVA H. 1980 DRITTO
-UID:42809b09-f662-4d66-9375-b4db70490527@4280.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone C / Giornata 2\nGara 294\nPalaRomanzi - viale Gambaro\, 66 Genova\nASD BAD LAKE HOCKEY - GENOVA H. 1980 DRITTO\n\nRisultato: 2-2
 GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20260105T100000Z
 SUMMARY:Allievi  - Girone C / Giornata 2 - ASD BAD LAKE HOCKEY - GENOVA H. 1980 DRITTO
-UID:386eb7dd-582a-4109-a6a5-1e731c14cadf@386e.org
+UID:f64683cf-13fd-41d8-b016-011a94d5e614@f646.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone C / Giornata 1\nGara 292\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nGENOVA H. 1980 DRITTO - ASD BAD LAKE HOCKEY\n\nRisultato: 2-3
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251214T120000Z
-SUMMARY:Allievi  - Girone C / Giornata 1 - GENOVA H. 1980 DRITTO - ASD BAD LAKE HOCKEY
-UID:ba3f62a5-430a-4e5c-adb5-38f6a85be6e9@ba3f.org
+DESCRIPTION:Allievi  - Girone C / Giornata 2\nGara 299\nPalaRomanzi - viale Gambaro\, 66 Genova\nGENOVA H. 1980 DRITTO - CUS PISA ASD\n\nRisultato: 4-5
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20260105T140000Z
+SUMMARY:Allievi  - Girone C / Giornata 2 - GENOVA H. 1980 DRITTO - CUS PISA ASD
+UID:8fc36048-fffe-40f8-8469-65133e978256@8fc3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone C / Giornata 2\nGara 300\nPalaRomanzi - viale Gambaro\, 66 Genova\nCUS PISA ASD - ASD BAD LAKE HOCKEY\n\nRisultato: 3-3
@@ -39,7 +23,23 @@ GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20260105T120000Z
 SUMMARY:Allievi  - Girone C / Giornata 2 - CUS PISA ASD - ASD BAD LAKE HOCKEY
-UID:5cefe04d-4e73-4490-9113-27f1fa32b4f2@5cef.org
+UID:57f7f222-4c9d-4f4b-95b8-ac73fa3e7660@57f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone C / Giornata 1\nGara 290\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - GENOVA H. 1980 DRITTO\n\nRisultato: 2-8
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251214T100000Z
+SUMMARY:Allievi  - Girone C / Giornata 1 - CUS PISA ASD - GENOVA H. 1980 DRITTO
+UID:c8068c51-bd14-4aa7-953f-1ab813b40a2e@c806.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone C / Giornata 1\nGara 292\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nGENOVA H. 1980 DRITTO - ASD BAD LAKE HOCKEY\n\nRisultato: 2-3
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251214T120000Z
+SUMMARY:Allievi  - Girone C / Giornata 1 - GENOVA H. 1980 DRITTO - ASD BAD LAKE HOCKEY
+UID:858b7726-6b3c-461f-9093-f4bebaed40a9@858b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone C / Giornata 1\nGara 296\nPALACUS Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nASD BAD LAKE HOCKEY - CUS PISA ASD\n\nRisultato: 3-4
@@ -47,6 +47,6 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251214T150000Z
 SUMMARY:Allievi  - Girone C / Giornata 1 - ASD BAD LAKE HOCKEY - CUS PISA ASD
-UID:1d337057-0384-49a7-bd91-bbf8eb5c645c@1d33.org
+UID:6e1129a6-cf66-42b5-b861-31cc5df54a3d@6e11.org
 END:VEVENT
 END:VCALENDAR
