@@ -2,36 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone C / Giornata 1\nGara 271\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC SAVONA - CUS PISA ASD\n\nRisultato: 5-2
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20251214T140000Z
-SUMMARY:Allieve  - Girone C / Giornata 1 - HC SAVONA - CUS PISA ASD
-UID:1a9473de-c07c-4993-b5d6-018087adb2ab@1a94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone C / Giornata 3\nGara 276\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC RAINBOW SAMPIERDARENA - CUS PISA ASD\n\nRisultato: 0-8
-GEO:43.726794;10.410832
-LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
-DTSTART:20260207T084500Z
-SUMMARY:Allieve  - Girone C / Giornata 3 - HC RAINBOW SAMPIERDARENA - CUS PISA ASD
-UID:dce2e172-74ec-4c61-ac5d-11782a00db7c@dce2.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 1\nGara 268\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - HF GENOVA 1980\n\nRisultato: 8-0
 GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20251214T090000Z
 SUMMARY:Allieve  - Girone C / Giornata 1 - CUS PISA ASD - HF GENOVA 1980
-UID:4175140c-9c34-4207-ad8c-0cc2b10ff94d@4175.org
+UID:c28080b7-5094-408c-ace8-9920c7dc5dcc@c280.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 273\nPalaRomanzi - viale Gambaro\, 66 Genova\nCUS PISA ASD - HC RAINBOW SAMPIERDARENA\n\nRisultato: 11-0
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20260105T110000Z
-SUMMARY:Allieve  - Girone C / Giornata 2 - CUS PISA ASD - HC RAINBOW SAMPIERDARENA
-UID:cfbec7b2-0d23-4437-8e62-b01af28fa7f2@cfbe.org
+DESCRIPTION:Allieve  - Girone C / Giornata 1\nGara 271\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC SAVONA - CUS PISA ASD\n\nRisultato: 5-2
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20251214T140000Z
+SUMMARY:Allieve  - Girone C / Giornata 1 - HC SAVONA - CUS PISA ASD
+UID:ba29c3df-de74-45fa-a554-e52235f61503@ba29.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 3\nGara 279\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nCUS PISA ASD - HC SAVONA\n\nRisultato: 5-1
@@ -39,7 +23,23 @@ GEO:43.726794;10.410832
 LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
 DTSTART:20260207T123000Z
 SUMMARY:Allieve  - Girone C / Giornata 3 - CUS PISA ASD - HC SAVONA
-UID:11a0bc87-c66a-4d78-abe6-9dc76833875c@11a0.org
+UID:3279c025-498e-4e56-84df-628646d0e209@3279.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve  - Girone C / Giornata 3\nGara 276\nPalestra Geodetica Cus Pisa - Via Chiarugi\, 5 - Via Chiarugi\, 5 Pisa\nHC RAINBOW SAMPIERDARENA - CUS PISA ASD\n\nRisultato: 0-8
+GEO:43.726794;10.410832
+LOCATION:Via Federico Chiarugi\, Pratale\, Pisa\, Toscana\, 56127\, Italia
+DTSTART:20260207T084500Z
+SUMMARY:Allieve  - Girone C / Giornata 3 - HC RAINBOW SAMPIERDARENA - CUS PISA ASD
+UID:68334923-f240-420e-bb26-00dcce67440b@6833.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 273\nPalaRomanzi - viale Gambaro\, 66 Genova\nCUS PISA ASD - HC RAINBOW SAMPIERDARENA\n\nRisultato: 11-0
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20260105T110000Z
+SUMMARY:Allieve  - Girone C / Giornata 2 - CUS PISA ASD - HC RAINBOW SAMPIERDARENA
+UID:5f93e109-7de8-417c-a083-8b6ccba3d2d1@5f93.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 274\nPalaRomanzi - viale Gambaro\, 66 Genova\nHF GENOVA 1980 - CUS PISA ASD\n\nRisultato: 0-11
@@ -47,6 +47,6 @@ GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20260105T130000Z
 SUMMARY:Allieve  - Girone C / Giornata 2 - HF GENOVA 1980 - CUS PISA ASD
-UID:880e1729-2dff-4d03-becd-3169579eb0b2@880e.org
+UID:d161dd1f-3cc4-41cc-bd11-97b144b8147e@d161.org
 END:VEVENT
 END:VCALENDAR
