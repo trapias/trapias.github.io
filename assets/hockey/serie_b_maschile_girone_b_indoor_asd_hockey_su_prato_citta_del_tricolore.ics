@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 1\nGara 377\nComunale Mori - Via Lomba\, 23 Mori\nA.R.FINCANTIERI A.S.D. - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE\n\nRisultato: 3-4
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20251214T110000Z
-SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 1 - A.R.FINCANTIERI A.S.D. - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
-UID:cc436d3a-ac24-4ea7-a5d9-e0ef9a0980c4@cc43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 387\nImpianti CUS Padova via G. Bruno - via G. Bruno\, 27 Padova\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - ASD ADIGE UHC\n\nRisultato: 2-7
+DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 389\nImpianti CUS Padova via G. Bruno - via G. Bruno\, 27 Padova\nHC GRANTORTO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE\n\nRisultato: 4-7
 GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20251221T140000Z
-SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - ASD ADIGE UHC
-UID:d58739de-504b-48ea-860a-a6f9f6a470dd@d587.org
+DTSTART:20251221T160000Z
+SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - HC GRANTORTO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
+UID:25de26ef-77c1-41ce-8b9c-07cb618641f3@25de.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 1\nGara 380\nComunale Mori - Via Lomba\, 23 Mori\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - CUS PADOVA ASD\n\nRisultato: 8-4
@@ -23,15 +15,23 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20251214T140000Z
 SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 1 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - CUS PADOVA ASD
-UID:36827d3f-f130-4570-8b6b-134520e60f7b@3682.org
+UID:1fc5292c-f1dd-43e5-baa1-bf7851a586dc@1fc5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 389\nImpianti CUS Padova via G. Bruno - via G. Bruno\, 27 Padova\nHC GRANTORTO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE\n\nRisultato: 4-7
+DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 387\nImpianti CUS Padova via G. Bruno - via G. Bruno\, 27 Padova\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - ASD ADIGE UHC\n\nRisultato: 2-7
 GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20251221T160000Z
-SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - HC GRANTORTO - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
-UID:daf0065b-06dd-4ccd-974b-02dffd293d11@daf0.org
+DTSTART:20251221T140000Z
+SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - ASD ADIGE UHC
+UID:69d46d66-c53e-48b7-8fe5-1999e562c318@69d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 1\nGara 377\nComunale Mori - Via Lomba\, 23 Mori\nA.R.FINCANTIERI A.S.D. - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE\n\nRisultato: 3-4
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20251214T110000Z
+SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 1 - A.R.FINCANTIERI A.S.D. - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE
+UID:9f11f714-95cb-47ee-92da-efbe82f66963@9f11.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - Indoor  - Girone B / Giornata 2\nGara 384\nImpianti CUS Padova via G. Bruno - via G. Bruno\, 27 Padova\nASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HC PISTOIA FRANJO\n\nRisultato: 3-1
@@ -39,6 +39,6 @@ GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
 DTSTART:20251221T110000Z
 SUMMARY:Serie B Maschile - Indoor  - Girone B / Giornata 2 - ASD HOCKEY SU PRATO CITTA DEL TRICOLORE - HC PISTOIA FRANJO
-UID:bc6ab7d1-0454-4e3b-be18-73d057289309@bc6a.org
+UID:e09d5cdb-fcf7-4886-aa0c-2492d0059c72@e09d.org
 END:VEVENT
 END:VCALENDAR
