@@ -4,7 +4,7 @@
 
 ## Dom 27/09/2026 15.00
 
-<strong>HOCKEY TEAM FEMMINILE BOLOGNA - HC PISTOIA</strong>
+<strong>HOCKEY TEAM FEMMINILE BOLOGNA - DEL PINTO & ASSOCIATI H. PISTOIA</strong>
 
 Gara: 329
 
@@ -21,7 +21,7 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 ## Dom 04/10/2026 15.00
 
-<strong>HC PISTOIA - CUS PISA ASD</strong>
+<strong>DEL PINTO & ASSOCIATI H. PISTOIA - CUS PISA ASD</strong>
 
 Gara: 330
 
@@ -55,7 +55,7 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 ## Dom 18/10/2026 15.00
 
-<strong>HC PISTOIA - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
+<strong>DEL PINTO & ASSOCIATI H. PISTOIA - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
 
 Gara: 332
 
@@ -72,7 +72,7 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 ## Dom 25/10/2026 14.00
 
-<strong>CUS PISA ASD - HC PISTOIA</strong>
+<strong>CUS PISA ASD - DEL PINTO & ASSOCIATI H. PISTOIA</strong>
 
 Gara: 333
 
