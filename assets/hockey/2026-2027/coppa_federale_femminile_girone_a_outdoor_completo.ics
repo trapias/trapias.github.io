@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 5\nGara 315\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nH.C. GENOVA - HF GENOVA 1980
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20261025T140000Z
+SUMMARY:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 5 - H.C. GENOVA - HF GENOVA 1980
+UID:a719ad56-2322-457c-83c4-0a7408135d9d@a719.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 1\nGara 311\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HF GENOVA 1980
 GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20260927T130000Z
 SUMMARY:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 1 - CUS TORINO - HF GENOVA 1980
-UID:ee5a13b6-4864-4eb9-b7cc-9e7b9333aeec@ee5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 6\nGara 316\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - H.C. GENOVA
-GEO:45.033509;7.633384
-LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20261101T140000Z
-SUMMARY:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 6 - CUS TORINO - H.C. GENOVA
-UID:1bd69b7e-fa6e-41ee-9120-3a6d96de6394@1bd6.org
+UID:5af24694-9ffc-459c-a68f-8285b7fad132@5af2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 3\nGara 313\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nH.C. GENOVA - CUS TORINO
@@ -23,15 +23,7 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20261011T130000Z
 SUMMARY:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 3 - H.C. GENOVA - CUS TORINO
-UID:9caadf16-e4b1-48a4-bbb0-72c45eba8fff@9caa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 5\nGara 315\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nH.C. GENOVA - HF GENOVA 1980
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20261025T140000Z
-SUMMARY:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 5 - H.C. GENOVA - HF GENOVA 1980
-UID:48c7e199-0fc1-4e4d-90ff-b289628c751f@48c7.org
+UID:c9c30350-5422-4bc1-8c32-e991eea23b1d@c9c3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 2\nGara 312\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 1980 - H.C. GENOVA
@@ -39,7 +31,15 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20261004T130000Z
 SUMMARY:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 2 - HF GENOVA 1980 - H.C. GENOVA
-UID:7d4f20d0-87cf-491c-825e-7c659e3887e5@7d4f.org
+UID:2bc09e68-85e6-494b-ba39-56939033f413@2bc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 6\nGara 316\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - H.C. GENOVA
+GEO:45.033509;7.633384
+LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
+DTSTART:20261101T140000Z
+SUMMARY:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 6 - CUS TORINO - H.C. GENOVA
+UID:0ea37928-4a44-4a4c-acd3-6f8ff862918f@0ea3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 4\nGara 314\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 1980 - CUS TORINO
@@ -47,6 +47,6 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20261018T130000Z
 SUMMARY:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 4 - HF GENOVA 1980 - CUS TORINO
-UID:9474f920-ca62-470e-8474-fdf0d168de65@9474.org
+UID:d4896fa0-724a-4720-9e97-6cce706ce76f@d489.org
 END:VEVENT
 END:VCALENDAR
