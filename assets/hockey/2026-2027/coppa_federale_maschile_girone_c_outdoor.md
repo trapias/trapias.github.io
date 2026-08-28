@@ -2,7 +2,7 @@
 
 # Coppa Federale Maschile - OUTDOOR  - Girone C / Giornata 1
 
-## Sab 26/09/2026 15.00
+## Dom 27/09/2026 11.00
 
 <strong>AZ HOCKEY TEAM - ASD HOCKEY CAMPAGNANO</strong>
 
