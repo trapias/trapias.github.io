@@ -2,7 +2,7 @@
 
 # SUPERCOPPA Femminile   / Giornata 1
 
-## Sab 12/09/2026 16.30
+## Sab 12/09/2026 15.30
 
 <strong>ASD HF LORENZONI - S.G. AMSICORA ASD</strong>
 

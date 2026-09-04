@@ -2,7 +2,7 @@
 
 # SUPERCOPPA Maschile  / Giornata 1
 
-## Sab 12/09/2026 18.30
+## Sab 12/09/2026 17.00
 
 <strong>HOCKEY CLUB BRA A.S.D. - HOCKEY TEAM BOLOGNA</strong>
 
