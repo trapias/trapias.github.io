@@ -2,12 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 189\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA  JUVENILIA - SUPERBA
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20261017T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 5 - A.S.D. POLISPORTIVA  JUVENILIA - SUPERBA
-UID:991006f2-d496-4470-ae2c-96260fa05627@9910.org
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 184\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - ASD H.C. VILLAFRANCA
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20261003T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3 - SUPERBA - ASD H.C. VILLAFRANCA
+UID:6cb0fa44-2c21-433b-9c07-3e50609ca5c9@6cb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 199\nLamacchi - Tosoni - Via A. Porta\, snc Villafranca di Verona\nASD H.C. VILLAFRANCA - SUPERBA
+LOCATION: Tosoni - Via A. Porta\, snc Villafranca di Verona
+DTSTART:20261114T140000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8 - ASD H.C. VILLAFRANCA - SUPERBA
+UID:42309f65-b886-4695-9a4e-a2b4303ce251@4230.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 195\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - CSP SAN GIORGIO
@@ -15,31 +22,7 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20261107T140000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 7 - SUPERBA - CSP SAN GIORGIO
-UID:1a3b769c-37fd-4714-b2c9-7b5b6a345b56@1a3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 194\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - SUPERBA
-GEO:45.050205;8.265038
-LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
-DTSTART:20261024T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6 - USD MONCALVESE HOCKEY - SUPERBA
-UID:5bf695a1-4907-485d-bb7c-ec91c7d03da0@5bf6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 179\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - USD MONCALVESE HOCKEY
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20260919T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1 - SUPERBA - USD MONCALVESE HOCKEY
-UID:fdb3216b-05c0-4114-9612-460e29e49970@fdb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 202\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nA.S.D. S.H. PAOLO BONOMI - SUPERBA
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20270313T140000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9 - A.S.D. S.H. PAOLO BONOMI - SUPERBA
-UID:34c5f12b-4ff9-4478-a926-c1de95b72c15@34c5.org
+UID:f8014b6a-ea9c-4f4d-8be3-ae47f9d400d4@f801.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 204\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - A.S.D. POLISPORTIVA  JUVENILIA
@@ -47,7 +30,23 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20270320T140000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 10 - SUPERBA - A.S.D. POLISPORTIVA  JUVENILIA
-UID:eda672c3-6dfa-4ea2-be7c-63cdfd89ea1c@eda6.org
+UID:b9b26155-881e-4645-b68d-f5d8a3b88383@b9b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 179\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - USD MONCALVESE HOCKEY
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20260919T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1 - SUPERBA - USD MONCALVESE HOCKEY
+UID:3bfe9389-6dac-40bc-b50d-a6be351d44a0@3bfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 202\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nA.S.D. S.H. PAOLO BONOMI - SUPERBA
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20270313T140000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9 - A.S.D. S.H. PAOLO BONOMI - SUPERBA
+UID:44c1b027-2f90-4d7e-955b-e0eeaeb33f66@44c1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 187\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - A.S.D. S.H. PAOLO BONOMI
@@ -55,22 +54,15 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20261010T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 4 - SUPERBA - A.S.D. S.H. PAOLO BONOMI
-UID:2e4f42ec-5a2f-4a64-b0a6-010cdbc5336b@2e4f.org
+UID:ad3537b5-84d0-4d2a-a4bb-d5ac5668cb5a@ad35.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 184\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - ASD H.C. VILLAFRANCA
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20261003T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3 - SUPERBA - ASD H.C. VILLAFRANCA
-UID:e3d8312b-88a4-4dbb-a9cd-6b6e990dd8d0@e3d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 199\nLamacchi - Tosoni - Via A. Porta\, snc Villafranca di Verona\nASD H.C. VILLAFRANCA - SUPERBA
-LOCATION: Tosoni - Via A. Porta\, snc Villafranca di Verona
-DTSTART:20261114T140000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8 - ASD H.C. VILLAFRANCA - SUPERBA
-UID:de54dec0-07ab-416b-91ef-a39c1ba758d9@de54.org
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 194\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - SUPERBA
+GEO:45.050205;8.265038
+LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
+DTSTART:20261024T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6 - USD MONCALVESE HOCKEY - SUPERBA
+UID:b49ac486-c0e8-4b40-9cd5-798eeae78447@b49a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 180\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - SUPERBA
@@ -78,6 +70,14 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20260926T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 2 - CSP SAN GIORGIO - SUPERBA
-UID:04024789-301e-448b-9970-e7dcdd8e6aed@0402.org
+UID:a9a01842-4eb0-4b71-8a56-47d553714b20@a9a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 189\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA  JUVENILIA - SUPERBA
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20261017T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 5 - A.S.D. POLISPORTIVA  JUVENILIA - SUPERBA
+UID:b12c706a-1443-4b7f-a815-3f8b40bedd67@b12c.org
 END:VEVENT
 END:VCALENDAR

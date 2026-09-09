@@ -2,7 +2,7 @@
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 1
 
-## Dom 27/09/2026 15.00
+## Dom 27/09/2026 14.30
 
 <strong>ASD HF LORENZONI - HOCKEY CLUB TIBERINA A.S.D.</strong>
 
