@@ -22,12 +22,12 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 Gara: 350
 
-Campo: Comunale Valverde 
+Campo: DUSMET 
 
-Indirizzo Campo:  Via Seminara, 28 - Valverde
+Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
-Geo: Geo(latitude=37.5737465, longitude=15.121129)
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 
 
@@ -47,24 +47,24 @@ Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicc
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 
-## Dom 04/10/2026 15.00
+## Sab 03/10/2026 17.00
 
 <strong>ASD I CICLOPI - VALVERDE HOCKEY 2018</strong>
 
 Gara: 351
 
-Campo: Comunale Valverde 
+Campo: DUSMET 
 
-Indirizzo Campo:  Via Seminara, 28 - Valverde
+Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
-Geo: Geo(latitude=37.5737465, longitude=15.121129)
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone D / Giornata 3
 
-## Sab 10/10/2026 15.00
+## Sab 10/10/2026 17.00
 
 <strong>VALVERDE HOCKEY 2018 - SSD UNIME ARL</strong>
 
@@ -95,7 +95,7 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 # Coppa Federale Maschile - OUTDOOR  - Girone D / Giornata 4
 
-## Sab 17/10/2026 15.00
+## Sab 17/10/2026 14.00
 
 <strong>VALVERDE HOCKEY 2018 - GRUPPO SPORTTIVO M SS RACCOMANDATA</strong>
 
@@ -109,7 +109,7 @@ Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catani
 Geo: Geo(latitude=37.5737465, longitude=15.121129)
 
 
-## Sab 17/10/2026 15.00
+## Sab 17/10/2026 16.00
 
 <strong>SSD UNIME ARL - ASD I CICLOPI</strong>
 
@@ -140,7 +140,7 @@ Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicc
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 
-## Sab 24/10/2026 15.00
+## Sab 24/10/2026 14.00
 
 <strong>VALVERDE HOCKEY 2018 - ASD I CICLOPI</strong>
 
@@ -177,10 +177,10 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 Gara: 355
 
-Campo: Comunale Valverde 
+Campo: DUSMET 
 
-Indirizzo Campo:  Via Seminara, 28 - Valverde
+Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
 
-Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
-Geo: Geo(latitude=37.5737465, longitude=15.121129)
+Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
+Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
