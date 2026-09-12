@@ -78,18 +78,18 @@ Location: 1, Via Giotto, Montirone, Brescia, Lombardia, 25010, Italia
 Geo: Geo(latitude=45.4490271, longitude=10.2276479)
 
 
-## Dom 11/10/2026 13.00
+## Dom 11/10/2026 11.00
 
-<strong>A.R.FINCANTIERI ASD - HC GRANTORTO B</strong>
+<strong>HC GRANTORTO B - A.R.FINCANTIERI ASD</strong>
 
 Gara: 346
 
-Campo: Campo Ass. R. Fincantieri 
+Campo: Grantorto Hockey Stadium 
 
-Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
+Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
-Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
-Geo: Geo(latitude=45.8010363, longitude=13.5423352)
+Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 
 
@@ -171,16 +171,16 @@ Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
 Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 
-## Sab 31/10/2026 13.00
+## Sab 31/10/2026 15.00
 
-<strong>HC GRANTORTO B - A.R.FINCANTIERI ASD</strong>
+<strong>A.R.FINCANTIERI ASD - HC GRANTORTO B</strong>
 
 Gara: 349
 
-Campo: Grantorto Hockey Stadium 
+Campo: Campo Ass. R. Fincantieri 
 
-Indirizzo Campo:  Viale dello sport, 7 - Grantorto
+Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
 
-Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
-Geo: Geo(latitude=45.6015809, longitude=11.7339885)
+Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
+Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 

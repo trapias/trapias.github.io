@@ -2,11 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 205\nLamacchi - Tosoni - Via A. Porta\, snc Villafranca di Verona\nASD H.C. VILLAFRANCA - CSP SAN GIORGIO
-LOCATION: Tosoni - Via A. Porta\, snc Villafranca di Verona
-DTSTART:20270320T140000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 10 - ASD H.C. VILLAFRANCA - CSP SAN GIORGIO
-UID:01755978-e75c-4132-a37e-bfb6e0956c0b@0175.org
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 185\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nA.S.D. S.H. PAOLO BONOMI - CSP SAN GIORGIO
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20261003T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3 - A.S.D. S.H. PAOLO BONOMI - CSP SAN GIORGIO
+UID:c7697af6-558f-4c67-ad80-e3c0e4cc7b29@c769.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 190\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD H.C. VILLAFRANCA
@@ -14,39 +15,7 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20261017T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 5 - CSP SAN GIORGIO - ASD H.C. VILLAFRANCA
-UID:5870b477-5d88-422b-b459-03d57f0c8757@5870.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 177\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA  JUVENILIA - CSP SAN GIORGIO
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20261121T110000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1 - A.S.D. POLISPORTIVA  JUVENILIA - CSP SAN GIORGIO
-UID:686c073f-868b-4772-95cd-e9c5a4fec6f1@686c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 188\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - CSP SAN GIORGIO
-GEO:45.050205;8.265038
-LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
-DTSTART:20261010T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 4 - USD MONCALVESE HOCKEY - CSP SAN GIORGIO
-UID:31ce6f1c-715b-401a-a17b-a87d49d018cf@31ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 200\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - A.S.D. S.H. PAOLO BONOMI
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20261114T140000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8 - CSP SAN GIORGIO - A.S.D. S.H. PAOLO BONOMI
-UID:592afa89-f15f-4f81-b8ac-a2c56a96a578@592a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 203\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - USD MONCALVESE HOCKEY
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20270313T140000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9 - CSP SAN GIORGIO - USD MONCALVESE HOCKEY
-UID:ae242021-6b40-4d87-9b9d-9dd070c5a848@ae24.org
+UID:ac0efb33-81d9-46b2-80cc-8e12b2318ad8@ac0e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 180\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - SUPERBA
@@ -54,23 +23,30 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20260926T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 2 - CSP SAN GIORGIO - SUPERBA
-UID:5899089a-8496-4d84-afb5-b84212f21210@5899.org
+UID:0dd8010f-4443-406c-b4d2-0adaa5bf6db6@0dd8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 195\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - CSP SAN GIORGIO
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20261107T140000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 7 - SUPERBA - CSP SAN GIORGIO
-UID:fd6ac4b8-bb6f-467b-b17a-7ec3674240cb@fd6a.org
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 177\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA  JUVENILIA - CSP SAN GIORGIO
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20261121T110000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1 - A.S.D. POLISPORTIVA  JUVENILIA - CSP SAN GIORGIO
+UID:130b195a-a88f-47a4-a4d6-4f4e01364a84@130b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 185\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nA.S.D. S.H. PAOLO BONOMI - CSP SAN GIORGIO
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20261003T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3 - A.S.D. S.H. PAOLO BONOMI - CSP SAN GIORGIO
-UID:48f9cdbf-ce76-489f-b932-a3422bcd358d@48f9.org
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 203\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - USD MONCALVESE HOCKEY
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20270313T140000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9 - CSP SAN GIORGIO - USD MONCALVESE HOCKEY
+UID:d0313420-95e4-4432-bb10-fd818dd34bbc@d031.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 205\nLamacchi - Tosoni - Via A. Porta\, snc Villafranca di Verona\nASD H.C. VILLAFRANCA - CSP SAN GIORGIO
+LOCATION: Tosoni - Via A. Porta\, snc Villafranca di Verona
+DTSTART:20270320T140000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 10 - ASD H.C. VILLAFRANCA - CSP SAN GIORGIO
+UID:14b76e9f-bf81-4028-ae82-9727dc03e587@14b7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 192\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - A.S.D. POLISPORTIVA  JUVENILIA
@@ -78,6 +54,30 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20261024T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6 - CSP SAN GIORGIO - A.S.D. POLISPORTIVA  JUVENILIA
-UID:faaaa6d7-d2dd-4f5f-8823-41d5c890cc23@faaa.org
+UID:f36dfede-ed72-4d31-8df7-dd7bb83d6032@f36d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 195\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - CSP SAN GIORGIO
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20261107T140000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 7 - SUPERBA - CSP SAN GIORGIO
+UID:cef552b3-3ec2-492b-bce9-173c1443c93d@cef5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 200\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - A.S.D. S.H. PAOLO BONOMI
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20261114T140000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8 - CSP SAN GIORGIO - A.S.D. S.H. PAOLO BONOMI
+UID:4e4b0088-7b9d-43c7-ad9f-3a28031e1d32@4e4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 188\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - CSP SAN GIORGIO
+GEO:45.050205;8.265038
+LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
+DTSTART:20261010T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 4 - USD MONCALVESE HOCKEY - CSP SAN GIORGIO
+UID:84bb4ec8-3b9c-4802-a6c5-332273e3cdac@84bb.org
 END:VEVENT
 END:VCALENDAR
