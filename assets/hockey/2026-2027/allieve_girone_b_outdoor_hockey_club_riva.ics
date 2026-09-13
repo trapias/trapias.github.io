@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 2\nGara 884\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY CLUB RIVA
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20261011T090000Z
-SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 2 - CUS PADOVA ASD - HOCKEY CLUB RIVA
-UID:d1486f64-d0c9-4dfc-9468-a35f2eb03283@d148.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 1\nGara 882\nCampo Hockey Club Riva - Via Mazzoldi\, snc Riva del Garda\nHOCKEY CLUB RIVA - HOCKEY CLUB BONDENO
 GEO:45.888250;10.862919
 LOCATION:Via Sisto Mazzoldi\, Sant'Alessandro\, Riva del Garda\, Comunità Alto Garda e Ledro\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38066\, Italia
 DTSTART:20260927T090000Z
 SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 1 - HOCKEY CLUB RIVA - HOCKEY CLUB BONDENO
-UID:3f8f3756-85ae-46b2-b820-f71af7191f40@3f8f.org
+UID:6ae8e670-95d5-40c3-86a3-b37100aa38fc@6ae8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 4\nGara 888\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - HOCKEY CLUB RIVA
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20270321T100000Z
-SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 4 - HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA
-UID:7b4c7a66-f3ed-4bed-936e-a02d072e6885@7b4c.org
+DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 2\nGara 884\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY CLUB RIVA
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20261011T090000Z
+SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 2 - CUS PADOVA ASD - HOCKEY CLUB RIVA
+UID:12e87c35-9324-428c-b12c-6b18deea79a1@12e8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 3\nGara 886\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY CLUB RIVA
@@ -31,7 +23,7 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20261025T100000Z
 SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 3 - ASD ADIGE UHC - HOCKEY CLUB RIVA
-UID:b396de54-1b69-4fa0-8ff4-bb63f388f13f@b396.org
+UID:ead082d9-1d07-4bd0-bb35-eb5e5c7b6f93@ead0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 6\nGara 892\nCampo Hockey Club Riva - Via Mazzoldi\, snc Riva del Garda\nHOCKEY CLUB RIVA - ASD ADIGE UHC
@@ -39,7 +31,15 @@ GEO:45.888250;10.862919
 LOCATION:Via Sisto Mazzoldi\, Sant'Alessandro\, Riva del Garda\, Comunità Alto Garda e Ledro\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38066\, Italia
 DTSTART:20270509T090000Z
 SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 6 - HOCKEY CLUB RIVA - ASD ADIGE UHC
-UID:68ad10e5-606f-4150-8772-fc8a66ac2d22@68ad.org
+UID:ff031791-6b03-4488-94f4-d0c2b8913e9b@ff03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 4\nGara 888\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - HOCKEY CLUB RIVA
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20270321T100000Z
+SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 4 - HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA
+UID:0e9fb207-77d3-43b7-b71d-c200986ad9ed@0e9f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 5\nGara 890\nCampo Hockey Club Riva - Via Mazzoldi\, snc Riva del Garda\nHOCKEY CLUB RIVA - CUS PADOVA ASD
@@ -47,6 +47,6 @@ GEO:45.888250;10.862919
 LOCATION:Via Sisto Mazzoldi\, Sant'Alessandro\, Riva del Garda\, Comunità Alto Garda e Ledro\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38066\, Italia
 DTSTART:20270411T090000Z
 SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 5 - HOCKEY CLUB RIVA - CUS PADOVA ASD
-UID:421b464e-185a-449e-8241-7786e36c2f1b@421b.org
+UID:8598e240-0a4c-4599-b63f-d82a3f86a0f9@8598.org
 END:VEVENT
 END:VCALENDAR

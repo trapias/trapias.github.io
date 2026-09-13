@@ -6,6 +6,8 @@
 
 <strong>ASD HF LORENZONI - S.G. AMSICORA ASD</strong>
 
+**Risultato: 1-3**
+
 Gara: 238
 
 Campo: CENTRO GIULIO ONESTI 

@@ -6,6 +6,8 @@
 
 <strong>HOCKEY CLUB BRA A.S.D. - HOCKEY TEAM BOLOGNA</strong>
 
+**Risultato: 6-5**
+
 Gara: 239
 
 Campo: CENTRO GIULIO ONESTI 

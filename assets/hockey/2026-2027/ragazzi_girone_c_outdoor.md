@@ -4,16 +4,16 @@
 
 ## Dom 27/09/2026 11.00
 
-<strong>ASD CITTA' DEL TRICOLORE - CUS PISA ASD</strong>
+<strong>CUS PISA ASD - ASD CITTA' DEL TRICOLORE</strong>
 
 Gara: 388
 
-Campo: Sport Arena 
+Campo: HOCKEY STADIUM ANDREA BRUSCHI 
 
-Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
+Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
+Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
+Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 
 ## Dom 27/09/2026 11.00
@@ -97,16 +97,16 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 ## Dom 14/03/2027 13.00
 
-<strong>CUS PISA ASD - ASD CITTA' DEL TRICOLORE</strong>
+<strong>ASD CITTA' DEL TRICOLORE - CUS PISA ASD</strong>
 
 Gara: 394
 
-Campo: HOCKEY STADIUM ANDREA BRUSCHI 
+Campo: Sport Arena 
 
-Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
+Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
 
-Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.9509826, longitude=10.8292878)
+Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
+Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 
 ## Dom 14/03/2027 11.00
@@ -142,16 +142,16 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 ## Dom 04/04/2027 11.00
 
-<strong>HOCKEY TEAM BOLOGNA - CUS PISA ASD</strong>
+<strong>CUS PISA ASD - HOCKEY TEAM BOLOGNA</strong>
 
 Gara: 397
 
-Campo: CP BARCA 
+Campo: HOCKEY STADIUM ANDREA BRUSCHI 
 
-Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
+Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
+Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
+Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 
 
@@ -171,16 +171,16 @@ Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia,
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 
-## Dom 02/05/2027 13.00
+## Dom 02/05/2027 15.30
 
-<strong>HOCKEY CLUB BONDENO - CUS PISA ASD</strong>
+<strong>CUS PISA ASD - HOCKEY CLUB BONDENO</strong>
 
 Gara: 399
 
-Campo: A. GIATTI 
+Campo: HOCKEY STADIUM ANDREA BRUSCHI 
 
-Indirizzo Campo:  VIA NAPOLEONICA, 87 - BONDENO
+Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
-Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44012, Italia
-Geo: Geo(latitude=44.8802643, longitude=11.4256813)
+Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
+Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
