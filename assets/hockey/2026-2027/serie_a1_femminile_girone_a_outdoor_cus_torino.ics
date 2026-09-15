@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3\nGara 440\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - CUS TORINO
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20270321T100000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3 - SUPERBA - CUS TORINO
-UID:1253737d-033b-42fd-9ab4-ad3cff5fad13@1253.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4\nGara 442\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HOCKEY CLUB RIVA
 GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20270411T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4 - CUS TORINO - HOCKEY CLUB RIVA
-UID:47834c5f-96ea-45d7-8ba9-cf7aa036546e@4783.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6\nGara 446\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - SUPERBA
-GEO:45.033509;7.633384
-LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20270425T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6 - CUS TORINO - SUPERBA
-UID:7436605e-8c49-4f98-a902-67ceef66e36a@7436.org
+UID:bff3ed78-65c2-4dc2-85ae-54ec21c0629d@bff3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2\nGara 438\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - USD MONCALVESE HOCKEY
@@ -31,7 +15,23 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20270314T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2 - CUS TORINO - USD MONCALVESE HOCKEY
-UID:ef343c4d-6dd0-4e3c-adba-8c55af7f1bb6@ef34.org
+UID:bda10504-3dc9-461f-9f98-b1e82dcf3468@bda1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3\nGara 440\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - CUS TORINO
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20270321T100000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3 - SUPERBA - CUS TORINO
+UID:d0ef2e1b-5fcb-4f6f-a1ee-9466b872adb3@d0ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6\nGara 446\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - SUPERBA
+GEO:45.033509;7.633384
+LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
+DTSTART:20270425T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6 - CUS TORINO - SUPERBA
+UID:0e9737e5-b80b-4cc4-a768-323ad2a94f1a@0e97.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1\nGara 436\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - CUS TORINO
@@ -39,7 +39,7 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20270307T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1 - HOCKEY CLUB RIVA - CUS TORINO
-UID:6f7a5957-edd2-4974-86db-7c813fdb3dae@6f7a.org
+UID:d4439a04-86cd-4c80-9575-6fa70661b00f@d443.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5\nGara 444\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - CUS TORINO
@@ -47,6 +47,6 @@ GEO:45.050205;8.265038
 LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
 DTSTART:20270418T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5 - USD MONCALVESE HOCKEY - CUS TORINO
-UID:5e5cb519-e8e7-413b-ac41-3083b061cc38@5e5c.org
+UID:e91c8eb4-c445-4bc4-aac4-faf55d9142a9@e91c.org
 END:VEVENT
 END:VCALENDAR

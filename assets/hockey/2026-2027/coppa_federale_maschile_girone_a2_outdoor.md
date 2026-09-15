@@ -4,16 +4,16 @@
 
 ## Dom 27/09/2026 13.00
 
-<strong>A.R.FINCANTIERI ASD - HOCKEY CUSCUBE BRESCIA</strong>
+<strong>HOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI ASD</strong>
 
 Gara: 277
 
-Campo: Campo Ass. R. Fincantieri 
+Campo: Comunale San Polo 
 
-Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
+Indirizzo Campo:  Via Giotto, 1 - Brescia
 
-Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
-Geo: Geo(latitude=45.8010363, longitude=13.5423352)
+Location: 1, Via Giotto, Montirone, Brescia, Lombardia, 25010, Italia
+Geo: Geo(latitude=45.4490271, longitude=10.2276479)
 
 
 ## Sab 26/09/2026 15.00
@@ -95,18 +95,18 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 # Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 4
 
-## Dom 18/10/2026 11.00
+## Dom 18/10/2026 13.00
 
-<strong>HOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI ASD</strong>
+<strong>A.R.FINCANTIERI ASD - HOCKEY CUSCUBE BRESCIA</strong>
 
 Gara: 280
 
-Campo: Comunale San Polo 
+Campo: Campo Ass. R. Fincantieri 
 
-Indirizzo Campo:  Via Giotto, 1 - Brescia
+Indirizzo Campo:  Via Atleti Azzurri  d'Italia, snc - Monfalcone
 
-Location: 1, Via Giotto, Montirone, Brescia, Lombardia, 25010, Italia
-Geo: Geo(latitude=45.4490271, longitude=10.2276479)
+Location: Via Atleti Azzurri d'Italia, Monfalcone, Gorizia / Gurize / Gorica, Friuli-Venezia Giulia, 34074, Italia
+Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 
 
 ## Sab 17/10/2026 15.00

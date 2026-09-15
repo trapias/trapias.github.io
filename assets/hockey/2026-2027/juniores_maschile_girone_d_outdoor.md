@@ -257,7 +257,7 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 ## Dom 28/02/2027 12.00
 
-<strong>BUTTERFLY ROMA H.C.C. - H.POTENZA PICENA - RISERVE</strong>
+<strong>BUTTERFLY ROMA H.C.C. - H.POTENZA PICENA</strong>
 
 Gara: 543
 
