@@ -2,7 +2,7 @@
 
 # Juniores Femminile - OUTDOOR  - Girone B / Giornata 1
 
-## Dom 20/09/2026 13.00
+## Sab 17/10/2026 17.00
 
 <strong>HOCKEY CLUB RIVA - MILANO HOCKEY PRATO</strong>
 
@@ -16,7 +16,7 @@ Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
-## Dom 20/09/2026 11.00
+## Gio 01/10/2026 18.45
 
 <strong>HOCKEY CLUB BONDENO - ASD ADIGE UHC</strong>
 
@@ -64,7 +64,7 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 # Juniores Femminile - OUTDOOR  - Girone B / Giornata 3
 
-## Sab 24/10/2026 16.30
+## Dom 08/11/2026 11.00
 
 <strong>ASD ADIGE UHC - HOCKEY CLUB RIVA</strong>
 

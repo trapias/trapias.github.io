@@ -16,7 +16,7 @@ Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Ita
 Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 
-## Dom 27/09/2026 11.00
+## Dom 15/11/2026 11.00
 
 <strong>HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA</strong>
 

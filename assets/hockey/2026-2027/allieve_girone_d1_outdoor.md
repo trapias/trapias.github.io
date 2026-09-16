@@ -47,7 +47,7 @@ Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 
-## Sab 31/10/2026 15.00
+## Sab 10/10/2026 17.00
 
 <strong>H.POTENZA PICENA - HOCKEY CLUB TIBERINA A.S.D.</strong>
 
@@ -64,7 +64,7 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 # Allieve - OUTDOOR  - Girone D1 / Giornata 3
 
-## Dom 08/11/2026 11.00
+## Dom 08/11/2026 09.30
 
 <strong>HOCKEY CLUB TIBERINA A.S.D. - LAZIO HOCKEY</strong>
 

@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 2\nGara 885\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - ASD ADIGE UHC
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20261011T110000Z
-SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 2 - HOCKEY CLUB BONDENO - ASD ADIGE UHC
-UID:6d90641f-3e71-4bbe-a9bf-82906162d3ae@6d90.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 3\nGara 887\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - CUS PADOVA ASD
 GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20261025T100000Z
 SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 3 - HOCKEY CLUB BONDENO - CUS PADOVA ASD
-UID:fa30b0d8-768d-4c75-bda5-c108d8eb9fae@fa30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 6\nGara 893\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY CLUB BONDENO
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20270509T090000Z
-SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 6 - CUS PADOVA ASD - HOCKEY CLUB BONDENO
-UID:2f5fe0ba-89e8-4bd3-8cb0-37e4a60555ba@2f5f.org
+UID:28649251-d80a-42af-b167-645fbf9e8f76@2864.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 1\nGara 882\nCampo Hockey Club Riva - Via Mazzoldi\, snc Riva del Garda\nHOCKEY CLUB RIVA - HOCKEY CLUB BONDENO
@@ -31,7 +15,15 @@ GEO:45.888250;10.862919
 LOCATION:Via Sisto Mazzoldi\, Sant'Alessandro\, Riva del Garda\, Comunità Alto Garda e Ledro\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38066\, Italia
 DTSTART:20260927T090000Z
 SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 1 - HOCKEY CLUB RIVA - HOCKEY CLUB BONDENO
-UID:05b6a1c9-817c-4fcf-8a99-2c333929c05d@05b6.org
+UID:abd44e35-00e4-49c3-8185-2bba942882bb@abd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 6\nGara 893\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY CLUB BONDENO
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20270509T090000Z
+SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 6 - CUS PADOVA ASD - HOCKEY CLUB BONDENO
+UID:066096cb-0338-4cf7-b21d-8d8b0c2d65b1@0660.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 5\nGara 891\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY CLUB BONDENO
@@ -39,7 +31,15 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20270411T090000Z
 SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 5 - ASD ADIGE UHC - HOCKEY CLUB BONDENO
-UID:72ab9eb1-f494-4ba0-9fc7-99fbd57e8538@72ab.org
+UID:9baf8c96-e8dd-4849-8d39-616a98808c03@9baf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 2\nGara 885\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - ASD ADIGE UHC
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20261108T100000Z
+SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 2 - HOCKEY CLUB BONDENO - ASD ADIGE UHC
+UID:adeb60eb-3f2b-443a-b1a7-47934c92d541@adeb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 4\nGara 888\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - HOCKEY CLUB RIVA
@@ -47,6 +47,6 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20270321T100000Z
 SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 4 - HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA
-UID:d346bdb3-b07b-4ac4-b306-2d6df0a2115e@d346.org
+UID:53ced095-408a-4d47-9798-30b594fe49d4@53ce.org
 END:VEVENT
 END:VCALENDAR

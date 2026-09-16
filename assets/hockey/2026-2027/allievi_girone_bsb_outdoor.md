@@ -16,18 +16,18 @@ Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 
-## Dom 18/10/2026 11.00
+## Dom 18/10/2026 15.30
 
 <strong>ASD CITTA' DEL TRICOLORE - HOCKEY CLUB BONDENO</strong>
 
 Gara: 413
 
-Campo: Sport Arena 
+Campo: CP BARCA 
 
-Indirizzo Campo:  Via Avvenire Paterlini, snc - Reggio nell'Emilia
+Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia
-Geo: Geo(latitude=44.7082622, longitude=10.6354218)
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
 

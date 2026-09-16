@@ -16,7 +16,7 @@ Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Pie
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 
-## Dom 27/09/2026 15.00
+## Dom 27/09/2026 13.30
 
 <strong>S.G. AMSICORA ASD - H.POTENZA PICENA</strong>
 
@@ -297,7 +297,7 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 6
 
-## Dom 01/11/2026 15.00
+## Sab 31/10/2026 12.30
 
 <strong>S.G. AMSICORA ASD - ASD HF LORENZONI</strong>
 

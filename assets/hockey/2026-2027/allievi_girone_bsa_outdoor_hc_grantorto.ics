@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone BSA / Giornata 4\nGara 865\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - HOCKEY CLUB RIVA
-GEO:45.601581;11.733989
-LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20270321T120000Z
-SUMMARY:Allievi - OUTDOOR  - Girone BSA / Giornata 4 - HC GRANTORTO - HOCKEY CLUB RIVA
-UID:8ec0a5fb-fc0b-46f6-989b-7ccb98e15cea@8ec0.org
+DESCRIPTION:Allievi - OUTDOOR  - Girone BSA / Giornata 5\nGara 866\nComunale San Polo - Via Giotto\, 1 Brescia\nHOCKEY CUSCUBE BRESCIA - HC GRANTORTO
+GEO:45.449027;10.227648
+LOCATION:1\, Via Giotto\, Montirone\, Brescia\, Lombardia\, 25010\, Italia
+DTSTART:20270411T090000Z
+SUMMARY:Allievi - OUTDOOR  - Girone BSA / Giornata 5 - HOCKEY CUSCUBE BRESCIA - HC GRANTORTO
+UID:dc1c8877-5e09-4dc0-b4ef-6e2627848483@dc1c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone BSA / Giornata 2\nGara 402\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - HOCKEY CUSCUBE BRESCIA
@@ -15,23 +15,15 @@ GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20261025T100000Z
 SUMMARY:Allievi - OUTDOOR  - Girone BSA / Giornata 2 - HC GRANTORTO - HOCKEY CUSCUBE BRESCIA
-UID:74e726a4-bcaf-43c2-bee3-04ec0fb636eb@74e7.org
+UID:161f11d3-4399-4f3e-b765-5e9691f33508@161f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone BSA / Giornata 3\nGara 405\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - HC GRANTORTO
+DESCRIPTION:Allievi - OUTDOOR  - Girone BSA / Giornata 4\nGara 865\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - HOCKEY CLUB RIVA
 GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20261101T100000Z
-SUMMARY:Allievi - OUTDOOR  - Girone BSA / Giornata 3 - POLISPORTIVA CAMELOT - HC GRANTORTO
-UID:51e230ff-cd07-4faa-872f-bd6ed5db4fcf@51e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone BSA / Giornata 5\nGara 866\nComunale San Polo - Via Giotto\, 1 Brescia\nHOCKEY CUSCUBE BRESCIA - HC GRANTORTO
-GEO:45.449027;10.227648
-LOCATION:1\, Via Giotto\, Montirone\, Brescia\, Lombardia\, 25010\, Italia
-DTSTART:20270411T090000Z
-SUMMARY:Allievi - OUTDOOR  - Girone BSA / Giornata 5 - HOCKEY CUSCUBE BRESCIA - HC GRANTORTO
-UID:2df37a14-2a8f-48c4-900f-a4c16f792006@2df3.org
+DTSTART:20270321T120000Z
+SUMMARY:Allievi - OUTDOOR  - Girone BSA / Giornata 4 - HC GRANTORTO - HOCKEY CLUB RIVA
+UID:3e56e1cd-bb80-45c6-9cd1-627eb35a5f61@3e56.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone BSA / Giornata 6\nGara 869\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - POLISPORTIVA CAMELOT
@@ -39,7 +31,15 @@ GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20270425T090000Z
 SUMMARY:Allievi - OUTDOOR  - Girone BSA / Giornata 6 - HC GRANTORTO - POLISPORTIVA CAMELOT
-UID:83a99902-ff0e-418c-82dc-6ee238d6133d@83a9.org
+UID:f443791c-252f-4cb2-85ba-28334f9b9a89@f443.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone BSA / Giornata 3\nGara 405\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nPOLISPORTIVA CAMELOT - HC GRANTORTO
+GEO:45.601581;11.733989
+LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20261101T100000Z
+SUMMARY:Allievi - OUTDOOR  - Girone BSA / Giornata 3 - POLISPORTIVA CAMELOT - HC GRANTORTO
+UID:4964983b-d05f-4a07-8f5a-2d632b9b4779@4964.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone BSA / Giornata 1\nGara 401\nCampo Hockey Club Riva - Via Mazzoldi\, snc Riva del Garda\nHOCKEY CLUB RIVA - HC GRANTORTO
@@ -47,6 +47,6 @@ GEO:45.888250;10.862919
 LOCATION:Via Sisto Mazzoldi\, Sant'Alessandro\, Riva del Garda\, Comunità Alto Garda e Ledro\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38066\, Italia
 DTSTART:20261018T090000Z
 SUMMARY:Allievi - OUTDOOR  - Girone BSA / Giornata 1 - HOCKEY CLUB RIVA - HC GRANTORTO
-UID:26d8ef3d-b1f0-45d1-be90-cab9063cdb53@26d8.org
+UID:b6ce9fd4-1b93-4ed5-ac77-01a91b5f30c4@b6ce.org
 END:VEVENT
 END:VCALENDAR

@@ -78,7 +78,7 @@ Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerat
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 
-## Dom 08/11/2026 12.00
+## Dom 08/11/2026 11.00
 
 <strong>AZ HOCKEY TEAM - H.POTENZA PICENA</strong>
 

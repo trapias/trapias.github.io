@@ -2,7 +2,7 @@
 
 # Ragazzi - OUTDOOR  - Girone B / Giornata 1
 
-## Dom 27/09/2026 11.00
+## Dom 27/09/2026 13.00
 
 <strong>HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT</strong>
 
@@ -47,7 +47,7 @@ Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
-## Dom 11/10/2026 11.00
+## Dom 11/10/2026 13.00
 
 <strong>POLISPORTIVA CAMELOT - ASD ADIGE UHC</strong>
 
@@ -64,7 +64,7 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 # Ragazzi - OUTDOOR  - Girone B / Giornata 3
 
-## Dom 08/11/2026 11.00
+## Gio 05/11/2026 18.00
 
 <strong>ASD ADIGE UHC - HOCKEY CLUB RIVA</strong>
 

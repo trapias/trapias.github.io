@@ -94,7 +94,7 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 # Juniores Maschile - OUTDOOR  - Girone B / Giornata 4
 
-## Dom 01/11/2026 11.00
+## Dom 08/11/2026 11.00
 
 <strong>ASD H.C. VILLAFRANCA - HOCKEY CLUB RIVA</strong>
 

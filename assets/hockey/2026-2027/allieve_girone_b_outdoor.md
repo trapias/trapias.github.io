@@ -16,7 +16,7 @@ Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Ga
 Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 
-## Dom 27/09/2026 11.00
+## Dom 01/11/2026 13.00
 
 <strong>CUS PADOVA ASD - ASD ADIGE UHC</strong>
 
@@ -47,7 +47,7 @@ Location: Padova, Veneto, Italia
 Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
-## Dom 11/10/2026 13.00
+## Dom 08/11/2026 11.00
 
 <strong>HOCKEY CLUB BONDENO - ASD ADIGE UHC</strong>
 
@@ -64,7 +64,7 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 # Allieve - OUTDOOR  - Girone B / Giornata 3
 
-## Dom 25/10/2026 11.00
+## Mer 21/10/2026 18.30
 
 <strong>ASD ADIGE UHC - HOCKEY CLUB RIVA</strong>
 

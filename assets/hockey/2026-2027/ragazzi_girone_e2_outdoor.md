@@ -2,7 +2,7 @@
 
 # Ragazzi - OUTDOOR  - Girone E2 / Giornata 1
 
-## Dom 04/10/2026 12.00
+## Sab 07/11/2026 16.00
 
 <strong>TEVERE EUR HOCKEY ASD - AZ HOCKEY TEAM</strong>
 

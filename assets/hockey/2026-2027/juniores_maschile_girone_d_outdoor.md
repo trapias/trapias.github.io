@@ -61,7 +61,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Dom 25/10/2026 12.00
+## Dom 25/10/2026 16.30
 
 <strong>TEVERE EUR HOCKEY ASD - H.POTENZA PICENA - RISERVE</strong>
 
@@ -92,7 +92,7 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 3
 
-## Dom 01/11/2026 12.00
+## Dom 25/10/2026 12.00
 
 <strong>TEVERE EUR HOCKEY ASD - H.POTENZA PICENA</strong>
 
@@ -286,7 +286,7 @@ Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capital
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
-## Sab 06/03/2027 17.00
+## Sab 06/03/2027 16.00
 
 <strong>H.POTENZA PICENA - RISERVE - TEVERE EUR HOCKEY ASD</strong>
 
@@ -317,7 +317,7 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 8
 
-## Dom 14/03/2027 12.00
+## Sab 06/03/2027 12.30
 
 <strong>H.POTENZA PICENA - TEVERE EUR HOCKEY ASD</strong>
 

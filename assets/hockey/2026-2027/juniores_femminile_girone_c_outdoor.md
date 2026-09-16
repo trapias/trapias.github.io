@@ -2,7 +2,7 @@
 
 # Juniores Femminile - OUTDOOR  - Girone C / Giornata 1
 
-## Sab 03/10/2026 15.00
+## Dom 08/11/2026 15.00
 
 <strong>HOCKEY CLUB TIBERINA A.S.D. - H.POTENZA PICENA</strong>
 
@@ -47,18 +47,18 @@ Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
-## Sab 17/10/2026 16.00
+## Dom 22/11/2026 12.00
 
-<strong>AZ HOCKEY TEAM - HOCKEY CLUB TIBERINA A.S.D.</strong>
+<strong>HOCKEY CLUB TIBERINA A.S.D. - AZ HOCKEY TEAM</strong>
 
 Gara: 595
 
-Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
+Campo: EUROMA STADIUM 
 
-Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
+Indirizzo Campo:  Via Bilbao, 12 - Roma
 
-Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
-Geo: Geo(latitude=42.0432315, longitude=13.437583)
+Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 
 
@@ -95,7 +95,7 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 # Juniores Femminile - OUTDOOR  - Girone C / Giornata 4
 
-## Dom 08/11/2026 16.00
+## Mer 25/11/2026 18.30
 
 <strong>LAZIO HOCKEY - HOCKEY CLUB TIBERINA A.S.D.</strong>
 
@@ -204,16 +204,16 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 ## Sab 13/03/2027 17.00
 
-<strong>HOCKEY CLUB TIBERINA A.S.D. - AZ HOCKEY TEAM</strong>
+<strong>AZ HOCKEY TEAM - HOCKEY CLUB TIBERINA A.S.D.</strong>
 
 Gara: 605
 
-Campo: EUROMA STADIUM 
+Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
 
-Indirizzo Campo:  Via Bilbao, 12 - Roma
+Indirizzo Campo:  Via dei Gladioli, snc - Avezzano
 
-Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
-Geo: Geo(latitude=41.8204854, longitude=12.4562685)
+Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
+Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 
 
