@@ -47,7 +47,7 @@ Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrare
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
-## Sab 10/10/2026 16.30
+## Sab 10/10/2026 17.00
 
 <strong>MILANO HOCKEY PRATO - ASD ADIGE UHC</strong>
 

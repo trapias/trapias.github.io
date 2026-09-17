@@ -2,7 +2,7 @@
 
 # Juniores Maschile - OUTDOOR  - Girone D / Giornata 1
 
-## Dom 11/10/2026 11.00
+## Sab 28/11/2026 15.00
 
 <strong>TEVERE EUR HOCKEY ASD - LAZIO HOCKEY</strong>
 

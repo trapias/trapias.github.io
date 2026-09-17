@@ -16,7 +16,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Dom 11/10/2026 11.00
+## Sab 14/11/2026 16.30
 
 <strong>BUTTERFLY ROMA H.C.C. - TEVERE EUR HOCKEY ASD</strong>
 

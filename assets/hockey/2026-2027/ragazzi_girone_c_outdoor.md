@@ -2,7 +2,7 @@
 
 # Ragazzi - OUTDOOR  - Girone C / Giornata 1
 
-## Dom 27/09/2026 11.00
+## Dom 04/10/2026 11.30
 
 <strong>CUS PISA ASD - ASD CITTA' DEL TRICOLORE</strong>
 

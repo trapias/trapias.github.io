@@ -53,12 +53,12 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 Gara: 379
 
-Campo: Grantorto Hockey Stadium 
+Campo: Impianti L. Merigliano 
 
-Indirizzo Campo:  Viale dello sport, 7 - Grantorto
+Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
-Geo: Geo(latitude=45.6015809, longitude=11.7339885)
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 
@@ -84,29 +84,29 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 Gara: 381
 
-Campo: Grantorto Hockey Stadium 
+Campo: Impianti L. Merigliano 
 
-Indirizzo Campo:  Viale dello sport, 7 - Grantorto
+Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
-Geo: Geo(latitude=45.6015809, longitude=11.7339885)
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 
 # Ragazzi - OUTDOOR  - Girone B / Giornata 4
 
-## Dom 14/03/2027 11.00
+## Dom 14/03/2027 13.00
 
 <strong>POLISPORTIVA CAMELOT - HOCKEY CLUB RIVA</strong>
 
 Gara: 382
 
-Campo: Grantorto Hockey Stadium 
+Campo: Impianti L. Merigliano 
 
-Indirizzo Campo:  Viale dello sport, 7 - Grantorto
+Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
-Geo: Geo(latitude=45.6015809, longitude=11.7339885)
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 ## Dom 14/03/2027 13.00
