@@ -78,7 +78,7 @@ Location: 1, Via Giotto, Montirone, Brescia, Lombardia, 25010, Italia
 Geo: Geo(latitude=45.4490271, longitude=10.2276479)
 
 
-## Dom 01/11/2026 11.00
+## Dom 01/11/2026 15.00
 
 <strong>POLISPORTIVA CAMELOT - HC GRANTORTO</strong>
 
@@ -95,18 +95,18 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 # Allievi - OUTDOOR  - Girone BSA / Giornata 4
 
-## Dom 21/03/2027 11.00
+## Dom 21/03/2027 13.00
 
 <strong>POLISPORTIVA CAMELOT - HOCKEY CUSCUBE BRESCIA</strong>
 
 Gara: 864
 
-Campo: Grantorto Hockey Stadium 
+Campo: Impianti L. Merigliano 
 
-Indirizzo Campo:  Viale dello sport, 7 - Grantorto
+Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
-Geo: Geo(latitude=45.6015809, longitude=11.7339885)
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 ## Dom 21/03/2027 13.00
@@ -146,12 +146,12 @@ Geo: Geo(latitude=45.4490271, longitude=10.2276479)
 
 Gara: 867
 
-Campo: Grantorto Hockey Stadium 
+Campo: Impianti L. Merigliano 
 
-Indirizzo Campo:  Viale dello sport, 7 - Grantorto
+Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
-Geo: Geo(latitude=45.6015809, longitude=11.7339885)
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 

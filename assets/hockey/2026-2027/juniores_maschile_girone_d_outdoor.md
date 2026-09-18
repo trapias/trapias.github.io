@@ -16,7 +16,7 @@ Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 
-## Dom 11/10/2026 12.00
+## Dom 27/09/2026 16.30
 
 <strong>ASD HOCKEY CLUB ROMA - H.POTENZA PICENA - RISERVE</strong>
 
@@ -75,7 +75,7 @@ Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 
-## Dom 25/10/2026 12.00
+## Dom 28/02/2027 12.00
 
 <strong>H.POTENZA PICENA - ASD HOCKEY CLUB ROMA</strong>
 
@@ -241,7 +241,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Dom 28/02/2027 12.00
+## Dom 28/02/2027 16.30
 
 <strong>H.POTENZA PICENA - RISERVE - ASD HOCKEY CLUB ROMA</strong>
 
@@ -300,7 +300,7 @@ Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
-## Dom 27/09/2026 14.00
+## Dom 27/09/2026 12.00
 
 <strong>ASD HOCKEY CLUB ROMA - H.POTENZA PICENA</strong>
 

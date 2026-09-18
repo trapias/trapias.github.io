@@ -16,7 +16,7 @@ Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capital
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
-## Dom 04/10/2026 12.00
+## Sab 21/11/2026 17.00
 
 <strong>ASD HOCKEY CLUB ROMA - H.POTENZA PICENA</strong>
 

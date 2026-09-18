@@ -2,18 +2,18 @@
 
 # Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 1
 
-## Sab 26/09/2026 15.00
+## Sab 26/09/2026 13.00
 
 <strong>HC SAVONA - HC PISTOIA</strong>
 
 Gara: 283
 
-Campo: Campo Sportivo Augusto Briano 
+Campo: CAMPO G.ARNALDI 
 
-Indirizzo Campo:  Via Santuario, snc - Savona
+Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
-Location: Via Santuario, Lavagnola, Savona, Liguria, 17100, Italia
-Geo: Geo(latitude=44.3230861, longitude=8.464578)
+Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
+Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
 ## Sab 26/09/2026 15.00
@@ -95,7 +95,7 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 # Coppa Federale Maschile - OUTDOOR  - Girone B / Giornata 4
 
-## Sab 24/10/2026 15.00
+## Sab 24/10/2026 11.00
 
 <strong>HC SAVONA - H.C. GENOVA</strong>
 
