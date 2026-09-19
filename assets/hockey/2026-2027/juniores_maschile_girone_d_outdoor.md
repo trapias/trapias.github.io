@@ -165,18 +165,18 @@ Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capital
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
-## Dom 08/11/2026 13.00
+## Dom 08/11/2026 16.00
 
-<strong>H.POTENZA PICENA - LAZIO HOCKEY</strong>
+<strong>LAZIO HOCKEY - H.POTENZA PICENA</strong>
 
 Gara: 537
 
-Campo: STADIO HOCKEY POTENZA PICENA 
+Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
 
-Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
+Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
+Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
 
@@ -255,7 +255,7 @@ Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
-## Dom 28/02/2027 12.00
+## Dom 21/03/2027 17.00
 
 <strong>BUTTERFLY ROMA H.C.C. - H.POTENZA PICENA</strong>
 
@@ -390,18 +390,18 @@ Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
-## Dom 04/04/2027 12.00
+## Dom 04/04/2027 15.30
 
-<strong>LAZIO HOCKEY - H.POTENZA PICENA</strong>
+<strong>H.POTENZA PICENA - LAZIO HOCKEY</strong>
 
 Gara: 552
 
-Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
+Campo: STADIO HOCKEY POTENZA PICENA 
 
-Indirizzo Campo:  VIA TRE FONTANE, 25 - ROMA
+Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
-Geo: Geo(latitude=41.8385269, longitude=12.476376)
+Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
+Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
 

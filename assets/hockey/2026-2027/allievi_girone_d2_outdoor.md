@@ -47,7 +47,7 @@ Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
-## Dom 25/10/2026 12.00
+## Dom 25/10/2026 13.30
 
 <strong>AZ HOCKEY TEAM - ASD HOCKEY CLUB MOGLIANO</strong>
 

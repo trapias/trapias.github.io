@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 4\nGara 418\nFrascari - Via Calamandrei (Campo Frascari)\, snc Pistoia\nHC PISTOIA - CSP SAN GIORGIO
-GEO:43.974096;10.868708
-LOCATION:Pistoia\, Toscana\, Italia
-DTSTART:20270321T120000Z
-SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 4 - HC PISTOIA - CSP SAN GIORGIO
-UID:2c04e789-a170-46ac-9935-ba40c6834d7c@2c04.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 2\nGara 414\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD CITTA' DEL TRICOLORE - CSP SAN GIORGIO
 GEO:44.708262;10.635422
 LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
 DTSTART:20261025T100000Z
 SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 2 - ASD CITTA' DEL TRICOLORE - CSP SAN GIORGIO
-UID:06d066fa-a526-4e9e-b577-7dffce7818e0@06d0.org
+UID:b4259286-325f-460c-b4fe-8385ad5ebef1@b425.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 4\nGara 418\nFrascari - Via Calamandrei (Campo Frascari)\, snc Pistoia\nHC PISTOIA - CSP SAN GIORGIO
+GEO:43.974096;10.868708
+LOCATION:Pistoia\, Toscana\, Italia
+DTSTART:20270321T120000Z
+SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 4 - HC PISTOIA - CSP SAN GIORGIO
+UID:c166dbc3-f6ad-40cd-b8d0-0ec12f6ad9e7@c166.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 6\nGara 422\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HOCKEY CLUB BONDENO
@@ -23,15 +23,7 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20270425T110000Z
 SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 6 - CSP SAN GIORGIO - HOCKEY CLUB BONDENO
-UID:f7c5f8e4-6ad3-45d2-acd2-d18a890edc3c@f7c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 3\nGara 416\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - CSP SAN GIORGIO
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20261101T100000Z
-SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 3 - HOCKEY CLUB BONDENO - CSP SAN GIORGIO
-UID:a3541013-0035-4fd4-b098-a1e98f62fea4@a354.org
+UID:3e6c0ba6-03d5-4984-a26c-9b9c142f6d88@3e6c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 5\nGara 420\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD CITTA' DEL TRICOLORE
@@ -39,7 +31,7 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20270411T090000Z
 SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 5 - CSP SAN GIORGIO - ASD CITTA' DEL TRICOLORE
-UID:3f637095-e94f-4759-abd3-89596224e1e9@3f63.org
+UID:99d3c4e3-4b41-449e-a675-0cf0936e8d25@99d3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 1\nGara 412\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HC PISTOIA
@@ -47,6 +39,14 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20261018T110000Z
 SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 1 - CSP SAN GIORGIO - HC PISTOIA
-UID:e3467f33-0334-4e7b-bca7-acd2c1f3634b@e346.org
+UID:0c3a867a-0e29-4360-ab8f-e2503a4c293c@0c3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 3\nGara 416\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - CSP SAN GIORGIO
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20261101T100000Z
+SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 3 - HOCKEY CLUB BONDENO - CSP SAN GIORGIO
+UID:0148ef8e-1b88-4eb3-9fcd-0c0c704968e4@0148.org
 END:VEVENT
 END:VCALENDAR

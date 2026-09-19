@@ -95,7 +95,7 @@ Geo: Geo(latitude=40.465627, longitude=17.735612)
 
 # Coppa Federale Maschile - OUTDOOR  - Girone C / Giornata 4
 
-## Sab 24/10/2026 14.00
+## Dom 25/10/2026 11.30
 
 <strong>AZ HOCKEY TEAM - ASD HOCKEY CLUB MOGLIANO</strong>
 

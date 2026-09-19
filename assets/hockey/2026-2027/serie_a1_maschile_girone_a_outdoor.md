@@ -16,7 +16,7 @@ Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
-## Sab 19/09/2026 15.00
+## Sab 19/09/2026 16.00
 
 <strong>ASD CITTA' DEL TRICOLORE - CUS CAGLIARI</strong>
 

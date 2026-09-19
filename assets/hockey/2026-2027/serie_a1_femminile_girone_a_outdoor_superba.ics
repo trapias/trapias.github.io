@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2\nGara 439\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - SUPERBA
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20270314T140000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2 - HOCKEY CLUB RIVA - SUPERBA
-UID:1ea81563-81af-431e-ab60-ff09288477b7@1ea8.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1\nGara 437\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - SUPERBA
 GEO:45.050205;8.265038
 LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
 DTSTART:20270307T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1 - USD MONCALVESE HOCKEY - SUPERBA
-UID:7905d09a-e58c-4f3f-8b8a-3b61f4941b38@7905.org
+UID:1a05bfa2-db64-4755-8664-95fc68bf224b@1a05.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3\nGara 440\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - CUS TORINO
@@ -23,15 +15,7 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20270321T100000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3 - SUPERBA - CUS TORINO
-UID:4912d7ab-f834-4956-bc35-25f0a540cf72@4912.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6\nGara 446\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - SUPERBA
-GEO:45.033509;7.633384
-LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
-DTSTART:20270425T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6 - CUS TORINO - SUPERBA
-UID:fd7ae017-caa7-4bfb-98af-6bc32c0ec020@fd7a.org
+UID:e2e18d8c-165a-4636-8d28-48f4c1ab7db5@e2e1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5\nGara 445\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - HOCKEY CLUB RIVA
@@ -39,7 +23,23 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20270418T090000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5 - SUPERBA - HOCKEY CLUB RIVA
-UID:11e607a4-7895-47f5-95d9-7ed5d1dd84b5@11e6.org
+UID:7f560de2-ebb6-47a0-bbda-323652dc581c@7f56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6\nGara 446\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - SUPERBA
+GEO:45.033509;7.633384
+LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
+DTSTART:20270425T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6 - CUS TORINO - SUPERBA
+UID:847bf1bf-1758-4182-9b61-331486d48e6b@847b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2\nGara 439\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - SUPERBA
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20270314T140000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2 - HOCKEY CLUB RIVA - SUPERBA
+UID:9a2140f5-b62a-4d22-928a-c5396eca85cd@9a21.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4\nGara 443\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - USD MONCALVESE HOCKEY
@@ -47,6 +47,6 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20270411T090000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4 - SUPERBA - USD MONCALVESE HOCKEY
-UID:eb9c5041-ba2e-4728-9276-27e00bed6f8e@eb9c.org
+UID:b72e1623-24f1-439c-a9fc-07d35e4d1d4f@b72e.org
 END:VEVENT
 END:VCALENDAR
