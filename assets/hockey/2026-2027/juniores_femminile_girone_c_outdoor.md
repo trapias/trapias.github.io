@@ -126,7 +126,7 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 # Juniores Femminile - OUTDOOR  - Girone C / Giornata 5
 
-## Sab 21/11/2026 17.00
+## Mer 18/11/2026 19.00
 
 <strong>HOCKEY CLUB TIBERINA A.S.D. - BUTTERFLY ROMA H.C.C.</strong>
 

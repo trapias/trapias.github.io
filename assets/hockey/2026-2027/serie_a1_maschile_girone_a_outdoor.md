@@ -6,6 +6,8 @@
 
 <strong>HOCKEY CLUB RIVA - CUS PISA ASD</strong>
 
+**Risultato: 2-0**
+
 Gara: 147
 
 Campo: Comunale Mori 
@@ -20,6 +22,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>ASD CITTA' DEL TRICOLORE - CUS CAGLIARI</strong>
 
+**Risultato: 4-2**
+
 Gara: 148
 
 Campo: Sport Arena 
@@ -33,6 +37,8 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 ## Sab 19/09/2026 15.00
 
 <strong>H.POTENZA PICENA - ASD ADIGE UHC</strong>
+
+**Risultato: 4-2**
 
 Gara: 149
 

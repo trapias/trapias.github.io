@@ -6,6 +6,8 @@
 
 <strong>HOCKEY CLUB BRA A.S.D. - HT SARDEGNA</strong>
 
+**Risultato: 6-1**
+
 Gara: 1
 
 Campo: PINO PALMIERI 
@@ -20,6 +22,8 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 <strong>HOCKEY CLUB BONDENO - BUTTERFLY ROMA H.C.C.</strong>
 
+**Risultato: 6-3**
+
 Gara: 2
 
 Campo: A. GIATTI 
@@ -33,6 +37,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Sab 19/09/2026 15.00
 
 <strong>POLISPORTIVA FERRINI CAGLIARI - S.G. AMSICORA ASD</strong>
+
+**Risultato: 2-6**
 
 Gara: 3
 
@@ -49,6 +55,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>HOCKEY SU PRATO VALCHISONE - TEVERE EUR HOCKEY ASD</strong>
 
+**Risultato: 0-1**
+
 Gara: 4
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 
@@ -64,6 +72,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 ## Sab 19/09/2026 15.00
 
 <strong>HOCKEY TEAM BOLOGNA - LAZIO HOCKEY</strong>
+
+**Risultato: 0-4**
 
 Gara: 5
 

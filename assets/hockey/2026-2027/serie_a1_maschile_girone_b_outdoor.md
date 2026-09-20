@@ -20,6 +20,8 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 <strong>ASD H.C. VILLAFRANCA - A.S.D. S.H. PAOLO BONOMI</strong>
 
+**Risultato: 0-2**
+
 Gara: 178
 
 Campo: Lamacchi 
@@ -32,6 +34,8 @@ Location:  Tosoni - Via A. Porta, snc Villafranca di Verona
 ## Sab 19/09/2026 15.00
 
 <strong>SUPERBA - USD MONCALVESE HOCKEY</strong>
+
+**Risultato: 4-3**
 
 Gara: 179
 
