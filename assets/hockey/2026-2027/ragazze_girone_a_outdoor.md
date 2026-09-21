@@ -17,7 +17,7 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 
 <!-- VALCHISONE_START -->
-## Sab 03/10/2026 15.00 ⭐
+## Sab 03/10/2026 14.00 ⭐
 
 <strong>HOCKEY PRATO VALCHISONE FEMMINILE - USD MONCALVESE HOCKEY</strong>
 
@@ -186,16 +186,16 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 <!-- VALCHISONE_START -->
 ## Dom 14/03/2027 11.00 ⭐
 
-<strong>HOCKEY PRATO VALCHISONE FEMMINILE - USD MONCALVESE HOCKEY</strong>
+<strong>USD MONCALVESE HOCKEY - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 
 Gara: 825
 
-Campo: CAMPO HOCKEY SANDRO MICHELLONET 
+Campo: UMBERTO MICCO 
 
-Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
+Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.9206934, longitude=7.2445978)
+Location: Moncalvo, Asti, Piemonte, 14036, Italia
+Geo: Geo(latitude=45.050205, longitude=8.2650382)
 <!-- VALCHISONE_END -->
 
 

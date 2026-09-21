@@ -6,6 +6,8 @@
 
 <strong>HOCKEY CLUB RIVA - CSP SAN GIORGIO</strong>
 
+**Risultato: 5-4**
+
 Gara: 356
 
 Campo: Comunale Mori 
@@ -19,6 +21,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 ## Dom 20/09/2026 11.00
 
 <strong>ASD H.C. VILLAFRANCA - HOCKEY TEAM BOLOGNA</strong>
+
+**Risultato: 5-3**
 
 Gara: 357
 

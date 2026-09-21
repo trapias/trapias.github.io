@@ -2,7 +2,7 @@
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 1
 
-## Sab 31/10/2026 15.00
+## Dom 25/10/2026 14.00
 
 <strong>ASD CERNUSCO FIELD HOCKEY - SCUOLA HOCKEY INDER SINGH</strong>
 
