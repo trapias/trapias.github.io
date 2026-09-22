@@ -64,20 +64,6 @@ Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemon
 Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
-## -
-
-<strong>CUS TORINO RISERVE - USD MONCALVESE HOCKEY</strong>
-
-Gara: 838
-
-Campo: Tazzoli 
-
-Indirizzo Campo:  Corso Tazzoli, 78 - Torino
-
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-
-
 <!-- VALCHISONE_START -->
 ## Dom 18/10/2026 12.30 ⭐
 
@@ -132,23 +118,6 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
 
-<!-- VALCHISONE_START -->
-## - ⭐
-
-<strong>HOCKEY PRATO VALCHISONE FEMMINILE - CUS TORINO RISERVE</strong>
-
-Gara: 842
-
-Campo: CAMPO HOCKEY SANDRO MICHELLONET 
-
-Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
-
-Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.9206934, longitude=7.2445978)
-<!-- VALCHISONE_END -->
-
-
-
 ## Dom 01/11/2026 11.00
 
 <strong>USD MONCALVESE HOCKEY - ASD HF LORENZONI</strong>
@@ -192,51 +161,6 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
-
-
-## -
-
-<strong>CUS TORINO - CUS TORINO RISERVE</strong>
-
-Gara: 846
-
-Campo: Tazzoli 
-
-Indirizzo Campo:  Corso Tazzoli, 78 - Torino
-
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-
-
-
-# Allieve - OUTDOOR  - Girone A / Giornata 5
-
-## -
-
-<strong>CUS TORINO RISERVE - ASD HF LORENZONI</strong>
-
-Gara: 847
-
-Campo: Tazzoli 
-
-Indirizzo Campo:  Corso Tazzoli, 78 - Torino
-
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-
-
-## -
-
-<strong>CUS TORINO RISERVE - ASD HF LORENZONI RIS.</strong>
-
-Gara: 848
-
-Campo: Tazzoli 
-
-Indirizzo Campo:  Corso Tazzoli, 78 - Torino
-
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
 
@@ -304,20 +228,6 @@ Location: Moncalvo, Asti, Piemonte, 14036, Italia
 Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 
-## -
-
-<strong>USD MONCALVESE HOCKEY - CUS TORINO RISERVE</strong>
-
-Gara: 853
-
-Campo: UMBERTO MICCO 
-
-Indirizzo Campo:  Via Goria, 4 - Moncalvo
-
-Location: Moncalvo, Asti, Piemonte, 14036, Italia
-Geo: Geo(latitude=45.050205, longitude=8.2650382)
-
-
 <!-- VALCHISONE_START -->
 ## Dom 21/03/2027 10.00 ⭐
 
@@ -372,23 +282,6 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 
 
-<!-- VALCHISONE_START -->
-## - ⭐
-
-<strong>HOCKEY PRATO VALCHISONE FEMMINILE - CUS TORINO RISERVE</strong>
-
-Gara: 857
-
-Campo: CAMPO HOCKEY SANDRO MICHELLONET 
-
-Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
-
-Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.9206934, longitude=7.2445978)
-<!-- VALCHISONE_END -->
-
-
-
 ## Dom 11/04/2027 11.00
 
 <strong>USD MONCALVESE HOCKEY - ASD HF LORENZONI</strong>
@@ -432,49 +325,4 @@ Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
 
 Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
-
-
-## -
-
-<strong>CUS TORINO RISERVE - CUS TORINO</strong>
-
-Gara: 861
-
-Campo: Tazzoli 
-
-Indirizzo Campo:  Corso Tazzoli, 78 - Torino
-
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-
-
-
-# Allieve - OUTDOOR  - Girone A / Giornata 10
-
-## -
-
-<strong>CUS TORINO RISERVE - ASD HF LORENZONI</strong>
-
-Gara: 862
-
-Campo: Tazzoli 
-
-Indirizzo Campo:  Corso Tazzoli, 78 - Torino
-
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
-
-
-## -
-
-<strong>CUS TORINO RISERVE - ASD HF LORENZONI RIS.</strong>
-
-Gara: 863
-
-Campo: Tazzoli 
-
-Indirizzo Campo:  Corso Tazzoli, 78 - Torino
-
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
