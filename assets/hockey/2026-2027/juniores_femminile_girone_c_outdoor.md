@@ -78,7 +78,7 @@ Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capital
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
-## Sab 31/10/2026 16.00
+## Sab 27/02/2027 16.00
 
 <strong>AZ HOCKEY TEAM - H.POTENZA PICENA</strong>
 

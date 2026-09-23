@@ -47,7 +47,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 # Allievi - OUTDOOR  - Girone C / Giornata 2
 
-## Dom 04/10/2026 09.00
+## Dom 11/10/2026 17.30
 
 <strong>GENOVA H. 1980 DRITTO - H.C. BLU</strong>
 
@@ -61,7 +61,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Dom 04/10/2026 12.00
+## Dom 11/10/2026 19.00
 
 <strong>H.C. GIALLO - BAD LAKE</strong>
 

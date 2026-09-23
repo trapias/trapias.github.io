@@ -30,36 +30,8 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Dom 11/10/2026 10.00
-
-<strong>DEL PINTO & ASSOCIATI H. PISTOIA - CUS PISA ASD</strong>
-
-Gara: 944
-
-Campo: HOCKEY STADIUM ANDREA BRUSCHI 
-
-Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
-
-Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.9509826, longitude=10.8292878)
-
-
 
 # Allieve - OUTDOOR  - Girone C / Giornata 2
-
-## Dom 18/10/2026 11.00
-
-<strong>DEL PINTO & ASSOCIATI H. PISTOIA - HC RAINBOW SAMPIERDARENA</strong>
-
-Gara: 945
-
-Campo: HOCKEY STADIUM ANDREA BRUSCHI 
-
-Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
-
-Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.9509826, longitude=10.8292878)
-
 
 ## Sab 17/10/2026 10.00
 
@@ -106,20 +78,6 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Dom 25/10/2026 18.00
-
-<strong>HC GENOVA RAINBOW - DEL PINTO & ASSOCIATI H. PISTOIA</strong>
-
-Gara: 949
-
-Campo: CAMPO G.ARNALDI 
-
-Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
-
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-
-
 ## Sab 24/10/2026 18.15
 
 <strong>SUPERBA - CUS PISA ASD</strong>
@@ -151,20 +109,6 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Sab 07/11/2026 16.00
-
-<strong>DEL PINTO & ASSOCIATI H. PISTOIA - SUPERBA</strong>
-
-Gara: 952
-
-Campo: HOCKEY STADIUM ANDREA BRUSCHI 
-
-Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
-
-Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.9509826, longitude=10.8292878)
-
-
 ## Dom 08/11/2026 11.30
 
 <strong>HF GENOVA 1980 - CUS PISA ASD</strong>
@@ -181,20 +125,6 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
 # Allieve - OUTDOOR  - Girone C / Giornata 5
-
-## Dom 15/11/2026 10.30
-
-<strong>HF GENOVA 1980 - DEL PINTO & ASSOCIATI H. PISTOIA</strong>
-
-Gara: 954
-
-Campo: CAMPO G.ARNALDI 
-
-Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
-
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-
 
 ## Dom 15/11/2026 15.30
 
@@ -255,36 +185,8 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Dom 07/03/2027 14.00
-
-<strong>CUS PISA ASD - DEL PINTO & ASSOCIATI H. PISTOIA</strong>
-
-Gara: 959
-
-Campo: HOCKEY STADIUM ANDREA BRUSCHI 
-
-Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
-
-Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.9509826, longitude=10.8292878)
-
-
 
 # Allieve - OUTDOOR  - Girone C / Giornata 7
-
-## Dom 14/03/2027 13.00
-
-<strong>HC RAINBOW SAMPIERDARENA - DEL PINTO & ASSOCIATI H. PISTOIA</strong>
-
-Gara: 960
-
-Campo: CAMPO G.ARNALDI 
-
-Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
-
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-
 
 ## Dom 14/03/2027 16.30
 
@@ -300,7 +202,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Dom 14/03/2027 14.30
+## Dom 21/03/2027 09.00
 
 <strong>CUS PISA ASD - HC GENOVA RAINBOW</strong>
 
@@ -317,7 +219,7 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 # Allieve - OUTDOOR  - Girone C / Giornata 8
 
-## Dom 21/03/2027 14.00
+## Dom 04/04/2027 14.00
 
 <strong>HF GENOVA 1980 - HC RAINBOW SAMPIERDARENA</strong>
 
@@ -331,34 +233,6 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Dom 21/03/2027 16.30
-
-<strong>DEL PINTO & ASSOCIATI H. PISTOIA - HC GENOVA RAINBOW</strong>
-
-Gara: 964
-
-Campo: HOCKEY STADIUM ANDREA BRUSCHI 
-
-Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
-
-Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.9509826, longitude=10.8292878)
-
-
-## Dom 21/03/2027 18.00
-
-<strong>CUS PISA ASD - DEL PINTO & ASSOCIATI H. PISTOIA</strong>
-
-Gara: 965
-
-Campo: HOCKEY STADIUM ANDREA BRUSCHI 
-
-Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
-
-Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.9509826, longitude=10.8292878)
-
-
 
 # Allieve - OUTDOOR  - Girone C / Giornata 9
 
@@ -367,20 +241,6 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 <strong>HC RAINBOW SAMPIERDARENA - HC GENOVA RAINBOW</strong>
 
 Gara: 966
-
-Campo: CAMPO G.ARNALDI 
-
-Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
-
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-
-
-## Sab 10/04/2027 17.30
-
-<strong>SUPERBA - DEL PINTO & ASSOCIATI H. PISTOIA</strong>
-
-Gara: 967
 
 Campo: CAMPO G.ARNALDI 
 
@@ -406,20 +266,6 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 
 # Allieve - OUTDOOR  - Girone C / Giornata 10
-
-## Dom 02/05/2027 11.00
-
-<strong>DEL PINTO & ASSOCIATI H. PISTOIA - HF GENOVA 1980</strong>
-
-Gara: 969
-
-Campo: HOCKEY STADIUM ANDREA BRUSCHI 
-
-Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
-
-Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.9509826, longitude=10.8292878)
-
 
 ## Dom 02/05/2027 14.00
 

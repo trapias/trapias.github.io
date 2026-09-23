@@ -286,7 +286,7 @@ Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capital
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
-## Sab 06/03/2027 16.00
+## Sab 06/03/2027 16.30
 
 <strong>H.POTENZA PICENA - RISERVE - TEVERE EUR HOCKEY ASD</strong>
 

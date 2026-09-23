@@ -216,7 +216,7 @@ Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Ita
 Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 
-## Sab 17/10/2026 13.00
+## Sab 17/10/2026 11.30
 
 <strong>CUS CAGLIARI - ASD ADIGE UHC</strong>
 
