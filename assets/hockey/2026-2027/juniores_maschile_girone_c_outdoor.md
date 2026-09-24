@@ -157,18 +157,18 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 # Juniores Maschile - OUTDOOR  - Girone C / Giornata 6
 
-## Dom 11/04/2027 13.00
+## Dom 11/04/2027 12.30
 
-<strong>GENOVA HOCKEY 1980 - CUS PISA ASD</strong>
+<strong>CUS PISA ASD - GENOVA HOCKEY 1980</strong>
 
 Gara: 880
 
-Campo: CAMPO G.ARNALDI 
+Campo: HOCKEY STADIUM ANDREA BRUSCHI 
 
-Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
+Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
 
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
+Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
+Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 
 ## Dom 11/04/2027 09.00

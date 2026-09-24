@@ -50,7 +50,7 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 # Allievi - OUTDOOR  - Girone A / Giornata 2
 
-## Sab 10/10/2026 12.00
+## Dom 04/10/2026 10.30
 
 <strong>A.S.D. S.H. PAOLO BONOMI - SCUOLA HOCKEY INDER SINGH</strong>
 
@@ -64,7 +64,7 @@ Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
 Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
-## Sab 10/10/2026 16.00
+## Dom 04/10/2026 12.30
 
 <strong>A.S.D. S.H. PAOLO BONOMI - SCUOLA HOCKEY INDER SINGH NEXT GEN</strong>
 

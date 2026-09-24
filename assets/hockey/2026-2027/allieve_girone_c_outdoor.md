@@ -202,7 +202,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Dom 21/03/2027 09.00
+## Dom 14/03/2027 14.30
 
 <strong>CUS PISA ASD - HC GENOVA RAINBOW</strong>
 
