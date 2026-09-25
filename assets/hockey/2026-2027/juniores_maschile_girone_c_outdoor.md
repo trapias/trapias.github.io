@@ -157,7 +157,7 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 # Juniores Maschile - OUTDOOR  - Girone C / Giornata 6
 
-## Dom 11/04/2027 12.30
+## Dom 18/04/2027 14.00
 
 <strong>CUS PISA ASD - GENOVA HOCKEY 1980</strong>
 

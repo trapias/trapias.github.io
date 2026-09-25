@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 4\nGara 876\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nBAD LAKE - GENOVA HOCKEY 1980
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20270307T090000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 4 - BAD LAKE - GENOVA HOCKEY 1980
+UID:06bc05e6-0602-4cf3-8653-3b1d3c18431f@06bc.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 6\nGara 881\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nBAD LAKE - H.C. GENOVA
 GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20270411T070000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 6 - BAD LAKE - H.C. GENOVA
-UID:112076d6-f098-4c24-bfef-7f0cb96e1392@1120.org
+UID:6a87b231-afbe-4341-912d-3bccb33f7b95@6a87.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 2\nGara 873\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nBAD LAKE - CUS PISA ASD
@@ -15,23 +23,7 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20261025T110000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 2 - BAD LAKE - CUS PISA ASD
-UID:e288746e-2e1f-4a6c-b400-f9aacdb686d1@e288.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 4\nGara 876\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nBAD LAKE - GENOVA HOCKEY 1980
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20270307T090000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 4 - BAD LAKE - GENOVA HOCKEY 1980
-UID:f1c652ba-11c9-4141-97d3-f3a0d079ddff@f1c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 3\nGara 875\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nH.C. GENOVA - BAD LAKE
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20261107T160000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 3 - H.C. GENOVA - BAD LAKE
-UID:823dc128-75ed-4606-adc3-44c48b016618@823d.org
+UID:ddc08141-5e7d-4b2e-ae0e-e495ca57a00f@ddc0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 5\nGara 879\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nCUS PISA ASD - BAD LAKE
@@ -39,7 +31,15 @@ GEO:43.950983;10.829288
 LOCATION:Via per Montagnana\, Montagnana\, Marliana\, Pistoia\, Toscana\, 51130\, Italia
 DTSTART:20270314T150000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 5 - CUS PISA ASD - BAD LAKE
-UID:c005c558-ef2f-47c6-b82e-fe5b612898a8@c005.org
+UID:a18d79d3-2897-41ec-b7cf-29748155b8ab@a18d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 3\nGara 875\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nH.C. GENOVA - BAD LAKE
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20261107T160000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 3 - H.C. GENOVA - BAD LAKE
+UID:c1427daa-0618-4cf8-9dd6-7549d3f8a98e@c142.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 1\nGara 870\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA HOCKEY 1980 - BAD LAKE
@@ -47,6 +47,6 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20261011T070000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 1 - GENOVA HOCKEY 1980 - BAD LAKE
-UID:d667064f-0355-4132-9451-bed010e62056@d667.org
+UID:70071be0-c0ab-4a26-9197-147e3ccbdfac@7007.org
 END:VEVENT
 END:VCALENDAR

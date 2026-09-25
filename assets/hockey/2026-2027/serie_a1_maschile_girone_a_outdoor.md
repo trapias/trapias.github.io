@@ -53,7 +53,7 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 # Serie A1 Maschile - OUTDOOR  - Girone A / Giornata 2
 
-## Sab 26/09/2026 15.00
+## Sab 26/09/2026 14.45
 
 <strong>CUS PISA ASD - H.POTENZA PICENA</strong>
 
@@ -157,7 +157,7 @@ Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia,
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 
-## Sab 10/10/2026 15.00
+## Sab 10/10/2026 13.00
 
 <strong>H.POTENZA PICENA - CUS CAGLIARI</strong>
 

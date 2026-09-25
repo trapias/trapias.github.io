@@ -16,34 +16,6 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Sab 26/09/2026 10.15
-
-<strong>H.C. BLU - CUS PISA ASD</strong>
-
-Gara: 901
-
-Campo: CAMPO G.ARNALDI 
-
-Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
-
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-
-
-## Sab 26/09/2026 12.00
-
-<strong>BAD LAKE - CUS PISA ASD</strong>
-
-Gara: 902
-
-Campo: CAMPO G.ARNALDI 
-
-Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
-
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-
-
 
 # Allievi - OUTDOOR  - Girone C / Giornata 2
 
@@ -97,34 +69,6 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 <strong>BAD LAKE - H.C. BLU</strong>
 
 Gara: 906
-
-Campo: CAMPO G.ARNALDI 
-
-Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
-
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-
-
-## Sab 24/10/2026 10.30
-
-<strong>GENOVA H. 1980 ROVESCIO - CUS PISA ASD</strong>
-
-Gara: 907
-
-Campo: CAMPO G.ARNALDI 
-
-Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
-
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-
-
-## Sab 24/10/2026 13.00
-
-<strong>H.C. GIALLO - CUS PISA ASD</strong>
-
-Gara: 908
 
 Campo: CAMPO G.ARNALDI 
 
@@ -196,20 +140,6 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Dom 01/11/2026 10.30
-
-<strong>GENOVA H. 1980 DRITTO - CUS PISA ASD</strong>
-
-Gara: 913
-
-Campo: CAMPO G.ARNALDI 
-
-Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
-
-Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
-Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-
-
 ## Dom 01/11/2026 16.30
 
 <strong>GENOVA H. 1980 ROVESCIO - BAD LAKE</strong>
@@ -239,34 +169,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-
-
-## Dom 21/03/2027 12.30
-
-<strong>CUS PISA ASD - H.C. BLU</strong>
-
-Gara: 916
-
-Campo: HOCKEY STADIUM ANDREA BRUSCHI 
-
-Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
-
-Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.9509826, longitude=10.8292878)
-
-
-## Dom 21/03/2027 15.00
-
-<strong>CUS PISA ASD - BAD LAKE</strong>
-
-Gara: 917
-
-Campo: HOCKEY STADIUM ANDREA BRUSCHI 
-
-Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
-
-Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 
 
@@ -329,34 +231,6 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-
-
-## Dom 11/04/2027 14.00
-
-<strong>CUS PISA ASD - GENOVA H. 1980 ROVESCIO</strong>
-
-Gara: 922
-
-Campo: HOCKEY STADIUM ANDREA BRUSCHI 
-
-Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
-
-Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.9509826, longitude=10.8292878)
-
-
-## Dom 11/04/2027 16.00
-
-<strong>CUS PISA ASD - H.C. GIALLO</strong>
-
-Gara: 923
-
-Campo: HOCKEY STADIUM ANDREA BRUSCHI 
-
-Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
-
-Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 
 
@@ -433,18 +307,4 @@ Indirizzo Campo:  VIA BARTOLOMEO BIANCO, 2B - Genova
 
 Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 16134, Italia
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
-
-
-## Dom 09/05/2027 11.00
-
-<strong>CUS PISA ASD - GENOVA H. 1980 DRITTO</strong>
-
-Gara: 929
-
-Campo: HOCKEY STADIUM ANDREA BRUSCHI 
-
-Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
-
-Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
-Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
