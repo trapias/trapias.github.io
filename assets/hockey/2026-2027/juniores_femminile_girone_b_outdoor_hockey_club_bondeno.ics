@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 6\nGara 459\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - MILANO HOCKEY PRATO
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20270417T140000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 6 - HOCKEY CLUB BONDENO - MILANO HOCKEY PRATO
-UID:2f80a5e3-593f-4fcd-93d1-e9bb472bd831@2f80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 453\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HOCKEY PRATO - HOCKEY CLUB BONDENO
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20261024T150000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3 - MILANO HOCKEY PRATO - HOCKEY CLUB BONDENO
-UID:49fea468-206f-45c6-a85d-15214d006d87@49fe.org
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 456\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - HOCKEY CLUB BONDENO
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20270404T090000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5 - HOCKEY CLUB RIVA - HOCKEY CLUB BONDENO
+UID:585f305d-7ed0-402d-9a6d-a82fe48ac37f@585f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 1\nGara 449\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - ASD ADIGE UHC
@@ -23,7 +15,15 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20261001T164500Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 1 - HOCKEY CLUB BONDENO - ASD ADIGE UHC
-UID:37302026-b028-45cd-8e79-49dd587ea497@3730.org
+UID:1e977609-c3be-4294-912c-fdd60fc370a7@1e97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3\nGara 453\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nMILANO HOCKEY PRATO - HOCKEY CLUB BONDENO
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20261024T150000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 3 - MILANO HOCKEY PRATO - HOCKEY CLUB BONDENO
+UID:41d2b47e-7d93-4381-84d9-ca2c1efd8bb0@41d2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 4\nGara 455\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY CLUB BONDENO
@@ -31,7 +31,15 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20270314T100000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 4 - ASD ADIGE UHC - HOCKEY CLUB BONDENO
-UID:53891f3c-637a-41a0-a299-3f1dad4d7023@5389.org
+UID:c9b60567-367f-4a39-a1f9-602e5b7c77b3@c9b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 6\nGara 459\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - MILANO HOCKEY PRATO
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20270417T140000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 6 - HOCKEY CLUB BONDENO - MILANO HOCKEY PRATO
+UID:c1a649eb-f3d7-4436-badc-6671fcfd3194@c1a6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 2\nGara 450\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - HOCKEY CLUB RIVA
@@ -39,14 +47,6 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20261114T140000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 2 - HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA
-UID:1649ed27-965e-40ae-ad39-7b18089439ca@1649.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5\nGara 456\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - HOCKEY CLUB BONDENO
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20270404T090000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone B / Giornata 5 - HOCKEY CLUB RIVA - HOCKEY CLUB BONDENO
-UID:f1e810db-69b7-4c16-8657-b6fe2124a7a6@f1e8.org
+UID:ddd6130c-a85b-449e-82ed-9da83c500b0b@ddd6.org
 END:VEVENT
 END:VCALENDAR

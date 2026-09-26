@@ -264,7 +264,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Sab 03/04/2027 13.00
+## Sab 17/04/2027 13.00
 
 <strong>ASD HF LORENZONI - HF GENOVA 1980</strong>
 

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 5\nGara 890\nCampo Hockey Club Riva - Via Mazzoldi\, snc Riva del Garda\nHOCKEY CLUB RIVA - CUS PADOVA ASD
-GEO:45.888250;10.862919
-LOCATION:Via Sisto Mazzoldi\, Sant'Alessandro\, Riva del Garda\, Comunità Alto Garda e Ledro\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38066\, Italia
-DTSTART:20270411T090000Z
-SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 5 - HOCKEY CLUB RIVA - CUS PADOVA ASD
-UID:f041c15d-2fdc-4aaa-98e9-93c9f23a15a7@f041.org
+DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 4\nGara 889\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CUS PADOVA ASD
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20270321T120000Z
+SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 4 - ASD ADIGE UHC - CUS PADOVA ASD
+UID:bb8735f5-efa7-4c4d-be76-2b8ad211b280@bb87.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 2\nGara 884\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY CLUB RIVA
@@ -15,15 +15,7 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20261011T090000Z
 SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 2 - CUS PADOVA ASD - HOCKEY CLUB RIVA
-UID:a292072d-c296-4441-ac8c-388a5d3487fd@a292.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 4\nGara 889\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CUS PADOVA ASD
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20270321T120000Z
-SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 4 - ASD ADIGE UHC - CUS PADOVA ASD
-UID:3a73043d-4399-46f4-933f-779f13f18160@3a73.org
+UID:9a6d0da3-bcb6-4923-beca-ed226f2089b5@9a6d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 3\nGara 887\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - CUS PADOVA ASD
@@ -31,7 +23,7 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20261025T100000Z
 SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 3 - HOCKEY CLUB BONDENO - CUS PADOVA ASD
-UID:5bf4dd8d-71d0-4d18-b5b1-cd74cbdde9c3@5bf4.org
+UID:2333b329-d247-4e28-a82f-28cf016b9423@2333.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 6\nGara 893\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY CLUB BONDENO
@@ -39,7 +31,15 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20270509T090000Z
 SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 6 - CUS PADOVA ASD - HOCKEY CLUB BONDENO
-UID:00d74ccf-d292-40bd-9dc7-199c41d3af5f@00d7.org
+UID:472a9679-0c26-4bdf-bfb4-6516cb6909cf@472a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 5\nGara 890\nCampo Hockey Club Riva - Via Mazzoldi\, snc Riva del Garda\nHOCKEY CLUB RIVA - CUS PADOVA ASD
+GEO:45.888250;10.862919
+LOCATION:Via Sisto Mazzoldi\, Sant'Alessandro\, Riva del Garda\, Comunità Alto Garda e Ledro\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38066\, Italia
+DTSTART:20270411T090000Z
+SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 5 - HOCKEY CLUB RIVA - CUS PADOVA ASD
+UID:4d8c6c1e-1800-4301-a7ed-5d0fdfac0280@4d8c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 1\nGara 883\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - ASD ADIGE UHC
@@ -47,6 +47,6 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20261101T120000Z
 SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 1 - CUS PADOVA ASD - ASD ADIGE UHC
-UID:447b9a5a-050c-4829-9e97-2d1a24969ab7@447b.org
+UID:31608f42-071c-4e82-9006-fcaadfebcf0a@3160.org
 END:VEVENT
 END:VCALENDAR

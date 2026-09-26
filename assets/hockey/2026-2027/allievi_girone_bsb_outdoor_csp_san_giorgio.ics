@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 4\nGara 418\nFrascari - Via Calamandrei (Campo Frascari)\, snc Pistoia\nHC PISTOIA - CSP SAN GIORGIO
-GEO:43.974096;10.868708
-LOCATION:Pistoia\, Toscana\, Italia
-DTSTART:20270321T120000Z
-SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 4 - HC PISTOIA - CSP SAN GIORGIO
-UID:df7bd144-dfea-4d32-86f6-18439f79877e@df7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 2\nGara 414\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD CITTA' DEL TRICOLORE - CSP SAN GIORGIO
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20261025T100000Z
-SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 2 - ASD CITTA' DEL TRICOLORE - CSP SAN GIORGIO
-UID:61661710-b920-4cb0-944b-9af262b79947@6166.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 5\nGara 420\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD CITTA' DEL TRICOLORE
 GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20270411T090000Z
 SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 5 - CSP SAN GIORGIO - ASD CITTA' DEL TRICOLORE
-UID:f62865ef-c196-43e3-bafb-ff6f73d7cc85@f628.org
+UID:92a821fb-7527-4df4-998a-33ed5cd79332@92a8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 1\nGara 412\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HC PISTOIA
@@ -31,7 +15,23 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20261018T110000Z
 SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 1 - CSP SAN GIORGIO - HC PISTOIA
-UID:ceea1803-88a4-4df7-9605-348dab2a8941@ceea.org
+UID:e3ae87b8-c4b5-43c4-a96b-5cff7d215121@e3ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 4\nGara 418\nFrascari - Via Calamandrei (Campo Frascari)\, snc Pistoia\nHC PISTOIA - CSP SAN GIORGIO
+GEO:43.974096;10.868708
+LOCATION:Pistoia\, Toscana\, Italia
+DTSTART:20270321T120000Z
+SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 4 - HC PISTOIA - CSP SAN GIORGIO
+UID:3f435ca1-65df-4d1a-a519-9d1286429ad6@3f43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 2\nGara 414\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD CITTA' DEL TRICOLORE - CSP SAN GIORGIO
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20261025T100000Z
+SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 2 - ASD CITTA' DEL TRICOLORE - CSP SAN GIORGIO
+UID:8855ce7f-54fa-4f6d-8acc-e9aa9c508e65@8855.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 6\nGara 422\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HOCKEY CLUB BONDENO
@@ -39,7 +39,7 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20270425T110000Z
 SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 6 - CSP SAN GIORGIO - HOCKEY CLUB BONDENO
-UID:ae69086c-0e3a-4e46-95d8-77dd5d823ee3@ae69.org
+UID:6574cc4d-563a-4452-8764-a307c901ea96@6574.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 3\nGara 416\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - CSP SAN GIORGIO
@@ -47,6 +47,6 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20261101T100000Z
 SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 3 - HOCKEY CLUB BONDENO - CSP SAN GIORGIO
-UID:410d93f8-ef38-4611-a1c6-23feeb16a643@410d.org
+UID:85949f24-fd03-4738-9486-f7527547925b@8594.org
 END:VEVENT
 END:VCALENDAR

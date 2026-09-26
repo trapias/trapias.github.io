@@ -50,18 +50,18 @@ Location: Via Campolongo, Casale di Scodosia, Padova, Veneto, 35040, Italia
 Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 
-## Dom 04/10/2026 11.00
+## Dom 25/10/2026 12.00
 
-<strong>HOCKEY TEAM BOLOGNA - HOCKEY CLUB RIVA</strong>
+<strong>HOCKEY CLUB RIVA - HOCKEY TEAM BOLOGNA</strong>
 
 Gara: 359
 
-Campo: CP BARCA 
+Campo: Comunale Mori 
 
-Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
+Indirizzo Campo:  Via Lomba, 23 - Mori
 
-Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
-Geo: Geo(latitude=44.4947059, longitude=11.2803018)
+Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
+Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
 
@@ -205,16 +205,16 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 ## Dom 21/03/2027 11.00
 
-<strong>HOCKEY CLUB RIVA - HOCKEY TEAM BOLOGNA</strong>
+<strong>HOCKEY TEAM BOLOGNA - HOCKEY CLUB RIVA</strong>
 
 Gara: 369
 
-Campo: Comunale Mori 
+Campo: CP BARCA 
 
-Indirizzo Campo:  Via Lomba, 23 - Mori
+Indirizzo Campo:  Bologna - VIA SANZIO, 8, 2 - Bologna
 
-Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38065, Italia
-Geo: Geo(latitude=45.8512102, longitude=10.9865738)
+Location: 8, Via Raffaello Sanzio, Barca, Borgo Panigale-Reno, Casteldebole, Bologna, Emilia-Romagna, 40133, Italia
+Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 
 

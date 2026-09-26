@@ -16,7 +16,7 @@ Location: Via dei Gladioli, Avezzano, L'Aquila, 67051, Italia
 Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 
-## Sab 26/09/2026 14.00
+## Sab 31/10/2026 14.00
 
 <strong>ASD HOCKEY CLUB MOGLIANO - HOCKEY CLUB OLIMPIA</strong>
 
