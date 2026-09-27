@@ -54,6 +54,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>CSP SAN GIORGIO - SUPERBA</strong>
 
+**Risultato: 3-6**
+
 Gara: 180
 
 Campo: campo hockey s. farinazzo 
@@ -68,6 +70,8 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>A.S.D. POLISPORTIVA  JUVENILIA - A.S.D. S.H. PAOLO BONOMI</strong>
 
+**Risultato: 3-6**
+
 Gara: 181
 
 Campo: Comunale Uras 
@@ -81,6 +85,8 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 ## Sab 26/09/2026 15.00
 
 <strong>USD MONCALVESE HOCKEY - ASD H.C. VILLAFRANCA</strong>
+
+**Risultato: 6-1**
 
 Gara: 182
 

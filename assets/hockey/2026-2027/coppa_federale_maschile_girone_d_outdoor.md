@@ -6,6 +6,8 @@
 
 <strong>GRUPPO SPORTTIVO M SS RACCOMANDATA - VALVERDE HOCKEY 2018</strong>
 
+**Risultato: 4-3**
+
 Gara: 305
 
 Campo: DUSMET 

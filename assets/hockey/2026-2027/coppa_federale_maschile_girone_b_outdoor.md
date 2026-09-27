@@ -6,6 +6,8 @@
 
 <strong>HC SAVONA - HC PISTOIA</strong>
 
+**Risultato: 2-0**
+
 Gara: 283
 
 Campo: CAMPO G.ARNALDI 
@@ -19,6 +21,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Sab 26/09/2026 15.00
 
 <strong>H.C. GENOVA - GENOVA HOCKEY 1980</strong>
+
+**Risultato: 0-3**
 
 Gara: 284
 

@@ -20,6 +20,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>SUPERBA - HF GENOVA 1980</strong>
 
+**Risultato: 3-1**
+
 Gara: 795
 
 Campo: CAMPO G.ARNALDI 

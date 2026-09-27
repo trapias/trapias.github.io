@@ -233,6 +233,20 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
+## Dom 21/03/2027 18.00
+
+<strong>CUS PISA ASD - SUPERBA</strong>
+
+Gara: 1004
+
+Campo: HOCKEY STADIUM ANDREA BRUSCHI 
+
+Indirizzo Campo:  VIA PER MONTAGNANA, 330 - MONTAGNANA (pT)
+
+Location: Via per Montagnana, Montagnana, Marliana, Pistoia, Toscana, 51130, Italia
+Geo: Geo(latitude=43.9509826, longitude=10.8292878)
+
+
 
 # Allieve - OUTDOOR  - Girone C / Giornata 9
 
@@ -267,7 +281,7 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 # Allieve - OUTDOOR  - Girone C / Giornata 10
 
-## Dom 02/05/2027 14.00
+## Sab 08/05/2027 14.00
 
 <strong>CUS PISA ASD - HC RAINBOW SAMPIERDARENA</strong>
 

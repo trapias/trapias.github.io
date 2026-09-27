@@ -20,6 +20,8 @@ Geo: Geo(latitude=45.4490271, longitude=10.2276479)
 
 <strong>HC GRANTORTO B - HC GRANTORTO</strong>
 
+**Risultato: 1-10**
+
 Gara: 344
 
 Campo: Grantorto Hockey Stadium 

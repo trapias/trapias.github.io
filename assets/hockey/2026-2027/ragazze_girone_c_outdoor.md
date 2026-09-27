@@ -171,7 +171,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Sab 24/04/2027 14.00
+## Sab 24/04/2027 16.00
 
 <strong>CUS PISA ASD - HF GENOVA 1980</strong>
 

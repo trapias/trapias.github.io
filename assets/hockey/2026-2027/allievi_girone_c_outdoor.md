@@ -6,6 +6,8 @@
 
 <strong>GENOVA H. 1980 DRITTO - GENOVA H. 1980 ROVESCIO</strong>
 
+**Risultato: 5-3**
+
 Gara: 900
 
 Campo: CAMPO G.ARNALDI 
