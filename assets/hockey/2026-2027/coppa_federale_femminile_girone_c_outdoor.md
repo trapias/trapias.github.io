@@ -6,6 +6,8 @@
 
 <strong>HOCKEY CLUB RIVA - ASD ADIGE UHC</strong>
 
+**Risultato: 3-2**
+
 Gara: 323
 
 Campo: Comunale Mori 

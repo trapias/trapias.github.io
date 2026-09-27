@@ -6,6 +6,8 @@
 
 <strong>ASD HF LORENZONI - HOCKEY CLUB TIBERINA A.S.D.</strong>
 
+**Risultato: 12-0**
+
 Gara: 91
 
 Campo: Augusto Lorenzoni 
@@ -19,6 +21,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 ## Dom 27/09/2026 13.30
 
 <strong>S.G. AMSICORA ASD - H.POTENZA PICENA</strong>
+
+**Risultato: 2-0**
 
 Gara: 92
 
@@ -34,6 +38,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>POLISPORTIVA FERRINI CAGLIARI - LAZIO HOCKEY</strong>
 
+**Risultato: 0-2**
+
 Gara: 93
 
 Campo: A. Maxia 
@@ -47,6 +53,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 ## Dom 27/09/2026 15.00
 
 <strong>MILANO HOCKEY PRATO - BUTTERFLY ROMA H.C.C.</strong>
+
+**Risultato: 1-0**
 
 Gara: 94
 

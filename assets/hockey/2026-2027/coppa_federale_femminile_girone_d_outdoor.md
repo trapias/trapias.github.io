@@ -6,6 +6,8 @@
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - DEL PINTO & ASSOCIATI H. PISTOIA</strong>
 
+**Risultato: 4-1**
+
 Gara: 329
 
 Campo: CP BARCA 

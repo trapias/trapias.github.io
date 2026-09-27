@@ -6,6 +6,8 @@
 
 <strong>A.S.D. H.C. NOVARA OLD BLACK - HCU RASSEMBLEMENT TORINO</strong>
 
+**Risultato: 1-5**
+
 Gara: 271
 
 Campo: Campo Giovanni Gondo 

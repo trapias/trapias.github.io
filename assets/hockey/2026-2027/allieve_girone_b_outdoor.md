@@ -6,6 +6,8 @@
 
 <strong>HOCKEY CLUB RIVA - HOCKEY CLUB BONDENO</strong>
 
+**Risultato: 6-2**
+
 Gara: 882
 
 Campo: Campo Hockey Club Riva 

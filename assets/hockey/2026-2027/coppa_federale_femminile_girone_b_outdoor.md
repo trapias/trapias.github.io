@@ -6,6 +6,8 @@
 
 <strong>SUPERBA - USD MONCALVESE HOCKEY</strong>
 
+**Risultato: 2-4**
+
 Gara: 317
 
 Campo: CAMPO G.ARNALDI 

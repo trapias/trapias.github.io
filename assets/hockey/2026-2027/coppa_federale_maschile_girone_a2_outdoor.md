@@ -6,6 +6,8 @@
 
 <strong>HOCKEY CUSCUBE BRESCIA - A.R.FINCANTIERI ASD</strong>
 
+**Risultato: 4-1**
+
 Gara: 277
 
 Campo: Comunale San Polo 

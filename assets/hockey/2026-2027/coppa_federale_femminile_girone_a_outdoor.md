@@ -6,6 +6,8 @@
 
 <strong>CUS TORINO - HF GENOVA 1980</strong>
 
+**Risultato: 5-0**
+
 Gara: 311
 
 Campo: Tazzoli 

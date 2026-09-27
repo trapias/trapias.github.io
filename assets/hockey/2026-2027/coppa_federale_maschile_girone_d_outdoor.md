@@ -22,6 +22,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>ASD I CICLOPI - SSD UNIME ARL</strong>
 
+**Risultato: 0-8**
+
 Gara: 350
 
 Campo: DUSMET 

@@ -6,6 +6,8 @@
 
 <strong>HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT</strong>
 
+**Risultato: 5-1**
+
 Gara: 376
 
 Campo: Comunale Mori 

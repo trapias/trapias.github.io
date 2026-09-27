@@ -6,6 +6,8 @@
 
 <strong>AZ HOCKEY TEAM - ASD HOCKEY CAMPAGNANO</strong>
 
+**Risultato: 5-2**
+
 Gara: 295
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
