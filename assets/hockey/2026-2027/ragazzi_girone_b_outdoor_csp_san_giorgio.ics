@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 4\nGara 383\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CSP SAN GIORGIO
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20270314T120000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 4 - ASD ADIGE UHC - CSP SAN GIORGIO
-UID:9b7ae782-bda8-47a5-8f6b-7e2914510e66@9b7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 6\nGara 387\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - POLISPORTIVA CAMELOT
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20270502T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 6 - CSP SAN GIORGIO - POLISPORTIVA CAMELOT
-UID:f32d504e-80d0-4352-9256-5e507a85e58d@f32d.org
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 3\nGara 381\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nPOLISPORTIVA CAMELOT - CSP SAN GIORGIO
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20261108T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 3 - POLISPORTIVA CAMELOT - CSP SAN GIORGIO
+UID:97b69a9e-e535-4049-94d3-fe666ef0d88a@97b6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 2\nGara 378\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - CSP SAN GIORGIO
@@ -23,7 +15,7 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20261011T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 2 - HOCKEY CLUB RIVA - CSP SAN GIORGIO
-UID:36d8e350-2f9a-4c61-9d6c-0a8b1202718d@36d8.org
+UID:9163e124-1046-4185-9619-aaee468ea4a9@9163.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 5\nGara 384\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HOCKEY CLUB RIVA
@@ -31,7 +23,23 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20270404T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 5 - CSP SAN GIORGIO - HOCKEY CLUB RIVA
-UID:28080048-376b-4cb6-ac2b-f4a9b5899dd9@2808.org
+UID:98ee2074-ce89-43c8-82ae-d4f2468fdb4f@98ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 6\nGara 387\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - POLISPORTIVA CAMELOT
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20270502T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 6 - CSP SAN GIORGIO - POLISPORTIVA CAMELOT
+UID:cdaa355b-79a6-4837-b225-b0ceb41835e6@cdaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 4\nGara 383\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CSP SAN GIORGIO
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20270314T120000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 4 - ASD ADIGE UHC - CSP SAN GIORGIO
+UID:b25372ae-09b9-48c7-a13f-dafd55c8ef4d@b253.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 1\nGara 377\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD ADIGE UHC
@@ -39,14 +47,6 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20260927T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 1 - CSP SAN GIORGIO - ASD ADIGE UHC
-UID:0180bac5-2431-4067-aaf2-149f6c8c2a22@0180.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 3\nGara 381\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nPOLISPORTIVA CAMELOT - CSP SAN GIORGIO
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20261108T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 3 - POLISPORTIVA CAMELOT - CSP SAN GIORGIO
-UID:942f0fb9-feea-4ecd-afb9-eea9389a86d1@942f.org
+UID:311de06d-d83c-4a6a-96f3-c2dddd03e0e4@311d.org
 END:VEVENT
 END:VCALENDAR
