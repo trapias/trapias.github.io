@@ -128,7 +128,7 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 # Allieve - OUTDOOR  - Girone B / Giornata 5
 
-## Dom 11/04/2027 11.00
+## Dom 11/04/2027 12.30
 
 <strong>HOCKEY CLUB RIVA - CUS PADOVA ASD</strong>
 

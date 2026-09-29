@@ -2,7 +2,7 @@
 
 # Allieve - OUTDOOR  - Girone D / Giornata 1
 
-## Sab 17/10/2026 17.00
+## Sab 15/05/2027 17.00
 
 <strong>BUTTERFLY ROMA H.C.C. - H.POTENZA PICENA</strong>
 
@@ -47,7 +47,7 @@ Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
-## Sab 31/10/2026 14.00
+## Sab 31/10/2026 15.00
 
 <strong>POLISPORTIVA L'AQUILA HOCKEY - BUTTERFLY ROMA H.C.C.</strong>
 
@@ -95,7 +95,7 @@ Geo: Geo(latitude=42.3548544, longitude=13.3944939)
 
 # Allieve - OUTDOOR  - Girone D / Giornata 4
 
-## Sab 21/11/2026 17.00
+## Dom 29/11/2026 11.00
 
 <strong>HOCKEY CLUB TIBERINA A.S.D. - BUTTERFLY ROMA H.C.C.</strong>
 

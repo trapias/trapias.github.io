@@ -69,7 +69,7 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 2
 
-## Dom 04/10/2026 15.00
+## Dom 04/10/2026 14.00
 
 <strong>H.POTENZA PICENA - ASD HF LORENZONI</strong>
 

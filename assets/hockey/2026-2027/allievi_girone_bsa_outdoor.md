@@ -19,18 +19,18 @@ Geo: Geo(latitude=45.4490271, longitude=10.2276479)
 
 # Allievi - OUTDOOR  - Girone BSA / Giornata 2
 
-## Dom 25/10/2026 11.00
+## Dom 25/10/2026 12.00
 
-<strong>HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT</strong>
+<strong>POLISPORTIVA CAMELOT - HOCKEY CLUB RIVA</strong>
 
 Gara: 403
 
-Campo: Campo Hockey Club Riva 
+Campo: Impianti L. Merigliano 
 
-Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
+Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
-Geo: Geo(latitude=45.8882504, longitude=10.8629194)
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 
@@ -72,16 +72,16 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 ## Dom 11/04/2027 11.00
 
-<strong>POLISPORTIVA CAMELOT - HOCKEY CLUB RIVA</strong>
+<strong>HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT</strong>
 
 Gara: 867
 
-Campo: Impianti L. Merigliano 
+Campo: Campo Hockey Club Riva 
 
-Indirizzo Campo:  via J. Corrado, 4 - Padova
+Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
-Location: Padova, Veneto, Italia
-Geo: Geo(latitude=45.391408, longitude=11.8058487)
+Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
+Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 
 

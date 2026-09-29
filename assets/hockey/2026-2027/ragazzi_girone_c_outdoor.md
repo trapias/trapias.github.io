@@ -6,6 +6,8 @@
 
 <strong>CUS PISA ASD - ASD CITTA' DEL TRICOLORE</strong>
 
+**Risultato: 0-0**
+
 Gara: 388
 
 Campo: HOCKEY STADIUM ANDREA BRUSCHI 

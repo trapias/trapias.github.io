@@ -4,7 +4,7 @@
 
 ## Sab 26/09/2026 13.00
 
-<strong>HC SAVONA - HC PISTOIA</strong>
+<strong>HC SAVONA - GRUPPO EGS H. PISTOIA</strong>
 
 **Risultato: 2-0**
 
@@ -39,7 +39,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 ## Sab 03/10/2026 15.00
 
-<strong>HC PISTOIA - CUS GENOVA HOCKEY</strong>
+<strong>GRUPPO EGS H. PISTOIA - CUS GENOVA HOCKEY</strong>
 
 Gara: 285
 
@@ -84,7 +84,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 ## Sab 10/10/2026 15.00
 
-<strong>HC PISTOIA - GENOVA HOCKEY 1980</strong>
+<strong>GRUPPO EGS H. PISTOIA - GENOVA HOCKEY 1980</strong>
 
 Gara: 288
 
@@ -146,7 +146,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 ## Sab 31/10/2026 15.00
 
-<strong>H.C. GENOVA - HC PISTOIA</strong>
+<strong>H.C. GENOVA - GRUPPO EGS H. PISTOIA</strong>
 
 Gara: 292
 

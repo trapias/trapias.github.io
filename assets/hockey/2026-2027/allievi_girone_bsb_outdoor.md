@@ -4,7 +4,7 @@
 
 ## Dom 18/10/2026 13.00
 
-<strong>CSP SAN GIORGIO - HC PISTOIA</strong>
+<strong>CSP SAN GIORGIO - GRUPPO EGS H. PISTOIA</strong>
 
 Gara: 412
 
@@ -49,7 +49,7 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 ## Dom 25/10/2026 10.30
 
-<strong>HC PISTOIA - HOCKEY CLUB BONDENO</strong>
+<strong>GRUPPO EGS H. PISTOIA - HOCKEY CLUB BONDENO</strong>
 
 Gara: 415
 
@@ -80,7 +80,7 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 ## Dom 01/11/2026 11.00
 
-<strong>HC PISTOIA - ASD CITTA' DEL TRICOLORE</strong>
+<strong>GRUPPO EGS H. PISTOIA - ASD CITTA' DEL TRICOLORE</strong>
 
 Gara: 417
 
@@ -97,7 +97,7 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 ## Dom 21/03/2027 13.00
 
-<strong>HC PISTOIA - CSP SAN GIORGIO</strong>
+<strong>GRUPPO EGS H. PISTOIA - CSP SAN GIORGIO</strong>
 
 Gara: 418
 
@@ -142,7 +142,7 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 ## Dom 11/04/2027 12.30
 
-<strong>HOCKEY CLUB BONDENO - HC PISTOIA</strong>
+<strong>HOCKEY CLUB BONDENO - GRUPPO EGS H. PISTOIA</strong>
 
 Gara: 421
 
@@ -173,7 +173,7 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 ## Dom 25/04/2027 13.00
 
-<strong>ASD CITTA' DEL TRICOLORE - HC PISTOIA</strong>
+<strong>ASD CITTA' DEL TRICOLORE - GRUPPO EGS H. PISTOIA</strong>
 
 Gara: 423
 
