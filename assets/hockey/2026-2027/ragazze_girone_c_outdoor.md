@@ -2,7 +2,7 @@
 
 # Ragazze - OUTDOOR  - Girone C / Giornata 1
 
-## Sab 03/10/2026 17.00
+## Sab 21/11/2026 17.00
 
 <strong>SUPERBA - CUS PISA ASD</strong>
 

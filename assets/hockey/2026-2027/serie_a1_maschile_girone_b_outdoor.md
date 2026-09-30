@@ -235,7 +235,7 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6
 
-## Sab 24/10/2026 15.00
+## Sab 24/10/2026 16.00
 
 <strong>CSP SAN GIORGIO - A.S.D. POLISPORTIVA  JUVENILIA</strong>
 

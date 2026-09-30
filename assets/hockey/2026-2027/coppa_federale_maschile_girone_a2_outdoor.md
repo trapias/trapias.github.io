@@ -51,35 +51,35 @@ Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
 Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 
-## Dom 04/10/2026 11.00
+## Dom 04/10/2026 15.00
 
 <strong>HOCKEY CUSCUBE BRESCIA - HC GRANTORTO B</strong>
 
 Gara: 345
 
-Campo: Comunale San Polo 
+Campo: Grantorto Hockey Stadium 
 
-Indirizzo Campo:  Via Giotto, 1 - Brescia
+Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
-Location: 1, Via Giotto, Montirone, Brescia, Lombardia, 25010, Italia
-Geo: Geo(latitude=45.4490271, longitude=10.2276479)
+Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 
 
 # Coppa Federale Maschile - OUTDOOR  - Girone A2 / Giornata 3
 
-## Dom 11/10/2026 11.00
+## Dom 11/10/2026 13.00
 
 <strong>HOCKEY CUSCUBE BRESCIA - HC GRANTORTO</strong>
 
 Gara: 279
 
-Campo: Comunale San Polo 
+Campo: Grantorto Hockey Stadium 
 
-Indirizzo Campo:  Via Giotto, 1 - Brescia
+Indirizzo Campo:  Viale dello sport, 7 - Grantorto
 
-Location: 1, Via Giotto, Montirone, Brescia, Lombardia, 25010, Italia
-Geo: Geo(latitude=45.4490271, longitude=10.2276479)
+Location: Viale dello Sport, Grantorto, Padova, Veneto, 35010, Italia
+Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 
 ## Dom 11/10/2026 11.00
