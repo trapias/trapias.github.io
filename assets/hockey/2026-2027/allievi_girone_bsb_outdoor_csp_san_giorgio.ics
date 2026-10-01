@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 2\nGara 414\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD CITTA' DEL TRICOLORE - CSP SAN GIORGIO
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20261025T100000Z
-SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 2 - ASD CITTA' DEL TRICOLORE - CSP SAN GIORGIO
-UID:8a82113f-6343-4b3b-8c7c-dbdd5557a143@8a82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 5\nGara 420\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD CITTA' DEL TRICOLORE
+DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 1\nGara 412\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - GRUPPO EGS H. PISTOIA
 GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20270411T090000Z
-SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 5 - CSP SAN GIORGIO - ASD CITTA' DEL TRICOLORE
-UID:6c3413a9-e1e4-4da4-8c90-4654277389b0@6c34.org
+DTSTART:20261018T110000Z
+SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 1 - CSP SAN GIORGIO - GRUPPO EGS H. PISTOIA
+UID:30b06885-5279-459d-a92f-0c15e28efcf1@30b0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 6\nGara 422\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HOCKEY CLUB BONDENO
@@ -23,7 +15,15 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20270425T110000Z
 SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 6 - CSP SAN GIORGIO - HOCKEY CLUB BONDENO
-UID:8dc57132-8d3a-4f45-8505-d79cf1f77e43@8dc5.org
+UID:a7c6f605-9144-4cca-9116-2825a9e2a06d@a7c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 5\nGara 420\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD CITTA' DEL TRICOLORE
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20270411T090000Z
+SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 5 - CSP SAN GIORGIO - ASD CITTA' DEL TRICOLORE
+UID:92cffa84-c0fb-40e6-ac18-00a1af3b91f6@92cf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 3\nGara 416\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - CSP SAN GIORGIO
@@ -31,15 +31,7 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20261101T100000Z
 SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 3 - HOCKEY CLUB BONDENO - CSP SAN GIORGIO
-UID:46bd1054-5774-4cd1-98a4-7556e28c3d53@46bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 1\nGara 412\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - GRUPPO EGS H. PISTOIA
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20261018T110000Z
-SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 1 - CSP SAN GIORGIO - GRUPPO EGS H. PISTOIA
-UID:aa5bcb92-561b-4ea1-aec9-f3ca3a8213a8@aa5b.org
+UID:ef8926c1-fa25-4f6a-85ee-40e25ac8e878@ef89.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 4\nGara 418\nFrascari - Via Calamandrei (Campo Frascari)\, snc Pistoia\nGRUPPO EGS H. PISTOIA - CSP SAN GIORGIO
@@ -47,6 +39,14 @@ GEO:43.974096;10.868708
 LOCATION:Pistoia\, Toscana\, Italia
 DTSTART:20270321T120000Z
 SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 4 - GRUPPO EGS H. PISTOIA - CSP SAN GIORGIO
-UID:df1341fa-26c3-4a12-9ac9-f1adb96866e0@df13.org
+UID:c6d8442c-b39b-4088-a6b3-0b8f182566d5@c6d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 2\nGara 414\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD CITTA' DEL TRICOLORE - CSP SAN GIORGIO
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20261025T100000Z
+SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 2 - ASD CITTA' DEL TRICOLORE - CSP SAN GIORGIO
+UID:183af91c-e6d0-4ffa-8489-82eccec0ff2f@183a.org
 END:VEVENT
 END:VCALENDAR

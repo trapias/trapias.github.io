@@ -2,7 +2,7 @@
 
 # Juniores Maschile - OUTDOOR  - Girone A / Giornata 1
 
-## Dom 11/10/2026 11.00
+## Dom 11/10/2026 15.00
 
 <strong>USD MONCALVESE HOCKEY - ASD CERNUSCO FIELD HOCKEY</strong>
 
@@ -51,18 +51,18 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
 <!-- VALCHISONE_START -->
-## Dom 08/11/2026 11.00 ⭐
+## Dom 08/11/2026 15.00 ⭐
 
-<strong>HOCKEY SU PRATO VALCHISONE - USD MONCALVESE HOCKEY</strong>
+<strong>USD MONCALVESE HOCKEY - HOCKEY SU PRATO VALCHISONE</strong>
 
 Gara: 743
 
-Campo: CAMPO HOCKEY SANDRO MICHELLONET 
+Campo: UMBERTO MICCO 
 
-Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
+Indirizzo Campo:  Via Goria, 4 - Moncalvo
 
-Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
-Geo: Geo(latitude=44.9206934, longitude=7.2445978)
+Location: Moncalvo, Asti, Piemonte, 14036, Italia
+Geo: Geo(latitude=45.050205, longitude=8.2650382)
 <!-- VALCHISONE_END -->
 
 
@@ -153,18 +153,18 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 <!-- VALCHISONE_START -->
-## Dom 21/03/2027 11.00 ⭐
+## Dom 21/03/2027 16.00 ⭐
 
-<strong>USD MONCALVESE HOCKEY - HOCKEY SU PRATO VALCHISONE</strong>
+<strong>HOCKEY SU PRATO VALCHISONE - USD MONCALVESE HOCKEY</strong>
 
 Gara: 749
 
-Campo: UMBERTO MICCO 
+Campo: CAMPO HOCKEY SANDRO MICHELLONET 
 
-Indirizzo Campo:  Via Goria, 4 - Moncalvo
+Indirizzo Campo:  VIA DANTE ALIGHIERI, 9 - Villar Perosa
 
-Location: Moncalvo, Asti, Piemonte, 14036, Italia
-Geo: Geo(latitude=45.050205, longitude=8.2650382)
+Location: Via Dante Alighieri, Villaggio Operaio Giovanni Agnelli, Saretto, Villar Perosa, Torino, Piemonte, 10069, Italia
+Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 <!-- VALCHISONE_END -->
 
 

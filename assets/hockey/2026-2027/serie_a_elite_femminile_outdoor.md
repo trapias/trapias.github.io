@@ -156,7 +156,7 @@ Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 
-## Dom 11/10/2026 15.00
+## Dom 11/10/2026 14.30
 
 <strong>BUTTERFLY ROMA H.C.C. - S.G. AMSICORA ASD</strong>
 

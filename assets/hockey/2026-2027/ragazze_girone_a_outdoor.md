@@ -2,7 +2,7 @@
 
 # Ragazze - OUTDOOR  - Girone A / Giornata 1
 
-## Sab 03/10/2026 15.00
+## Sab 03/10/2026 12.00
 
 <strong>ASD HF LORENZONI - MILANO HOCKEY PRATO</strong>
 
@@ -17,7 +17,7 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 
 <!-- VALCHISONE_START -->
-## Sab 03/10/2026 14.00 ⭐
+## Ven 02/10/2026 18.00 ⭐
 
 <strong>HOCKEY PRATO VALCHISONE FEMMINILE - USD MONCALVESE HOCKEY</strong>
 

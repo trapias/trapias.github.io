@@ -97,16 +97,16 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 ## Sab 14/11/2026 15.00
 
-<strong>BUTTERFLY ROMA H.C.C. - H.POTENZA PICENA</strong>
+<strong>H.POTENZA PICENA - BUTTERFLY ROMA H.C.C.</strong>
 
 Gara: 618
 
-Campo: CENTRO GIULIO ONESTI 
+Campo: STADIO HOCKEY POTENZA PICENA 
 
-Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
+Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
-Geo: Geo(latitude=41.9321224, longitude=12.486847)
+Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
+Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
 ## Sab 14/11/2026 15.00
@@ -250,18 +250,18 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 # Ragazze - OUTDOOR  - Girone D / Giornata 9
 
-## Sab 24/04/2027 15.00
+## Sab 24/04/2027 17.00
 
-<strong>H.POTENZA PICENA - BUTTERFLY ROMA H.C.C.</strong>
+<strong>BUTTERFLY ROMA H.C.C. - H.POTENZA PICENA</strong>
 
 Gara: 628
 
-Campo: STADIO HOCKEY POTENZA PICENA 
+Campo: CENTRO GIULIO ONESTI 
 
-Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
+Indirizzo Campo:  VIA DEI CAMPI SPORTIVI, 48 - Roma
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
+Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
 ## Sab 24/04/2027 15.00

@@ -2,7 +2,7 @@
 
 # Ragazzi - OUTDOOR  - Girone E1 / Giornata 1
 
-## Dom 04/10/2026 14.00
+## -
 
 <strong>BUTTERFLY ROMA H.C.C. - ASD HOCKEY AVEZZANO 1969</strong>
 

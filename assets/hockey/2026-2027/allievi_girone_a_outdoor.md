@@ -35,6 +35,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - HOCKEY SU PRATO VALCHISONE</strong>
 
+**Risultato: 8-3**
+
 Gara: 766
 
 Campo: CENTRO S. COMUNALE 

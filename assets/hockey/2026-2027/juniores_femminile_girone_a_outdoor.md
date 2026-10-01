@@ -6,6 +6,8 @@
 
 <strong>CUS TORINO - ASD HF LORENZONI</strong>
 
+**Risultato: 0-4**
+
 Gara: 794
 
 Campo: Tazzoli 

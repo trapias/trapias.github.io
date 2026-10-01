@@ -101,7 +101,7 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3
 
-## Sab 03/10/2026 15.00
+## Sab 03/10/2026 16.00
 
 <strong>A.S.D. POLISPORTIVA  JUVENILIA - USD MONCALVESE HOCKEY</strong>
 
