@@ -78,7 +78,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Sab 07/11/2026 17.00
+## Sab 21/11/2026 11.00
 
 <strong>H.C. GENOVA - BAD LAKE</strong>
 
