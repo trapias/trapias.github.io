@@ -21,6 +21,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>HOCKEY PRATO VALCHISONE FEMMINILE - USD MONCALVESE HOCKEY</strong>
 
+**Risultato: 7-0**
+
 Gara: 815
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 
