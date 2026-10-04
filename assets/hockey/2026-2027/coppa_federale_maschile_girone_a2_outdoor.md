@@ -41,6 +41,8 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 <strong>HC GRANTORTO - A.R.FINCANTIERI ASD</strong>
 
+**Risultato: 5-0**
+
 Gara: 278
 
 Campo: Grantorto Hockey Stadium 

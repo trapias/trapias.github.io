@@ -53,6 +53,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>ASD HOCKEY CLUB ROMA - HOCKEY CLUB OLIMPIA</strong>
 
+**Risultato: 5-1**
+
 Gara: 298
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

@@ -6,6 +6,8 @@
 
 <strong>ASD ADIGE UHC - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
 
+**Risultato: 6-2**
+
 Gara: 460
 
 Campo: Comunale Mori 

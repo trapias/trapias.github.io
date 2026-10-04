@@ -41,6 +41,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>SSD UNIME ARL - GRUPPO SPORTTIVO M SS RACCOMANDATA</strong>
 
+**Risultato: 1-0**
+
 Gara: 306
 
 Campo: DUSMET 
@@ -54,6 +56,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 ## Sab 03/10/2026 17.00
 
 <strong>ASD I CICLOPI - VALVERDE HOCKEY 2018</strong>
+
+**Risultato: 0-8**
 
 Gara: 351
 

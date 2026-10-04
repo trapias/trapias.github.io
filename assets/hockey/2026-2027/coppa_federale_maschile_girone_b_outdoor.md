@@ -55,6 +55,8 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 <strong>GENOVA HOCKEY 1980 - HC SAVONA</strong>
 
+**Risultato: 6-2**
+
 Gara: 286
 
 Campo: CAMPO G.ARNALDI 
