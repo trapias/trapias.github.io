@@ -39,6 +39,8 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 <strong>ASD HOCKEY CAMPAGNANO - ASD HOCKEY CLUB MOGLIANO</strong>
 
+**Risultato: 0-1**
+
 Gara: 297
 
 Campo: CENTRO GIULIO ONESTI 

@@ -73,6 +73,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>H.POTENZA PICENA - ASD HF LORENZONI</strong>
 
+**Risultato: 1-0**
+
 Gara: 95
 
 Campo: STADIO HOCKEY POTENZA PICENA 
@@ -86,6 +88,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 ## Dom 04/10/2026 15.00
 
 <strong>HOCKEY CLUB TIBERINA A.S.D. - MILANO HOCKEY PRATO</strong>
+
+**Risultato: 0-9**
 
 Gara: 96
 
@@ -101,6 +105,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>POLISPORTIVA FERRINI CAGLIARI - S.G. AMSICORA ASD</strong>
 
+**Risultato: 0-3**
+
 Gara: 97
 
 Campo: A. Maxia 
@@ -114,6 +120,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 ## Dom 04/10/2026 15.00
 
 <strong>LAZIO HOCKEY - BUTTERFLY ROMA H.C.C.</strong>
+
+**Risultato: 2-1**
 
 Gara: 98
 

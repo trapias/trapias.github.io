@@ -40,6 +40,8 @@ Location:  Tosoni - Via A. Porta, snc Villafranca di Verona
 
 <strong>CSP SAN GIORGIO - CUS PADOVA ASD</strong>
 
+**Risultato: 1-2**
+
 Gara: 358
 
 Campo: campo hockey s. farinazzo 

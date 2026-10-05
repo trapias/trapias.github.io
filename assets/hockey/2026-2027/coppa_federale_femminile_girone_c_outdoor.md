@@ -25,6 +25,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>ASD ADIGE UHC - HOCKEY CLUB BONDENO</strong>
 
+**Risultato: 7-1**
+
 Gara: 324
 
 Campo: Comunale Mori 

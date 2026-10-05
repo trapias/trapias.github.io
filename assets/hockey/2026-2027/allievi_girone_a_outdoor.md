@@ -56,6 +56,8 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - SCUOLA HOCKEY INDER SINGH</strong>
 
+**Risultato: 10-1**
+
 Gara: 767
 
 Campo: CENTRO S. COMUNALE 
@@ -69,6 +71,8 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 ## Dom 04/10/2026 12.30
 
 <strong>A.S.D. S.H. PAOLO BONOMI - SCUOLA HOCKEY INDER SINGH NEXT GEN</strong>
+
+**Risultato: 4-3**
 
 Gara: 768
 

@@ -25,6 +25,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>DEL PINTO & ASSOCIATI H. PISTOIA - CUS PISA ASD</strong>
 
+**Risultato: 2-3**
+
 Gara: 330
 
 Campo: HOCKEY STADIUM ANDREA BRUSCHI 

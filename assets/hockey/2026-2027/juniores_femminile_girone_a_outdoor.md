@@ -57,6 +57,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>SUPERBA - CUS TORINO</strong>
 
+**Risultato: 6-1**
+
 Gara: 797
 
 Campo: CAMPO G.ARNALDI 
