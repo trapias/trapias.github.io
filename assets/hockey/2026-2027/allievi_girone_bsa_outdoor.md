@@ -4,16 +4,16 @@
 
 ## Dom 18/10/2026 13.00
 
-<strong>HOCKEY CUSCUBE BRESCIA - POLISPORTIVA CAMELOT</strong>
+<strong>POLISPORTIVA CAMELOT - HOCKEY CUSCUBE BRESCIA</strong>
 
 Gara: 400
 
-Campo: Comunale San Polo 
+Campo: Impianti L. Merigliano 
 
-Indirizzo Campo:  Via Giotto, 1 - Brescia
+Indirizzo Campo:  via J. Corrado, 4 - Padova
 
-Location: 1, Via Giotto, Montirone, Brescia, Lombardia, 25010, Italia
-Geo: Geo(latitude=45.4490271, longitude=10.2276479)
+Location: Padova, Veneto, Italia
+Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 
@@ -38,16 +38,16 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 ## Dom 01/11/2026 11.00
 
-<strong>HOCKEY CUSCUBE BRESCIA - HOCKEY CLUB RIVA</strong>
+<strong>HOCKEY CLUB RIVA - HOCKEY CUSCUBE BRESCIA</strong>
 
 Gara: 404
 
-Campo: Comunale San Polo 
+Campo: Campo Hockey Club Riva 
 
-Indirizzo Campo:  Via Giotto, 1 - Brescia
+Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
 
-Location: 1, Via Giotto, Montirone, Brescia, Lombardia, 25010, Italia
-Geo: Geo(latitude=45.4490271, longitude=10.2276479)
+Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
+Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 
 
@@ -55,16 +55,16 @@ Geo: Geo(latitude=45.4490271, longitude=10.2276479)
 
 ## Dom 21/03/2027 13.00
 
-<strong>POLISPORTIVA CAMELOT - HOCKEY CUSCUBE BRESCIA</strong>
+<strong>HOCKEY CUSCUBE BRESCIA - POLISPORTIVA CAMELOT</strong>
 
 Gara: 864
 
-Campo: Impianti L. Merigliano 
+Campo: Comunale San Polo 
 
-Indirizzo Campo:  via J. Corrado, 4 - Padova
+Indirizzo Campo:  Via Giotto, 1 - Brescia
 
-Location: Padova, Veneto, Italia
-Geo: Geo(latitude=45.391408, longitude=11.8058487)
+Location: 1, Via Giotto, Montirone, Brescia, Lombardia, 25010, Italia
+Geo: Geo(latitude=45.4490271, longitude=10.2276479)
 
 
 
@@ -89,14 +89,14 @@ Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 ## Dom 25/04/2027 11.00
 
-<strong>HOCKEY CLUB RIVA - HOCKEY CUSCUBE BRESCIA</strong>
+<strong>HOCKEY CUSCUBE BRESCIA - HOCKEY CLUB RIVA</strong>
 
 Gara: 868
 
-Campo: Campo Hockey Club Riva 
+Campo: Comunale San Polo 
 
-Indirizzo Campo:  Via Mazzoldi, snc - Riva del Garda
+Indirizzo Campo:  Via Giotto, 1 - Brescia
 
-Location: Via Sisto Mazzoldi, Sant'Alessandro, Riva del Garda, Comunità Alto Garda e Ledro, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38066, Italia
-Geo: Geo(latitude=45.8882504, longitude=10.8629194)
+Location: 1, Via Giotto, Montirone, Brescia, Lombardia, 25010, Italia
+Geo: Geo(latitude=45.4490271, longitude=10.2276479)
 

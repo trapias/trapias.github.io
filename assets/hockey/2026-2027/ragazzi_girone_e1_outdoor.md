@@ -78,7 +78,7 @@ Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
-## Dom 15/11/2026 12.00
+## Sab 07/11/2026 13.00
 
 <strong>ASD HOCKEY AVEZZANO 1969 - ASD HOCKEY CLUB ROMA</strong>
 

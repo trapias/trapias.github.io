@@ -22,6 +22,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>CSP SAN GIORGIO - ASD ADIGE UHC</strong>
 
+**Risultato: 10-0**
+
 Gara: 377
 
 Campo: campo hockey s. farinazzo 

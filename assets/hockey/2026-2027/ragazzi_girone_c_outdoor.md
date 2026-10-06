@@ -6,7 +6,7 @@
 
 <strong>CUS PISA ASD - ASD CITTA' DEL TRICOLORE</strong>
 
-**Risultato: 0-0**
+**Risultato: 18-0**
 
 Gara: 388
 
@@ -49,7 +49,7 @@ Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrare
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
-## Dom 11/10/2026 11.00
+## Dom 11/10/2026 11.30
 
 <strong>HOCKEY TEAM BOLOGNA - CUS PISA ASD</strong>
 

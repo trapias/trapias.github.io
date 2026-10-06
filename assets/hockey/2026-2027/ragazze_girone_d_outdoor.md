@@ -16,7 +16,7 @@ Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
-## Sab 10/10/2026 17.00
+## Mer 07/04/2027 18.30
 
 <strong>BUTTERFLY ROMA H.C.C. - AZ HOCKEY TEAM</strong>
 

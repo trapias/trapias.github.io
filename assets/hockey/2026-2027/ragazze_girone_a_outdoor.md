@@ -6,6 +6,8 @@
 
 <strong>ASD HF LORENZONI - MILANO HOCKEY PRATO</strong>
 
+**Risultato: 17-0**
+
 Gara: 814
 
 Campo: Augusto Lorenzoni 

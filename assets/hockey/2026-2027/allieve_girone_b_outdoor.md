@@ -49,7 +49,7 @@ Location: Padova, Veneto, Italia
 Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
-## Dom 08/11/2026 11.00
+## Dom 25/10/2026 11.00
 
 <strong>HOCKEY CLUB BONDENO - ASD ADIGE UHC</strong>
 
@@ -80,7 +80,7 @@ Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
-## Dom 25/10/2026 11.00
+## Dom 08/11/2026 11.00
 
 <strong>HOCKEY CLUB BONDENO - CUS PADOVA ASD</strong>
 
