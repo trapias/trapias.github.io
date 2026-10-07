@@ -41,6 +41,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>GRUPPO EGS H. PISTOIA - CUS GENOVA HOCKEY</strong>
 
+**Risultato: 3-1**
+
 Gara: 285
 
 Campo: HOCKEY STADIUM ANDREA BRUSCHI 

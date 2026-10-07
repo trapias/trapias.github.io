@@ -2,7 +2,7 @@
 
 # Allievi - OUTDOOR  - Girone E / Giornata 1
 
-## Dom 18/10/2026 11.00
+## Sab 17/10/2026 11.00
 
 <strong>PGS DON BOSCO 2000 ASD - ASD I CICLOPI</strong>
 
