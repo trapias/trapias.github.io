@@ -2,7 +2,7 @@
 
 # Allievi - OUTDOOR  - Girone D2 / Giornata 1
 
-## Dom 11/10/2026 12.00
+## Dom 28/02/2027 12.00
 
 <strong>POLISPORTIVA L'AQUILA HOCKEY - AZ HOCKEY TEAM</strong>
 
