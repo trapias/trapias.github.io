@@ -157,7 +157,7 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 # Allieve - OUTDOOR  - Girone D / Giornata 6
 
-## Sab 13/03/2027 15.00
+## Sab 13/03/2027 16.00
 
 <strong>H.POTENZA PICENA - BUTTERFLY ROMA H.C.C.</strong>
 

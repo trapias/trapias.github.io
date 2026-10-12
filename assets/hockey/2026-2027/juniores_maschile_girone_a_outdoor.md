@@ -6,6 +6,8 @@
 
 <strong>USD MONCALVESE HOCKEY - ASD CERNUSCO FIELD HOCKEY</strong>
 
+**Risultato: 6-2**
+
 Gara: 740
 
 Campo: UMBERTO MICCO 

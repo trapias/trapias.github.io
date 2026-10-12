@@ -45,6 +45,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>MILANO HOCKEY PRATO - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 
+**Risultato: 0-22**
+
 Gara: 816
 
 Campo: Campo Comunale 

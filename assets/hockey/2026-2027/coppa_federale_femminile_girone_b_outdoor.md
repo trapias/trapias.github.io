@@ -48,6 +48,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>HOCKEY PRATO VALCHISONE FEMMINILE - SUPERBA</strong>
 
+**Risultato: 0-7**
+
 Gara: 319
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 
@@ -63,7 +65,7 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 # COPPA Federale Femminile OUTDOOR  - Girone B / Giornata 4
 
-## Dom 18/10/2026 15.00
+## Dom 18/10/2026 17.00
 
 <strong>USD MONCALVESE HOCKEY - SUPERBA</strong>
 

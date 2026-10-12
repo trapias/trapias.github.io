@@ -53,6 +53,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>MILANO HOCKEY PRATO - ASD ADIGE UHC</strong>
 
+**Risultato: 4-1**
+
 Gara: 451
 
 Campo: Campo Comunale 

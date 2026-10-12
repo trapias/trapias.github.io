@@ -2,7 +2,7 @@
 
 # Allieve - OUTDOOR  - Girone C / Giornata 1
 
-## Dom 11/10/2026 10.30
+## Sab 21/11/2026 15.00
 
 <strong>HF GENOVA 1980 - HC GENOVA RAINBOW</strong>
 
@@ -19,6 +19,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Dom 11/10/2026 12.00
 
 <strong>HC RAINBOW SAMPIERDARENA - SUPERBA</strong>
+
+**Risultato: 1-4**
 
 Gara: 943
 

@@ -23,6 +23,8 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 <strong>ASD HF LORENZONI - CUS TORINO</strong>
 
+**Risultato: 11-0**
+
 Gara: 835
 
 Campo: Augusto Lorenzoni 
@@ -36,6 +38,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 ## Dom 11/10/2026 13.00
 
 <strong>ASD HF LORENZONI RIS. - CUS TORINO</strong>
+
+**Risultato: 1-11**
 
 Gara: 836
 

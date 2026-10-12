@@ -76,6 +76,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>VALVERDE HOCKEY 2018 - SSD UNIME ARL</strong>
 
+**Risultato: 2-2**
+
 Gara: 307
 
 Campo: Comunale Valverde 
@@ -89,6 +91,8 @@ Geo: Geo(latitude=37.5737465, longitude=15.121129)
 ## Sab 10/10/2026 15.00
 
 <strong>GRUPPO SPORTTIVO M SS RACCOMANDATA - ASD I CICLOPI</strong>
+
+**Risultato: 7-1**
 
 Gara: 352
 

@@ -41,6 +41,8 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>HOCKEY CLUB RIVA - CSP SAN GIORGIO</strong>
 
+**Risultato: 3-2**
+
 Gara: 378
 
 Campo: Comunale Mori 
@@ -51,7 +53,7 @@ Location: Via Lomba, Villanuova, Mori, Comunità della Vallagarina, Provincia di
 Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 
-## Dom 11/10/2026 13.00
+## Dom 22/11/2026 13.00
 
 <strong>POLISPORTIVA CAMELOT - ASD ADIGE UHC</strong>
 

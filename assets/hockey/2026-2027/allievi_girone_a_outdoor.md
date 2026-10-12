@@ -89,6 +89,8 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 <strong>HOCKEY SU PRATO VALCHISONE - ASD CERNUSCO FIELD HOCKEY</strong>
 
+**Risultato: 2-9**
+
 Gara: 769
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 

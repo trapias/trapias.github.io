@@ -2,7 +2,7 @@
 
 # Allievi - OUTDOOR  - Girone D1 / Giornata 1
 
-## Dom 11/10/2026 14.00
+## -
 
 <strong>ASD HOCKEY CLUB ROMA - HOCKEY CLUB OLIMPIA</strong>
 

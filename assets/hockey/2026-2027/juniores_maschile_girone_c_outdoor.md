@@ -6,6 +6,8 @@
 
 <strong>GENOVA HOCKEY 1980 - BAD LAKE</strong>
 
+**Risultato: 1-1**
+
 Gara: 870
 
 Campo: CAMPO G.ARNALDI 

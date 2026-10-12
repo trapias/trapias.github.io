@@ -264,6 +264,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>BUTTERFLY ROMA H.C.C. - HOCKEY TEAM BOLOGNA</strong>
 
+**Risultato: 4-1**
+
 Gara: 16
 
 Campo: CENTRO GIULIO ONESTI 
@@ -277,6 +279,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 ## Sab 10/10/2026 15.00
 
 <strong>HT SARDEGNA - S.G. AMSICORA ASD</strong>
+
+**Risultato: 0-3**
 
 Gara: 17
 
@@ -292,6 +296,8 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 <strong>TEVERE EUR HOCKEY ASD - POLISPORTIVA FERRINI CAGLIARI</strong>
 
+**Risultato: 3-1**
+
 Gara: 18
 
 Campo: EUROMA STADIUM 
@@ -305,6 +311,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 ## Sab 10/10/2026 15.00
 
 <strong>LAZIO HOCKEY - HOCKEY CLUB BONDENO</strong>
+
+**Risultato: 1-1**
 
 Gara: 19
 
@@ -320,6 +328,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 ## Sab 10/10/2026 15.00 ⭐
 
 <strong>HOCKEY SU PRATO VALCHISONE - HOCKEY CLUB BRA A.S.D.</strong>
+
+**Risultato: 1-2**
 
 Gara: 20
 

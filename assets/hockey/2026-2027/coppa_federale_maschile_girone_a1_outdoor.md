@@ -44,6 +44,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>ASD CERNUSCO FIELD HOCKEY - A.S.D. H.C. NOVARA OLD BLACK</strong>
 
+**Risultato: 5-1**
+
 Gara: 273
 
 Campo: Campo Comunale 

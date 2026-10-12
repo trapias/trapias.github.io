@@ -39,6 +39,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>HOCKEY CLUB BONDENO - ASD CITTA' DEL TRICOLORE</strong>
 
+**Risultato: 15-1**
+
 Gara: 390
 
 Campo: A. GIATTI 

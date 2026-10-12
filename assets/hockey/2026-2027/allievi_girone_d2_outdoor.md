@@ -16,7 +16,7 @@ Location: Viale Don Bosco, Quarto di San Pietro, Torretta, L'Aquila, Abruzzo, 67
 Geo: Geo(latitude=42.3548544, longitude=13.3944939)
 
 
-## Dom 11/10/2026 10.00
+## Dom 22/11/2026 15.00
 
 <strong>H.POTENZA PICENA - ASD HOCKEY CLUB MOGLIANO</strong>
 

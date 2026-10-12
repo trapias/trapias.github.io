@@ -74,6 +74,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>ASD HOCKEY CLUB MOGLIANO - ASD HOCKEY CLUB ROMA</strong>
 
+**Risultato: 0-3**
+
 Gara: 299
 
 Campo: BAGLIANO 
@@ -84,9 +86,11 @@ Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerat
 Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 
-## Dom 11/10/2026 13.00
+## Dom 11/10/2026 14.00
 
 <strong>HOCKEY CLUB OLIMPIA - AZ HOCKEY TEAM</strong>
+
+**Risultato: 1-2**
 
 Gara: 300
 

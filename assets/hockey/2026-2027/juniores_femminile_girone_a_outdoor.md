@@ -76,6 +76,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>ASD HF LORENZONI - H.C. GENOVA</strong>
 
+**Risultato: 4-1**
+
 Gara: 798
 
 Campo: Augusto Lorenzoni 
@@ -89,6 +91,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 ## Sab 10/10/2026 17.00
 
 <strong>HF GENOVA 1980 - CUS TORINO</strong>
+
+**Risultato: 4-2**
 
 Gara: 799
 

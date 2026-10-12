@@ -156,6 +156,8 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 <strong>ASD H.C. VILLAFRANCA - A.S.D. POLISPORTIVA  JUVENILIA</strong>
 
+**Risultato: 2-2**
+
 Gara: 186
 
 Campo: Lamacchi 
@@ -168,6 +170,8 @@ Location:  Tosoni - Via A. Porta, snc Villafranca di Verona
 ## Sab 10/10/2026 15.00
 
 <strong>SUPERBA - A.S.D. S.H. PAOLO BONOMI</strong>
+
+**Risultato: 5-5**
 
 Gara: 187
 
@@ -182,6 +186,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Sab 10/10/2026 15.00
 
 <strong>USD MONCALVESE HOCKEY - CSP SAN GIORGIO</strong>
+
+**Risultato: 3-1**
 
 Gara: 188
 

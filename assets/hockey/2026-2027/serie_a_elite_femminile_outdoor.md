@@ -140,6 +140,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>ASD HF LORENZONI - POLISPORTIVA FERRINI CAGLIARI</strong>
 
+**Risultato: 2-1**
+
 Gara: 99
 
 Campo: Augusto Lorenzoni 
@@ -153,6 +155,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 ## Dom 11/10/2026 15.00
 
 <strong>HOCKEY CLUB TIBERINA A.S.D. - H.POTENZA PICENA</strong>
+
+**Risultato: 0-2**
 
 Gara: 100
 
@@ -168,6 +172,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>BUTTERFLY ROMA H.C.C. - S.G. AMSICORA ASD</strong>
 
+**Risultato: 0-2**
+
 Gara: 101
 
 Campo: CENTRO GIULIO ONESTI 
@@ -181,6 +187,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 ## Dom 11/10/2026 15.00
 
 <strong>MILANO HOCKEY PRATO - LAZIO HOCKEY</strong>
+
+**Risultato: 2-0**
 
 Gara: 102
 
@@ -296,7 +304,7 @@ Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
-## Dom 25/10/2026 15.00
+## Dom 25/10/2026 11.30
 
 <strong>S.G. AMSICORA ASD - MILANO HOCKEY PRATO</strong>
 
@@ -386,7 +394,7 @@ Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Pie
 Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 
-## Dom 15/11/2026 15.00
+## Dom 15/11/2026 14.30
 
 <strong>HOCKEY CLUB TIBERINA A.S.D. - S.G. AMSICORA ASD</strong>
 

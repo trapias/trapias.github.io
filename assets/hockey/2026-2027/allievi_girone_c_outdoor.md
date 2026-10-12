@@ -25,6 +25,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>GENOVA H. 1980 DRITTO - H.C. BLU</strong>
 
+**Risultato: 1-9**
+
 Gara: 903
 
 Campo: CAMPO G.ARNALDI 
@@ -38,6 +40,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Dom 11/10/2026 19.00
 
 <strong>H.C. GIALLO - BAD LAKE</strong>
+
+**Risultato: 0-14**
 
 Gara: 904
 

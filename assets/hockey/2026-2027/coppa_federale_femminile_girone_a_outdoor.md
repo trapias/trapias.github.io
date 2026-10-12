@@ -44,6 +44,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>H.C. GENOVA - CUS TORINO</strong>
 
+**Risultato: 0-3**
+
 Gara: 313
 
 Campo: CAMPO G.ARNALDI 

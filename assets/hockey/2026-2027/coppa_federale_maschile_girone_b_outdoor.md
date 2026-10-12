@@ -76,6 +76,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>CUS GENOVA HOCKEY - H.C. GENOVA</strong>
 
+**Risultato: 1-7**
+
 Gara: 287
 
 Campo: CAMPO G.ARNALDI 
@@ -89,6 +91,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Sab 10/10/2026 15.00
 
 <strong>GRUPPO EGS H. PISTOIA - GENOVA HOCKEY 1980</strong>
+
+**Risultato: 1-3**
 
 Gara: 288
 
