@@ -16,7 +16,7 @@ Location: Barcellona Pozzo di Gotto, Messina, Sicilia, 98051, Italia
 Geo: Geo(latitude=38.1483059, longitude=15.2175523)
 
 
-## Dom 18/10/2026 10.00
+## -
 
 <strong>POLISPORTIVA GALATEA ASD - ASD SAN PIETRO CLARENZA</strong>
 
