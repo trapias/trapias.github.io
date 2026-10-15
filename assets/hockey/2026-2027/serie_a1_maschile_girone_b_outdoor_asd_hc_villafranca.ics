@@ -2,19 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 201\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA  JUVENILIA - ASD H.C. VILLAFRANCA
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20270313T120000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9 - A.S.D. POLISPORTIVA  JUVENILIA - ASD H.C. VILLAFRANCA
+UID:f0257fd3-559b-4e3b-8cb8-50ac0c5533c0@f025.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 10\nGara 205\nLamacchi - Tosoni - Via A. Porta\, snc Villafranca di Verona\nASD H.C. VILLAFRANCA - CSP SAN GIORGIO
 LOCATION: Tosoni - Via A. Porta\, snc Villafranca di Verona
 DTSTART:20270320T140000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 10 - ASD H.C. VILLAFRANCA - CSP SAN GIORGIO
-UID:78fca8a2-3293-433d-b5e6-ea76966cda0a@78fc.org
+UID:08076abc-455e-4c85-98f1-094813eea7de@0807.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 193\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nA.S.D. S.H. PAOLO BONOMI - ASD H.C. VILLAFRANCA
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20261024T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6 - A.S.D. S.H. PAOLO BONOMI - ASD H.C. VILLAFRANCA
-UID:a78d555c-0bd2-477b-98fc-aff1d5206d60@a78d.org
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 178\nLamacchi - Tosoni - Via A. Porta\, snc Villafranca di Verona\nASD H.C. VILLAFRANCA - A.S.D. S.H. PAOLO BONOMI\n\nRisultato: 0-2
+LOCATION: Tosoni - Via A. Porta\, snc Villafranca di Verona
+DTSTART:20260919T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1 - ASD H.C. VILLAFRANCA - A.S.D. S.H. PAOLO BONOMI
+UID:b350f6fd-8c7f-4a90-8608-59aab068ffe4@b350.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3\nGara 184\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - ASD H.C. VILLAFRANCA\n\nRisultato: 4-1
@@ -22,21 +29,14 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20261003T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 3 - SUPERBA - ASD H.C. VILLAFRANCA
-UID:576f7d6b-0695-4d21-984e-5c33f9f6584f@576f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 199\nLamacchi - Tosoni - Via A. Porta\, snc Villafranca di Verona\nASD H.C. VILLAFRANCA - SUPERBA
-LOCATION: Tosoni - Via A. Porta\, snc Villafranca di Verona
-DTSTART:20261114T140000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8 - ASD H.C. VILLAFRANCA - SUPERBA
-UID:850dc545-156f-420a-8ab5-15e09b737312@850d.org
+UID:bb0168b0-7c3e-4bef-9e6e-3d1f6bd690f5@bb01.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 7\nGara 197\nLamacchi - Tosoni - Via A. Porta\, snc Villafranca di Verona\nASD H.C. VILLAFRANCA - USD MONCALVESE HOCKEY
 LOCATION: Tosoni - Via A. Porta\, snc Villafranca di Verona
 DTSTART:20261107T140000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 7 - ASD H.C. VILLAFRANCA - USD MONCALVESE HOCKEY
-UID:ba9f0a80-6547-4166-b33b-eb77a0aa0dd6@ba9f.org
+UID:de9c4e10-5077-411e-ad58-110ed2442d53@de9c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 2\nGara 182\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - ASD H.C. VILLAFRANCA\n\nRisultato: 6-1
@@ -44,15 +44,7 @@ GEO:45.050205;8.265038
 LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
 DTSTART:20260926T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 2 - USD MONCALVESE HOCKEY - ASD H.C. VILLAFRANCA
-UID:e07ebc3e-cd4d-4d99-8903-c47c64d02ebe@e07e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9\nGara 201\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA  JUVENILIA - ASD H.C. VILLAFRANCA
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20270313T120000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 9 - A.S.D. POLISPORTIVA  JUVENILIA - ASD H.C. VILLAFRANCA
-UID:522049e8-e508-4b1c-9ef0-c99d59d0bd0d@5220.org
+UID:b4c4713d-d979-4a6e-97b5-9c70a0f49495@b4c4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 5\nGara 190\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD H.C. VILLAFRANCA
@@ -60,20 +52,28 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20261017T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 5 - CSP SAN GIORGIO - ASD H.C. VILLAFRANCA
-UID:5b8c7be9-9172-4f58-a868-15d69eecc2a8@5b8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1\nGara 178\nLamacchi - Tosoni - Via A. Porta\, snc Villafranca di Verona\nASD H.C. VILLAFRANCA - A.S.D. S.H. PAOLO BONOMI\n\nRisultato: 0-2
-LOCATION: Tosoni - Via A. Porta\, snc Villafranca di Verona
-DTSTART:20260919T130000Z
-SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 1 - ASD H.C. VILLAFRANCA - A.S.D. S.H. PAOLO BONOMI
-UID:31e6e386-84d6-48fb-ba76-8cee1973a74c@31e6.org
+UID:2d11e87e-ddbd-4f96-93e4-700e028d9d2f@2d11.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 4\nGara 186\nLamacchi - Tosoni - Via A. Porta\, snc Villafranca di Verona\nASD H.C. VILLAFRANCA - A.S.D. POLISPORTIVA  JUVENILIA\n\nRisultato: 2-2
 LOCATION: Tosoni - Via A. Porta\, snc Villafranca di Verona
 DTSTART:20261010T130000Z
 SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 4 - ASD H.C. VILLAFRANCA - A.S.D. POLISPORTIVA  JUVENILIA
-UID:d01d111a-ad99-4c65-8e79-8a1f11555509@d01d.org
+UID:313f57e4-09ec-47f9-bb93-dad5a1812d47@313f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8\nGara 199\nLamacchi - Tosoni - Via A. Porta\, snc Villafranca di Verona\nASD H.C. VILLAFRANCA - SUPERBA
+LOCATION: Tosoni - Via A. Porta\, snc Villafranca di Verona
+DTSTART:20261114T140000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 8 - ASD H.C. VILLAFRANCA - SUPERBA
+UID:39e0a7c2-8dde-4daf-a71c-6da2beca6514@39e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6\nGara 193\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nA.S.D. S.H. PAOLO BONOMI - ASD H.C. VILLAFRANCA
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20261024T130000Z
+SUMMARY:Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 6 - A.S.D. S.H. PAOLO BONOMI - ASD H.C. VILLAFRANCA
+UID:f1d9ce86-3a35-458a-9367-782b0cea04a9@f1d9.org
 END:VEVENT
 END:VCALENDAR

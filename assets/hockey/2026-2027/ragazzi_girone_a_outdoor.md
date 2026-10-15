@@ -36,7 +36,7 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 2
 
-## Dom 08/11/2026 12.00
+## Dom 08/11/2026 11.00
 
 <strong>A.S.D. S.H. PAOLO BONOMI - ASD CERNUSCO FIELD HOCKEY</strong>
 
