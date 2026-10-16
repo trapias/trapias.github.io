@@ -202,7 +202,7 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 # Serie A1 Maschile - OUTDOOR  - Girone B / Giornata 5
 
-## Sab 17/10/2026 15.00
+## Sab 17/10/2026 14.30
 
 <strong>A.S.D. POLISPORTIVA  JUVENILIA - SUPERBA</strong>
 

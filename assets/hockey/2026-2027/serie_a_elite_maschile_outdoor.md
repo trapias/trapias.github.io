@@ -588,7 +588,7 @@ Location: 87, Via Napoleonica, Schiavona, Ospitale, Bondeno, Unione Alto Ferrare
 Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 
-## Sab 07/11/2026 15.00
+## Sab 07/11/2026 14.30
 
 <strong>HOCKEY CLUB BRA A.S.D. - S.G. AMSICORA ASD</strong>
 
