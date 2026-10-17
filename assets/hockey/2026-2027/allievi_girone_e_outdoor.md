@@ -61,20 +61,6 @@ Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catani
 Geo: Geo(latitude=37.5737465, longitude=15.121129)
 
 
-## Dom 25/10/2026 11.30
-
-<strong>A.D. POLISPORTIVA VALVERDE - ASD I CICLOPI</strong>
-
-Gara: 1010
-
-Campo: DUSMET 
-
-Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
-
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
-
-
 ## Dom 25/10/2026 10.00
 
 <strong>ASD SAN PIETRO CLARENZA - SSD UNIME ARL</strong>
@@ -92,20 +78,6 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 # Allievi - OUTDOOR  - Girone E / Giornata 3
 
-## Sab 07/11/2026 15.30
-
-<strong>SSD UNIME ARL - A.D. POLISPORTIVA VALVERDE</strong>
-
-Gara: 1013
-
-Campo: Cittadella Universitaria 
-
-Indirizzo Campo:  Viale Annunziata, snc - Messina
-
-Location: Viale Giovanni Palatucci, Contrada Battaglia, V Circoscrizione, Messina, Sicilia, 98168, Italia
-Geo: Geo(latitude=38.2255449, longitude=15.5532721)
-
-
 ## Dom 08/11/2026 11.00
 
 <strong>PGS DON BOSCO 2000 ASD - POLISPORTIVA GALATEA ASD</strong>
@@ -120,36 +92,22 @@ Location: Barcellona Pozzo di Gotto, Messina, Sicilia, 98051, Italia
 Geo: Geo(latitude=38.1483059, longitude=15.2175523)
 
 
-## Dom 08/11/2026 11.00
+## Sab 07/11/2026 12.00
 
 <strong>ASD I CICLOPI - ASD SAN PIETRO CLARENZA</strong>
 
 Gara: 1016
 
-Campo: Comunale Valverde 
+Campo: centro sportivo le siepi 
 
-Indirizzo Campo:  Via Seminara, 28 - Valverde
+Indirizzo Campo:  VIA BADIA, 259 - PALERMO
 
-Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
-Geo: Geo(latitude=37.5737465, longitude=15.121129)
+Location: Via Badia, Cruillas, Inserra, VI Circoscrizione, Palermo, Sicilia, 90145, Italia
+Geo: Geo(latitude=38.1397618, longitude=13.3164366)
 
 
 
 # Allievi - OUTDOOR  - Girone E / Giornata 4
-
-## Dom 15/11/2026 10.00
-
-<strong>POLISPORTIVA GALATEA ASD - A.D. POLISPORTIVA VALVERDE</strong>
-
-Gara: 1018
-
-Campo: DUSMET 
-
-Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
-
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
-
 
 ## Dom 15/11/2026 11.30
 
@@ -165,18 +123,18 @@ Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicc
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 
-## Dom 15/11/2026 11.00
+## Sab 14/11/2026 14.00
 
 <strong>ASD I CICLOPI - VALVERDE HOCKEY 2018</strong>
 
 Gara: 1020
 
-Campo: Comunale Valverde 
+Campo: centro sportivo le siepi 
 
-Indirizzo Campo:  Via Seminara, 28 - Valverde
+Indirizzo Campo:  VIA BADIA, 259 - PALERMO
 
-Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
-Geo: Geo(latitude=37.5737465, longitude=15.121129)
+Location: Via Badia, Cruillas, Inserra, VI Circoscrizione, Palermo, Sicilia, 90145, Italia
+Geo: Geo(latitude=38.1397618, longitude=13.3164366)
 
 
 
@@ -210,36 +168,8 @@ Location: Barcellona Pozzo di Gotto, Messina, Sicilia, 98051, Italia
 Geo: Geo(latitude=38.1483059, longitude=15.2175523)
 
 
-## Dom 22/11/2026 11.00
-
-<strong>VALVERDE HOCKEY 2018 - A.D. POLISPORTIVA VALVERDE</strong>
-
-Gara: 1024
-
-Campo: Comunale Valverde 
-
-Indirizzo Campo:  Via Seminara, 28 - Valverde
-
-Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
-Geo: Geo(latitude=37.5737465, longitude=15.121129)
-
-
 
 # Allievi - OUTDOOR  - Girone E / Giornata 6
-
-## Dom 29/11/2026 09.30
-
-<strong>A.D. POLISPORTIVA VALVERDE - ASD SAN PIETRO CLARENZA</strong>
-
-Gara: 1025
-
-Campo: DUSMET 
-
-Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
-
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
-
 
 ## Dom 29/11/2026 11.00
 
@@ -255,18 +185,18 @@ Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catani
 Geo: Geo(latitude=37.5737465, longitude=15.121129)
 
 
-## Dom 29/11/2026 11.00
+## Sab 28/11/2026 12.00
 
 <strong>ASD I CICLOPI - SSD UNIME ARL</strong>
 
 Gara: 1028
 
-Campo: Comunale Valverde 
+Campo: centro sportivo le siepi 
 
-Indirizzo Campo:  Via Seminara, 28 - Valverde
+Indirizzo Campo:  VIA BADIA, 259 - PALERMO
 
-Location: Via Seminara, Portiere, Fontana-Casalrosato, Maugeri, Valverde, Catania, Sicilia, 95028, Italia
-Geo: Geo(latitude=37.5737465, longitude=15.121129)
+Location: Via Badia, Cruillas, Inserra, VI Circoscrizione, Palermo, Sicilia, 90145, Italia
+Geo: Geo(latitude=38.1397618, longitude=13.3164366)
 
 
 
@@ -291,20 +221,6 @@ Geo: Geo(latitude=38.2255449, longitude=15.5532721)
 <strong>ASD SAN PIETRO CLARENZA - VALVERDE HOCKEY 2018</strong>
 
 Gara: 1031
-
-Campo: DUSMET 
-
-Indirizzo Campo:  VIA NUOVALUCELLO, 132 - Catania
-
-Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia
-Geo: Geo(latitude=37.5294255, longitude=15.0965573)
-
-
-## Dom 06/12/2026 11.30
-
-<strong>A.D. POLISPORTIVA VALVERDE - PGS DON BOSCO 2000 ASD</strong>
-
-Gara: 1032
 
 Campo: DUSMET 
 

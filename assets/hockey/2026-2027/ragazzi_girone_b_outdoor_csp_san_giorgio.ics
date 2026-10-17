@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 1\nGara 377\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD ADIGE UHC\n\nRisultato: 10-0
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20260927T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 1 - CSP SAN GIORGIO - ASD ADIGE UHC
-UID:b99ba5fa-a909-4280-a5d0-dabd474121bb@b99b.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 3\nGara 381\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nPOLISPORTIVA CAMELOT - CSP SAN GIORGIO
 GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20261108T100000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 3 - POLISPORTIVA CAMELOT - CSP SAN GIORGIO
-UID:c38dbc1c-b10c-4a7d-aa39-922ad1e5fca2@c38d.org
+UID:51794fbc-81eb-4f3a-a595-0ea4b78f9547@5179.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 4\nGara 383\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CSP SAN GIORGIO
@@ -23,15 +15,7 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20270314T120000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 4 - ASD ADIGE UHC - CSP SAN GIORGIO
-UID:168e5d9d-0e59-4eed-af04-2bd0ad6f04eb@168e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 5\nGara 384\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HOCKEY CLUB RIVA
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20270404T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 5 - CSP SAN GIORGIO - HOCKEY CLUB RIVA
-UID:a0426c12-887c-4298-821e-cb1de9bd0773@a042.org
+UID:71c9afae-d6c9-4cd6-aa7c-8c9765f44228@71c9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 2\nGara 378\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - CSP SAN GIORGIO\n\nRisultato: 3-2
@@ -39,7 +23,23 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20261011T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 2 - HOCKEY CLUB RIVA - CSP SAN GIORGIO
-UID:2b554391-074f-40a1-9263-91f79d9148be@2b55.org
+UID:e4947401-4521-4cd1-b547-31be1a99f1b1@e494.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 1\nGara 377\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD ADIGE UHC\n\nRisultato: 10-0
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20260927T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 1 - CSP SAN GIORGIO - ASD ADIGE UHC
+UID:a255f83c-c99f-466d-a6b9-cea664f244ca@a255.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 5\nGara 384\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HOCKEY CLUB RIVA
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20270404T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 5 - CSP SAN GIORGIO - HOCKEY CLUB RIVA
+UID:e9d5ada8-b907-4788-b42a-89c38f13f5c3@e9d5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 6\nGara 387\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - POLISPORTIVA CAMELOT
@@ -47,6 +47,6 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20270502T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 6 - CSP SAN GIORGIO - POLISPORTIVA CAMELOT
-UID:de530a24-a94a-4758-a2cc-7500bfc76fc3@de53.org
+UID:8b261726-ad5a-4e50-97db-7cdf6d2179ad@8b26.org
 END:VEVENT
 END:VCALENDAR
