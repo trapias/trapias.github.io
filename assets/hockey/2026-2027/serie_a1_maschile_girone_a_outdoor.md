@@ -210,6 +210,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HOCKEY CLUB RIVA - H.POTENZA PICENA</strong>
 
+**Risultato: 1-1**
+
 Gara: 159
 
 Campo: Comunale Mori 
@@ -224,6 +226,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>CUS PISA ASD - ASD CITTA' DEL TRICOLORE</strong>
 
+**Risultato: 2-6**
+
 Gara: 160
 
 Campo: HOCKEY STADIUM ANDREA BRUSCHI 
@@ -237,6 +241,8 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 ## Sab 17/10/2026 11.30
 
 <strong>CUS CAGLIARI - ASD ADIGE UHC</strong>
+
+**Risultato: 4-4**
 
 Gara: 161
 

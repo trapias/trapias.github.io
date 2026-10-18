@@ -112,6 +112,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>HOCKEY PRATO VALCHISONE FEMMINILE - ASD HF LORENZONI</strong>
 
+**Risultato: 1-2**
+
 Gara: 820
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 
@@ -127,6 +129,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 ## Sab 17/10/2026 15.00
 
 <strong>MILANO HOCKEY PRATO - CUS TORINO</strong>
+
+**Risultato: 0-13**
 
 Gara: 821
 

@@ -39,6 +39,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>H.C. GENOVA - GENOVA HOCKEY 1980</strong>
 
+**Risultato: 1-9**
+
 Gara: 872
 
 Campo: CAMPO G.ARNALDI 

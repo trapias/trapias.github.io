@@ -39,6 +39,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>SUPERBA - HF GENOVA 1980</strong>
 
+**Risultato: 5-2**
+
 Gara: 946
 
 Campo: CAMPO G.ARNALDI 
@@ -52,6 +54,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Sab 17/10/2026 13.00
 
 <strong>HC GENOVA RAINBOW - CUS PISA ASD</strong>
+
+**Risultato: 0-13**
 
 Gara: 947
 

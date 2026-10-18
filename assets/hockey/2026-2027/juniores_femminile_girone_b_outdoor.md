@@ -6,6 +6,8 @@
 
 <strong>HOCKEY CLUB RIVA - MILANO HOCKEY PRATO</strong>
 
+**Risultato: 0-3**
+
 Gara: 448
 
 Campo: Comunale Mori 

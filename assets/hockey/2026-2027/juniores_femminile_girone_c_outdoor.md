@@ -39,6 +39,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>H.POTENZA PICENA - BUTTERFLY ROMA H.C.C.</strong>
 
+**Risultato: 1-1**
+
 Gara: 594
 
 Campo: STADIO HOCKEY POTENZA PICENA 

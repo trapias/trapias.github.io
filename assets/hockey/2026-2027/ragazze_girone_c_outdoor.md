@@ -37,6 +37,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HF GENOVA 1980 - SUPERBA</strong>
 
+**Risultato: 1-7**
+
 Gara: 932
 
 Campo: CAMPO G.ARNALDI 
@@ -47,7 +49,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Dom 18/10/2026 13.00
+## -
 
 <strong>H.C. GENOVA - CUS PISA ASD</strong>
 

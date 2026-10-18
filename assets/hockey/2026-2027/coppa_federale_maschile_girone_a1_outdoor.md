@@ -63,6 +63,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>HCU RASSEMBLEMENT TORINO - A.S.D. H.C. NOVARA OLD BLACK</strong>
 
+**Risultato: 7-1**
+
 Gara: 274
 
 Campo: Tazzoli 

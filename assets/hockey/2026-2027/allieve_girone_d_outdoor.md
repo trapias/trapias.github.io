@@ -20,6 +20,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>HOCKEY CLUB TIBERINA A.S.D. - POLISPORTIVA L'AQUILA HOCKEY</strong>
 
+**Risultato: 8-0**
+
 Gara: 973
 
 Campo: EUROMA STADIUM 

@@ -111,6 +111,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>H.C. GENOVA - SUPERBA</strong>
 
+**Risultato: 0-2**
+
 Gara: 800
 
 Campo: CAMPO G.ARNALDI 

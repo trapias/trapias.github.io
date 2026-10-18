@@ -25,6 +25,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>HOCKEY CLUB BONDENO - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
 
+**Risultato: 5-0**
+
 Gara: 461
 
 Campo: A. GIATTI 
