@@ -23,6 +23,8 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 <strong>HOCKEY SU PRATO VALCHISONE - HCU RASSEMBLEMENT TORINO</strong>
 
+**Risultato: 3-2**
+
 Gara: 741
 
 Campo: CAMPO HOCKEY SANDRO MICHELLONET 

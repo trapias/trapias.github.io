@@ -111,6 +111,8 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 <strong>A.R.FINCANTIERI ASD - HOCKEY CUSCUBE BRESCIA</strong>
 
+**Risultato: 2-0**
+
 Gara: 280
 
 Campo: Campo Ass. R. Fincantieri 

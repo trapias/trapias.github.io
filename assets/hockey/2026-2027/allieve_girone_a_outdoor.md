@@ -58,6 +58,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>CUS TORINO - USD MONCALVESE HOCKEY</strong>
 
+**Risultato: 5-3**
+
 Gara: 837
 
 Campo: Tazzoli 
