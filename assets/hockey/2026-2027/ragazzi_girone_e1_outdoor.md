@@ -51,6 +51,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>ASD HOCKEY AVEZZANO 1969 - H.POTENZA PICENA</strong>
 
+**Risultato: 4-11**
+
 Gara: 559
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 

@@ -111,6 +111,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>HCU RASSEMBLEMENT TORINO - HOCKEY SU PRATO VALCHISONE</strong>
 
+**Risultato: 9-1**
+
 Gara: 770
 
 Campo: Tazzoli 
@@ -126,6 +128,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 ## Dom 18/10/2026 14.00
 
 <strong>A.S.D. S.H. PAOLO BONOMI - ASD CERNUSCO FIELD HOCKEY</strong>
+
+**Risultato: 1-7**
 
 Gara: 771
 

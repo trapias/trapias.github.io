@@ -63,6 +63,8 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 <strong>DEL PINTO & ASSOCIATI H. PISTOIA - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
 
+**Risultato: 1-7**
+
 Gara: 332
 
 Campo: HOCKEY STADIUM ANDREA BRUSCHI 

@@ -73,6 +73,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>CUS PADOVA ASD - ASD H.C. VILLAFRANCA</strong>
 
+**Risultato: 2-2**
+
 Gara: 360
 
 Campo: Impianti L. Merigliano 
@@ -86,6 +88,8 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 ## Dom 18/10/2026 11.00
 
 <strong>CSP SAN GIORGIO - HOCKEY TEAM BOLOGNA</strong>
+
+**Risultato: 4-2**
 
 Gara: 361
 

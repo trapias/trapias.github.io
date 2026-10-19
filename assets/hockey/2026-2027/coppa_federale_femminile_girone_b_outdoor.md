@@ -69,6 +69,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>USD MONCALVESE HOCKEY - SUPERBA</strong>
 
+**Risultato: 6-1**
+
 Gara: 320
 
 Campo: UMBERTO MICCO 

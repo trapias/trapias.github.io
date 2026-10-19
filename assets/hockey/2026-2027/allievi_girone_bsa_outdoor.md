@@ -36,7 +36,7 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 # Allievi - OUTDOOR  - Girone BSA / Giornata 3
 
-## Dom 01/11/2026 11.00
+## Ven 23/10/2026 18.00
 
 <strong>HOCKEY CLUB RIVA - HOCKEY CUSCUBE BRESCIA</strong>
 

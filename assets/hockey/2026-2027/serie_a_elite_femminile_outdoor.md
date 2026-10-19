@@ -207,6 +207,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 <strong>BUTTERFLY ROMA H.C.C. - ASD HF LORENZONI</strong>
 
+**Risultato: 1-5**
+
 Gara: 103
 
 Campo: CENTRO GIULIO ONESTI 
@@ -220,6 +222,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 ## Dom 18/10/2026 15.00
 
 <strong>POLISPORTIVA FERRINI CAGLIARI - HOCKEY CLUB TIBERINA A.S.D.</strong>
+
+**Risultato: 6-0**
 
 Gara: 104
 
@@ -235,6 +239,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>H.POTENZA PICENA - MILANO HOCKEY PRATO</strong>
 
+**Risultato: 1-2**
+
 Gara: 105
 
 Campo: STADIO HOCKEY POTENZA PICENA 
@@ -248,6 +254,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 ## Dom 18/10/2026 14.00
 
 <strong>LAZIO HOCKEY - S.G. AMSICORA ASD</strong>
+
+**Risultato: 1-2**
 
 Gara: 106
 
