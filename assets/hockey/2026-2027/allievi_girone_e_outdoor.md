@@ -6,6 +6,8 @@
 
 <strong>PGS DON BOSCO 2000 ASD - ASD I CICLOPI</strong>
 
+**Risultato: 4-2**
+
 Gara: 1005
 
 Campo: Oratorio Salesiano 
@@ -33,6 +35,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 ## Dom 18/10/2026 11.00
 
 <strong>VALVERDE HOCKEY 2018 - SSD UNIME ARL</strong>
+
+**Risultato: 9-0**
 
 Gara: 1008
 

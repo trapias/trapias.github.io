@@ -37,6 +37,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>ASD HOCKEY CLUB ROMA - BUTTERFLY ROMA H.C.C.</strong>
 
+**Risultato: 0-6**
+
 Gara: 558
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

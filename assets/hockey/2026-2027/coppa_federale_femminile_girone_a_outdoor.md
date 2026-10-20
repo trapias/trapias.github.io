@@ -59,7 +59,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 # COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 4
 
-## Dom 18/10/2026 15.00
+## Sab 07/11/2026 17.00
 
 <strong>HF GENOVA 1980 - CUS TORINO</strong>
 

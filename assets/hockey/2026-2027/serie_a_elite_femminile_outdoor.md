@@ -298,7 +298,7 @@ Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 
-## Dom 25/10/2026 15.00
+## Dom 25/10/2026 12.00
 
 <strong>H.POTENZA PICENA - POLISPORTIVA FERRINI CAGLIARI</strong>
 

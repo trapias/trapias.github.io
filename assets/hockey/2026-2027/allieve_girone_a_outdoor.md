@@ -75,6 +75,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>ASD HF LORENZONI - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 
+**Risultato: 16-0**
+
 Gara: 839
 
 Campo: Augusto Lorenzoni 
