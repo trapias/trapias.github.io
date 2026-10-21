@@ -2,7 +2,7 @@
 
 # Allievi - OUTDOOR  - Girone D1 / Giornata 1
 
-## -
+## Sab 13/02/2027 15.00
 
 <strong>ASD HOCKEY CLUB ROMA - HOCKEY CLUB OLIMPIA</strong>
 
@@ -33,7 +33,7 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 # Allievi - OUTDOOR  - Girone D1 / Giornata 2
 
-## Dom 25/10/2026 13.00
+## Sab 13/02/2027 12.30
 
 <strong>LAZIO HOCKEY - HOCKEY CLUB OLIMPIA</strong>
 
@@ -78,7 +78,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Sab 31/10/2026 16.00
+## Sab 20/02/2027 14.00
 
 <strong>TEVERE EUR HOCKEY ASD - HOCKEY CLUB OLIMPIA</strong>
 

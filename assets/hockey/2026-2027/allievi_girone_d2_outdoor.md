@@ -33,7 +33,7 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 # Allievi - OUTDOOR  - Girone D2 / Giornata 2
 
-## Dom 25/10/2026 17.00
+## Dom 25/10/2026 15.00
 
 <strong>H.POTENZA PICENA - POLISPORTIVA L'AQUILA HOCKEY</strong>
 

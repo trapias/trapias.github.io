@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 4\nGara 463\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - ASD ADIGE UHC
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20270313T153000Z
-SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 4 - HOCKEY TEAM FEMMINILE BOLOGNA - ASD ADIGE UHC
-UID:e15f1c8a-6661-4d55-ac9e-2fd3cd04b2ac@e15f.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 5\nGara 464\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - HOCKEY CLUB BONDENO
 GEO:44.494706;11.280302
 LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
 DTSTART:20270410T143000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 5 - HOCKEY TEAM FEMMINILE BOLOGNA - HOCKEY CLUB BONDENO
-UID:0cec86bb-3fdf-4e90-bde5-b10098577690@0cec.org
+UID:8c5d0c06-e1bb-42ed-8982-b76d40e40787@8c5d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 6\nGara 465\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - ASD ADIGE UHC
@@ -23,7 +15,7 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20270424T143000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 6 - HOCKEY CLUB BONDENO - ASD ADIGE UHC
-UID:31f88789-6cf9-4260-9717-4c04320e6164@31f8.org
+UID:92fbed05-5643-46eb-903a-6d381fdf5bfa@92fb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 3\nGara 462\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY CLUB BONDENO
@@ -31,7 +23,15 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20261115T120000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 3 - ASD ADIGE UHC - HOCKEY CLUB BONDENO
-UID:5860d70f-a41e-4296-8c44-68172726714c@5860.org
+UID:b1cde08d-035d-4f38-814b-41cf7c32f5ea@b1cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 4\nGara 463\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM FEMMINILE BOLOGNA - ASD ADIGE UHC
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20270313T153000Z
+SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 4 - HOCKEY TEAM FEMMINILE BOLOGNA - ASD ADIGE UHC
+UID:4c417412-ab2a-4091-8828-3580b245876b@4c41.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 1\nGara 460\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY TEAM FEMMINILE BOLOGNA\n\nRisultato: 6-2
@@ -39,7 +39,7 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20261003T150000Z
 SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 1 - ASD ADIGE UHC - HOCKEY TEAM FEMMINILE BOLOGNA
-UID:674ce19f-2e66-441c-a8b5-839789ef8c28@674c.org
+UID:17b0170e-319f-4f8d-b8ea-9fd04902e295@17b0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazze - OUTDOOR  - Girone B / Giornata 2\nGara 461\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - HOCKEY TEAM FEMMINILE BOLOGNA\n\nRisultato: 5-0
@@ -47,6 +47,6 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20261017T151500Z
 SUMMARY:Ragazze - OUTDOOR  - Girone B / Giornata 2 - HOCKEY CLUB BONDENO - HOCKEY TEAM FEMMINILE BOLOGNA
-UID:6dac1337-3ee1-4f9a-accb-ada9fbd73c88@6dac.org
+UID:47f5ffed-e5b8-42f3-9a28-dd55503a10d4@47f5.org
 END:VEVENT
 END:VCALENDAR

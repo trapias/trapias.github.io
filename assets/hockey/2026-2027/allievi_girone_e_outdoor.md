@@ -36,7 +36,7 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>VALVERDE HOCKEY 2018 - SSD UNIME ARL</strong>
 
-**Risultato: 9-0**
+**Risultato: 0-9**
 
 Gara: 1008
 
