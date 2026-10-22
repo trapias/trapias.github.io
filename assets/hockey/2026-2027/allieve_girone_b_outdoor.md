@@ -70,6 +70,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>ASD ADIGE UHC - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 5-0**
+
 Gara: 886
 
 Campo: Comunale Mori 

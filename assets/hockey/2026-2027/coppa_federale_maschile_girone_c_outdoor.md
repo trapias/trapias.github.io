@@ -53,7 +53,7 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 ## Sab 03/10/2026 15.00
 
-<strong>ASD HOCKEY CLUB ROMA - HOCKEY CLUB OLIMPIA</strong>
+<strong>UTOR HOCKEY CLUB ROMA - HOCKEY CLUB OLIMPIA</strong>
 
 **Risultato: 5-1**
 
@@ -72,7 +72,7 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 ## Sab 10/10/2026 15.00
 
-<strong>ASD HOCKEY CLUB MOGLIANO - ASD HOCKEY CLUB ROMA</strong>
+<strong>ASD HOCKEY CLUB MOGLIANO - UTOR HOCKEY CLUB ROMA</strong>
 
 **Risultato: 0-3**
 
@@ -121,7 +121,7 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 ## Dom 25/10/2026 11.00
 
-<strong>ASD HOCKEY CAMPAGNANO - ASD HOCKEY CLUB ROMA</strong>
+<strong>ASD HOCKEY CAMPAGNANO - UTOR HOCKEY CLUB ROMA</strong>
 
 Gara: 302
 
@@ -138,7 +138,7 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 ## Sab 31/10/2026 15.00
 
-<strong>ASD HOCKEY CLUB ROMA - AZ HOCKEY TEAM</strong>
+<strong>UTOR HOCKEY CLUB ROMA - AZ HOCKEY TEAM</strong>
 
 Gara: 303
 

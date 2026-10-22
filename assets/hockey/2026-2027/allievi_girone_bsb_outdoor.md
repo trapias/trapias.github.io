@@ -6,6 +6,8 @@
 
 <strong>CSP SAN GIORGIO - GRUPPO EGS H. PISTOIA</strong>
 
+**Risultato: 3-2**
+
 Gara: 412
 
 Campo: campo hockey s. farinazzo 
@@ -19,6 +21,8 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 ## Dom 18/10/2026 15.30
 
 <strong>ASD CITTA' DEL TRICOLORE - HOCKEY CLUB BONDENO</strong>
+
+**Risultato: 0-25**
 
 Gara: 413
 

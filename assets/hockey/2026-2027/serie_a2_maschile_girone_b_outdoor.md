@@ -32,7 +32,7 @@ Geo: Geo(latitude=40.465627, longitude=17.735612)
 
 ## Sab 06/03/2027 15.00
 
-<strong>ASD HOCKEY CLUB MOGLIANO - ASD HOCKEY CLUB ROMA</strong>
+<strong>ASD HOCKEY CLUB MOGLIANO - UTOR HOCKEY CLUB ROMA</strong>
 
 Gara: 498
 
@@ -77,7 +77,7 @@ Geo: Geo(latitude=40.465627, longitude=17.735612)
 
 ## Sab 13/03/2027 13.30
 
-<strong>ASD HOCKEY CLUB ROMA - POLISPORTIVA GALATEA ASD</strong>
+<strong>UTOR HOCKEY CLUB ROMA - POLISPORTIVA GALATEA ASD</strong>
 
 Gara: 501
 
@@ -94,7 +94,7 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 ## Sab 20/03/2027 13.00
 
-<strong>H.C. GENOVA - ASD HOCKEY CLUB ROMA</strong>
+<strong>H.C. GENOVA - UTOR HOCKEY CLUB ROMA</strong>
 
 Gara: 502
 
@@ -167,7 +167,7 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 ## Sab 03/04/2027 13.00
 
-<strong>ASD HOCKEY CLUB ROMA - HCU RASSEMBLEMENT TORINO</strong>
+<strong>UTOR HOCKEY CLUB ROMA - HCU RASSEMBLEMENT TORINO</strong>
 
 Gara: 507
 
@@ -212,7 +212,7 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 ## Sab 10/04/2027 15.00
 
-<strong>HOCKEY CLUB OLIMPIA - ASD HOCKEY CLUB ROMA</strong>
+<strong>HOCKEY CLUB OLIMPIA - UTOR HOCKEY CLUB ROMA</strong>
 
 Gara: 510
 
@@ -257,7 +257,7 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 ## Sab 24/04/2027 14.30
 
-<strong>ASD HOCKEY CLUB ROMA - ASD HOCKEY CLUB MOGLIANO</strong>
+<strong>UTOR HOCKEY CLUB ROMA - ASD HOCKEY CLUB MOGLIANO</strong>
 
 Gara: 513
 
@@ -302,7 +302,7 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 ## Sab 01/05/2027 15.00
 
-<strong>POLISPORTIVA GALATEA ASD - ASD HOCKEY CLUB ROMA</strong>
+<strong>POLISPORTIVA GALATEA ASD - UTOR HOCKEY CLUB ROMA</strong>
 
 Gara: 516
 
@@ -319,7 +319,7 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 ## Sab 08/05/2027 14.30
 
-<strong>ASD HOCKEY CLUB ROMA - H.C. GENOVA</strong>
+<strong>UTOR HOCKEY CLUB ROMA - H.C. GENOVA</strong>
 
 Gara: 517
 
@@ -392,7 +392,7 @@ Geo: Geo(latitude=40.465627, longitude=17.735612)
 
 ## Sab 22/05/2027 15.00
 
-<strong>HCU RASSEMBLEMENT TORINO - ASD HOCKEY CLUB ROMA</strong>
+<strong>HCU RASSEMBLEMENT TORINO - UTOR HOCKEY CLUB ROMA</strong>
 
 Gara: 522
 
@@ -437,7 +437,7 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 ## Sab 29/05/2027 14.30
 
-<strong>ASD HOCKEY CLUB ROMA - HOCKEY CLUB OLIMPIA</strong>
+<strong>UTOR HOCKEY CLUB ROMA - HOCKEY CLUB OLIMPIA</strong>
 
 Gara: 525
 
