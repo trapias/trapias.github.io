@@ -613,7 +613,7 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 
 <!-- VALCHISONE_START -->
-## Sab 07/11/2026 15.00 ⭐
+## Sab 07/11/2026 14.30 ⭐
 
 <strong>HOCKEY SU PRATO VALCHISONE - BUTTERFLY ROMA H.C.C.</strong>
 

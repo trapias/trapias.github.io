@@ -51,7 +51,7 @@ Location: 2b, Via Bartolomeo Bianco, Lagaccio, Centro Est, Genova, Liguria, 1613
 Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 
-## Dom 25/10/2026 18.30
+## Dom 25/10/2026 17.00
 
 <strong>BAD LAKE - CUS PISA ASD</strong>
 

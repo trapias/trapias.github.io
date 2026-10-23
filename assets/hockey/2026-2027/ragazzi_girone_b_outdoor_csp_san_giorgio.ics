@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 2\nGara 378\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - CSP SAN GIORGIO\n\nRisultato: 3-2
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20261011T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 2 - HOCKEY CLUB RIVA - CSP SAN GIORGIO
-UID:bb441496-8adc-4e4e-ae64-abf478dacf1e@bb44.org
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 1\nGara 377\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD ADIGE UHC\n\nRisultato: 10-0
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20260927T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 1 - CSP SAN GIORGIO - ASD ADIGE UHC
+UID:402713d6-6076-4e97-8d0d-ac2e2930b3b1@4027.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 6\nGara 387\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - POLISPORTIVA CAMELOT
@@ -15,7 +15,15 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20270502T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 6 - CSP SAN GIORGIO - POLISPORTIVA CAMELOT
-UID:dcd1e104-0735-441d-abc8-174c00db6c92@dcd1.org
+UID:800536de-3d96-4278-9f24-a4f871fdff85@8005.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 2\nGara 378\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - CSP SAN GIORGIO\n\nRisultato: 3-2
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20261011T090000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 2 - HOCKEY CLUB RIVA - CSP SAN GIORGIO
+UID:e7a277cc-f166-4375-b677-629de3aa9630@e7a2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 4\nGara 383\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CSP SAN GIORGIO
@@ -23,7 +31,7 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20270314T120000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 4 - ASD ADIGE UHC - CSP SAN GIORGIO
-UID:99cb3904-f686-41f3-b188-468cb50dc119@99cb.org
+UID:ce22f331-738e-4a0a-a9ff-f0e17561e3b0@ce22.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 5\nGara 384\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - HOCKEY CLUB RIVA
@@ -31,15 +39,7 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20270404T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 5 - CSP SAN GIORGIO - HOCKEY CLUB RIVA
-UID:33735641-d626-40e7-ac28-b16de6d4dd55@3373.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 1\nGara 377\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD ADIGE UHC\n\nRisultato: 10-0
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20260927T090000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 1 - CSP SAN GIORGIO - ASD ADIGE UHC
-UID:ca8190c7-8837-4e33-8e9b-c122f294e166@ca81.org
+UID:dba20c8c-6c2e-4a6e-9e62-b54ba2b6e32e@dba2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 3\nGara 381\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nPOLISPORTIVA CAMELOT - CSP SAN GIORGIO
@@ -47,6 +47,6 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20261108T100000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 3 - POLISPORTIVA CAMELOT - CSP SAN GIORGIO
-UID:e3de799c-cf45-4dec-beaa-036451c5db16@e3de.org
+UID:e2624cce-0e84-48b5-8623-8c4a5226673e@e262.org
 END:VEVENT
 END:VCALENDAR

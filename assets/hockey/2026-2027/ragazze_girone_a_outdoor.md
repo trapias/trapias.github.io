@@ -90,18 +90,18 @@ Location: Moncalvo, Asti, Piemonte, 14036, Italia
 Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 
-## Sab 07/11/2026 15.00
+## Sab 07/11/2026 11.00
 
 <strong>ASD HF LORENZONI - CUS TORINO</strong>
 
 Gara: 819
 
-Campo: Augusto Lorenzoni 
+Campo: PINO PALMIERI 
 
-Indirizzo Campo:  VIA MADONNA DEI FIORI, 49 - Bra
+Indirizzo Campo:  Viale madonna dei fiori, n. 49, 12042 bra, cn, italia - BRA  CN
 
-Location: Via Alcide De Gasperi, Madonna dei Fiori, Sant'Agnese, Bra, Cuneo, Piemonte, 12042, Italia
-Geo: Geo(latitude=44.7031944, longitude=7.8366967)
+Location: Viale Madonna dei Fiori, Madonna dei Fiori, Bra, Cuneo, Piemonte, 12042, Italia
+Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 
 
 

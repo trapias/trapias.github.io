@@ -64,7 +64,7 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 # Ragazze - OUTDOOR  - Girone D / Giornata 3
 
-## Sab 07/11/2026 17.00
+## Sab 07/11/2026 17.30
 
 <strong>LAZIO HOCKEY - BUTTERFLY ROMA H.C.C.</strong>
 
