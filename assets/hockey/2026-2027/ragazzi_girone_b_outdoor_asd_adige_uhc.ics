@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 5\nGara 385\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - POLISPORTIVA CAMELOT
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20270404T110000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 5 - ASD ADIGE UHC - POLISPORTIVA CAMELOT
-UID:866d40bf-467d-4818-9063-492c83e35a10@866d.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 3\nGara 380\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY CLUB RIVA
 GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20261105T170000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 3 - ASD ADIGE UHC - HOCKEY CLUB RIVA
-UID:87885748-2d85-46ed-9e74-7cd5953a1571@8788.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 2\nGara 379\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nPOLISPORTIVA CAMELOT - ASD ADIGE UHC
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20261122T120000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 2 - POLISPORTIVA CAMELOT - ASD ADIGE UHC
-UID:da1ccb04-e000-4f63-ace2-70e1b7a85c28@da1c.org
+UID:569a810c-6624-4d65-ac1f-d7d6e7d9edf1@569a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 4\nGara 383\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CSP SAN GIORGIO
@@ -31,7 +15,15 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20270314T120000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 4 - ASD ADIGE UHC - CSP SAN GIORGIO
-UID:c078c20e-d895-4076-b1d5-efd01ec7ce56@c078.org
+UID:481d1998-434b-490d-a473-7339dad37142@481d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 5\nGara 385\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - POLISPORTIVA CAMELOT
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20270404T110000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 5 - ASD ADIGE UHC - POLISPORTIVA CAMELOT
+UID:2909dc35-41a4-427c-bbe9-1ca6e9044d05@2909.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 1\nGara 377\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD ADIGE UHC\n\nRisultato: 10-0
@@ -39,7 +31,15 @@ GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20260927T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 1 - CSP SAN GIORGIO - ASD ADIGE UHC
-UID:0537ef75-680a-447c-b921-a867b07171b5@0537.org
+UID:e794991e-ddf8-48f6-8918-664062a39843@e794.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 2\nGara 379\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nPOLISPORTIVA CAMELOT - ASD ADIGE UHC
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20261122T120000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 2 - POLISPORTIVA CAMELOT - ASD ADIGE UHC
+UID:b17fb088-b161-46c3-b410-3d4806702e85@b17f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 6\nGara 386\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - ASD ADIGE UHC
@@ -47,6 +47,6 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20270502T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 6 - HOCKEY CLUB RIVA - ASD ADIGE UHC
-UID:cfe7ad07-3ca2-466a-88a0-1667e2a3ea76@cfe7.org
+UID:9216462a-6e78-4c69-94c0-62e27c7b9e52@9216.org
 END:VEVENT
 END:VCALENDAR
