@@ -40,6 +40,8 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 <strong>HOCKEY CLUB RIVA - HOCKEY CUSCUBE BRESCIA</strong>
 
+**Risultato: 17-0**
+
 Gara: 404
 
 Campo: Campo Hockey Club Riva 

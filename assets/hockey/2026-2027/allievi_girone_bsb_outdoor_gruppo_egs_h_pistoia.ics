@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 1\nGara 412\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - GRUPPO EGS H. PISTOIA\n\nRisultato: 3-2
+GEO:45.190295;11.468640
+LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
+DTSTART:20261018T110000Z
+SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 1 - CSP SAN GIORGIO - GRUPPO EGS H. PISTOIA
+UID:dab5401e-4649-4fbf-a25c-c58f785209d4@dab5.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 3\nGara 417\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nGRUPPO EGS H. PISTOIA - ASD CITTA' DEL TRICOLORE
 GEO:43.950983;10.829288
 LOCATION:Via per Montagnana\, Montagnana\, Marliana\, Pistoia\, Toscana\, 51130\, Italia
 DTSTART:20261101T100000Z
 SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 3 - GRUPPO EGS H. PISTOIA - ASD CITTA' DEL TRICOLORE
-UID:f5597d91-f39b-42eb-ba07-3901bbefa190@f559.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 6\nGara 423\nBalestri e Gambini - Via Avvenire Paterlini\, 2 Reggio nell'Emilia\nASD CITTA' DEL TRICOLORE - GRUPPO EGS H. PISTOIA
-GEO:44.708258;10.636489
-LOCATION:2a\, Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20270425T110000Z
-SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 6 - ASD CITTA' DEL TRICOLORE - GRUPPO EGS H. PISTOIA
-UID:30f49cdf-6d9d-4c01-be1d-2b124588dc29@30f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 4\nGara 418\nFrascari - Via Calamandrei (Campo Frascari)\, snc Pistoia\nGRUPPO EGS H. PISTOIA - CSP SAN GIORGIO
-GEO:43.974096;10.868708
-LOCATION:Pistoia\, Toscana\, Italia
-DTSTART:20270321T120000Z
-SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 4 - GRUPPO EGS H. PISTOIA - CSP SAN GIORGIO
-UID:83de16e3-c719-4bbd-b226-7c8b402af509@83de.org
+UID:f97f1a71-f2be-468d-a670-9198c9599094@f97f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 5\nGara 421\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - GRUPPO EGS H. PISTOIA
@@ -31,7 +23,15 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20270411T103000Z
 SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 5 - HOCKEY CLUB BONDENO - GRUPPO EGS H. PISTOIA
-UID:f7b05dcf-e6d7-455f-b063-e2b38c1d6160@f7b0.org
+UID:5be59df5-a883-416a-8727-ff9c142b85d8@5be5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 6\nGara 423\nBalestri e Gambini - Via Avvenire Paterlini\, 2 Reggio nell'Emilia\nASD CITTA' DEL TRICOLORE - GRUPPO EGS H. PISTOIA
+GEO:44.708258;10.636489
+LOCATION:2a\, Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20270425T110000Z
+SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 6 - ASD CITTA' DEL TRICOLORE - GRUPPO EGS H. PISTOIA
+UID:6eeb8daa-354f-4d8b-9eab-c461e295dbe5@6eeb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 2\nGara 415\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nGRUPPO EGS H. PISTOIA - HOCKEY CLUB BONDENO
@@ -39,14 +39,14 @@ GEO:43.950983;10.829288
 LOCATION:Via per Montagnana\, Montagnana\, Marliana\, Pistoia\, Toscana\, 51130\, Italia
 DTSTART:20261025T093000Z
 SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 2 - GRUPPO EGS H. PISTOIA - HOCKEY CLUB BONDENO
-UID:779f5415-86a6-428e-a7f6-581886637656@779f.org
+UID:ea6f992f-04b0-45b9-b541-ef3ce1a355a7@ea6f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 1\nGara 412\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - GRUPPO EGS H. PISTOIA\n\nRisultato: 3-2
-GEO:45.190295;11.468640
-LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
-DTSTART:20261018T110000Z
-SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 1 - CSP SAN GIORGIO - GRUPPO EGS H. PISTOIA
-UID:f0f412b0-da6a-4dc2-ab8e-e2592658fbd8@f0f4.org
+DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 4\nGara 418\nFrascari - Via Calamandrei (Campo Frascari)\, snc Pistoia\nGRUPPO EGS H. PISTOIA - CSP SAN GIORGIO
+GEO:43.974096;10.868708
+LOCATION:Pistoia\, Toscana\, Italia
+DTSTART:20270321T120000Z
+SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 4 - GRUPPO EGS H. PISTOIA - CSP SAN GIORGIO
+UID:9347fa86-dc10-4930-ba94-66bc9cc84db9@9347.org
 END:VEVENT
 END:VCALENDAR
