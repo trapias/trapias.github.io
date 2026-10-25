@@ -160,6 +160,8 @@ Geo: Geo(latitude=45.8010363, longitude=13.5423352)
 
 <strong>HC GRANTORTO B - HOCKEY CUSCUBE BRESCIA</strong>
 
+**Risultato: 1-2**
+
 Gara: 348
 
 Campo: Grantorto Hockey Stadium 

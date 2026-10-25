@@ -127,6 +127,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HF GENOVA 1980 - ASD HF LORENZONI</strong>
 
+**Risultato: 3-4**
+
 Gara: 801
 
 Campo: CAMPO G.ARNALDI 

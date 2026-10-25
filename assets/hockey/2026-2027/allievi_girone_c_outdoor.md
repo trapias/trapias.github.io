@@ -74,6 +74,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>BAD LAKE - H.C. BLU</strong>
 
+**Risultato: 3-4**
+
 Gara: 906
 
 Campo: CAMPO G.ARNALDI 

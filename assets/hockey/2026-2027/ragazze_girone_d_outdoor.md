@@ -37,6 +37,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>HOCKEY CLUB TIBERINA A.S.D. - LAZIO HOCKEY</strong>
 
+**Risultato: 7-0**
+
 Gara: 614
 
 Campo: EUROMA STADIUM 

@@ -6,6 +6,8 @@
 
 <strong>SCUOLA HOCKEY INDER SINGH - HCU RASSEMBLEMENT TORINO</strong>
 
+**Risultato: 2-6**
+
 Gara: 764
 
 Campo: Augusto Lorenzoni 
@@ -19,6 +21,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 ## Sab 24/10/2026 12.30
 
 <strong>SCUOLA HOCKEY INDER SINGH NEXT GEN - HCU RASSEMBLEMENT TORINO</strong>
+
+**Risultato: 1-7**
 
 Gara: 765
 

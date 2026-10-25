@@ -88,6 +88,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>SUPERBA - CUS PISA ASD</strong>
 
+**Risultato: 3-0**
+
 Gara: 950
 
 Campo: CAMPO G.ARNALDI 

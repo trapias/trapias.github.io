@@ -37,7 +37,7 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 # Juniores Femminile - OUTDOOR  - Girone B / Giornata 2
 
-## Sab 14/11/2026 15.00
+## Dom 22/11/2026 12.00
 
 <strong>HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA</strong>
 
@@ -87,6 +87,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 ## Sab 24/10/2026 17.00
 
 <strong>MILANO HOCKEY PRATO - HOCKEY CLUB BONDENO</strong>
+
+**Risultato: 1-2**
 
 Gara: 453
 

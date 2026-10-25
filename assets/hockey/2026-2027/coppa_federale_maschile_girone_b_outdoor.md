@@ -111,6 +111,8 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 <strong>HC SAVONA - H.C. GENOVA</strong>
 
+**Risultato: 4-2**
+
 Gara: 289
 
 Campo: Campo Sportivo Augusto Briano 
@@ -124,6 +126,8 @@ Geo: Geo(latitude=44.3230861, longitude=8.464578)
 ## Sab 24/10/2026 15.00
 
 <strong>GENOVA HOCKEY 1980 - CUS GENOVA HOCKEY</strong>
+
+**Risultato: 12-0**
 
 Gara: 290
 

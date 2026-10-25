@@ -80,6 +80,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>USD MONCALVESE HOCKEY - MILANO HOCKEY PRATO</strong>
 
+**Risultato: 9-1**
+
 Gara: 818
 
 Campo: UMBERTO MICCO 
@@ -149,6 +151,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 ## Sab 24/10/2026 15.00 ⭐
 
 <strong>CUS TORINO - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
+
+**Risultato: 1-5**
 
 Gara: 822
 

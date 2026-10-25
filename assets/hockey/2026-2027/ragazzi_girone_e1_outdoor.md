@@ -6,6 +6,8 @@
 
 <strong>BUTTERFLY ROMA H.C.C. - ASD HOCKEY AVEZZANO 1969</strong>
 
+**Risultato: 18-0**
+
 Gara: 556
 
 Campo: CENTRO GIULIO ONESTI 
