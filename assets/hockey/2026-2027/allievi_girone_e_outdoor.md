@@ -55,6 +55,8 @@ Geo: Geo(latitude=37.5737465, longitude=15.121129)
 
 <strong>VALVERDE HOCKEY 2018 - PGS DON BOSCO 2000 ASD</strong>
 
+**Risultato: 6-2**
+
 Gara: 1009
 
 Campo: Comunale Valverde 

@@ -6,6 +6,8 @@
 
 <strong>ASD CERNUSCO FIELD HOCKEY - SCUOLA HOCKEY INDER SINGH</strong>
 
+**Risultato: 0-2**
+
 Gara: 752
 
 Campo: Campo Comunale 
@@ -20,6 +22,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 ## Dom 25/10/2026 12.00 ⭐
 
 <strong>HOCKEY SU PRATO VALCHISONE - A.S.D. S.H. PAOLO BONOMI</strong>
+
+**Risultato: 2-4**
 
 Gara: 753
 

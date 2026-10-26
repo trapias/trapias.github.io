@@ -39,6 +39,8 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 <strong>CUS PADOVA ASD - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 4-5**
+
 Gara: 884
 
 Campo: Impianti L. Merigliano 

@@ -89,6 +89,8 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 <strong>USD MONCALVESE HOCKEY - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 
+**Risultato: 7-0**
+
 Gara: 321
 
 Campo: UMBERTO MICCO 

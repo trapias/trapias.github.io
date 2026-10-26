@@ -56,6 +56,8 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>HOCKEY CLUB RIVA - HOCKEY TEAM BOLOGNA</strong>
 
+**Risultato: 3-3**
+
 Gara: 359
 
 Campo: Comunale Mori 

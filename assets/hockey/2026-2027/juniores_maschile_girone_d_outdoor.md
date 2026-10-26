@@ -41,6 +41,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>TEVERE EUR HOCKEY ASD - H.POTENZA PICENA - RISERVE</strong>
 
+**Risultato: 3-2**
+
 Gara: 530
 
 Campo: EUROMA STADIUM 
@@ -71,6 +73,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 ## Dom 25/10/2026 12.00
 
 <strong>TEVERE EUR HOCKEY ASD - H.POTENZA PICENA</strong>
+
+**Risultato: 0-1**
 
 Gara: 532
 

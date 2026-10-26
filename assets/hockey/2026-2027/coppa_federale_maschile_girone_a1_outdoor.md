@@ -82,6 +82,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HCU RASSEMBLEMENT TORINO</strong>
 
+**Risultato: 2-1**
+
 Gara: 275
 
 Campo: Campo Comunale 

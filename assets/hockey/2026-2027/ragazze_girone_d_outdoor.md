@@ -53,6 +53,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>AZ HOCKEY TEAM - H.POTENZA PICENA</strong>
 
+**Risultato: 1-7**
+
 Gara: 615
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 
@@ -66,7 +68,7 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 # Ragazze - OUTDOOR  - Girone D / Giornata 3
 
-## Sab 07/11/2026 17.30
+## Sab 07/11/2026 17.45
 
 <strong>LAZIO HOCKEY - BUTTERFLY ROMA H.C.C.</strong>
 

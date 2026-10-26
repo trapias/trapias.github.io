@@ -37,6 +37,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>H.POTENZA PICENA - POLISPORTIVA L'AQUILA HOCKEY</strong>
 
+**Risultato: 10-3**
+
 Gara: 724
 
 Campo: STADIO HOCKEY POTENZA PICENA 

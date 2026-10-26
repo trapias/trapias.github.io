@@ -116,6 +116,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>CUS TORINO - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 
+**Risultato: 4-4**
+
 Gara: 841
 
 Campo: Tazzoli 

@@ -146,6 +146,8 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 <strong>A.R.FINCANTIERI ASD - HC GRANTORTO</strong>
 
+**Risultato: 0-7**
+
 Gara: 281
 
 Campo: Campo Ass. R. Fincantieri 

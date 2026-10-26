@@ -74,6 +74,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC RAINBOW SAMPIERDARENA - HF GENOVA 1980</strong>
 
+**Risultato: 2-2**
+
 Gara: 948
 
 Campo: CAMPO G.ARNALDI 

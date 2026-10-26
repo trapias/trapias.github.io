@@ -23,6 +23,8 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 <strong>POLISPORTIVA CAMELOT - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 1-11**
+
 Gara: 403
 
 Campo: Impianti L. Merigliano 
