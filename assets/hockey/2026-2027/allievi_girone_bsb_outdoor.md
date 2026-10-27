@@ -41,6 +41,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>ASD CITTA' DEL TRICOLORE - CSP SAN GIORGIO</strong>
 
+**Risultato: 5-2**
+
 Gara: 414
 
 Campo: Sport Arena 
@@ -54,6 +56,8 @@ Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 ## Dom 25/10/2026 10.30
 
 <strong>GRUPPO EGS H. PISTOIA - HOCKEY CLUB BONDENO</strong>
+
+**Risultato: 0-25**
 
 Gara: 415
 

@@ -125,6 +125,8 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>ASD HOCKEY CAMPAGNANO - UTOR HOCKEY CLUB ROMA</strong>
 
+**Risultato: 0-14**
+
 Gara: 302
 
 Campo: CENTRO GIULIO ONESTI 

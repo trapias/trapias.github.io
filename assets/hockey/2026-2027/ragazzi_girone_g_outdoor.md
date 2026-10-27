@@ -19,7 +19,7 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 # Ragazzi - OUTDOOR  - Girone G / Giornata 2
 
-## Lun 09/11/2026 11.30
+## Dom 08/11/2026 11.30
 
 <strong>POLISPORTIVA FERRINI CAGLIARI - A.S.D. POLISPORTIVA  JUVENILIA</strong>
 

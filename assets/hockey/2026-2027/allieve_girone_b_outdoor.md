@@ -55,6 +55,8 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 <strong>HOCKEY CLUB BONDENO - ASD ADIGE UHC</strong>
 
+**Risultato: 2-7**
+
 Gara: 885
 
 Campo: A. GIATTI 
