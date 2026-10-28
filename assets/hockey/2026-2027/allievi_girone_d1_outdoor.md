@@ -64,7 +64,7 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 # Allievi - OUTDOOR  - Girone D1 / Giornata 3
 
-## Sab 31/10/2026 17.00
+## Sab 28/11/2026 17.00
 
 <strong>LAZIO HOCKEY - BUTTERFLY ROMA H.C.C.</strong>
 

@@ -191,7 +191,7 @@ Location: Via Nuovalucello, Villaggio Dusmet, Picanello-Ognina-Barriera-Canalicc
 Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 
-## Dom 01/11/2026 15.00
+## Sab 31/10/2026 17.30
 
 <strong>ASD I CICLOPI - GRUPPO SPORTTIVO M SS RACCOMANDATA</strong>
 
