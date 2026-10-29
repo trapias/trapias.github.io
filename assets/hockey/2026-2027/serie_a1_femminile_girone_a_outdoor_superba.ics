@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5\nGara 445\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - HOCKEY CLUB RIVA
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20270418T090000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5 - SUPERBA - HOCKEY CLUB RIVA
-UID:1ab5579e-7d39-48b1-9d3d-99b7e875bc17@1ab5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1\nGara 437\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - SUPERBA
-GEO:45.050205;8.265038
-LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
-DTSTART:20270307T140000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1 - USD MONCALVESE HOCKEY - SUPERBA
-UID:27b89148-8e74-485e-8044-97bbca66cb0c@27b8.org
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2\nGara 439\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - SUPERBA
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20270314T140000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2 - HOCKEY CLUB RIVA - SUPERBA
+UID:24e7207b-23e0-450f-ac63-df4b87a5ab12@24e7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3\nGara 440\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - CUS TORINO
@@ -23,7 +15,15 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20270321T100000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3 - SUPERBA - CUS TORINO
-UID:3a90ec29-5e73-420d-93bb-5036295dac84@3a90.org
+UID:c728c40f-d2f8-4953-94e4-a2efc5444321@c728.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5\nGara 445\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - HOCKEY CLUB RIVA
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20270418T090000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5 - SUPERBA - HOCKEY CLUB RIVA
+UID:b42f87bc-1604-4cd7-9f82-eaf440c291b0@b42f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4\nGara 443\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - USD MONCALVESE HOCKEY
@@ -31,7 +31,15 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20270411T090000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4 - SUPERBA - USD MONCALVESE HOCKEY
-UID:6c461af8-3e2c-40fa-9adf-af587505e5e8@6c46.org
+UID:e1315432-de1c-43db-9bb4-a951687daf45@e131.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1\nGara 437\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - SUPERBA
+GEO:45.050205;8.265038
+LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
+DTSTART:20270307T140000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1 - USD MONCALVESE HOCKEY - SUPERBA
+UID:91e8dbae-e3c0-4306-a87d-8eb66c858eeb@91e8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6\nGara 446\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - SUPERBA
@@ -39,14 +47,6 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20270425T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6 - CUS TORINO - SUPERBA
-UID:3bb11ddd-cb9b-42c2-9c40-240647012845@3bb1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2\nGara 439\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - SUPERBA
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20270314T140000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2 - HOCKEY CLUB RIVA - SUPERBA
-UID:8a7f662f-73fb-4984-9e35-3b5e0b8f4501@8a7f.org
+UID:652764b2-add3-4561-91db-1455571d98d9@6527.org
 END:VEVENT
 END:VCALENDAR

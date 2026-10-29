@@ -379,7 +379,7 @@ Location: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capital
 Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 
-## Dom 01/11/2026 15.00
+## Dom 01/11/2026 11.00
 
 <strong>MILANO HOCKEY PRATO - POLISPORTIVA FERRINI CAGLIARI</strong>
 

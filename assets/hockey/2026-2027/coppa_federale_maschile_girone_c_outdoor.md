@@ -154,7 +154,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Dom 01/11/2026 13.00
+## Dom 01/11/2026 10.30
 
 <strong>HOCKEY CLUB OLIMPIA - ASD HOCKEY CAMPAGNANO</strong>
 
