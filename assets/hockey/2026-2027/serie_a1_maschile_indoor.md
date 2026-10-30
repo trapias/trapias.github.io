@@ -147,7 +147,7 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 ## Sab 12/12/2026 18.00
 
-<strong>HC SAVONA - GENOVA HOCKEY 1980</strong>
+<strong>UTOR HOCKEY CLUB ROMA - ASD SUPERBA HC</strong>
 
 Gara: 81
 
@@ -161,7 +161,7 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 ## Sab 12/12/2026 19.00
 
-<strong>UTOR HOCKEY CLUB ROMA - ASD SUPERBA HC</strong>
+<strong>HC SAVONA - GENOVA HOCKEY 1980</strong>
 
 Gara: 82
 
@@ -231,7 +231,7 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 ## Dom 13/12/2026 13.00
 
-<strong>GENOVA HOCKEY 1980 - ASD ADIGE UHC</strong>
+<strong>UTOR HOCKEY CLUB ROMA - HC SAVONA</strong>
 
 Gara: 87
 
@@ -245,7 +245,7 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 ## Dom 13/12/2026 14.00
 
-<strong>UTOR HOCKEY CLUB ROMA - HC SAVONA</strong>
+<strong>GENOVA HOCKEY 1980 - ASD ADIGE UHC</strong>
 
 Gara: 88
 
@@ -402,7 +402,7 @@ Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
 ## Dom 17/01/2027 13.00
 
-<strong>GENOVA HOCKEY 1980 - HC SAVONA</strong>
+<strong>ASD SUPERBA HC - UTOR HOCKEY CLUB ROMA</strong>
 
 Gara: 99
 
@@ -416,7 +416,7 @@ Geo: Geo(latitude=41.8098847, longitude=12.4281055)
 
 ## Dom 17/01/2027 14.00
 
-<strong>ASD SUPERBA HC - UTOR HOCKEY CLUB ROMA</strong>
+<strong>GENOVA HOCKEY 1980 - HC SAVONA</strong>
 
 Gara: 100
 

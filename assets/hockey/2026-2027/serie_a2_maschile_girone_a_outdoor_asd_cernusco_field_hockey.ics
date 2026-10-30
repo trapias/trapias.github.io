@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7\nGara 486\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - ASD CERNUSCO FIELD HOCKEY
+GEO:42.043231;13.437583
+LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
+DTSTART:20270501T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7 - AZ HOCKEY TEAM - ASD CERNUSCO FIELD HOCKEY
+UID:fb3a25f9-3b85-4e82-8e9b-ffec0efd3801@fb3a.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 487\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nASD CERNUSCO FIELD HOCKEY - VALVERDE HOCKEY 2018
 GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20270508T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8 - ASD CERNUSCO FIELD HOCKEY - VALVERDE HOCKEY 2018
-UID:f0824092-b102-43d7-9a1e-f66403e5a848@f082.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3\nGara 472\nComunale Valverde - Via Seminara\, 28 Valverde\nVALVERDE HOCKEY 2018 - ASD CERNUSCO FIELD HOCKEY
-GEO:37.573746;15.121129
-LOCATION:Via Seminara\, Portiere\, Fontana-Casalrosato\, Maugeri\, Valverde\, Catania\, Sicilia\, 95028\, Italia
-DTSTART:20270320T140000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3 - VALVERDE HOCKEY 2018 - ASD CERNUSCO FIELD HOCKEY
-UID:caded6f6-653a-4b77-8423-bb669d2d5a4a@cade.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 471\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nASD CERNUSCO FIELD HOCKEY - AZ HOCKEY TEAM
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20270313T140000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2 - ASD CERNUSCO FIELD HOCKEY - AZ HOCKEY TEAM
-UID:6403f339-fed3-419d-91d6-46b2ddbdfbdc@6403.org
+UID:812c5b27-b352-4540-b358-db94ebbded96@812c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 495\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nASD CERNUSCO FIELD HOCKEY - HC GRANTORTO
@@ -31,7 +23,15 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20270529T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10 - ASD CERNUSCO FIELD HOCKEY - HC GRANTORTO
-UID:8acfe27d-f5c9-4b56-ad5c-0afeed6f65b8@8acf.org
+UID:2f829033-42a7-4831-ba5d-1f9a9cc01145@2f82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3\nGara 472\nComunale Valverde - Via Seminara\, 28 Valverde\nVALVERDE HOCKEY 2018 - ASD CERNUSCO FIELD HOCKEY
+GEO:37.573746;15.121129
+LOCATION:Via Seminara\, Portiere\, Fontana-Casalrosato\, Maugeri\, Valverde\, Catania\, Sicilia\, 95028\, Italia
+DTSTART:20270320T140000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3 - VALVERDE HOCKEY 2018 - ASD CERNUSCO FIELD HOCKEY
+UID:2ea76b15-bd31-458f-b71a-b8ec4ab0779a@2ea7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 1\nGara 468\nCampo Sportivo Augusto Briano - Via Santuario\, snc Savona\nHC SAVONA - ASD CERNUSCO FIELD HOCKEY
@@ -39,31 +39,7 @@ GEO:44.323086;8.464578
 LOCATION:Via Santuario\, Lavagnola\, Savona\, Liguria\, 17100\, Italia
 DTSTART:20270306T140000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 1 - HC SAVONA - ASD CERNUSCO FIELD HOCKEY
-UID:697dc5b1-b815-403a-8432-48361a648c7e@697d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7\nGara 486\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - ASD CERNUSCO FIELD HOCKEY
-GEO:42.043231;13.437583
-LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
-DTSTART:20270501T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7 - AZ HOCKEY TEAM - ASD CERNUSCO FIELD HOCKEY
-UID:452885b0-14b3-42fa-91c2-1ab055e945d0@4528.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 492\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA HOCKEY 1980 - ASD CERNUSCO FIELD HOCKEY
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20270522T120000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9 - GENOVA HOCKEY 1980 - ASD CERNUSCO FIELD HOCKEY
-UID:3935ef41-d2dd-47ca-85e9-c24662a241aa@3935.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6\nGara 483\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nASD CERNUSCO FIELD HOCKEY - HC SAVONA
-GEO:45.531133;9.343345
-LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
-DTSTART:20270424T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6 - ASD CERNUSCO FIELD HOCKEY - HC SAVONA
-UID:9f66c9a3-38a8-4622-a2bd-7807e57825b0@9f66.org
+UID:600597ff-b29d-45ab-87ad-39fb2fa91fce@6005.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 4\nGara 477\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nASD CERNUSCO FIELD HOCKEY - GENOVA HOCKEY 1980
@@ -71,7 +47,31 @@ GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20270403T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 4 - ASD CERNUSCO FIELD HOCKEY - GENOVA HOCKEY 1980
-UID:ab142ef9-9dfa-43c3-bb6a-765a913998d5@ab14.org
+UID:db19c0de-7405-4b71-ba6f-ee025c88b521@db19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 492\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA HOCKEY 1980 - ASD CERNUSCO FIELD HOCKEY
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20270522T120000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9 - GENOVA HOCKEY 1980 - ASD CERNUSCO FIELD HOCKEY
+UID:8abe7e95-5659-493e-bdd3-2667b87fe07d@8abe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6\nGara 483\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nASD CERNUSCO FIELD HOCKEY - HC SAVONA
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20270424T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6 - ASD CERNUSCO FIELD HOCKEY - HC SAVONA
+UID:c7842b53-31cf-469c-97c4-45e6c9a5bd28@c784.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 471\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nASD CERNUSCO FIELD HOCKEY - AZ HOCKEY TEAM
+GEO:45.531133;9.343345
+LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
+DTSTART:20270313T140000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2 - ASD CERNUSCO FIELD HOCKEY - AZ HOCKEY TEAM
+UID:9dd2e678-76d8-45dd-b4c7-eed04c435202@9dd2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 480\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - ASD CERNUSCO FIELD HOCKEY
@@ -79,6 +79,6 @@ GEO:45.601581;11.733989
 LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
 DTSTART:20270410T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5 - HC GRANTORTO - ASD CERNUSCO FIELD HOCKEY
-UID:6be0dd43-3753-4d27-af58-95748564fa7c@6be0.org
+UID:e19fbcf0-d553-4e3e-b758-7a7a910f55cf@e19f.org
 END:VEVENT
 END:VCALENDAR

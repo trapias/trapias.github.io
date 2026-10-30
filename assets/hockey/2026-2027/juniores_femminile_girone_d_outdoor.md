@@ -2,7 +2,7 @@
 
 # Juniores Femminile - OUTDOOR  - Girone D / Giornata 1
 
-## Sab 28/11/2026 15.00
+## Dom 29/11/2026 15.30
 
 <strong>S.G. AMSICORA ASD - POLISPORTIVA GALATEA ASD</strong>
 

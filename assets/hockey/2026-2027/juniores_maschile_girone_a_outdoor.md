@@ -89,7 +89,7 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
 <!-- VALCHISONE_START -->
-## Dom 01/11/2026 17.00 ⭐
+## Dom 01/11/2026 15.00 ⭐
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HOCKEY SU PRATO VALCHISONE</strong>
 

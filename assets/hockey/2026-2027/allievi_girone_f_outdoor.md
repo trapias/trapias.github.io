@@ -6,6 +6,8 @@
 
 <strong>A.S.D. POLISPORTIVA  JUVENILIA - S.G. AMSICORA ASD</strong>
 
+**Risultato: 13-1**
+
 Gara: 1059
 
 Campo: Comunale Uras 

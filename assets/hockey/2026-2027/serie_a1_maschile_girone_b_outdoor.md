@@ -362,7 +362,7 @@ Location: Moncalvo, Asti, Piemonte, 14036, Italia
 Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 
-## Sab 14/11/2026 15.00
+## Sab 14/11/2026 14.00
 
 <strong>ASD H.C. VILLAFRANCA - SUPERBA</strong>
 

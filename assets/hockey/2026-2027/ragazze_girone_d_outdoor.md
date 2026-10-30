@@ -2,18 +2,18 @@
 
 # Ragazze - OUTDOOR  - Girone D / Giornata 1
 
-## Sab 31/10/2026 15.00
+## Sab 31/10/2026 11.30
 
 <strong>H.POTENZA PICENA - HOCKEY CLUB TIBERINA A.S.D.</strong>
 
 Gara: 612
 
-Campo: STADIO HOCKEY POTENZA PICENA 
+Campo: BAGLIANO 
 
-Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
+Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
 
-Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
-Geo: Geo(latitude=43.3863999, longitude=13.6546703)
+Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
+Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 
 ## Mer 07/04/2027 18.30

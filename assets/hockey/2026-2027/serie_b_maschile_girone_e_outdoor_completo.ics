@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - Girone E / Giornata 3\nGara 1044\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nS.G. AMSICORA ASD - ASS ASD AMATORI HOCKEY
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20270110T100000Z
+SUMMARY:Serie B Maschile - Girone E / Giornata 3 - S.G. AMSICORA ASD - ASS ASD AMATORI HOCKEY
+UID:bba19f80-8be6-41f7-a2a9-298cb9c18e34@bba1.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - Girone E / Giornata 4\nGara 1047\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI CAGLIARI - MENHIR H.C.
 GEO:39.235186;9.139409
 LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
 DTSTART:20270116T140000Z
 SUMMARY:Serie B Maschile - Girone E / Giornata 4 - POLISPORTIVA FERRINI CAGLIARI - MENHIR H.C.
-UID:189c4d6c-1abe-4f30-8b1c-e27ce476e3ec@189c.org
+UID:957f0388-8cf8-4b7b-a521-259048a7403a@957f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - Girone E / Giornata 1\nGara 1040\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA  JUVENILIA RIS. - MENHIR H.C.
@@ -15,15 +23,7 @@ GEO:39.694117;8.702129
 LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
 DTSTART:20261115T100000Z
 SUMMARY:Serie B Maschile - Girone E / Giornata 1 - A.S.D. POLISPORTIVA  JUVENILIA RIS. - MENHIR H.C.
-UID:b80598e7-7e32-4400-8c94-872fea4e70fb@b805.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Girone E / Giornata 2\nGara 1042\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI CAGLIARI - CUS CAGLIARI
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20261129T100000Z
-SUMMARY:Serie B Maschile - Girone E / Giornata 2 - POLISPORTIVA FERRINI CAGLIARI - CUS CAGLIARI
-UID:6769e35f-7451-414e-a595-655ffb3f333e@6769.org
+UID:10dec9e6-047e-4883-874e-93fea73fc735@10de.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - Girone E / Giornata 4\nGara 1049\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nASS ASD AMATORI HOCKEY - A.S.D. POLISPORTIVA  JUVENILIA RIS.
@@ -31,55 +31,7 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20270307T100000Z
 SUMMARY:Serie B Maschile - Girone E / Giornata 4 - ASS ASD AMATORI HOCKEY - A.S.D. POLISPORTIVA  JUVENILIA RIS.
-UID:0defd676-0fea-4e9c-ae90-fba469b8e79c@0def.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Girone E / Giornata 1\nGara 1038\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI CAGLIARI - S.G. AMSICORA ASD
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20261111T183000Z
-SUMMARY:Serie B Maschile - Girone E / Giornata 1 - POLISPORTIVA FERRINI CAGLIARI - S.G. AMSICORA ASD
-UID:301fa47f-4200-4c87-bca2-e95f6bde7000@301f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Girone E / Giornata 3\nGara 1045\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nMENHIR H.C. - CUS CAGLIARI
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20270110T083000Z
-SUMMARY:Serie B Maschile - Girone E / Giornata 3 - MENHIR H.C. - CUS CAGLIARI
-UID:73fdd260-fc80-40e3-a6ed-daedce1f5cc4@73fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Girone E / Giornata 3\nGara 1044\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nS.G. AMSICORA ASD - ASS ASD AMATORI HOCKEY
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20270110T100000Z
-SUMMARY:Serie B Maschile - Girone E / Giornata 3 - S.G. AMSICORA ASD - ASS ASD AMATORI HOCKEY
-UID:ef9a78e2-ad2b-4b0e-9b5a-4ec81bfc1d9f@ef9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Girone E / Giornata 3\nGara 1046\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI CAGLIARI - A.S.D. POLISPORTIVA  JUVENILIA RIS.
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20270110T100000Z
-SUMMARY:Serie B Maschile - Girone E / Giornata 3 - POLISPORTIVA FERRINI CAGLIARI - A.S.D. POLISPORTIVA  JUVENILIA RIS.
-UID:6c15943d-5759-4e9d-8727-0b95a94ff6d0@6c15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Girone E / Giornata 5\nGara 1051\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI CAGLIARI - ASS ASD AMATORI HOCKEY
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20270131T100000Z
-SUMMARY:Serie B Maschile - Girone E / Giornata 5 - POLISPORTIVA FERRINI CAGLIARI - ASS ASD AMATORI HOCKEY
-UID:5f6a3a54-7517-47fb-a40b-0ea65d0e4f08@5f6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Girone E / Giornata 5\nGara 1052\nComunale Uras - VIA S. EMILIANO\, snc Uras\nCUS CAGLIARI - A.S.D. POLISPORTIVA  JUVENILIA RIS.
-GEO:39.694117;8.702129
-LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
-DTSTART:20270131T100000Z
-SUMMARY:Serie B Maschile - Girone E / Giornata 5 - CUS CAGLIARI - A.S.D. POLISPORTIVA  JUVENILIA RIS.
-UID:72c1cc72-51c6-44ba-9201-d2e350cef5f4@72c1.org
+UID:84a13ce8-f54b-41e0-b803-5bd0e2902dd1@84a1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - Girone E / Giornata 2\nGara 1043\nComunale Uras - VIA S. EMILIANO\, snc Uras\nA.S.D. POLISPORTIVA  JUVENILIA RIS. - S.G. AMSICORA ASD
@@ -87,31 +39,15 @@ GEO:39.694117;8.702129
 LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
 DTSTART:20261129T100000Z
 SUMMARY:Serie B Maschile - Girone E / Giornata 2 - A.S.D. POLISPORTIVA  JUVENILIA RIS. - S.G. AMSICORA ASD
-UID:5ac5027d-d479-4b4c-a2b2-60d1e6f75190@5ac5.org
+UID:1b0c946d-a18c-4a29-a5bb-ad80e13befc9@1b0c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Girone E / Giornata 4\nGara 1048\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nS.G. AMSICORA ASD - CUS CAGLIARI
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20270123T140000Z
-SUMMARY:Serie B Maschile - Girone E / Giornata 4 - S.G. AMSICORA ASD - CUS CAGLIARI
-UID:138a8c03-f677-4cc1-8710-ed9ecff2659f@138a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Girone E / Giornata 5\nGara 1050\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nS.G. AMSICORA ASD - MENHIR H.C.
-GEO:39.204954;9.140168
-LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
-DTSTART:20270131T100000Z
-SUMMARY:Serie B Maschile - Girone E / Giornata 5 - S.G. AMSICORA ASD - MENHIR H.C.
-UID:b9193d19-bbf8-4c69-84a5-9458444d3228@b919.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - Girone E / Giornata 2\nGara 1041\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nMENHIR H.C. - ASS ASD AMATORI HOCKEY
+DESCRIPTION:Serie B Maschile - Girone E / Giornata 5\nGara 1051\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI CAGLIARI - ASS ASD AMATORI HOCKEY
 GEO:39.235186;9.139409
 LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20261128T140000Z
-SUMMARY:Serie B Maschile - Girone E / Giornata 2 - MENHIR H.C. - ASS ASD AMATORI HOCKEY
-UID:55dea966-392b-4a5e-a184-5bf63f482798@55de.org
+DTSTART:20270131T100000Z
+SUMMARY:Serie B Maschile - Girone E / Giornata 5 - POLISPORTIVA FERRINI CAGLIARI - ASS ASD AMATORI HOCKEY
+UID:0341b942-2bff-4df7-8455-ea6957256aa8@0341.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - Girone E / Giornata 1\nGara 1039\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nASS ASD AMATORI HOCKEY - CUS CAGLIARI
@@ -119,6 +55,70 @@ GEO:39.204954;9.140168
 LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
 DTSTART:20261115T100000Z
 SUMMARY:Serie B Maschile - Girone E / Giornata 1 - ASS ASD AMATORI HOCKEY - CUS CAGLIARI
-UID:ea88578c-089b-4d67-af3a-28f031c81eb1@ea88.org
+UID:2370b6ad-1455-4ff1-be45-bfa9491891a2@2370.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - Girone E / Giornata 2\nGara 1041\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nMENHIR H.C. - ASS ASD AMATORI HOCKEY
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20261128T140000Z
+SUMMARY:Serie B Maschile - Girone E / Giornata 2 - MENHIR H.C. - ASS ASD AMATORI HOCKEY
+UID:d13553f9-2107-45d3-b36c-4088f18e9dc2@d135.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - Girone E / Giornata 5\nGara 1052\nComunale Uras - VIA S. EMILIANO\, snc Uras\nCUS CAGLIARI - A.S.D. POLISPORTIVA  JUVENILIA RIS.
+GEO:39.694117;8.702129
+LOCATION:Via San Emiliano\, Uras\, Aristanis/Oristano\, Sardigna/Sardegna\, 09099\, Italia
+DTSTART:20270131T100000Z
+SUMMARY:Serie B Maschile - Girone E / Giornata 5 - CUS CAGLIARI - A.S.D. POLISPORTIVA  JUVENILIA RIS.
+UID:9bb2480b-a4eb-45db-9a3a-d930046a5b88@9bb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - Girone E / Giornata 2\nGara 1042\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI CAGLIARI - CUS CAGLIARI
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20261129T100000Z
+SUMMARY:Serie B Maschile - Girone E / Giornata 2 - POLISPORTIVA FERRINI CAGLIARI - CUS CAGLIARI
+UID:bf50ed09-1d0a-46e3-b539-352a57c715ac@bf50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - Girone E / Giornata 1\nGara 1038\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI CAGLIARI - S.G. AMSICORA ASD
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20261111T183000Z
+SUMMARY:Serie B Maschile - Girone E / Giornata 1 - POLISPORTIVA FERRINI CAGLIARI - S.G. AMSICORA ASD
+UID:ec06403b-7e2d-468e-b966-28c6d7dbb62f@ec06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - Girone E / Giornata 3\nGara 1045\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nMENHIR H.C. - CUS CAGLIARI
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20270110T083000Z
+SUMMARY:Serie B Maschile - Girone E / Giornata 3 - MENHIR H.C. - CUS CAGLIARI
+UID:6e2f182e-574e-4340-b2c5-2c2269d3de71@6e2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - Girone E / Giornata 3\nGara 1046\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI CAGLIARI - A.S.D. POLISPORTIVA  JUVENILIA RIS.
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20270110T100000Z
+SUMMARY:Serie B Maschile - Girone E / Giornata 3 - POLISPORTIVA FERRINI CAGLIARI - A.S.D. POLISPORTIVA  JUVENILIA RIS.
+UID:b13acbcf-715f-45d6-ad01-49b90c73697b@b13a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - Girone E / Giornata 4\nGara 1048\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nS.G. AMSICORA ASD - CUS CAGLIARI
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20270123T140000Z
+SUMMARY:Serie B Maschile - Girone E / Giornata 4 - S.G. AMSICORA ASD - CUS CAGLIARI
+UID:d5cb0676-3b9b-4798-83e0-f97265066e0d@d5cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - Girone E / Giornata 5\nGara 1050\nAMSICORA - VIA DEI SALINIERI\, 1\, 23 CAGLIARI\nS.G. AMSICORA ASD - MENHIR H.C.
+GEO:39.204954;9.140168
+LOCATION:1\, Via dei Salinieri\, Monte Mixi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09126\, Italia
+DTSTART:20270131T100000Z
+SUMMARY:Serie B Maschile - Girone E / Giornata 5 - S.G. AMSICORA ASD - MENHIR H.C.
+UID:4b125a16-4912-43d9-a102-7ea1aba69e3a@4b12.org
 END:VEVENT
 END:VCALENDAR
