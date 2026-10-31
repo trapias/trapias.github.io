@@ -41,12 +41,12 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 Gara: 974
 
-Campo: BAGLIANO 
+Campo: STADIO HOCKEY POTENZA PICENA 
 
-Indirizzo Campo:  STRADA PROVINCIALE 72, 25 - MOGLIANO
+Indirizzo Campo:  CONTRADA SAN GIRIO, SNC - Potenza Picena
 
-Location: Strada Provinciale 72 Mogliano - Fiume, Piani d'Ete, Mogliano, Macerata, Marche, 63834, Italia
-Geo: Geo(latitude=43.1726147, longitude=13.4873422)
+Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
+Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
 ## Sab 31/10/2026 15.00
