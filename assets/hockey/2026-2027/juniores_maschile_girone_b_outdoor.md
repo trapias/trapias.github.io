@@ -123,6 +123,8 @@ Location:  Tosoni - Via A. Porta, snc Villafranca di Verona
 
 <strong>CUS PADOVA ASD - HOCKEY TEAM BOLOGNA</strong>
 
+**Risultato: 1-0**
+
 Gara: 363
 
 Campo: Impianti L. Merigliano 

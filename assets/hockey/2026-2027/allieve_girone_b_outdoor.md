@@ -22,6 +22,8 @@ Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 <strong>CUS PADOVA ASD - ASD ADIGE UHC</strong>
 
+**Risultato: 1-8**
+
 Gara: 883
 
 Campo: Impianti L. Merigliano 

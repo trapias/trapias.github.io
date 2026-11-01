@@ -59,7 +59,7 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
 
-## Ven 06/11/2026 18.00
+## Ven 20/11/2026 18.00
 
 <strong>CUS TORINO - USD MONCALVESE HOCKEY</strong>
 

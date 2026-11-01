@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone C / Giornata 3\nGara 301\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - ASD GENOVA HOCKEY CLUB
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20270207T100000Z
-SUMMARY:Allievi  - Girone C / Giornata 3 - CUS PISA ASD - ASD GENOVA HOCKEY CLUB
-UID:cca6df64-ad05-4e52-be2c-6bd8d2ed8615@cca6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone C / Giornata 2\nGara 300\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nBAD LAKE - CUS PISA ASD
+DESCRIPTION:Allievi  - Girone C / Giornata 2\nGara 297\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nGENOVA HOCKEY 1980 - CUS PISA ASD
 GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20270131T150000Z
-SUMMARY:Allievi  - Girone C / Giornata 2 - BAD LAKE - CUS PISA ASD
-UID:78664602-32c2-416f-baac-efc7d0541d30@7866.org
+DTSTART:20270131T110000Z
+SUMMARY:Allievi  - Girone C / Giornata 2 - GENOVA HOCKEY 1980 - CUS PISA ASD
+UID:282107c6-e193-48e1-95f7-ba63ae24f852@2821.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone C / Giornata 1\nGara 294\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nASD GENOVA HOCKEY CLUB - CUS PISA ASD
@@ -23,7 +15,15 @@ GEO:43.944387;10.929450
 LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
 DTSTART:20270117T140000Z
 SUMMARY:Allievi  - Girone C / Giornata 1 - ASD GENOVA HOCKEY CLUB - CUS PISA ASD
-UID:5315ae1b-bbe6-41ec-8f3c-9d8988516d10@5315.org
+UID:866a592b-6171-472c-8449-3c4c20fb3281@866a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone C / Giornata 2\nGara 300\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nBAD LAKE - CUS PISA ASD
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20270131T150000Z
+SUMMARY:Allievi  - Girone C / Giornata 2 - BAD LAKE - CUS PISA ASD
+UID:3d0b05eb-733c-4212-b166-5831cc787464@3d0b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone C / Giornata 1\nGara 293\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nCUS PISA ASD - BAD LAKE
@@ -31,15 +31,7 @@ GEO:43.944387;10.929450
 LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
 DTSTART:20270117T110000Z
 SUMMARY:Allievi  - Girone C / Giornata 1 - CUS PISA ASD - BAD LAKE
-UID:c1842855-d4c9-41d2-9e12-73a1d273c2cc@c184.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone C / Giornata 2\nGara 297\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nGENOVA HOCKEY 1980 - CUS PISA ASD
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20270131T110000Z
-SUMMARY:Allievi  - Girone C / Giornata 2 - GENOVA HOCKEY 1980 - CUS PISA ASD
-UID:4ef8fdf0-522a-4ed4-a8fe-d7d232a05d77@4ef8.org
+UID:47a7bfe8-e094-425f-a6e4-a466ed12d7ed@47a7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone C / Giornata 3\nGara 303\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - GENOVA HOCKEY 1980
@@ -47,6 +39,14 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20270207T130000Z
 SUMMARY:Allievi  - Girone C / Giornata 3 - CUS PISA ASD - GENOVA HOCKEY 1980
-UID:4e4aa0df-5a76-42f0-8f08-35d57ea0efa5@4e4a.org
+UID:e9b484a5-bd38-4848-ab60-ca12088b361f@e9b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone C / Giornata 3\nGara 301\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - ASD GENOVA HOCKEY CLUB
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20270207T100000Z
+SUMMARY:Allievi  - Girone C / Giornata 3 - CUS PISA ASD - ASD GENOVA HOCKEY CLUB
+UID:a3c1df6c-04d4-4366-9ae0-472c8681e033@a3c1.org
 END:VEVENT
 END:VCALENDAR

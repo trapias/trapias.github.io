@@ -6,6 +6,8 @@
 
 <strong>H.POTENZA PICENA - HOCKEY CLUB TIBERINA A.S.D.</strong>
 
+**Risultato: 1-3**
+
 Gara: 612
 
 Campo: STADIO HOCKEY POTENZA PICENA 

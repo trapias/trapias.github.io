@@ -9,12 +9,12 @@
 
 Gara: 113
 
-Campo: PALAZZETTO SPORT PINASCA 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: Pinasca, Torino, Piemonte, Italia
-Geo: Geo(latitude=44.94264, longitude=7.229115)
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 <!-- VALCHISONE_END -->
 
 
@@ -29,12 +29,12 @@ Geo: Geo(latitude=44.94264, longitude=7.229115)
 
 Gara: 114
 
-Campo: PALAZZETTO SPORT PINASCA 
+Campo: PALESTRA TORRAZZA 
 
-Indirizzo Campo:  STRADA PROVINCIALE 23 DEL COLLE DEL SESTRIERE, 51 - Pinasca
+Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
-Location: Pinasca, Torino, Piemonte, Italia
-Geo: Geo(latitude=44.94264, longitude=7.229115)
+Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
+Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 <!-- VALCHISONE_END -->
 
 

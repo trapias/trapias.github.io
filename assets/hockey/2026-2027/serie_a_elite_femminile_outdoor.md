@@ -357,6 +357,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>LAZIO HOCKEY - HOCKEY CLUB TIBERINA A.S.D.</strong>
 
+**Risultato: 6-0**
+
 Gara: 112
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
@@ -371,6 +373,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>BUTTERFLY ROMA H.C.C. - H.POTENZA PICENA</strong>
 
+**Risultato: 2-3**
+
 Gara: 113
 
 Campo: CENTRO GIULIO ONESTI 
@@ -384,6 +388,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 ## Dom 01/11/2026 11.00
 
 <strong>MILANO HOCKEY PRATO - POLISPORTIVA FERRINI CAGLIARI</strong>
+
+**Risultato: 1-0**
 
 Gara: 114
 

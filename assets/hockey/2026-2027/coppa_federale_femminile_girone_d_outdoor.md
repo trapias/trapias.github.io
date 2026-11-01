@@ -101,6 +101,8 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - CUS PISA ASD</strong>
 
+**Risultato: 6-4**
+
 Gara: 334
 
 Campo: CP BARCA 

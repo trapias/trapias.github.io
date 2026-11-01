@@ -99,6 +99,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>CUS TORINO - H.C. GENOVA</strong>
 
+**Risultato: 10-0**
+
 Gara: 316
 
 Campo: Tazzoli 

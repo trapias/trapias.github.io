@@ -61,7 +61,7 @@ Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 
 # Serie A1 Femminile - Indoor  - Girone C / Giornata 2
 
-## Sab 26/12/2026 11.00
+## Sab 02/01/2027 11.00
 
 <strong>ASD GENOVA HOCKEY CLUB - HF GENOVA 1980</strong>
 
@@ -75,7 +75,7 @@ Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146
 Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 
-## Sab 26/12/2026 12.00
+## Sab 02/01/2027 12.00
 
 <strong>CUS PISA ASD - ASD SUPERBA HC</strong>
 
@@ -89,7 +89,7 @@ Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146
 Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 
-## Sab 26/12/2026 15.00
+## Sab 02/01/2027 15.00
 
 <strong>HF GENOVA 1980 - CUS PISA ASD</strong>
 
@@ -103,7 +103,7 @@ Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146
 Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 
-## Sab 26/12/2026 16.00
+## Sab 02/01/2027 16.00
 
 <strong>ASD GENOVA HOCKEY CLUB - ASD SUPERBA HC</strong>
 

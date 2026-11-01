@@ -111,6 +111,8 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 <strong>SUPERBA - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 
+**Risultato: 11-4**
+
 Gara: 322
 
 Campo: CAMPO G.ARNALDI 

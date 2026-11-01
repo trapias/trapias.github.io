@@ -101,6 +101,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 <strong>HOCKEY CLUB RIVA - HOCKEY CLUB BONDENO</strong>
 
+**Risultato: 1-1**
+
 Gara: 328
 
 Campo: Comunale Mori 

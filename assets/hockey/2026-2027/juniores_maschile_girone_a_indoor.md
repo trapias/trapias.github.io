@@ -149,10 +149,9 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 
 
-<!-- VALCHISONE_START -->
-## Sab 09/01/2027 14.00 ⭐
+## Sab 09/01/2027 14.00
 
-<strong>SCUOLA HOCKEY INDER SINGH - HOCKEY SU PRATO VALCHISONE</strong>
+<strong>USD MONCALVESE HOCKEY - SCUOLA HOCKEY INDER SINGH</strong>
 
 Gara: 222
 
@@ -162,8 +161,6 @@ Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
-<!-- VALCHISONE_END -->
-
 
 
 <!-- VALCHISONE_START -->

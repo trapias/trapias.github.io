@@ -52,7 +52,7 @@ Geo: Geo(latitude=44.6990294, longitude=7.8420903)
 
 ## Dom 06/12/2026 14.00
 
-<strong>CUS TORINO - HF GENOVA 1980</strong>
+<strong>ASD GENOVA HOCKEY CLUB - HF GENOVA 1980</strong>
 
 Gara: 139
 
@@ -140,10 +140,9 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 
 
-<!-- VALCHISONE_START -->
-## Dom 13/12/2026 19.00 ⭐
+## Dom 13/12/2026 19.00
 
-<strong>HOCKEY PRATO VALCHISONE FEMMINILE - CUS TORINO</strong>
+<strong>ASD SUPERBA HC - CUS TORINO</strong>
 
 Gara: 145
 
@@ -153,16 +152,15 @@ Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
-<!-- VALCHISONE_END -->
-
 
 
 
 # Juniores Femminile  - Girone A / Giornata 3
 
-## Dom 17/01/2027 10.00
+<!-- VALCHISONE_START -->
+## Dom 17/01/2027 10.00 ⭐
 
-<strong>ASD SUPERBA HC - CUS TORINO</strong>
+<strong>HOCKEY PRATO VALCHISONE FEMMINILE - CUS TORINO</strong>
 
 Gara: 146
 
@@ -172,6 +170,8 @@ Indirizzo Campo:  VIA TORRAZZA PIEMONTE, 14 - TORINO
 
 Location: 14, Via Torrazza Piemonte, Basse di Mirafiori, Circoscrizione 2, Torino, Piemonte, 10127, Italia
 Geo: Geo(latitude=45.0165862, longitude=7.6565345)
+<!-- VALCHISONE_END -->
+
 
 
 ## Dom 17/01/2027 11.00

@@ -134,6 +134,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>USD MONCALVESE HOCKEY - ASD HF LORENZONI</strong>
 
+**Risultato: 0-13**
+
 Gara: 843
 
 Campo: UMBERTO MICCO 
@@ -147,6 +149,8 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 ## Dom 01/11/2026 14.00
 
 <strong>USD MONCALVESE HOCKEY - ASD HF LORENZONI RIS.</strong>
+
+**Risultato: 11-1**
 
 Gara: 844
 

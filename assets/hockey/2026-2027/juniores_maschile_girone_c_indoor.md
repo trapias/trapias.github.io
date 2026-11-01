@@ -46,7 +46,7 @@ Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 
 ## Dom 06/12/2026 14.00
 
-<strong>CUS PISA ASD - ASD GENOVA HOCKEY CLUB</strong>
+<strong>HC SAVONA - BAD LAKE</strong>
 
 Gara: 154
 
@@ -60,7 +60,7 @@ Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 
 ## Dom 06/12/2026 15.00
 
-<strong>HC SAVONA - BAD LAKE</strong>
+<strong>CUS PISA ASD - ASD GENOVA HOCKEY CLUB</strong>
 
 Gara: 155
 
@@ -148,7 +148,7 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 # Juniores Maschile  - Girone C / Giornata 3
 
-## Sab 26/12/2026 09.00
+## Sab 02/01/2027 09.00
 
 <strong>GENOVA HOCKEY 1980 - HC SAVONA</strong>
 
@@ -162,7 +162,7 @@ Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146
 Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 
-## Sab 26/12/2026 10.00
+## Sab 02/01/2027 10.00
 
 <strong>ASD GENOVA HOCKEY CLUB - BAD LAKE</strong>
 
@@ -176,7 +176,7 @@ Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146
 Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 
-## Sab 26/12/2026 13.00
+## Sab 02/01/2027 13.00
 
 <strong>CUS PISA ASD - GENOVA HOCKEY 1980</strong>
 
@@ -190,7 +190,7 @@ Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146
 Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 
-## Sab 26/12/2026 14.00
+## Sab 02/01/2027 14.00
 
 <strong>BAD LAKE - HC SAVONA</strong>
 
@@ -204,7 +204,7 @@ Location: Viale Francesco Gambaro, Albaro, Medio Levante, Genova, Liguria, 16146
 Geo: Geo(latitude=44.3991712, longitude=8.9694944)
 
 
-## Sab 26/12/2026 17.00
+## Sab 02/01/2027 17.00
 
 <strong>ASD GENOVA HOCKEY CLUB - CUS PISA ASD</strong>
 
