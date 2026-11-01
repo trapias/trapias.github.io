@@ -341,6 +341,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 <strong>S.G. AMSICORA ASD - ASD HF LORENZONI</strong>
 
+**Risultato: 1-2**
+
 Gara: 111
 
 Campo: AMSICORA 

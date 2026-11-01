@@ -93,6 +93,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>GENOVA H. 1980 ROVESCIO - H.C. BLU</strong>
 
+**Risultato: 0-18**
+
 Gara: 909
 
 Campo: CAMPO G.ARNALDI 
@@ -106,6 +108,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Sab 31/10/2026 10.30
 
 <strong>BAD LAKE - GENOVA H. 1980 DRITTO</strong>
+
+**Risultato: 8-2**
 
 Gara: 910
 

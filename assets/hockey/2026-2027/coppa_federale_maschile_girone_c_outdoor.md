@@ -22,6 +22,8 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>ASD HOCKEY CLUB MOGLIANO - HOCKEY CLUB OLIMPIA</strong>
 
+**Risultato: 13-0**
+
 Gara: 296
 
 Campo: BAGLIANO 

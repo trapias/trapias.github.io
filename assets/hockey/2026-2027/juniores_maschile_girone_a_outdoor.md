@@ -78,6 +78,8 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 <strong>HCU RASSEMBLEMENT TORINO - USD MONCALVESE HOCKEY</strong>
 
+**Risultato: 3-4**
+
 Gara: 744
 
 Campo: Tazzoli 

@@ -146,6 +146,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>CUS GENOVA HOCKEY - HC SAVONA</strong>
 
+**Risultato: 1-3**
+
 Gara: 291
 
 Campo: CAMPO G.ARNALDI 
@@ -159,6 +161,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Sab 31/10/2026 15.00
 
 <strong>H.C. GENOVA - GRUPPO EGS H. PISTOIA</strong>
+
+**Risultato: 2-3**
 
 Gara: 292
 

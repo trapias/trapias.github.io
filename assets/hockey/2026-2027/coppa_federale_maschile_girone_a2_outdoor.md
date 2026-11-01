@@ -181,6 +181,8 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 
 <strong>HC GRANTORTO - HOCKEY CUSCUBE BRESCIA</strong>
 
+**Risultato: 5-1**
+
 Gara: 282
 
 Campo: Grantorto Hockey Stadium 
@@ -194,6 +196,8 @@ Geo: Geo(latitude=45.6015809, longitude=11.7339885)
 ## Sab 31/10/2026 15.00
 
 <strong>A.R.FINCANTIERI ASD - HC GRANTORTO B</strong>
+
+**Risultato: 1-0**
 
 Gara: 349
 
