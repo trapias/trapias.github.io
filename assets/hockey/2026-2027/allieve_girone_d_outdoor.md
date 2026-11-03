@@ -39,6 +39,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>H.POTENZA PICENA - LAZIO HOCKEY</strong>
 
+**Risultato: 3-7**
+
 Gara: 974
 
 Campo: STADIO HOCKEY POTENZA PICENA 
@@ -52,6 +54,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 ## Sab 31/10/2026 15.00
 
 <strong>POLISPORTIVA L'AQUILA HOCKEY - BUTTERFLY ROMA H.C.C.</strong>
+
+**Risultato: 5-3**
 
 Gara: 975
 

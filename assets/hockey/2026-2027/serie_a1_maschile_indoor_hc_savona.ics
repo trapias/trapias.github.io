@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 1\nGara 76\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD SUPERBA HC - HC SAVONA
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20261128T170000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 1 - ASD SUPERBA HC - HC SAVONA
+UID:66d3cd89-8442-430e-aea6-35e8a2026278@66d3.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 95\nPALATORRINO ROMA - VIA FIUME GIALLO\, 47 ROMA\nHC SAVONA - HCU RASSEMBLEMENT TORINO
 GEO:41.809885;12.428105
 LOCATION:Palatorrino\, 47\, Via Fiume Giallo\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20270117T080000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - HC SAVONA - HCU RASSEMBLEMENT TORINO
-UID:fec4cd70-aadf-42c2-bf7b-7a7e70739074@fec4.org
+UID:bdb8a34d-88bd-47bd-aaff-79177cdcce6e@bdb8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 82\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nHC SAVONA - GENOVA HOCKEY 1980
@@ -15,23 +23,7 @@ GEO:45.016586;7.656535
 LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
 DTSTART:20261212T180000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - HC SAVONA - GENOVA HOCKEY 1980
-UID:851dcf71-dab5-4310-b66c-0552697a0baf@851d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 100\nPALATORRINO ROMA - VIA FIUME GIALLO\, 47 ROMA\nGENOVA HOCKEY 1980 - HC SAVONA
-GEO:41.809885;12.428105
-LOCATION:Palatorrino\, 47\, Via Fiume Giallo\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20270117T130000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - GENOVA HOCKEY 1980 - HC SAVONA
-UID:076947cf-f1fa-488e-80ec-15d54b2c39f3@0769.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 1\nGara 76\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD SUPERBA HC - HC SAVONA
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20261128T170000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 1 - ASD SUPERBA HC - HC SAVONA
-UID:8ef53bc9-e12e-4048-aa48-3d6e1964abde@8ef5.org
+UID:961e5b71-8804-47be-a38e-e22d702fa747@961e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 83\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nHCU RASSEMBLEMENT TORINO - HC SAVONA
@@ -39,15 +31,7 @@ GEO:45.016586;7.656535
 LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
 DTSTART:20261213T080000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - HCU RASSEMBLEMENT TORINO - HC SAVONA
-UID:431949ac-a955-4f97-9c92-88b561747b05@4319.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 78\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nHC SAVONA - ASD ADIGE UHC
-GEO:45.016586;7.656535
-LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
-DTSTART:20261212T140000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - HC SAVONA - ASD ADIGE UHC
-UID:15ba3472-0584-4df2-b777-25bf99062539@15ba.org
+UID:261f8979-2d7c-4c48-a047-2f483488301b@261f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 93\nPALATORRINO ROMA - VIA FIUME GIALLO\, 47 ROMA\nHC SAVONA - ASD SUPERBA HC
@@ -55,7 +39,7 @@ GEO:41.809885;12.428105
 LOCATION:Palatorrino\, 47\, Via Fiume Giallo\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20270116T170000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - HC SAVONA - ASD SUPERBA HC
-UID:cedfddcf-e4a3-46fc-9158-f730c3236f7d@cedf.org
+UID:9b666e42-c2a5-4afc-a394-dc9bf6b4f1d2@9b66.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 91\nPALATORRINO ROMA - VIA FIUME GIALLO\, 47 ROMA\nASD ADIGE UHC - HC SAVONA
@@ -63,15 +47,15 @@ GEO:41.809885;12.428105
 LOCATION:Palatorrino\, 47\, Via Fiume Giallo\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20270116T150000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - ASD ADIGE UHC - HC SAVONA
-UID:660378df-6e26-4614-a894-8e4017b659d1@6603.org
+UID:29b1793b-1980-4453-8eb0-d34a104432a2@29b1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 87\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nUTOR HOCKEY CLUB ROMA - HC SAVONA
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 78\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nHC SAVONA - ASD ADIGE UHC
 GEO:45.016586;7.656535
 LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
-DTSTART:20261213T120000Z
-SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - UTOR HOCKEY CLUB ROMA - HC SAVONA
-UID:8ff2f724-889f-4053-82fa-719209ece9e2@8ff2.org
+DTSTART:20261212T140000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - HC SAVONA - ASD ADIGE UHC
+UID:814ae34a-fb42-4de2-8202-5c906211adcb@814a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 1\nGara 73\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHC SAVONA - UTOR HOCKEY CLUB ROMA
@@ -79,6 +63,22 @@ GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
 DTSTART:20261128T140000Z
 SUMMARY:Serie A1 Maschile - Indoor / Giornata 1 - HC SAVONA - UTOR HOCKEY CLUB ROMA
-UID:b003673b-39fb-4dcb-a77f-f48216230537@b003.org
+UID:1f8571c0-6488-467d-bd2d-fffa86bce9c4@1f85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 3\nGara 100\nPALATORRINO ROMA - VIA FIUME GIALLO\, 47 ROMA\nGENOVA HOCKEY 1980 - HC SAVONA
+GEO:41.809885;12.428105
+LOCATION:Palatorrino\, 47\, Via Fiume Giallo\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20270117T130000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 3 - GENOVA HOCKEY 1980 - HC SAVONA
+UID:2c39d4d6-1c72-40db-9e7f-f7aff08da357@2c39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Maschile - Indoor / Giornata 2\nGara 87\nPALESTRA TORRAZZA - VIA TORRAZZA PIEMONTE\, 14 TORINO\nUTOR HOCKEY CLUB ROMA - HC SAVONA
+GEO:45.016586;7.656535
+LOCATION:14\, Via Torrazza Piemonte\, Basse di Mirafiori\, Circoscrizione 2\, Torino\, Piemonte\, 10127\, Italia
+DTSTART:20261213T120000Z
+SUMMARY:Serie A1 Maschile - Indoor / Giornata 2 - UTOR HOCKEY CLUB ROMA - HC SAVONA
+UID:85db865b-3cd2-49b9-8846-1a177fc9425a@85db.org
 END:VEVENT
 END:VCALENDAR

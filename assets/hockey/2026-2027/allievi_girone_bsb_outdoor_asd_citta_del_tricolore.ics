@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 2\nGara 414\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD CITTA' DEL TRICOLORE - CSP SAN GIORGIO\n\nRisultato: 5-2
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20261025T100000Z
-SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 2 - ASD CITTA' DEL TRICOLORE - CSP SAN GIORGIO
-UID:afe20410-20ca-43e3-8f67-d61c1a8ac04d@afe2.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 5\nGara 420\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - ASD CITTA' DEL TRICOLORE
 GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20270411T090000Z
 SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 5 - CSP SAN GIORGIO - ASD CITTA' DEL TRICOLORE
-UID:a9cd1ab7-6287-4881-b4fc-62c8bdc6dcf7@a9cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 3\nGara 417\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nGRUPPO EGS H. PISTOIA - ASD CITTA' DEL TRICOLORE
-GEO:43.950983;10.829288
-LOCATION:Via per Montagnana\, Montagnana\, Marliana\, Pistoia\, Toscana\, 51130\, Italia
-DTSTART:20261101T100000Z
-SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 3 - GRUPPO EGS H. PISTOIA - ASD CITTA' DEL TRICOLORE
-UID:afb03ac4-49bf-4e1c-9ef4-aaf40a79dbbb@afb0.org
+UID:f19e85ae-f8e9-4a11-82c8-5ec721a7f530@f19e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 4\nGara 419\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - ASD CITTA' DEL TRICOLORE
@@ -31,7 +15,7 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20270321T120000Z
 SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 4 - HOCKEY CLUB BONDENO - ASD CITTA' DEL TRICOLORE
-UID:d67dd39f-ce70-4089-a76b-37a8c82222fc@d67d.org
+UID:e06ba065-57a5-4bbd-a14d-a097d5d3169e@e06b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 6\nGara 423\nBalestri e Gambini - Via Avvenire Paterlini\, 2 Reggio nell'Emilia\nASD CITTA' DEL TRICOLORE - GRUPPO EGS H. PISTOIA
@@ -39,7 +23,23 @@ GEO:44.708258;10.636489
 LOCATION:2a\, Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
 DTSTART:20270425T110000Z
 SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 6 - ASD CITTA' DEL TRICOLORE - GRUPPO EGS H. PISTOIA
-UID:1d7ee484-c0ab-4c7d-b7ac-6d277400d045@1d7e.org
+UID:8d5ff079-b036-4b4b-a80b-39f50e3f59f4@8d5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 3\nGara 417\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nGRUPPO EGS H. PISTOIA - ASD CITTA' DEL TRICOLORE
+GEO:43.950983;10.829288
+LOCATION:Via per Montagnana\, Montagnana\, Marliana\, Pistoia\, Toscana\, 51130\, Italia
+DTSTART:20261101T100000Z
+SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 3 - GRUPPO EGS H. PISTOIA - ASD CITTA' DEL TRICOLORE
+UID:2a4e469c-47b1-45c9-89e1-041882752e42@2a4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 2\nGara 414\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD CITTA' DEL TRICOLORE - CSP SAN GIORGIO\n\nRisultato: 5-2
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20261025T100000Z
+SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 2 - ASD CITTA' DEL TRICOLORE - CSP SAN GIORGIO
+UID:d1de6356-ac9b-493b-b5bc-b574ec60bb38@d1de.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone BSB / Giornata 1\nGara 413\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nASD CITTA' DEL TRICOLORE - HOCKEY CLUB BONDENO\n\nRisultato: 0-25
@@ -47,6 +47,6 @@ GEO:44.494706;11.280302
 LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
 DTSTART:20261018T133000Z
 SUMMARY:Allievi - OUTDOOR  - Girone BSB / Giornata 1 - ASD CITTA' DEL TRICOLORE - HOCKEY CLUB BONDENO
-UID:76485c66-a671-4674-bd8c-a326748b2ac1@7648.org
+UID:dc7f9e57-abe2-4802-bafe-102bbf309a2e@dc7f.org
 END:VEVENT
 END:VCALENDAR

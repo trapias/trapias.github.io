@@ -332,7 +332,7 @@ Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
 Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
-## Sab 07/11/2026 15.00
+## Sab 07/11/2026 14.00
 
 <strong>ASD H.C. VILLAFRANCA - USD MONCALVESE HOCKEY</strong>
 

@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 1\nGara 593\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - AZ HOCKEY TEAM\n\nRisultato: 10-0
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20261003T150000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 1 - LAZIO HOCKEY - AZ HOCKEY TEAM
-UID:1078fef6-e4dc-4611-8e21-2b3f2c9db081@1078.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 10\nGara 611\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - H.POTENZA PICENA
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20270508T150000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 10 - LAZIO HOCKEY - H.POTENZA PICENA
-UID:2b26b0b4-665a-4779-8eea-25328ef77364@2b26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 6\nGara 603\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - LAZIO HOCKEY
-GEO:42.043231;13.437583
-LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
-DTSTART:20270306T160000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 6 - AZ HOCKEY TEAM - LAZIO HOCKEY
-UID:3ec9e94b-8ab1-44fd-a2f8-2fa5ed356850@3ec9.org
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 5\nGara 601\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - LAZIO HOCKEY
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20261121T140000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 5 - H.POTENZA PICENA - LAZIO HOCKEY
+UID:e1c03d3f-3aff-441e-8dba-91dbba472b55@e1c0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 3\nGara 596\nCENTRO GIULIO ONESTI - VIA DEI CAMPI SPORTIVI\, 48 Roma\nBUTTERFLY ROMA H.C.C. - LAZIO HOCKEY\n\nRisultato: 1-2
@@ -31,7 +15,23 @@ GEO:41.932122;12.486847
 LOCATION:Via dei Campi Sportivi\, Parioli\, Municipio Roma II\, Roma\, Roma Capitale\, Lazio\, 00197\, Italia
 DTSTART:20261031T160000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 3 - BUTTERFLY ROMA H.C.C. - LAZIO HOCKEY
-UID:b5d182a8-17a1-4262-896e-338639c5eaf0@b5d1.org
+UID:aac22005-0506-4fbe-ab77-592c948b6f36@aac2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 1\nGara 593\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - AZ HOCKEY TEAM\n\nRisultato: 10-0
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20261003T150000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 1 - LAZIO HOCKEY - AZ HOCKEY TEAM
+UID:e5ae53e8-5d7f-430e-8530-468f8feb2e41@e5ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 6\nGara 603\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - LAZIO HOCKEY
+GEO:42.043231;13.437583
+LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
+DTSTART:20270306T160000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 6 - AZ HOCKEY TEAM - LAZIO HOCKEY
+UID:205caac4-7501-461a-9492-f5f6441eca56@205c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 8\nGara 606\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - BUTTERFLY ROMA H.C.C.
@@ -39,7 +39,7 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20270417T150000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 8 - LAZIO HOCKEY - BUTTERFLY ROMA H.C.C.
-UID:3a337812-94a4-49bb-bfe7-acbd544ba0b0@3a33.org
+UID:ecbc881a-6eaa-41be-8d14-f7f2dead6aca@ecbc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 9\nGara 608\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nHOCKEY CLUB TIBERINA A.S.D. - LAZIO HOCKEY
@@ -47,15 +47,15 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20270502T100000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 9 - HOCKEY CLUB TIBERINA A.S.D. - LAZIO HOCKEY
-UID:2c8672e6-0a6a-43c1-b7bc-8690a9e17c27@2c86.org
+UID:aa830f57-f698-47ef-9f22-d52b7ec81e71@aa83.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 5\nGara 601\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - LAZIO HOCKEY
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20261121T140000Z
-SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 5 - H.POTENZA PICENA - LAZIO HOCKEY
-UID:8a3f245e-bef2-4c82-991b-1584c094c4fd@8a3f.org
+DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 10\nGara 611\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - H.POTENZA PICENA
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20270508T150000Z
+SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 10 - LAZIO HOCKEY - H.POTENZA PICENA
+UID:afdfa30e-e428-46ee-b153-c65e6c068760@afdf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile - OUTDOOR  - Girone C / Giornata 4\nGara 598\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - HOCKEY CLUB TIBERINA A.S.D.
@@ -63,6 +63,6 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20261125T173000Z
 SUMMARY:Juniores Femminile - OUTDOOR  - Girone C / Giornata 4 - LAZIO HOCKEY - HOCKEY CLUB TIBERINA A.S.D.
-UID:c21eaef4-6952-4b78-8274-2008c65d3241@c21e.org
+UID:0ec4b3e8-b807-40d5-8f67-21d4fd0dfab2@0ec4.org
 END:VEVENT
 END:VCALENDAR

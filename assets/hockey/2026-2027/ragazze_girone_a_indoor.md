@@ -132,9 +132,10 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 # Ragazze  - Girone A / Giornata 3
 
-## Sab 16/01/2027 11.00
+<!-- VALCHISONE_START -->
+## Sab 16/01/2027 11.00 ⭐
 
-<strong>CUS TORINO - HF LORENZONI</strong>
+<strong>CUS TORINO - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 
 Gara: 233
 
@@ -144,12 +145,13 @@ Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6990294, longitude=7.8420903)
+<!-- VALCHISONE_END -->
 
 
-<!-- VALCHISONE_START -->
-## Sab 16/01/2027 12.00 ⭐
 
-<strong>USD MONCALVESE HOCKEY - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
+## Sab 16/01/2027 12.00
+
+<strong>USD MONCALVESE HOCKEY - HF LORENZONI</strong>
 
 Gara: 234
 
@@ -159,14 +161,11 @@ Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6990294, longitude=7.8420903)
-<!-- VALCHISONE_END -->
 
 
+## Sab 16/01/2027 14.00
 
-<!-- VALCHISONE_START -->
-## Sab 16/01/2027 14.00 ⭐
-
-<strong>CUS TORINO - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
+<strong>USD MONCALVESE HOCKEY - CUS TORINO</strong>
 
 Gara: 235
 
@@ -176,13 +175,12 @@ Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6990294, longitude=7.8420903)
-<!-- VALCHISONE_END -->
 
 
+<!-- VALCHISONE_START -->
+## Sab 16/01/2027 15.00 ⭐
 
-## Sab 16/01/2027 15.00
-
-<strong>USD MONCALVESE HOCKEY - HF LORENZONI</strong>
+<strong>HOCKEY PRATO VALCHISONE FEMMINILE - HF LORENZONI</strong>
 
 Gara: 236
 
@@ -192,4 +190,6 @@ Indirizzo Campo:  Viale Risorgimento, 31 - BRA
 
 Location: Viale Risorgimento, Bescurone, Bra, Cuneo, Piemonte, 12042, Italia
 Geo: Geo(latitude=44.6990294, longitude=7.8420903)
+<!-- VALCHISONE_END -->
+
 

@@ -64,7 +64,7 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 # Serie B Maschile - OUTDOOR  - Girone C / Giornata 3
 
-## Dom 11/04/2027 11.00
+## Ven 13/11/2026 20.30
 
 <strong>HOCKEY CLUB EUR A.S.D. - LAZIO HOCKEY</strong>
 

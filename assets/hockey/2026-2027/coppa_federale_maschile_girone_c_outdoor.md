@@ -146,6 +146,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>UTOR HOCKEY CLUB ROMA - AZ HOCKEY TEAM</strong>
 
+**Risultato: 5-2**
+
 Gara: 303
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
@@ -159,6 +161,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 ## Dom 01/11/2026 10.30
 
 <strong>HOCKEY CLUB OLIMPIA - ASD HOCKEY CAMPAGNANO</strong>
+
+**Risultato: 11-2**
 
 Gara: 304
 
