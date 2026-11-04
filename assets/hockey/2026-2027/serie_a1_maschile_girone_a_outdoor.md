@@ -381,7 +381,7 @@ Location: Via Avvenire Paterlini, Tribunale, San Paolo Tribunale, Reggio Emilia,
 Geo: Geo(latitude=44.7082622, longitude=10.6354218)
 
 
-## Sab 14/11/2026 15.00
+## Sab 14/11/2026 11.00
 
 <strong>CUS PISA ASD - CUS CAGLIARI</strong>
 

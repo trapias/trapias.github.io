@@ -2,7 +2,7 @@
 
 # Serie A2 Femminile - OUTDOOR Girone D / Giornata 1
 
-## Dom 08/11/2026 10.00
+## Ven 20/11/2026 19.30
 
 <strong>S.G. AMSICORA ASD - POLISPORTIVA FERRINI CAGLIARI</strong>
 

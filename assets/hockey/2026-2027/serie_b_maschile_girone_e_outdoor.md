@@ -137,7 +137,7 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 # Serie B Maschile - Girone E / Giornata 4
 
-## Sab 16/01/2027 15.00
+## Sab 20/02/2027 15.00
 
 <strong>POLISPORTIVA FERRINI CAGLIARI - MENHIR H.C.</strong>
 
