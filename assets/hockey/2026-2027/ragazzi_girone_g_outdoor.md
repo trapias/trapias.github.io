@@ -2,7 +2,7 @@
 
 # Ragazzi - OUTDOOR  - Girone G / Giornata 1
 
-## Gio 05/11/2026 17.30
+## Gio 05/11/2026 18.00
 
 <strong>POLISPORTIVA FERRINI CAGLIARI - S.G. AMSICORA ASD</strong>
 

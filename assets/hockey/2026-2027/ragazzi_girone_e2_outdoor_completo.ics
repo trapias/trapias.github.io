@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 3\nGara 570\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - AZ HOCKEY TEAM
-GEO:41.838527;12.476376
-LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
-DTSTART:20261115T110000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 3 - LAZIO HOCKEY - AZ HOCKEY TEAM
-UID:000e1bab-94a4-4e41-b60c-9a5a2207cdff@000e.org
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 4\nGara 571\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - TEVERE EUR HOCKEY ASD
+GEO:42.043231;13.437583
+LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
+DTSTART:20270307T130000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 4 - AZ HOCKEY TEAM - TEVERE EUR HOCKEY ASD
+UID:3dbea19d-8f5e-42bf-95c7-49c7fd10dc33@3dbe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 6\nGara 573\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - LAZIO HOCKEY
@@ -15,7 +15,15 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20270411T100000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 6 - AZ HOCKEY TEAM - LAZIO HOCKEY
-UID:2cd07986-19d2-4e7d-a922-90e656de1e2c@2cd0.org
+UID:d8721bbb-5651-4e7a-85ae-25fbb1eaab66@d872.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 3\nGara 570\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - AZ HOCKEY TEAM
+GEO:41.838527;12.476376
+LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
+DTSTART:20261115T110000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 3 - LAZIO HOCKEY - AZ HOCKEY TEAM
+UID:f0fd9eff-c5b3-413b-96ba-e5280d52cf1d@f0fd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 2\nGara 569\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - TEVERE EUR HOCKEY ASD\n\nRisultato: 1-1
@@ -23,15 +31,7 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20261018T100000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 2 - LAZIO HOCKEY - TEVERE EUR HOCKEY ASD
-UID:7cc3c2ba-0148-41f8-80b8-f105c7a03025@7cc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 4\nGara 571\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - TEVERE EUR HOCKEY ASD
-GEO:42.043231;13.437583
-LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
-DTSTART:20270307T130000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 4 - AZ HOCKEY TEAM - TEVERE EUR HOCKEY ASD
-UID:8e583bd3-6d41-45e2-8bf2-de79eb7ec537@8e58.org
+UID:ee338da7-6ebe-4b5b-bde0-522bcf124aa1@ee33.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 1\nGara 568\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR HOCKEY ASD - AZ HOCKEY TEAM
@@ -39,7 +39,7 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20261107T150000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 1 - TEVERE EUR HOCKEY ASD - AZ HOCKEY TEAM
-UID:668de4e8-48b9-43df-b87e-884d1a567f97@668d.org
+UID:60a835a6-3572-4033-add7-ffabec375543@60a8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 5\nGara 572\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR HOCKEY ASD - LAZIO HOCKEY
@@ -47,6 +47,6 @@ GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
 DTSTART:20270321T110000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 5 - TEVERE EUR HOCKEY ASD - LAZIO HOCKEY
-UID:691582f3-bccc-40a8-9c70-70f3662b3203@6915.org
+UID:00ad17e7-effe-4385-8e3e-cf35c2a5a8ac@00ad.org
 END:VEVENT
 END:VCALENDAR

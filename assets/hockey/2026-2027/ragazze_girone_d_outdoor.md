@@ -84,7 +84,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Sab 07/11/2026 17.30
+## Dom 28/02/2027 12.00
 
 <strong>HOCKEY CLUB TIBERINA A.S.D. - AZ HOCKEY TEAM</strong>
 

@@ -2,7 +2,7 @@
 
 # Allieve  - Girone A / Giornata 1
 
-## Dom 10/01/2027 11.00
+## Dom 10/01/2027 10.30
 
 <strong>CUS TORINO - HF LORENZONI</strong>
 
@@ -17,7 +17,7 @@ Geo: Geo(latitude=44.94264, longitude=7.229115)
 
 
 <!-- VALCHISONE_START -->
-## Dom 10/01/2027 12.00 ⭐
+## Dom 10/01/2027 11.30 ⭐
 
 <strong>HOCKEY PRATO VALCHISONE FEMMINILE - HF LORENZONI B</strong>
 
@@ -33,7 +33,7 @@ Geo: Geo(latitude=44.94264, longitude=7.229115)
 
 
 
-## Dom 10/01/2027 14.00
+## Dom 10/01/2027 13.00
 
 <strong>HF LORENZONI B - HF LORENZONI</strong>
 
@@ -48,7 +48,7 @@ Geo: Geo(latitude=44.94264, longitude=7.229115)
 
 
 <!-- VALCHISONE_START -->
-## Dom 10/01/2027 15.00 ⭐
+## Dom 10/01/2027 14.00 ⭐
 
 <strong>CUS TORINO - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 
