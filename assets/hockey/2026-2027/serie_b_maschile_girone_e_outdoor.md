@@ -1,6 +1,6 @@
 
 
-# Serie B Maschile - Girone E / Giornata 1
+# Serie B Maschile - OUTDOOR - Girone E / Giornata 1
 
 ## Mer 11/11/2026 19.30
 
@@ -45,7 +45,7 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
 
-# Serie B Maschile - Girone E / Giornata 2
+# Serie B Maschile - OUTDOOR - Girone E / Giornata 2
 
 ## Sab 28/11/2026 15.00
 
@@ -61,7 +61,7 @@ Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/C
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
-## Dom 29/11/2026 11.00
+## Sab 27/02/2027 15.00
 
 <strong>POLISPORTIVA FERRINI CAGLIARI - CUS CAGLIARI</strong>
 
@@ -90,7 +90,7 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
 
-# Serie B Maschile - Girone E / Giornata 3
+# Serie B Maschile - OUTDOOR - Girone E / Giornata 3
 
 ## Dom 10/01/2027 11.00
 
@@ -135,7 +135,7 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
 
-# Serie B Maschile - Girone E / Giornata 4
+# Serie B Maschile - OUTDOOR - Girone E / Giornata 4
 
 ## Sab 20/02/2027 15.00
 
@@ -180,7 +180,7 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
 
-# Serie B Maschile - Girone E / Giornata 5
+# Serie B Maschile - OUTDOOR - Girone E / Giornata 5
 
 ## Dom 31/01/2027 11.00
 

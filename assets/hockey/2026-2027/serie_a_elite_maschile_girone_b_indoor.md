@@ -151,12 +151,12 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 Gara: 61
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 
 
 ## Sab 16/01/2027 15.30
@@ -165,12 +165,12 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 Gara: 62
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 
 
 ## Sab 16/01/2027 16.30
@@ -179,12 +179,12 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 Gara: 63
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 
 
 ## Sab 16/01/2027 17.30
@@ -193,12 +193,12 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 Gara: 64
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 
 
 ## Sab 16/01/2027 18.30
@@ -207,12 +207,12 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 Gara: 65
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 
 
 ## Dom 17/01/2027 09.00
@@ -221,12 +221,12 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 Gara: 66
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 
 
 ## Dom 17/01/2027 10.00
@@ -235,12 +235,12 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 Gara: 67
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 
 
 ## Dom 17/01/2027 11.00
@@ -249,12 +249,12 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 Gara: 68
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 
 
 ## Dom 17/01/2027 12.00
@@ -263,12 +263,12 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 Gara: 69
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 
 
 ## Dom 17/01/2027 13.00
@@ -277,10 +277,10 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 Gara: 70
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 

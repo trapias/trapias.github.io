@@ -6,6 +6,8 @@
 
 <strong>POLISPORTIVA FERRINI CAGLIARI - S.G. AMSICORA ASD</strong>
 
+**Risultato: 9-1**
+
 Gara: 1055
 
 Campo: A. Maxia 

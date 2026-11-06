@@ -4,7 +4,7 @@
 
 ## Ven 20/11/2026 19.30
 
-<strong>S.G. AMSICORA ASD - POLISPORTIVA FERRINI CAGLIARI</strong>
+<strong>S.G. AMSICORA ASD RIS. - POLISPORTIVA FERRINI CAGLIARI RIS.</strong>
 
 Gara: 1032
 
@@ -35,7 +35,7 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 ## Mer 18/11/2026 19.30
 
-<strong>S.G. AMSICORA ASD - FORTITUDO HOCKEY CAGLIARI</strong>
+<strong>S.G. AMSICORA ASD RIS. - FORTITUDO HOCKEY CAGLIARI</strong>
 
 Gara: 1034
 
@@ -49,7 +49,7 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 ## Dom 22/11/2026 11.00
 
-<strong>CUS CAGLIARI - POLISPORTIVA FERRINI CAGLIARI</strong>
+<strong>CUS CAGLIARI - POLISPORTIVA FERRINI CAGLIARI RIS.</strong>
 
 Gara: 1035
 
@@ -66,7 +66,7 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 ## Dom 28/02/2027 11.00
 
-<strong>CUS CAGLIARI - S.G. AMSICORA ASD</strong>
+<strong>CUS CAGLIARI - S.G. AMSICORA ASD RIS.</strong>
 
 Gara: 1036
 
@@ -80,7 +80,7 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 ## Dom 28/02/2027 11.00
 
-<strong>POLISPORTIVA FERRINI CAGLIARI - FORTITUDO HOCKEY CAGLIARI</strong>
+<strong>POLISPORTIVA FERRINI CAGLIARI RIS. - FORTITUDO HOCKEY CAGLIARI</strong>
 
 Gara: 1037
 

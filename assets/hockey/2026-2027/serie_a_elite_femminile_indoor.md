@@ -262,86 +262,86 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 ## Sab 23/01/2027 14.00
 
-<strong>S.G. AMSICORA ASD - HOCKEY CLUB RIVA</strong>
+<strong>USD MONCALVESE HOCKEY - HOCKEY CLUB RIVA</strong>
 
 Gara: 39
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 
 
 ## Sab 23/01/2027 15.00
 
-<strong>CUS TORINO - HF LORENZONI</strong>
+<strong>CUS TORINO - MILANO HP</strong>
 
 Gara: 40
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 
 
 ## Sab 23/01/2027 16.00
 
-<strong>MILANO HP - USD MONCALVESE HOCKEY</strong>
+<strong>HF LORENZONI - S.G. AMSICORA ASD</strong>
 
 Gara: 41
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 
 
 ## Sab 23/01/2027 17.00
 
-<strong>HF LORENZONI - S.G. AMSICORA ASD</strong>
+<strong>MILANO HP - USD MONCALVESE HOCKEY</strong>
 
 Gara: 42
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 
 
 ## Sab 23/01/2027 18.00
 
-<strong>CUS TORINO - MILANO HP</strong>
+<strong>CUS TORINO - HF LORENZONI</strong>
 
 Gara: 43
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 
 
 ## Sab 23/01/2027 19.00
 
-<strong>USD MONCALVESE HOCKEY - HOCKEY CLUB RIVA</strong>
+<strong>S.G. AMSICORA ASD - HOCKEY CLUB RIVA</strong>
 
 Gara: 44
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 
 
 ## Dom 24/01/2027 09.00
@@ -350,12 +350,12 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 Gara: 45
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 
 
 ## Dom 24/01/2027 10.00
@@ -364,12 +364,12 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 Gara: 46
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 
 
 ## Dom 24/01/2027 11.00
@@ -378,12 +378,12 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 Gara: 47
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 
 
 ## Dom 24/01/2027 12.00
@@ -392,12 +392,12 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 Gara: 48
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 
 
 ## Dom 24/01/2027 13.00
@@ -406,12 +406,12 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 Gara: 49
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 
 
 ## Dom 24/01/2027 14.00
@@ -420,10 +420,10 @@ Geo: Geo(latitude=46.3693051, longitude=11.0326891)
 
 Gara: 50
 
-Campo: POLO SCOLASTICO DI CLES 
+Campo: CENTRO PER LO SPORT 
 
-Indirizzo Campo:  VIA IV NOVEMBRE, 35 - CLES
+Indirizzo Campo:  VIALE DEGASPERI, 163 - CLES
 
-Location: Istituto Tecnico Economico e Tecnologico "C.A. Pilati", 35, Via Quattro Novembre, Pez, Dres, Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38023, Italia
-Geo: Geo(latitude=46.3693051, longitude=11.0326891)
+Location: Cles, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38028, Italia
+Geo: Geo(latitude=46.3359151, longitude=10.9466814)
 

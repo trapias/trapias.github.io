@@ -166,7 +166,7 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
 
-## Sab 14/11/2026 11.00
+## Ven 13/11/2026 17.00
 
 <strong>ASD HF LORENZONI - USD MONCALVESE HOCKEY</strong>
 
