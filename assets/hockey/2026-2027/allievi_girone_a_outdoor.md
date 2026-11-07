@@ -185,6 +185,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>SCUOLA HOCKEY INDER SINGH - HOCKEY SU PRATO VALCHISONE</strong>
 
+**Risultato: 2-5**
+
 Gara: 777
 
 Campo: Augusto Lorenzoni 
@@ -201,6 +203,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 ## Sab 07/11/2026 12.00 ⭐
 
 <strong>SCUOLA HOCKEY INDER SINGH NEXT GEN - HOCKEY SU PRATO VALCHISONE</strong>
+
+**Risultato: 5-4**
 
 Gara: 778
 

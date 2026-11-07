@@ -88,6 +88,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>ASD HOCKEY AVEZZANO 1969 - ASD HOCKEY CLUB ROMA</strong>
 
+**Risultato: 3-6**
+
 Gara: 561
 
 Campo: Campo Sportivo Comunale Hockey Loc. Cretara 

@@ -308,6 +308,8 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 <strong>SUPERBA - CSP SAN GIORGIO</strong>
 
+**Risultato: 5-1**
+
 Gara: 195
 
 Campo: CAMPO G.ARNALDI 
@@ -322,6 +324,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - A.S.D. POLISPORTIVA  JUVENILIA</strong>
 
+**Risultato: 6-2**
+
 Gara: 196
 
 Campo: CENTRO S. COMUNALE 
@@ -335,6 +339,8 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 ## Sab 07/11/2026 14.00
 
 <strong>ASD H.C. VILLAFRANCA - USD MONCALVESE HOCKEY</strong>
+
+**Risultato: 2-3**
 
 Gara: 197
 

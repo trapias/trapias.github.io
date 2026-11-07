@@ -72,6 +72,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>SUPERBA - H.C. GENOVA</strong>
 
+**Risultato: 4-0**
+
 Gara: 934
 
 Campo: CAMPO G.ARNALDI 

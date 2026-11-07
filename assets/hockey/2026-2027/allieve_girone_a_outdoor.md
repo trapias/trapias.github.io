@@ -7,6 +7,8 @@
 
 <strong>USD MONCALVESE HOCKEY - HOCKEY PRATO VALCHISONE FEMMINILE</strong>
 
+**Risultato: 4-5**
+
 Gara: 834
 
 Campo: UMBERTO MICCO 

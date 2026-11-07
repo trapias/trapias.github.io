@@ -44,6 +44,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>HCU RASSEMBLEMENT TORINO - ASD CERNUSCO FIELD HOCKEY</strong>
 
+**Risultato: 3-2**
+
 Gara: 742
 
 Campo: Tazzoli 

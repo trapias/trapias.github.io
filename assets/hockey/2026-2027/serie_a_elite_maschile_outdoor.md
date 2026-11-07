@@ -608,6 +608,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>HOCKEY CLUB BONDENO - POLISPORTIVA FERRINI CAGLIARI</strong>
 
+**Risultato: 5-2**
+
 Gara: 36
 
 Campo: A. GIATTI 
@@ -621,6 +623,8 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 ## Sab 07/11/2026 14.30
 
 <strong>HOCKEY CLUB BRA A.S.D. - S.G. AMSICORA ASD</strong>
+
+**Risultato: 2-3**
 
 Gara: 37
 
@@ -636,6 +640,8 @@ Geo: Geo(latitude=44.7046812, longitude=7.8430689)
 ## Sab 07/11/2026 14.30 ⭐
 
 <strong>HOCKEY SU PRATO VALCHISONE - BUTTERFLY ROMA H.C.C.</strong>
+
+**Risultato: 2-2**
 
 Gara: 38
 
@@ -653,6 +659,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>LAZIO HOCKEY - HT SARDEGNA</strong>
 
+**Risultato: 3-2**
+
 Gara: 39
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
@@ -666,6 +674,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 ## Sab 07/11/2026 15.00
 
 <strong>HOCKEY TEAM BOLOGNA - TEVERE EUR HOCKEY ASD</strong>
+
+**Risultato: 2-4**
 
 Gara: 40
 

@@ -2,36 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 193\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - ASD GENOVA HOCKEY CLUB
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20261220T140000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 1 - CUS PISA ASD - ASD GENOVA HOCKEY CLUB
-UID:27faed73-7675-4599-9eda-fe1671fccf8c@27fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 195\nPalazinola - Via Antonio Brilla\, snc Savona\nGENOVA HOCKEY 1980 - CUS PISA ASD
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20270124T110000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 2 - GENOVA HOCKEY 1980 - CUS PISA ASD
-UID:9ed7ec13-a461-4aa8-8b6e-b57fe8ecc945@9ed7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 3\nGara 199\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD GENOVA HOCKEY CLUB - CUS PISA ASD
+DESCRIPTION:Ragazzi  - Girone C / Giornata 3\nGara 200\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCUS PISA ASD - GENOVA HOCKEY 1980
 GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20270130T100000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 3 - ASD GENOVA HOCKEY CLUB - CUS PISA ASD
-UID:fe52781f-6e59-47c1-90af-3cc3968baa5a@fe52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 3\nGara 201\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCUS PISA ASD - GENOVA HOCKEY 1980
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20270130T130000Z
+DTSTART:20270130T110000Z
 SUMMARY:Ragazzi  - Girone C / Giornata 3 - CUS PISA ASD - GENOVA HOCKEY 1980
-UID:5e29299a-9ed8-42af-985d-8cabc69c1991@5e29.org
+UID:e157c5b2-19f0-42b9-8baa-c3f2de3304a9@e157.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 198\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - BAD LAKE
@@ -39,7 +15,23 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20270124T160000Z
 SUMMARY:Ragazzi  - Girone C / Giornata 2 - CUS PISA ASD - BAD LAKE
-UID:d73c0e09-cfe8-4d0d-b0ae-8cbe06818bbc@d73c.org
+UID:28e2c3bc-84a6-4cc3-845f-1d3855bdae1a@28e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone C / Giornata 3\nGara 201\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCUS PISA ASD - GENOVA HOCKEY 1980
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20270130T130000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 3 - CUS PISA ASD - GENOVA HOCKEY 1980
+UID:2f63cec9-cc3f-4aba-b2a9-109052bcaa1c@2f63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 195\nPalazinola - Via Antonio Brilla\, snc Savona\nGENOVA HOCKEY 1980 - CUS PISA ASD
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20270124T110000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 2 - GENOVA HOCKEY 1980 - CUS PISA ASD
+UID:242d0036-ff2b-4fc1-8007-dd7e7d3c9ef8@242d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 192\nPalazinola - Via Antonio Brilla\, snc Savona\nBAD LAKE - CUS PISA ASD
@@ -47,14 +39,22 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20261220T110000Z
 SUMMARY:Ragazzi  - Girone C / Giornata 1 - BAD LAKE - CUS PISA ASD
-UID:837c75b8-e44d-41cd-83d0-678d1f7942d0@837c.org
+UID:09bf0d67-c439-45f2-b555-2d9b3214c49c@09bf.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 3\nGara 200\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCUS PISA ASD - GENOVA HOCKEY 1980
+DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 193\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - ASD GENOVA HOCKEY CLUB
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20261220T140000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 1 - CUS PISA ASD - ASD GENOVA HOCKEY CLUB
+UID:b0f7d978-010d-41c9-be8f-a85653fb4f8c@b0f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone C / Giornata 3\nGara 199\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD GENOVA HOCKEY CLUB - CUS PISA ASD
 GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20270130T110000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 3 - CUS PISA ASD - GENOVA HOCKEY 1980
-UID:d82b880d-856b-4a80-b055-0ba9d74496a6@d82b.org
+DTSTART:20270130T100000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 3 - ASD GENOVA HOCKEY CLUB - CUS PISA ASD
+UID:d05ef785-41c4-40ef-ab17-1eaa9b68ad93@d05e.org
 END:VEVENT
 END:VCALENDAR

@@ -106,6 +106,8 @@ Geo: Geo(latitude=38.1483059, longitude=15.2175523)
 
 <strong>ASD I CICLOPI - ASD SAN PIETRO CLARENZA</strong>
 
+**Risultato: 7-3**
+
 Gara: 1016
 
 Campo: centro sportivo le siepi 

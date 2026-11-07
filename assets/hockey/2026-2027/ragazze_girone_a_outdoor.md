@@ -96,6 +96,8 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 <strong>ASD HF LORENZONI - CUS TORINO</strong>
 
+**Risultato: 7-1**
+
 Gara: 819
 
 Campo: PINO PALMIERI 

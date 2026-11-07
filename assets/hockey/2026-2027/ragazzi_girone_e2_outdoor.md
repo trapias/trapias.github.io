@@ -6,6 +6,8 @@
 
 <strong>TEVERE EUR HOCKEY ASD - AZ HOCKEY TEAM</strong>
 
+**Risultato: 3-1**
+
 Gara: 568
 
 Campo: EUROMA STADIUM 
