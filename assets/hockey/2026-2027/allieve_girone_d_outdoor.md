@@ -84,7 +84,7 @@ Location: Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale,
 Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 
-## Sab 07/11/2026 14.00
+## Sab 20/03/2027 13.00
 
 <strong>POLISPORTIVA L'AQUILA HOCKEY - H.POTENZA PICENA</strong>
 
