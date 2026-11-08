@@ -90,6 +90,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>POLISPORTIVA CAMELOT - CSP SAN GIORGIO</strong>
 
+**Risultato: 1-1**
+
 Gara: 381
 
 Campo: Impianti L. Merigliano 

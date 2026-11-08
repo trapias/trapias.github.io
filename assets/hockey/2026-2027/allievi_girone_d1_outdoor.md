@@ -99,6 +99,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>BUTTERFLY ROMA H.C.C. - ASD HOCKEY CLUB ROMA</strong>
 
+**Risultato: 4-3**
+
 Gara: 708
 
 Campo: CENTRO GIULIO ONESTI 
@@ -112,6 +114,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 ## Dom 08/11/2026 12.00
 
 <strong>LAZIO HOCKEY - TEVERE EUR HOCKEY ASD</strong>
+
+**Risultato: 2-17**
 
 Gara: 709
 

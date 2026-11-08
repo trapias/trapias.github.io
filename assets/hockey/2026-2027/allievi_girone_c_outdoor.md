@@ -57,6 +57,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>GENOVA H. 1980 DRITTO - H.C. GIALLO</strong>
 
+**Risultato: 8-0**
+
 Gara: 905
 
 Campo: CAMPO G.ARNALDI 

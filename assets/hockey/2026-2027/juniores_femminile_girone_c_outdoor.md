@@ -6,6 +6,8 @@
 
 <strong>HOCKEY CLUB TIBERINA A.S.D. - H.POTENZA PICENA</strong>
 
+**Risultato: 1-0**
+
 Gara: 592
 
 Campo: EUROMA STADIUM 
@@ -118,6 +120,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 ## Dom 08/11/2026 15.00
 
 <strong>BUTTERFLY ROMA H.C.C. - AZ HOCKEY TEAM</strong>
+
+**Risultato: 16-0**
 
 Gara: 599
 

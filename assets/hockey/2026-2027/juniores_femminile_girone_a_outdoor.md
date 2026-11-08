@@ -146,6 +146,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>CUS TORINO - H.C. GENOVA</strong>
 
+**Risultato: 1-0**
+
 Gara: 802
 
 Campo: Tazzoli 
@@ -159,6 +161,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 ## Dom 08/11/2026 11.00
 
 <strong>ASD HF LORENZONI - SUPERBA</strong>
+
+**Risultato: 2-1**
 
 Gara: 803
 

@@ -44,6 +44,8 @@ Geo: Geo(latitude=44.9206934, longitude=7.2445978)
 
 <strong>A.S.D. S.H. PAOLO BONOMI - ASD CERNUSCO FIELD HOCKEY</strong>
 
+**Risultato: 1-1**
+
 Gara: 754
 
 Campo: CENTRO S. COMUNALE 

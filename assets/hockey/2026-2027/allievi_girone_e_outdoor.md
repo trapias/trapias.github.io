@@ -92,6 +92,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>PGS DON BOSCO 2000 ASD - POLISPORTIVA GALATEA ASD</strong>
 
+**Risultato: 0-21**
+
 Gara: 1014
 
 Campo: Oratorio Salesiano 

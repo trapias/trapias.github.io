@@ -88,6 +88,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>HOCKEY CLUB BONDENO - CUS PISA ASD</strong>
 
+**Risultato: 2-0**
+
 Gara: 393
 
 Campo: A. GIATTI 

@@ -109,6 +109,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>ASD HOCKEY CLUB ROMA - TEVERE EUR HOCKEY ASD</strong>
 
+**Risultato: 0-12**
+
 Gara: 535
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 
@@ -122,6 +124,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 ## Dom 08/11/2026 13.00
 
 <strong>BUTTERFLY ROMA H.C.C. - H.POTENZA PICENA - RISERVE</strong>
+
+**Risultato: 1-1**
 
 Gara: 536
 

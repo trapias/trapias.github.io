@@ -74,6 +74,8 @@ Geo: Geo(latitude=42.3548544, longitude=13.3944939)
 
 <strong>LAZIO HOCKEY - HOCKEY CLUB TIBERINA A.S.D.</strong>
 
+**Risultato: 0-10**
+
 Gara: 976
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

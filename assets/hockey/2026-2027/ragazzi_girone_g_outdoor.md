@@ -25,6 +25,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>POLISPORTIVA FERRINI CAGLIARI - A.S.D. POLISPORTIVA  JUVENILIA</strong>
 
+**Risultato: 2-3**
+
 Gara: 1056
 
 Campo: A. Maxia 

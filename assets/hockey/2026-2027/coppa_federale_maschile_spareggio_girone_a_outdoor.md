@@ -6,6 +6,8 @@
 
 <strong>HCU RASSEMBLEMENT TORINO - HC GRANTORTO</strong>
 
+**Risultato: 3-0**
+
 Gara: 335
 
 Campo: Campo Comunale 

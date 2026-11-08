@@ -110,6 +110,8 @@ Geo: Geo(latitude=45.1902954, longitude=11.4686403)
 
 <strong>ASD H.C. VILLAFRANCA - HOCKEY CLUB RIVA</strong>
 
+**Risultato: 8-1**
+
 Gara: 362
 
 Campo: Lamacchi 

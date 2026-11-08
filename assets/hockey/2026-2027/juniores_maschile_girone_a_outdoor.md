@@ -61,6 +61,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>USD MONCALVESE HOCKEY - HOCKEY SU PRATO VALCHISONE</strong>
 
+**Risultato: 4-3**
+
 Gara: 743
 
 Campo: UMBERTO MICCO 

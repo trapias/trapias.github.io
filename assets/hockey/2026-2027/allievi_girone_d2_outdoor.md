@@ -72,6 +72,8 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>ASD HOCKEY CLUB MOGLIANO - POLISPORTIVA L'AQUILA HOCKEY</strong>
 
+**Risultato: 5-3**
+
 Gara: 726
 
 Campo: BAGLIANO 
@@ -85,6 +87,8 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 ## Dom 08/11/2026 11.00
 
 <strong>AZ HOCKEY TEAM - H.POTENZA PICENA</strong>
+
+**Risultato: 0-16**
 
 Gara: 727
 
