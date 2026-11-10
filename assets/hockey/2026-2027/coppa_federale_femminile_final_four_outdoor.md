@@ -4,7 +4,7 @@
 
 ## Sab 14/11/2026 13.00
 
-<strong> - </strong>
+<strong>HOCKEY TEAM FEMMINILE BOLOGNA - USD MONCALVESE HOCKEY</strong>
 
 Gara: 340
 
@@ -18,7 +18,7 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 ## Sab 14/11/2026 17.00
 
-<strong> - </strong>
+<strong>CUS TORINO - HOCKEY CLUB RIVA</strong>
 
 Gara: 341
 

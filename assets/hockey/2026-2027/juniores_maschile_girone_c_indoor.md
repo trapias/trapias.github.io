@@ -75,7 +75,7 @@ Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 
 # Juniores Maschile  - Girone C / Giornata 2
 
-## Sab 19/12/2026 13.00
+## Sab 19/12/2026 14.00
 
 <strong>GENOVA HOCKEY 1980 - BAD LAKE</strong>
 
@@ -89,7 +89,7 @@ Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
 Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
-## Sab 19/12/2026 14.00
+## Sab 19/12/2026 15.00
 
 <strong>HC SAVONA - CUS PISA ASD</strong>
 
@@ -103,7 +103,7 @@ Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
 Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
-## Sab 19/12/2026 15.00
+## Sab 19/12/2026 16.00
 
 <strong>GENOVA HOCKEY 1980 - ASD GENOVA HOCKEY CLUB</strong>
 
@@ -117,7 +117,7 @@ Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
 Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
-## Sab 19/12/2026 16.00
+## Sab 19/12/2026 17.00
 
 <strong>BAD LAKE - CUS PISA ASD</strong>
 
@@ -131,7 +131,7 @@ Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
 Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
-## Sab 19/12/2026 17.00
+## Sab 19/12/2026 18.00
 
 <strong>HC SAVONA - ASD GENOVA HOCKEY CLUB</strong>
 

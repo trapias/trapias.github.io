@@ -2,7 +2,7 @@
 
 # Ragazze - OUTDOOR  - Girone E / Giornata 1
 
-## Ven 13/11/2026 17.00
+## Mer 17/02/2027 17.15
 
 <strong>S.G. AMSICORA ASD - POLISPORTIVA FERRINI CAGLIARI</strong>
 

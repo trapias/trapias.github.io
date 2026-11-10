@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3\nGara 441\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HOCKEY CLUB RIVA
-GEO:45.050205;8.265038
-LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
-DTSTART:20270321T140000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3 - USD MONCALVESE HOCKEY - HOCKEY CLUB RIVA
-UID:a17d7321-01cd-4408-9d68-3f1f482340cb@a17d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6\nGara 447\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - USD MONCALVESE HOCKEY
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20270425T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6 - HOCKEY CLUB RIVA - USD MONCALVESE HOCKEY
-UID:7149439e-fd39-4c65-bcb3-39a914c4a576@7149.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1\nGara 436\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - CUS TORINO
 GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20270307T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1 - HOCKEY CLUB RIVA - CUS TORINO
-UID:8b136fab-456a-4792-a072-ca146e66fed2@8b13.org
+UID:8efe2e4e-ae3c-4710-9946-cff52313c69b@8efe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3\nGara 441\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HOCKEY CLUB RIVA
+GEO:45.050205;8.265038
+LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
+DTSTART:20270321T140000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3 - USD MONCALVESE HOCKEY - HOCKEY CLUB RIVA
+UID:61213c77-c2e6-4c07-b33d-7d2cd8748225@6121.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2\nGara 439\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - SUPERBA
@@ -31,7 +23,15 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20270314T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2 - HOCKEY CLUB RIVA - SUPERBA
-UID:93911251-df8d-44b7-92c3-793a4fc6dffe@9391.org
+UID:7f365ef1-363a-4167-9b4f-84579242712c@7f36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6\nGara 447\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - USD MONCALVESE HOCKEY
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20270425T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6 - HOCKEY CLUB RIVA - USD MONCALVESE HOCKEY
+UID:39e9a365-ad9d-46dc-a1b3-0db176f0492f@39e9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5\nGara 445\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - HOCKEY CLUB RIVA
@@ -39,7 +39,7 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20270418T090000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5 - SUPERBA - HOCKEY CLUB RIVA
-UID:8daed8e8-a5e3-466f-a5d3-76ab1cd946dd@8dae.org
+UID:990ec48e-00a7-43f9-be91-9b9f35186bbe@990e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4\nGara 442\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HOCKEY CLUB RIVA
@@ -47,6 +47,6 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20270411T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4 - CUS TORINO - HOCKEY CLUB RIVA
-UID:97b2105a-79c1-4319-9fe7-db9daecf681f@97b2.org
+UID:796bafe6-fcd0-4f72-9412-d22ac884f825@796b.org
 END:VEVENT
 END:VCALENDAR

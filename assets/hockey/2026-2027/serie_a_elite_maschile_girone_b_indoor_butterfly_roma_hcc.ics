@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor  - Girone B / Giornata 1\nGara 60\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nHOCKEY CLUB BONDENO - BUTTERFLY ROMA H.C.C.
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20261213T120000Z
-SUMMARY:Serie A Elite Maschile - Indoor  - Girone B / Giornata 1 - HOCKEY CLUB BONDENO - BUTTERFLY ROMA H.C.C.
-UID:c0f8a27d-2802-4074-9e16-526b0b3132bd@c0f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor  - Girone B / Giornata 2\nGara 68\nCENTRO PER LO SPORT - VIALE DEGASPERI\, 163 CLES\nCSP SAN GIORGIO - BUTTERFLY ROMA H.C.C.
+DESCRIPTION:Serie A Elite Maschile - Indoor  - Girone B / Giornata 2\nGara 70\nCENTRO PER LO SPORT - VIALE DEGASPERI\, 163 CLES\nBUTTERFLY ROMA H.C.C. - HOCKEY CLUB BONDENO
 GEO:46.335915;10.946681
 LOCATION:Cles\, Comunità della Val di Non\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38028\, Italia
-DTSTART:20270117T100000Z
-SUMMARY:Serie A Elite Maschile - Indoor  - Girone B / Giornata 2 - CSP SAN GIORGIO - BUTTERFLY ROMA H.C.C.
-UID:dbc6b839-b7dd-417f-a8ff-9dd9e8c33193@dbc6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor  - Girone B / Giornata 1\nGara 58\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nBUTTERFLY ROMA H.C.C. - CSP SAN GIORGIO
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20261213T100000Z
-SUMMARY:Serie A Elite Maschile - Indoor  - Girone B / Giornata 1 - BUTTERFLY ROMA H.C.C. - CSP SAN GIORGIO
-UID:882d0e2a-2653-4124-913b-44b7dca45ab4@882d.org
+DTSTART:20270117T120000Z
+SUMMARY:Serie A Elite Maschile - Indoor  - Girone B / Giornata 2 - BUTTERFLY ROMA H.C.C. - HOCKEY CLUB BONDENO
+UID:f580a973-df38-4e2b-b311-f1a461fa2f67@f580.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - Indoor  - Girone B / Giornata 1\nGara 53\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nHOCKEY CLUB RIVA - BUTTERFLY ROMA H.C.C.
@@ -31,7 +15,23 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20261212T153000Z
 SUMMARY:Serie A Elite Maschile - Indoor  - Girone B / Giornata 1 - HOCKEY CLUB RIVA - BUTTERFLY ROMA H.C.C.
-UID:16f4e66b-ccf6-4f60-aba6-79148727fa1c@16f4.org
+UID:71597c72-7604-410d-bbd2-c4958b20088f@7159.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - Indoor  - Girone B / Giornata 1\nGara 58\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nBUTTERFLY ROMA H.C.C. - CSP SAN GIORGIO
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20261213T100000Z
+SUMMARY:Serie A Elite Maschile - Indoor  - Girone B / Giornata 1 - BUTTERFLY ROMA H.C.C. - CSP SAN GIORGIO
+UID:e5854aef-95f1-4b78-8cfb-2e470efc55a2@e585.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A Elite Maschile - Indoor  - Girone B / Giornata 1\nGara 60\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nHOCKEY CLUB BONDENO - BUTTERFLY ROMA H.C.C.
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20261213T120000Z
+SUMMARY:Serie A Elite Maschile - Indoor  - Girone B / Giornata 1 - HOCKEY CLUB BONDENO - BUTTERFLY ROMA H.C.C.
+UID:4cbc8471-9a4f-4719-8f82-e9a1d614206e@4cbc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - Indoor  - Girone B / Giornata 2\nGara 63\nCENTRO PER LO SPORT - VIALE DEGASPERI\, 163 CLES\nBUTTERFLY ROMA H.C.C. - HOCKEY CLUB RIVA
@@ -39,7 +39,7 @@ GEO:46.335915;10.946681
 LOCATION:Cles\, Comunità della Val di Non\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38028\, Italia
 DTSTART:20270116T153000Z
 SUMMARY:Serie A Elite Maschile - Indoor  - Girone B / Giornata 2 - BUTTERFLY ROMA H.C.C. - HOCKEY CLUB RIVA
-UID:f7f602e5-e12f-4a04-9926-eabc055d6ae5@f7f6.org
+UID:506902dc-1c29-433b-ac3f-9904616b11bb@5069.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - Indoor  - Girone B / Giornata 1\nGara 55\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nBUTTERFLY ROMA H.C.C. - POLISPORTIVA UNIVERSITARIA MESSINA
@@ -47,7 +47,7 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20261212T173000Z
 SUMMARY:Serie A Elite Maschile - Indoor  - Girone B / Giornata 1 - BUTTERFLY ROMA H.C.C. - POLISPORTIVA UNIVERSITARIA MESSINA
-UID:bb6d843b-969e-4786-8c89-5d83c0070e26@bb6d.org
+UID:ba99b3bc-da28-407c-a919-14d611e6a2d8@ba99.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A Elite Maschile - Indoor  - Girone B / Giornata 2\nGara 65\nCENTRO PER LO SPORT - VIALE DEGASPERI\, 163 CLES\nPOLISPORTIVA UNIVERSITARIA MESSINA - BUTTERFLY ROMA H.C.C.
@@ -55,14 +55,14 @@ GEO:46.335915;10.946681
 LOCATION:Cles\, Comunità della Val di Non\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38028\, Italia
 DTSTART:20270116T173000Z
 SUMMARY:Serie A Elite Maschile - Indoor  - Girone B / Giornata 2 - POLISPORTIVA UNIVERSITARIA MESSINA - BUTTERFLY ROMA H.C.C.
-UID:65917a00-8e91-4e63-a6bf-ab299cbd9d70@6591.org
+UID:4adff415-fced-4db6-ab6a-15d48f3234c0@4adf.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A Elite Maschile - Indoor  - Girone B / Giornata 2\nGara 70\nCENTRO PER LO SPORT - VIALE DEGASPERI\, 163 CLES\nBUTTERFLY ROMA H.C.C. - HOCKEY CLUB BONDENO
+DESCRIPTION:Serie A Elite Maschile - Indoor  - Girone B / Giornata 2\nGara 68\nCENTRO PER LO SPORT - VIALE DEGASPERI\, 163 CLES\nCSP SAN GIORGIO - BUTTERFLY ROMA H.C.C.
 GEO:46.335915;10.946681
 LOCATION:Cles\, Comunità della Val di Non\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38028\, Italia
-DTSTART:20270117T120000Z
-SUMMARY:Serie A Elite Maschile - Indoor  - Girone B / Giornata 2 - BUTTERFLY ROMA H.C.C. - HOCKEY CLUB BONDENO
-UID:4f055b91-00db-4e85-a15b-aeb33ff1916a@4f05.org
+DTSTART:20270117T100000Z
+SUMMARY:Serie A Elite Maschile - Indoor  - Girone B / Giornata 2 - CSP SAN GIORGIO - BUTTERFLY ROMA H.C.C.
+UID:f258f556-d260-411f-9d4b-9facaca3b858@f258.org
 END:VEVENT
 END:VCALENDAR

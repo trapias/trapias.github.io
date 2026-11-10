@@ -2,7 +2,7 @@
 
 # Allieve - OUTDOOR  - Girone F / Giornata 1
 
-## Ven 04/12/2026 17.00
+## Ven 26/02/2027 17.45
 
 <strong>S.G. AMSICORA ASD - POLISPORTIVA FERRINI CAGLIARI</strong>
 

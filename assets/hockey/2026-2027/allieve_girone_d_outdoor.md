@@ -117,7 +117,7 @@ Location: 12, Via Bilbao, Torrino, Municipio Roma IX, Roma, Roma Capitale, Lazio
 Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 
-## Dom 22/11/2026 15.00
+## Dom 22/11/2026 17.00
 
 <strong>LAZIO HOCKEY - POLISPORTIVA L'AQUILA HOCKEY</strong>
 

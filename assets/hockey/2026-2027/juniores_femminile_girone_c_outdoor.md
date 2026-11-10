@@ -53,7 +53,7 @@ Location: Contrada San Girio, San Girio, Potenza Picena, Macerata, Italia
 Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 
-## Dom 22/11/2026 12.00
+## Dom 22/11/2026 13.00
 
 <strong>HOCKEY CLUB TIBERINA A.S.D. - AZ HOCKEY TEAM</strong>
 

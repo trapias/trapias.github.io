@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone C / Giornata 1\nGara 293\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nCUS PISA ASD - BAD LAKE
-GEO:43.944387;10.929450
-LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
-DTSTART:20270117T110000Z
-SUMMARY:Allievi  - Girone C / Giornata 1 - CUS PISA ASD - BAD LAKE
-UID:f2bca2a9-a2ed-4032-b306-8c65fe9766ad@f2bc.org
+DESCRIPTION:Allievi  - Girone C / Giornata 3\nGara 302\nPalazinola - Via Antonio Brilla\, snc Savona\nBAD LAKE - ASD GENOVA HOCKEY CLUB
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20270207T120000Z
+SUMMARY:Allievi  - Girone C / Giornata 3 - BAD LAKE - ASD GENOVA HOCKEY CLUB
+UID:a1bd025a-f153-45eb-a7d2-a4d82ba8e531@a1bd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone C / Giornata 3\nGara 299\nPalazinola - Via Antonio Brilla\, snc Savona\nBAD LAKE - GENOVA HOCKEY 1980
@@ -15,23 +15,15 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20270207T090000Z
 SUMMARY:Allievi  - Girone C / Giornata 3 - BAD LAKE - GENOVA HOCKEY 1980
-UID:8a6c897a-2ce3-464a-ad47-89343b1ba471@8a6c.org
+UID:f1eaf036-8e00-4eaa-9c69-db0c4d5d379c@f1ea.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone C / Giornata 2\nGara 300\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nBAD LAKE - CUS PISA ASD
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20270131T150000Z
-SUMMARY:Allievi  - Girone C / Giornata 2 - BAD LAKE - CUS PISA ASD
-UID:e6b0f69a-1d96-4613-9978-c01accc5dff3@e6b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone C / Giornata 3\nGara 302\nPalazinola - Via Antonio Brilla\, snc Savona\nBAD LAKE - ASD GENOVA HOCKEY CLUB
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20270207T120000Z
-SUMMARY:Allievi  - Girone C / Giornata 3 - BAD LAKE - ASD GENOVA HOCKEY CLUB
-UID:141e27c4-b7d2-4190-8172-40d16568f4cb@141e.org
+DESCRIPTION:Allievi  - Girone C / Giornata 1\nGara 293\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nCUS PISA ASD - BAD LAKE
+GEO:43.944387;10.929450
+LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
+DTSTART:20270117T110000Z
+SUMMARY:Allievi  - Girone C / Giornata 1 - CUS PISA ASD - BAD LAKE
+UID:1a37e404-36e9-4bc1-812f-ebe60dff3690@1a37.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone C / Giornata 1\nGara 295\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nGENOVA HOCKEY 1980 - BAD LAKE
@@ -39,7 +31,15 @@ GEO:43.944387;10.929450
 LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
 DTSTART:20270117T150000Z
 SUMMARY:Allievi  - Girone C / Giornata 1 - GENOVA HOCKEY 1980 - BAD LAKE
-UID:c8df71c2-8917-4d7d-84c4-4bcf6bc49632@c8df.org
+UID:72e8382c-3a65-4d97-b7bf-1d1978f6fa42@72e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone C / Giornata 2\nGara 300\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nBAD LAKE - CUS PISA ASD
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20270131T150000Z
+SUMMARY:Allievi  - Girone C / Giornata 2 - BAD LAKE - CUS PISA ASD
+UID:0e750606-7dbd-488d-b2e8-5d53f80d3a86@0e75.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone C / Giornata 2\nGara 296\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD GENOVA HOCKEY CLUB - BAD LAKE
@@ -47,6 +47,6 @@ GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
 DTSTART:20270131T080000Z
 SUMMARY:Allievi  - Girone C / Giornata 2 - ASD GENOVA HOCKEY CLUB - BAD LAKE
-UID:58ef2974-5146-4755-ae78-3b159089a9b6@58ef.org
+UID:d6d25c73-d587-4f10-ae25-d17d3dc3f5a9@d6d2.org
 END:VEVENT
 END:VCALENDAR

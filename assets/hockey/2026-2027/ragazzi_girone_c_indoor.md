@@ -120,7 +120,7 @@ Geo: Geo(latitude=44.2827104, longitude=8.4454069)
 
 # Ragazzi  - Girone C / Giornata 3
 
-## Sab 30/01/2027 11.00
+## Sab 06/02/2027 11.00
 
 <strong>ASD GENOVA HOCKEY CLUB - CUS PISA ASD</strong>
 
@@ -134,9 +134,9 @@ Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
 Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
-## Sab 30/01/2027 12.00
+## Sab 06/02/2027 12.00
 
-<strong>CUS PISA ASD - GENOVA HOCKEY 1980</strong>
+<strong>BAD LAKE - GENOVA HOCKEY 1980</strong>
 
 Gara: 200
 
@@ -148,7 +148,7 @@ Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
 Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
-## Sab 30/01/2027 14.00
+## Sab 06/02/2027 14.00
 
 <strong>CUS PISA ASD - GENOVA HOCKEY 1980</strong>
 
@@ -162,7 +162,7 @@ Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
 Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
-## Sab 30/01/2027 15.00
+## Sab 06/02/2027 15.00
 
 <strong>BAD LAKE - ASD GENOVA HOCKEY CLUB</strong>
 
