@@ -223,21 +223,21 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 ## Dom 15/11/2026 14.00
 
-<strong>A.S.D. S.H. PAOLO BONOMI - HCU RASSEMBLEMENT TORINO</strong>
+<strong>HCU RASSEMBLEMENT TORINO - A.S.D. S.H. PAOLO BONOMI</strong>
 
 Gara: 774
 
-Campo: CENTRO S. COMUNALE 
+Campo: Tazzoli 
 
-Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
+Indirizzo Campo:  Corso Tazzoli, 78 - Torino
 
-Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
-Geo: Geo(latitude=45.2404163, longitude=8.6981976)
+Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
+Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
 ## Dom 15/11/2026 11.00
 
-<strong>ASD CERNUSCO FIELD HOCKEY - SCUOLA HOCKEY INDER SINGH</strong>
+<strong>ASD CERNUSCO FIELD HOCKEY - SCUOLA HOCKEY INDER SINGH NEXT GEN</strong>
 
 Gara: 775
 
@@ -249,7 +249,7 @@ Location: Via Giovanni Boccaccio, Cascina Parolina, Ronco, Cernusco sul Naviglio
 Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 
-## Dom 15/11/2026 14.00
+## Dom 15/11/2026 13.00
 
 <strong>ASD CERNUSCO FIELD HOCKEY - SCUOLA HOCKEY INDER SINGH</strong>
 
@@ -412,16 +412,16 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 ## Dom 02/05/2027 14.00
 
-<strong>HCU RASSEMBLEMENT TORINO - A.S.D. S.H. PAOLO BONOMI</strong>
+<strong>A.S.D. S.H. PAOLO BONOMI - HCU RASSEMBLEMENT TORINO</strong>
 
 Gara: 788
 
-Campo: Tazzoli 
+Campo: CENTRO S. COMUNALE 
 
-Indirizzo Campo:  Corso Tazzoli, 78 - Torino
+Indirizzo Campo:  Castello D'Agogna - VIA MILANO, 65 - Castello d'Agogna
 
-Location: 78, Corso Enrico Tazzoli, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10135, Italia
-Geo: Geo(latitude=45.0335085, longitude=7.6333842)
+Location: Via Milano, Castello d'Agogna, Pavia, Lombardia, 27036, Italia
+Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 
 ## Dom 02/05/2027 11.30
