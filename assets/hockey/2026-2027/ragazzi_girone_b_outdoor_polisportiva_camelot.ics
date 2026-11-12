@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 2\nGara 379\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nPOLISPORTIVA CAMELOT - ASD ADIGE UHC
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20261122T120000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 2 - POLISPORTIVA CAMELOT - ASD ADIGE UHC
-UID:83c181d0-e794-4b60-bd4e-ee6d35ddc17f@83c1.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 6\nGara 387\ncampo hockey s. farinazzo - VIA CAMPOLONGO\, 17 CASALE DI SCODOSIA\nCSP SAN GIORGIO - POLISPORTIVA CAMELOT
 GEO:45.190295;11.468640
 LOCATION:Via Campolongo\, Casale di Scodosia\, Padova\, Veneto\, 35040\, Italia
 DTSTART:20270502T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 6 - CSP SAN GIORGIO - POLISPORTIVA CAMELOT
-UID:92ac6332-69c2-4d7c-8706-8a10c45aa42e@92ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 5\nGara 385\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - POLISPORTIVA CAMELOT
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20270404T110000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 5 - ASD ADIGE UHC - POLISPORTIVA CAMELOT
-UID:e739b0ee-f4a8-4d5d-b334-d5bdc264cc77@e739.org
+UID:e9562314-559e-4899-b7da-2820b3a0eb51@e956.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 3\nGara 381\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nPOLISPORTIVA CAMELOT - CSP SAN GIORGIO\n\nRisultato: 1-1
@@ -31,7 +15,23 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20261108T100000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 3 - POLISPORTIVA CAMELOT - CSP SAN GIORGIO
-UID:3fa92dbf-97fd-4089-ad59-ec34806f953f@3fa9.org
+UID:8c2189a5-70f6-4570-bfcd-32850004789d@8c21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 5\nGara 385\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - POLISPORTIVA CAMELOT
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20270404T110000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 5 - ASD ADIGE UHC - POLISPORTIVA CAMELOT
+UID:a49fc19d-6309-4965-9a4b-5861174b0f13@a49f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 2\nGara 379\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nPOLISPORTIVA CAMELOT - ASD ADIGE UHC
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20261122T120000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 2 - POLISPORTIVA CAMELOT - ASD ADIGE UHC
+UID:f19c5e57-1b54-464d-8b79-9c703d48c850@f19c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 1\nGara 376\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - POLISPORTIVA CAMELOT\n\nRisultato: 5-1
@@ -39,7 +39,7 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20260927T110000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 1 - HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT
-UID:5a905185-50ba-48b8-b826-d74cbda23da6@5a90.org
+UID:8257a93f-6a70-4a95-81c3-f85b75f8e9b6@8257.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone B / Giornata 4\nGara 382\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nPOLISPORTIVA CAMELOT - HOCKEY CLUB RIVA
@@ -47,6 +47,6 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20270314T120000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone B / Giornata 4 - POLISPORTIVA CAMELOT - HOCKEY CLUB RIVA
-UID:082b77bc-3e18-488b-8d47-6983eb14682a@082b.org
+UID:ea863c7b-282e-484b-a287-9c8dd3682723@ea86.org
 END:VEVENT
 END:VCALENDAR

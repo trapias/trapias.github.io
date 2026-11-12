@@ -38,7 +38,7 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 # Allievi - OUTDOOR  - Girone F / Giornata 3
 
-## Dom 20/12/2026 11.00
+## Sab 28/11/2026 17.30
 
 <strong>A.S.D. POLISPORTIVA  JUVENILIA - CUS CAGLIARI</strong>
 

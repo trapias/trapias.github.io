@@ -16,7 +16,7 @@ Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
-## Dom 06/12/2026 18.30
+## -
 
 <strong>FORTITUDO HOCKEY CAGLIARI - CUS CAGLIARI</strong>
 
@@ -33,7 +33,7 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 # Serie A2 Femminile - OUTDOOR Girone D / Giornata 2
 
-## Mer 18/11/2026 19.30
+## -
 
 <strong>S.G. AMSICORA ASD RIS. - FORTITUDO HOCKEY CAGLIARI</strong>
 

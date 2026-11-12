@@ -53,12 +53,12 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 Gara: 1041
 
-Campo: A. Maxia 
+Campo: Comunale Uras 
 
-Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
+Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
 ## Sab 27/02/2027 15.00
@@ -106,18 +106,18 @@ Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
-## Dom 10/01/2027 09.30
+## Dom 10/01/2027 11.00
 
 <strong>MENHIR H.C. - CUS CAGLIARI</strong>
 
 Gara: 1045
 
-Campo: A. Maxia 
+Campo: Comunale Uras 
 
-Indirizzo Campo:  VIALE MARCONI, KM 5.400 - Cagliari
+Indirizzo Campo:  VIA S. EMILIANO, snc - Uras
 
-Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/Cagliari, Sardigna/Sardegna, 09131, Italia
-Geo: Geo(latitude=39.2351856, longitude=9.1394085)
+Location: Via San Emiliano, Uras, Aristanis/Oristano, Sardigna/Sardegna, 09099, Italia
+Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 
 ## Dom 10/01/2027 11.00

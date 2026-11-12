@@ -1,6 +1,6 @@
 
 
-# Allievi - OUTDOOR  - Girone BSA / Giornata 1
+# Allievi - OUTDOOR  - Girone B1 / Giornata 1
 
 ## Dom 18/10/2026 13.00
 
@@ -17,7 +17,7 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 
-# Allievi - OUTDOOR  - Girone BSA / Giornata 2
+# Allievi - OUTDOOR  - Girone B1 / Giornata 2
 
 ## Dom 25/10/2026 12.00
 
@@ -36,7 +36,7 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 
 
-# Allievi - OUTDOOR  - Girone BSA / Giornata 3
+# Allievi - OUTDOOR  - Girone B1 / Giornata 3
 
 ## Ven 23/10/2026 18.00
 
@@ -55,7 +55,7 @@ Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 
 
-# Allievi - OUTDOOR  - Girone BSA / Giornata 4
+# Allievi - OUTDOOR  - Girone B1 / Giornata 4
 
 ## Dom 21/03/2027 13.00
 
@@ -72,7 +72,7 @@ Geo: Geo(latitude=45.4490271, longitude=10.2276479)
 
 
 
-# Allievi - OUTDOOR  - Girone BSA / Giornata 5
+# Allievi - OUTDOOR  - Girone B1 / Giornata 5
 
 ## Dom 11/04/2027 11.00
 
@@ -89,7 +89,7 @@ Geo: Geo(latitude=45.8882504, longitude=10.8629194)
 
 
 
-# Allievi - OUTDOOR  - Girone BSA / Giornata 6
+# Allievi - OUTDOOR  - Girone B1 / Giornata 6
 
 ## Dom 25/04/2027 11.00
 
