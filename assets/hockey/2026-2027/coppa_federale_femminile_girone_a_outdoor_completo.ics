@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 3\nGara 313\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nH.C. GENOVA - CUS TORINO\n\nRisultato: 0-3
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20261011T130000Z
+SUMMARY:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 3 - H.C. GENOVA - CUS TORINO
+UID:3cf09e90-96a6-4a92-a0bd-b10327d3c904@3cf0.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 4\nGara 314\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 1980 - CUS TORINO\n\nRisultato: 0-6
 GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20261107T160000Z
 SUMMARY:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 4 - HF GENOVA 1980 - CUS TORINO
-UID:5f361388-44be-4752-a4d4-e2f7e21b9b45@5f36.org
+UID:152323af-cc05-4635-8d5d-ea88a7cdef4c@1523.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 1\nGara 311\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HF GENOVA 1980\n\nRisultato: 5-0
@@ -15,15 +23,7 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20260927T130000Z
 SUMMARY:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 1 - CUS TORINO - HF GENOVA 1980
-UID:bc7884c1-9fc2-4d9b-87aa-6d8c428f7ae1@bc78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 3\nGara 313\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nH.C. GENOVA - CUS TORINO\n\nRisultato: 0-3
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20261011T130000Z
-SUMMARY:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 3 - H.C. GENOVA - CUS TORINO
-UID:fc4b50fd-c999-4c4f-9d31-e6ffa599b914@fc4b.org
+UID:fc508cdd-7cb9-4f02-8b25-702501ce2363@fc50.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 2\nGara 312\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nHF GENOVA 1980 - H.C. GENOVA\n\nRisultato: 2-0
@@ -31,7 +31,7 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20261004T130000Z
 SUMMARY:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 2 - HF GENOVA 1980 - H.C. GENOVA
-UID:7d1f2257-25a6-4b62-8fae-2225cc074f5c@7d1f.org
+UID:d6b8ace4-df04-4da1-9616-0442979cf242@d6b8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 6\nGara 316\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - H.C. GENOVA\n\nRisultato: 10-0
@@ -39,7 +39,7 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20261101T140000Z
 SUMMARY:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 6 - CUS TORINO - H.C. GENOVA
-UID:4e32fff0-4969-4b48-aa3e-56bdabde7be7@4e32.org
+UID:5f94321a-41ea-4301-94a9-d84f8d325c7a@5f94.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 5\nGara 315\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nH.C. GENOVA - HF GENOVA 1980\n\nRisultato: 0-1
@@ -47,6 +47,6 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20261025T140000Z
 SUMMARY:COPPA Federale Femminile OUTDOOR  - Girone A / Giornata 5 - H.C. GENOVA - HF GENOVA 1980
-UID:5a1fb3dd-cdc6-45cf-894f-608139dbf0e4@5a1f.org
+UID:798b1d2b-3e20-4a5c-8bdf-256c36ff8966@798b.org
 END:VEVENT
 END:VCALENDAR

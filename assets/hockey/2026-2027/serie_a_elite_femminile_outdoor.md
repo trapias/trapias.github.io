@@ -404,7 +404,7 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 
 # Serie A Elite Femminile - OUTDOOR / Giornata 7
 
-## Dom 15/11/2026 15.00
+## Dom 15/11/2026 14.30
 
 <strong>ASD HF LORENZONI - MILANO HOCKEY PRATO</strong>
 

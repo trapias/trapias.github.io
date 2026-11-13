@@ -2,7 +2,7 @@
 
 # Serie B Maschile - OUTDOOR - Girone E / Giornata 1
 
-## Mer 11/11/2026 19.30
+## Mer 24/02/2027 19.30
 
 <strong>POLISPORTIVA FERRINI CAGLIARI - S.G. AMSICORA ASD</strong>
 

@@ -2,7 +2,7 @@
 
 # Serie A2 Femminile - OUTDOOR Girone D / Giornata 1
 
-## Lun 08/02/2027 18.00
+## Ven 20/11/2026 19.30
 
 <strong>S.G. AMSICORA ASD RIS. - POLISPORTIVA FERRINI CAGLIARI RIS.</strong>
 
@@ -33,7 +33,7 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 # Serie A2 Femminile - OUTDOOR Girone D / Giornata 2
 
-## -
+## Lun 08/02/2027 18.00
 
 <strong>S.G. AMSICORA ASD RIS. - FORTITUDO HOCKEY CAGLIARI</strong>
 
@@ -47,7 +47,7 @@ Location: 1, Via dei Salinieri, Monte Mixi, Casteddu/Cagliari, Sardigna/Sardegna
 Geo: Geo(latitude=39.204954, longitude=9.1401682)
 
 
-## Dom 22/11/2026 11.00
+## -
 
 <strong>CUS CAGLIARI - POLISPORTIVA FERRINI CAGLIARI RIS.</strong>
 

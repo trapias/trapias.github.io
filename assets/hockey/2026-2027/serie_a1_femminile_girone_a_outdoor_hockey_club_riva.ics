@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1\nGara 436\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - CUS TORINO
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6\nGara 447\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - USD MONCALVESE HOCKEY
 GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20270307T140000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1 - HOCKEY CLUB RIVA - CUS TORINO
-UID:0ef45aef-9945-44bc-b230-07e55c0fe179@0ef4.org
+DTSTART:20270425T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6 - HOCKEY CLUB RIVA - USD MONCALVESE HOCKEY
+UID:e2c00870-c0e2-498d-980a-5c7c7b8fe5f8@e2c0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2\nGara 439\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - SUPERBA
@@ -15,7 +15,15 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20270314T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2 - HOCKEY CLUB RIVA - SUPERBA
-UID:d77c9305-e036-43b0-a6f3-27d4d87e7794@d77c.org
+UID:cc9218d3-f61c-4829-95be-5bf5eb78ea88@cc92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1\nGara 436\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - CUS TORINO
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20270307T140000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1 - HOCKEY CLUB RIVA - CUS TORINO
+UID:80320126-09f9-40f0-b685-a2868d56a81e@8032.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5\nGara 445\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - HOCKEY CLUB RIVA
@@ -23,15 +31,7 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20270418T090000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5 - SUPERBA - HOCKEY CLUB RIVA
-UID:a74fc8c6-c349-49ac-bd95-20b771d33db0@a74f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6\nGara 447\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - USD MONCALVESE HOCKEY
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20270425T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6 - HOCKEY CLUB RIVA - USD MONCALVESE HOCKEY
-UID:3e8a735f-1997-464d-839d-aa0ccde4f503@3e8a.org
+UID:955e9b59-be43-4c57-9b38-788b91e8d7ef@955e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3\nGara 441\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HOCKEY CLUB RIVA
@@ -39,7 +39,7 @@ GEO:45.050205;8.265038
 LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
 DTSTART:20270321T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3 - USD MONCALVESE HOCKEY - HOCKEY CLUB RIVA
-UID:a86450be-54c5-474c-aa30-49d2ff1ce405@a864.org
+UID:03c7f2b1-9ac7-4582-974f-77f1445b777f@03c7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4\nGara 442\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - HOCKEY CLUB RIVA
@@ -47,6 +47,6 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20270411T130000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4 - CUS TORINO - HOCKEY CLUB RIVA
-UID:e56dc9e5-0986-46a1-8f02-0a1fa2668d41@e56d.org
+UID:31e8540a-aa75-49ab-90c8-b2f56829ba4e@31e8.org
 END:VEVENT
 END:VCALENDAR
