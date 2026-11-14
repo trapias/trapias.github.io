@@ -6,6 +6,8 @@
 
 <strong>HOCKEY TEAM FEMMINILE BOLOGNA - USD MONCALVESE HOCKEY</strong>
 
+**Risultato: 1-2**
+
 Gara: 340
 
 Campo: UMBERTO MICCO 
@@ -19,6 +21,8 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 ## Sab 14/11/2026 17.00
 
 <strong>CUS TORINO - HOCKEY CLUB RIVA</strong>
+
+**Risultato: 2-0**
 
 Gara: 341
 

@@ -20,6 +20,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>BUTTERFLY ROMA H.C.C. - TEVERE EUR HOCKEY ASD</strong>
 
+**Risultato: 5-3**
+
 Gara: 703
 
 Campo: CENTRO GIULIO ONESTI 

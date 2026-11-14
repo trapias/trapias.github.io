@@ -141,6 +141,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>ASD I CICLOPI - VALVERDE HOCKEY 2018</strong>
 
+**Risultato: 1-11**
+
 Gara: 1020
 
 Campo: centro sportivo le siepi 

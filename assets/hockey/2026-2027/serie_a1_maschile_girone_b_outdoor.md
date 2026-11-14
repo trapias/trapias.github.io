@@ -358,6 +358,8 @@ Location:  Tosoni - Via A. Porta, snc Villafranca di Verona
 
 <strong>USD MONCALVESE HOCKEY - A.S.D. POLISPORTIVA  JUVENILIA</strong>
 
+**Risultato: 0-1**
+
 Gara: 198
 
 Campo: UMBERTO MICCO 
@@ -372,6 +374,8 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 <strong>ASD H.C. VILLAFRANCA - SUPERBA</strong>
 
+**Risultato: 6-3**
+
 Gara: 199
 
 Campo: Lamacchi 
@@ -384,6 +388,8 @@ Location:  Tosoni - Via A. Porta, snc Villafranca di Verona
 ## Sab 14/11/2026 15.00
 
 <strong>CSP SAN GIORGIO - A.S.D. S.H. PAOLO BONOMI</strong>
+
+**Risultato: 1-1**
 
 Gara: 200
 
