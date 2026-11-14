@@ -172,6 +172,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>ASD HF LORENZONI - USD MONCALVESE HOCKEY</strong>
 
+**Risultato: 10-0**
+
 Gara: 823
 
 Campo: Augusto Lorenzoni 

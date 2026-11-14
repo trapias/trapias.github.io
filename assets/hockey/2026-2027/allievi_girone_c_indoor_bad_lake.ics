@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone C / Giornata 1\nGara 295\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nGENOVA HOCKEY 1980 - BAD LAKE
+GEO:43.944387;10.929450
+LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
+DTSTART:20270117T150000Z
+SUMMARY:Allievi  - Girone C / Giornata 1 - GENOVA HOCKEY 1980 - BAD LAKE
+UID:3ad4ca3f-f85b-4d64-a76b-f48c0e5fc9f3@3ad4.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone C / Giornata 3\nGara 299\nPalazinola - Via Antonio Brilla\, snc Savona\nBAD LAKE - GENOVA HOCKEY 1980
 GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20270207T090000Z
 SUMMARY:Allievi  - Girone C / Giornata 3 - BAD LAKE - GENOVA HOCKEY 1980
-UID:0025d04b-f37d-4ec8-b9f4-04e96b19e6f7@0025.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone C / Giornata 2\nGara 300\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nBAD LAKE - CUS PISA ASD
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20270131T150000Z
-SUMMARY:Allievi  - Girone C / Giornata 2 - BAD LAKE - CUS PISA ASD
-UID:ad846959-66c5-4fd0-aba0-998a9a87d748@ad84.org
+UID:9c268ee3-1dac-4548-9a10-ec95a890a530@9c26.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone C / Giornata 3\nGara 302\nPalazinola - Via Antonio Brilla\, snc Savona\nBAD LAKE - ASD GENOVA HOCKEY CLUB
@@ -23,15 +23,7 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20270207T120000Z
 SUMMARY:Allievi  - Girone C / Giornata 3 - BAD LAKE - ASD GENOVA HOCKEY CLUB
-UID:face5b9f-94c1-4548-9f3f-896c39fa3ee4@face.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi  - Girone C / Giornata 1\nGara 295\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nGENOVA HOCKEY 1980 - BAD LAKE
-GEO:43.944387;10.929450
-LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
-DTSTART:20270117T150000Z
-SUMMARY:Allievi  - Girone C / Giornata 1 - GENOVA HOCKEY 1980 - BAD LAKE
-UID:a994bd11-050d-4bd5-b1dd-15a20c4cdf59@a994.org
+UID:b51aac6f-9b8d-4666-ace1-fac92ab3f285@b51a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone C / Giornata 2\nGara 296\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD GENOVA HOCKEY CLUB - BAD LAKE
@@ -39,7 +31,15 @@ GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
 DTSTART:20270131T080000Z
 SUMMARY:Allievi  - Girone C / Giornata 2 - ASD GENOVA HOCKEY CLUB - BAD LAKE
-UID:2a6c40d8-2b89-4242-8f31-4569ccfa2e26@2a6c.org
+UID:83193ea0-fcb8-412e-9a60-50c0595ccc5f@8319.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi  - Girone C / Giornata 2\nGara 300\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nBAD LAKE - CUS PISA ASD
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20270131T150000Z
+SUMMARY:Allievi  - Girone C / Giornata 2 - BAD LAKE - CUS PISA ASD
+UID:e2552d61-cfd8-496a-a9c6-51c874d05e81@e255.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi  - Girone C / Giornata 1\nGara 293\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nCUS PISA ASD - BAD LAKE
@@ -47,6 +47,6 @@ GEO:43.944387;10.929450
 LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
 DTSTART:20270117T110000Z
 SUMMARY:Allievi  - Girone C / Giornata 1 - CUS PISA ASD - BAD LAKE
-UID:c0e7dacf-6219-4a5a-a1e8-39567ad3ab79@c0e7.org
+UID:bd94e2e2-4931-45ec-b40a-d66ced39147f@bd94.org
 END:VEVENT
 END:VCALENDAR

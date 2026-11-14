@@ -18,7 +18,7 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 ## Sab 17/10/2026 17.00
 
-<strong>HOCKEY CLUB TIBERINA A.S.D. - POLISPORTIVA L'AQUILA HOCKEY</strong>
+<strong>HOCKEY CLUB TIBERINA A.S.D. - L'AQUILA HOCKEY</strong>
 
 **Risultato: 8-0**
 
@@ -53,7 +53,7 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 ## Sab 31/10/2026 15.00
 
-<strong>POLISPORTIVA L'AQUILA HOCKEY - BUTTERFLY ROMA H.C.C.</strong>
+<strong>L'AQUILA HOCKEY - BUTTERFLY ROMA H.C.C.</strong>
 
 **Risultato: 5-3**
 
@@ -88,7 +88,7 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 ## Sab 20/03/2027 13.00
 
-<strong>POLISPORTIVA L'AQUILA HOCKEY - H.POTENZA PICENA</strong>
+<strong>L'AQUILA HOCKEY - H.POTENZA PICENA</strong>
 
 Gara: 977
 
@@ -119,7 +119,7 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 ## Dom 22/11/2026 17.00
 
-<strong>LAZIO HOCKEY - POLISPORTIVA L'AQUILA HOCKEY</strong>
+<strong>LAZIO HOCKEY - L'AQUILA HOCKEY</strong>
 
 Gara: 979
 
@@ -181,7 +181,7 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 ## Sab 13/03/2027 14.00
 
-<strong>POLISPORTIVA L'AQUILA HOCKEY - HOCKEY CLUB TIBERINA A.S.D.</strong>
+<strong>L'AQUILA HOCKEY - HOCKEY CLUB TIBERINA A.S.D.</strong>
 
 Gara: 983
 
@@ -212,7 +212,7 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 ## Dom 11/04/2027 15.00
 
-<strong>BUTTERFLY ROMA H.C.C. - POLISPORTIVA L'AQUILA HOCKEY</strong>
+<strong>BUTTERFLY ROMA H.C.C. - L'AQUILA HOCKEY</strong>
 
 Gara: 985
 
@@ -243,7 +243,7 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 ## Dom 04/04/2027 10.30
 
-<strong>H.POTENZA PICENA - POLISPORTIVA L'AQUILA HOCKEY</strong>
+<strong>H.POTENZA PICENA - L'AQUILA HOCKEY</strong>
 
 Gara: 987
 
@@ -274,7 +274,7 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 ## Sab 17/04/2027 14.00
 
-<strong>POLISPORTIVA L'AQUILA HOCKEY - LAZIO HOCKEY</strong>
+<strong>L'AQUILA HOCKEY - LAZIO HOCKEY</strong>
 
 Gara: 989
 

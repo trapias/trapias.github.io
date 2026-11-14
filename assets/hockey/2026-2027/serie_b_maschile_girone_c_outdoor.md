@@ -68,6 +68,8 @@ Geo: Geo(latitude=41.8204854, longitude=12.4562685)
 
 <strong>HOCKEY CLUB EUR A.S.D. - LAZIO HOCKEY</strong>
 
+**Risultato: 0-4**
+
 Gara: 660
 
 Campo: EUROMA STADIUM 

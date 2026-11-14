@@ -4,7 +4,7 @@
 
 ## Dom 28/02/2027 12.00
 
-<strong>POLISPORTIVA L'AQUILA HOCKEY - AZ HOCKEY TEAM</strong>
+<strong>L'AQUILA HOCKEY - AZ HOCKEY TEAM</strong>
 
 Gara: 722
 
@@ -16,7 +16,7 @@ Location: Viale Don Bosco, Quarto di San Pietro, Torretta, L'Aquila, Abruzzo, 67
 Geo: Geo(latitude=42.3548544, longitude=13.3944939)
 
 
-## Dom 22/11/2026 15.00
+## Dom 14/03/2027 15.00
 
 <strong>H.POTENZA PICENA - ASD HOCKEY CLUB MOGLIANO</strong>
 
@@ -35,7 +35,7 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 ## Dom 25/10/2026 15.00
 
-<strong>H.POTENZA PICENA - POLISPORTIVA L'AQUILA HOCKEY</strong>
+<strong>H.POTENZA PICENA - L'AQUILA HOCKEY</strong>
 
 **Risultato: 10-3**
 
@@ -70,7 +70,7 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 ## Dom 08/11/2026 13.00
 
-<strong>ASD HOCKEY CLUB MOGLIANO - POLISPORTIVA L'AQUILA HOCKEY</strong>
+<strong>ASD HOCKEY CLUB MOGLIANO - L'AQUILA HOCKEY</strong>
 
 **Risultato: 5-3**
 
@@ -105,7 +105,7 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 ## Sab 06/03/2027 13.00
 
-<strong>AZ HOCKEY TEAM - POLISPORTIVA L'AQUILA HOCKEY</strong>
+<strong>AZ HOCKEY TEAM - L'AQUILA HOCKEY</strong>
 
 Gara: 728
 
@@ -136,7 +136,7 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 ## Sab 20/03/2027 14.00
 
-<strong>POLISPORTIVA L'AQUILA HOCKEY - H.POTENZA PICENA</strong>
+<strong>L'AQUILA HOCKEY - H.POTENZA PICENA</strong>
 
 Gara: 730
 
@@ -167,7 +167,7 @@ Geo: Geo(latitude=43.1726147, longitude=13.4873422)
 
 ## Dom 04/04/2027 12.00
 
-<strong>POLISPORTIVA L'AQUILA HOCKEY - ASD HOCKEY CLUB MOGLIANO</strong>
+<strong>L'AQUILA HOCKEY - ASD HOCKEY CLUB MOGLIANO</strong>
 
 Gara: 732
 

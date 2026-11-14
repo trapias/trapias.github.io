@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 4\nGara 394\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD CITTA' DEL TRICOLORE - CUS PISA ASD
-GEO:44.708262;10.635422
-LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
-DTSTART:20270314T120000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 4 - ASD CITTA' DEL TRICOLORE - CUS PISA ASD
-UID:0754f46b-1f89-4291-9815-8f4c6ef4f4d0@0754.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 6\nGara 399\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nCUS PISA ASD - HOCKEY CLUB BONDENO
-GEO:43.950983;10.829288
-LOCATION:Via per Montagnana\, Montagnana\, Marliana\, Pistoia\, Toscana\, 51130\, Italia
-DTSTART:20270502T133000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 6 - CUS PISA ASD - HOCKEY CLUB BONDENO
-UID:4abf5f9a-7563-4f85-8f46-860537c3fbf2@4abf.org
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 2\nGara 391\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - CUS PISA ASD\n\nRisultato: 7-0
+GEO:44.494706;11.280302
+LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
+DTSTART:20261011T093000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 2 - HOCKEY TEAM BOLOGNA - CUS PISA ASD
+UID:868acb0b-6208-4698-ba55-02ff7ff32ec6@868a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 3\nGara 393\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - CUS PISA ASD\n\nRisultato: 2-0
@@ -23,7 +15,7 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20261108T120000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 3 - HOCKEY CLUB BONDENO - CUS PISA ASD
-UID:4b99f52b-8ae2-4f5d-955b-53415866cfbf@4b99.org
+UID:ff49a065-40a2-40bd-8ace-9e28eb5db066@ff49.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 1\nGara 388\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nCUS PISA ASD - ASD CITTA' DEL TRICOLORE\n\nRisultato: 18-0
@@ -31,7 +23,23 @@ GEO:43.950983;10.829288
 LOCATION:Via per Montagnana\, Montagnana\, Marliana\, Pistoia\, Toscana\, 51130\, Italia
 DTSTART:20260927T103000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 1 - CUS PISA ASD - ASD CITTA' DEL TRICOLORE
-UID:a7991409-dd42-45b6-b0d4-ba9c67b6ad36@a799.org
+UID:c24719de-593d-47d6-bda1-b28ed0590a7b@c247.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 6\nGara 399\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nCUS PISA ASD - HOCKEY CLUB BONDENO
+GEO:43.950983;10.829288
+LOCATION:Via per Montagnana\, Montagnana\, Marliana\, Pistoia\, Toscana\, 51130\, Italia
+DTSTART:20270502T133000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 6 - CUS PISA ASD - HOCKEY CLUB BONDENO
+UID:125d8d03-eaef-4ae2-8653-6f56e42021ad@125d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 4\nGara 394\nSport Arena - Via Avvenire Paterlini\, snc Reggio nell'Emilia\nASD CITTA' DEL TRICOLORE - CUS PISA ASD
+GEO:44.708262;10.635422
+LOCATION:Via Avvenire Paterlini\, Tribunale\, San Paolo Tribunale\, Reggio Emilia\, Reggio nell'Emilia\, Emilia-Romagna\, 42121\, Italia
+DTSTART:20270314T120000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 4 - ASD CITTA' DEL TRICOLORE - CUS PISA ASD
+UID:95ab88a7-2f33-416f-8983-3b9ab77b1085@95ab.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 5\nGara 397\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nCUS PISA ASD - HOCKEY TEAM BOLOGNA
@@ -39,14 +47,6 @@ GEO:43.950983;10.829288
 LOCATION:Via per Montagnana\, Montagnana\, Marliana\, Pistoia\, Toscana\, 51130\, Italia
 DTSTART:20270404T090000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 5 - CUS PISA ASD - HOCKEY TEAM BOLOGNA
-UID:754e5ca3-a507-4143-9de8-e4ea8f6e6d99@754e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone C / Giornata 2\nGara 391\nCP BARCA - Bologna - VIA SANZIO\, 8\, 2 Bologna\nHOCKEY TEAM BOLOGNA - CUS PISA ASD\n\nRisultato: 7-0
-GEO:44.494706;11.280302
-LOCATION:8\, Via Raffaello Sanzio\, Barca\, Borgo Panigale-Reno\, Casteldebole\, Bologna\, Emilia-Romagna\, 40133\, Italia
-DTSTART:20261011T093000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone C / Giornata 2 - HOCKEY TEAM BOLOGNA - CUS PISA ASD
-UID:491b4fe5-13dc-4c24-8bcb-9aea7c37f671@491b.org
+UID:e9d4790a-e1bc-4d53-a05c-56dd1e226267@e9d4.org
 END:VEVENT
 END:VCALENDAR
