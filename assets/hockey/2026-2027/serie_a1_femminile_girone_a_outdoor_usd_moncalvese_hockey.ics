@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6\nGara 447\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - USD MONCALVESE HOCKEY
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20270425T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6 - HOCKEY CLUB RIVA - USD MONCALVESE HOCKEY
-UID:b95ed778-f3ce-4f4d-b9b7-dff7a4a614bb@b95e.org
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5\nGara 444\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - CUS TORINO
+GEO:45.050205;8.265038
+LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
+DTSTART:20270418T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5 - USD MONCALVESE HOCKEY - CUS TORINO
+UID:38644ab9-550a-4bfa-acdc-d19db6ee41cf@3864.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3\nGara 441\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - HOCKEY CLUB RIVA
@@ -15,15 +15,7 @@ GEO:45.050205;8.265038
 LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
 DTSTART:20270321T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 3 - USD MONCALVESE HOCKEY - HOCKEY CLUB RIVA
-UID:0d77a94d-bc08-4512-ad88-4482f443c830@0d77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5\nGara 444\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - CUS TORINO
-GEO:45.050205;8.265038
-LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
-DTSTART:20270418T130000Z
-SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 5 - USD MONCALVESE HOCKEY - CUS TORINO
-UID:f8fb2384-42a4-410d-b500-b13c1edf6a52@f8fb.org
+UID:da60ca56-5e3d-486b-9f7e-3c08acd3ad69@da60.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4\nGara 443\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nSUPERBA - USD MONCALVESE HOCKEY
@@ -31,7 +23,7 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20270411T090000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 4 - SUPERBA - USD MONCALVESE HOCKEY
-UID:cf854fb3-c737-4597-9975-bd1377cc24d7@cf85.org
+UID:6196f682-4ef7-48c9-9cee-c0477b4b506f@6196.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2\nGara 438\nTazzoli - Corso Tazzoli\, 78 Torino\nCUS TORINO - USD MONCALVESE HOCKEY
@@ -39,7 +31,15 @@ GEO:45.033509;7.633384
 LOCATION:78\, Corso Enrico Tazzoli\, Borgo Cina\, Circoscrizione 2\, Torino\, Piemonte\, 10135\, Italia
 DTSTART:20270314T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 2 - CUS TORINO - USD MONCALVESE HOCKEY
-UID:932e738e-ecae-4f76-8e0f-a6582fc378d9@932e.org
+UID:24c1ff25-00e8-4f06-8938-2776eeb90731@24c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6\nGara 447\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - USD MONCALVESE HOCKEY
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20270425T130000Z
+SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 6 - HOCKEY CLUB RIVA - USD MONCALVESE HOCKEY
+UID:77ea5919-48a6-4c93-ac79-b7d7d94fac1f@77ea.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1\nGara 437\nUMBERTO MICCO - Via Goria\, 4 Moncalvo\nUSD MONCALVESE HOCKEY - SUPERBA
@@ -47,6 +47,6 @@ GEO:45.050205;8.265038
 LOCATION:Moncalvo\, Asti\, Piemonte\, 14036\, Italia
 DTSTART:20270307T140000Z
 SUMMARY:Serie A1 Femminile - OUTDOOR  - Girone A / Giornata 1 - USD MONCALVESE HOCKEY - SUPERBA
-UID:e7634f33-0197-47e0-b15c-4075aac5da5c@e763.org
+UID:e412a1f6-5e3d-4cc4-8ca9-52f3bcf29a24@e412.org
 END:VEVENT
 END:VCALENDAR

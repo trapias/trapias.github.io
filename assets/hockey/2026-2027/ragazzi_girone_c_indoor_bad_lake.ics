@@ -2,44 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 196\nPalazinola - Via Antonio Brilla\, snc Savona\nASD GENOVA HOCKEY CLUB - BAD LAKE
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20270124T120000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 2 - ASD GENOVA HOCKEY CLUB - BAD LAKE
-UID:50b99098-9dbf-4bd3-ba9a-97b38733a427@50b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 3\nGara 202\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nBAD LAKE - ASD GENOVA HOCKEY CLUB
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20270206T140000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 3 - BAD LAKE - ASD GENOVA HOCKEY CLUB
-UID:265e1e34-c5a0-4080-ab25-990be88cf780@265e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 198\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - BAD LAKE
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20270124T160000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 2 - CUS PISA ASD - BAD LAKE
-UID:531da0e1-1b78-4b82-bc48-3eb62ba79851@531d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 194\nPalazinola - Via Antonio Brilla\, snc Savona\nGENOVA HOCKEY 1980 - BAD LAKE
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20261220T150000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 1 - GENOVA HOCKEY 1980 - BAD LAKE
-UID:cb2402b3-9317-4d96-babb-bc1500210c7b@cb24.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone C / Giornata 3\nGara 200\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nBAD LAKE - GENOVA HOCKEY 1980
 GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
 DTSTART:20270206T110000Z
 SUMMARY:Ragazzi  - Girone C / Giornata 3 - BAD LAKE - GENOVA HOCKEY 1980
-UID:003ecf89-07c9-47a3-b33b-b7b783cf3349@003e.org
+UID:a8c025fe-100f-479e-b45a-28ccccefe3b1@a8c0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 192\nPalazinola - Via Antonio Brilla\, snc Savona\nBAD LAKE - CUS PISA ASD
@@ -47,6 +15,38 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20261220T110000Z
 SUMMARY:Ragazzi  - Girone C / Giornata 1 - BAD LAKE - CUS PISA ASD
-UID:bb7d3fd3-8995-4c87-9dc4-dc02609bbb44@bb7d.org
+UID:a56fcefe-cad4-4c11-aa65-0667682ceff8@a56f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 194\nPalazinola - Via Antonio Brilla\, snc Savona\nGENOVA HOCKEY 1980 - BAD LAKE
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20261220T150000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 1 - GENOVA HOCKEY 1980 - BAD LAKE
+UID:58a5b98f-3846-45a5-9345-5ea2911b820e@58a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone C / Giornata 3\nGara 202\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nBAD LAKE - ASD GENOVA HOCKEY CLUB
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20270206T140000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 3 - BAD LAKE - ASD GENOVA HOCKEY CLUB
+UID:fa5a34c9-2dac-4a2c-9adf-75a016197cc8@fa5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 198\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - BAD LAKE
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20270124T160000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 2 - CUS PISA ASD - BAD LAKE
+UID:2b0960b7-c80e-41b1-8dd6-b7fa0531819a@2b09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 196\nPalazinola - Via Antonio Brilla\, snc Savona\nASD GENOVA HOCKEY CLUB - BAD LAKE
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20270124T120000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 2 - ASD GENOVA HOCKEY CLUB - BAD LAKE
+UID:22a64558-0673-454a-8925-57aa11ec4c48@22a6.org
 END:VEVENT
 END:VCALENDAR

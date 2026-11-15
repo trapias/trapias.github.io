@@ -39,7 +39,7 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 ## Dom 15/11/2026 10.00
 
-<strong> - </strong>
+<strong>SSD UNIME ARL - UTOR HOCKEY CLUB ROMA</strong>
 
 Gara: 338
 
@@ -53,7 +53,7 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 ## Dom 15/11/2026 12.00
 
-<strong> - </strong>
+<strong>GENOVA HOCKEY 1980 - HCU RASSEMBLEMENT TORINO</strong>
 
 Gara: 339
 

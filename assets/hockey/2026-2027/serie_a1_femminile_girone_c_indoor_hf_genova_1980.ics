@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 2\nGara 105\nPalaRomanzi - viale Gambaro\, 66 Genova\nASD GENOVA HOCKEY CLUB - HF GENOVA 1980
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20270102T100000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 2 - ASD GENOVA HOCKEY CLUB - HF GENOVA 1980
-UID:5903cf0c-ecfd-4524-97ce-ac0fd26b170c@5903.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 109\nPalazinola - Via Antonio Brilla\, snc Savona\nHF GENOVA 1980 - ASD GENOVA HOCKEY CLUB
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 103\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - HF GENOVA 1980
 GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20270124T090000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - HF GENOVA 1980 - ASD GENOVA HOCKEY CLUB
-UID:dd160918-385b-4e63-abac-1bfa8f51dfd2@dd16.org
+DTSTART:20261220T120000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - CUS PISA ASD - HF GENOVA 1980
+UID:b0f1fc40-16bc-4e81-98f1-f3f28e0596f9@b0f1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 2\nGara 107\nPalaRomanzi - viale Gambaro\, 66 Genova\nHF GENOVA 1980 - CUS PISA ASD
@@ -23,15 +15,23 @@ GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20270102T140000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 2 - HF GENOVA 1980 - CUS PISA ASD
-UID:97acd90c-4698-4e45-97ad-6800c1c089a5@97ac.org
+UID:27ba2195-bae3-4571-9cd0-eb27ffd895bc@27ba.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 103\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - HF GENOVA 1980
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 109\nPalazinola - Via Antonio Brilla\, snc Savona\nHF GENOVA 1980 - ASD GENOVA HOCKEY CLUB
 GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20261220T120000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - CUS PISA ASD - HF GENOVA 1980
-UID:a51f67ad-6473-49d8-8966-c4b24bebfc4f@a51f.org
+DTSTART:20270124T090000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - HF GENOVA 1980 - ASD GENOVA HOCKEY CLUB
+UID:3aa60bea-0911-49bb-802f-3031e86bd310@3aa6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 2\nGara 105\nPalaRomanzi - viale Gambaro\, 66 Genova\nASD GENOVA HOCKEY CLUB - HF GENOVA 1980
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20270102T100000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 2 - ASD GENOVA HOCKEY CLUB - HF GENOVA 1980
+UID:2c3888e7-ae66-4d25-9485-47608089a53e@2c38.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 111\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - HF GENOVA 1980
@@ -39,7 +39,7 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20270124T130000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - CUS PISA ASD - HF GENOVA 1980
-UID:c06ef612-6391-484b-ade1-14b310226749@c06e.org
+UID:7cae634a-957a-4083-b8ea-8f5781b67211@7cae.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 101\nPalazinola - Via Antonio Brilla\, snc Savona\nHF GENOVA 1980 - ASD GENOVA HOCKEY CLUB
@@ -47,6 +47,6 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20261220T090000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - HF GENOVA 1980 - ASD GENOVA HOCKEY CLUB
-UID:b898d6aa-62dd-469a-8dbe-bfde67d7d9a7@b898.org
+UID:bee7b92a-c45c-46ae-a39d-425122d8fa00@bee7.org
 END:VEVENT
 END:VCALENDAR

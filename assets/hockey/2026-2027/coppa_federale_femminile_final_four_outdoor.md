@@ -39,7 +39,7 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 ## Dom 15/11/2026 10.00
 
-<strong> - </strong>
+<strong>HOCKEY CLUB RIVA - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
 
 Gara: 342
 
@@ -53,7 +53,7 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 ## Dom 15/11/2026 12.00
 
-<strong> - </strong>
+<strong>USD MONCALVESE HOCKEY - CUS TORINO</strong>
 
 Gara: 343
 

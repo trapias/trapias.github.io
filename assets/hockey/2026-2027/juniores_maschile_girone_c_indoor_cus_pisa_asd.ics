@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 3\nGara 165\nPalaRomanzi - viale Gambaro\, 66 Genova\nASD GENOVA HOCKEY CLUB - CUS PISA ASD
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20270102T160000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 3 - ASD GENOVA HOCKEY CLUB - CUS PISA ASD
-UID:63e78666-37cb-416d-8cf2-207f4d74f73a@63e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 2\nGara 159\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nBAD LAKE - CUS PISA ASD
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20261219T160000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 2 - BAD LAKE - CUS PISA ASD
-UID:2141b3d1-140c-4cfc-b7ef-c32c72554505@2141.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 2\nGara 157\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHC SAVONA - CUS PISA ASD
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20261219T140000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 2 - HC SAVONA - CUS PISA ASD
-UID:e342c3aa-0acf-438a-a683-c50c6a55242f@e342.org
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 1\nGara 153\nPalazinola - Via Antonio Brilla\, snc Savona\nGENOVA HOCKEY 1980 - CUS PISA ASD
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20261206T120000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 1 - GENOVA HOCKEY 1980 - CUS PISA ASD
+UID:3d8b2a4b-fc4f-499f-b0a7-6893d6f8cc24@3d8b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone C / Giornata 4\nGara 169\npalazzetto dello sport - piazzale dello sport pisa\nCUS PISA ASD - BAD LAKE
@@ -31,15 +15,15 @@ GEO:43.717270;10.383605
 LOCATION:Piazzale dello Sport\, Porta a Mare\, Pisa\, Toscana\, 56122\, Italia
 DTSTART:20270110T130000Z
 SUMMARY:Juniores Maschile  - Girone C / Giornata 4 - CUS PISA ASD - BAD LAKE
-UID:9c415ed3-4f4f-4fe3-855f-e8b8dc40ca7f@9c41.org
+UID:e54e1efb-f53f-479a-ab8b-45bb139c68d1@e54e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 4\nGara 167\npalazzetto dello sport - piazzale dello sport pisa\nCUS PISA ASD - HC SAVONA
-GEO:43.717270;10.383605
-LOCATION:Piazzale dello Sport\, Porta a Mare\, Pisa\, Toscana\, 56122\, Italia
-DTSTART:20270110T110000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 4 - CUS PISA ASD - HC SAVONA
-UID:acdc0991-493f-4d60-9b17-b121e41c8971@acdc.org
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 3\nGara 165\nPalaRomanzi - viale Gambaro\, 66 Genova\nASD GENOVA HOCKEY CLUB - CUS PISA ASD
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20270102T160000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 3 - ASD GENOVA HOCKEY CLUB - CUS PISA ASD
+UID:eb298a2f-62d2-4a66-a6fe-9e8c2d9ec239@eb29.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone C / Giornata 1\nGara 155\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - ASD GENOVA HOCKEY CLUB
@@ -47,7 +31,7 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20261206T140000Z
 SUMMARY:Juniores Maschile  - Girone C / Giornata 1 - CUS PISA ASD - ASD GENOVA HOCKEY CLUB
-UID:43afe791-ddb2-429d-8ccf-4178efc4c539@43af.org
+UID:bfede898-d68f-472e-9ab6-2be419209c3e@bfed.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone C / Giornata 3\nGara 163\nPalaRomanzi - viale Gambaro\, 66 Genova\nCUS PISA ASD - GENOVA HOCKEY 1980
@@ -55,14 +39,30 @@ GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20270102T120000Z
 SUMMARY:Juniores Maschile  - Girone C / Giornata 3 - CUS PISA ASD - GENOVA HOCKEY 1980
-UID:23b7d1b3-458a-4ef3-afd6-0b35eda19fbc@23b7.org
+UID:0b7d4593-34b0-45b5-9082-1a5f4e9963ec@0b7d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone C / Giornata 1\nGara 153\nPalazinola - Via Antonio Brilla\, snc Savona\nGENOVA HOCKEY 1980 - CUS PISA ASD
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20261206T120000Z
-SUMMARY:Juniores Maschile  - Girone C / Giornata 1 - GENOVA HOCKEY 1980 - CUS PISA ASD
-UID:9345ae31-d61f-4972-b53e-5e8b0c1e9822@9345.org
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 4\nGara 167\npalazzetto dello sport - piazzale dello sport pisa\nCUS PISA ASD - HC SAVONA
+GEO:43.717270;10.383605
+LOCATION:Piazzale dello Sport\, Porta a Mare\, Pisa\, Toscana\, 56122\, Italia
+DTSTART:20270110T110000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 4 - CUS PISA ASD - HC SAVONA
+UID:2cd0c25b-b77f-4b82-80e3-4d4d18ac922f@2cd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 2\nGara 159\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nBAD LAKE - CUS PISA ASD
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20261219T160000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 2 - BAD LAKE - CUS PISA ASD
+UID:f37f6a09-351c-4e22-a2e4-3278c7446707@f37f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone C / Giornata 2\nGara 157\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHC SAVONA - CUS PISA ASD
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20261219T140000Z
+SUMMARY:Juniores Maschile  - Girone C / Giornata 2 - HC SAVONA - CUS PISA ASD
+UID:a70d9c0d-940b-480e-a041-c58414cae63f@a70d.org
 END:VEVENT
 END:VCALENDAR
