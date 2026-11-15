@@ -171,6 +171,8 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 <strong>ASD HF LORENZONI - ASD HF LORENZONI RIS.</strong>
 
+**Risultato: 8-0**
+
 Gara: 845
 
 Campo: Augusto Lorenzoni 

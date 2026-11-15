@@ -41,6 +41,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>SSD UNIME ARL - UTOR HOCKEY CLUB ROMA</strong>
 
+**Risultato: 2-11**
+
 Gara: 338
 
 Campo: Tazzoli 
@@ -54,6 +56,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 ## Dom 15/11/2026 12.00
 
 <strong>GENOVA HOCKEY 1980 - HCU RASSEMBLEMENT TORINO</strong>
+
+**Risultato: 0-4**
 
 Gara: 339
 

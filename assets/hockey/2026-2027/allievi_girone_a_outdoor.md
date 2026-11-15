@@ -225,6 +225,8 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 <strong>HCU RASSEMBLEMENT TORINO - A.S.D. S.H. PAOLO BONOMI</strong>
 
+**Risultato: 1-5**
+
 Gara: 774
 
 Campo: Tazzoli 
@@ -239,6 +241,8 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 <strong>ASD CERNUSCO FIELD HOCKEY - SCUOLA HOCKEY INDER SINGH NEXT GEN</strong>
 
+**Risultato: 2-5**
+
 Gara: 775
 
 Campo: Campo Comunale 
@@ -252,6 +256,8 @@ Geo: Geo(latitude=45.5311332, longitude=9.3433455)
 ## Dom 15/11/2026 13.00
 
 <strong>ASD CERNUSCO FIELD HOCKEY - SCUOLA HOCKEY INDER SINGH</strong>
+
+**Risultato: 5-0**
 
 Gara: 776
 

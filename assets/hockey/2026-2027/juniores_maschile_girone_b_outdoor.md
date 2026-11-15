@@ -144,6 +144,8 @@ Geo: Geo(latitude=45.391408, longitude=11.8058487)
 
 <strong>HOCKEY CLUB RIVA - CUS PADOVA ASD</strong>
 
+**Risultato: 2-2**
+
 Gara: 364
 
 Campo: Comunale Mori 
@@ -157,6 +159,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 ## Dom 15/11/2026 11.00
 
 <strong>ASD H.C. VILLAFRANCA - CSP SAN GIORGIO</strong>
+
+**Risultato: 5-2**
 
 Gara: 365
 

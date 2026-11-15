@@ -127,6 +127,8 @@ Geo: Geo(latitude=38.1397618, longitude=13.3164366)
 
 <strong>ASD SAN PIETRO CLARENZA - PGS DON BOSCO 2000 ASD</strong>
 
+**Risultato: 0-4**
+
 Gara: 1019
 
 Campo: DUSMET 

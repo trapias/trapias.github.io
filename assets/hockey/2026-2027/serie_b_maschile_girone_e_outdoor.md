@@ -20,6 +20,8 @@ Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 <strong>ASS ASD AMATORI HOCKEY - CUS CAGLIARI</strong>
 
+**Risultato: 1-4**
+
 Gara: 1039
 
 Campo: AMSICORA 
@@ -33,6 +35,8 @@ Geo: Geo(latitude=39.204954, longitude=9.1401682)
 ## Dom 15/11/2026 11.00
 
 <strong>A.S.D. POLISPORTIVA  JUVENILIA RIS. - MENHIR H.C.</strong>
+
+**Risultato: 2-4**
 
 Gara: 1040
 

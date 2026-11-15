@@ -2,36 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 196\nPalazinola - Via Antonio Brilla\, snc Savona\nASD GENOVA HOCKEY CLUB - BAD LAKE
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20270124T120000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 2 - ASD GENOVA HOCKEY CLUB - BAD LAKE
-UID:13ccd945-d3bf-42ae-8310-99f283271911@13cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 193\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - ASD GENOVA HOCKEY CLUB
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20261220T140000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 1 - CUS PISA ASD - ASD GENOVA HOCKEY CLUB
-UID:beb9734a-01fa-40e7-8001-5c2df80023fe@beb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 191\nPalazinola - Via Antonio Brilla\, snc Savona\nGENOVA HOCKEY 1980 - ASD GENOVA HOCKEY CLUB
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20261220T080000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 1 - GENOVA HOCKEY 1980 - ASD GENOVA HOCKEY CLUB
-UID:70208dd5-c962-4578-8673-03474a46e345@7020.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone C / Giornata 3\nGara 199\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD GENOVA HOCKEY CLUB - CUS PISA ASD
 GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
 DTSTART:20270206T100000Z
 SUMMARY:Ragazzi  - Girone C / Giornata 3 - ASD GENOVA HOCKEY CLUB - CUS PISA ASD
-UID:a31b82ac-c3b4-4e30-b615-105ae90cd295@a31b.org
+UID:c16c0266-5989-4aa4-835f-c633b57fbca1@c16c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 196\nPalazinola - Via Antonio Brilla\, snc Savona\nASD GENOVA HOCKEY CLUB - BAD LAKE
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20270124T120000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 2 - ASD GENOVA HOCKEY CLUB - BAD LAKE
+UID:5eba24b7-0b3d-4025-bd5c-21cf0c87b830@5eba.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 197\nPalazinola - Via Antonio Brilla\, snc Savona\nASD GENOVA HOCKEY CLUB - GENOVA HOCKEY 1980
@@ -39,7 +23,23 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20270124T150000Z
 SUMMARY:Ragazzi  - Girone C / Giornata 2 - ASD GENOVA HOCKEY CLUB - GENOVA HOCKEY 1980
-UID:e74df834-4597-4565-92dd-6e52c8fa4c4a@e74d.org
+UID:f4e5701a-0c16-451d-b8c4-a1c962da3f69@f4e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 191\nPalazinola - Via Antonio Brilla\, snc Savona\nGENOVA HOCKEY 1980 - ASD GENOVA HOCKEY CLUB
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20261220T080000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 1 - GENOVA HOCKEY 1980 - ASD GENOVA HOCKEY CLUB
+UID:32ec15aa-3578-4e75-9549-418bf39cf99c@32ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 193\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - ASD GENOVA HOCKEY CLUB
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20261220T140000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 1 - CUS PISA ASD - ASD GENOVA HOCKEY CLUB
+UID:d7882567-ffe5-4099-bf4a-362b9b6e9d02@d788.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone C / Giornata 3\nGara 202\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nBAD LAKE - ASD GENOVA HOCKEY CLUB
@@ -47,6 +47,6 @@ GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
 DTSTART:20270206T140000Z
 SUMMARY:Ragazzi  - Girone C / Giornata 3 - BAD LAKE - ASD GENOVA HOCKEY CLUB
-UID:2aa868b4-464f-458c-a6d6-524b70329327@2aa8.org
+UID:a5503971-735c-4344-b790-e13ffa886a04@a550.org
 END:VEVENT
 END:VCALENDAR

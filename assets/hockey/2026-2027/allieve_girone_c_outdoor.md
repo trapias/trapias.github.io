@@ -144,6 +144,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>HC RAINBOW SAMPIERDARENA - CUS PISA ASD</strong>
 
+**Risultato: 0-3**
+
 Gara: 955
 
 Campo: CAMPO G.ARNALDI 
@@ -157,6 +159,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 ## Dom 15/11/2026 17.00
 
 <strong>SUPERBA - HC GENOVA RAINBOW</strong>
+
+**Risultato: 17-0**
 
 Gara: 956
 

@@ -44,6 +44,8 @@ Geo: Geo(latitude=41.8385269, longitude=12.476376)
 
 <strong>LAZIO HOCKEY - AZ HOCKEY TEAM</strong>
 
+**Risultato: 6-0**
+
 Gara: 570
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

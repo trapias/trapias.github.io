@@ -127,6 +127,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>GENOVA H. 1980 ROVESCIO - H.C. GIALLO</strong>
 
+**Risultato: 2-1**
+
 Gara: 911
 
 Campo: CAMPO G.ARNALDI 

@@ -41,6 +41,8 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 
 <strong>HOCKEY CLUB RIVA - HOCKEY TEAM FEMMINILE BOLOGNA</strong>
 
+**Risultato: 0-2**
+
 Gara: 342
 
 Campo: UMBERTO MICCO 
@@ -54,6 +56,8 @@ Geo: Geo(latitude=45.050205, longitude=8.2650382)
 ## Dom 15/11/2026 12.00
 
 <strong>USD MONCALVESE HOCKEY - CUS TORINO</strong>
+
+**Risultato: 7-2**
 
 Gara: 343
 

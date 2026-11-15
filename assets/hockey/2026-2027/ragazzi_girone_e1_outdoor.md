@@ -74,6 +74,8 @@ Geo: Geo(latitude=42.0432315, longitude=13.437583)
 
 <strong>H.POTENZA PICENA - BUTTERFLY ROMA H.C.C.</strong>
 
+**Risultato: 2-8**
+
 Gara: 560
 
 Campo: STADIO HOCKEY POTENZA PICENA 
