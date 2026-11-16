@@ -2,36 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 102\nPalazinola - Via Antonio Brilla\, snc Savona\nASD SUPERBA HC - CUS PISA ASD
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20261220T100000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - ASD SUPERBA HC - CUS PISA ASD
-UID:3edf27ab-2807-4b07-ba19-b06597b486bc@3edf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 104\nPalazinola - Via Antonio Brilla\, snc Savona\nASD SUPERBA HC - ASD GENOVA HOCKEY CLUB
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20261220T130000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - ASD SUPERBA HC - ASD GENOVA HOCKEY CLUB
-UID:30379dab-79ea-45da-9ff0-4f180b6bbb44@3037.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 112\nPalazinola - Via Antonio Brilla\, snc Savona\nASD SUPERBA HC - ASD GENOVA HOCKEY CLUB
 GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20270124T140000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - ASD SUPERBA HC - ASD GENOVA HOCKEY CLUB
-UID:599c92c4-d344-4d48-9c31-dd349756d7ab@599c.org
+UID:f607158e-8eed-47bc-9e49-27f9edc29035@f607.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 110\nPalazinola - Via Antonio Brilla\, snc Savona\nASD SUPERBA HC - CUS PISA ASD
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 102\nPalazinola - Via Antonio Brilla\, snc Savona\nASD SUPERBA HC - CUS PISA ASD
 GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20270124T100000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - ASD SUPERBA HC - CUS PISA ASD
-UID:731edc99-1400-4672-aaca-5172451beb37@731e.org
+DTSTART:20261220T100000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - ASD SUPERBA HC - CUS PISA ASD
+UID:ac28c398-b084-43ef-a8c4-a404bee2734a@ac28.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 2\nGara 106\nPalaRomanzi - viale Gambaro\, 66 Genova\nCUS PISA ASD - ASD SUPERBA HC
@@ -39,7 +23,23 @@ GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20270102T110000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 2 - CUS PISA ASD - ASD SUPERBA HC
-UID:0ca8a981-3366-486c-8bc7-ee3176d536be@0ca8.org
+UID:24fcf383-d895-4d7c-811c-9d06e865757a@24fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 110\nPalazinola - Via Antonio Brilla\, snc Savona\nASD SUPERBA HC - CUS PISA ASD
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20270124T100000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - ASD SUPERBA HC - CUS PISA ASD
+UID:5c42025a-42d2-46fd-a486-9e6e13ceab78@5c42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 104\nPalazinola - Via Antonio Brilla\, snc Savona\nASD SUPERBA HC - ASD GENOVA HOCKEY CLUB
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20261220T130000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - ASD SUPERBA HC - ASD GENOVA HOCKEY CLUB
+UID:a653c2d8-f0ef-4d10-b182-f3abf95ee09b@a653.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 2\nGara 108\nPalaRomanzi - viale Gambaro\, 66 Genova\nASD GENOVA HOCKEY CLUB - ASD SUPERBA HC
@@ -47,6 +47,6 @@ GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20270102T150000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 2 - ASD GENOVA HOCKEY CLUB - ASD SUPERBA HC
-UID:633aff22-8709-49c6-a805-f1c36f9ac6a1@633a.org
+UID:19010580-dfc2-4a2a-a291-25b9cbf2ae72@1901.org
 END:VEVENT
 END:VCALENDAR
