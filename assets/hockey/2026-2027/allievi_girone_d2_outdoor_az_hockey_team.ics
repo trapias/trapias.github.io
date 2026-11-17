@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 5\nGara 731\nBAGLIANO - STRADA PROVINCIALE 72\, 25 MOGLIANO\nASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM
+GEO:43.172615;13.487342
+LOCATION:Strada Provinciale 72 Mogliano - Fiume\, Piani d'Ete\, Mogliano\, Macerata\, Marche\, 63834\, Italia
+DTSTART:20270320T160000Z
+SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 5 - ASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM
+UID:4e31d98c-19cd-4cfc-ad56-6fca21cce1f5@4e31.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 4\nGara 728\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - L'AQUILA HOCKEY
 GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20270306T120000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 4 - AZ HOCKEY TEAM - L'AQUILA HOCKEY
-UID:44350479-1a96-49b4-98c1-11a85155290d@4435.org
+UID:88c414af-0c7d-427b-a6c6-605fab774f03@88c4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 6\nGara 733\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - AZ HOCKEY TEAM
@@ -15,23 +23,7 @@ GEO:43.386400;13.654670
 LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
 DTSTART:20270404T120000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 6 - H.POTENZA PICENA - AZ HOCKEY TEAM
-UID:ebaedc20-a48e-4f2a-a77a-1506398cd3bb@ebae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 5\nGara 731\nBAGLIANO - STRADA PROVINCIALE 72\, 25 MOGLIANO\nASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM
-GEO:43.172615;13.487342
-LOCATION:Strada Provinciale 72 Mogliano - Fiume\, Piani d'Ete\, Mogliano\, Macerata\, Marche\, 63834\, Italia
-DTSTART:20270320T160000Z
-SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 5 - ASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM
-UID:3beab842-c151-4422-90ba-90f39c57341c@3bea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 3\nGara 727\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - H.POTENZA PICENA\n\nRisultato: 0-16
-GEO:42.043231;13.437583
-LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
-DTSTART:20261108T100000Z
-SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 3 - AZ HOCKEY TEAM - H.POTENZA PICENA
-UID:73964a39-902d-4a5f-92ce-bbc8efa92ec6@7396.org
+UID:6695e602-3702-4598-a484-9f6b8df95085@6695.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 2\nGara 725\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - ASD HOCKEY CLUB MOGLIANO\n\nRisultato: 1-12
@@ -39,7 +31,15 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20261025T123000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 2 - AZ HOCKEY TEAM - ASD HOCKEY CLUB MOGLIANO
-UID:2c8e324b-97ca-4826-9547-56b53ce7f5f5@2c8e.org
+UID:20a835c4-3d9b-4683-a2a5-91a5b7798aaf@20a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 3\nGara 727\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - H.POTENZA PICENA\n\nRisultato: 0-16
+GEO:42.043231;13.437583
+LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
+DTSTART:20261108T100000Z
+SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 3 - AZ HOCKEY TEAM - H.POTENZA PICENA
+UID:1f401ddb-3ea8-49d9-90b6-5420949e20b8@1f40.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 1\nGara 722\nOpera Salesiana San Giovanni Bosco - VIALE SAN GIOVANNI BOSCO\, 13 L'AQUILA\nL'AQUILA HOCKEY - AZ HOCKEY TEAM
@@ -47,6 +47,6 @@ GEO:42.354854;13.394494
 LOCATION:Viale Don Bosco\, Quarto di San Pietro\, Torretta\, L'Aquila\, Abruzzo\, 67100\, Italia
 DTSTART:20270228T110000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 1 - L'AQUILA HOCKEY - AZ HOCKEY TEAM
-UID:eb00e0d2-085b-4bfc-8697-f57207345987@eb00.org
+UID:4dd7650a-bbcb-4269-854d-0a48ce32f371@4dd7.org
 END:VEVENT
 END:VCALENDAR

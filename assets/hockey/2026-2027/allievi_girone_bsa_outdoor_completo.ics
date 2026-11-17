@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 3\nGara 404\nCampo Hockey Club Riva - Via Mazzoldi\, snc Riva del Garda\nHOCKEY CLUB RIVA - HOCKEY CUSCUBE BRESCIA\n\nRisultato: 17-0
-GEO:45.888250;10.862919
-LOCATION:Via Sisto Mazzoldi\, Sant'Alessandro\, Riva del Garda\, Comunità Alto Garda e Ledro\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38066\, Italia
-DTSTART:20261023T160000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 3 - HOCKEY CLUB RIVA - HOCKEY CUSCUBE BRESCIA
-UID:a69dde22-5d50-49a6-bba4-62e1d682a50e@a69d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 5\nGara 867\nCampo Hockey Club Riva - Via Mazzoldi\, snc Riva del Garda\nHOCKEY CLUB RIVA - POLISPORTIVA CAMELOT
-GEO:45.888250;10.862919
-LOCATION:Via Sisto Mazzoldi\, Sant'Alessandro\, Riva del Garda\, Comunità Alto Garda e Ledro\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38066\, Italia
-DTSTART:20270411T090000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 5 - HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT
-UID:dec1684f-9c33-4312-8634-b8e9d9ea98d4@dec1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 6\nGara 868\nComunale San Polo - Via Giotto\, 1 Brescia\nHOCKEY CUSCUBE BRESCIA - HOCKEY CLUB RIVA
-GEO:45.449027;10.227648
-LOCATION:1\, Via Giotto\, Montirone\, Brescia\, Lombardia\, 25010\, Italia
-DTSTART:20270425T090000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 6 - HOCKEY CUSCUBE BRESCIA - HOCKEY CLUB RIVA
-UID:6a5e78c8-618c-47da-a0d0-8dc48c62e3ca@6a5e.org
+DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 2\nGara 403\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nPOLISPORTIVA CAMELOT - HOCKEY CLUB RIVA\n\nRisultato: 1-11
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20261025T110000Z
+SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 2 - POLISPORTIVA CAMELOT - HOCKEY CLUB RIVA
+UID:a915726f-e5e6-497b-bc59-bac91da2b550@a915.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 4\nGara 864\nComunale San Polo - Via Giotto\, 1 Brescia\nHOCKEY CUSCUBE BRESCIA - POLISPORTIVA CAMELOT
@@ -31,7 +15,23 @@ GEO:45.449027;10.227648
 LOCATION:1\, Via Giotto\, Montirone\, Brescia\, Lombardia\, 25010\, Italia
 DTSTART:20270321T120000Z
 SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 4 - HOCKEY CUSCUBE BRESCIA - POLISPORTIVA CAMELOT
-UID:0c8b46a1-e7f4-4015-a82e-85eee45e2041@0c8b.org
+UID:5abfe066-6407-4279-9c76-ef5335332b9e@5abf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 6\nGara 868\nComunale San Polo - Via Giotto\, 1 Brescia\nHOCKEY CUSCUBE BRESCIA - HOCKEY CLUB RIVA
+GEO:45.449027;10.227648
+LOCATION:1\, Via Giotto\, Montirone\, Brescia\, Lombardia\, 25010\, Italia
+DTSTART:20270425T090000Z
+SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 6 - HOCKEY CUSCUBE BRESCIA - HOCKEY CLUB RIVA
+UID:791dd0be-e645-48b7-b0e0-b6b7eea6948e@791d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 5\nGara 867\nCampo Hockey Club Riva - Via Mazzoldi\, snc Riva del Garda\nHOCKEY CLUB RIVA - POLISPORTIVA CAMELOT
+GEO:45.888250;10.862919
+LOCATION:Via Sisto Mazzoldi\, Sant'Alessandro\, Riva del Garda\, Comunità Alto Garda e Ledro\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38066\, Italia
+DTSTART:20270411T090000Z
+SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 5 - HOCKEY CLUB RIVA - POLISPORTIVA CAMELOT
+UID:e42cf93d-4c8c-4923-8b93-e0f61a4acd7c@e42c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 1\nGara 400\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nPOLISPORTIVA CAMELOT - HOCKEY CUSCUBE BRESCIA
@@ -39,14 +39,14 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20261018T110000Z
 SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 1 - POLISPORTIVA CAMELOT - HOCKEY CUSCUBE BRESCIA
-UID:a9520582-a7c3-402c-9b50-30f55e0a1a92@a952.org
+UID:76aa793a-a0de-460b-a969-992343ed886e@76aa.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 2\nGara 403\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nPOLISPORTIVA CAMELOT - HOCKEY CLUB RIVA\n\nRisultato: 1-11
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20261025T110000Z
-SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 2 - POLISPORTIVA CAMELOT - HOCKEY CLUB RIVA
-UID:7ebabbe3-ac34-442e-9b78-5604c6d4a9d4@7eba.org
+DESCRIPTION:Allievi - OUTDOOR  - Girone B1 / Giornata 3\nGara 404\nCampo Hockey Club Riva - Via Mazzoldi\, snc Riva del Garda\nHOCKEY CLUB RIVA - HOCKEY CUSCUBE BRESCIA\n\nRisultato: 17-0
+GEO:45.888250;10.862919
+LOCATION:Via Sisto Mazzoldi\, Sant'Alessandro\, Riva del Garda\, Comunità Alto Garda e Ledro\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38066\, Italia
+DTSTART:20261023T160000Z
+SUMMARY:Allievi - OUTDOOR  - Girone B1 / Giornata 3 - HOCKEY CLUB RIVA - HOCKEY CUSCUBE BRESCIA
+UID:fdebc1bd-bff8-4c56-990f-a584e3e55cb1@fdeb.org
 END:VEVENT
 END:VCALENDAR
