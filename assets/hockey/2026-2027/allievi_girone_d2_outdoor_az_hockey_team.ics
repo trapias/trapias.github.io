@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 5\nGara 731\nBAGLIANO - STRADA PROVINCIALE 72\, 25 MOGLIANO\nASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM
-GEO:43.172615;13.487342
-LOCATION:Strada Provinciale 72 Mogliano - Fiume\, Piani d'Ete\, Mogliano\, Macerata\, Marche\, 63834\, Italia
-DTSTART:20270320T160000Z
-SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 5 - ASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM
-UID:4e31d98c-19cd-4cfc-ad56-6fca21cce1f5@4e31.org
+DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 1\nGara 722\nOpera Salesiana San Giovanni Bosco - VIALE SAN GIOVANNI BOSCO\, 13 L'AQUILA\nL'AQUILA HOCKEY - AZ HOCKEY TEAM
+GEO:42.354854;13.394494
+LOCATION:Viale Don Bosco\, Quarto di San Pietro\, Torretta\, L'Aquila\, Abruzzo\, 67100\, Italia
+DTSTART:20270228T110000Z
+SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 1 - L'AQUILA HOCKEY - AZ HOCKEY TEAM
+UID:389bad62-b60c-4559-97c1-63e7b984698b@389b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 4\nGara 728\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - L'AQUILA HOCKEY
@@ -15,15 +15,15 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20270306T120000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 4 - AZ HOCKEY TEAM - L'AQUILA HOCKEY
-UID:88c414af-0c7d-427b-a6c6-605fab774f03@88c4.org
+UID:a7b38aa9-9eb0-422a-90c4-8287da7d074a@a7b3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 6\nGara 733\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - AZ HOCKEY TEAM
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20270404T120000Z
-SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 6 - H.POTENZA PICENA - AZ HOCKEY TEAM
-UID:6695e602-3702-4598-a484-9f6b8df95085@6695.org
+DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 5\nGara 731\nBAGLIANO - STRADA PROVINCIALE 72\, 25 MOGLIANO\nASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM
+GEO:43.172615;13.487342
+LOCATION:Strada Provinciale 72 Mogliano - Fiume\, Piani d'Ete\, Mogliano\, Macerata\, Marche\, 63834\, Italia
+DTSTART:20270320T160000Z
+SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 5 - ASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM
+UID:a9e41adb-1298-4419-bac0-23b28db0ef07@a9e4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 2\nGara 725\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - ASD HOCKEY CLUB MOGLIANO\n\nRisultato: 1-12
@@ -31,7 +31,15 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20261025T123000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 2 - AZ HOCKEY TEAM - ASD HOCKEY CLUB MOGLIANO
-UID:20a835c4-3d9b-4683-a2a5-91a5b7798aaf@20a8.org
+UID:91accfd2-2e41-4bdb-91f7-2e201da99031@91ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 6\nGara 733\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - AZ HOCKEY TEAM
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20270404T120000Z
+SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 6 - H.POTENZA PICENA - AZ HOCKEY TEAM
+UID:efc45d94-7926-41f9-8c20-f5141c6a1885@efc4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 3\nGara 727\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - H.POTENZA PICENA\n\nRisultato: 0-16
@@ -39,14 +47,6 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20261108T100000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 3 - AZ HOCKEY TEAM - H.POTENZA PICENA
-UID:1f401ddb-3ea8-49d9-90b6-5420949e20b8@1f40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 1\nGara 722\nOpera Salesiana San Giovanni Bosco - VIALE SAN GIOVANNI BOSCO\, 13 L'AQUILA\nL'AQUILA HOCKEY - AZ HOCKEY TEAM
-GEO:42.354854;13.394494
-LOCATION:Viale Don Bosco\, Quarto di San Pietro\, Torretta\, L'Aquila\, Abruzzo\, 67100\, Italia
-DTSTART:20270228T110000Z
-SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 1 - L'AQUILA HOCKEY - AZ HOCKEY TEAM
-UID:4dd7650a-bbcb-4269-854d-0a48ce32f371@4dd7.org
+UID:de00f80c-eeab-40e6-8a08-b8f557ef6635@de00.org
 END:VEVENT
 END:VCALENDAR

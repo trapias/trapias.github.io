@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 6\nGara 881\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nBAD LAKE - H.C. GENOVA
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 3\nGara 875\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nH.C. GENOVA - BAD LAKE
 GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20270411T070000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 6 - BAD LAKE - H.C. GENOVA
-UID:d4a44ba2-b22a-4a36-aaf1-2b4adbf49870@d4a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 2\nGara 872\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nH.C. GENOVA - GENOVA HOCKEY 1980\n\nRisultato: 1-9
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20261017T163000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 2 - H.C. GENOVA - GENOVA HOCKEY 1980
-UID:0020c12e-d049-4312-8e14-541724759b90@0020.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 5\nGara 878\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA HOCKEY 1980 - H.C. GENOVA
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20270314T090000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 5 - GENOVA HOCKEY 1980 - H.C. GENOVA
-UID:fe45d727-bb30-484b-87a4-d1e70218261e@fe45.org
+DTSTART:20261121T100000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 3 - H.C. GENOVA - BAD LAKE
+UID:3fade162-d5a9-4692-a096-ccb6822bd324@3fad.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 4\nGara 877\nHOCKEY STADIUM ANDREA BRUSCHI - VIA PER MONTAGNANA\, 330 MONTAGNANA (pT)\nCUS PISA ASD - H.C. GENOVA
@@ -31,15 +15,23 @@ GEO:43.950983;10.829288
 LOCATION:Via per Montagnana\, Montagnana\, Marliana\, Pistoia\, Toscana\, 51130\, Italia
 DTSTART:20270307T090000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 4 - CUS PISA ASD - H.C. GENOVA
-UID:13fdf7fd-6966-40a7-99c5-0b53eb3f793a@13fd.org
+UID:591ba888-d249-4d42-935d-3e072c047890@591b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 3\nGara 875\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nH.C. GENOVA - BAD LAKE
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 5\nGara 878\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA HOCKEY 1980 - H.C. GENOVA
 GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20261121T100000Z
-SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 3 - H.C. GENOVA - BAD LAKE
-UID:07db7517-9eb5-4fda-9ad9-e085b4258c30@07db.org
+DTSTART:20270314T090000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 5 - GENOVA HOCKEY 1980 - H.C. GENOVA
+UID:290fd898-3d3b-431c-b267-e8dd1330ca4e@290f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 6\nGara 881\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nBAD LAKE - H.C. GENOVA
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20270411T070000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 6 - BAD LAKE - H.C. GENOVA
+UID:84964c3f-d062-4151-ac13-1f633fb8cf40@8496.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 1\nGara 871\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nH.C. GENOVA - CUS PISA ASD\n\nRisultato: 3-2
@@ -47,6 +39,14 @@ GEO:44.427741;8.919744
 LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
 DTSTART:20261115T110000Z
 SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 1 - H.C. GENOVA - CUS PISA ASD
-UID:15fabbfb-9219-4483-bff3-744377388e12@15fa.org
+UID:fea9de70-81f8-4eae-83a2-fdbc693bd885@fea9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile - OUTDOOR  - Girone C / Giornata 2\nGara 872\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nH.C. GENOVA - GENOVA HOCKEY 1980\n\nRisultato: 1-9
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20261017T163000Z
+SUMMARY:Juniores Maschile - OUTDOOR  - Girone C / Giornata 2 - H.C. GENOVA - GENOVA HOCKEY 1980
+UID:b6dfe0f3-5534-4d0e-87d3-286bf1ce4387@b6df.org
 END:VEVENT
 END:VCALENDAR
