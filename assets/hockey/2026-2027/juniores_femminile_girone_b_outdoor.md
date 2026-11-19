@@ -37,7 +37,7 @@ Geo: Geo(latitude=44.8802643, longitude=11.4256813)
 
 # Juniores Femminile - OUTDOOR  - Girone B / Giornata 2
 
-## Dom 22/11/2026 12.00
+## Dom 28/02/2027 11.00
 
 <strong>HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA</strong>
 

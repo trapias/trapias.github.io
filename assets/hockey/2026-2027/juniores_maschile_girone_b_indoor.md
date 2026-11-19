@@ -150,7 +150,7 @@ Geo: Geo(latitude=45.2150444, longitude=11.6066439)
 
 ## Dom 10/01/2027 14.00
 
-<strong>CSP SAN GIORGIO - HOCKEY TEAM BOLOGNA</strong>
+<strong>CSP SAN GIORGIO - CUS PADOVA ASD</strong>
 
 Gara: 468
 

@@ -140,6 +140,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>HOCKEY CLUB TIBERINA A.S.D. - BUTTERFLY ROMA H.C.C.</strong>
 
+**Risultato: 1-3**
+
 Gara: 600
 
 Campo: EUROMA STADIUM 

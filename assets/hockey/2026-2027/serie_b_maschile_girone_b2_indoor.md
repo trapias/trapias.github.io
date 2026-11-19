@@ -46,7 +46,7 @@ Geo: Geo(latitude=45.8967164, longitude=13.4911036)
 
 ## Dom 29/11/2026 14.30
 
-<strong>HC GRANTORTO B - HOCKEY CUSCUBE BRESCIA</strong>
+<strong>HC GRANTORTO A - HOCKEY CUSCUBE BRESCIA</strong>
 
 Gara: 395
 
