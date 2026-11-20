@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 3\nGara 202\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nBAD LAKE - ASD GENOVA HOCKEY CLUB
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20270206T140000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 3 - BAD LAKE - ASD GENOVA HOCKEY CLUB
-UID:8611aeac-7ae5-4d58-be37-366e160bbdfc@8611.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 198\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - BAD LAKE
+DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 196\nPalazinola - Via Antonio Brilla\, snc Savona\nASD GENOVA HOCKEY CLUB - BAD LAKE
 GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20270124T160000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 2 - CUS PISA ASD - BAD LAKE
-UID:6e254701-6dc6-4c27-81e3-731530d69a81@6e25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 192\nPalazinola - Via Antonio Brilla\, snc Savona\nBAD LAKE - CUS PISA ASD
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20261220T110000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 1 - BAD LAKE - CUS PISA ASD
-UID:f7323a8a-ce27-4d51-a661-7f864543487c@f732.org
+DTSTART:20270124T120000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 2 - ASD GENOVA HOCKEY CLUB - BAD LAKE
+UID:d82ad309-9cb3-4cdf-8451-379756d85ed1@d82a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone C / Giornata 3\nGara 200\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nBAD LAKE - GENOVA HOCKEY 1980
@@ -31,15 +15,23 @@ GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
 DTSTART:20270206T110000Z
 SUMMARY:Ragazzi  - Girone C / Giornata 3 - BAD LAKE - GENOVA HOCKEY 1980
-UID:b60144fa-97f3-4c8f-8d76-bd19b792b3e1@b601.org
+UID:db5deb32-0b06-4ef5-b796-afcfcde2d2a1@db5d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 196\nPalazinola - Via Antonio Brilla\, snc Savona\nASD GENOVA HOCKEY CLUB - BAD LAKE
+DESCRIPTION:Ragazzi  - Girone C / Giornata 3\nGara 202\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nBAD LAKE - ASD GENOVA HOCKEY CLUB
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20270206T140000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 3 - BAD LAKE - ASD GENOVA HOCKEY CLUB
+UID:c55e0b39-4404-4afd-8d15-ab98a38b1c0c@c55e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 192\nPalazinola - Via Antonio Brilla\, snc Savona\nBAD LAKE - CUS PISA ASD
 GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20270124T120000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 2 - ASD GENOVA HOCKEY CLUB - BAD LAKE
-UID:2199a501-5f53-4b1d-89e5-f87930c1a94e@2199.org
+DTSTART:20261220T110000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 1 - BAD LAKE - CUS PISA ASD
+UID:06255bd4-6860-45b3-a3ef-cbb8948f1ebd@0625.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 194\nPalazinola - Via Antonio Brilla\, snc Savona\nGENOVA HOCKEY 1980 - BAD LAKE
@@ -47,6 +39,14 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20261220T150000Z
 SUMMARY:Ragazzi  - Girone C / Giornata 1 - GENOVA HOCKEY 1980 - BAD LAKE
-UID:083168a3-1c5e-420c-bc29-c797ade51542@0831.org
+UID:0c3e1d09-d25e-4aae-a429-d00633ed4387@0c3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 198\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - BAD LAKE
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20270124T160000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 2 - CUS PISA ASD - BAD LAKE
+UID:dd559555-f888-44b2-b1e0-b02c28adf07d@dd55.org
 END:VEVENT
 END:VCALENDAR

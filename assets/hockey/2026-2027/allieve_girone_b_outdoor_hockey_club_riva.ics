@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 6\nGara 892\nCampo Hockey Club Riva - Via Mazzoldi\, snc Riva del Garda\nHOCKEY CLUB RIVA - ASD ADIGE UHC
-GEO:45.888250;10.862919
-LOCATION:Via Sisto Mazzoldi\, Sant'Alessandro\, Riva del Garda\, Comunità Alto Garda e Ledro\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38066\, Italia
-DTSTART:20270509T090000Z
-SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 6 - HOCKEY CLUB RIVA - ASD ADIGE UHC
-UID:71846d98-1bfb-4dd2-b0ad-389f60f4d866@7184.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 3\nGara 886\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY CLUB RIVA\n\nRisultato: 5-0
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20261021T163000Z
-SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 3 - ASD ADIGE UHC - HOCKEY CLUB RIVA
-UID:e734fa81-e9ee-4acc-8d63-f1a3165aeb0e@e734.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 4\nGara 888\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - HOCKEY CLUB RIVA
 GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20270321T100000Z
 SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 4 - HOCKEY CLUB BONDENO - HOCKEY CLUB RIVA
-UID:af7a9ef4-3388-4a16-a4f7-3d57e20124ae@af7a.org
+UID:6ba0534a-35c5-4ede-81a9-5cd291b38162@6ba0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 1\nGara 882\nCampo Hockey Club Riva - Via Mazzoldi\, snc Riva del Garda\nHOCKEY CLUB RIVA - HOCKEY CLUB BONDENO\n\nRisultato: 6-2
@@ -31,15 +15,23 @@ GEO:45.888250;10.862919
 LOCATION:Via Sisto Mazzoldi\, Sant'Alessandro\, Riva del Garda\, Comunità Alto Garda e Ledro\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38066\, Italia
 DTSTART:20260927T090000Z
 SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 1 - HOCKEY CLUB RIVA - HOCKEY CLUB BONDENO
-UID:b3ec5c18-ce41-48bb-b20a-5841721b5858@b3ec.org
+UID:0033f12d-2f14-4993-88c1-414ff9c14c7b@0033.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 5\nGara 890\nCampo Hockey Club Riva - Via Mazzoldi\, snc Riva del Garda\nHOCKEY CLUB RIVA - CUS PADOVA ASD
+DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 6\nGara 892\nCampo Hockey Club Riva - Via Mazzoldi\, snc Riva del Garda\nHOCKEY CLUB RIVA - ASD ADIGE UHC
 GEO:45.888250;10.862919
 LOCATION:Via Sisto Mazzoldi\, Sant'Alessandro\, Riva del Garda\, Comunità Alto Garda e Ledro\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38066\, Italia
-DTSTART:20270411T103000Z
-SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 5 - HOCKEY CLUB RIVA - CUS PADOVA ASD
-UID:49d504e8-ab6c-4b9d-9e07-1ca5502cf8da@49d5.org
+DTSTART:20270509T090000Z
+SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 6 - HOCKEY CLUB RIVA - ASD ADIGE UHC
+UID:85233645-0bc4-4d25-9578-c6c82b79174f@8523.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 3\nGara 886\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY CLUB RIVA\n\nRisultato: 5-0
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20261021T163000Z
+SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 3 - ASD ADIGE UHC - HOCKEY CLUB RIVA
+UID:f508d264-57ad-4372-8ceb-5a6f4ecc73a3@f508.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 2\nGara 884\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - HOCKEY CLUB RIVA\n\nRisultato: 4-5
@@ -47,6 +39,14 @@ GEO:45.391408;11.805849
 LOCATION:Padova\, Veneto\, Italia
 DTSTART:20261025T123000Z
 SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 2 - CUS PADOVA ASD - HOCKEY CLUB RIVA
-UID:43ef8608-3f8c-4c3c-b92c-5f0e72c4961a@43ef.org
+UID:6e5d0ed4-4c8d-49a8-87ef-57efc6f76299@6e5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 5\nGara 890\nCampo Hockey Club Riva - Via Mazzoldi\, snc Riva del Garda\nHOCKEY CLUB RIVA - CUS PADOVA ASD
+GEO:45.888250;10.862919
+LOCATION:Via Sisto Mazzoldi\, Sant'Alessandro\, Riva del Garda\, Comunità Alto Garda e Ledro\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38066\, Italia
+DTSTART:20270411T103000Z
+SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 5 - HOCKEY CLUB RIVA - CUS PADOVA ASD
+UID:04651410-865c-4c84-97d7-bb45d08874f7@0465.org
 END:VEVENT
 END:VCALENDAR

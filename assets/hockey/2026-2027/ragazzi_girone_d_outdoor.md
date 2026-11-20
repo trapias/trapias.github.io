@@ -2,7 +2,7 @@
 
 # Ragazzi - OUTDOOR  - Girone D / Giornata 1
 
-## Dom 22/11/2026 11.00
+## -
 
 <strong>GENOVA HOCKEY 1980 - H.C. GENOVA</strong>
 
