@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 1\nGara 449\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - A.R.FINCANTIERI A.S.D.
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20261208T150000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 1 - ASD ADIGE UHC - A.R.FINCANTIERI A.S.D.
-UID:32fa1b23-7bdd-4256-af2b-56295c7aebb3@32fa.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 3\nGara 455\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nCUS BOLOGNA - ASD ADIGE UHC
 GEO:45.896716;13.491104
 LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
 DTSTART:20270110T120000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 3 - CUS BOLOGNA - ASD ADIGE UHC
-UID:3af48432-edab-4449-afc1-3b201af73a2a@3af4.org
+UID:46994d19-b7cf-41ff-a76d-ca1c88411304@4699.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 2\nGara 452\nPALARECORD CUS - via pilastro 8 BOLOGNA\nHOCKEY TEAM FEMMINILE BOLOGNA - ASD ADIGE UHC
@@ -23,7 +15,15 @@ GEO:44.513155;11.397006
 LOCATION:8\, Via Ada Negri\, Pilastro\, San Donato-San Vitale\, San Sisto\, Bologna\, Emilia-Romagna\, 40127\, Italia
 DTSTART:20261220T140000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 2 - HOCKEY TEAM FEMMINILE BOLOGNA - ASD ADIGE UHC
-UID:bfbe1a5d-53b9-40bb-83f4-cac5d2ade9e8@bfbe.org
+UID:89841ef9-c53c-4126-a26e-432852397daa@8984.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 1\nGara 449\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - A.R.FINCANTIERI A.S.D.
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20261208T150000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 1 - ASD ADIGE UHC - A.R.FINCANTIERI A.S.D.
+UID:4ff9c518-9b7d-4301-8f18-90f546dad097@4ff9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 1\nGara 446\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY TEAM FEMMINILE BOLOGNA
@@ -31,15 +31,7 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20261208T110000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 1 - ASD ADIGE UHC - HOCKEY TEAM FEMMINILE BOLOGNA
-UID:846a94b6-8ef1-4caa-a911-477a286ca652@846a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 2\nGara 450\nPALARECORD CUS - via pilastro 8 BOLOGNA\nCUS BOLOGNA - ASD ADIGE UHC
-GEO:44.513155;11.397006
-LOCATION:8\, Via Ada Negri\, Pilastro\, San Donato-San Vitale\, San Sisto\, Bologna\, Emilia-Romagna\, 40127\, Italia
-DTSTART:20261220T110000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 2 - CUS BOLOGNA - ASD ADIGE UHC
-UID:771f7871-fa1c-49ee-8efb-d9485450dd45@771f.org
+UID:317754dd-22a1-48a0-95eb-c94334c33f78@3177.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 3\nGara 456\npalestra macoratti - PIAZZALE ATLETI AZZURRI D'ITALIA GRADISCA D'ISONZO\nA.R.FINCANTIERI A.S.D. - ASD ADIGE UHC
@@ -47,6 +39,14 @@ GEO:45.896716;13.491104
 LOCATION:Piazzale Atleti Azzurri d'Italia\, Gradisca d'Isonzo / Gardiscje\, Gorizia / Gurize / Gorica\, Friuli-Venezia Giulia\, 34072\, Italia
 DTSTART:20270110T140000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 3 - A.R.FINCANTIERI A.S.D. - ASD ADIGE UHC
-UID:11e05afb-6f99-4e91-b60f-7bd9ce32d82f@11e0.org
+UID:e5df2707-32ce-44ba-b988-0a2eeaa0ecaa@e5df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone B / Giornata 2\nGara 450\nPALARECORD CUS - via pilastro 8 BOLOGNA\nCUS BOLOGNA - ASD ADIGE UHC
+GEO:44.513155;11.397006
+LOCATION:8\, Via Ada Negri\, Pilastro\, San Donato-San Vitale\, San Sisto\, Bologna\, Emilia-Romagna\, 40127\, Italia
+DTSTART:20261220T110000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone B / Giornata 2 - CUS BOLOGNA - ASD ADIGE UHC
+UID:33dea146-43e9-4d1b-b856-a6a0764503c9@33de.org
 END:VEVENT
 END:VCALENDAR

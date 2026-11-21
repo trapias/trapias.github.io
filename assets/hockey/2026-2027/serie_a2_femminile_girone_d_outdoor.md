@@ -6,6 +6,8 @@
 
 <strong>S.G. AMSICORA ASD RIS. - POLISPORTIVA FERRINI CAGLIARI RIS.</strong>
 
+**Risultato: 3-0**
+
 Gara: 1032
 
 Campo: AMSICORA 

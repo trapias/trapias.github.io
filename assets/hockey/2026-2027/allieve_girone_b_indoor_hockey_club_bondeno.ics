@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone B / Giornata 2\nGara 481\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHOCKEY CLUB BONDENO - ASD ADIGE UHC
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20270131T110000Z
-SUMMARY:Allieve  - Girone B / Giornata 2 - HOCKEY CLUB BONDENO - ASD ADIGE UHC
-UID:e7df310c-eed7-48dc-bff5-586a761a8187@e7df.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone B / Giornata 3\nGara 485\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - HOCKEY CLUB BONDENO
 GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20270214T110000Z
 SUMMARY:Allieve  - Girone B / Giornata 3 - HOCKEY CLUB RIVA - HOCKEY CLUB BONDENO
-UID:046bc204-6fc7-49ed-b249-f909a1974b9a@046b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone B / Giornata 1\nGara 478\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nCUS PADOVA ASD - HOCKEY CLUB BONDENO
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20270106T130000Z
-SUMMARY:Allieve  - Girone B / Giornata 1 - CUS PADOVA ASD - HOCKEY CLUB BONDENO
-UID:0e18eedf-a793-48e2-9070-4f6e3ac49659@0e18.org
+UID:274fdcd8-20ab-4cde-8131-04697ab7d7bd@274f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone B / Giornata 2\nGara 483\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHOCKEY CLUB RIVA - HOCKEY CLUB BONDENO
@@ -31,7 +15,7 @@ GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
 DTSTART:20270131T140000Z
 SUMMARY:Allieve  - Girone B / Giornata 2 - HOCKEY CLUB RIVA - HOCKEY CLUB BONDENO
-UID:40573a5c-5d8a-4eca-9ae1-7dee04cf3a49@4057.org
+UID:a2c78a19-f57b-49df-b1c2-d118160d2e78@a2c7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone B / Giornata 3\nGara 486\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY CLUB BONDENO
@@ -39,7 +23,23 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20270214T130000Z
 SUMMARY:Allieve  - Girone B / Giornata 3 - ASD ADIGE UHC - HOCKEY CLUB BONDENO
-UID:53e9cf00-3c29-44ed-904f-dbf799e904ff@53e9.org
+UID:4f00b0ad-111b-42a7-b113-19fa52c13bbd@4f00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve  - Girone B / Giornata 1\nGara 478\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nCUS PADOVA ASD - HOCKEY CLUB BONDENO
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20270106T130000Z
+SUMMARY:Allieve  - Girone B / Giornata 1 - CUS PADOVA ASD - HOCKEY CLUB BONDENO
+UID:13e8c493-669a-4e47-9eba-c64d380275b0@13e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve  - Girone B / Giornata 2\nGara 481\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHOCKEY CLUB BONDENO - ASD ADIGE UHC
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20270131T110000Z
+SUMMARY:Allieve  - Girone B / Giornata 2 - HOCKEY CLUB BONDENO - ASD ADIGE UHC
+UID:09962699-2f3b-4b1c-92aa-a2886bfbc856@0996.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone B / Giornata 1\nGara 476\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nHOCKEY CLUB BONDENO - ASD ADIGE UHC
@@ -47,6 +47,6 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20270106T100000Z
 SUMMARY:Allieve  - Girone B / Giornata 1 - HOCKEY CLUB BONDENO - ASD ADIGE UHC
-UID:5819925a-6a8c-4d05-8829-54fc1d2c4113@5819.org
+UID:a92ad169-3f88-40e8-88d9-43e6d430e15a@a92a.org
 END:VEVENT
 END:VCALENDAR
