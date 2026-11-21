@@ -6,6 +6,8 @@
 
 <strong>A.S.D. POLISPORTIVA  JUVENILIA - CSP SAN GIORGIO</strong>
 
+**Risultato: 2-3**
+
 Gara: 177
 
 Campo: Comunale Uras 

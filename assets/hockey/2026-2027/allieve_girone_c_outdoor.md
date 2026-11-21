@@ -6,6 +6,8 @@
 
 <strong>HF GENOVA 1980 - HC GENOVA RAINBOW</strong>
 
+**Risultato: 9-0**
+
 Gara: 942
 
 Campo: CAMPO G.ARNALDI 

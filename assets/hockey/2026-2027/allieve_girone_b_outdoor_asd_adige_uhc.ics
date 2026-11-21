@@ -2,36 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 1\nGara 883\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - ASD ADIGE UHC\n\nRisultato: 1-8
-GEO:45.391408;11.805849
-LOCATION:Padova\, Veneto\, Italia
-DTSTART:20261101T120000Z
-SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 1 - CUS PADOVA ASD - ASD ADIGE UHC
-UID:a1dccc7c-7b46-4e30-8e94-86c12e5bcef3@a1dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 2\nGara 885\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - ASD ADIGE UHC\n\nRisultato: 2-7
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20261025T100000Z
-SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 2 - HOCKEY CLUB BONDENO - ASD ADIGE UHC
-UID:8853c5a7-0b32-4f4c-ad0e-98f0835f7800@8853.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 3\nGara 886\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY CLUB RIVA\n\nRisultato: 5-0
-GEO:45.851210;10.986574
-LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20261021T163000Z
-SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 3 - ASD ADIGE UHC - HOCKEY CLUB RIVA
-UID:33e213ad-99fa-44ff-a443-1c57d89aab5a@33e2.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 4\nGara 889\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - CUS PADOVA ASD
 GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20270321T120000Z
 SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 4 - ASD ADIGE UHC - CUS PADOVA ASD
-UID:101038c2-5926-4286-a1c6-3cad8a125b73@1010.org
+UID:daec3fa7-9b43-4ab9-9bd8-864f2d0b07c8@daec.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 5\nGara 891\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY CLUB BONDENO
@@ -39,7 +15,23 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20270411T090000Z
 SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 5 - ASD ADIGE UHC - HOCKEY CLUB BONDENO
-UID:b8ae3dd6-7b2f-4e42-9d05-c396718790c3@b8ae.org
+UID:45887cc5-5886-4910-b4b7-506f8cd81559@4588.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 2\nGara 885\nA. GIATTI - VIA NAPOLEONICA\, 87 BONDENO\nHOCKEY CLUB BONDENO - ASD ADIGE UHC\n\nRisultato: 2-7
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20261025T100000Z
+SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 2 - HOCKEY CLUB BONDENO - ASD ADIGE UHC
+UID:0209d572-e848-44c9-bded-891b9b16a862@0209.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 1\nGara 883\nImpianti L. Merigliano - via J. Corrado\, 4 Padova\nCUS PADOVA ASD - ASD ADIGE UHC\n\nRisultato: 1-8
+GEO:45.391408;11.805849
+LOCATION:Padova\, Veneto\, Italia
+DTSTART:20261101T120000Z
+SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 1 - CUS PADOVA ASD - ASD ADIGE UHC
+UID:ed324c44-6c52-487c-8cf2-0e5541aea259@ed32.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 6\nGara 892\nCampo Hockey Club Riva - Via Mazzoldi\, snc Riva del Garda\nHOCKEY CLUB RIVA - ASD ADIGE UHC
@@ -47,6 +39,14 @@ GEO:45.888250;10.862919
 LOCATION:Via Sisto Mazzoldi\, Sant'Alessandro\, Riva del Garda\, Comunità Alto Garda e Ledro\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38066\, Italia
 DTSTART:20270509T090000Z
 SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 6 - HOCKEY CLUB RIVA - ASD ADIGE UHC
-UID:083b3411-c8e3-45b3-af1e-e510db694984@083b.org
+UID:a34889c6-8743-4a00-b51a-da2569ec61fc@a348.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve - OUTDOOR  - Girone B / Giornata 3\nGara 886\nComunale Mori - Via Lomba\, 23 Mori\nASD ADIGE UHC - HOCKEY CLUB RIVA\n\nRisultato: 5-0
+GEO:45.851210;10.986574
+LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
+DTSTART:20261021T163000Z
+SUMMARY:Allieve - OUTDOOR  - Girone B / Giornata 3 - ASD ADIGE UHC - HOCKEY CLUB RIVA
+UID:9ce5e93a-dfda-4882-8afb-3c02a4b647c5@9ce5.org
 END:VEVENT
 END:VCALENDAR

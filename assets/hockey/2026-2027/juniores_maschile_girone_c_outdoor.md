@@ -92,6 +92,8 @@ Geo: Geo(latitude=44.4277407, longitude=8.9197437)
 
 <strong>H.C. GENOVA - BAD LAKE</strong>
 
+**Risultato: 1-1**
+
 Gara: 875
 
 Campo: CAMPO G.ARNALDI 
