@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile  - Girone B / Giornata 2\nGara 414\npalacus - via circonvallazione est idroscalo 11 segrate\nMILANO HP - HOCKEY CLUB RIVA
-GEO:45.468790;9.292811
-LOCATION:Centro Universitario Sportivo Milano\, 11\, Via Arnoldo Mondadori\, Tregarezzo\, San Felice\, Segrate\, Milano\, Lombardia\, 20054\, Italia
-DTSTART:20261213T120000Z
-SUMMARY:Juniores Femminile  - Girone B / Giornata 2 - MILANO HP - HOCKEY CLUB RIVA
-UID:d5ca9a63-324c-4783-9db6-656f40e86b14@d5ca.org
+DESCRIPTION:Juniores Femminile  - Girone B / Giornata 3\nGara 420\nPALARECORD CUS - via pilastro 8 BOLOGNA\nHOCKEY CLUB RIVA - MILANO HP
+GEO:44.513155;11.397006
+LOCATION:8\, Via Ada Negri\, Pilastro\, San Donato-San Vitale\, San Sisto\, Bologna\, Emilia-Romagna\, 40127\, Italia
+DTSTART:20270106T130000Z
+SUMMARY:Juniores Femminile  - Girone B / Giornata 3 - HOCKEY CLUB RIVA - MILANO HP
+UID:b69a0bdf-020a-449f-bd38-f1efeac7fa6d@b69a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone B / Giornata 1\nGara 411\nComunale Mori - Via Lomba\, 23 Mori\nCUS BOLOGNA - MILANO HP
@@ -15,15 +15,7 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20261206T110000Z
 SUMMARY:Juniores Femminile  - Girone B / Giornata 1 - CUS BOLOGNA - MILANO HP
-UID:fe32e8f8-a9a3-4435-be06-2be3e625f997@fe32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile  - Girone B / Giornata 3\nGara 420\nPALARECORD CUS - via pilastro 8 BOLOGNA\nHOCKEY CLUB RIVA - MILANO HP
-GEO:44.513155;11.397006
-LOCATION:8\, Via Ada Negri\, Pilastro\, San Donato-San Vitale\, San Sisto\, Bologna\, Emilia-Romagna\, 40127\, Italia
-DTSTART:20270106T130000Z
-SUMMARY:Juniores Femminile  - Girone B / Giornata 3 - HOCKEY CLUB RIVA - MILANO HP
-UID:51b17eab-cda6-49ec-859e-4521ef5792ce@51b1.org
+UID:bdafe523-e2a8-44ba-959d-bd7a8a3dde9b@bdaf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone B / Giornata 3\nGara 418\nPALARECORD CUS - via pilastro 8 BOLOGNA\nMILANO HP - CUS BOLOGNA
@@ -31,7 +23,7 @@ GEO:44.513155;11.397006
 LOCATION:8\, Via Ada Negri\, Pilastro\, San Donato-San Vitale\, San Sisto\, Bologna\, Emilia-Romagna\, 40127\, Italia
 DTSTART:20270106T100000Z
 SUMMARY:Juniores Femminile  - Girone B / Giornata 3 - MILANO HP - CUS BOLOGNA
-UID:f31bcd86-519f-4764-8ccd-4c0b28975d2a@f31b.org
+UID:c59a416b-af7a-46ea-863a-aab4f4ead67a@c59a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone B / Giornata 2\nGara 417\npalacus - via circonvallazione est idroscalo 11 segrate\nASD ADIGE UHC - MILANO HP
@@ -39,7 +31,15 @@ GEO:45.468790;9.292811
 LOCATION:Centro Universitario Sportivo Milano\, 11\, Via Arnoldo Mondadori\, Tregarezzo\, San Felice\, Segrate\, Milano\, Lombardia\, 20054\, Italia
 DTSTART:20261213T153000Z
 SUMMARY:Juniores Femminile  - Girone B / Giornata 2 - ASD ADIGE UHC - MILANO HP
-UID:da7c450e-0365-4874-8f0f-c11cc4f23adb@da7c.org
+UID:ef48e6b0-5ac9-4596-bc91-fad6a2f017ea@ef48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile  - Girone B / Giornata 2\nGara 414\npalacus - via circonvallazione est idroscalo 11 segrate\nMILANO HP - HOCKEY CLUB RIVA
+GEO:45.468790;9.292811
+LOCATION:Centro Universitario Sportivo Milano\, 11\, Via Arnoldo Mondadori\, Tregarezzo\, San Felice\, Segrate\, Milano\, Lombardia\, 20054\, Italia
+DTSTART:20261213T120000Z
+SUMMARY:Juniores Femminile  - Girone B / Giornata 2 - MILANO HP - HOCKEY CLUB RIVA
+UID:b5d79349-18c3-4722-825c-af5a6bb769f8@b5d7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone B / Giornata 1\nGara 412\nComunale Mori - Via Lomba\, 23 Mori\nMILANO HP - ASD ADIGE UHC
@@ -47,6 +47,6 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20261206T130000Z
 SUMMARY:Juniores Femminile  - Girone B / Giornata 1 - MILANO HP - ASD ADIGE UHC
-UID:03afa567-e034-48e0-bc99-0114e3a626b4@03af.org
+UID:0c2b188c-dbdd-43cf-b114-5c101801ba04@0c2b.org
 END:VEVENT
 END:VCALENDAR

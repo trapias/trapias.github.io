@@ -6,6 +6,8 @@
 
 <strong>SUPERBA - CUS PISA ASD</strong>
 
+**Risultato: 2-3**
+
 Gara: 930
 
 Campo: CAMPO G.ARNALDI 
