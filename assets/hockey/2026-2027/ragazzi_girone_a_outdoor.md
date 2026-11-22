@@ -97,6 +97,8 @@ Geo: Geo(latitude=45.2404163, longitude=8.6981976)
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HOCKEY SU PRATO VALCHISONE</strong>
 
+**Risultato: 8-1**
+
 Gara: 757
 
 Campo: Campo Comunale 

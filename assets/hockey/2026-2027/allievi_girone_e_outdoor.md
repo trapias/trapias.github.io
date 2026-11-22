@@ -176,6 +176,8 @@ Geo: Geo(latitude=37.5294255, longitude=15.0965573)
 
 <strong>PGS DON BOSCO 2000 ASD - SSD UNIME ARL</strong>
 
+**Risultato: 1-6**
+
 Gara: 1023
 
 Campo: Oratorio Salesiano 

@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 104\nPalazinola - Via Antonio Brilla\, snc Savona\nASD SUPERBA HC - ASD GENOVA HOCKEY CLUB
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20261220T130000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - ASD SUPERBA HC - ASD GENOVA HOCKEY CLUB
-UID:e1375f05-f85d-44e2-9ad6-5ebe62117952@e137.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 112\nPalazinola - Via Antonio Brilla\, snc Savona\nASD SUPERBA HC - ASD GENOVA HOCKEY CLUB
 GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20270124T140000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - ASD SUPERBA HC - ASD GENOVA HOCKEY CLUB
-UID:e1174934-e97d-46b3-b39b-5a873a2c29ac@e117.org
+UID:3eb2c590-665f-44d9-b9bb-9b914ec33a95@3eb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 104\nPalazinola - Via Antonio Brilla\, snc Savona\nASD SUPERBA HC - ASD GENOVA HOCKEY CLUB
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20261220T130000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - ASD SUPERBA HC - ASD GENOVA HOCKEY CLUB
+UID:15583654-5593-44a9-835c-d30bf22bdbe7@1558.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 2\nGara 108\nPalaRomanzi - viale Gambaro\, 66 Genova\nASD GENOVA HOCKEY CLUB - ASD SUPERBA HC
@@ -23,15 +23,7 @@ GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20270102T150000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 2 - ASD GENOVA HOCKEY CLUB - ASD SUPERBA HC
-UID:2e6fb334-d124-4d3d-b871-808f755001f5@2e6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 101\nPalazinola - Via Antonio Brilla\, snc Savona\nHF GENOVA 1980 - ASD GENOVA HOCKEY CLUB
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20261220T090000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - HF GENOVA 1980 - ASD GENOVA HOCKEY CLUB
-UID:0e3f95c6-206d-4558-a8ee-4becc7a9d859@0e3f.org
+UID:be565f2e-03a7-4574-9f40-ffe3e70fd615@be56.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 2\nGara 105\nPalaRomanzi - viale Gambaro\, 66 Genova\nASD GENOVA HOCKEY CLUB - HF GENOVA 1980
@@ -39,7 +31,15 @@ GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20270102T100000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 2 - ASD GENOVA HOCKEY CLUB - HF GENOVA 1980
-UID:65e2dfd7-55c9-469e-a835-a29517a989b3@65e2.org
+UID:b19625df-9ec3-4341-832a-b45f9c46c746@b196.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 101\nPalazinola - Via Antonio Brilla\, snc Savona\nHF GENOVA 1980 - ASD GENOVA HOCKEY CLUB
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20261220T090000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - HF GENOVA 1980 - ASD GENOVA HOCKEY CLUB
+UID:9529eace-460d-4c95-890f-acc2409b7a30@9529.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 109\nPalazinola - Via Antonio Brilla\, snc Savona\nHF GENOVA 1980 - ASD GENOVA HOCKEY CLUB
@@ -47,6 +47,6 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20270124T090000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - HF GENOVA 1980 - ASD GENOVA HOCKEY CLUB
-UID:617a32c7-fd57-47e2-a87a-fd37f19094e0@617a.org
+UID:e12ce9a3-fa62-41d6-9138-0f211fa6526e@e12c.org
 END:VEVENT
 END:VCALENDAR

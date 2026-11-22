@@ -57,6 +57,8 @@ Geo: Geo(latitude=45.8512102, longitude=10.9865738)
 
 <strong>POLISPORTIVA CAMELOT - ASD ADIGE UHC</strong>
 
+**Risultato: 13-0**
+
 Gara: 379
 
 Campo: Impianti L. Merigliano 

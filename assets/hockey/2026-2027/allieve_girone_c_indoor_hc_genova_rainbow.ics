@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 285\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCUS PISA ASD - HC GENOVA RAINBOW
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20270131T100000Z
+SUMMARY:Allieve  - Girone C / Giornata 2 - CUS PISA ASD - HC GENOVA RAINBOW
+UID:27dd25c3-ae96-42f6-9b26-a849af49d1a9@27dd.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 1\nGara 281\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nHC RAINBOW SAMPIERDARENA - HC GENOVA RAINBOW
 GEO:43.944387;10.929450
 LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
 DTSTART:20270110T090000Z
 SUMMARY:Allieve  - Girone C / Giornata 1 - HC RAINBOW SAMPIERDARENA - HC GENOVA RAINBOW
-UID:d30b2921-64d5-4d5c-a6c3-0769b18de20a@d30b.org
+UID:408c71e6-6c5f-422c-893c-035f79b01204@408c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 3\nGara 291\nPalazinola - Via Antonio Brilla\, snc Savona\nHC GENOVA RAINBOW - CUS PISA ASD
@@ -15,23 +23,7 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20270207T150000Z
 SUMMARY:Allieve  - Girone C / Giornata 3 - HC GENOVA RAINBOW - CUS PISA ASD
-UID:3d37bd0e-b25e-4bf9-8dbd-e37250bdf9bf@3d37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone C / Giornata 3\nGara 288\nPalazinola - Via Antonio Brilla\, snc Savona\nHF GENOVA 1980 - HC GENOVA RAINBOW
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20270207T080000Z
-SUMMARY:Allieve  - Girone C / Giornata 3 - HF GENOVA 1980 - HC GENOVA RAINBOW
-UID:8e698f31-0068-42c8-96c0-f998f6f045c0@8e69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 285\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCUS PISA ASD - HC GENOVA RAINBOW
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20270131T100000Z
-SUMMARY:Allieve  - Girone C / Giornata 2 - CUS PISA ASD - HC GENOVA RAINBOW
-UID:ed87ee93-24f1-46aa-b05a-33354fb8c64c@ed87.org
+UID:2b980a73-d11c-43c9-8234-a8c323f7a8cd@2b98.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 2\nGara 287\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nHC GENOVA RAINBOW - HC RAINBOW SAMPIERDARENA
@@ -39,7 +31,15 @@ GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
 DTSTART:20270131T130000Z
 SUMMARY:Allieve  - Girone C / Giornata 2 - HC GENOVA RAINBOW - HC RAINBOW SAMPIERDARENA
-UID:89cae70a-4aec-4315-ae33-ca5e22123e0b@89ca.org
+UID:f3db3b8b-7e11-484c-8a2d-caa9bf02dd09@f3db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve  - Girone C / Giornata 3\nGara 288\nPalazinola - Via Antonio Brilla\, snc Savona\nHF GENOVA 1980 - HC GENOVA RAINBOW
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20270207T080000Z
+SUMMARY:Allieve  - Girone C / Giornata 3 - HF GENOVA 1980 - HC GENOVA RAINBOW
+UID:84dd65a5-34ef-44de-9267-96b1760458bf@84dd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone C / Giornata 1\nGara 282\nPISTA DI PATTINAGGIO E PALESTRA FORNACI  - VIA DEL FORNACIONE\, 78 PISTOIA\nHC GENOVA RAINBOW - HF GENOVA 1980
@@ -47,6 +47,6 @@ GEO:43.944387;10.929450
 LOCATION:Via del Fornacione\, Le Fornaci\, Candeglia\, Pistoia\, Toscana\, 51100\, Italia
 DTSTART:20270110T120000Z
 SUMMARY:Allieve  - Girone C / Giornata 1 - HC GENOVA RAINBOW - HF GENOVA 1980
-UID:c05bd9e9-ccac-41c9-835f-a8fe2bfef672@c05b.org
+UID:6e7c7aed-189d-4cc3-8762-16aab02e156a@6e7c.org
 END:VEVENT
 END:VCALENDAR

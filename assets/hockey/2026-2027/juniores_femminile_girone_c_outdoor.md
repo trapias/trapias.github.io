@@ -57,6 +57,8 @@ Geo: Geo(latitude=43.3863999, longitude=13.6546703)
 
 <strong>HOCKEY CLUB TIBERINA A.S.D. - AZ HOCKEY TEAM</strong>
 
+**Risultato: 14-0**
+
 Gara: 595
 
 Campo: EUROMA STADIUM 
