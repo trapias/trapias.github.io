@@ -695,7 +695,7 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 
 <strong>HT SARDEGNA - HOCKEY SU PRATO VALCHISONE</strong>
 
-**Risultato: 4-5**
+**Risultato: 4-6**
 
 Gara: 41
 

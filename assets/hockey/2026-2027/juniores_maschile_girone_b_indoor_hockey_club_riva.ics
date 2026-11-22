@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 467\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nHOCKEY CLUB RIVA - CUS PADOVA ASD
+GEO:45.215044;11.606644
+LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
+DTSTART:20270110T110000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - HOCKEY CLUB RIVA - CUS PADOVA ASD
+UID:301a5706-52ed-44b2-84bf-807a1340c4e3@301a.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 469\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nHOCKEY CLUB RIVA - HOCKEY TEAM BOLOGNA
 GEO:45.215044;11.606644
 LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
 DTSTART:20270110T140000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - HOCKEY CLUB RIVA - HOCKEY TEAM BOLOGNA
-UID:d15647cf-9219-40ac-9d4f-569c148c24bd@d156.org
+UID:fed02956-9ff3-4586-a4db-17aba44949de@fed0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 463\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nHOCKEY TEAM BOLOGNA - HOCKEY CLUB RIVA
@@ -15,23 +23,7 @@ GEO:45.215044;11.606644
 LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
 DTSTART:20261227T110000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - HOCKEY TEAM BOLOGNA - HOCKEY CLUB RIVA
-UID:cac3cac8-1e02-43b0-ae3c-3f9eeedb2e94@cac3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 461\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nCUS PADOVA ASD - HOCKEY CLUB RIVA
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20261220T140000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - CUS PADOVA ASD - HOCKEY CLUB RIVA
-UID:c06527d5-6096-48c6-a0c7-87918113568f@c065.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Maschile  - Girone B / Giornata 3\nGara 467\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nHOCKEY CLUB RIVA - CUS PADOVA ASD
-GEO:45.215044;11.606644
-LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
-DTSTART:20270110T110000Z
-SUMMARY:Juniores Maschile  - Girone B / Giornata 3 - HOCKEY CLUB RIVA - CUS PADOVA ASD
-UID:a8044014-1e3f-4c7d-b95e-f0b3dfb96ea2@a804.org
+UID:6429bf17-39e0-4be9-b62b-89bd8e9a076a@6429.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 2\nGara 465\npalestra tresto di ospedaletto euganeo - via filippi nuova\, 1 Ospedaletto Euganeo\nCSP SAN GIORGIO - HOCKEY CLUB RIVA
@@ -39,7 +31,15 @@ GEO:45.215044;11.606644
 LOCATION:Via Filippi Nuova\, Tresto\, Ospedaletto Euganeo\, Padova\, Veneto\, 35045\, Italia
 DTSTART:20261227T140000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 2 - CSP SAN GIORGIO - HOCKEY CLUB RIVA
-UID:de24807d-f857-4211-904d-a4a653d32605@de24.org
+UID:fd4a0423-c939-4fe9-8be8-ed2ca1e781d0@fd4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 461\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nCUS PADOVA ASD - HOCKEY CLUB RIVA
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20261220T140000Z
+SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - CUS PADOVA ASD - HOCKEY CLUB RIVA
+UID:d59e71c2-75f2-46bb-b648-fd3b87633e01@d59e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Maschile  - Girone B / Giornata 1\nGara 459\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nCSP SAN GIORGIO - HOCKEY CLUB RIVA
@@ -47,6 +47,6 @@ GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
 DTSTART:20261220T110000Z
 SUMMARY:Juniores Maschile  - Girone B / Giornata 1 - CSP SAN GIORGIO - HOCKEY CLUB RIVA
-UID:758acb93-72d8-4e42-a12b-8fc6ead61bca@758a.org
+UID:6e663d82-b648-4e16-9034-712dae001455@6e66.org
 END:VEVENT
 END:VCALENDAR
