@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 1\nGara 722\nOpera Salesiana San Giovanni Bosco - VIALE SAN GIOVANNI BOSCO\, 13 L'AQUILA\nL'AQUILA HOCKEY - AZ HOCKEY TEAM
-GEO:42.354854;13.394494
-LOCATION:Viale Don Bosco\, Quarto di San Pietro\, Torretta\, L'Aquila\, Abruzzo\, 67100\, Italia
-DTSTART:20270228T110000Z
-SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 1 - L'AQUILA HOCKEY - AZ HOCKEY TEAM
-UID:ab47dc0c-650b-428b-936b-c345c7bb5cb0@ab47.org
+DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 6\nGara 733\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - AZ HOCKEY TEAM
+GEO:43.386400;13.654670
+LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
+DTSTART:20270404T120000Z
+SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 6 - H.POTENZA PICENA - AZ HOCKEY TEAM
+UID:7fb323f1-f374-4ec0-9a86-84d51bd54554@7fb3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 2\nGara 725\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - ASD HOCKEY CLUB MOGLIANO\n\nRisultato: 1-12
@@ -15,7 +15,15 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20261025T123000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 2 - AZ HOCKEY TEAM - ASD HOCKEY CLUB MOGLIANO
-UID:9b0b039c-bec8-4be4-9dfe-0e8aa607c098@9b0b.org
+UID:074fd494-cb8f-4054-93a0-e8ea99fa7c50@074f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 1\nGara 722\nOpera Salesiana San Giovanni Bosco - VIALE SAN GIOVANNI BOSCO\, 13 L'AQUILA\nL'AQUILA HOCKEY - AZ HOCKEY TEAM
+GEO:42.354854;13.394494
+LOCATION:Viale Don Bosco\, Quarto di San Pietro\, Torretta\, L'Aquila\, Abruzzo\, 67100\, Italia
+DTSTART:20270228T110000Z
+SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 1 - L'AQUILA HOCKEY - AZ HOCKEY TEAM
+UID:f971d06d-9907-4f69-a0f9-963506788ca0@f971.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 3\nGara 727\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - H.POTENZA PICENA\n\nRisultato: 0-16
@@ -23,7 +31,7 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20261108T100000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 3 - AZ HOCKEY TEAM - H.POTENZA PICENA
-UID:dca4838d-b070-4751-b8d1-0076d7b69aa8@dca4.org
+UID:2f9e05f6-debf-4f61-903a-f814f1e0c8b0@2f9e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 5\nGara 731\nBAGLIANO - STRADA PROVINCIALE 72\, 25 MOGLIANO\nASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM
@@ -31,15 +39,7 @@ GEO:43.172615;13.487342
 LOCATION:Strada Provinciale 72 Mogliano - Fiume\, Piani d'Ete\, Mogliano\, Macerata\, Marche\, 63834\, Italia
 DTSTART:20270320T160000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 5 - ASD HOCKEY CLUB MOGLIANO - AZ HOCKEY TEAM
-UID:88fdd50e-140a-4da2-af01-240c7e48d9c0@88fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 6\nGara 733\nSTADIO HOCKEY POTENZA PICENA - CONTRADA SAN GIRIO\, SNC Potenza Picena\nH.POTENZA PICENA - AZ HOCKEY TEAM
-GEO:43.386400;13.654670
-LOCATION:Contrada San Girio\, San Girio\, Potenza Picena\, Macerata\, Italia
-DTSTART:20270404T120000Z
-SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 6 - H.POTENZA PICENA - AZ HOCKEY TEAM
-UID:461a993a-1f22-4d82-a497-729f11dc1efa@461a.org
+UID:91558bec-e945-49d8-90cb-e97db9700264@9155.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allievi - OUTDOOR  - Girone D2 / Giornata 4\nGara 728\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - L'AQUILA HOCKEY
@@ -47,6 +47,6 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20270306T120000Z
 SUMMARY:Allievi - OUTDOOR  - Girone D2 / Giornata 4 - AZ HOCKEY TEAM - L'AQUILA HOCKEY
-UID:ea794bff-1f71-4750-8300-53840f6ae9a6@ea79.org
+UID:7d67937c-8d2e-4482-9c1d-a3cd39ab0474@7d67.org
 END:VEVENT
 END:VCALENDAR
