@@ -162,6 +162,8 @@ Geo: Geo(latitude=38.1397618, longitude=13.3164366)
 
 <strong>POLISPORTIVA GALATEA ASD - ASD I CICLOPI</strong>
 
+**Risultato: 21-0**
+
 Gara: 1022
 
 Campo: DUSMET 

@@ -22,6 +22,8 @@ Geo: Geo(latitude=41.9321224, longitude=12.486847)
 
 <strong>ASD HOCKEY CLUB ROMA - H.POTENZA PICENA</strong>
 
+**Risultato: 2-1**
+
 Gara: 557
 
 Campo: COMPL.SPORT.TRE FONTANE ESEDRA SINISTRA 

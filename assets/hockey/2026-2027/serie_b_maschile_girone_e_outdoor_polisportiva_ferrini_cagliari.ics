@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - OUTDOOR - Girone E / Giornata 2\nGara 1042\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI CAGLIARI - CUS CAGLIARI
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20270227T140000Z
-SUMMARY:Serie B Maschile - OUTDOOR - Girone E / Giornata 2 - POLISPORTIVA FERRINI CAGLIARI - CUS CAGLIARI
-UID:454ac02c-9879-497d-885d-f9c5f101c21c@454a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie B Maschile - OUTDOOR - Girone E / Giornata 3\nGara 1046\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI CAGLIARI - A.S.D. POLISPORTIVA  JUVENILIA RIS.
-GEO:39.235186;9.139409
-LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
-DTSTART:20270110T100000Z
-SUMMARY:Serie B Maschile - OUTDOOR - Girone E / Giornata 3 - POLISPORTIVA FERRINI CAGLIARI - A.S.D. POLISPORTIVA  JUVENILIA RIS.
-UID:f8abcc0e-af06-40d2-b3bf-2a0c7c3a159b@f8ab.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - OUTDOOR - Girone E / Giornata 5\nGara 1051\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI CAGLIARI - ASS ASD AMATORI HOCKEY
 GEO:39.235186;9.139409
 LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
 DTSTART:20270131T100000Z
 SUMMARY:Serie B Maschile - OUTDOOR - Girone E / Giornata 5 - POLISPORTIVA FERRINI CAGLIARI - ASS ASD AMATORI HOCKEY
-UID:59f2343c-7691-4286-b049-d9e539cb6b0a@59f2.org
+UID:dc907832-fa79-4654-b779-9a701cf7218b@dc90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - OUTDOOR - Girone E / Giornata 2\nGara 1042\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI CAGLIARI - CUS CAGLIARI
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20270227T140000Z
+SUMMARY:Serie B Maschile - OUTDOOR - Girone E / Giornata 2 - POLISPORTIVA FERRINI CAGLIARI - CUS CAGLIARI
+UID:ccc0ca00-1e45-4375-a6e9-2f7f47f2adc1@ccc0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - OUTDOOR - Girone E / Giornata 4\nGara 1047\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI CAGLIARI - MENHIR H.C.
@@ -31,7 +23,15 @@ GEO:39.235186;9.139409
 LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
 DTSTART:20270220T140000Z
 SUMMARY:Serie B Maschile - OUTDOOR - Girone E / Giornata 4 - POLISPORTIVA FERRINI CAGLIARI - MENHIR H.C.
-UID:2d2e4fff-8be7-456c-a5d2-1ce9281a2e44@2d2e.org
+UID:623bfb93-a3d9-4315-8603-ba318d317658@623b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie B Maschile - OUTDOOR - Girone E / Giornata 3\nGara 1046\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI CAGLIARI - A.S.D. POLISPORTIVA  JUVENILIA RIS.
+GEO:39.235186;9.139409
+LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
+DTSTART:20270110T100000Z
+SUMMARY:Serie B Maschile - OUTDOOR - Girone E / Giornata 3 - POLISPORTIVA FERRINI CAGLIARI - A.S.D. POLISPORTIVA  JUVENILIA RIS.
+UID:4cc4a52e-ec44-4a45-895e-541b30c900b5@4cc4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie B Maschile - OUTDOOR - Girone E / Giornata 1\nGara 1038\nA. Maxia - VIALE MARCONI\, KM 5.400 Cagliari\nPOLISPORTIVA FERRINI CAGLIARI - S.G. AMSICORA ASD
@@ -39,6 +39,6 @@ GEO:39.235186;9.139409
 LOCATION:Via Guglielmo Marconi\, Terramàini - Is Bingias\, Genneruxi\, Casteddu/Cagliari\, Sardigna/Sardegna\, 09131\, Italia
 DTSTART:20270224T183000Z
 SUMMARY:Serie B Maschile - OUTDOOR - Girone E / Giornata 1 - POLISPORTIVA FERRINI CAGLIARI - S.G. AMSICORA ASD
-UID:3bf48413-e6fc-483a-ac4b-99eae0a36a39@3bf4.org
+UID:dd2c9c2c-df0b-4e25-9a96-f22e26092085@dd2c.org
 END:VEVENT
 END:VCALENDAR

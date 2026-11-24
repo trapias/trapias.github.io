@@ -78,7 +78,7 @@ Geo: Geo(latitude=44.7031944, longitude=7.8366967)
 
 # Ragazzi - OUTDOOR  - Girone A / Giornata 3
 
-## Dom 22/11/2026 11.00
+## -
 
 <strong>A.S.D. S.H. PAOLO BONOMI - SCUOLA HOCKEY INDER SINGH</strong>
 
