@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile  - Girone B / Giornata 3\nGara 421\nPALARECORD CUS - via pilastro 8 BOLOGNA\nASD ADIGE UHC - CUS BOLOGNA
-GEO:44.513155;11.397006
-LOCATION:8\, Via Ada Negri\, Pilastro\, San Donato-San Vitale\, San Sisto\, Bologna\, Emilia-Romagna\, 40127\, Italia
-DTSTART:20270106T140000Z
-SUMMARY:Juniores Femminile  - Girone B / Giornata 3 - ASD ADIGE UHC - CUS BOLOGNA
-UID:1e29ba7d-3289-4edb-bdba-1b2ed73e31c4@1e29.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone B / Giornata 3\nGara 418\nPALARECORD CUS - via pilastro 8 BOLOGNA\nMILANO HP - CUS BOLOGNA
 GEO:44.513155;11.397006
 LOCATION:8\, Via Ada Negri\, Pilastro\, San Donato-San Vitale\, San Sisto\, Bologna\, Emilia-Romagna\, 40127\, Italia
 DTSTART:20270106T100000Z
 SUMMARY:Juniores Femminile  - Girone B / Giornata 3 - MILANO HP - CUS BOLOGNA
-UID:c47c9c62-c8ff-4dee-9d2f-37c4e031697b@c47c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Juniores Femminile  - Girone B / Giornata 2\nGara 416\npalacus - via circonvallazione est idroscalo 11 segrate\nHOCKEY CLUB RIVA - CUS BOLOGNA
-GEO:45.468790;9.292811
-LOCATION:Centro Universitario Sportivo Milano\, 11\, Via Arnoldo Mondadori\, Tregarezzo\, San Felice\, Segrate\, Milano\, Lombardia\, 20054\, Italia
-DTSTART:20261213T143000Z
-SUMMARY:Juniores Femminile  - Girone B / Giornata 2 - HOCKEY CLUB RIVA - CUS BOLOGNA
-UID:2be58ba2-2340-425b-a127-ea74822338c2@2be5.org
+UID:ebf871f4-791e-429d-9052-b86220b9ea65@ebf8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone B / Giornata 1\nGara 413\nComunale Mori - Via Lomba\, 23 Mori\nCUS BOLOGNA - HOCKEY CLUB RIVA
@@ -31,7 +15,15 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20261206T140000Z
 SUMMARY:Juniores Femminile  - Girone B / Giornata 1 - CUS BOLOGNA - HOCKEY CLUB RIVA
-UID:32fb54bb-9284-4280-bb40-4e87ebc8e4dd@32fb.org
+UID:fa02ddf1-c6dc-421d-a034-08df3618c068@fa02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile  - Girone B / Giornata 2\nGara 416\npalacus - via circonvallazione est idroscalo 11 segrate\nHOCKEY CLUB RIVA - CUS BOLOGNA
+GEO:45.468790;9.292811
+LOCATION:Centro Universitario Sportivo Milano\, 11\, Via Arnoldo Mondadori\, Tregarezzo\, San Felice\, Segrate\, Milano\, Lombardia\, 20054\, Italia
+DTSTART:20261213T143000Z
+SUMMARY:Juniores Femminile  - Girone B / Giornata 2 - HOCKEY CLUB RIVA - CUS BOLOGNA
+UID:a62c6b61-6d75-4a3d-8694-e9e53f887cab@a62c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone B / Giornata 1\nGara 411\nComunale Mori - Via Lomba\, 23 Mori\nCUS BOLOGNA - MILANO HP
@@ -39,7 +31,15 @@ GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
 DTSTART:20261206T110000Z
 SUMMARY:Juniores Femminile  - Girone B / Giornata 1 - CUS BOLOGNA - MILANO HP
-UID:4f1f4089-696c-465a-988a-4885c7e429ac@4f1f.org
+UID:716b4c62-b7f8-4c73-9c2f-408136cdef73@716b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Juniores Femminile  - Girone B / Giornata 3\nGara 421\nPALARECORD CUS - via pilastro 8 BOLOGNA\nASD ADIGE UHC - CUS BOLOGNA
+GEO:44.513155;11.397006
+LOCATION:8\, Via Ada Negri\, Pilastro\, San Donato-San Vitale\, San Sisto\, Bologna\, Emilia-Romagna\, 40127\, Italia
+DTSTART:20270106T140000Z
+SUMMARY:Juniores Femminile  - Girone B / Giornata 3 - ASD ADIGE UHC - CUS BOLOGNA
+UID:883415d4-8700-4231-98eb-db35f610b3a1@8834.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Juniores Femminile  - Girone B / Giornata 2\nGara 415\npalacus - via circonvallazione est idroscalo 11 segrate\nCUS BOLOGNA - ASD ADIGE UHC
@@ -47,6 +47,6 @@ GEO:45.468790;9.292811
 LOCATION:Centro Universitario Sportivo Milano\, 11\, Via Arnoldo Mondadori\, Tregarezzo\, San Felice\, Segrate\, Milano\, Lombardia\, 20054\, Italia
 DTSTART:20261213T130000Z
 SUMMARY:Juniores Femminile  - Girone B / Giornata 2 - CUS BOLOGNA - ASD ADIGE UHC
-UID:3bdedc28-3311-47fe-a41e-8d2b9fe87a96@3bde.org
+UID:dccbcad3-0a4c-44d6-a6e4-57f33fac91de@dccb.org
 END:VEVENT
 END:VCALENDAR

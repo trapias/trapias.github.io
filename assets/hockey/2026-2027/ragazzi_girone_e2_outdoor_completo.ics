@@ -2,36 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 1\nGara 568\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR HOCKEY ASD - AZ HOCKEY TEAM\n\nRisultato: 3-1
-GEO:41.820485;12.456269
-LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20261107T150000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 1 - TEVERE EUR HOCKEY ASD - AZ HOCKEY TEAM
-UID:ffae4807-7bb2-4934-82d6-15a2eed3fa7a@ffae.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 2\nGara 569\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - TEVERE EUR HOCKEY ASD\n\nRisultato: 1-1
 GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20261018T100000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 2 - LAZIO HOCKEY - TEVERE EUR HOCKEY ASD
-UID:ed2ad49e-2c9c-44bf-a6e1-73375d43bea3@ed2a.org
+UID:0aa68ef2-ef1c-4462-b616-529cbf0f1741@0aa6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 5\nGara 572\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR HOCKEY ASD - LAZIO HOCKEY
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 1\nGara 568\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR HOCKEY ASD - AZ HOCKEY TEAM\n\nRisultato: 3-1
 GEO:41.820485;12.456269
 LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
-DTSTART:20270321T110000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 5 - TEVERE EUR HOCKEY ASD - LAZIO HOCKEY
-UID:d0fd26aa-c7c8-4489-b935-cec94d3627d9@d0fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 6\nGara 573\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - LAZIO HOCKEY
-GEO:42.043231;13.437583
-LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
-DTSTART:20270411T100000Z
-SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 6 - AZ HOCKEY TEAM - LAZIO HOCKEY
-UID:fe8afb94-8512-4eda-ab51-5f84a32ba217@fe8a.org
+DTSTART:20261107T150000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 1 - TEVERE EUR HOCKEY ASD - AZ HOCKEY TEAM
+UID:a389f220-252a-4cc4-bb3a-fb0a9fcf256a@a389.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 3\nGara 570\nCOMPL.SPORT.TRE FONTANE ESEDRA SINISTRA - VIA TRE FONTANE\, 25 ROMA\nLAZIO HOCKEY - AZ HOCKEY TEAM\n\nRisultato: 6-0
@@ -39,7 +23,15 @@ GEO:41.838527;12.476376
 LOCATION:Via delle Tre Fontane\, E.U.R.\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00142\, Italia
 DTSTART:20261115T110000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 3 - LAZIO HOCKEY - AZ HOCKEY TEAM
-UID:d4f47fb6-1293-4c46-9c31-be5531e56f72@d4f4.org
+UID:7ec2c33b-682c-4a5b-b794-2fd8ab76e4af@7ec2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 6\nGara 573\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - LAZIO HOCKEY
+GEO:42.043231;13.437583
+LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
+DTSTART:20270411T100000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 6 - AZ HOCKEY TEAM - LAZIO HOCKEY
+UID:6a5a0731-da10-494c-848d-9a2983635db3@6a5a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 4\nGara 571\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - TEVERE EUR HOCKEY ASD
@@ -47,6 +39,14 @@ GEO:42.043231;13.437583
 LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
 DTSTART:20270307T130000Z
 SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 4 - AZ HOCKEY TEAM - TEVERE EUR HOCKEY ASD
-UID:7e75c67a-6f71-4e1e-ba6c-6ee81c5e1bee@7e75.org
+UID:6b35b2b4-dba5-4017-abd6-4dc70b927aac@6b35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi - OUTDOOR  - Girone E2 / Giornata 5\nGara 572\nEUROMA STADIUM - Via Bilbao\, 12 Roma\nTEVERE EUR HOCKEY ASD - LAZIO HOCKEY
+GEO:41.820485;12.456269
+LOCATION:12\, Via Bilbao\, Torrino\, Municipio Roma IX\, Roma\, Roma Capitale\, Lazio\, 00144\, Italia
+DTSTART:20270321T110000Z
+SUMMARY:Ragazzi - OUTDOOR  - Girone E2 / Giornata 5 - TEVERE EUR HOCKEY ASD - LAZIO HOCKEY
+UID:fa550db3-a50f-4ad9-ae77-e6a576450149@fa55.org
 END:VEVENT
 END:VCALENDAR

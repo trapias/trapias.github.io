@@ -268,7 +268,7 @@ Geo: Geo(latitude=45.0165862, longitude=7.6565345)
 
 
 <!-- VALCHISONE_START -->
-## Dom 24/01/2027 15.00 ⭐
+## Dom 24/01/2027 17.00 ⭐
 
 <strong>HOCKEY SU PRATO VALCHISONE - SCUOLA HOCKEY INDER SINGH</strong>
 
@@ -299,7 +299,7 @@ Geo: Geo(latitude=45.0335085, longitude=7.6333842)
 
 
 <!-- VALCHISONE_START -->
-## Dom 24/01/2027 17.00 ⭐
+## Dom 24/01/2027 15.00 ⭐
 
 <strong>ASD CERNUSCO FIELD HOCKEY - HOCKEY SU PRATO VALCHISONE</strong>
 
