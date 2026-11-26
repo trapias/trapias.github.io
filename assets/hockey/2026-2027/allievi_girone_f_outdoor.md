@@ -25,6 +25,8 @@ Geo: Geo(latitude=39.6941171, longitude=8.7021294)
 
 <strong>S.G. AMSICORA ASD - CUS CAGLIARI</strong>
 
+**Risultato: 5-4**
+
 Gara: 1060
 
 Campo: AMSICORA 
