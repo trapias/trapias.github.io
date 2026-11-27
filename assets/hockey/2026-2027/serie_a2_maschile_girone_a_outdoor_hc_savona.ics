@@ -2,44 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 488\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - HC SAVONA
-GEO:42.043231;13.437583
-LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
-DTSTART:20270508T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8 - AZ HOCKEY TEAM - HC SAVONA
-UID:a427f74a-4ba2-4cac-b7a3-86b6475bb0e4@a427.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 491\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - HC SAVONA
-GEO:45.601581;11.733989
-LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
-DTSTART:20270522T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9 - HC GRANTORTO - HC SAVONA
-UID:f9e80e57-4995-495e-8ed0-32d53456a8bc@f9e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 469\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA HOCKEY 1980 - HC SAVONA
-GEO:44.427741;8.919744
-LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
-DTSTART:20270313T140000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2 - GENOVA HOCKEY 1980 - HC SAVONA
-UID:b8c2c838-a50b-4dca-bacc-47b9de814257@b8c2.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6\nGara 483\nCampo Comunale - Via Boccaccio\, snc Cernusco sul Naviglio\nASD CERNUSCO FIELD HOCKEY - HC SAVONA
 GEO:45.531133;9.343345
 LOCATION:Via Giovanni Boccaccio\, Cascina Parolina\, Ronco\, Cernusco sul Naviglio\, Milano\, Lombardia\, 20063\, Italia
 DTSTART:20270424T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 6 - ASD CERNUSCO FIELD HOCKEY - HC SAVONA
-UID:373a387a-1d0f-49d6-8fe4-84fe78b8cdad@373a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7\nGara 484\nCampo Sportivo Augusto Briano - Via Santuario\, snc Savona\nHC SAVONA - GENOVA HOCKEY 1980
-GEO:44.323086;8.464578
-LOCATION:Via Santuario\, Lavagnola\, Savona\, Liguria\, 17100\, Italia
-DTSTART:20270501T130000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7 - HC SAVONA - GENOVA HOCKEY 1980
-UID:08bb0056-3d7d-4b21-8957-7ea4719f15b2@08bb.org
+UID:d3b4fd07-8dc7-4fe4-b645-de3bb98e85ae@d3b4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3\nGara 473\nCampo Sportivo Augusto Briano - Via Santuario\, snc Savona\nHC SAVONA - AZ HOCKEY TEAM
@@ -47,15 +15,31 @@ GEO:44.323086;8.464578
 LOCATION:Via Santuario\, Lavagnola\, Savona\, Liguria\, 17100\, Italia
 DTSTART:20270320T140000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 3 - HC SAVONA - AZ HOCKEY TEAM
-UID:3e1ddaf2-a94b-42db-bed9-7a61eb5aa808@3e1d.org
+UID:32e12c30-2fa0-4109-a5e1-f3fec77bc133@32e1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 1\nGara 468\nCampo Sportivo Augusto Briano - Via Santuario\, snc Savona\nHC SAVONA - ASD CERNUSCO FIELD HOCKEY
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2\nGara 469\nCAMPO G.ARNALDI - VIA BARTOLOMEO BIANCO\, 2B Genova\nGENOVA HOCKEY 1980 - HC SAVONA
+GEO:44.427741;8.919744
+LOCATION:2b\, Via Bartolomeo Bianco\, Lagaccio\, Centro Est\, Genova\, Liguria\, 16134\, Italia
+DTSTART:20270313T140000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 2 - GENOVA HOCKEY 1980 - HC SAVONA
+UID:7ab3d46e-b17b-45f7-a253-9bd49d6a3b5f@7ab3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7\nGara 484\nCampo Sportivo Augusto Briano - Via Santuario\, snc Savona\nHC SAVONA - GENOVA HOCKEY 1980
 GEO:44.323086;8.464578
 LOCATION:Via Santuario\, Lavagnola\, Savona\, Liguria\, 17100\, Italia
-DTSTART:20270306T140000Z
-SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 1 - HC SAVONA - ASD CERNUSCO FIELD HOCKEY
-UID:d8b7af8a-ee12-4796-a537-31e9d77f0099@d8b7.org
+DTSTART:20270501T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 7 - HC SAVONA - GENOVA HOCKEY 1980
+UID:4529e2d1-5408-4ec8-924e-6cfda4a2df97@4529.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8\nGara 488\nCampo Sportivo Comunale Hockey Loc. Cretara - Via dei Gladioli\, snc Avezzano\nAZ HOCKEY TEAM - HC SAVONA
+GEO:42.043231;13.437583
+LOCATION:Via dei Gladioli\, Avezzano\, L'Aquila\, 67051\, Italia
+DTSTART:20270508T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 8 - AZ HOCKEY TEAM - HC SAVONA
+UID:a8df34b2-36a2-48a2-9cc7-10cc6b320842@a8df.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10\nGara 493\nCampo Sportivo Augusto Briano - Via Santuario\, snc Savona\nHC SAVONA - VALVERDE HOCKEY 2018
@@ -63,7 +47,15 @@ GEO:44.323086;8.464578
 LOCATION:Via Santuario\, Lavagnola\, Savona\, Liguria\, 17100\, Italia
 DTSTART:20270529T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 10 - HC SAVONA - VALVERDE HOCKEY 2018
-UID:81e1de13-0cd4-4e8e-b624-534a5d4ff3c9@81e1.org
+UID:7abeb0b6-f7cc-4f11-a367-dce1245071a6@7abe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 1\nGara 468\nCampo Sportivo Augusto Briano - Via Santuario\, snc Savona\nHC SAVONA - ASD CERNUSCO FIELD HOCKEY
+GEO:44.323086;8.464578
+LOCATION:Via Santuario\, Lavagnola\, Savona\, Liguria\, 17100\, Italia
+DTSTART:20270306T140000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 1 - HC SAVONA - ASD CERNUSCO FIELD HOCKEY
+UID:f84a0710-866d-4ac1-a752-c14e578bc2a4@f84a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 4\nGara 476\nCampo Sportivo Augusto Briano - Via Santuario\, snc Savona\nHC SAVONA - HC GRANTORTO
@@ -71,7 +63,7 @@ GEO:44.323086;8.464578
 LOCATION:Via Santuario\, Lavagnola\, Savona\, Liguria\, 17100\, Italia
 DTSTART:20270403T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 4 - HC SAVONA - HC GRANTORTO
-UID:4fb4e338-4e6c-417d-b032-753da8816550@4fb4.org
+UID:4eaae810-ba95-4f3d-a9dd-8a56a317f409@4eaa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5\nGara 478\nComunale Valverde - Via Seminara\, 28 Valverde\nVALVERDE HOCKEY 2018 - HC SAVONA
@@ -79,6 +71,14 @@ GEO:37.573746;15.121129
 LOCATION:Via Seminara\, Portiere\, Fontana-Casalrosato\, Maugeri\, Valverde\, Catania\, Sicilia\, 95028\, Italia
 DTSTART:20270410T130000Z
 SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 5 - VALVERDE HOCKEY 2018 - HC SAVONA
-UID:19810c76-8f20-429b-8e28-d5f4de9de6bf@1981.org
+UID:264571a3-9d30-433b-ba1e-b0e5153b95fc@2645.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9\nGara 491\nGrantorto Hockey Stadium - Viale dello sport\, 7 Grantorto\nHC GRANTORTO - HC SAVONA
+GEO:45.601581;11.733989
+LOCATION:Viale dello Sport\, Grantorto\, Padova\, Veneto\, 35010\, Italia
+DTSTART:20270522T130000Z
+SUMMARY:Serie A2 Maschile - OUTDOOR  - Girone A / Giornata 9 - HC GRANTORTO - HC SAVONA
+UID:402fe118-1d09-41c9-a5c2-8ce880b30c06@402f.org
 END:VEVENT
 END:VCALENDAR

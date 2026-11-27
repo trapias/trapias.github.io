@@ -22,6 +22,8 @@ Geo: Geo(latitude=43.9509826, longitude=10.8292878)
 
 <strong>HOCKEY CLUB BONDENO - HOCKEY TEAM BOLOGNA</strong>
 
+**Risultato: 2-5**
+
 Gara: 389
 
 Campo: A. GIATTI 
@@ -73,6 +75,8 @@ Geo: Geo(latitude=44.4947059, longitude=11.2803018)
 ## Dom 08/11/2026 11.00
 
 <strong>HOCKEY TEAM BOLOGNA - ASD CITTA' DEL TRICOLORE</strong>
+
+**Risultato: 20-0**
 
 Gara: 392
 

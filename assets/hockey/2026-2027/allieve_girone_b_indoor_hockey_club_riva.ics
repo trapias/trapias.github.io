@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone B / Giornata 2\nGara 483\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHOCKEY CLUB RIVA - HOCKEY CLUB BONDENO
-GEO:45.392067;11.876041
-LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
-DTSTART:20270131T140000Z
-SUMMARY:Allieve  - Girone B / Giornata 2 - HOCKEY CLUB RIVA - HOCKEY CLUB BONDENO
-UID:0167849e-7d03-4903-8255-2993b0a0a5fe@0167.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone B / Giornata 1\nGara 479\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD ADIGE UHC - HOCKEY CLUB RIVA
-GEO:44.880264;11.425681
-LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
-DTSTART:20270106T140000Z
-SUMMARY:Allieve  - Girone B / Giornata 1 - ASD ADIGE UHC - HOCKEY CLUB RIVA
-UID:a14a28ea-ff93-4d6a-a90d-0b7da397e6ae@a14a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone B / Giornata 3\nGara 487\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - CUS PADOVA ASD
+DESCRIPTION:Allieve  - Girone B / Giornata 3\nGara 485\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - HOCKEY CLUB BONDENO
 GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20270214T140000Z
-SUMMARY:Allieve  - Girone B / Giornata 3 - HOCKEY CLUB RIVA - CUS PADOVA ASD
-UID:13ec07d6-8b1c-415c-a31d-93a840c8b431@13ec.org
+DTSTART:20270214T110000Z
+SUMMARY:Allieve  - Girone B / Giornata 3 - HOCKEY CLUB RIVA - HOCKEY CLUB BONDENO
+UID:e57ba4a9-92f0-46f1-ae39-a1be5737bc0f@e57b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone B / Giornata 2\nGara 480\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nCUS PADOVA ASD - HOCKEY CLUB RIVA
@@ -31,15 +15,23 @@ GEO:45.392067;11.876041
 LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
 DTSTART:20270131T100000Z
 SUMMARY:Allieve  - Girone B / Giornata 2 - CUS PADOVA ASD - HOCKEY CLUB RIVA
-UID:24c89acf-1a67-4c52-949e-8a2d2f2ef232@24c8.org
+UID:3822f203-18d8-4135-a9fb-0c19b039d61e@3822.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Allieve  - Girone B / Giornata 3\nGara 485\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - HOCKEY CLUB BONDENO
+DESCRIPTION:Allieve  - Girone B / Giornata 3\nGara 487\nComunale Mori - Via Lomba\, 23 Mori\nHOCKEY CLUB RIVA - CUS PADOVA ASD
 GEO:45.851210;10.986574
 LOCATION:Via Lomba\, Villanuova\, Mori\, Comunità della Vallagarina\, Provincia di Trento\, Trentino-Alto Adige/Südtirol\, 38065\, Italia
-DTSTART:20270214T110000Z
-SUMMARY:Allieve  - Girone B / Giornata 3 - HOCKEY CLUB RIVA - HOCKEY CLUB BONDENO
-UID:40d40cf4-e500-453b-bfa7-f575647fd58a@40d4.org
+DTSTART:20270214T140000Z
+SUMMARY:Allieve  - Girone B / Giornata 3 - HOCKEY CLUB RIVA - CUS PADOVA ASD
+UID:a2a36165-1cfe-47c8-ad57-ad1be7230e74@a2a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve  - Girone B / Giornata 1\nGara 479\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nASD ADIGE UHC - HOCKEY CLUB RIVA
+GEO:44.880264;11.425681
+LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
+DTSTART:20270106T140000Z
+SUMMARY:Allieve  - Girone B / Giornata 1 - ASD ADIGE UHC - HOCKEY CLUB RIVA
+UID:98b413ba-a440-4cd8-a97a-c5e3b0ccbde1@98b4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Allieve  - Girone B / Giornata 1\nGara 477\nPalestra Adriano Bonini - Bondeno - Via Napoleonica\, snc\, snc Bondeno\nCUS PADOVA ASD - HOCKEY CLUB RIVA
@@ -47,6 +39,14 @@ GEO:44.880264;11.425681
 LOCATION:87\, Via Napoleonica\, Schiavona\, Ospitale\, Bondeno\, Unione Alto Ferrarese\, Ferrara\, Emilia-Romagna\, 44012\, Italia
 DTSTART:20270106T110000Z
 SUMMARY:Allieve  - Girone B / Giornata 1 - CUS PADOVA ASD - HOCKEY CLUB RIVA
-UID:90b1f07d-1c6e-4f69-8fac-1bc5106aeea9@90b1.org
+UID:f9a62755-ab5f-46bb-9702-be2097c3d23a@f9a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Allieve  - Girone B / Giornata 2\nGara 483\nPALESTRA CUS PADOVA - VIA GIORDANO BRUNO\, 27 Padova\nHOCKEY CLUB RIVA - HOCKEY CLUB BONDENO
+GEO:45.392067;11.876041
+LOCATION:Via Giordano Bruno\, Madonna Pellegrina\, Padova\, Veneto\, 35123\, Italia
+DTSTART:20270131T140000Z
+SUMMARY:Allieve  - Girone B / Giornata 2 - HOCKEY CLUB RIVA - HOCKEY CLUB BONDENO
+UID:08b7438d-ae0e-46db-99bb-941a1502999c@08b7.org
 END:VEVENT
 END:VCALENDAR

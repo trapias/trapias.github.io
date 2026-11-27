@@ -79,7 +79,7 @@ Location: Via Guglielmo Marconi, Terramàini - Is Bingias, Genneruxi, Casteddu/C
 Geo: Geo(latitude=39.2351856, longitude=9.1394085)
 
 
-## Dom 29/11/2026 11.00
+## Dom 21/02/2027 11.00
 
 <strong>A.S.D. POLISPORTIVA  JUVENILIA RIS. - S.G. AMSICORA ASD</strong>
 

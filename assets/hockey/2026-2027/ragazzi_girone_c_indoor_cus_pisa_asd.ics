@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 193\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - ASD GENOVA HOCKEY CLUB
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20261220T140000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 1 - CUS PISA ASD - ASD GENOVA HOCKEY CLUB
-UID:3dc0120e-90c0-4934-a408-0be8e328c9b6@3dc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 198\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - BAD LAKE
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20270124T160000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 2 - CUS PISA ASD - BAD LAKE
-UID:0cffa7e7-cd34-434c-bb54-aedda8deaf01@0cff.org
+DESCRIPTION:Ragazzi  - Girone C / Giornata 3\nGara 199\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD GENOVA HOCKEY CLUB - CUS PISA ASD
+GEO:45.240416;8.698198
+LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
+DTSTART:20270206T100000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 3 - ASD GENOVA HOCKEY CLUB - CUS PISA ASD
+UID:5c6f10f2-2caa-4735-8665-f1cd92e5bdc6@5c6f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone C / Giornata 3\nGara 201\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nCUS PISA ASD - GENOVA HOCKEY 1980
@@ -23,7 +15,23 @@ GEO:45.240416;8.698198
 LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
 DTSTART:20270206T130000Z
 SUMMARY:Ragazzi  - Girone C / Giornata 3 - CUS PISA ASD - GENOVA HOCKEY 1980
-UID:2c8110d9-4090-41ee-b91a-82be56544731@2c81.org
+UID:076b2bee-e899-40d0-8dcb-eff66c904ede@076b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 193\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - ASD GENOVA HOCKEY CLUB
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20261220T140000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 1 - CUS PISA ASD - ASD GENOVA HOCKEY CLUB
+UID:6d975476-586c-4e83-9c3e-e81d251a6998@6d97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 198\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - BAD LAKE
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20270124T160000Z
+SUMMARY:Ragazzi  - Girone C / Giornata 2 - CUS PISA ASD - BAD LAKE
+UID:3463f745-7386-41b4-be7c-527ebda39534@3463.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone C / Giornata 2\nGara 195\nPalazinola - Via Antonio Brilla\, snc Savona\nGENOVA HOCKEY 1980 - CUS PISA ASD
@@ -31,7 +39,7 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20270124T110000Z
 SUMMARY:Ragazzi  - Girone C / Giornata 2 - GENOVA HOCKEY 1980 - CUS PISA ASD
-UID:dd6a10fc-b6e9-4f0d-866c-96244239f209@dd6a.org
+UID:c0d73d30-f87b-4f01-95c6-fc693dd5f256@c0d7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ragazzi  - Girone C / Giornata 1\nGara 192\nPalazinola - Via Antonio Brilla\, snc Savona\nBAD LAKE - CUS PISA ASD
@@ -39,14 +47,6 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20261220T110000Z
 SUMMARY:Ragazzi  - Girone C / Giornata 1 - BAD LAKE - CUS PISA ASD
-UID:5405c3ec-092b-4856-b441-dc609ca427d5@5405.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ragazzi  - Girone C / Giornata 3\nGara 199\nCENTRO S. COMUNALE - Castello D'Agogna - VIA MILANO\, 65 Castello d'Agogna\nASD GENOVA HOCKEY CLUB - CUS PISA ASD
-GEO:45.240416;8.698198
-LOCATION:Via Milano\, Castello d'Agogna\, Pavia\, Lombardia\, 27036\, Italia
-DTSTART:20270206T100000Z
-SUMMARY:Ragazzi  - Girone C / Giornata 3 - ASD GENOVA HOCKEY CLUB - CUS PISA ASD
-UID:cce7b2ae-746a-48fc-83c8-d4b187086a29@cce7.org
+UID:26823a23-c056-4705-b076-782e588b5af6@2682.org
 END:VEVENT
 END:VCALENDAR
