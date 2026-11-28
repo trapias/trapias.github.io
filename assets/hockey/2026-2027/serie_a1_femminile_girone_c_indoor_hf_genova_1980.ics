@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 111\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - HF GENOVA 1980
-GEO:44.282710;8.445407
-LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
-DTSTART:20270124T130000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - CUS PISA ASD - HF GENOVA 1980
-UID:be5aae09-7bb9-49ff-84b8-c90161dc0c39@be5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 2\nGara 105\nPalaRomanzi - viale Gambaro\, 66 Genova\nASD GENOVA HOCKEY CLUB - HF GENOVA 1980
-GEO:44.399171;8.969494
-LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
-DTSTART:20270102T100000Z
-SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 2 - ASD GENOVA HOCKEY CLUB - HF GENOVA 1980
-UID:18c87724-c9fe-4567-b721-2e12d5c11047@18c8.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 103\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - HF GENOVA 1980
 GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20261220T120000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - CUS PISA ASD - HF GENOVA 1980
-UID:61e40588-e541-4c31-b5e7-3b0588f60704@61e4.org
+UID:c29a05fd-7cb2-41e9-b7b6-02bb6ff3b3fc@c29a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 109\nPalazinola - Via Antonio Brilla\, snc Savona\nHF GENOVA 1980 - ASD GENOVA HOCKEY CLUB
@@ -31,7 +15,15 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20270124T090000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - HF GENOVA 1980 - ASD GENOVA HOCKEY CLUB
-UID:e977ff23-5ced-4005-9561-f4a193ef8d5d@e977.org
+UID:89922539-c9dc-45bd-8f0f-ec53d966bd7f@8992.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 3\nGara 111\nPalazinola - Via Antonio Brilla\, snc Savona\nCUS PISA ASD - HF GENOVA 1980
+GEO:44.282710;8.445407
+LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
+DTSTART:20270124T130000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 3 - CUS PISA ASD - HF GENOVA 1980
+UID:786af8bb-97c2-461a-96ee-274bc696cfde@786a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 1\nGara 101\nPalazinola - Via Antonio Brilla\, snc Savona\nHF GENOVA 1980 - ASD GENOVA HOCKEY CLUB
@@ -39,7 +31,15 @@ GEO:44.282710;8.445407
 LOCATION:Via Antonio Brilla\, Zinola\, Savona\, Liguria\, 17047\, Italia
 DTSTART:20261220T090000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 1 - HF GENOVA 1980 - ASD GENOVA HOCKEY CLUB
-UID:8e686239-4ac2-46e7-8e71-d5400571d688@8e68.org
+UID:4adb140b-d225-4c50-88ed-f9bf4c2708d7@4adb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 2\nGara 105\nPalaRomanzi - viale Gambaro\, 66 Genova\nASD GENOVA HOCKEY CLUB - HF GENOVA 1980
+GEO:44.399171;8.969494
+LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
+DTSTART:20270102T100000Z
+SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 2 - ASD GENOVA HOCKEY CLUB - HF GENOVA 1980
+UID:ce848f31-bfbe-466d-821f-3c21452a7c18@ce84.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Serie A1 Femminile - Indoor  - Girone C / Giornata 2\nGara 107\nPalaRomanzi - viale Gambaro\, 66 Genova\nHF GENOVA 1980 - CUS PISA ASD
@@ -47,6 +47,6 @@ GEO:44.399171;8.969494
 LOCATION:Viale Francesco Gambaro\, Albaro\, Medio Levante\, Genova\, Liguria\, 16146\, Italia
 DTSTART:20270102T140000Z
 SUMMARY:Serie A1 Femminile - Indoor  - Girone C / Giornata 2 - HF GENOVA 1980 - CUS PISA ASD
-UID:615f7354-dbd9-41b2-8c61-9289c913cf28@615f.org
+UID:f60ff2ef-2cb4-453c-bd0f-9b343d72873e@f60f.org
 END:VEVENT
 END:VCALENDAR

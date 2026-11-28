@@ -193,7 +193,7 @@ Geo: Geo(latitude=38.1483059, longitude=15.2175523)
 
 # Allievi - OUTDOOR  - Girone E / Giornata 6
 
-## Dom 29/11/2026 11.00
+## Gio 03/12/2026 17.30
 
 <strong>VALVERDE HOCKEY 2018 - POLISPORTIVA GALATEA ASD</strong>
 

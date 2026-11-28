@@ -16,7 +16,7 @@ Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, It
 Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
 
-## Dom 10/01/2027 10.00
+## Dom 17/01/2027 10.00
 
 <strong>HC RAINBOW SAMPIERDARENA - HC GENOVA RAINBOW</strong>
 
@@ -30,7 +30,7 @@ Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, It
 Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
 
-## Dom 10/01/2027 13.00
+## Dom 17/01/2027 13.00
 
 <strong>HC GENOVA RAINBOW - HF GENOVA 1980</strong>
 
@@ -44,7 +44,7 @@ Location: Via del Fornacione, Le Fornaci, Candeglia, Pistoia, Toscana, 51100, It
 Geo: Geo(latitude=43.9443871, longitude=10.9294496)
 
 
-## Dom 10/01/2027 14.00
+## Dom 17/01/2027 14.00
 
 <strong>CUS PISA ASD - HC RAINBOW SAMPIERDARENA</strong>
 
